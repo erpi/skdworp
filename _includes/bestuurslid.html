@@ -1,0 +1,14 @@
+<h3><strong>{{ include.naam }}</strong><br>{{ include.functie }}</h3>
+<p class="lead">
+{% if include.telefoon %}
+<span class="glyphicon glyphicon-phone-alt"></span>  {{ include.telefoon }}<br>
+{% endif %}
+{% if include.gsm %}
+<span class="glyphicon glyphicon-phone"></span>  {{ include.gsm }}<br>
+{% endif %}
+{% if include.email1 %}
+<span class="glyphicon glyphicon-envelope"></span>
+<script>document.write('  ' + decrypt(46, 77, 'schaken', '{{ include.email1 }}'));</script>
+<noscript> e-mailadres? zet javascript aan ;-)</noscript>
+{% endif %}
+</p>

@@ -1,0 +1,80 @@
+---
+# inspiratie voor e-mail obfuscatie:
+# http://www.grall.name/posts/1/antiSpam-emailAddressObfuscation.html
+# http://www.grall.name/posts/1/onlineTools_obfuscation.html
+# ook volgende links zijn interessant, maar niet gebruikt
+# http://techblog.tilllate.com/2008/07/20/ten-methods-to-obfuscate-e-mail-addresses-compared/
+# http://rot13.florianbersier.com/ en https://github.com/xpressyoo/Email-Obfuscator
+# http://csarven.ca/hiding-email-addresses
+# http://iwebchk.com/blog/email-obfuscation-techniques/
+# inspiratie om privé-gegevens uit zoekmachines te houden:
+# https://github.com/davidjbradshaw/iframe-resizer
+# https://www.hochmanconsultants.com/how-to-block-part-of-a-page-from-being-indexed-by-google-or-other-search-engines/
+#
+# vigenère-encryptie van elk e-mailadres:
+# start ascii-karakter 46, lengte 77 karakters, sleutel 'schaken'
+# \ tekens moeten escaped worden door er een extra \ voor te zetten
+# < en/of > teken kan ook probleem zijn in yaml. oplossing ???
+voorzitter:
+  functie: voorzitter
+  naam: eric cornelis
+  telefoon: 02 360 32 87
+  gsm: 0470 65 17 54
+  email1: ZMPNU]feI`ZU\\3kSfTU^n # vigenère
+  email2: chessmaster@skynet.be
+secretaris:
+  functie: secretaris
+  naam: bernard malfliet
+  telefoon:
+  gsm: 0471 98 33 87
+  email1: jLLSQVYdQRZ0RblUNO\\eVgUOKbXT # vigenère
+  email2: bernard_malfliet@hotmail.com
+penningmeester:
+  functie: penningmeester &amp; jeugdlessen
+  naam: diederik lot
+  telefoon:
+  gsm: 0495 31 05 91
+  email1: ccYUdwZeIVRkMbeLVKTOea # vigenère
+  email2: diederik.lot@gmail.com
+---
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex, nofollow">
+    <link href="{{"/styles/site.css" | prepend: site.baseurl }}" rel="stylesheet">
+    <link href="{{"/styles/homepage.css" | prepend: site.baseurl }}" rel="stylesheet">
+    <script src="{{"/scripts/iframe-resizer.content-window.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{"/scripts/vigenere-decrypt.js" | prepend: site.baseurl }}"></script>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container text-center">
+      <h2>bestuur</h2>
+      <hr class="section-hr">
+      <div class="row">
+        <div class="col-sm-6">
+          <span class="glyphicon glyphicon-king icoon-groot" aria-hidden="true"></span>
+          {% include bestuurslid.html functie=page.voorzitter.functie naam=page.voorzitter.naam telefoon=page.voorzitter.telefoon gsm=page.voorzitter.gsm email1=page.voorzitter.email1  email2=page.voorzitter.email2 %}
+        </div>
+        <div class="col-sm-6">
+          <span class="glyphicon glyphicon-queen icoon-groot" aria-hidden="true"></span>
+          {% include bestuurslid.html functie=page.secretaris.functie naam=page.secretaris.naam telefoon=page.secretaris.telefoon gsm=page.secretaris.gsm email1=page.secretaris.email1 email2=page.secretaris.email2 %}
+        </div>
+      </div>
+      <br>
+      <div class="row">
+        <div class="col-sm-12">
+          <span class="glyphicon glyphicon-tower icoon-groot" aria-hidden="true"></span>
+          {% include bestuurslid.html functie=page.penningmeester.functie naam=page.penningmeester.naam telefoon=page.penningmeester.telefoon gsm=page.penningmeester.gsm email1=page.penningmeester.email1 email2=page.penningmeester.email2 %}
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

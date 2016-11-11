@@ -1,0 +1,41 @@
+<!-- Fixed navbar -->
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">dworpse schaakkring</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+
+      <ul class="nav navbar-nav navbar-right">
+        <li{% if page.url == '/kalender/' %} class="active"{% endif %}><a href="{{ "/kalender/" | prepend: site.baseurl | replace: '//', '/' }}">kalender</a></li>
+        <li class="dropdown">
+          <!-- add href="#" attibute to <a> to fix safari weirdness,
+              or add "clickable" to class attribute of <a>
+              http://stackoverflow.com/questions/20960405/bootstrap-3-dropdown-on-ipad-not-working-->
+          <a class="dropdown-toggle clickable" data-toggle="dropdown" href="#">tornooien<span class="caret" ></span></a>
+          <ul class="dropdown-menu">
+            <li{% if page.url == '/klubkampioenschap/' %} class="active"{% endif %}><a href="{{ "/klubkampioenschap/" | prepend: site.baseurl | replace: '//', '/' }}">klubkampioenschap</a></li>
+            <li{% if page.url == '/interklubs/' %} class="active"{% endif %}><a href="{{ "/interklubs/" | prepend: site.baseurl | replace: '//', '/' }}">interklubs</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a class="dropdown-toggle clickable" data-toggle="dropdown" href="#">memorial debast<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="{{ "/memorial-2016/" | prepend: site.baseurl | replace: '//', '/' }}">editie 2016</a></li>
+            <li><a href="{{ "/memorial-2015/" | prepend: site.baseurl | replace: '//', '/' }}">editie 2015</a></li>
+            <li><a href="{{ "/memorial-2014/" | prepend: site.baseurl | replace: '//', '/' }}">editie 2014</a></li>
+          </ul>
+        </li>
+        <!-- extra if-statement to get bootstrap scrollspy working on the homepage -->
+        {% if page.url == '/' %}<li><a href="#over-ons">over ons</a></li>{% else %}
+        <li><a href="{{ "/#over-ons" | prepend: site.baseurl | replace: '//', '/' }}">over ons</a></li>{% endif %}
+      </ul>
+    </div>
+  </div>
+</nav>

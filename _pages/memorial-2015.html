@@ -1,0 +1,52 @@
+---
+layout: default
+title: "memorial debast 2015"
+permalink: /memorial-2015/
+noindex: true
+svb:
+  - cat: kampioen
+    rij: 2
+  - cat: >-
+      &lt; 1900
+    rij: 8
+  - cat: >-
+      &lt; 1700
+    rij: 11
+  - cat: >-
+      &lt; 1500
+    rij: 26
+---
+{% include nav-pills-start.html title=page.title tab1="einduitslag tornooi" tab2="kampioenschap svb" %}
+
+{% include tab-pane-start.html href="einduitslag tornooi" aktief=true %}
+
+<table class="table">
+  <tbody>
+    <tr><th></th><th>naam</th><th>elo</th><th>club</th><th>ptn</th><th>perf</th><th>res</th><th>mb</th><th>sb</th></tr>
+    {% for persoon in site.data.memorial.m2015 %}
+    <tr><td>{{ persoon.nummer }}</td><td>{{ persoon.naam | downcase }}</td><td>{{ persoon.elo }}</td><td>{{ persoon.club | downcase }}</td><td>{{ persoon.punten }}</td><td>{{ persoon.perf }}</td><td>{{ persoon.res }}</td><td>{{ persoon.mb }}</td><td>{{ persoon.sb }}</td></tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% include tab-pane-end.html %}
+
+{% include tab-pane-start.html href="kampioenschap svb" aktief=false %}
+
+<table class="table">
+  <tbody>
+    <tr><th colspan="2">kampioen en ratingwinnaars van het provinciaal kampioenschap vlaams-brabant</th></tr>
+    {% for persoon1 in page.svb %}
+      {% for persoon2 in site.data.memorial.m2015 %}
+        {% if forloop.index == persoon1.rij %}
+    <tr><td>{{ persoon1.cat }}</td><td>{{ persoon2.naam | downcase }}</td></tr>
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </tbody>
+</table>
+
+{% include tab-pane-end.html %}
+
+{% include nav-pills-end.html %}

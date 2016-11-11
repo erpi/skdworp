@@ -1,0 +1,7 @@
+<h2>{{ include.title }}</h2>
+{% if page.subtitle %}<h3>{{ page.subtitle }}</h3>{% endif %}
+<ul class="nav nav-pills">
+  <li class="active"><a data-toggle="pill" href="#{{ include.tab1 | replace: " ", "-" }}">{{ include.tab1 }}</a></li>
+  <li><a data-toggle="pill" href="#{{ include.tab2 | replace: " ", "-" }}">{{ include.tab2 }}</a></li>
+</ul>
+<div class="tab-content">

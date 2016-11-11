@@ -1,0 +1,76 @@
+---
+---
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+/* layout header gedeelte met foto op achtergrond */
+.header-hr {
+  border-color: #EFB73E;
+}
+header {
+  position: relative;
+  width: 100%;
+  min-height: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center;
+  background-image: url('{{"/bord1.jpg" | prepend: site.baseurl }}');
+  text-align: center;
+  color: white;
+}
+header .header-content {
+  position: relative;
+  text-align: center;
+  padding: 100px 15px 100px;
+  width: 100%;
+}
+header .header-content .header-content-inner h3 {
+  margin-bottom: 50px;
+}
+@media (min-width: 768px) {
+  header {
+    min-height: 100%;
+  }
+  header .header-content {
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    padding: 0 50px;
+  }
+  header .header-content .header-content-inner {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* layout voor secties */
+section {
+  padding: 50px 0;
+}
+.section-hr {
+  margin: 30px auto 50px;
+  border-color: #dd4814;
+}
+.icoon-groot {
+  color: #dd4814;
+  font-size: 50px;
+}
+iframe {
+  border: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* layout voor footer */
+footer {
+  padding-bottom: 50px;
+}

@@ -1,0 +1,24 @@
+---
+---
+
+@import "variables";
+@import "bootswatch";
+@import "bootstrap";
+
+.main-container {
+  padding-top: 70px;
+}
+
+.nav-pills {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.table tbody tr > th {
+  color: #ffffff;
+  background-color: #dd4814
+}
+/*fix for safari (ios): caret sometimes not showing */
+.caret {
+  border-top: 4px solid;
+}

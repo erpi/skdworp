@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /klubkampioenschap/
+Disallow: /memorial-2016/

@@ -1,3 +1,134 @@
-<html>
-<p>hallo daar!</p>
+---
+title: dworpse schaakkring
+---
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="{{ site.author }}">
+    <meta name="keywords" content="{{ site.keywords }}">
+    <meta name="revisit-after" content="1 month">
+
+    <title>{{ site.title }}</title>
+
+    <link href="{{"/styles/site.css" | prepend: site.baseurl }}" rel="stylesheet">
+    <link href="{{"/styles/homepage.css" | prepend: site.baseurl }}" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="{{"/scripts/home-scroll.js" | prepend: site.baseurl }}"></script>
+    <script src="{{"/scripts/home-maps.js" | prepend: site.baseurl }}"></script>
+    <script src="{{"/scripts/iframe-resizer.min.js" | prepend: site.baseurl }}"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHphI5tNhhW0hImFMhl-NAkiiq5M8Q1tw&callback=initialize" async="" defer=""></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="{{"/favicon.ico" | prepend: site.baseurl }}">
+
+  </head>
+  <body data-spy="scroll" data-target=".navbar" data-offset="50">
+    {% include navbar.html %}
+
+    <header class="header-content" id="top">
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1>dworpse schaakkring</h1>
+                <hr class="header-hr">
+                <h3>een schaakklub in halle</h3>
+                <a href="#over-ons" class="btn btn-warning btn-lg page-scroll">over ons »</a>
+            </div>
+        </div>
+    </header>
+
+    {% capture kk_link %}{{ "/klubkampioenschap/" | prepend: site.baseurl | replace: '//', '/' }}{% endcapture %}
+    {% capture kal_link %}{{ "/kalender/" | prepend: site.baseurl | replace: '//', '/' }}{% endcapture %}
+    {% capture ni_link %}{{ "/interklubs/" | prepend: site.baseurl | replace: '//', '/' }}{% endcapture %}
+    {% capture mem_link %}{{ "/memorial-2016/" | prepend: site.baseurl | replace: '//', '/' }}{% endcapture %}
+    {% capture best_link %}{{ "#bestuur" | prepend: site.baseurl | replace: '//', '/' }}{% endcapture %}
+    {% capture lok_link %}{{ "#lokatie" | prepend: site.baseurl | replace: '//', '/' }}{% endcapture %}
+    <section id="over-ons">
+      <div class="container text-center">
+        <h2>over ons</h2>
+        <hr class="section-hr">
+        <div class="row">
+          <div class="col-sm-6">
+            <span class="glyphicon glyphicon-knight icoon-groot" aria-hidden="true"></span>
+            <h3>wie zijn we</h3>
+            <p class="lead">de roots van onze klub liggen in dworp, maar reeds sinds 1984 spelen we onafgebroken in halle. we zijn een gezellige schaak-en vriendenklub, aangesloten bij de <a href="https://sites.google.com/site/vlaamseschaakfederatie/" target="_blank">vlaamse schaakfederatie</a> en de <a href="http://www.frbe-kbsb.be/index.php/nl/" target="_blank">belgische schaakbond</a>. iedereen is bij ons welkom voor een schaakje en een pintje.</p>
+          </div>
+          <div class="col-sm-6">
+            <span class="glyphicon glyphicon-bishop icoon-groot" aria-hidden="true"></span>
+            <h3>wat doen we</h3>
+            <p class="lead">we organiseren elk jaar een <a href={{ kk_link }}>klubkampioenschap</a>, spelen mee in de derde afdeling van de <a href={{ ni_link }}>nationale interklubs</a>, en organiseren sinds enkele jaren het snelschaaktornooi <a href={{ mem_link }}>memorial debast</a>. bekijk onze <a href={{ kal_link }}>kalender</a>.</p>
+          </div>
+        </div>
+        <br>
+        <div class="row">
+          <div class="col-sm-4">
+            <span class="glyphicon glyphicon-tower icoon-groot" aria-hidden="true"></span>
+            <h3>waar & wanneer</h3>
+            <p class="lead">je kan ons op vrijdagavond vanaf 20u00 vinden in <a id="lok1" href={{ lok_link }}>turncentrum start65</a>. daar hebben we ons speellokaal.</p>
+          </div>
+          <div class="col-sm-4">
+            <span class="glyphicon glyphicon-queen icoon-groot" aria-hidden="true"></span>
+            <h3>jeugdlessen</h3>
+            <p class="lead">twee lesgevers geven 's vrijdags voor aanvang van de klubavond onderricht aan de jeugd met behulp van de <a href="http://www.stappenmethode.nl/" target="_blank">stappenmethode</a>. </p>
+          </div>
+          <div class="col-sm-4">
+            <span class="glyphicon glyphicon-king icoon-groot" aria-hidden="true"></span>
+            <h3>kontakt</h3>
+            <p class="lead">wil je nog meer weten? neem gerust kontakt op met onze voorzitter <a id="best1" href={{ best_link }}>eric cornelis</a> of iemand anders van het <a id="best2" href={{ best_link }}>bestuur</a>.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="lokatie">
+      <div class="container text-center">
+        <h2>lokatie</h2>
+        <hr class="section-hr">
+        <div class="row">
+          <div class="col-sm-6">
+            <div id="start65" style="height:350px;width:100%;"></div>
+            <p style="padding-top:20px;" class="lead">klubavonden hebben 's vrijdags plaats in een lokaal van</p>
+            <address class="lead">
+              <strong>turncentrum start65</strong><br>
+              oct. de kerchove d’exaerdestraat 214<br>
+              1501 buizingen<br>
+            </address>
+          </div>
+          <div class="col-sm-6">
+            <div id="campus" style="height:350px;width:100%;"></div>
+            <p style="padding-top:20px;" class="lead">de wedstrijden van de interklubs spelen we 's zondags in</p>
+            <address class="lead">
+              <strong>campus halle</strong><br>
+              kanaalbrugstraat 5d<br>
+              1500 halle<br>
+            </address>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="bestuur">
+      <iframe src="exclude/bestuur.html" scrolling="no"></iframe>
+      <script>iFrameResize({log: false, heightCalculationMethod: "max"})</script>
+      <noscript></noscript>
+    </section>
+
+    <footer class="container text-center">
+      <a class="lead" href="#top" title="naar boven">
+        <span class="glyphicon glyphicon-chevron-up"></span>
+      </a>
+    </footer>
+
+  </body>
 </html>

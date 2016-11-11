@@ -1,0 +1,9 @@
+<table class="table">
+  <tbody>
+    {% for item in site.data.kalender %}
+      {% if item.dag contains include.jaar %}
+    <tr><td>{{ item.dag }}</td><td>{{ item.tornooi }}</td></tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+</table>
