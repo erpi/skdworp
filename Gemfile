@@ -22,6 +22,7 @@ ruby RUBY_VERSION
 #gem "github-pages", group: :jekyll_plugins
 # pieter: tijdelijk '104' toegevoegd.
 gem 'github-pages', '104', group: :jekyll_plugins
+gem 'therubyracer'
 
 # If you have any plugins, put them here!
 # pieter: feed niet nodig
