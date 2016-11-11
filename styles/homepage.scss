@@ -19,7 +19,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('{{"/bord1.jpg" | prepend: site.baseurl }}');
+  background-image: url('{{"/images/achtergrond.jpg" | prepend: site.baseurl }}');
   text-align: center;
   color: white;
 }
