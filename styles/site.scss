@@ -18,6 +18,27 @@
   color: #ffffff;
   background-color: #dd4814
 }
+
+.alignleft {
+  text-align: left;
+}
+
+.alignright {
+  text-align: right;
+}
+
+.aligncenter {
+  text-align: center;
+}
+
+.table-eindstand tbody tr > th {
+    text-align: center;
+}
+
+.table-eindstand {
+    text-align: center;
+}
+
 /*fix for safari (ios): caret sometimes not showing */
 .caret {
   border-top: 4px solid;

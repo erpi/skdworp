@@ -1,0 +1,39 @@
+---
+layout: default
+title: klubkampioenschap 2014 - 2015
+permalink: /klubkampioenschap14-15/
+noindex: true
+tab1: uitslagen
+tab2: eindstand
+---
+{% include nav-pills-start.html tab1=page.tab1 tab2=page.tab2 title=page.title %}
+
+{% include tab-pane-start.html href=page.tab1 aktief=true %}
+
+<table class="table">
+  <tbody>
+    {% for ronde in site.data.kk.kk1415.uitslagen %}
+      <tr><th colspan="2">{{ ronde.ronde | downcase }}</th><th colspan="5" class="alignright">{{ ronde.datum | downcase }}</th></tr>
+      {% for bord in ronde.partijen %}
+        <tr><td class="aligncenter">{{ forloop.index }}</td><td>{{ bord.wit | downcase }}</td><td>-</td><td>{{ bord.zwart | downcase }}</td><td class="alignright">{{ bord.wr | downcase }}</td><td class="aligncenter">-</td><td>{{ bord.zr | downcase }}</td></tr>
+      {% endfor %}
+    {% endfor %}
+  </tbody>
+</table>
+
+{% include tab-pane-end.html %}
+
+{% include tab-pane-start.html href=page.tab2 aktief=false %}
+
+<table class="table table-eindstand">
+  <tbody>
+    <tr><th></th><th></th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>tot</th></tr>
+    {% for persoon in site.data.kk.kk1415.eindstand %}
+      <tr><td>{{ persoon.nr }}</td><td class="alignleft">{{ persoon.naam | downcase }}</td><td>{{ persoon.sp1 }}</td><td>{{ persoon.sp2 }}</td><td>{{ persoon.sp3 }}</td><td>{{ persoon.sp4 }}</td><td>{{ persoon.sp5 }}</td><td>{{ persoon.sp6 }}</td><td>{{ persoon.sp7 }}</td><td>{{ persoon.sp8 }}</td><td>{{ persoon.sp9 }}</td><td>{{ persoon.sp10 }}</td><td>{{ persoon.totaal }}</td></tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% include tab-pane-end.html %}
+
+{% include nav-pills-end.html %}

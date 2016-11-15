@@ -22,6 +22,10 @@
           <ul class="dropdown-menu">
             <li{% if page.url == '/klubkampioenschap/' %} class="active"{% endif %}><a href="{{ "/klubkampioenschap/" | prepend: site.baseurl | replace: '//', '/' }}">klubkampioenschap</a></li>
             <li{% if page.url == '/interklubs/' %} class="active"{% endif %}><a href="{{ "/interklubs/" | prepend: site.baseurl | replace: '//', '/' }}">interklubs</a></li>
+
+
+
+
           </ul>
         </li>
         <li class="dropdown">
@@ -30,6 +34,13 @@
             <li><a href="{{ "/memorial-2016/" | prepend: site.baseurl | replace: '//', '/' }}">editie 2016</a></li>
             <li><a href="{{ "/memorial-2015/" | prepend: site.baseurl | replace: '//', '/' }}">editie 2015</a></li>
             <li><a href="{{ "/memorial-2014/" | prepend: site.baseurl | replace: '//', '/' }}">editie 2014</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a class="dropdown-toggle clickable" data-toggle="dropdown" href="#">archief<span class="caret" ></span></a>
+          <ul class="dropdown-menu">
+            <li{% if page.url == '/klubkampioenschap14-15/' %} class="active"{% endif %}><a href="{{ "/klubkampioenschap14-15/" | prepend: site.baseurl | replace: '//', '/' }}">klubkampioenschap 2014</a></li>
+            <li{% if page.url == '/klubkampioenschap15-16/' %} class="active"{% endif %}><a href="{{ "/klubkampioenschap15-16/" | prepend: site.baseurl | replace: '//', '/' }}">klubkampioenschap 2015</a></li>
           </ul>
         </li>
         <!-- extra if-statement to get bootstrap scrollspy working on the homepage -->
