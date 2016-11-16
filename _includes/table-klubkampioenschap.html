@@ -1,6 +1,6 @@
 <table class="table">
   <tbody>
-    {% for ronde in site.data.kk.kk1617.uitslagen %}
+    {% for ronde in include.datafile %}
       {% if ronde.datum contains include.jaar %}
       <tr><th colspan="2">{{ ronde.ronde | downcase }}</th><th colspan="5" class="alignright">{{ ronde.datum | downcase }}</th></tr>
         {% for bord in ronde.partijen %}
