@@ -20,7 +20,7 @@ description: De website van de Dworpse Schaakkring, een schaakclub in Halle.
 keywords: dworpse, schaakkring, schaak, schaken, chess, échecs, schaakclub, schaakvereniging, club, vereniging, halle, dworp, brussel, vlaams-brabant, pajottenland, memorial debast, tornooi, toernooi
 #baseurl: "/skdworp" # the subpath of your site, e.g. /blog
 baseurl: "" # url om site te testen
-url: "http:/www.skdworp.be" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.skdworp.be" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
