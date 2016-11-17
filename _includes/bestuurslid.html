@@ -6,9 +6,9 @@
 {% if include.gsm %}
 <span class="glyphicon glyphicon-phone"></span>  {{ include.gsm }}<br>
 {% endif %}
-{% if include.email1 %}
+{% if include.email %}
 <span class="glyphicon glyphicon-envelope"></span>
-<script>document.write('  ' + decrypt(46, 77, 'schaken', '{{ include.email1 }}'));</script>
+<script>document.write('  ' + decrypt(46, 77, 'schaken', '{{ include.email }}'));</script>
 <noscript> e-mailadres? zet javascript aan ;-)</noscript>
 {% endif %}
 </p>

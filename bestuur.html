@@ -21,22 +21,19 @@ voorzitter:
   naam: eric cornelis
   telefoon: 02 360 32 87
   gsm: 0470 65 17 54
-  email1: ZMPNU]feI`ZU\\3kSfTU^n # vigenère
-  email2: chessmaster@skynet.be
+  email: ZMPNU]feI`ZU\\3kSfTU^n # vigenère
 secretaris:
   functie: secretaris
   naam: bernard malfliet
   telefoon:
   gsm: 0471 98 33 87
-  email1: jLLSQVYdQRZ0RblUNO\\eVgUOKbXT # vigenère
-  email2: bernard_malfliet@hotmail.com
+  email: jLLSQVYdQRZ0RblUNO\\eVgUOKbXT # vigenère
 penningmeester:
   functie: penningmeester &amp; jeugdlessen
   naam: diederik lot
   telefoon:
   gsm: 0495 31 05 91
-  email1: ccYUdwZeIVRkMbeLVKTOea # vigenère
-  email2: diederik.lot@gmail.com
+  email: ccYUdwZeIVRkMbeLVKTOea # vigenère
 ---
 <!DOCTYPE html>
 <html lang="nl">
@@ -62,18 +59,18 @@ penningmeester:
       <div class="row">
         <div class="col-sm-6">
           <span class="glyphicon glyphicon-king icoon-groot" aria-hidden="true"></span>
-          {% include bestuurslid.html functie=page.voorzitter.functie naam=page.voorzitter.naam telefoon=page.voorzitter.telefoon gsm=page.voorzitter.gsm email1=page.voorzitter.email1  email2=page.voorzitter.email2 %}
+          {% include bestuurslid.html functie=page.voorzitter.functie naam=page.voorzitter.naam telefoon=page.voorzitter.telefoon gsm=page.voorzitter.gsm email=page.voorzitter.email %}
         </div>
         <div class="col-sm-6">
           <span class="glyphicon glyphicon-queen icoon-groot" aria-hidden="true"></span>
-          {% include bestuurslid.html functie=page.secretaris.functie naam=page.secretaris.naam telefoon=page.secretaris.telefoon gsm=page.secretaris.gsm email1=page.secretaris.email1 email2=page.secretaris.email2 %}
+          {% include bestuurslid.html functie=page.secretaris.functie naam=page.secretaris.naam telefoon=page.secretaris.telefoon gsm=page.secretaris.gsm email=page.secretaris.email %}
         </div>
       </div>
       <br>
       <div class="row">
         <div class="col-sm-12">
           <span class="glyphicon glyphicon-tower icoon-groot" aria-hidden="true"></span>
-          {% include bestuurslid.html functie=page.penningmeester.functie naam=page.penningmeester.naam telefoon=page.penningmeester.telefoon gsm=page.penningmeester.gsm email1=page.penningmeester.email1 email2=page.penningmeester.email2 %}
+          {% include bestuurslid.html functie=page.penningmeester.functie naam=page.penningmeester.naam telefoon=page.penningmeester.telefoon gsm=page.penningmeester.gsm email=page.penningmeester.email %}
         </div>
       </div>
     </div>
