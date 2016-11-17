@@ -31,3 +31,5 @@ exclude:
 sass:
     style: compressed
 include: ['_pages']
+gems:
+  - jekyll-sitemap
