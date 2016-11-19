@@ -32,4 +32,3 @@ function initialize() {
     title: 'campus halle'
   });
 }
-campus
