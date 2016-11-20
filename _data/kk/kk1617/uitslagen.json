@@ -1,4 +1,4 @@
-1[
+[
   {
     "ronde": "ronde 1",
     "datum": "07-10-2016",
@@ -15,7 +15,7 @@
     "ronde": "ronde 2",
     "datum": "21-10-2016",
     "partijen": [
-      {"wr": "1", "zr": "0", "wit": "kjell spaens", "zwart:" "stijn bertrand"},
+      {"wr": "1", "zr": "0", "wit": "kjell spaens", "zwart": "stijn bertrand"},
       {"wr": "0", "zr": "1", "wit": "filip van de velde", "zwart": "serge vanderwaeren"},
       {"wr": "0", "zr": "1", "wit": "peter de bosscher", "zwart": "geert verrijken"},
       {"wr": "1", "zr": "0", "wit": "eric cornelis", "zwart": "yves baert"},
