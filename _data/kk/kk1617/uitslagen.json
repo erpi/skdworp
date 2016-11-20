@@ -1,9 +1,9 @@
-[
+1[
   {
     "ronde": "ronde 1",
     "datum": "07-10-2016",
     "partijen": [
-      {"wr": "", "zr": "", "wit": "walter de reymaeker", "zwart": "stijn bertrand"},
+      {"wr": "1", "zr": "0", "wit": "walter de reymaeker", "zwart": "stijn bertrand"},
       {"wr": "1", "zr": "0", "wit": "diederik lot", "zwart": "bernard malfliet"},
       {"wr": "0", "zr": "1", "wit": "robert huysman", "zwart": "eric cornelis"},
       {"wr": "0", "zr": "1", "wit": "yves baert", "zwart": "peter de bosscher"},
@@ -15,7 +15,7 @@
     "ronde": "ronde 2",
     "datum": "21-10-2016",
     "partijen": [
-      {"wr": "0", "zr": "1", "wit": "stijn bertrand", "zwart": "kjell spaens"},
+      {"wr": "1", "zr": "0", "wit": "kjell spaens", "zwart": "stijn bertrand"},
       {"wr": "0", "zr": "1", "wit": "filip van de velde", "zwart": "serge vanderwaeren"},
       {"wr": "0", "zr": "1", "wit": "peter de bosscher", "zwart": "geert verrijken"},
       {"wr": "1", "zr": "0", "wit": "eric cornelis", "zwart": "yves baert"},
@@ -30,7 +30,7 @@
       {"wr": "0", "zr": "1", "wit": "stijn bertrand", "zwart": "diederik lot"},
       {"wr": "0", "zr": "1", "wit": "robert huysman", "zwart": "walter de reymaeker"},
       {"wr": "", "zr": "", "wit": "yves baert", "zwart": "bernard malfliet"},
-      {"wr": "", "zr": "", "wit": "geert verrijken", "zwart": "eric cornelis"},
+      {"wr": "1", "zr": "0", "wit": "geert verrijken", "zwart": "eric cornelis"},
       {"wr": "0.5", "zr": "0.5", "wit": "serge vanderwaeren", "zwart": "peter de bosscher"},
       {"wr": "0.5", "zr": "0.5", "wit": "kjell spaens", "zwart": "filip van de velde"}
     ]
