@@ -13,7 +13,7 @@ html, body {
 header {
   position: relative;
   width: 100%;
-  min-height: auto;
+  min-height: 100%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -24,30 +24,29 @@ header {
   color: white;
 }
 header .header-content {
-  position: relative;
+  position: absolute;
+  top: 50%;
   text-align: center;
   padding: 100px 15px 100px;
   width: 100%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 header .header-content .header-content-inner h3 {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 50px;
 }
-@media (min-width: 768px) {
-  header {
-    min-height: 100%;
-  }
+@media (max-width: 767px) {
   header .header-content {
-    position: absolute;
-    top: 50%;
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
-    padding: 0 50px;
+    padding: 0 20px;
   }
-  header .header-content .header-content-inner {
-    max-width: 1000px;
-    margin-left: auto;
-    margin-right: auto;
+}
+@media (min-width: 768px) {
+  header .header-content {
+    padding: 0 50px;
   }
 }
 
