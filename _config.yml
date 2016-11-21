@@ -21,6 +21,7 @@ keywords: dworpse, schaakkring, schaak, schaken, chess, échecs, schaakclub, sch
 #baseurl: "/skdworp" # the subpath of your site, e.g. /blog
 baseurl: "" # url om site te testen
 url: "http://www.skdworp.be" # the base hostname & protocol for your site, e.g. http://example.com
+clicky: true
 
 # Build settings
 markdown: kramdown
