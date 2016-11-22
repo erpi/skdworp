@@ -1,7 +1,7 @@
 <h2>{{ page.title | downcase }}</h2>
-<h3>{{ page.subtitle | downcase }}</h3>
+{% if page.subtitle %}<h3>{{ page.subtitle | downcase }}</h3>{% endif %}
 <div class="table-responsive">
 
   {% include table-eindstand.html datafile=include.datafile %}
-  
+
 </div>
