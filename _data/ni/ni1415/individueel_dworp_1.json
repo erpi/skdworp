@@ -1,0 +1,178 @@
+[
+  {
+    "ronde": "1",
+    "datum": "28-09-2014",
+    "thuis": "228 Dworp 1",
+    "uit": "229 Woluwe 1",
+    "tscore": 3.0,
+    "uscore": 1.0,
+    "tgem": 1811,
+    "ugem": 1849,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "VANDERWAEREN SERGE", "uspeler": "VERBIST JULIEN", "telo": 2219, "uelo": 2028, "tstam": 20621, "ustam": 10563},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "MAECKELBERGH GEERT", "uspeler": "GRIGORIOU MANOLIS", "telo": 1820, "uelo": 1868, "tstam": 43419, "ustam": 50142},
+      {"tr": "1", "ur": "0", "tspeler": "CORNELIS ERIC", "uspeler": "GIADROSIC DINKO", "telo": 1672, "uelo": 1822, "tstam": 76317, "ustam": 54020},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "HUYSMAN ROBERT", "uspeler": "GEERINCKX BERNARD", "telo": 1531, "uelo": 1679, "tstam": 15482, "ustam": 94901}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "19-10-2014",
+    "thuis": "201 CREB 3",
+    "uit": "228 Dworp 1",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1911,
+    "ugem": 1878,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "ALSTON WILLIAM", "uspeler": "VANDERWAEREN SERGE", "telo": 2000, "uelo": 2219, "tstam": 15116, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "THEUERKAUFF OLIVIER", "uspeler": "DENYS FRANK", "telo": 1906, "uelo": 1955, "tstam": 71919, "ustam": 21881},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "CHOKOUHIAN AHMAD", "uspeler": "VAN DUUREN LOUIS", "telo": 1897, "uelo": 1880, "tstam": 25844, "ustam": 26816},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "FONTIGNY FRANCOIS", "uspeler": "VAN DE VELDE FILIP", "telo": 1841, "uelo": 1458, "tstam": 9067, "ustam": 31682}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "02-11-2014",
+    "thuis": "228 Dworp 1",
+    "uit": "226 Europchess 3",
+    "tscore": 3.5,
+    "uscore": 0.5,
+    "tgem": 1878,
+    "ugem": 1625,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "VANDERWAEREN SERGE", "uspeler": "BUSQUETS PEREZ LUIS", "telo": 2219, "uelo": 1741, "tstam": 20621, "ustam": 12256},
+      {"tr": "1", "ur": "0", "tspeler": "DENYS FRANK", "uspeler": "GARZOTTI PAOLO", "telo": 1955, "uelo": 1682, "tstam": 21881, "ustam": 88072},
+      {"tr": "1", "ur": "0", "tspeler": "VAN DUUREN LOUIS", "uspeler": "AMELOTTI ALESSANDRO", "telo": 1880, "uelo": 0, "tstam": 26816, "ustam": 14809},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "VAN DE VELDE FILIP", "uspeler": "SANSOGLOU PARIS", "telo": 1458, "uelo": 1451, "tstam": 31682, "ustam": 10696}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "16-11-2014",
+    "thuis": "231 DT Leuven 1",
+    "uit": "228 Dworp 1",
+    "tscore": 0.5,
+    "uscore": 3.5,
+    "tgem": 1685,
+    "ugem": 1917,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "VAN DEN BOSCH ARNO", "uspeler": "VANDERWAEREN SERGE", "telo": 1824, "uelo": 2219, "tstam": 10546, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "PIRARD NATAN", "uspeler": "DENYS FRANK", "telo": 1668, "uelo": 1955, "tstam": 10942, "ustam": 21881},
+      {"tr": "0", "ur": "1", "tspeler": "VERSTRAETEN IRIS", "uspeler": "MAECKELBERGH GEERT", "telo": 1644, "uelo": 1820, "tstam": 11416, "ustam": 43419},
+      {"tr": "0", "ur": "1", "tspeler": "GHEORGHIU STEFAN-DANIEL", "uspeler": "CORNELIS ERIC", "telo": 1604, "uelo": 1672, "tstam": 13311, "ustam": 76317}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "30-11-2014",
+    "thuis": "228 Dworp 1",
+    "uit": "240 Machelen 1",
+    "tscore": 3.0,
+    "uscore": 1.0,
+    "tgem": 1932,
+    "ugem": 1738,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "VANDERWAEREN SERGE", "uspeler": "HARUTYUNYAN AXEL", "telo": 2219, "uelo": 1774, "tstam": 20621, "ustam": 10415},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "DENYS FRANK", "uspeler": "DE MOL PATRICK", "telo": 1955, "uelo": 1767, "tstam": 21881, "ustam": 57011},
+      {"tr": "1", "ur": "0", "tspeler": "VAN DUUREN LOUIS", "uspeler": "HERNALSTEEN JOHAN", "telo": 1880, "uelo": 1719, "tstam": 26816, "ustam": 5932},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "CORNELIS ERIC", "uspeler": "ROELS LOUIS", "telo": 1672, "uelo": 1693, "tstam": 76317, "ustam": 21733}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "11-01-2015",
+    "thuis": "207 2 Fous Diog\u00e8ne 1",
+    "uit": "228 Dworp 1",
+    "tscore": 1.0,
+    "uscore": 3.0,
+    "tgem": 1832,
+    "ugem": 1969,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "YODY STEVE", "uspeler": "VANDERWAEREN SERGE", "telo": 1923, "uelo": 2219, "tstam": 92665, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "ATANASIU NICOLAE", "uspeler": "DENYS FRANK", "telo": 1885, "uelo": 1955, "tstam": 24856, "ustam": 21881},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "VASILE-BONCIOG CRISTIAN", "uspeler": "VAN DUUREN LOUIS", "telo": 1905, "uelo": 1880, "tstam": 60728, "ustam": 26816},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "CASTIAU JULIEN", "uspeler": "MAECKELBERGH GEERT", "telo": 1614, "uelo": 1820, "tstam": 55549, "ustam": 43419}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "25-01-2015",
+    "thuis": "228 Dworp 1",
+    "uit": "232 DK Leuven 1",
+    "tscore": 2,
+    "uscore": 2,
+    "tgem": 1977,
+    "ugem": 1943,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "VANDERWAEREN SERGE", "uspeler": "ALLAERT DIMITRI", "telo": 2219, "uelo": 2183, "tstam": 20621, "ustam": 16951},
+      {"tr": "0", "ur": "1", "tspeler": "DENYS FRANK", "uspeler": "ROMKES ABEL", "telo": 1955, "uelo": 1892, "tstam": 21881, "ustam": 14844},
+      {"tr": "1", "ur": "0", "tspeler": "VAN DUUREN LOUIS", "uspeler": "EBEN JONATHAN", "telo": 1880, "uelo": 1755, "tstam": 26816, "ustam": 28061},
+      {"tr": "1", "ur": "0", "tspeler": "LOT DIEDERIK", "uspeler": "LOPEZ VASQUEZ JUAN MANUEL", "telo": 1853, "uelo": 0, "tstam": 9954, "ustam": 15009}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "08-02-2015",
+    "thuis": "230 Leuven 3",
+    "uit": "228 Dworp 1",
+    "tscore": 0,
+    "uscore": 4,
+    "tgem": 1741,
+    "ugem": 1932,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "VOET DIRK", "uspeler": "VANDERWAEREN SERGE", "telo": 1859, "uelo": 2219, "tstam": 59749, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "VERVAET BART", "uspeler": "DENYS FRANK", "telo": 1832, "uelo": 1955, "tstam": 13286, "ustam": 21881},
+      {"tr": "0", "ur": "1", "tspeler": "SMET GEERT", "uspeler": "VAN DUUREN LOUIS", "telo": 1660, "uelo": 1880, "tstam": 20206, "ustam": 26816},
+      {"tr": "0", "ur": "1", "tspeler": "DAUW TONY", "uspeler": "CORNELIS ERIC", "telo": 1611, "uelo": 1672, "tstam": 48691, "ustam": 76317}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "01-03-2015",
+    "thuis": "244 Brussels CC 2",
+    "uit": "228 Dworp 1",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1896,
+    "ugem": 1977,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "GRODENT GERALD", "uspeler": "VANDERWAEREN SERGE", "telo": 2030, "uelo": 2219, "tstam": 40924, "ustam": 20621},
+      {"tr": "1", "ur": "0", "tspeler": "SOCHMAN PETR", "uspeler": "DENYS FRANK", "telo": 1906, "uelo": 1955, "tstam": 10991, "ustam": 21881},
+      {"tr": "0", "ur": "1", "tspeler": "MATTHEYS EDDY", "uspeler": "VAN DUUREN LOUIS", "telo": 1898, "uelo": 1880, "tstam": 87912, "ustam": 26816},
+      {"tr": "0", "ur": "1", "tspeler": "PEETERS SIMONNE", "uspeler": "LOT DIEDERIK", "telo": 1748, "uelo": 1853, "tstam": 75671, "ustam": 9954}
+    ]
+  },
+  {
+    "ronde": "10",
+    "datum": "15-03-2015",
+    "thuis": "228 Dworp 1",
+    "uit": "114 Mechelen 3",
+    "tscore": 2.5,
+    "uscore": 1.5,
+    "tgem": 1932,
+    "ugem": 1748,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "VANDERWAEREN SERGE", "uspeler": "DOM WIM", "telo": 2219, "uelo": 1850, "tstam": 20621, "ustam": 5169},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "DENYS FRANK", "uspeler": "VAN VAEK CONSTANT", "telo": 1955, "uelo": 1761, "tstam": 21881, "ustam": 12581},
+      {"tr": "0", "ur": "1", "tspeler": "VAN DUUREN LOUIS", "uspeler": "SHEREMETI FITIM", "telo": 1880, "uelo": 1723, "tstam": 26816, "ustam": 29254},
+      {"tr": "1", "ur": "0", "tspeler": "CORNELIS ERIC", "uspeler": "VAN DER PLAS GERT", "telo": 1672, "uelo": 1656, "tstam": 76317, "ustam": 13235}
+    ]
+  },
+  {
+    "ronde": "11",
+    "datum": "29-03-2015",
+    "thuis": "261 Opwijk 3",
+    "uit": "228 Dworp 1",
+    "tscore": 2.0,
+    "uscore": 2.0,
+    "tgem": 1816,
+    "ugem": 1826,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "DE BLOCK YORDI", "uspeler": "VANDERWAEREN SERGE", "telo": 1851, "uelo": 2219, "tstam": 11030, "ustam": 20621},
+      {"tr": "1F", "ur": "0F", "tspeler": "VERHASSELT KRIS", "uspeler": "DENYS FRANK", "telo": 1844, "uelo": 1955, "tstam": 34151, "ustam": 21881},
+      {"tr": "0", "ur": "1", "tspeler": "VAN ZEEBROECK SAM", "uspeler": "CORNELIS ERIC", "telo": 1787, "uelo": 1672, "tstam": 10344, "ustam": 76317},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "DE BLOCK FABIO", "uspeler": "VAN DE VELDE FILIP", "telo": 1782, "uelo": 1458, "tstam": 11034, "ustam": 31682}
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+<table class="table">
+  <tbody>
+    {% for ronde in include.datafile %}
+      {% if ronde.datum contains include.jaar %}
+      <tr><th colspan="2">ronde {{ ronde.ronde }}</th><th colspan="6">{{ ronde.thuis | downcase }}</th>
+        <th>{{ ronde.uit | downcase }}</th><th class="alignright">{{ ronde.datum }}</th></tr>
+        {% for bord in ronde.borden %}
+        <tr><td class="aligncenter">{{ forloop.index }}</td><td class="alignright">{{ bord.tstam }}</td>
+          <td>{{ bord.tspeler | downcase }}</td><td class="aligncenter">{{ bord.telo }}</td>
+          <td class="alignright">{{ bord.tr }}</td><td class="aligncenter">-</td><td>{{ bord.ur }}</td>
+          <td class="alignright">{{ bord.ustam }}</td><td>{{ bord.uspeler | downcase }}</td>
+          <td class="aligncenter">{{ bord.uelo }}</td></tr>
+        {% endfor %}
+      <tr><td></td><td class="aligncenter schuin" colspan="3">&lt; {{ ronde.tgem }}  &gt;</td>
+        <td class="alignright vet">{{ ronde.tscore }}</td><td class="aligncenter vet">-</td>
+        <td class="vet">{{ ronde.uscore }}</td><td class="aligncenter schuin" colspan="3">&lt; {{ ronde.ugem }} &gt;</td>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+</table>

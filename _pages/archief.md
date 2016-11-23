@@ -22,6 +22,11 @@ tornooiarchief
 - [2015 - 2016](/interklubs15-16/)
 - [2014 - 2015](/interklubs14-15/)
 
+### individuele uitslagen interklubs
+
+- [2015 - 2016](/archief/interklubs-indiv-1516/)
+- [2014 - 2015](/archief/interklubs-indiv-1415/)
+
 ### snelschaak
 
 - [2015 - 2016](/snelschaak15-16/)
