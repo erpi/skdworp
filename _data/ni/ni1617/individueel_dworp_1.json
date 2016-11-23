@@ -1,0 +1,56 @@
+[
+  {
+    "ronde": "1",
+    "datum": "02-10-2016",
+    "thuis": "228 Dworp 1",
+    "uit": "261 Opwijk 1",
+    "tscore": 1.5,
+    "uscore": 4.5,
+    "tgem": 1923,
+    "ugem": 2142,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren, Serge", "uspeler": "Bomans, Arno", "telo": 2214, "uelo": 2259, "tstam": 20621, "ustam": 50482},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Spaens, Kjell", "uspeler": "Van Cappellen, Jonas", "telo": 1937, "uelo": 2186, "tstam": 29343, "ustam": 1988},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh, Geert", "uspeler": "Rogiers, Jan", "telo": 1844, "uelo": 2150, "tstam": 43419, "ustam": 48569},
+      {"tr": "0", "ur": "1", "tspeler": "Verrijken, Geert", "uspeler": "Barbe, Tom", "telo": 1938, "uelo": 2106, "tstam": 62766, "ustam": 42838},
+      {"tr": "0", "ur": "1", "tspeler": "Denys, Frank", "uspeler": "Van De Perre, Tom", "telo": 1917, "uelo": 2093, "tstam": 21881, "ustam": 1929},
+      {"tr": "0", "ur": "1", "tspeler": "Van De Velde, Filip", "uspeler": "Van Peer, Cedric", "telo": 1689, "uelo": 2056, "tstam": 31682, "ustam": 51578}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "16-10-2016",
+    "thuis": "401 KGSRL 4",
+    "uit": "228 Dworp 1",
+    "tscore": 3.0,
+    "uscore": 3.0,
+    "tgem": 1933,
+    "ugem": 1960,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Boog, Ben", "uspeler": "Vanderwaeren, Serge", "telo": 2079, "uelo": 2214, "tstam": 53830, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Leeuwen, Etienne", "uspeler": "Spaens, Kjell", "telo": 2052, "uelo": 1937, "tstam": 15121, "ustam": 29343},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van De Wynkele, Rudy", "uspeler": "Maeckelbergh, Geert", "telo": 1936, "uelo": 1844, "tstam": 9679, "ustam": 43419},
+      {"tr": "0", "ur": "1", "tspeler": "Anderl, Christoph", "uspeler": "Verrijken, Geert", "telo": 1880, "uelo": 1938, "tstam": 14762, "ustam": 62766},
+      {"tr": "1", "ur": "0", "tspeler": "De Saegher, Johan", "uspeler": "Denys, Frank", "telo": 1878, "uelo": 1917, "tstam": 53708, "ustam": 21881},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Saegher, Victor", "uspeler": "Lot, Diederik", "telo": 1773, "uelo": 1911, "tstam": 53678, "ustam": 9954}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "06-11-2016",
+    "thuis": "228 Dworp 1",
+    "uit": "541 Leuze 1",
+    "tscore": 2.5,
+    "uscore": 3.5,
+    "tgem": 1965,
+    "ugem": 1922,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Vanderwaeren, Serge", "uspeler": "Real, Thibault", "telo": 2214, "uelo": 2068, "tstam": 20621, "ustam": 66249},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Spaens, Kjell", "uspeler": "Hias, Ludovic", "telo": 1937, "uelo": 2004, "tstam": 29343, "ustam": 79316},
+      {"tr": "0", "ur": "1", "tspeler": "Verrijken, Geert", "uspeler": "Verschueren, Frederic", "telo": 1938, "uelo": 1937, "tstam": 62766, "ustam": 71676},
+      {"tr": "0", "ur": "1", "tspeler": "Denys, Frank", "uspeler": "Vandemeulebrouck, Renaud", "telo": 1917, "uelo": 1918, "tstam": 21881, "ustam": 15818},
+      {"tr": "1", "ur": "0", "tspeler": "Lot, Diederik", "uspeler": "Charles, Gerald", "telo": 1911, "uelo": 1903, "tstam": 9954, "ustam": 16576},
+      {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "Wadoux, Philippe", "telo": 1872, "uelo": 1701, "tstam": 34584, "ustam": 15825}
+    ]
+  }
+]
