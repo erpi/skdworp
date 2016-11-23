@@ -16,11 +16,14 @@ svb:
   - cat: >-
       &lt; 1500
     rij: 26
+tabs:
+  - einduitslag tornooi
+  - kampioenschap svb
 ---
-{% include nav-pills-start.html title=page.title tab1="einduitslag tornooi" tab2="kampioenschap svb" %}
+{% include nav-pills-start.html title=page.title %}
 
-{% include tab-pane-start.html href="einduitslag tornooi" aktief=true %}
-
+{% assign tab = page.tabs[0] %}
+{% include tab-pane-start.html href=tab aktief=true %}
 <table class="table">
   <tbody>
     <tr><th></th><th>naam</th><th>elo</th><th>club</th><th>ptn</th><th>perf</th><th>res</th><th>mb</th><th>sb</th></tr>
@@ -29,11 +32,10 @@ svb:
     {% endfor %}
   </tbody>
 </table>
-
 {% include tab-pane-end.html %}
 
-{% include tab-pane-start.html href="kampioenschap svb" aktief=false %}
-
+{% assign tab = page.tabs[1] %}
+{% include tab-pane-start.html href=tab aktief=false %}
 <table class="table">
   <tbody>
     <tr><th colspan="2">kampioen en ratingwinnaars van het provinciaal kampioenschap vlaams-brabant</th></tr>
@@ -47,7 +49,6 @@ svb:
     {% endfor %}
   </tbody>
 </table>
-
 {% include tab-pane-end.html %}
 
 {% include nav-pills-end.html %}

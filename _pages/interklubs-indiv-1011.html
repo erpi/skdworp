@@ -4,21 +4,20 @@ title: interklubs individueel 2010 - 2011
 permalink: /archief/interklubs-indiv-1011/
 noindex: true
 sitemap: false
-tab1: 'afdeling 4e'
-tab2: 'afdeling 5g'
+tabs:
+ - afdeling 4e
+ - afdeling 5g
 ---
-{% include nav-pills-start.html tab1=page.tab1 tab2=page.tab2 title=page.title %}
+{% include nav-pills-start.html title=page.title %}
 
-{% include tab-pane-start.html href=page.tab1 aktief=true %}
-
+{% assign tab = page.tabs[0] %}
+{% include tab-pane-start.html href=tab aktief=true %}
 {% include table-interklubs-indiv.html datafile=site.data.ni.ni1011.individueel_dworp_1 jaar='201' %}
-
 {% include tab-pane-end.html %}
 
-{% include tab-pane-start.html href=page.tab2 aktief=false %}
-
+{% assign tab = page.tabs[1] %}
+{% include tab-pane-start.html href=tab aktief=false %}
 {% include table-interklubs-indiv.html datafile=site.data.ni.ni1011.individueel_dworp_2 jaar='201' %}
-
 {% include tab-pane-end.html %}
 
 {% include nav-pills-end.html %}

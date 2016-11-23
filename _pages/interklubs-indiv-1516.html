@@ -5,21 +5,8 @@ subtitle: afdeling 3b
 permalink: /archief/interklubs-indiv-1516/
 noindex: true
 sitemap: false
-tab1: '2015'
-tab2: '2016'
 ---
-{% include nav-pills-start.html tab1=page.tab1 tab2=page.tab2 title=page.title %}
+<h2>{{ page.title }}</h2>
+<h3>{{ page.subtitle }}</h3>
 
-{% include tab-pane-start.html href=page.tab1 aktief=true %}
-
-{% include table-interklubs-indiv.html datafile=site.data.ni.ni1516.individueel_dworp_1 jaar=page.tab1 %}
-
-{% include tab-pane-end.html %}
-
-{% include tab-pane-start.html href=page.tab2 aktief=false %}
-
-{% include table-interklubs-indiv.html datafile=site.data.ni.ni1516.individueel_dworp_1 jaar=page.tab2 %}
-
-{% include tab-pane-end.html %}
-
-{% include nav-pills-end.html %}
+{% include table-interklubs-indiv.html datafile=site.data.ni.ni1516.individueel_dworp_1 jaar='201' %}
