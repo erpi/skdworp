@@ -9,18 +9,18 @@ tornooiarchief
 
 ### klubkampioenschap
 
-- [2015 - 2016](/klubkampioenschap15-16/)
-- [2014 - 2015](/klubkampioenschap14-15/)
+- [2015 - 2016](/archief/klubkampioenschap-1516/)
+- [2014 - 2015](/archief/klubkampioenschap-1415/)
 
 ### prijs van de inzet
 
-- [2015 - 2016](/inzet15-16/)
-- [2014 - 2015](/inzet14-15/)
+- [2015 - 2016](/archief/inzet-1516/)
+- [2014 - 2015](/archief/inzet-1415/)
 
 ### nationale interklubs
 
-- [2015 - 2016](/interklubs15-16/)
-- [2014 - 2015](/interklubs14-15/)
+- [2015 - 2016](/archief/interklubs-1516/)
+- [2014 - 2015](/archief/interklubs-1415/)
 
 ### individuele uitslagen interklubs
 
@@ -29,5 +29,5 @@ tornooiarchief
 
 ### snelschaak
 
-- [2015 - 2016](/snelschaak15-16/)
-- [2014 - 2015](/snelschaak14-15/)
+- [2015 - 2016](/archief/snelschaak-1516/)
+- [2014 - 2015](/archief/snelschaak-1415/)
