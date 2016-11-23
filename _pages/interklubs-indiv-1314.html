@@ -1,0 +1,25 @@
+---
+layout: default
+title: interklubs individueel 2013 - 2014
+subtitle: afdeling 4f
+permalink: /archief/interklubs-indiv-1314/
+noindex: true
+sitemap: false
+tab1: '2013'
+tab2: '2014'
+---
+{% include nav-pills-start.html tab1=page.tab1 tab2=page.tab2 title=page.title %}
+
+{% include tab-pane-start.html href=page.tab1 aktief=true %}
+
+{% include table-interklubs-indiv.html datafile=site.data.ni.ni1314.individueel_dworp_1 jaar=page.tab1 %}
+
+{% include tab-pane-end.html %}
+
+{% include tab-pane-start.html href=page.tab2 aktief=false %}
+
+{% include table-interklubs-indiv.html datafile=site.data.ni.ni1314.individueel_dworp_1 jaar=page.tab2 %}
+
+{% include tab-pane-end.html %}
+
+{% include nav-pills-end.html %}

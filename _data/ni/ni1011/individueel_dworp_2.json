@@ -1,0 +1,162 @@
+[
+  {
+    "ronde": "1",
+    "datum": "26-09-2010",
+    "thuis": "114 mechelen 4",
+    "uit": "228 dworp 2",
+    "tscore": 0,
+    "uscore": 4,
+    "tgem": 1426,
+    "ugem": 1815,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "verachtert ramses", "uspeler": "van duuren louis", "telo": 1570, "uelo": 1870, "tstam": 9911, "ustam": 26816},
+      {"tr": "0", "ur": "1", "tspeler": "de winter kevin", "uspeler": "maeckelbergh anne-marie", "telo": 1367, "uelo": 1859, "tstam": 42871, "ustam": 353},
+      {"tr": "0", "ur": "1", "tspeler": "van nylen lodewijk", "uspeler": "debast patrick", "telo": 1412, "uelo": 1785, "tstam": 11322, "ustam": 76333},
+      {"tr": "0", "ur": "1", "tspeler": "lequesne annie", "uspeler": "cornelis eric", "telo": 1355, "uelo": 1747, "tstam": 10204, "ustam": 76317}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "10-10-2010",
+    "thuis": "228 dworp 2",
+    "uit": "239 boitsfort 4",
+    "tscore": 2.0,
+    "uscore": 2.0,
+    "tgem": 1787,
+    "ugem": 1770,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "maeckelbergh anne-marie", "uspeler": "paul bernard", "telo": 1859, "uelo": 1830, "tstam": 353, "ustam": 97109},
+      {"tr": "0", "ur": "1", "tspeler": "debast patrick", "uspeler": "vande venne peter", "telo": 1785, "uelo": 1826, "tstam": 76333, "ustam": 53236},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "malfliet bernard", "uspeler": "kusman david", "telo": 1756, "uelo": 1653, "tstam": 31348, "ustam": 88676},
+      {"tr": "1", "ur": "0", "tspeler": "cornelis eric", "uspeler": "servais frederic", "telo": 1747, "uelo": 0, "tstam": 76317, "ustam": 12208}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "07-11-2010",
+    "thuis": "229 woluwe 3",
+    "uit": "228 dworp 2",
+    "tscore": 1,
+    "uscore": 3,
+    "tgem": 1327,
+    "ugem": 1820,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "grigoriou manolis", "uspeler": "van duuren louis", "telo": 1551, "uelo": 1870, "tstam": 50142, "ustam": 26816},
+      {"tr": "0", "ur": "1", "tspeler": "mouratidis christos", "uspeler": "maeckelbergh anne-marie", "telo": 1329, "uelo": 1859, "tstam": 50056, "ustam": 353},
+      {"tr": "1", "ur": "0", "tspeler": "gomez daniel", "uspeler": "de bosscher peter", "telo": 1222, "uelo": 1804, "tstam": 62006, "ustam": 655},
+      {"tr": "0", "ur": "1", "tspeler": "taormina patrizio", "uspeler": "cornelis eric", "telo": 1205, "uelo": 1747, "tstam": 79405, "ustam": 76317}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "21-11-2010",
+    "thuis": "228 dworp 2",
+    "uit": "132 oude god 5",
+    "tscore": 3.0,
+    "uscore": 1.0,
+    "tgem": 1820,
+    "ugem": 1409,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "van duuren louis", "uspeler": "vancoppenolle ghislain", "telo": 1870, "uelo": 1457, "tstam": 26816, "ustam": 32221},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "maeckelbergh anne-marie", "uspeler": "cuyvers karel", "telo": 1859, "uelo": 1437, "tstam": 353, "ustam": 28690},
+      {"tr": "1", "ur": "0", "tspeler": "de bosscher peter", "uspeler": "lauwers rudi", "telo": 1804, "uelo": 1424, "tstam": 655, "ustam": 11611},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "cornelis eric", "uspeler": "durieux frank", "telo": 1747, "uelo": 1316, "tstam": 76317, "ustam": 53180}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "05-12-2010",
+    "thuis": "260 humbeek 4",
+    "uit": "228 dworp 2",
+    "tscore": 0,
+    "uscore": 4,
+    "tgem": 1468,
+    "ugem": 1820,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "van hauwermeiren kwinten", "uspeler": "van duuren louis", "telo": 1498, "uelo": 1870, "tstam": 11024, "ustam": 26816},
+      {"tr": "0F", "ur": "1F", "tspeler": "de block yordi", "uspeler": "maeckelbergh anne-marie", "telo": 1476, "uelo": 1859, "tstam": 11030, "ustam": 353},
+      {"tr": "0", "ur": "1", "tspeler": "sterck arno", "uspeler": "de bosscher peter", "telo": 1430, "uelo": 1804, "tstam": 10284, "ustam": 655},
+      {"tr": "0", "ur": "1", "tspeler": "van hauwermeiren edwin", "uspeler": "cornelis eric", "telo": 0, "uelo": 1747, "tstam": 12362, "ustam": 76317}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "09-01-2011",
+    "thuis": "228 dworp 2",
+    "uit": "230 leuven 6",
+    "tscore": 4,
+    "uscore": 0,
+    "tgem": 1779,
+    "ugem": 1179,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "de bosscher peter", "uspeler": "massoels werther", "telo": 1804, "uelo": 1179, "tstam": 655, "ustam": 10213},
+      {"tr": "1", "ur": "0", "tspeler": "debast patrick", "uspeler": "van de vyver thijs", "telo": 1785, "uelo": 0, "tstam": 76333, "ustam": 45977},
+      {"tr": "1", "ur": "0", "tspeler": "cornelis eric", "uspeler": "van hirtum lennart", "telo": 1747, "uelo": 0, "tstam": 76317, "ustam": 10552},
+      {"tr": "1", "ur": "0", "tspeler": "kawanda jean didier", "uspeler": "dedoncker pieter", "telo": 0, "uelo": 0, "tstam": 12379, "ustam": 10649}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "23-01-2011",
+    "thuis": "244 brussels cc 4",
+    "uit": "228 dworp 2",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1660,
+    "ugem": 1793,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "haulotte francois", "uspeler": "maeckelbergh anne-marie", "telo": 1701, "uelo": 1859, "tstam": 86941, "ustam": 353},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "lefevre stephane", "uspeler": "de bosscher peter", "telo": 1695, "uelo": 1804, "tstam": 72362, "ustam": 655},
+      {"tr": "0", "ur": "1", "tspeler": "van loo georges", "uspeler": "ertveldt pieter", "telo": 1633, "uelo": 1760, "tstam": 52094, "ustam": 48097},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "van de craen piet", "uspeler": "cornelis eric", "telo": 1609, "uelo": 1747, "tstam": 7013, "ustam": 76317}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "27-02-2011",
+    "thuis": "228 dworp 2",
+    "uit": "204 excelsior 2",
+    "tscore": 2.5,
+    "uscore": 1.5,
+    "tgem": 1847,
+    "ugem": 1573,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "maeckelbergh geert", "uspeler": "gervais jacques", "telo": 1854, "uelo": 1620, "tstam": 43419, "ustam": 2941},
+      {"tr": "1", "ur": "0", "tspeler": "van duuren louis", "uspeler": "griffon andre", "telo": 1870, "uelo": 1617, "tstam": 26816, "ustam": 73903},
+      {"tr": "0", "ur": "1", "tspeler": "maeckelbergh anne-marie", "uspeler": "goidts bruno", "telo": 1859, "uelo": 1602, "tstam": 353, "ustam": 69191},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "de bosscher peter", "uspeler": "de boeck pierre", "telo": 1804, "uelo": 1454, "tstam": 655, "ustam": 14281}
+    ]
+  },
+  {
+    "ronde": "10",
+    "datum": "20-03-2011",
+    "thuis": "231 dt leuven 1",
+    "uit": "228 dworp 2",
+    "tscore": 1.0,
+    "uscore": 3.0,
+    "tgem": 1483,
+    "ugem": 1824,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "roosen stefan", "uspeler": "maeckelbergh geert", "telo": 1800, "uelo": 1854, "tstam": 21997, "ustam": 43419},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "puttemans patrick", "uspeler": "van duuren louis", "telo": 1605, "uelo": 1870, "tstam": 28681, "ustam": 26816},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "van den bosch arno", "uspeler": "cornelis eric", "telo": 1369, "uelo": 1747, "tstam": 10546, "ustam": 76317},
+      {"tr": "0", "ur": "1", "tspeler": "butoescu valentina", "uspeler": "kawanda jean didier", "telo": 1159, "uelo": 0, "tstam": 10296, "ustam": 12379}
+    ]
+  },
+  {
+    "ronde": "11",
+    "datum": "03-04-2011",
+    "thuis": "228 dworp 2",
+    "uit": "207 2 fous diog\u00e8ne 2",
+    "tscore": 4,
+    "uscore": 0,
+    "tgem": 1820,
+    "ugem": 1608,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "van duuren louis", "uspeler": "rampelbergh wilfried", "telo": 1870, "uelo": 1608, "tstam": 26816, "ustam": 95826},
+      {"tr": "1", "ur": "0", "tspeler": "maeckelbergh anne-marie", "uspeler": "heck audrey", "telo": 1859, "uelo": 0, "tstam": 353, "ustam": 12279},
+      {"tr": "1", "ur": "0", "tspeler": "de bosscher peter", "uspeler": "stares justin", "telo": 1804, "uelo": 0, "tstam": 655, "ustam": 12275},
+      {"tr": "1", "ur": "0", "tspeler": "cornelis eric", "uspeler": "kassabeh zakariya", "telo": 1747, "uelo": 0, "tstam": 76317, "ustam": 60580}
+    ]
+  }
+]

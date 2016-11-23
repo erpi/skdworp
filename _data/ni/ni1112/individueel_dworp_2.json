@@ -1,0 +1,178 @@
+[
+  {
+    "ronde": "1",
+    "datum": "09-10-2011",
+    "thuis": "204 excelsior 1",
+    "uit": "228 dworp 2",
+    "tscore": 1.0,
+    "uscore": 3.0,
+    "tgem": 1603,
+    "ugem": 1897,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "lambert luc", "uspeler": "vanderwaeren serge", "telo": 1864, "uelo": 2194, "tstam": 61794, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "goidts bruno", "uspeler": "van duuren louis", "telo": 1643, "uelo": 1859, "tstam": 69191, "ustam": 26816},
+      {"tr": "0", "ur": "1", "tspeler": "fonteyne jacques", "uspeler": "debast patrick", "telo": 1508, "uelo": 1789, "tstam": 86002, "ustam": 76333},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "nica radu-catalin", "uspeler": "cornelis eric", "telo": 1397, "uelo": 1746, "tstam": 87611, "ustam": 76317}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "23-10-2011",
+    "thuis": "228 dworp 2",
+    "uit": "201 creb 2",
+    "tscore": 2.5,
+    "uscore": 1.5,
+    "tgem": 1897,
+    "ugem": 1837,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "vanderwaeren serge", "uspeler": "thierens christian", "telo": 2194, "uelo": 1947, "tstam": 20621, "ustam": 49425},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "van duuren louis", "uspeler": "caufriez olivier", "telo": 1859, "uelo": 1883, "tstam": 26816, "ustam": 85031},
+      {"tr": "0", "ur": "1", "tspeler": "debast patrick", "uspeler": "gullentops nathan", "telo": 1789, "uelo": 1883, "tstam": 76333, "ustam": 76996},
+      {"tr": "1", "ur": "0", "tspeler": "cornelis eric", "uspeler": "van de water marc", "telo": 1746, "uelo": 1633, "tstam": 76317, "ustam": 78093}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "06-11-2011",
+    "thuis": "261 opwijk 2",
+    "uit": "228 dworp 2",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1696,
+    "ugem": 1897,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "meskens stephan", "uspeler": "vanderwaeren serge", "telo": 1857, "uelo": 2194, "tstam": 33481, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "van zeebroeck sam", "uspeler": "van duuren louis", "telo": 1735, "uelo": 1859, "tstam": 10344, "ustam": 26816},
+      {"tr": "1", "ur": "0", "tspeler": "van den wijngaert sigi", "uspeler": "debast patrick", "telo": 1700, "uelo": 1789, "tstam": 28452, "ustam": 76333},
+      {"tr": "0", "ur": "1", "tspeler": "barclay joost", "uspeler": "cornelis eric", "telo": 1493, "uelo": 1746, "tstam": 15351, "ustam": 76317}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "20-11-2011",
+    "thuis": "228 dworp 2",
+    "uit": "462 zottegem 4",
+    "tscore": 2,
+    "uscore": 2,
+    "tgem": 1897,
+    "ugem": 1790,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "vanderwaeren serge", "uspeler": "colin peter", "telo": 2194, "uelo": 1877, "tstam": 20621, "ustam": 23841},
+      {"tr": "0", "ur": "1", "tspeler": "van duuren louis", "uspeler": "van poucke simon", "telo": 1859, "uelo": 1879, "tstam": 26816, "ustam": 6467},
+      {"tr": "1", "ur": "0", "tspeler": "debast patrick", "uspeler": "van de putte ben", "telo": 1789, "uelo": 1721, "tstam": 76333, "ustam": 2127},
+      {"tr": "1", "ur": "0", "tspeler": "cornelis eric", "uspeler": "gyselinck jelle", "telo": 1746, "uelo": 1684, "tstam": 76317, "ustam": 23809}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "01-12-2011",
+    "thuis": "240 machelen 1",
+    "uit": "228 dworp 2",
+    "tscore": 2.0,
+    "uscore": 2.0,
+    "tgem": 1834,
+    "ugem": 1897,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "groenez jean", "uspeler": "vanderwaeren serge", "telo": 1990, "uelo": 2194, "tstam": 37044, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "de mol patrick", "uspeler": "van duuren louis", "telo": 1810, "uelo": 1859, "tstam": 57011, "ustam": 26816},
+      {"tr": "1", "ur": "0", "tspeler": "crabbe danny", "uspeler": "debast patrick", "telo": 1792, "uelo": 1789, "tstam": 5797, "ustam": 76333},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "hernalsteen johan", "uspeler": "cornelis eric", "telo": 1745, "uelo": 1746, "tstam": 5932, "ustam": 76317}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "15-01-2012",
+    "thuis": "228 dworp 2",
+    "uit": "226 europchess 2",
+    "tscore": 1,
+    "uscore": 3,
+    "tgem": 1897,
+    "ugem": 2095,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "vanderwaeren serge", "uspeler": "moles palleja pere", "telo": 2194, "uelo": 2158, "tstam": 20621, "ustam": 10739},
+      {"tr": "0", "ur": "1", "tspeler": "van duuren louis", "uspeler": "fogel pierre", "telo": 1859, "uelo": 2211, "tstam": 26816, "ustam": 56359},
+      {"tr": "0", "ur": "1", "tspeler": "debast patrick", "uspeler": "riksten john", "telo": 1789, "uelo": 2075, "tstam": 76333, "ustam": 12861},
+      {"tr": "0", "ur": "1", "tspeler": "cornelis eric", "uspeler": "frederiksen kristian pade", "telo": 1746, "uelo": 1937, "tstam": 76317, "ustam": 60007}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "29-01-2012",
+    "thuis": "501 crec 5",
+    "uit": "228 dworp 2",
+    "tscore": 2.0,
+    "uscore": 2.0,
+    "tgem": 1841,
+    "ugem": 1933,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "romanelli robert", "uspeler": "vanderwaeren serge", "telo": 1989, "uelo": 2194, "tstam": 5720, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "kaczmarzyk lucien", "uspeler": "van duuren louis", "telo": 1857, "uelo": 1859, "tstam": 97938, "ustam": 26816},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "atienza hilario", "uspeler": "cornelis eric", "telo": 1845, "uelo": 1746, "tstam": 69370, "ustam": 76317},
+      {"tr": "1", "ur": "0", "tspeler": "jamar vadim", "uspeler": "rab rashed", "telo": 1672, "uelo": 0, "tstam": 87408, "ustam": 12799}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "12-02-2012",
+    "thuis": "228 dworp 2",
+    "uit": "209 anderlecht 3",
+    "tscore": 2.5,
+    "uscore": 1.5,
+    "tgem": 1906,
+    "ugem": 1929,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "vanderwaeren serge", "uspeler": "faybish nimrod", "telo": 2194, "uelo": 2210, "tstam": 20621, "ustam": 79197},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "van duuren louis", "uspeler": "brion philippe", "telo": 1859, "uelo": 1855, "tstam": 26816, "ustam": 74888},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "debast patrick", "uspeler": "san lorenzo nordine", "telo": 1789, "uelo": 1723, "tstam": 76333, "ustam": 73253},
+      {"tr": "1", "ur": "0", "tspeler": "de bosscher peter", "uspeler": "faybish benjamin", "telo": 1781, "uelo": 0, "tstam": 655, "ustam": 12007}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "04-03-2012",
+    "thuis": "228 dworp 2",
+    "uit": "290 epicure 2",
+    "tscore": 2.5,
+    "uscore": 1.5,
+    "tgem": 1933,
+    "ugem": 1676,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "vanderwaeren serge", "uspeler": "wasnair michel", "telo": 2194, "uelo": 1830, "tstam": 20621, "ustam": 77615},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "van duuren louis", "uspeler": "laios steve", "telo": 1859, "uelo": 1692, "tstam": 26816, "ustam": 55760},
+      {"tr": "1", "ur": "0", "tspeler": "cornelis eric", "uspeler": "mertens francois", "telo": 1746, "uelo": 1685, "tstam": 76317, "ustam": 31526},
+      {"tr": "0", "ur": "1", "tspeler": "sissau arno", "uspeler": "delvaux jacques", "telo": 0, "uelo": 1498, "tstam": 12809, "ustam": 18538}
+    ]
+  },
+  {
+    "ronde": "10",
+    "datum": "18-03-2012",
+    "thuis": "548 caissa europe 3",
+    "uit": "228 dworp 2",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1563,
+    "ugem": 1895,
+    "borden": [
+      {"tr": "1F", "ur": "0F", "tspeler": "muxfeldt thorsten", "uspeler": "vanderwaeren serge", "telo": 1854, "uelo": 2194, "tstam": 12377, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "pitropakis kyriakos", "uspeler": "van duuren louis", "telo": 1601, "uelo": 1859, "tstam": 43605, "ustam": 26816},
+      {"tr": "0", "ur": "1", "tspeler": "beaupre mathias", "uspeler": "de bosscher peter", "telo": 1493, "uelo": 1781, "tstam": 12140, "ustam": 655},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "de le court lucas", "uspeler": "cornelis eric", "telo": 1302, "uelo": 1746, "tstam": 60726, "ustam": 76317}
+    ]
+  },
+  {
+    "ronde": "11",
+    "datum": "25-03-2012",
+    "thuis": "228 dworp 2",
+    "uit": "229 woluwe 1",
+    "tscore": 3.0,
+    "uscore": 1.0,
+    "tgem": 1895,
+    "ugem": 1886,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "vanderwaeren serge", "uspeler": "rauta nicolas", "telo": 2194, "uelo": 1939, "tstam": 20621, "ustam": 68497},
+      {"tr": "1", "ur": "0", "tspeler": "van duuren louis", "uspeler": "van melsen raymond", "telo": 1859, "uelo": 1926, "tstam": 26816, "ustam": 28207},
+      {"tr": "1", "ur": "0", "tspeler": "de bosscher peter", "uspeler": "frederiksen jens", "telo": 1781, "uelo": 1876, "tstam": 655, "ustam": 78697},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "cornelis eric", "uspeler": "gilbert colin", "telo": 1746, "uelo": 1802, "tstam": 76317, "ustam": 85545}
+    ]
+  }
+]

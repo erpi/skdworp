@@ -7,7 +7,7 @@
         {% for bord in ronde.borden %}
         <tr><td class="aligncenter">{{ forloop.index }}</td><td class="alignright">{{ bord.tstam }}</td>
           <td>{{ bord.tspeler | downcase }}</td><td class="aligncenter">{{ bord.telo }}</td>
-          <td class="alignright">{{ bord.tr }}</td><td class="aligncenter">-</td><td>{{ bord.ur }}</td>
+          <td class="alignright">{{ bord.tr | downcase }}</td><td class="aligncenter">-</td><td>{{ bord.ur | downcase }}</td>
           <td class="alignright">{{ bord.ustam }}</td><td>{{ bord.uspeler | downcase }}</td>
           <td class="aligncenter">{{ bord.uelo }}</td></tr>
         {% endfor %}
