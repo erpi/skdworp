@@ -3,6 +3,22 @@ layout: default
 title: nationale interklubs 2014 - 2015
 subtitle: afdeling 4f
 permalink: /archief/interklubs-1415/
-last_modified_at: 2016-11-16
+last_modified_at: 2016-11-23
+tab1: eindstand
+tab2: uitslagen
 ---
-{% include page-eindstand.html datafile=site.data.ni.ni1415.eindstand %}
+{% include nav-pills-start.html tab1=page.tab1 tab2=page.tab2 title=page.title %}
+
+{% include tab-pane-start.html href=page.tab1 aktief=true %}
+
+{% include table-interklubs-eindstand.html datafile=site.data.ni.ni1415.eindstand_dworp_1 %}
+
+{% include tab-pane-end.html %}
+
+{% include tab-pane-start.html href=page.tab2 aktief=false %}
+
+{% include table-interklubs-uitslagen.html datafile=site.data.ni.ni1415.uitslagen_dworp_1 %}
+
+{% include tab-pane-end.html %}
+
+{% include nav-pills-end.html %}

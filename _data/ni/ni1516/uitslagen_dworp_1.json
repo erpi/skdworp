@@ -1,0 +1,134 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "27-09-2015",
+    "uitslagen": [
+      {"tr": "2.5", "ur": "3.5", "thuis": "472 st.-amandsberg 1", "uit": "226 europchess 2"},
+      {"tr": "3", "ur": "3", "thuis": "951 lasne-waterloo 1", "uit": "401 kgsrl 4"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "403 drie torens 1", "uit": "432 wetteren 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "952 wavre 1", "uit": "436 lsv-chesspirant 1"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "230 leuven 2", "uit": "228 dworp 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "548 caissa europe 1", "uit": "143 temse 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "11-10-2015",
+    "uitslagen": [
+      {"tr": "3.5", "ur": "2.5", "thuis": "226 europchess 2", "uit": "143 temse 3"},
+      {"tr": "2", "ur": "4", "thuis": "228 dworp 1", "uit": "548 caissa europe 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "436 lsv-chesspirant 1", "uit": "230 leuven 2"},
+      {"tr": "4", "ur": "2", "thuis": "432 wetteren 1", "uit": "952 wavre 1"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "401 kgsrl 4", "uit": "403 drie torens 1"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "472 st.-amandsberg 1", "uit": "951 lasne-waterloo 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "08-11-2015",
+    "uitslagen": [
+      {"tr": "2", "ur": "4", "thuis": "951 lasne-waterloo 1", "uit": "226 europchess 2"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "403 drie torens 1", "uit": "472 st.-amandsberg 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "952 wavre 1", "uit": "401 kgsrl 4"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "230 leuven 2", "uit": "432 wetteren 1"},
+      {"tr": "0.5", "ur": "5.5", "thuis": "548 caissa europe 1", "uit": "436 lsv-chesspirant 1"},
+      {"tr": "4", "ur": "2", "thuis": "143 temse 3", "uit": "228 dworp 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "22-11-2015",
+    "uitslagen": [
+      {"tr": "2.5", "ur": "3.5", "thuis": "226 europchess 2", "uit": "228 dworp 1"},
+      {"tr": "3", "ur": "3", "thuis": "436 lsv-chesspirant 1", "uit": "143 temse 3"},
+      {"tr": "5", "ur": "1", "thuis": "432 wetteren 1", "uit": "548 caissa europe 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "401 kgsrl 4", "uit": "230 leuven 2"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "472 st.-amandsberg 1", "uit": "952 wavre 1"},
+      {"tr": "0", "ur": "6", "thuis": "951 lasne-waterloo 1", "uit": "403 drie torens 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "29-11-2015",
+    "uitslagen": [
+      {"tr": "4", "ur": "2", "thuis": "403 drie torens 1", "uit": "226 europchess 2"},
+      {"tr": "5", "ur": "1", "thuis": "952 wavre 1", "uit": "951 lasne-waterloo 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "230 leuven 2", "uit": "472 st.-amandsberg 1"},
+      {"tr": "4", "ur": "2", "thuis": "548 caissa europe 1", "uit": "401 kgsrl 4"},
+      {"tr": "2", "ur": "4", "thuis": "143 temse 3", "uit": "432 wetteren 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "228 dworp 1", "uit": "436 lsv-chesspirant 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "31-01-2016",
+    "uitslagen": [
+      {"tr": "2", "ur": "4", "thuis": "226 europchess 2", "uit": "436 lsv-chesspirant 1"},
+      {"tr": "3", "ur": "3", "thuis": "432 wetteren 1", "uit": "228 dworp 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "401 kgsrl 4", "uit": "143 temse 3"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "472 st.-amandsberg 1", "uit": "548 caissa europe 1"},
+      {"tr": "4", "ur": "2", "thuis": "951 lasne-waterloo 1", "uit": "230 leuven 2"},
+      {"tr": "4", "ur": "2", "thuis": "403 drie torens 1", "uit": "952 wavre 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "21-02-2016",
+    "uitslagen": [
+      {"tr": "5.5", "ur": "0.5", "thuis": "952 wavre 1", "uit": "226 europchess 2"},
+      {"tr": "2", "ur": "4", "thuis": "230 leuven 2", "uit": "403 drie torens 1"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "548 caissa europe 1", "uit": "951 lasne-waterloo 1"},
+      {"tr": "4", "ur": "2", "thuis": "143 temse 3", "uit": "472 st.-amandsberg 1"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "228 dworp 1", "uit": "401 kgsrl 4"},
+      {"tr": "3", "ur": "3", "thuis": "436 lsv-chesspirant 1", "uit": "432 wetteren 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "06-03-2016",
+    "uitslagen": [
+      {"tr": "2", "ur": "4", "thuis": "226 europchess 2", "uit": "432 wetteren 1"},
+      {"tr": "3", "ur": "3", "thuis": "401 kgsrl 4", "uit": "436 lsv-chesspirant 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "472 st.-amandsberg 1", "uit": "228 dworp 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "951 lasne-waterloo 1", "uit": "143 temse 3"},
+      {"tr": "4", "ur": "2", "thuis": "403 drie torens 1", "uit": "548 caissa europe 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "952 wavre 1", "uit": "230 leuven 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "20-03-2016",
+    "uitslagen": [
+      {"tr": "2.5", "ur": "3.5", "thuis": "230 leuven 2", "uit": "226 europchess 2"},
+      {"tr": "0.5", "ur": "5.5", "thuis": "548 caissa europe 1", "uit": "952 wavre 1"},
+      {"tr": "2", "ur": "4", "thuis": "143 temse 3", "uit": "403 drie torens 1"},
+      {"tr": "4", "ur": "2", "thuis": "228 dworp 1", "uit": "951 lasne-waterloo 1"},
+      {"tr": "4", "ur": "2", "thuis": "436 lsv-chesspirant 1", "uit": "472 st.-amandsberg 1"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "432 wetteren 1", "uit": "401 kgsrl 4"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "17-04-2016",
+    "uitslagen": [
+      {"tr": "1", "ur": "5", "thuis": "226 europchess 2", "uit": "401 kgsrl 4"},
+      {"tr": "2", "ur": "4", "thuis": "472 st.-amandsberg 1", "uit": "432 wetteren 1"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "951 lasne-waterloo 1", "uit": "436 lsv-chesspirant 1"},
+      {"tr": "5.5", "ur": "0.5", "thuis": "403 drie torens 1", "uit": "228 dworp 1"},
+      {"tr": "5", "ur": "1", "thuis": "952 wavre 1", "uit": "143 temse 3"},
+      {"tr": "5", "ur": "1", "thuis": "230 leuven 2", "uit": "548 caissa europe 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "24-04-2016",
+    "uitslagen": [
+      {"tr": "1", "ur": "5", "thuis": "548 caissa europe 1", "uit": "226 europchess 2"},
+      {"tr": "5.5", "ur": "0.5", "thuis": "143 temse 3", "uit": "230 leuven 2"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "228 dworp 1", "uit": "952 wavre 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "436 lsv-chesspirant 1", "uit": "403 drie torens 1"},
+      {"tr": "4", "ur": "2", "thuis": "432 wetteren 1", "uit": "951 lasne-waterloo 1"},
+      {"tr": "3", "ur": "3", "thuis": "401 kgsrl 4", "uit": "472 st.-amandsberg 1"}
+    ]
+  }
+]
