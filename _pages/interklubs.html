@@ -1,19 +1,15 @@
 ---
 layout: default
-title: nationale interklubs
+title: nationale interklubs 2016 - 2017
 subtitle: afdeling 3b
 permalink: /interklubs/
-jaar1: "2016"
-jaar2: "2017"
 tabs:
   - individueel
   - uitslagen
   - tussenstand
 last_modified_at: 2016-11-24
 ---
-{% capture titel %}{{ page.title }} {{ page.jaar1 }}-{{ page.jaar2 }}{% endcapture %}
-
-{% include nav-pills-start.html title=titel %}
+{% include nav-pills-start.html title=page.title %}
 
 {% assign tab = page.tabs[0] %}
 {% include tab-pane-start.html href=tab aktief=true %}
@@ -22,12 +18,12 @@ last_modified_at: 2016-11-24
 
 {% assign tab = page.tabs[1] %}
 {% include tab-pane-start.html href=tab aktief=false %}
-{% include table-klubkampioenschap.html datafile=site.data.ni.ni1617.uitslagen jaar="201" %}
+{% include table-interklubs-uitslagen.html datafile=site.data.ni.ni1617.uitslagen_dworp_1 %}
 {% include tab-pane-end.html %}
 
 {% assign tab = page.tabs[2] %}
 {% include tab-pane-start.html href=tab aktief=false %}
-{% include table-eindstand.html datafile=site.data.ni.ni1617.tussenstand %}
+{% include table-interklubs-eindstand.html datafile=site.data.ni.ni1617.tussenstand_dworp_1 %}
 {% include tab-pane-end.html %}
 
 {% include nav-pills-end.html %}
