@@ -1,0 +1,134 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "09-10-2011",
+    "uitslagen": [
+      {"tr": "10", "ur": "6", "thuis": "548 caissa europe 2", "uit": "538 fleurus 1"},
+      {"tr": "7", "ur": "9", "thuis": "549 saint-ghislain 1", "uit": "521 tournai 1"},
+      {"tr": "7", "ur": "9", "thuis": "533 lessines 1", "uit": "228 dworp 1"},
+      {"tr": "8", "ur": "8", "thuis": "501 crec 4", "uit": "953 nivelles 1"},
+      {"tr": "12", "ur": "4", "thuis": "518 soignies 1", "uit": "418 geraardsbergen 2"},
+      {"tr": "9", "ur": "7", "thuis": "514 fontaine 3", "uit": "909 philippeville 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "23-10-2011",
+    "uitslagen": [
+      {"tr": "10", "ur": "6", "thuis": "909 philippeville 1", "uit": "548 caissa europe 2"},
+      {"tr": "8", "ur": "8", "thuis": "418 geraardsbergen 2", "uit": "514 fontaine 3"},
+      {"tr": "7", "ur": "9", "thuis": "953 nivelles 1", "uit": "518 soignies 1"},
+      {"tr": "6", "ur": "10", "thuis": "228 dworp 1", "uit": "501 crec 4"},
+      {"tr": "7", "ur": "9", "thuis": "521 tournai 1", "uit": "533 lessines 1"},
+      {"tr": "10", "ur": "6", "thuis": "538 fleurus 1", "uit": "549 saint-ghislain 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "06-11-2011",
+    "uitslagen": [
+      {"tr": "10", "ur": "6", "thuis": "548 caissa europe 2", "uit": "549 saint-ghislain 1"},
+      {"tr": "7", "ur": "9", "thuis": "533 lessines 1", "uit": "538 fleurus 1"},
+      {"tr": "7", "ur": "9", "thuis": "501 crec 4", "uit": "521 tournai 1"},
+      {"tr": "10", "ur": "6", "thuis": "518 soignies 1", "uit": "228 dworp 1"},
+      {"tr": "8", "ur": "8", "thuis": "514 fontaine 3", "uit": "953 nivelles 1"},
+      {"tr": "7", "ur": "9", "thuis": "909 philippeville 1", "uit": "418 geraardsbergen 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "20-11-2011",
+    "uitslagen": [
+      {"tr": "10", "ur": "6", "thuis": "418 geraardsbergen 2", "uit": "548 caissa europe 2"},
+      {"tr": "8", "ur": "8", "thuis": "953 nivelles 1", "uit": "909 philippeville 1"},
+      {"tr": "6", "ur": "10", "thuis": "228 dworp 1", "uit": "514 fontaine 3"},
+      {"tr": "7", "ur": "9", "thuis": "521 tournai 1", "uit": "518 soignies 1"},
+      {"tr": "7", "ur": "9", "thuis": "538 fleurus 1", "uit": "501 crec 4"},
+      {"tr": "6", "ur": "10", "thuis": "549 saint-ghislain 1", "uit": "533 lessines 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "04-12-2011",
+    "uitslagen": [
+      {"tr": "4", "ur": "11", "thuis": "548 caissa europe 2", "uit": "533 lessines 1"},
+      {"tr": "10", "ur": "6", "thuis": "501 crec 4", "uit": "549 saint-ghislain 1"},
+      {"tr": "6", "ur": "10", "thuis": "518 soignies 1", "uit": "538 fleurus 1"},
+      {"tr": "11", "ur": "5", "thuis": "514 fontaine 3", "uit": "521 tournai 1"},
+      {"tr": "7", "ur": "9", "thuis": "909 philippeville 1", "uit": "228 dworp 1"},
+      {"tr": "8", "ur": "8", "thuis": "418 geraardsbergen 2", "uit": "953 nivelles 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "15-01-2012",
+    "uitslagen": [
+      {"tr": "12", "ur": "4", "thuis": "953 nivelles 1", "uit": "548 caissa europe 2"},
+      {"tr": "9", "ur": "7", "thuis": "228 dworp 1", "uit": "418 geraardsbergen 2"},
+      {"tr": "8", "ur": "8", "thuis": "521 tournai 1", "uit": "909 philippeville 1"},
+      {"tr": "9", "ur": "7", "thuis": "538 fleurus 1", "uit": "514 fontaine 3"},
+      {"tr": "4", "ur": "12", "thuis": "549 saint-ghislain 1", "uit": "518 soignies 1"},
+      {"tr": "10", "ur": "6", "thuis": "533 lessines 1", "uit": "501 crec 4"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "29-01-2012",
+    "uitslagen": [
+      {"tr": "9", "ur": "7", "thuis": "548 caissa europe 2", "uit": "501 crec 4"},
+      {"tr": "9", "ur": "7", "thuis": "518 soignies 1", "uit": "533 lessines 1"},
+      {"tr": "11", "ur": "5", "thuis": "514 fontaine 3", "uit": "549 saint-ghislain 1"},
+      {"tr": "7", "ur": "9", "thuis": "909 philippeville 1", "uit": "538 fleurus 1"},
+      {"tr": "8", "ur": "8", "thuis": "418 geraardsbergen 2", "uit": "521 tournai 1"},
+      {"tr": "8", "ur": "8", "thuis": "953 nivelles 1", "uit": "228 dworp 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "12-02-2012",
+    "uitslagen": [
+      {"tr": "8", "ur": "8", "thuis": "228 dworp 1", "uit": "548 caissa europe 2"},
+      {"tr": "8", "ur": "8", "thuis": "521 tournai 1", "uit": "953 nivelles 1"},
+      {"tr": "9", "ur": "7", "thuis": "538 fleurus 1", "uit": "418 geraardsbergen 2"},
+      {"tr": "6", "ur": "10", "thuis": "549 saint-ghislain 1", "uit": "909 philippeville 1"},
+      {"tr": "7", "ur": "9", "thuis": "533 lessines 1", "uit": "514 fontaine 3"},
+      {"tr": "8", "ur": "8", "thuis": "501 crec 4", "uit": "518 soignies 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "04-03-2012",
+    "uitslagen": [
+      {"tr": "7", "ur": "9", "thuis": "548 caissa europe 2", "uit": "518 soignies 1"},
+      {"tr": "9", "ur": "7", "thuis": "514 fontaine 3", "uit": "501 crec 4"},
+      {"tr": "9", "ur": "7", "thuis": "909 philippeville 1", "uit": "533 lessines 1"},
+      {"tr": "11", "ur": "5", "thuis": "418 geraardsbergen 2", "uit": "549 saint-ghislain 1"},
+      {"tr": "7", "ur": "9", "thuis": "953 nivelles 1", "uit": "538 fleurus 1"},
+      {"tr": "8", "ur": "8", "thuis": "228 dworp 1", "uit": "521 tournai 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "18-03-2012",
+    "uitslagen": [
+      {"tr": "7", "ur": "9", "thuis": "521 tournai 1", "uit": "548 caissa europe 2"},
+      {"tr": "11", "ur": "5", "thuis": "538 fleurus 1", "uit": "228 dworp 1"},
+      {"tr": "6", "ur": "10", "thuis": "549 saint-ghislain 1", "uit": "953 nivelles 1"},
+      {"tr": "10", "ur": "6", "thuis": "533 lessines 1", "uit": "418 geraardsbergen 2"},
+      {"tr": "10", "ur": "6", "thuis": "501 crec 4", "uit": "909 philippeville 1"},
+      {"tr": "6", "ur": "10", "thuis": "518 soignies 1", "uit": "514 fontaine 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "25-03-2012",
+    "uitslagen": [
+      {"tr": "10", "ur": "6", "thuis": "514 fontaine 3", "uit": "548 caissa europe 2"},
+      {"tr": "9", "ur": "7", "thuis": "909 philippeville 1", "uit": "518 soignies 1"},
+      {"tr": "8", "ur": "8", "thuis": "418 geraardsbergen 2", "uit": "501 crec 4"},
+      {"tr": "9", "ur": "6", "thuis": "953 nivelles 1", "uit": "533 lessines 1"},
+      {"tr": "12", "ur": "4", "thuis": "228 dworp 1", "uit": "549 saint-ghislain 1"},
+      {"tr": "9", "ur": "7", "thuis": "521 tournai 1", "uit": "538 fleurus 1"}
+    ]
+  }
+]

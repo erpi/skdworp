@@ -1,0 +1,23 @@
+---
+layout: default
+title: nationale interklubs 2013 - 2014
+subtitle: afdeling 4g
+permalink: /archief/interklubs-1314/
+last_modified_at: 2016-11-24
+tabs:
+  - eindstand
+  - uitslagen
+---
+{% include nav-pills-start.html title=page.title %}
+
+{% assign tab = page.tabs[0] %}
+{% include tab-pane-start.html href=tab aktief=true %}
+{% include table-interklubs-eindstand.html datafile=site.data.ni.ni1314.eindstand_dworp_1 %}
+{% include tab-pane-end.html %}
+
+{% assign tab = page.tabs[1] %}
+{% include tab-pane-start.html href=tab aktief=false %}
+{% include table-interklubs-uitslagen.html datafile=site.data.ni.ni1314.uitslagen_dworp_1 %}
+{% include tab-pane-end.html %}
+
+{% include nav-pills-end.html %}

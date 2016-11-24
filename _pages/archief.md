@@ -21,6 +21,9 @@ tornooiarchief
 
 - [2015 - 2016](/archief/interklubs-1516/)
 - [2014 - 2015](/archief/interklubs-1415/)
+- [2013 - 2014](/archief/interklubs-1314/)
+- [2012 - 2013](/archief/interklubs-1213/)
+- [2011 - 2012](/archief/interklubs-1112/)
 
 ### individuele uitslagen interklubs
 
