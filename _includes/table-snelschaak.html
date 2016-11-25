@@ -1,0 +1,26 @@
+<table class="table table-eindstand">
+  <thead>
+    <tr>
+      {% for kolom in include.datafile[0] %}
+      <th>{% if forloop.index > 2 %}{{ kolom[0] | downcase }}{% endif %}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for persoon in include.datafile %}
+    {% for speler in page.spelers %}
+      {% if speler.naam == persoon.naam %}
+        {% assign doorstrepen = speler.doorstrepen %}
+        {% break %}
+      {% endif %}
+      {% assign doorstrepen = nil %}
+    {% endfor %}
+    <tr>
+      {% for kolom in persoon %}
+      {% assign i = forloop.index | minus: 2 %}
+      <td{% if i == 0 %} class="alignleft"{% endif %}{% for k in doorstrepen %}{% if k == i %} class="doorstreept"{% break %}{% endif %}{% endfor %}>{{ kolom[1] | downcase }}</td>
+      {% endfor %}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
