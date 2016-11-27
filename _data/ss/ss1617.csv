@@ -1,12 +1,18 @@
-nummer,naam,av,sep,okt,totaal
-1,serge vanderwaeren,94,79,70,243
-2,kjell spaens,69,79,65,213
-3,diederik lot,94,67,50,211
-4,peter de bosscher,63,50,30,143
-5,filip van de velde,38,33,25,96
-6,walter de reymaeker,31,,60,91
-7,geert verrijken,44,,,44
-8,eric cornelis,,33,,33
-9,pieter ertveldt,13,,,13
-10,alex vonck,,8,,8
-11,eddy pletinckx,6,,,6
+nummer,naam,av,sep,okt,nov,totaal
+1,serge vanderwaeren,94,79,70,95,338
+2,diederik lot,94,67,50,95,306
+3,kjell spaens,69,79,65,,213
+4,peter de bosscher,63,50,30,55,198
+5,walter de reymaeker,31,,60,82,173
+6,geert verrijken,44,,,73,117
+7,eric cornelis,,33,,64,97
+8,filip van de velde,38,33,25,,96
+9,dirk van helder,,,,45,45
+10,mats laureys,,,,27,27
+11,niels lerinckx,,,,27,27
+12,sander lerinckx,,,,18,18
+13,pieter ertveldt,13,,,,13
+14,felix huyghe,,,,9,9
+15,stijn beckers,,,,9,9
+16,alex vonck,,8,,,8
+17,eddy pletinckx,6,,,,6
