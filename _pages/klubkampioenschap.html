@@ -9,6 +9,7 @@ jaar2: "2017"
 tabs:
   - 2016
   - 2017
+  - tussenstand
 ---
 {% capture titel %}{{ page.title }} {{ page.jaar1 }}-{{ page.jaar2 }}{% endcapture %}
 
@@ -22,6 +23,11 @@ tabs:
 {% assign tab = page.tabs[1] %}
 {% include tab-pane-start.html href=tab aktief=false %}
 {% include table-klubkampioenschap.html datafile=site.data.kk.kk1617.uitslagen jaar=page.jaar2 %}
+{% include tab-pane-end.html %}
+
+{% assign tab = page.tabs[2] %}
+{% include tab-pane-start.html href=tab aktief=false %}
+{% include table-eindstand.html datafile=site.data.kk.kk1617.tussenstand %}
 {% include tab-pane-end.html %}
 
 {% include nav-pills-end.html %}
