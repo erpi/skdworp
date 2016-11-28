@@ -1,0 +1,11 @@
+{% for post in site.posts %}
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title"><a href="{{ post.url | prepend: site.baseurl }}">ronde {{ post.ronde }} {{ post.title | downcase }}</a></h3>
+  </div>
+  <div class="panel-body">
+    {{ post.excerpt }}
+    <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary">lees meer »<i class="fa fa-angle-right"></i></a>
+  </div>
+</div>
+{% endfor %}

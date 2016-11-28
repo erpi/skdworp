@@ -1,0 +1,8 @@
+---
+layout: default
+---
+<h2>ronde {{ page.ronde }} {{ page.title | downcase }}</h2>
+<h3 style="padding-bottom: 20px;">door {{ page.voornaam}}</h3>
+<p style="padding-bottom: 20px;">{{ page.date | date: '%e - %m - %Y' }}</p>
+
+{{ content }}
