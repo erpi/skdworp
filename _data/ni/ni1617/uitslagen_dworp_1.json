@@ -39,12 +39,12 @@
     "ronde": "ronde 4",
     "datum": "27-11-2016",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "261 opwijk 1", "uit": "174 brasschaat 2"},
-      {"tr": "", "ur": "", "thuis": "401 kgsrl 4", "uit": "432 wetteren 2"},
-      {"tr": "", "ur": "", "thuis": "541 leuze 1", "uit": "244 brussels 1"},
-      {"tr": "", "ur": "", "thuis": "518 soignies 1", "uit": "228 dworp 1"},
-      {"tr": "", "ur": "", "thuis": "143 temse 2", "uit": "278 pantin 1"},
-      {"tr": "", "ur": "", "thuis": "952 wavre 1", "uit": "226 europchess 2"}
+      {"tr": "4.5", "ur": "1.5", "thuis": "261 opwijk 1", "uit": "174 brasschaat 2"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "401 kgsrl 4", "uit": "432 wetteren 2"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "541 leuze 1", "uit": "244 brussels 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "518 soignies 1", "uit": "228 dworp 1"},
+      {"tr": "2", "ur": "4", "thuis": "143 temse 2", "uit": "278 pantin 1"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "952 wavre 1", "uit": "226 europchess 2"}
     ]
   },
   {
