@@ -52,5 +52,24 @@
       {"tr": "1", "ur": "0", "tspeler": "Lot, Diederik", "uspeler": "Charles, Gerald", "telo": 1911, "uelo": 1903, "tstam": 9954, "ustam": 16576},
       {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "Wadoux, Philippe", "telo": 1872, "uelo": 1701, "tstam": 34584, "ustam": 15825}
     ]
+  },
+   {
+
+    "ronde": "4",
+    "datum": "27-11-2016",
+    "thuis": "518 Soignies 1",
+    "uit": "228 Dworp 1",
+    "tscore": 2.5,
+    "uscore": 3.5,
+    "tgem": 1804,
+    "ugem": 1928,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Dupuis, Cedric", "uspeler": "Vanderwaeren, Serge", "telo": 1947, "uelo": 2214, "tstam": 96105, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Boon, Alexis", "uspeler": "Spaens, Kjell", "telo": 1823, "uelo": 1937, "tstam": 77241, "ustam": 29343},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Ooghe, Jean-Marie", "uspeler": "Maeckelbergh, Geert", "telo": 1820, "uelo": 1894, "tstam": 70742, "ustam": 43419},
+      {"tr": "0", "ur": "1", "tspeler": "El  Kadi, Ismael", "uspeler": "Verrijken, Geert", "telo": 1817, "uelo": 1893, "tstam": 13305, "ustam": 62766},
+      {"tr": "1", "ur": "0", "tspeler": "Deneyer, Frank", "uspeler": "De Reymaeker, Walter", "telo": 1741, "uelo": 1890, "tstam": 98919, "ustam": 34584},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Dupont, Claude", "uspeler": "Van De Velde, Filip", "telo": 1674, "uelo": 1739, "tstam": 78166, "ustam": 31682}
+    ]
   }
 ]
