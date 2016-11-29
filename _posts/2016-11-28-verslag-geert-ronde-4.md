@@ -3,8 +3,10 @@ layout: verslag
 excerpt_separator: <!--more-->
 voornaam: geert
 ronde: 4
-title: "Soignies - Dworp: met de hakken over de sloot"
-last_modified_at: 2016-11-16
+thuisploeg: soignies 1
+uitploeg: dworp 1
+title: "met de hakken over de sloot"
+last_modified_at: 2016-11-29
 ---
 #### Voorspel
 
@@ -19,7 +21,7 @@ Op het tweede punt was het langer wachten. Het kwam er, met de nodige mazzel op 
 
 Nog anderhalf punt uit vier matchen. Dat zou moeten lukken. En toch. **_Filip_** op bord 5 was met wit in een solide partij alvast goed voor een halfje. In een damepion-opening  genoot hij met volle teugen van een sterk paard. Keerzijde was wel dat de tegenstander dat compenseerde met… een sterk paard. De partij kabbelde rustig verder zonder dat één van beide spelers veel uitgesproken kansen kreeg. Kortom, een meer dan verdiend halfje. 0,5-2,5 voor nog maar eens de ‘goei’.
 
-Tot zover het goede nieuws. Want op bord 5 had **_Walter_** met zwart in een Siciliaanse partij en in een iets te romantische bui erg optimistisch zijn pionnen in de strijd gegooid. Hij kreeg meteen lik op stuk, de tegenstander creëerde twee vrijpionnen die enkel te stoppen waren mits het offeren van een paardje. Ondanks hardnekkig verzet en veel inzet viel het kalf niet meer te redden. 1,5-2,5 (gelukkig nog altijd) voor de ‘goei’.
+Tot zover het goede nieuws. Want op bord 5 had **_Walter_** met zwart in een Siciliaanse partij en in een iets te romantische bui, erg optimistisch zijn pionnen in de strijd gegooid. Hij kreeg meteen lik op stuk, de tegenstander creëerde twee vrijpionnen die enkel te stoppen waren mits het offeren van een paardje. Ondanks hardnekkig verzet en veel inzet viel het kalf niet meer te redden. 1,5-2,5 (gelukkig nog altijd) voor de ‘goei’.
 
 En toen begon het nagelbijten. **_Kjell_** op bord 2 kwam met wit schitterend uit de opening.  Het leek erop dat hij er, zoals op bord 1, op en over zou gaan. Helaas, pindakaas. Na zijn catastrofaal begin verdapperde de zwartspeler, bood taai weerstand en uiteindelijk zag Kjell zijn correct geofferde pion uit de opening niet meer terug. Wel kwam de remise nooit in gevaar (ongelijke lopers) maar iedereen was het erover eens: hier had meer in gezeten. 2-3 voor de ‘goei’.
 

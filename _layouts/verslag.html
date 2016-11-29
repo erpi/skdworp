@@ -1,13 +1,90 @@
----
-layout: default
----
-<style>
-p {
-  font-size: larger;
-}
-</style>
-<h2>ronde {{ page.ronde }} {{ page.title | downcase }}</h2>
-<h3 style="padding-bottom: 20px;">door {{ page.voornaam}}</h3>
-<p style="padding-bottom: 20px;">{{ page.date | date: '%e - %m - %Y' }}</p>
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    {% include head.html %}
+    {% if page.fen %}
+    <link href="{{"/styles/chessboard.css" | prepend: site.baseurl }}" rel="stylesheet">
+    <script src="{{"/scripts/chessboard.js" | prepend: site.baseurl }}"></script>
+    <script src="{{"/scripts/chessboardjs-themes.js" | prepend: site.baseurl }}"></script>
+    {% endif %}
+    <style>
+      p {
+        font-size: larger;
+      }
+    </style>
+  </head>
+  <body>
+    {% include navbar.html %}
+    <div class="container main-container">
+      <header id="top">
+        <h2>{{ page.title | downcase }}</h2>
+        <hr class="section-hr" style="margin: 30px auto 30px;border-color: #E95420;">
+      </header>
 
-{{ content }}
+      <section id="verslag">
+        <div class="container">
+        <h4>{% assign m = page.date | date: "%-m" %}
+        {{ page.date | date: "%-d" }}
+        {% case m %}
+          {% when '1' %}januari
+          {% when '2' %}februari
+          {% when '3' %}maart
+          {% when '4' %}april
+          {% when '5' %}mei
+          {% when '6' %}juni
+          {% when '7' %}juli
+          {% when '8' %}augustus
+          {% when '9' %}september
+          {% when '10' %}oktober
+          {% when '11' %}november
+          {% when '12' %}december
+        {% endcase %}
+        {{ page.date | date: "%Y" }}</h4>
+        <h4>nationale interclubs ronde&nbsp;{{ page.ronde }}<br>{{ page.thuisploeg | downcase }} - {{ page.uitploeg | downcase }}</h4>
+        <h3 style="padding-bottom: 20px;">door {{ page.voornaam | downcase}}</h3>
+        {{ content | downcase }}
+      </div>
+      </section>
+
+      {% if page.fen %}
+      <section id="opgave">
+        <h2>opgave</h2>
+        <hr class="section-hr" style="margin: 30px auto 30px;border-color: #E95420;">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-6">
+                <p>wit: geert v</p>
+                <p>zwart: el kadi</p>
+                <p>wit aan zet</p>
+              </div>
+              <div class="col-sm-6">
+                <div id="board" style="width: 400px">
+                </div>
+              </div>
+            </div>
+          </div>
+      </section>
+      {% endif %}
+
+      <footer class="container text-center" style="padding: 50px;">
+        <a class="lead" href="#top" title="naar boven">
+          <span class="glyphicon glyphicon-chevron-up"></span>
+        </a>
+      </footer>
+    </div>
+    {% if page.fen %}
+    <script>
+    var init = function() {
+      // var board = ChessBoard('board', 'start');
+      var board = ChessBoard('board', {
+        pieceTheme: uscf_piece_theme,
+        boardTheme: wikipedia_board_theme ,
+        position: 'start'
+      });
+    };
+    $(document).ready(init);
+    </script>
+    {% endif %}
+    {% include clicky.html %}
+  </body>
+</html>
