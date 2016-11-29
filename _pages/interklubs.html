@@ -5,7 +5,7 @@ subtitle: afdeling 3b
 permalink: /interklubs/
 indiv_reversed: true
 tabs:
-  - verslag
+  - verslagen
   - individueel
   - uitslagen
   - tussenstand
@@ -13,10 +13,9 @@ last_modified_at: 2016-11-28
 ---
 {% include nav-pills-start.html title=page.title %}
 
-{% assign tab = page.tabs[0] %}
-{% include tab-pane-start.html href=tab aktief=true %}
+<div class="tab-pane active" id="{{ page.tabs[0] }}">
 {% include verslag-interklubs.html %}
-{% include tab-pane-end.html %}
+</div>
 
 {% assign tab = page.tabs[1] %}
 {% include tab-pane-start.html href=tab aktief=false %}
