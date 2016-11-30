@@ -11,7 +11,7 @@ stelling_titel: combinatie van de dag
 stelling_wit: geert v
 stelling_zwart: el kadi
 stelling_tekst: "de slotstelling van geert drie zetten voor het einde. wit speelt en wint geforceerd groot materiaal en/of zet mat."
-stelling_oplossing: "1. Pxg6+! hxg6 2. Th3+ Lh6 3. Lxh6!"
+stelling_oplossing: "1. Pxg6+! hxg6 2. Th3+ Lh6 3. Lxh6! met de matdreiging Lf8"
 ---
 #### Voorspel
 
