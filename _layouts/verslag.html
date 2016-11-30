@@ -2,29 +2,25 @@
 <html lang="nl">
   <head>
     {% include head.html %}
+    <link href="{{"/styles/posts.css" | prepend: site.baseurl }}" rel="stylesheet">
     {% if page.stelling_fen %}
     <link href="{{"/styles/chessboard-0.3.0.min.css" | prepend: site.baseurl }}" rel="stylesheet">
     <script src="{{"/scripts/chessboard.js" | prepend: site.baseurl }}"></script>
     <script src="{{"/scripts/chessboardjs-themes.js" | prepend: site.baseurl }}"></script>
     <script>
-      function tonen() {
+      function toonOplossing() {
         $("#tonen").addClass('hidden');
         $("#oplossing").removeClass('hidden');
       }
     </script>
     {% endif %}
-    <style>
-      p {
-        font-size: larger;
-      }
-    </style>
   </head>
   <body>
     {% include navbar.html %}
     <div class="container main-container">
       <header id="top_">
         <h2>{{ page.title | downcase }}</h2>
-        <hr class="section-hr" style="margin: 30px auto 30px;border-color: #E95420;">
+        <hr>
       </header>
 
       <section id="verslag">
@@ -47,7 +43,7 @@
         {% endcase %}
         {{ page.date | date: "%Y" }}</h4>
         <h4>nationale interclubs ronde&nbsp;{{ page.ronde }}<br>{{ page.thuisploeg | downcase }} - {{ page.uitploeg | downcase }}</h4>
-        <h3 style="padding-bottom: 20px;">door {{ page.voornaam | downcase}}</h3>
+        <h3 class="auteur" >door {{ page.voornaam | downcase}}</h3>
         {{ content | downcase }}
       </div>
       </section>
@@ -55,18 +51,17 @@
       {% if page.stelling_fen %}
       <section id="opgave">
         <h2>{{ page.stelling_titel }}</h2>
-        <hr class="section-hr" style="margin: 30px auto 30px;border-color: #E95420;">
+        <hr>
           <div class="container">
             <div class="row">
-              <div class="col-md-6">
-                <div id="board" style="width: 400px">
-                </div>
+              <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" style="padding-bottom: 15px;">
+                <div class="schaakbord center-block" id="board"></div>
               </div>
-              <div class="col-md-6">
+              <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <p>fen: {{ page.stelling_fen }}</p>
                 <p class="lead">wit: {{ page.stelling_wit }}<br>zwart: {{ page.stelling_zwart }}</p>
                 <p class="lead">{{ page.stelling_tekst }}</p>
-                <div id="tonen"><p class="lead"><a href="#" onclick="tonen();return false;">toon oplossing</a></p></div>
+                <div id="tonen"><p class="lead"><a href="#" onclick="toonOplossing();return false;">toon oplossing</a></p></div>
                 <div id="oplossing" class="hidden"><p class="lead">{{ page.stelling_oplossing }}</p></div>
                 <p class="lead"><a href="https://nl.lichess.org/analysis/_{{ page.stelling_fen | replace: " ", "_"}}" target="_blank">lichess.org analyse bord</a><p>
               </div>
@@ -75,7 +70,7 @@
       </section>
       {% endif %}
 
-      <footer class="container text-center" style="padding: 50px;">
+      <footer class="container text-center">
         <a class="lead" href="#top" title="naar boven">
           <span class="glyphicon glyphicon-chevron-up"></span>
         </a>
@@ -91,6 +86,7 @@
         boardTheme: wikipedia_board_theme,
         position: "{{ page.stelling_fen }}"
       });
+      $(window).resize(board.resize);
     };
     $(document).ready(init);
     </script>
