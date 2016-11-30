@@ -1,7 +1,7 @@
 ---
 layout: verslag
 excerpt_separator: <!--more-->
-voornaam: geert
+author: geert
 ronde: 4
 thuisploeg: soignies 1
 uitploeg: dworp 1

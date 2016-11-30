@@ -49,7 +49,7 @@
         {% endcase %}
         {{ page.date | date: "%Y" }}</h4>
         <h4>nationale interclubs ronde&nbsp;{{ page.ronde }}<br>{{ page.thuisploeg | downcase }} - {{ page.uitploeg | downcase }}</h4>
-        <h3 class="auteur" >door {{ page.voornaam | downcase}}</h3>
+        <h3 class="auteur" >door {{ page.author | downcase}}</h3>
         {{ content | downcase }}
       </div>
       </section>

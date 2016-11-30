@@ -34,3 +34,4 @@ sass:
 include: ['_pages']
 gems:
   - jekyll-sitemap
+  - jekyll-feed
