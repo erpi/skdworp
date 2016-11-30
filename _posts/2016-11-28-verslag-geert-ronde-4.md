@@ -5,8 +5,13 @@ voornaam: geert
 ronde: 4
 thuisploeg: soignies 1
 uitploeg: dworp 1
-title: "met de hakken over de sloot"
-last_modified_at: 2016-11-29
+title: met de hakken over de sloot
+stelling_fen: "7k/1pp1N1bp/3p2p1/p1n5/2B1p3/5R2/PP4K1/R1B1q3 w - -"
+stelling_titel: combinatie van de dag
+stelling_wit: geert v
+stelling_zwart: el kadi
+stelling_tekst: "de slotstelling van geert drie zetten voor het einde. wit speelt en wint geforceerd groot materiaal en/of zet mat."
+stelling_oplossing: "1. Pxg6+! hxg6 2. Th3+ Lh6 3. Lxh6!"
 ---
 #### Voorspel
 

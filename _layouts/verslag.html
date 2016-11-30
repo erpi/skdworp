@@ -2,10 +2,16 @@
 <html lang="nl">
   <head>
     {% include head.html %}
-    {% if page.fen %}
-    <link href="{{"/styles/chessboard.css" | prepend: site.baseurl }}" rel="stylesheet">
+    {% if page.stelling_fen %}
+    <link href="{{"/styles/chessboard-0.3.0.min.css" | prepend: site.baseurl }}" rel="stylesheet">
     <script src="{{"/scripts/chessboard.js" | prepend: site.baseurl }}"></script>
     <script src="{{"/scripts/chessboardjs-themes.js" | prepend: site.baseurl }}"></script>
+    <script>
+      function tonen() {
+        $("#tonen").addClass('hidden');
+        $("#oplossing").removeClass('hidden');
+      }
+    </script>
     {% endif %}
     <style>
       p {
@@ -16,7 +22,7 @@
   <body>
     {% include navbar.html %}
     <div class="container main-container">
-      <header id="top">
+      <header id="top_">
         <h2>{{ page.title | downcase }}</h2>
         <hr class="section-hr" style="margin: 30px auto 30px;border-color: #E95420;">
       </header>
@@ -46,20 +52,23 @@
       </div>
       </section>
 
-      {% if page.fen %}
+      {% if page.stelling_fen %}
       <section id="opgave">
-        <h2>opgave</h2>
+        <h2>{{ page.stelling_titel }}</h2>
         <hr class="section-hr" style="margin: 30px auto 30px;border-color: #E95420;">
           <div class="container">
             <div class="row">
-              <div class="col-sm-6">
-                <p>wit: geert v</p>
-                <p>zwart: el kadi</p>
-                <p>wit aan zet</p>
-              </div>
-              <div class="col-sm-6">
+              <div class="col-md-6">
                 <div id="board" style="width: 400px">
                 </div>
+              </div>
+              <div class="col-md-6">
+                <p>fen: {{ page.stelling_fen }}</p>
+                <p class="lead">wit: {{ page.stelling_wit }}<br>zwart: {{ page.stelling_zwart }}</p>
+                <p class="lead">{{ page.stelling_tekst }}</p>
+                <div id="tonen"><p class="lead"><a href="#" onclick="tonen();return false;">toon oplossing</a></p></div>
+                <div id="oplossing" class="hidden"><p class="lead">{{ page.stelling_oplossing }}</p></div>
+                <p class="lead"><a href="https://nl.lichess.org/analysis/_{{ page.stelling_fen | replace: " ", "_"}}" target="_blank">lichess.org analyse bord</a><p>
               </div>
             </div>
           </div>
@@ -72,14 +81,15 @@
         </a>
       </footer>
     </div>
-    {% if page.fen %}
+    {% if page.stelling_fen %}
     <script>
     var init = function() {
-      // var board = ChessBoard('board', 'start');
+      // var board = ChessBoard('board', '{{ page.stelling_fen }}');
       var board = ChessBoard('board', {
+        showNotation: false,
         pieceTheme: uscf_piece_theme,
-        boardTheme: wikipedia_board_theme ,
-        position: 'start'
+        boardTheme: wikipedia_board_theme,
+        position: "{{ page.stelling_fen }}"
       });
     };
     $(document).ready(init);
