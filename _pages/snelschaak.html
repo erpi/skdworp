@@ -4,5 +4,32 @@ title: snelschaak 2016 - 2017
 permalink: /snelschaak/
 noindex: true
 sitemap: false
+rondes: [tussenstand, jun, mei, apr, maa, feb, jan, dec, nov, okt, sep, av]
 ---
-{% include page-eindstand.html datafile=site.data.ss.ss1617 %}
+{% assign files = site.data.ss.ss1617 %}
+
+{% capture string_of_files %}{% for file in files %}{{ file[0] }},{% endfor %}{% endcapture %}
+{% assign array_of_files = string_of_files | split: "," %}
+
+{% capture string_of_tabs %}{% for ronde in page.rondes %}{% for file in array_of_files %}{% if ronde == file %}{{ ronde }},{% break %}{% endif %}{% endfor %}{% endfor %}{% endcapture %}
+{% assign tabs = string_of_tabs | split: "," %}
+
+{% include nav-pills-start.html tabs=tabs title=page.title %}
+
+{% for tab in tabs %}
+  {% for file in files %}
+   {% if tab == file[0] %}
+    {% if tab == tabs.first %}
+      {% include tab-pane-start.html href=tab aktief=true %}
+    {% else %}
+      {% include tab-pane-start.html href=tab aktief=false %}
+    {% endif %}
+    {% assign ronde = file[1] %}
+    {% include table-eindstand.html datafile=ronde %}
+    {% include tab-pane-end.html %}
+    {% break %}
+   {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% include nav-pills-end.html %}
