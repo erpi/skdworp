@@ -1,0 +1,17 @@
+{% assign maand = page.date | date: "%-m" %}
+{{ page.date | date: "%-d" }}
+{% case maand %}
+  {% when '1' %}januari
+  {% when '2' %}februari
+  {% when '3' %}maart
+  {% when '4' %}april
+  {% when '5' %}mei
+  {% when '6' %}juni
+  {% when '7' %}juli
+  {% when '8' %}augustus
+  {% when '9' %}september
+  {% when '10' %}oktober
+  {% when '11' %}november
+  {% when '12' %}december
+  {% endcase %}
+{{ page.date | date: "%Y" }}

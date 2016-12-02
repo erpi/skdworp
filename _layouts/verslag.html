@@ -31,23 +31,7 @@
 
       <section id="verslag">
         <div class="container">
-        <h4>{% assign m = page.date | date: "%-m" %}
-        {{ page.date | date: "%-d" }}
-        {% case m %}
-          {% when '1' %}januari
-          {% when '2' %}februari
-          {% when '3' %}maart
-          {% when '4' %}april
-          {% when '5' %}mei
-          {% when '6' %}juni
-          {% when '7' %}juli
-          {% when '8' %}augustus
-          {% when '9' %}september
-          {% when '10' %}oktober
-          {% when '11' %}november
-          {% when '12' %}december
-        {% endcase %}
-        {{ page.date | date: "%Y" }}</h4>
+        <h4>{% include datum.html %}</h4>
         <h4>nationale interclubs ronde&nbsp;{{ page.ronde }}<br>{{ page.thuisploeg | downcase }} - {{ page.uitploeg | downcase }}</h4>
         <h3 class="auteur" >door {{ page.author | downcase}}</h3>
         {{ content | downcase }}
@@ -85,7 +69,6 @@
     {% if page.stelling_fen %}
     <script>
     var init = function() {
-      // var board = ChessBoard('board', '{{ page.stelling_fen }}');
       var board = ChessBoard('board', {
         showNotation: false,
         pieceTheme: uscf_piece_theme,
