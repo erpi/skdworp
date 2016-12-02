@@ -20,7 +20,7 @@ tabs:
   - einduitslag tornooi
   - kampioenschap svb
 ---
-{% include nav-pills-start.html title=page.title %}
+{% include nav-pills-start.html tabs=page.tabs title=page.title %}
 
 {% assign tab = page.tabs[0] %}
 {% include tab-pane-start.html href=tab aktief=true %}

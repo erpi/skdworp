@@ -8,7 +8,7 @@ tabs:
  - afdeling 4c
  - afdeling 4d
 ---
-{% include nav-pills-start.html title=page.title %}
+{% include nav-pills-start.html tabs=page.tabs title=page.title %}
 
 {% assign tab = page.tabs[0] %}
 {% include tab-pane-start.html href=tab aktief=true %}

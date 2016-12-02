@@ -9,7 +9,7 @@ tabs:
   - uitslagen 4b
   - uitslagen 4f
 ---
-{% include nav-pills-start.html title=page.title %}
+{% include nav-pills-start.html tabs=page.tabs title=page.title %}
 
 {% assign tab = page.tabs[0] %}
 {% include tab-pane-start.html href=tab aktief=true %}

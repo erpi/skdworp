@@ -13,7 +13,7 @@ tabs:
 ---
 {% capture titel %}{{ page.title }} {{ page.jaar1 }}-{{ page.jaar2 }}{% endcapture %}
 
-{% include nav-pills-start.html title=titel %}
+{% include nav-pills-start.html tabs=page.tabs title=titel %}
 
 {% assign tab = page.tabs[0] %}
 {% include tab-pane-start.html href=tab aktief=true %}
