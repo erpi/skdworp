@@ -1,11 +1,11 @@
 ---
 layout: verslag
 excerpt_separator: <!--more-->
-author: geert
+author: Geert
 ronde: 4
 thuisploeg: soignies 1
 uitploeg: dworp 1
-title: met de hakken over de sloot
+title: Met de hakken over de sloot
 stelling_fen: "7k/1pp1N1bp/3p2p1/p1n5/2B1p3/5R2/PP4K1/R1B1q3 w - -"
 stelling_titel: combinatie van de dag
 stelling_wit: geert v
@@ -32,6 +32,6 @@ En toen begon het nagelbijten. **_Kjell_** op bord 2 kwam met wit schitterend ui
 
 En dan beten we nog veel meer en nog veel langer op onze nagels. **_Geert M._** had met zwart op bord 3 een hele partij lang een mooi gelijkopgaande stelling. Het resulteerde in een toreneindspel waarvoor het woord remise is uitgevonden. Alleen, Geert had nog maar luttele minuten op de klok. Het leek erop dat de tegenstander die tijdshandicap ten volle wou uitbuiten, hij bleef maar doorspelen. Niet ten onrechte natuurlijk, in geval van winst was het 3-3. Zover kwam het gelukkig voor ons niet. Plots stelde de Soignies-enaar (of hoe noem je een inwoner van Soignies?) zelf remise voor. Sportief! Half punt, game en match! 2,5-3,5 voor de ‘goei’. Oef, opdracht volbracht!
 
-### Naspel
+### Naspel 
 
 Door deze overwinning staan we nu drie punten voor de eerste degradatieplaats. Het geeft even ademruimte en dat was meer dan nodig. Zondag is het thuis tegen Temse 2 en zij hebben krek evenveel punten als wij. Als we winnen, gaan we fluitend de winterstop in. Mannen! Smeer allemaal jullie benen maar al in.
