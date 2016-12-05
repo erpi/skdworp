@@ -7,7 +7,7 @@ thuisploeg: dworp 1
 uitploeg: temse 2
 title: "Toppie, toppie, toppie!"
 stelling_fen: "r1q1r3/1p4pk/p2pP1pp/2pP2b1/8/P1B3N1/1PQ5/4RBK1 w - - 1 35"
-stelling_titel: ode aan de slotpartij Carlsen - Karjakin
+stelling_titel: ode aan de slotpartij carlsen - karjakin
 stelling_wit: serge
 stelling_zwart: van laeken
 stelling_tekst: "jammer genoeg is de stelling niet op het bord gekomen maar serge hoopte wel op Kh7 van zijn tegenstander. zwart koos voor een minder mooi einde dat eveneens 2 zetten later uit was. opgave: wit speelt en zet mat."
