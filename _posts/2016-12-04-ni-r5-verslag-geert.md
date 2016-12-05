@@ -6,10 +6,17 @@ ronde: 5
 thuisploeg: dworp 1
 uitploeg: temse 2
 title: "Toppie, toppie, toppie!"
+stelling_fen: "r1q1r3/1p4pk/p2pP1pp/2pP2b1/8/P1B3N1/1PQ5/4RBK1 w - - 1 35"
+stelling_titel: ode aan de slotpartij Carlsen - Karjakin
+stelling_wit: serge
+stelling_zwart: van laeken
+stelling_tekst: "jammer genoeg is de stelling niet op het bord gekomen maar serge hoopte wel op Kh7 van zijn tegenstander. zwart koos voor een minder mooi einde dat eveneens 2 zetten later uit was. opgave: wit speelt en zet mat."
+stelling_oplossing: "35.Dxg6+! Kxg6 36.Ld3#"
+
 ---
 ### Voorspel
 
-Winst tegen Temse 2 zou ons een zorgeloze winterslaap garanderen. De prognose is wel dat deze clash der titaantjes alle kanten uitkan. Temse 2 en Dworp hebben net evenveel match- en bordpunten. De Waaslanders blazen dit seizoen ook warm en koud. In ronde 2 kregen ze een 0-6 pandoering om de oren, een ronde later sloegen ze terug en blikten Europchess met 0,5-5,5 in. De samenstelling van het team kan sterk wisselen en hangt allicht af van de beschikbaarheden voor Temse 1. On verra.<!--more-->
+Winst tegen Temse 2 zou ons een zorgeloze winterslaap garanderen. De prognose is wel dat deze clash der titaantjes alle kanten uit kan. Temse 2 en Dworp hebben net evenveel match- en bordpunten. De Waaslanders blazen dit seizoen ook warm en koud. In ronde 2 kregen ze een 0-6 pandoering om de oren, een ronde later sloegen ze terug en blikten Europchess met 0,5-5,5 in. De samenstelling van het team kan sterk wisselen en hangt allicht af van de beschikbaarheden voor Temse 1. On verra.<!--more-->
 
 ### De ontmoeting
 
@@ -27,4 +34,4 @@ Meteen was de uitslag van de laatste ontmoeting, **_Geert M._** met wit op bord 
 
 ### Naspel
 
-Een klein hoeraatje voor onszelf. Hiermee zijn we na vijf ronden en nog voor de winterstop met vijf matchpunten al quasi zeker van een verlengd verblijf in derde afdeling. We staan nu gedeeld zesde, midden in het pak, en op slechts twee punten van plek drie. Hier en daar nog eens scoren plus een beetje mazzel in de zes resterende rondes en we kunnen zelfs lonken naar een mooie ereplaats. (Enfin, gelieve het zweefvliegtuig aan de grond te houden) Wellicht jammer voor ons dat de winterstop eraan komt, net nu we in de winning ‘mood’ zijn. Fijne eindejaarsfeesten!
+Een klein hoeraatje voor onszelf. Hiermee zijn we na vijf ronden en nog voor de winterstop met vijf matchpunten al quasi zeker van een verlengd verblijf in derde afdeling. We staan nu gedeeld zesde, midden in het pak, en op slechts twee punten van plek drie. Hier en daar nog eens scoren plus een beetje mazzel in de zes resterende rondes en we kunnen zelfs lonken naar een mooie ereplaats (Enfin, gelieve het zweefvliegtuig aan de grond te houden). Wellicht jammer voor ons dat de winterstop eraan komt, net nu we in de winning ‘mood’ zijn. Fijne eindejaarsfeesten!
