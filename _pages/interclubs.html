@@ -1,35 +1,35 @@
 ---
 layout: default
-title: nationale interklubs 2016 - 2017
+title: nationale interclubs 2016 - 2017
 subtitle: afdeling 3b
-permalink: /interklubs/
+permalink: /interclubs/
 indiv_reversed: true
 tabs:
   - verslagen
   - individueel
   - uitslagen
   - tussenstand
-last_modified_at: 2016-11-28
+last_modified_at: 2016-12-06
 ---
 {% include nav-pills-start.html tabs=page.tabs title=page.title %}
 
 <div class="tab-pane active" id="{{ page.tabs[0] }}">
-{% include verslag-interklubs.html %}
+{% include verslag-interclubs.html %}
 </div>
 
 {% assign tab = page.tabs[1] %}
 {% include tab-pane-start.html href=tab aktief=false %}
-{% include table-interklubs-indiv.html datafile=site.data.ni.ni1617.individueel_dworp_1 jaar='201' %}
+{% include table-interclubs-indiv.html datafile=site.data.ni.ni1617.individueel_dworp_1 jaar='201' %}
 {% include tab-pane-end.html %}
 
 {% assign tab = page.tabs[2] %}
 {% include tab-pane-start.html href=tab aktief=false %}
-{% include table-interklubs-uitslagen.html datafile=site.data.ni.ni1617.uitslagen_dworp_1 %}
+{% include table-interclubs-uitslagen.html datafile=site.data.ni.ni1617.uitslagen_dworp_1 %}
 {% include tab-pane-end.html %}
 
 {% assign tab = page.tabs[3] %}
 {% include tab-pane-start.html href=tab aktief=false %}
-{% include table-interklubs-eindstand.html datafile=site.data.ni.ni1617.tussenstand_dworp_1 %}
+{% include table-interclubs-eindstand.html datafile=site.data.ni.ni1617.tussenstand_dworp_1 %}
 {% include tab-pane-end.html %}
 
 {% include nav-pills-end.html %}

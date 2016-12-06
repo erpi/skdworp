@@ -1,34 +1,34 @@
 ---
 layout: default
-title: nationale interklubs 2011 - 2012
-permalink: /archief/interklubs-1112/
-last_modified_at: 2016-11-23
+title: nationale interclubs 2010 - 2011
+permalink: /archief/interclubs-1011/
+last_modified_at: 2016-12-06
 tabs:
-  - eindstand 4c
-  - eindstand 4d
-  - uitslagen 4c
-  - uitslagen 4d
+  - eindstand 4e
+  - eindstand 5g
+  - uitslagen 4e
+  - uitslagen 5g
 ---
 {% include nav-pills-start.html tabs=page.tabs title=page.title %}
 
 {% assign tab = page.tabs[0] %}
 {% include tab-pane-start.html href=tab aktief=true %}
-{% include table-interklubs-eindstand.html datafile=site.data.ni.ni1112.eindstand_dworp_1 %}
+{% include table-interclubs-eindstand.html datafile=site.data.ni.ni1011.eindstand_dworp_1 %}
 {% include tab-pane-end.html %}
 
 {% assign tab = page.tabs[1] %}
 {% include tab-pane-start.html href=tab aktief=false %}
-{% include table-interklubs-eindstand.html datafile=site.data.ni.ni1112.eindstand_dworp_2 %}
+{% include table-interclubs-eindstand.html datafile=site.data.ni.ni1011.eindstand_dworp_2 %}
 {% include tab-pane-end.html %}
 
 {% assign tab = page.tabs[2] %}
 {% include tab-pane-start.html href=tab aktief=false %}
-{% include table-interklubs-uitslagen.html datafile=site.data.ni.ni1112.uitslagen_dworp_1 %}
+{% include table-interclubs-uitslagen.html datafile=site.data.ni.ni1011.uitslagen_dworp_1 %}
 {% include tab-pane-end.html %}
 
 {% assign tab = page.tabs[3] %}
 {% include tab-pane-start.html href=tab aktief=false %}
-{% include table-interklubs-uitslagen.html datafile=site.data.ni.ni1112.uitslagen_dworp_2 %}
+{% include table-interclubs-uitslagen.html datafile=site.data.ni.ni1011.uitslagen_dworp_2 %}
 {% include tab-pane-end.html %}
 
 {% include nav-pills-end.html %}

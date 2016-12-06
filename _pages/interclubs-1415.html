@@ -1,23 +1,23 @@
 ---
 layout: default
-title: interklubs individueel 2010 - 2011
-permalink: /archief/interklubs-indiv-1011/
-noindex: true
-sitemap: false
+title: nationale interclubs 2014 - 2015
+subtitle: afdeling 4f
+permalink: /archief/interclubs-1415/
+last_modified_at: 2016-12-06
 tabs:
- - afdeling 4e
- - afdeling 5g
+  - eindstand
+  - uitslagen
 ---
 {% include nav-pills-start.html tabs=page.tabs title=page.title %}
 
 {% assign tab = page.tabs[0] %}
 {% include tab-pane-start.html href=tab aktief=true %}
-{% include table-interklubs-indiv.html datafile=site.data.ni.ni1011.individueel_dworp_1 jaar='201' %}
+{% include table-interclubs-eindstand.html datafile=site.data.ni.ni1415.eindstand_dworp_1 %}
 {% include tab-pane-end.html %}
 
 {% assign tab = page.tabs[1] %}
 {% include tab-pane-start.html href=tab aktief=false %}
-{% include table-interklubs-indiv.html datafile=site.data.ni.ni1011.individueel_dworp_2 jaar='201' %}
+{% include table-interclubs-uitslagen.html datafile=site.data.ni.ni1415.uitslagen_dworp_1 %}
 {% include tab-pane-end.html %}
 
 {% include nav-pills-end.html %}

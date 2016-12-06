@@ -2,7 +2,7 @@
 layout: default
 title: archief
 permalink: /archief/
-last_modified_at: 2016-11-24
+last_modified_at: 2016-12-06
 ---
 tornooiarchief
 --------------
@@ -17,23 +17,23 @@ tornooiarchief
 - [2015 - 2016](/archief/inzet-1516/)
 - [2014 - 2015](/archief/inzet-1415/)
 
-### nationale interklubs
+### nationale interclubs
 
-- [2015 - 2016](/archief/interklubs-1516/)
-- [2014 - 2015](/archief/interklubs-1415/)
-- [2013 - 2014](/archief/interklubs-1314/)
-- [2012 - 2013](/archief/interklubs-1213/)
-- [2011 - 2012](/archief/interklubs-1112/)
-- [2010 - 2011](/archief/interklubs-1011/)
+- [2015 - 2016](/archief/interclubs-1516/)
+- [2014 - 2015](/archief/interclubs-1415/)
+- [2013 - 2014](/archief/interclubs-1314/)
+- [2012 - 2013](/archief/interclubs-1213/)
+- [2011 - 2012](/archief/interclubs-1112/)
+- [2010 - 2011](/archief/interclubs-1011/)
 
-### individuele uitslagen interklubs
+### individuele uitslagen interclubs
 
-- [2015 - 2016](/archief/interklubs-indiv-1516/)
-- [2014 - 2015](/archief/interklubs-indiv-1415/)
-- [2013 - 2014](/archief/interklubs-indiv-1314/)
-- [2012 - 2013](/archief/interklubs-indiv-1213/)
-- [2011 - 2012](/archief/interklubs-indiv-1112/)
-- [2010 - 2011](/archief/interklubs-indiv-1011/)
+- [2015 - 2016](/archief/interclubs-indiv-1516/)
+- [2014 - 2015](/archief/interclubs-indiv-1415/)
+- [2013 - 2014](/archief/interclubs-indiv-1314/)
+- [2012 - 2013](/archief/interclubs-indiv-1213/)
+- [2011 - 2012](/archief/interclubs-indiv-1112/)
+- [2010 - 2011](/archief/interclubs-indiv-1011/)
 
 ### snelschaak
 

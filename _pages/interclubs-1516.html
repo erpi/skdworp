@@ -1,23 +1,23 @@
 ---
 layout: default
-title: interklubs individueel 2012 - 2013
-permalink: /archief/interklubs-indiv-1213/
-noindex: true
-sitemap: false
+title: nationale interclubs 2015 - 2016
+subtitle: afdeling 3b
+permalink: /archief/interclubs-1516/
+last_modified_at: 2016-12-06
 tabs:
- - afdeling 4b
- - afdeling 4f
+  - eindstand
+  - uitslagen
 ---
 {% include nav-pills-start.html tabs=page.tabs title=page.title %}
 
 {% assign tab = page.tabs[0] %}
 {% include tab-pane-start.html href=tab aktief=true %}
-{% include table-interklubs-indiv.html datafile=site.data.ni.ni1213.individueel_dworp_1 jaar='201' %}
+{% include table-interclubs-eindstand.html datafile=site.data.ni.ni1516.eindstand_dworp_1 %}
 {% include tab-pane-end.html %}
 
 {% assign tab = page.tabs[1] %}
 {% include tab-pane-start.html href=tab aktief=false %}
-{% include table-interklubs-indiv.html datafile=site.data.ni.ni1213.individueel_dworp_2 jaar='201' %}
+{% include table-interclubs-uitslagen.html datafile=site.data.ni.ni1516.uitslagen_dworp_1 %}
 {% include tab-pane-end.html %}
 
 {% include nav-pills-end.html %}
