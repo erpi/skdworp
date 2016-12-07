@@ -3,14 +3,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="{{ site.description }}">
-    <meta name="author" content="{{ site.author }}">
-    <meta name="keywords" content="{{ site.keywords }}">
     {% if page.noindex %}
     <meta name="robots" content="noindex, follow">
     {% endif %}
-
-    <title>{{ page.title }}</title>
+    <title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <link href="{{"/styles/site.css" | prepend: site.baseurl }}" rel="stylesheet">
 

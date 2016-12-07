@@ -15,9 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Dworpse Schaakkring
 author: Dworpse Schaakkring
-email: your-email@domain.com
-description: De website van de Dworpse Schaakkring, een schaakclub in Halle.
-keywords: dworpse, schaakkring, schaak, schaken, chess, échecs, schaakclub, schaakvereniging, club, vereniging, halle, dworp, brussel, vlaams-brabant, pajottenland, memorial debast, tornooi, toernooi
+email: info@skdworp.be
 #baseurl: "/skdworp" # the subpath of your site, e.g. /blog
 baseurl: "" # url om site te testen
 url: "http://www.skdworp.be" # the base hostname & protocol for your site, e.g. http://example.com
@@ -35,3 +33,4 @@ include: ['_pages']
 gems:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag

@@ -19,7 +19,7 @@
         window.scrollTo(0, 0);
       }
     </script>
-
+    {% seo %}
   </head>
   <body>
     {% include navbar.html %}
@@ -40,7 +40,7 @@
 
       {% if page.stelling_fen %}
       <section id="opgave">
-        <h2>{{ page.stelling_titel }}</h2>
+        <h2>{{ page.stelling_titel | downcase }}</h2>
         <hr>
           <div class="container">
             <div class="row">

@@ -1,5 +1,5 @@
 ---
-title: dworpse schaakkring
+description: "Welkom op de website van onze schaakclub. De club is opgericht in Dworp, schaken doen we tegenwoordig in Halle."
 last_modified_at: 2016-12-06
 ---
 <!DOCTYPE html>
@@ -9,12 +9,7 @@ last_modified_at: 2016-12-06
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="{{ site.description }}">
-    <meta name="author" content="{{ site.author }}">
-    <meta name="keywords" content="{{ site.keywords }}">
     <meta name="revisit-after" content="1 month">
-
-    <title>{{ site.title }}</title>
 
     <link href="{{"/styles/site.css" | prepend: site.baseurl }}" rel="stylesheet">
     <link href="{{"/styles/homepage.css" | prepend: site.baseurl }}" rel="stylesheet">
@@ -33,6 +28,7 @@ last_modified_at: 2016-12-06
 
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="{{"/favicon.ico?" | prepend: site.baseurl }}">
+    {% seo %}
   </head>
   <body data-spy="scroll" data-target=".navbar" data-offset="50">
     {% include navbar.html %}

@@ -1,5 +1,5 @@
-<h2>{{ include.title }}</h2>
-{% if page.subtitle %}<h3>{{ page.subtitle }}</h3>{% endif %}
+<h2>{{ include.title | downcase }}</h2>
+{% if page.subtitle %}<h3>{{ page.subtitle | downcase }}</h3>{% endif %}
 <ul class="nav nav-pills">
   {% for tab in include.tabs %}
   <li{% if forloop.index == 1 %} class="active"{% endif %}><a data-toggle="pill" href="#{{ tab | replace: " ", "-" }}">{{ tab }}</a></li>
