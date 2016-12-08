@@ -26,8 +26,8 @@ last_modified_at: 2016-12-06
     <script src="{{"/scripts/home-scroll.js" | prepend: site.baseurl }}"></script>
     <script src="{{"/scripts/home-maps.js" | prepend: site.baseurl }}"></script>
 
-    <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="{{"/favicon.ico?" | prepend: site.baseurl }}">
+    {% include favicons.html %}
+
     {% seo %}
   </head>
   <body data-spy="scroll" data-target=".navbar" data-offset="50">
