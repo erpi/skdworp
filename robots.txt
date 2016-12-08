@@ -1,1 +1,3 @@
 Sitemap: http://www.skdworp.be/sitemap.xml
+User-agent: *
+Disallow:
