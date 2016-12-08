@@ -16,11 +16,11 @@
 title: Dworpse Schaakkring
 author: Dworpse Schaakkring
 email: info@skdworp.be
-#baseurl: "/skdworp" # the subpath of your site, e.g. /blog
-baseurl: "" # url om site te testen
-url: "http://www.skdworp.be" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/skdworp" # hosting bij users.telenet.be
+baseurl: "" # hosting bij github en lokaal op 127.0.0.1:4000
+url: "http://www.skdworp.be"
 clicky: true
-
+permalink: pretty
 # Build settings
 markdown: kramdown
 exclude:

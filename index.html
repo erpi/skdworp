@@ -39,7 +39,7 @@ last_modified_at: 2016-12-06
                 <h1>dworpse schaakkring</h1>
                 <hr class="header-hr">
                 <h3>een schaakclub in halle</h3>
-                <a href="#over-ons" class="btn btn-warning btn-lg page-scroll">over ons »</a>
+                <a href="#over-ons" class="btn btn-warning btn-lg">over ons »</a>
             </div>
         </div>
     </header>
@@ -115,7 +115,7 @@ last_modified_at: 2016-12-06
     </section>
 
     <section id="bestuur">
-      <iframe src="bestuur.html" scrolling="no"></iframe>
+      <iframe src="{{ "/bestuur/" | prepend: site.baseurl }}" scrolling="no"></iframe>
       <script>iFrameResize({log: false, heightCalculationMethod: "max"})</script>
       <noscript></noscript>
     </section>
