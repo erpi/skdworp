@@ -17,7 +17,7 @@
         <li class="dropdown">
           <!-- add href="#" attibute to <a> to fix safari weirdness,
               or add "clickable" to class attribute of <a>
-              http://stackoverflow.com/questions/20960405/bootstrap-3-dropdown-on-ipad-not-working-->
+              http://stackoverflow.com/questions/20960405/bootstrap-3-dropdown-on-ipad-not-working -->
           <a class="dropdown-toggle clickable" data-toggle="dropdown" href="#">tornooien<span class="caret" ></span></a>
           <ul class="dropdown-menu">
             <li{% if page.url == '/klubkampioenschap/' %} class="active"{% endif %}><a href="{{ "/klubkampioenschap/" | prepend: site.baseurl | replace: '//', '/' }}">klubkampioenschap</a></li>

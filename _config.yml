@@ -34,3 +34,13 @@ gems:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: [li, thead, tbody, tfoot, tr, td, th]
+  ignore:
+    envs: []
+  blanklines: false
+  profile: false
+  startings: []
