@@ -77,7 +77,25 @@
 }
 @media (max-width: 767px) {
   .img404 {
-    width:90%;
-    height:auto;
+    width: 90%;
+    height: auto;
   }
+}
+
+footer {
+  padding-bottom: 1px;
+  background-color:#E95420;
+  color:#ffffff;
+}
+
+footer > a i {
+  padding: 10px;
+}
+
+footer a {
+  color: #ffffff;
+}
+
+footer a:hover {
+  text-decoration: none;
 }

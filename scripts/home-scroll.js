@@ -3,7 +3,7 @@
 
 $(document).ready(function(){
   // Add smooth scrolling to all links in navbar + footer link
-  $(".navbar a[href*='#over-ons'], footer a[href='#top'], header div div a, #lok1, #best1, #best2").on('click', function(event) {
+  $(".navbar a[href*='#over-ons'], header div div a, #lok1, #best1, #best2").on('click', function(event) {
 
     // Prevent default anchor click behavior
     event.preventDefault();
@@ -15,7 +15,7 @@ $(document).ready(function(){
     // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
     $('html, body').animate({
       scrollTop: $(hash).offset().top
-    }, 900, function(){
+    }, "slow", function(){
 
       // Add hash (#) to URL when done scrolling (default click behavior)
       window.location.hash = hash;

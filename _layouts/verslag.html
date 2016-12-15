@@ -17,11 +17,6 @@ layout: compress
       }
     </script>
     {% endif %}
-    <script>
-      function naarBoven() {
-        window.scrollTo(0, 0);
-      }
-    </script>
     {% seo %}
   </head>
   <body>
@@ -63,11 +58,6 @@ layout: compress
       </section>
       {% endif %}
 
-      <footer class="container text-center">
-        <a class="lead" href="#" onclick="naarBoven();return false;" title="naar boven">
-          <span class="glyphicon glyphicon-chevron-up"></span>
-        </a>
-      </footer>
     </div>
     {% if page.stelling_fen %}
     <script>
@@ -83,6 +73,6 @@ layout: compress
     $(document).ready(init);
     </script>
     {% endif %}
-    {% include clicky.html %}
+    {% include footer.html %}
   </body>
 </html>
