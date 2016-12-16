@@ -2,8 +2,8 @@
 ---
 
 $(document).ready(function(){
-  // Add smooth scrolling to all links in navbar + footer link
-  $(".navbar a[href*='#over-ons'], header div div a, #lok1, #best1, #best2").on('click', function(event) {
+  // Add smooth scrolling to all links in navbar
+  $(".navbar a[href*='#over-ons'], header div div a, #lok1, #best1").on('click', function(event) {
 
     // Prevent default anchor click behavior
     event.preventDefault();
