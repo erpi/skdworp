@@ -1,31 +1,44 @@
 ---
 layout: default
 title: Contacteer ons
-subtitle: Vul het formulier in en we nemen zo snel mogelijk contact met je op.
 description: Dworpse Schaakkring. Contact formulier.
 permalink: /contact/
-last_modified_at: 2016-12-15
+last_modified_at: 2016-12-16
 ---
 <div class="row">
-  <div class="col-md-6 col-md-offset-3">
+  <div class="col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
     <h2>{{ page.title | downcase }}</h2>
-    <p class="lead">{{ page.subtitle | downcase }}<p>
-      <form action="https://www.elformo.com/forms/96c19a0c-a4a3-4865-9ebb-775f2a1c3ff1" method="post" accept-charset="UTF-8">
+    <p class="lead">stuur een bericht naar het bestuur van onze club.</p>
+      <div class="well">
+      <!-- <form action="https://www.elformo.com/forms/96c19a0c-a4a3-4865-9ebb-775f2a1c3ff1" method="post" accept-charset="UTF-8"> -->
+      <form action="" method="post" accept-charset="UTF-8">
         <div class="form-group">
           <label for="naam">naam</label>
-          <input type="text" class="form-control" id="naam" name="naam">
-          <input type="text" class="form-control" id="verborgen_veld" name="elformo_honeypot">
+          <div class="input-group">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+            <input type="text" class="form-control" id="naam" name="naam">
+          </div>
         </div>
         <div class="form-group">
-          <label for="email">email</label>
-          <input type="e-mail" class="form-control" id="email" name="email">
+          <label class="verborgen" for="verborgen_veld">volgende veld leeg laten</label>
+          <input class="verborgen" type="text" class="form-control" id="verborgen_veld" name="elformo_honeypot">
         </div>
         <div class="form-group">
-          <label for="vraag">vraag</label>
-          <textarea rows="10" cols="80" type="text" class="form-control" id="vraag" name="vraag">
-          </textarea>
+          <label for="email">e-mailadres</label>
+          <div class="input-group">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+            <input required type="email" class="form-control" id="email" name="email">
+          </div>
         </div>
-        <button type="submit" class="btn btn-default">verzenden</button>
+        <div class="form-group">
+          <label for="bericht">bericht</label>
+          <div class="input-group">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-pencil"></i></span>
+            <textarea rows="10" type="text" class="form-control" placeholder="vragen, opmerkingen, suggesties, ..." id="bericht" name="bericht"></textarea>
+          </div>
+        </div>
+        <button type="submit" class="btn btn-default">verzenden <span class="glyphicon glyphicon-send"></span></button>
       </form>
+    </div>
   </div>
 </div>
