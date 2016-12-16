@@ -11,6 +11,8 @@ layout: compress
     <div class="container main-container">
       {{ content }}
     </div>
-    {% include footer.html %}
+    {% unless page.nofooter %}
+      {% include footer.html %}
+    {% endunless %}
   </body>
 </html>
