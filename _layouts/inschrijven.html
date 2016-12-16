@@ -1,12 +1,29 @@
 ---
-layout: default
+layout: compress
 ---
-<div class="row">
-  <div class="col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
-    <h2>{{ page.title | downcase }}</h2>
-    <p class="lead">{{ page.uitleg }}</p>
-      <div class="well">
-        {{ content }}
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    {% include head.html %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/webshim/1.16.0/minified/polyfiller.js"></script>
+    <script>
+      webshim.activeLang('nl');
+      webshims.polyfill('forms');
+      webshims.cfg.no$Switch = true;
+    </script>
+  </head>
+  <body>
+    {% include navbar.html %}
+    <div class="container main-container">
+      <div class="row">
+        <div class="col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
+          <h2>{{ page.title | downcase }}</h2>
+          <p class="lead">{{ page.uitleg }}</p>
+          <div class="well">
+            {{ content }}
+          </div>
+        </div>
       </div>
-  </div>
-</div>
+    </div>
+  </body>
+</html>
