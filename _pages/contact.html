@@ -1,0 +1,31 @@
+---
+layout: default
+title: Contacteer ons
+subtitle: Vul het formulier in en we nemen zo snel mogelijk contact met je op.
+description: Dworpse Schaakkring. Contact formulier.
+permalink: /contact/
+last_modified_at: 2016-12-15
+---
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <h2>{{ page.title | downcase }}</h2>
+    <p class="lead">{{ page.subtitle | downcase }}<p>
+      <form action="https://www.elformo.com/forms/96c19a0c-a4a3-4865-9ebb-775f2a1c3ff1" method="post" accept-charset="UTF-8">
+        <div class="form-group">
+          <label for="naam">naam</label>
+          <input type="text" class="form-control" id="naam" name="naam">
+          <input type="text" class="form-control" id="verborgen_veld" name="elformo_honeypot">
+        </div>
+        <div class="form-group">
+          <label for="email">email</label>
+          <input type="e-mail" class="form-control" id="email" name="email">
+        </div>
+        <div class="form-group">
+          <label for="vraag">vraag</label>
+          <textarea rows="10" cols="80" type="text" class="form-control" id="vraag" name="vraag">
+          </textarea>
+        </div>
+        <button type="submit" class="btn btn-default">verzenden</button>
+      </form>
+  </div>
+</div>
