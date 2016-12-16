@@ -5,30 +5,12 @@ last_modified_at: 2016-12-06
 <!DOCTYPE html>
 <html lang="nl">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="revisit-after" content="1 month">
-
-    <link href="{{"/styles/site.css" | prepend: site.baseurl }}" rel="stylesheet">
+    {% include head.html %}
     <link href="{{"/styles/homepage.css" | prepend: site.baseurl }}" rel="stylesheet">
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.5/iframeResizer.min.js"></script>
-    <!--[if lt IE 9]>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.5/ie8.polyfils.min.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHphI5tNhhW0hImFMhl-NAkiiq5M8Q1tw&callback=initialize" async="" defer=""></script>
     <script src="{{"/scripts/home-scroll.js" | prepend: site.baseurl }}"></script>
     <script src="{{"/scripts/home-maps.js" | prepend: site.baseurl }}"></script>
-
-    {% include favicons.html %}
-
-    {% seo %}
   </head>
   <body data-spy="scroll" data-target=".navbar" data-offset="50">
     {% include navbar.html %}
