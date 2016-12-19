@@ -1,5 +1,6 @@
 ---
 ---
+@import "variabelen";
 
 html, body {
   height: 100%;
@@ -8,7 +9,7 @@ html, body {
 
 /* layout header gedeelte met foto op achtergrond */
 .header-hr {
-  border-color: #EFB73E;
+  border-color: $brand-warning;
 }
 header {
   position: relative;
@@ -56,10 +57,10 @@ section {
 }
 .section-hr {
   margin: 30px auto 50px;
-  border-color: #CF4A1C;
+  border-color: $brand-primary;
 }
 .icoon-groot {
-  color: #CF4A1C;
+  color: $brand-primary;
   font-size: 50px;
 }
 iframe {

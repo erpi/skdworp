@@ -1,5 +1,7 @@
 ---
 ---
+@import "variabelen";
+
 .schaakbord {
   width: 100%;
 }
@@ -7,7 +9,7 @@
 @media (min-width: 768px) {
   hr {
     margin: 30px auto 30px;
-    border-color: #CF4A1C;
+    border-color: $brand-primary;
   }
   p {
     font-size: larger;
@@ -19,7 +21,7 @@
 @media (max-width: 767px) {
   hr {
     margin: 15px auto 15px;
-    border-color: #CF4A1C;
+    border-color: $brand-primary;
   }
   .auteur {
     padding-bottom: 10px;
