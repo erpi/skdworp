@@ -39,10 +39,10 @@
     "ronde": "ronde 4",
     "datum": "16-12-2016",
     "partijen": [
-      {"wr": "", "zr": "", "wit": "stijn bertrand", "zwart": "filip van de velde"},
+      {"wr": "0.5", "zr": "0.5", "wit": "stijn bertrand", "zwart": "filip van de velde"},
       {"wr": "", "zr": "", "wit": "peter de bosscher", "zwart": "kjell spaens"},
-      {"wr": "", "zr": "", "wit": "eric cornelis", "zwart": "serge vanderwaeren"},
-      {"wr": "", "zr": "", "wit": "bernard malfliet", "zwart": "geert verrijken"},
+      {"wr": "0", "zr": "1", "wit": "eric cornelis", "zwart": "serge vanderwaeren"},
+      {"wr": "0", "zr": "1", "wit": "bernard malfliet", "zwart": "geert verrijken"},
       {"wr": "", "zr": "", "wit": "walter de reymaeker", "zwart": "yves baert"},
       {"wr": "", "zr": "", "wit": "diederik lot", "zwart": "robert huysman"}
     ]
