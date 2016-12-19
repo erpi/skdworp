@@ -1,5 +1,6 @@
 ---
 ---
+$brand-primary: #CF4A1C;
 
 @import "variables";
 @import "bootswatch";
@@ -16,12 +17,12 @@
 
 .table tbody tr > th {
   color: #ffffff;
-  background-color: #E95420;
+  background-color: $brand-primary;
 }
 
 .table thead tr > th {
   color: #ffffff;
-  background-color: #E95420;
+  background-color: $brand-primary;
 }
 
 .alignleft {
@@ -88,7 +89,7 @@
 
 footer {
   padding-bottom: 1px;
-  background-color:#E95420;
+  background-color:$brand-primary;
   color:#ffffff;
 }
 
