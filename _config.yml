@@ -40,7 +40,7 @@ compress_html:
   comments: ["<!-- ", " -->"]
   endings: [li, thead, tbody, tfoot, tr, td, th]
   ignore:
-    envs: []
+    envs: [local]
   blanklines: false
   profile: false
   startings: []
