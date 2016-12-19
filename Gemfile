@@ -23,6 +23,7 @@ ruby RUBY_VERSION
 # pieter: tijdelijk '104' toegevoegd.
 gem 'github-pages', '104', group: :jekyll_plugins
 gem 'therubyracer'
+gem 'html-proofer'
 
 # If you have any plugins, put them here!
 # pieter: feed niet nodig
