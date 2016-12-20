@@ -9,6 +9,8 @@ layout: compress
   <body>
     {% include navbar.html %}
     <div class="container main-container">
+      <h1>{{ page.title | downcase }}</h1>
+      {% if page.subtitle %}<h2>{{ page.subtitle | downcase }}</h2>{% endif %}
       {{ content }}
     </div>
       {% include footer.html %}

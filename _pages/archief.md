@@ -5,9 +5,6 @@ description: Tornooiarchief van de Dworpse Schaakkring.
 permalink: /archief/
 last_modified_at: 2016-12-07
 ---
-tornooiarchief
---------------
-
 ### klubkampioenschap
 
 - [2015 - 2016](/archief/klubkampioenschap-1516/)
