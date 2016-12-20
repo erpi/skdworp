@@ -1,6 +1,0 @@
-<ul class="nav nav-pills">
-  {% for tab in include.tabs %}
-  <li{% if forloop.index == 1 %} class="active"{% endif %}><a data-toggle="pill" href="#{{ tab | replace: " ", "-" }}">{{ tab }}</a></li>
-  {% endfor %}
-</ul>
-<div class="tab-content">

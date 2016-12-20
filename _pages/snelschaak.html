@@ -14,22 +14,25 @@ rondes: [tussenstand, jun, mei, apr, maa, feb, jan, dec, nov, okt, sep, av]
 {% capture string_of_tabs %}{% for ronde in page.rondes %}{% for file in array_of_files %}{% if ronde == file %}{{ ronde }},{% break %}{% endif %}{% endfor %}{% endfor %}{% endcapture %}
 {% assign tabs = string_of_tabs | split: "," %}
 
-{% include nav-pills-start.html tabs=tabs title=page.title %}
-
-{% for tab in tabs %}
-  {% for file in files %}
-   {% if tab == file[0] %}
-    {% if tab == tabs.first %}
-      {% include tab-pane-start.html href=tab aktief=true %}
-    {% else %}
-      {% include tab-pane-start.html href=tab aktief=false %}
-    {% endif %}
-    {% assign ronde = file[1] %}
-    {% include table-eindstand.html datafile=ronde %}
-    {% include tab-pane-end.html %}
-    {% break %}
-   {% endif %}
+<ul class="nav nav-pills">
+  {% for tab in tabs %}
+  <li{% if forloop.index == 1 %} class="active"{% endif %}><a data-toggle="pill" href="#{{ tab | replace: " ", "-" }}">{{ tab }}</a></li>
   {% endfor %}
-{% endfor %}
-
-{% include nav-pills-end.html %}
+</ul>
+<div class="tab-content">
+  {% for tab in tabs %}
+    {% for file in files %}
+     {% if tab == file[0] %}
+      {% if tab == tabs.first %}
+        {% include tab-pane-start.html href=tab aktief=true %}
+      {% else %}
+        {% include tab-pane-start.html href=tab aktief=false %}
+      {% endif %}
+      {% assign ronde = file[1] %}
+      {% include table-eindstand.html datafile=ronde %}
+      {% include tab-pane-end.html %}
+      {% break %}
+     {% endif %}
+    {% endfor %}
+  {% endfor %}
+</div>
