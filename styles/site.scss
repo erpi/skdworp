@@ -14,12 +14,12 @@
 }
 
 .table tbody tr > th {
-  color: #ffffff;
+  color: $body-bg;
   background-color: $brand-primary;
 }
 
 .table thead tr > th {
-  color: #ffffff;
+  color: $body-bg;
   background-color: $brand-primary;
 }
 
@@ -88,7 +88,7 @@
 footer {
   padding-bottom: 1px;
   background-color:$brand-primary;
-  color:#ffffff;
+  color:$body-bg;
 }
 
 footer > a i {
@@ -96,7 +96,7 @@ footer > a i {
 }
 
 footer a {
-  color: #ffffff;
+  color: $body-bg;
 }
 
 footer a:hover {

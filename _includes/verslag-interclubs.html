@@ -2,7 +2,7 @@
 {% for post in site.posts %}
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title"><a href="{{ post.url | prepend: site.baseurl }}">ronde {{ post.ronde }} - {{ post.title | downcase }}</a></h3>
+    <h2 class="panel-title"><a href="{{ post.url | prepend: site.baseurl }}">ronde {{ post.ronde }} - {{ post.title | downcase }}</a></h2>
   </div>
   <div class="panel-body">
     {{ post.excerpt | downcase }}

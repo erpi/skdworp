@@ -6,7 +6,15 @@ html, body {
   height: 100%;
   width: 100%;
 }
-
+h1 {
+  font-size: floor(($font-size-base * 2.6));
+}
+h2 {
+  font-size: floor(($font-size-base * 2.15));
+}
+h3 {
+  font-size: ceil(($font-size-base * 1.7));
+}
 /* layout header gedeelte met foto op achtergrond */
 .header-hr {
   border-color: $brand-warning;

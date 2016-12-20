@@ -1,5 +1,5 @@
-<h2>{{ page.title | downcase }}</h2>
-{% if page.subtitle %}<h3>{{ page.subtitle | downcase }}</h3>{% endif %}
+<h1>{{ page.title | downcase }}</h1>
+{% if page.subtitle %}<h2>{{ page.subtitle | downcase }}</h2>{% endif %}
 <div class="table-responsive">
   {% include table-snelschaak.html datafile=include.datafile %}
 </div>
