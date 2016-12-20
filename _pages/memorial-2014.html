@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pills
 title: Memorial Debast 2014
 permalink: /memorial-2014/
 noindex: true
@@ -23,8 +23,6 @@ tabs:
   - einduitslag tornooi
   - kampioenschap svb
 ---
-{% include nav-pills-start.html tabs=page.tabs title=page.title %}
-
 {% assign tab = page.tabs[0] %}
 {% include tab-pane-start.html href=tab aktief=true %}
 <div class="table-responsive">
@@ -57,5 +55,3 @@ tabs:
   </table>
 </div>
 {% include tab-pane-end.html %}
-
-{% include nav-pills-end.html %}

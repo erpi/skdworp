@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pills
 title: Nationale Interclubs 2011 - 2012
 description: Dworpse Schaakkring. Uitslagen en eindstand nationale interclubs 2011 - 2012.
 permalink: /archief/interclubs-1112/
@@ -10,8 +10,6 @@ tabs:
   - uitslagen 4c
   - uitslagen 4d
 ---
-{% include nav-pills-start.html tabs=page.tabs title=page.title %}
-
 {% assign tab = page.tabs[0] %}
 {% include tab-pane-start.html href=tab aktief=true %}
 {% include table-interclubs-eindstand.html datafile=site.data.ni.ni1112.eindstand_dworp_1 %}
@@ -31,5 +29,3 @@ tabs:
 {% include tab-pane-start.html href=tab aktief=false %}
 {% include table-interclubs-uitslagen.html datafile=site.data.ni.ni1112.uitslagen_dworp_2 %}
 {% include tab-pane-end.html %}
-
-{% include nav-pills-end.html %}

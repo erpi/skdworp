@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pills
 title: Nationale Interclubs 2016 - 2017
 subtitle: Afdeling 3B
 description: Dworpse Schaakkring. Verslagen, uitslagen en tussenstand.
@@ -13,11 +13,10 @@ tabs:
   - tussenstand
 last_modified_at: 2016-12-08
 ---
-{% include nav-pills-start.html tabs=page.tabs title=page.title %}
-
-<div class="tab-pane active" id="{{ page.tabs[0] }}">
+{% assign tab = page.tabs[0] %}
+{% include tab-pane-start.html href=tab aktief=true %}
 {% include verslag-interclubs.html %}
-</div>
+{% include tab-pane-end.html %}
 
 {% assign tab = page.tabs[1] %}
 {% include tab-pane-start.html href=tab aktief=false %}
@@ -33,5 +32,3 @@ last_modified_at: 2016-12-08
 {% include tab-pane-start.html href=tab aktief=false %}
 {% include table-interclubs-eindstand.html datafile=site.data.ni.ni1617.tussenstand_dworp_1 %}
 {% include tab-pane-end.html %}
-
-{% include nav-pills-end.html %}

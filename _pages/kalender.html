@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Kalender
+layout: pills
+title: Kalender 2016 - 2017
 description: Dworpse Schaakkring. Agenda 2016 - 2017.
 permalink: /kalender/
 jaar1: "2016"
@@ -10,10 +10,6 @@ tabs:
   - 2017
 last_modified_at: 2016-12-07
 ---
-{% capture titel %}{{ page.title }} {{ page.jaar1 }}-{{ page.jaar2 }}{% endcapture %}
-
-{% include nav-pills-start.html tabs=page.tabs title=titel %}
-
 {% assign tab = page.tabs[0] %}
 {% include tab-pane-start.html href=tab aktief=true %}
 {% include table-kalender.html jaar=page.jaar1 %}
@@ -23,5 +19,3 @@ last_modified_at: 2016-12-07
 {% include tab-pane-start.html href=tab aktief=false %}
 {% include table-kalender.html jaar=page.jaar2 %}
 {% include tab-pane-end.html %}
-
-{% include nav-pills-end.html %}

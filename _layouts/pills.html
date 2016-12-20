@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<h1>{{ page.title | downcase }}</h1>
+{% if page.subtitle %}<h2>{{ page.subtitle | downcase }}</h2>{% endif %}
+<ul class="nav nav-pills">
+  {% for tab in page.tabs %}
+  <li{% if forloop.index == 1 %} class="active"{% endif %}><a data-toggle="pill" href="#{{ tab | replace: " ", "-" }}">{{ tab }}</a></li>
+  {% endfor %}
+</ul>
+<div class="tab-content">
+  {{ content }}
+</div>
