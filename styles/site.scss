@@ -39,6 +39,20 @@
   font-style: italic;
 }
 
+.pseudo-h2 {
+  font-size:$font-size-h2;
+  line-height:$headings-line-height;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.pseudo-h3 {
+  font-size:$font-size-h3;
+  line-height:$headings-line-height;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
 .vet {
   font-weight: bold;
 }
@@ -64,7 +78,7 @@
 }
 
 .dworp {
-  background-color: #d9edf7;
+  background-color: $state-info-bg;
 }
 
 /*fix for safari (ios): caret sometimes not showing */
@@ -74,7 +88,7 @@
 
 @media (min-width: 768px) {
   .img404 {
-    width:60%;
+    width:50%;
     height:auto;
   }
 }

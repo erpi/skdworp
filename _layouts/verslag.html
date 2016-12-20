@@ -28,9 +28,9 @@ layout: compress
 
       <section id="verslag">
         <div class="container">
-        <h3>{% include datum.html %}</h3>
-        <h3>nationale interclubs ronde&nbsp;{{ page.ronde }}<br>{{ page.thuisploeg | downcase }} - {{ page.uitploeg | downcase }}</h3>
-        <h2 class="auteur" >door {{ page.author | downcase}}</h2>
+        <p class="pseudo-h3">{% include datum.html %}</p>
+        <p class="pseudo-h3">nationale interclubs ronde&nbsp;{{ page.ronde }}<br>{{ page.thuisploeg | downcase }} - {{ page.uitploeg | downcase }}</p>
+        <p class="pseudo-h2 auteur">door {{ page.author | downcase}}</p>
         {{ content | downcase }}
       </div>
       </section>
