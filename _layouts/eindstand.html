@@ -1,5 +1,6 @@
+---
+layout: default
+---
 <h1>{{ page.title | downcase }}</h1>
 {% if page.subtitle %}<h2>{{ page.subtitle | downcase }}</h2>{% endif %}
-<div class="table-responsive">
-  {% include table-snelschaak.html datafile=include.datafile %}
-</div>
+{{ content }}
