@@ -1,18 +1,20 @@
-<table class="table table-eindstand">
-  <thead>
-    <tr>
-      {% for kolom in include.datafile[0] %}
-      <th>{% if forloop.index > 2 %}{{ kolom[0] | downcase }}{% endif %}</th>
+<div class="table-responsive">
+  <table class="table table-eindstand">
+    <thead>
+      <tr>
+        {% for kolom in include.datafile[0] %}
+        <th>{% if forloop.index > 2 %}{{ kolom[0] | downcase }}{% endif %}</th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+      {% for persoon in include.datafile %}
+      <tr>
+        {% for kolom in persoon %}
+        <td{% if forloop.index == 2 %} class="alignleft"{% endif %}>{{ kolom[1] | downcase }}</td>
+        {% endfor %}
+      </tr>
       {% endfor %}
-    </tr>
-  </thead>
-  <tbody>
-    {% for persoon in include.datafile %}
-    <tr>
-      {% for kolom in persoon %}
-      <td{% if forloop.index == 2 %} class="alignleft"{% endif %}>{{ kolom[1] | downcase }}</td>
-      {% endfor %}
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
+    </tbody>
+  </table>
+</div>

@@ -1,15 +1,17 @@
-<table class="table">
-  <tbody>
-    {% for ronde in include.datafile %}
-      <tr><th colspan="2">{{ ronde.ronde | downcase }}</th>
-        <th colspan="5" class="alignright">{{ ronde.datum | downcase }}</th></tr>
-      {% for uitslag in ronde.uitslagen %}
-      <tr{% if uitslag.thuis contains 'dworp' or uitslag.uit contains 'dworp'%} class="dworp"{% endif %}>
-        <td class="aligncenter">{{ forloop.index }}</td><td>{{ uitslag.thuis | downcase }}</td>
-        <td>-</td><td>{{ uitslag.uit | downcase }}</td>
-        <td class="alignright">{{ uitslag.tr | downcase }}</td>
-        <td class="aligncenter">-</td><td>{{ uitslag.ur | downcase }}</td></tr>
+<div class="table-responsive">
+  <table class="table">
+    <tbody>
+      {% for ronde in include.datafile %}
+        <tr><th colspan="2">{{ ronde.ronde | downcase }}</th>
+          <th colspan="5" class="alignright">{{ ronde.datum | downcase }}</th></tr>
+        {% for uitslag in ronde.uitslagen %}
+        <tr{% if uitslag.thuis contains 'dworp' or uitslag.uit contains 'dworp'%} class="dworp"{% endif %}>
+          <td class="aligncenter">{{ forloop.index }}</td><td>{{ uitslag.thuis | downcase }}</td>
+          <td>-</td><td>{{ uitslag.uit | downcase }}</td>
+          <td class="alignright">{{ uitslag.tr | downcase }}</td>
+          <td class="aligncenter">-</td><td>{{ uitslag.ur | downcase }}</td></tr>
+        {% endfor %}
       {% endfor %}
-    {% endfor %}
-  </tbody>
-</table>
+    </tbody>
+  </table>
+</div>

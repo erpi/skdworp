@@ -1,12 +1,14 @@
-<table class="table">
-  <tbody>
-    {% for ronde in include.datafile %}
-      {% if ronde.datum contains include.jaar %}
-      <tr><th colspan="2">{{ ronde.ronde | downcase }}</th><th colspan="5" class="alignright">{{ ronde.datum | downcase }}</th></tr>
-        {% for bord in ronde.partijen %}
-        <tr><td class="aligncenter">{{ forloop.index }}</td><td>{{ bord.wit | downcase }}</td><td>-</td><td>{{ bord.zwart | downcase }}</td><td class="alignright">{{ bord.wr | downcase }}</td><td class="aligncenter">-</td><td>{{ bord.zr | downcase }}</td></tr>
-        {% endfor %}
-      {% endif %}
-    {% endfor %}
-  </tbody>
-</table>
+<div class="table-responsive">
+  <table class="table">
+    <tbody>
+      {% for ronde in include.datafile %}
+        {% if ronde.datum contains include.jaar %}
+        <tr><th colspan="2">{{ ronde.ronde | downcase }}</th><th colspan="5" class="alignright">{{ ronde.datum | downcase }}</th></tr>
+          {% for bord in ronde.partijen %}
+          <tr><td class="aligncenter">{{ forloop.index }}</td><td>{{ bord.wit | downcase }}</td><td>-</td><td>{{ bord.zwart | downcase }}</td><td class="alignright">{{ bord.wr | downcase }}</td><td class="aligncenter">-</td><td>{{ bord.zr | downcase }}</td></tr>
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
