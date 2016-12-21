@@ -19,8 +19,9 @@ layout: compress
     {% endif %}
   </head>
   <body>
+    <a href="#content" class="sr-only sr-only-focusable">￼doorgaan naar hoofdinhoud</a>
     {% include navbar.html %}
-    <div class="container main-container">
+    <div class="container main-container" id="content" tabindex="-1">
       <header id="top_">
         <h1>{{ page.title | downcase }}</h1>
         <hr>
