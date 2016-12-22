@@ -1,17 +1,17 @@
 ---
 layout: compress
 description: "Welkom op de website van onze schaakclub. De club zijn roots liggen in Dworp, schaken doen we tegenwoordig in Halle."
-last_modified_at: 2016-12-06
+last_modified_at: 2016-12-22
 ---
 <!DOCTYPE html>
 <html lang="nl">
   <head>
     {% include head.html %}
     <link href="{{"/styles/homepage.css" | prepend: site.baseurl }}" rel="stylesheet">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.5/iframeResizer.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHphI5tNhhW0hImFMhl-NAkiiq5M8Q1tw&callback=initialize" async="" defer=""></script>
     <script src="{{"/scripts/home-scroll.js" | prepend: site.baseurl }}"></script>
     <script src="{{"/scripts/home-maps.js" | prepend: site.baseurl }}"></script>
+    <script src="{{"/scripts/home-decrypt.js" | prepend: site.baseurl }}"></script>
   </head>
   <body data-spy="scroll" data-target=".navbar" data-offset="50">
     <a href="#top" class="sr-only sr-only-focusable">￼doorgaan naar hoofdinhoud</a>
@@ -100,9 +100,28 @@ last_modified_at: 2016-12-06
     </section>
 
     <section id="bestuur">
-      <iframe src="{{ "/bestuur/" | prepend: site.baseurl }}" scrolling="no"></iframe>
-      <script>iFrameResize({log: false, heightCalculationMethod: "max"})</script>
-      <noscript></noscript>
+      <div class="container text-center">
+        <h2>bestuur</h2>
+        <hr class="section-hr">
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+            <span class="glyphicon glyphicon-king icoon-groot" aria-hidden="true"></span>
+            {% include bestuurslid.html functie="voorzitter" %}
+            <!-- {% include bestuurslid.html functie=page.voorzitter.functie naam=page.voorzitter.naam telefoon=page.voorzitter.telefoon gsm=page.voorzitter.gsm email=page.voorzitter.email %} -->
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+            <span class="glyphicon glyphicon-queen icoon-groot" aria-hidden="true"></span>
+            {% include bestuurslid.html functie="secretaris" %}
+          </div>
+        </div>
+        <br>
+        <div class="row">
+          <div class="col-xs-12 col-sm-offset-3 col-sm-6 col-md-offset-3 col-md-6 col-lg-offset-3 col-lg-6">
+            <span class="glyphicon glyphicon-tower icoon-groot" aria-hidden="true"></span>
+            {% include bestuurslid.html functie="penningmeester" %}
+          </div>
+        </div>
+      </div>
     </section>
 
     {% include footer.html %}

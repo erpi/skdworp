@@ -1,14 +1,15 @@
-<p class="pseudo-h2"><strong>{{ include.naam }}</strong><br>{{ include.functie }}</p>
+{% assign bestuurslid = site.data.bestuur[include.functie] %}
+<p class="pseudo-h2"><strong>{{ bestuurslid.naam }}</strong><br>{{ bestuurslid.functie }}</p>
 <p class="lead">
-{% if include.telefoon %}
-<span class="glyphicon glyphicon-phone-alt"></span>  {{ include.telefoon }}<br>
+{% if bestuurslid.telefoon %}
+<span class="glyphicon glyphicon-phone-alt"></span>  {{ bestuurslid.telefoon }}<br>
 {% endif %}
-{% if include.gsm %}
-<span class="glyphicon glyphicon-phone"></span>  {{ include.gsm }}<br>
+{% if bestuurslid.gsm %}
+<span class="glyphicon glyphicon-phone"></span>  {{ bestuurslid.gsm }}<br>
 {% endif %}
-{% if include.email %}
+{% if bestuurslid.email %}
 <span class="glyphicon glyphicon-envelope"></span>
-<script>document.write('  ' + decrypt(46, 77, 'schaken', '{{ include.email }}'));</script>
+<script>document.write('  ' + decrypt(46, 77, 'schaken', '{{ bestuurslid.email }}'));</script>
 <noscript> e-mailadres? zet javascript aan ;-)</noscript>
 {% endif %}
 </p>

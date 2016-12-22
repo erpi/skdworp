@@ -1,0 +1,34 @@
+# inspiratie voor e-mail obfuscatie:
+# http://www.grall.name/posts/1/antiSpam-emailAddressObfuscation.html
+# http://www.grall.name/posts/1/onlineTools_obfuscation.html
+# ook volgende links zijn interessant, maar niet gebruikt
+# http://techblog.tilllate.com/2008/07/20/ten-methods-to-obfuscate-e-mail-addresses-compared/
+# http://rot13.florianbersier.com/ en https://github.com/xpressyoo/Email-Obfuscator
+# http://csarven.ca/hiding-email-addresses
+# http://iwebchk.com/blog/email-obfuscation-techniques/
+# inspiratie om privé-gegevens uit zoekmachines te houden:
+# https://github.com/davidjbradshaw/iframe-resizer
+# https://www.hochmanconsultants.com/how-to-block-part-of-a-page-from-being-indexed-by-google-or-other-search-engines/
+#
+# vigenère-encryptie van elk e-mailadres:
+# start ascii-karakter 46, lengte 77 karakters, sleutel 'schaken'
+# \ tekens moeten escaped worden door er een extra \ voor te zetten
+# < en/of > teken kan ook probleem zijn in yaml. oplossing ???
+voorzitter:
+  functie: voorzitter
+  naam: eric cornelis
+  telefoon: 02 360 32 87
+  gsm: 0470 65 17 54
+  email: ZMPNU]feI`ZU\\3kSfTU^n # vigenère
+secretaris:
+  functie: secretaris
+  naam: bernard malfliet
+  telefoon:
+  gsm: 0471 98 33 87
+  email: jLLSQVYdQRZ0RblUNO\\eVgUOKbXT # vigenère
+penningmeester:
+  functie: penningmeester &amp; jeugdlessen
+  naam: diederik lot
+  telefoon:
+  gsm: 0495 31 05 91
+  email: ccYUdwZeIVRkMbeLVKTOea # vigenère
