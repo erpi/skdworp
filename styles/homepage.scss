@@ -71,9 +71,8 @@ section {
   color: $brand-primary;
   font-size: 50px;
 }
-iframe {
-  border: none;
+.gm-image {
+  height: 350px;
   width: 100%;
-  margin: 0;
-  padding: 0;
+  margin-bottom: 20px;
 }
