@@ -8,16 +8,19 @@ function initialize() {
     zoom: 15,
     center: LatLngKK,
     mapTypeId:google.maps.MapTypeId.ROADMAP,
-    scrollwheel:false,
-    //disable scrolling on touch-devices
-    draggable: !("ontouchend" in document),
+    disableDefaultUI: true,
+    draggable: false,
+		scrollwheel: false,
+    clickableIcons: false,
   };
   var mapOptionsNI = {
     zoom: 15,
     center: LatLngNI,
     mapTypeId:google.maps.MapTypeId.ROADMAP,
-    scrollwheel:false,
-    draggable: !("ontouchend" in document),
+    disableDefaultUI: true,
+    draggable: false,
+		scrollwheel: false,
+    clickableIcons: false,
   };
   var mapKK = new google.maps.Map(document.getElementById("start65"),mapOptionsKK);
   var mapNI = new google.maps.Map(document.getElementById("campus"),mapOptionsNI);
