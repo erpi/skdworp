@@ -1,17 +1,17 @@
 <footer id="footer" class="container-full text-center invisible">
   <a id="pijl" class="lead" href="#" onclick="naarBoven();return false;" title="naar boven">
-    <i class="fa fa-chevron-circle-up fa-lg"></i><span class="sr-only">naar begin pagina</span>
+    <span class="fa fa-chevron-circle-up fa-lg" aria-hidden="true"></span><span class="sr-only">naar begin pagina</span>
   </a>
   <div class="container">
     <div class="row">
-      <div class="col-xs-4">
-        <p><a href="{{ "/contact/" | prepend: site.baseurl }}"><i class="fa fa-envelope-o"></i> contacteer ons</a></p>
+      <div class="col-xs-4 alignleft">
+        <a href="{{ "/contact/" | prepend: site.baseurl }}"><span class="fa fa-envelope-o" aria-hidden="true"></span> contacteer ons</a>
       </div>
       <div class="col-xs-4">
-        <p><a href="{{ "/inschrijven-ni/" | prepend: site.baseurl }}"><i class="fa fa-newspaper-o"></i> inschrijven verslagen</a></p>
+        <a href="{{ "/inschrijven-ni/" | prepend: site.baseurl }}"><span class="fa fa-newspaper-o" aria-hidden="true"></span> inschrijven verslagen</a>
       </div>
-      <div class="col-xs-4">
-        <p> <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank"><i class="fa fa-feed"></i> atom feed</a></p>
+      <div class="col-xs-4 alignright">
+        <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank"><span class="fa fa-feed" aria-hidden="true"></span> atom feed</a>
       </div>
     </div>
   </div>
