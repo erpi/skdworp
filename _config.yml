@@ -27,6 +27,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - negeren
+  - scripts/chessboardjs-themes.js
+  - scripts/chessboard.js
 sass:
     style: compressed
 include: ['_pages']
