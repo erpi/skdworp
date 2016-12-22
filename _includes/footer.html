@@ -2,15 +2,17 @@
   <a id="pijl" class="lead" href="#" onclick="naarBoven();return false;" title="naar boven">
     <i class="fa fa-chevron-circle-up fa-lg"></i><span class="sr-only">naar begin pagina</span>
   </a>
-  <div class="row">
-    <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-      <p><a href="{{ "/contact/" | prepend: site.baseurl }}"><i class="fa fa-envelope-o"></i> contacteer ons</a></p>
-    </div>
-    <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-      <p><a href="{{ "/inschrijven-ni/" | prepend: site.baseurl }}"><i class="fa fa-newspaper-o"></i> inschrijven verslagen</a></p>
-    </div>
-    <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-      <p> <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank"><i class="fa fa-feed"></i> atom feed</a></p>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-4">
+        <p><a href="{{ "/contact/" | prepend: site.baseurl }}"><i class="fa fa-envelope-o"></i> contacteer ons</a></p>
+      </div>
+      <div class="col-xs-4">
+        <p><a href="{{ "/inschrijven-ni/" | prepend: site.baseurl }}"><i class="fa fa-newspaper-o"></i> inschrijven verslagen</a></p>
+      </div>
+      <div class="col-xs-4">
+        <p> <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank"><i class="fa fa-feed"></i> atom feed</a></p>
+      </div>
     </div>
   </div>
 </footer>
