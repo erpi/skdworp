@@ -1,5 +1,5 @@
 {% assign bestuurslid = site.data.bestuur[include.functie] %}
-<p class="pseudo-h2"><strong>{{ bestuurslid.naam }}</strong><br>{{ bestuurslid.functie }}</p>
+<h3><strong>{{ bestuurslid.naam }}</strong><br>{{ bestuurslid.functie }}</h3>
 <p class="lead">
 {% if bestuurslid.telefoon %}
 <span class="glyphicon glyphicon-phone-alt" aria-hidden="true"></span><span class="sr-only">telefoon:</span>  {{ bestuurslid.telefoon }}<br>
