@@ -3,7 +3,7 @@
     <thead>
       <tr>
         {% for kolom in include.datafile[0] %}
-        <th>{% if forloop.index > 2 %}{{ kolom[0] | downcase }}{% endif %}</th>
+        <th>{% if forloop.index > 2 %}{{ kolom[0] | downcase }}{% else %}<span class="sr-only">{{ kolom[0] | downcase }}</span>{% endif %}</th>
         {% endfor %}
       </tr>
     </thead>

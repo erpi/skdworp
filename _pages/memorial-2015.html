@@ -25,7 +25,7 @@ tabs:
 <div class="table-responsive">
   <table class="table">
     <tbody>
-      <tr><th></th><th>naam</th><th>elo</th><th>club</th><th>ptn</th><th>perf</th><th>res</th><th>mb</th><th>sb</th></tr>
+      <tr><th><span class="sr-only">nummer</span></th><th>naam</th><th>elo</th><th>club</th><th>ptn</th><th>perf</th><th>res</th><th>mb</th><th>sb</th></tr>
       {% for persoon in site.data.memorial.m2015 %}
       <tr><td>{{ persoon.nummer }}</td><td>{{ persoon.naam | downcase }}</td><td>{{ persoon.elo }}</td><td>{{ persoon.club | downcase }}</td><td>{{ persoon.punten }}</td><td>{{ persoon.perf }}</td><td>{{ persoon.res }}</td><td>{{ persoon.mb }}</td><td>{{ persoon.sb }}</td></tr>
       {% endfor %}
