@@ -1,0 +1,23 @@
+@import "bootswatch/variables";
+
+footer {
+  padding-bottom: 1px;
+  background-color:$brand-primary;
+  color:$body-bg;
+}
+
+footer > a span {
+  padding: 10px;
+}
+
+footer a {
+  color: $body-bg;
+}
+
+footer a:hover {
+  text-decoration: none;
+}
+
+footer div div div {
+   padding-bottom: 10px;
+}

@@ -1,6 +1,14 @@
 ---
 ---
-@import "variabelen";
+@import "varia/font-grootte";
+@import "varia/kleuren";
+@import "varia/typografie";
+@import "componenten/navbar";
+@import "componenten/footer";
+@import "bootswatch/variables";
+@import "bootswatch/bootswatch";
+@import "bootstrap-custom-posts";
+@import "font-awesome-custom";
 
 .schaakbord {
   width: 100%;

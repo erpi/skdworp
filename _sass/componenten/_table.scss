@@ -1,0 +1,27 @@
+@import "bootswatch/variables";
+
+.table tbody tr > th {
+  color: $body-bg;
+  background-color: $brand-primary;
+}
+
+.table thead tr > th {
+  color: $body-bg;
+  background-color: $brand-primary;
+}
+
+.table-eindstand thead tr > th {
+  text-align: center;
+}
+
+.table-eindstand tbody tr > th {
+    text-align: center;
+}
+
+.table-eindstand {
+    text-align: center;
+}
+
+.dworp {
+  background-color: $state-info-bg;
+}

@@ -1,19 +1,17 @@
 ---
 ---
-@import "variabelen";
+@import "varia/kleuren";
+@import "varia/typografie";
+@import "componenten/navbar";
+@import "componenten/footer";
+@import "bootswatch/variables";
+@import "bootswatch/bootswatch";
+@import "bootstrap-custom-homepage";
+@import "font-awesome-custom";
 
 html, body {
   height: 100%;
   width: 100%;
-}
-h1 {
-  font-size: floor(($font-size-base * 2.6));
-}
-h2 {
-  font-size: floor(($font-size-base * 2.15));
-}
-h3 {
-  font-size: ceil(($font-size-base * 1.7));
 }
 /* layout header gedeelte met foto op achtergrond */
 .header-hr {
@@ -42,7 +40,7 @@ header .header-content {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
-header .header-content .header-content-inner .pseudo-h2 {
+header .header-content .header-content-inner .pseudo-h3 {
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
