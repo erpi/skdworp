@@ -6,17 +6,6 @@ layout: compress
   <head>
     {% include head.html %}
     <link href="{{"/styles/posts.css" | prepend: site.baseurl }}" rel="stylesheet">
-    {% if page.stelling_fen %}
-    <link href="{{"/styles/chessboard-0.3.0.min.css" | prepend: site.baseurl }}" rel="stylesheet">
-    <script src="{{"/scripts/chessboard.min.js" | prepend: site.baseurl }}"></script>
-    <!-- <script src="{{"/scripts/chessboardjs-themes.js" | prepend: site.baseurl }}"></script> -->
-    <script>
-      function toonOplossing() {
-        $("#tonen").addClass('hidden');
-        $("#oplossing").removeClass('hidden');
-      }
-    </script>
-    {% endif %}
   </head>
   <body>
     <a href="#content" class="sr-only sr-only-focusable">￼doorgaan naar hoofdinhoud</a>
@@ -59,20 +48,21 @@ layout: compress
       {% endif %}
 
     </div>
-    {% if page.stelling_fen %}
-    <script>
-    var init = function() {
-      var board = ChessBoard('board', {
-        showNotation: false,
-        pieceTheme: uscf_piece_theme,
-        boardTheme: wikipedia_board_theme,
-        position: "{{ page.stelling_fen }}"
-      });
-      $(window).resize(board.resize);
-    };
-    $(document).ready(init);
-    </script>
-    {% endif %}
     {% include footer.html %}
+    {% if page.stelling_fen %}
+      <script src="{{"/scripts/chessboard.min.js" | prepend: site.baseurl }}"></script>
+      <script src="{{"/scripts/post.js" | prepend: site.baseurl }}"></script>
+      <script>
+      $(document).ready(function(){
+        var board = ChessBoard('board', {
+          showNotation: false,
+          pieceTheme: uscf_piece_theme,
+          boardTheme: wikipedia_board_theme,
+          position: "{{ page.stelling_fen }}"
+        });
+        $(window).resize(board.resize);
+      });
+      </script>
+    {% endif %}
   </body>
 </html>

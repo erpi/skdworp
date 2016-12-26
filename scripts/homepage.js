@@ -4,23 +4,6 @@
 
 # http://stackoverflow.com/questions/4531052/how-can-i-disable-scrolling-on-the-google-maps-mobile-layout
 ---
-function smoothScrolling() {
-  // Add smooth scrolling to all links in navbar
-  $(".navbar a[href*='#over-ons'], header div div a, #lok1, #best1").on('click', function(event) {
-    // Prevent default anchor click behavior
-    event.preventDefault();
-    // Store hash
-    var hash = this.hash;
-    // Using jQuery's animate() method to add smooth page scroll
-    $('html, body').animate({
-      scrollTop: $(hash).offset().top
-    }, "slow", function(){
-      // Add hash (#) to URL when done scrolling (default click behavior)
-      window.location.hash = hash;
-    });
-  });
-}
-
 function googleMapsInitialize() {
   var LatLngKK = new google.maps.LatLng(50.746403, 4.257978);
   var LatLngNI = new google.maps.LatLng(50.740465, 4.242809);
@@ -54,7 +37,24 @@ function googleMapsInitialize() {
     map: mapNI,
     title: 'campus halle'
   });
-}
+};
+
+function smoothScrolling() {
+  // Add smooth scrolling to all links in navbar
+  $(".navbar a[href*='#over-ons'], header div div a, #lok1, #best1").on('click', function(event) {
+    // Prevent default anchor click behavior
+    event.preventDefault();
+    // Store hash
+    var hash = this.hash;
+    // Using jQuery's animate() method to add smooth page scroll
+    $('html, body').animate({
+      scrollTop: $(hash).offset().top
+    }, 1000, function(){
+      // Add hash (#) to URL when done scrolling (default click behavior)
+      window.location.hash = hash;
+    });
+  });
+};
 
 function decrypt(origin, size, key, word) {
   var s = 0
@@ -75,6 +75,12 @@ function decrypt(origin, size, key, word) {
   }
   var d = prefix + suffix
   return d;
-}
+};
 
-$(document).ready(smoothScrolling)
+$(document).ready(function(){
+    smoothScrolling();
+    $(".encrypted").text(function(i, origText){
+        var zonder_dubbele_slash = origText.replace("\\\\", "\\");
+        return "  " + decrypt(46, 77, "schaken", zonder_dubbele_slash);
+    });
+});

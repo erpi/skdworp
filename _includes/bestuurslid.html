@@ -9,7 +9,7 @@
 {% endif %}
 {% if bestuurslid.email %}
 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><span class="sr-only">e-mailadres:</span>
-<script>document.write('  ' + decrypt(46, 77, 'schaken', '{{ bestuurslid.email }}'));</script>
+<span class="encrypted">{{ bestuurslid.email }}</span>
 <noscript> e-mailadres? zet javascript aan ;-)</noscript>
 {% endif %}
 </p>

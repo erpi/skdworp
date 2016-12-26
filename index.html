@@ -17,8 +17,6 @@ hoofdpagina: true
   <head>
     {% include head.html %}
     <link href="{{"/styles/homepage.css" | prepend: site.baseurl }}" rel="stylesheet">
-    <script src="{{"/scripts/homepage.js" | prepend: site.baseurl }}"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHphI5tNhhW0hImFMhl-NAkiiq5M8Q1tw&callback=googleMapsInitialize" async defer></script>
   </head>
   <body data-spy="scroll" data-target=".navbar" data-offset="50">
     <a href="#top" class="sr-only sr-only-focusable">￼doorgaan naar hoofdinhoud</a>
@@ -124,5 +122,7 @@ hoofdpagina: true
     </section>
 
     {% include footer.html %}
+    <script src="{{"/scripts/homepage.js" | prepend: site.baseurl }}"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHphI5tNhhW0hImFMhl-NAkiiq5M8Q1tw&callback=googleMapsInitialize" async defer></script>
   </body>
 </html>
