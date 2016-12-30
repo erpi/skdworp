@@ -1,7 +1,7 @@
 function naarBoven() {
   $("html, body").animate({ scrollTop: 0 }, 1000);
   return false;
-};
+}
 
 function setFooterStyle() {
   var docHeight = $(window).height();
@@ -18,7 +18,7 @@ function setFooterStyle() {
       $('#footer').css('margin-top', '');
   }
   $('#footer').removeClass('invisible');
-};
+}
 
 $(document).ready(function(){
   setFooterStyle();

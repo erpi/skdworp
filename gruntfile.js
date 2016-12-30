@@ -31,7 +31,7 @@ module.exports = function(grunt) {
         }
     },
     jshint: {
-      lint: ['Gruntfile.js', '_site/scripts/homepage.js', '_site/scripts/lib/chessboard-0.3.0_orig.js', '_site/scripts/componenten/footer.js']
+      lint: ['Gruntfile.js', '_scripts/components/**/*.js', '_scripts/libs/chessboardjs-themes.js']
     },
   });
   // src: ['_site/scripts/site.js', '_site/scripts/homepage.js', '_site/scripts/post.js'],

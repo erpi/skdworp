@@ -50,8 +50,7 @@ layout: compress
     </div>
     {% include footer.html %}
     {% if page.stelling_fen %}
-      <script src="{{"/scripts/chessboard.min.js" | prepend: site.baseurl }}"></script>
-      <script src="{{"/scripts/post.js" | prepend: site.baseurl }}"></script>
+      <script src="{{"/scripts/post.min.js" | prepend: site.baseurl }}"></script>
       <script>
       $(document).ready(function(){
         var board = ChessBoard('board', {

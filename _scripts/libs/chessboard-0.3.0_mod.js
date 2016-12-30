@@ -1,11 +1,9 @@
 /*!
- * chessboard.js $version$
+ * chessboard.js v0.3.0 modified
  *
  * Copyright 2013 Chris Oakman
+ * Copyright 2015 Joshua Kunst
  * Released under the MIT license
- * https://github.com/oakmac/chessboardjs/blob/master/LICENSE
- *
- * Date: $date$
  */
 
 // start anonymous scope
