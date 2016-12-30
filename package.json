@@ -1,0 +1,26 @@
+{
+  "name": "skdworp",
+  "version": "1.0.0",
+  "description": "website Dworpse Schaakkring",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erpi/skdworp.git"
+  },
+  "author": "Dworpse Schaakkring",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/erpi/skdworp/issues"
+  },
+  "homepage": "https://github.com/erpi/skdworp#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-bootlint": "^0.10.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-html": "^8.1.0"
+  }
+}

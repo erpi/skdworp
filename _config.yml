@@ -27,6 +27,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - negeren
+  - gruntfile.js
+  - package.json
+  - node_modules
   - scripts/chessboardjs-themes.js
   - scripts/chessboard.js
 sass:
