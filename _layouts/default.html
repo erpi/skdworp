@@ -11,7 +11,7 @@ layout: compress
     <a href="#content" class="sr-only sr-only-focusable">￼doorgaan naar hoofdinhoud</a>
     {% include navbar.html %}
     <div class="container main-container" id="content" tabindex="-1">
-      <h1>{{ page.title | downcase }}</h1>
+      {% if page.title %}<h1>{{ page.title | downcase }}</h1>{% endif %}
       {% if page.subtitle %}<h2>{{ page.subtitle | downcase }}</h2>{% endif %}
       {{ content }}
     </div>
