@@ -2,6 +2,7 @@ module.exports = function(grunt) {
   var navbar = ['.fade', '.fade.in', '.collapse', '.collapse.in', '.collapsing', '.alert-danger', /\.open/];
   var navchess = navbar.concat([/\.clearfix/, /\.board/, /\.square/, /\.white/, /\.black/, /\.highlight/, /\.notation/, /\.alpha/, /\.numeric/]);
 
+  require('load-grunt-tasks')(grunt);
   // Project configuration.
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
@@ -176,22 +177,10 @@ module.exports = function(grunt) {
 
   });
 
-  // Load the plugin that provides the "uglify" task.
-  grunt.loadNpmTasks('grunt-html');
-  grunt.loadNpmTasks('grunt-bootlint');
-  grunt.loadNpmTasks('grunt-contrib-uglify');
-  grunt.loadNpmTasks('grunt-contrib-jshint');
-  grunt.loadNpmTasks('grunt-contrib-clean');
-  grunt.loadNpmTasks('grunt-contrib-copy');
-  grunt.loadNpmTasks('grunt-sass');
-  grunt.loadNpmTasks('grunt-uncss');
-  grunt.loadNpmTasks('grunt-penthouse');
-  grunt.loadNpmTasks('grunt-contrib-cssmin');
-
-  // Default task(s).
+  // Task(s).
   grunt.registerTask('build-uncss', ['uncss:buildsite', 'uncss:buildhomepage', 'uncss:buildpost']);
   grunt.registerTask('build-css', ['clean:build', 'copy:build1', 'sass:build', 'build-uncss', 'penthouse:build', 'cssmin:build', 'copy:build2']);
-  grunt.registerTask('default', ['uglify', 'htmllint', 'bootlint', 'jshint']);
   grunt.registerTask('lint', ['htmllint:lint', 'bootlint:lint', 'jshint:lint']);
   grunt.registerTask('build', ['uglify:build', 'build-css']);
+  grunt.registerTask('default', ['uglify', 'htmllint', 'bootlint', 'jshint']);
 };
