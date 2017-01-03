@@ -1,15 +1,14 @@
----
----
-@import "varia/font-grootte";
 @import "varia/kleuren";
+@import "varia/font-grootte";
 @import "varia/typografie";
 @import "componenten/navbar";
 @import "componenten/footer";
-@import "componenten/chessboard-0.3.0";
+// probleem met uncss, vandaar apart behandelen met behulp van grunt
+// @import "componenten/chessboard-0.3.0";
 @import "bootswatch/variables";
-@import "bootswatch/bootswatch";
-@import "bootstrap-custom-posts";
-@import "font-awesome-custom";
+@import "bootswatch/bootswatch-custom";
+@import "bootstrap";
+@import "font-awesome";
 
 .schaakbord {
   width: 100%;

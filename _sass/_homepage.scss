@@ -1,13 +1,11 @@
----
----
 @import "varia/kleuren";
 @import "varia/typografie";
 @import "componenten/navbar";
 @import "componenten/footer";
 @import "bootswatch/variables";
-@import "bootswatch/bootswatch";
-@import "bootstrap-custom-homepage";
-@import "font-awesome-custom";
+@import "bootswatch/bootswatch-custom";
+@import "bootstrap";
+@import "font-awesome";
 
 html, body {
   height: 100%;
@@ -26,7 +24,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('{{"/images/achtergrond.jpg" | prepend: site.baseurl }}');
+  background-image: url('/images/achtergrond.jpg');
   text-align: center;
   color: white;
 }

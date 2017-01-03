@@ -1,4 +1,6 @@
 module.exports = function(grunt) {
+  var navbar = ['.fade', '.fade.in', '.collapse', '.collapse.in', '.collapsing', '.alert-danger', /\.open/];
+  var navchess = navbar.concat([/\.clearfix/, /\.board/, /\.square/, /\.white/, /\.black/, /\.highlight/, /\.notation/, /\.alpha/, /\.numeric/]);
 
   // Project configuration.
   grunt.initConfig({
@@ -31,20 +33,165 @@ module.exports = function(grunt) {
         }
     },
     jshint: {
-      lint: ['Gruntfile.js', '_scripts/components/**/*.js', '_scripts/libs/chessboardjs-themes.js']
+      lint: ['Gruntfile.js', '_scripts/**/*.js', '_scripts/libs/chessboardjs-themes.js']
     },
+    // genereer minimale inline-css voor start homepagina
+    penthouse: {
+      build : {
+        outfile : '<%= builddir %>critical.pen.css',
+        css : '<%= builddir %>homepage.un.css',
+        url : 'http://localhost:4000',
+        width : 1300,
+        height : 900,
+        skipErrors : false // this is the default
+      },
+    },
+    // verwijder alles in de build directory
+    clean: {
+      options: {
+        'no-write': false
+      },
+      build: ['<%= builddir %>'],
+    },
+    copy: {
+      // kopieer nodige sass-hoofdbestanden naar build-directory
+      build1: {
+        files: [{
+          expand: true,
+          nonull: true,
+          cwd: '<%= sassdir %>',
+          src: ['_site.scss', '_homepage.scss', '_post.scss', 'componenten/_chessboard-0.3.0.scss'],
+          dest: '<%= builddir %>',
+          flatten: true,
+          // verwijder underscores en andere rommel uit de bestandsnamen
+          rename:  function (dest, src) {
+            s = src.replace(/[^A-Za-z.]/g, '');
+            return dest + s.replace(/\.+/g, '.');
+          }
+        }]
+      },
+      // kopieer gegenereerde min.css bestanden naar directory met css styles voor jekyll
+      build2: {
+        files: [{
+          expand: true,
+          nonull: true,
+          cwd: '<%= builddir %>',
+          src: '*.min.css',
+          dest: '<%= styledir %>',
+        },
+        // kopieer inline css voor homepage naar _include directory van jekyll
+        {
+          expand: true,
+          nonull: true,
+          cwd: '<%= builddir %>',
+          src: 'critical.css',
+          dest: '<%= includedir %>',
+        }]
+      },
+    },
+    // bouw css-bestanden met behulp van libsass
+    sass: {
+      options: {
+        includePaths: ['<%= sassdir %>'],
+      },
+      build: {
+        files: [{
+          nonull: true,
+          expand: true,
+          cwd: '<%= builddir %>',
+          src: ['*.scss'],
+          dest: '<%= builddir %>',
+          ext: '.css',
+        }],
+      }
+    },
+    // strip overbodige css met behulp van uncss
+    // http://stackoverflow.com/questions/28082782/gulp-uncss-breaks-bootstrap-dropdown-navbar-navigation
+    uncss: {
+      options: {
+        ignore: '<%= navbar %>',
+      },
+      buildsite: {
+        options: {
+          stylesheets: ['../<%= builddir %>site.css'],
+        },
+        files: {
+          '<%= builddir %>site.un.css': ['<%= allpages %>', '!<%= homepage %>', '!<%= postpages %>'],
+        }
+      },
+      buildhomepage: {
+        options: {
+          stylesheets: ['../<%= builddir %>homepage.css'],
+        },
+        files: {
+          '<%= builddir %>homepage.un.css': ['<%= homepage %>'],
+        }
+      },
+      buildpost: {
+        options: {
+          ignore: '<%= navchess %>',
+          stylesheets: ['../../../../../<%= builddir %>post.css', '../../../../../<%= builddir %>chessboard.css'],
+        },
+        files: {
+          '<%= builddir %>post.un.css': ['<%= postpages %>'],
+        }
+      },
+    },
+    //
+    cssmin: {
+      options: {
+        compatibility: 'ie8',
+        report: 'gzip',
+      },
+      build: {
+        files: [{
+          nonull: true,
+          expand: true,
+          cwd: '<%= builddir %>',
+          src: ['*.un.css'],
+          dest: '<%= builddir %>',
+          ext: '.min.css',
+        },
+        {
+          nonull: true,
+          expand: true,
+          cwd: '<%= builddir %>',
+          src: ['*.pen.css'],
+          dest: '<%= builddir %>',
+          ext: '.css',
+        }]
+      }
+    },
+
+    sassdir: '_sass/',
+    builddir: 'build-grunt/',
+    jekyllbuilddir: '_site/',
+    styledir: 'styles/',
+    includedir: '_includes/',
+    navbar: navbar,
+    navchess: navchess,
+    allpages: '<%= jekyllbuilddir %>**/*.html',
+    homepage: '<%= jekyllbuilddir %>index.html',
+    postpages: '<%= jekyllbuilddir %>20*/**/*.html',
+
   });
-  // src: ['_site/scripts/site.js', '_site/scripts/homepage.js', '_site/scripts/post.js'],
-  // dest: ['scripts/site.min.js', 'scripts/homepage.min.js', 'scripts/post.min.js']
 
   // Load the plugin that provides the "uglify" task.
   grunt.loadNpmTasks('grunt-html');
   grunt.loadNpmTasks('grunt-bootlint');
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-jshint');
+  grunt.loadNpmTasks('grunt-contrib-clean');
+  grunt.loadNpmTasks('grunt-contrib-copy');
+  grunt.loadNpmTasks('grunt-sass');
+  grunt.loadNpmTasks('grunt-uncss');
+  grunt.loadNpmTasks('grunt-penthouse');
+  grunt.loadNpmTasks('grunt-contrib-cssmin');
 
   // Default task(s).
+  grunt.registerTask('build-uncss', ['uncss:buildsite', 'uncss:buildhomepage', 'uncss:buildpost']);
+  grunt.registerTask('build-css', ['clean:build', 'copy:build1', 'sass:build', 'build-uncss', 'penthouse:build', 'cssmin:build', 'copy:build2']);
   grunt.registerTask('default', ['uglify', 'htmllint', 'bootlint', 'jshint']);
   grunt.registerTask('lint', ['htmllint:lint', 'bootlint:lint', 'jshint:lint']);
-  grunt.registerTask('build', ['uglify:build']);
+  grunt.registerTask('build', ['uglify:build', 'build-css']);
 };

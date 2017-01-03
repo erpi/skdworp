@@ -30,10 +30,11 @@ exclude:
   - gruntfile.js
   - package.json
   - node_modules
+  - build-grunt
   - scripts/chessboardjs-themes.js
   - scripts/chessboard.js
-sass:
-    style: compressed
+#sass:
+#    style: compressed
 include: ['_pages']
 gems:
   - jekyll-sitemap

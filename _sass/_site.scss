@@ -1,5 +1,3 @@
----
----
 @import "varia/font-grootte";
 @import "varia/kleuren";
 @import "varia/typografie";
@@ -8,6 +6,6 @@
 @import "componenten/table";
 @import "paginas/404";
 @import "bootswatch/variables";
-@import "bootswatch/bootswatch";
-@import "bootstrap-custom-site";
-@import "font-awesome-custom";
+@import "bootswatch/bootswatch-custom";
+@import "bootstrap";
+@import "font-awesome";
