@@ -36,17 +36,6 @@ module.exports = function(grunt) {
     jshint: {
       lint: ['Gruntfile.js', '_scripts/**/*.js', '_scripts/libs/chessboardjs-themes.js']
     },
-    // genereer minimale inline-css voor start homepagina
-    penthouse: {
-      build : {
-        outfile : '<%= builddir %>critical.pen.css',
-        css : '<%= builddir %>homepage.un.css',
-        url : 'http://localhost:4000',
-        width : 1300,
-        height : 900,
-        skipErrors : false // this is the default
-      },
-    },
     // verwijder alles in de build directory
     clean: {
       options: {
@@ -77,7 +66,7 @@ module.exports = function(grunt) {
           expand: true,
           nonull: true,
           cwd: '<%= builddir %>',
-          src: '*.min.css',
+          src: ['*.min.css', '!homepage*'],
           dest: '<%= styledir %>',
         },
         // kopieer inline css voor homepage naar _include directory van jekyll
@@ -85,7 +74,7 @@ module.exports = function(grunt) {
           expand: true,
           nonull: true,
           cwd: '<%= builddir %>',
-          src: 'critical.css',
+          src: 'homepage.min.css',
           dest: '<%= includedir %>',
         }]
       },
@@ -142,6 +131,7 @@ module.exports = function(grunt) {
     cssmin: {
       options: {
         compatibility: 'ie8',
+        keepSpecialComments: 0,
         report: 'gzip',
       },
       build: {
@@ -152,14 +142,6 @@ module.exports = function(grunt) {
           src: ['*.un.css'],
           dest: '<%= builddir %>',
           ext: '.min.css',
-        },
-        {
-          nonull: true,
-          expand: true,
-          cwd: '<%= builddir %>',
-          src: ['*.pen.css'],
-          dest: '<%= builddir %>',
-          ext: '.css',
         }]
       }
     },
@@ -179,7 +161,7 @@ module.exports = function(grunt) {
 
   // Task(s).
   grunt.registerTask('build-uncss', ['uncss:buildsite', 'uncss:buildhomepage', 'uncss:buildpost']);
-  grunt.registerTask('build-css', ['clean:build', 'copy:build1', 'sass:build', 'build-uncss', 'penthouse:build', 'cssmin:build', 'copy:build2']);
+  grunt.registerTask('build-css', ['clean:build', 'copy:build1', 'sass:build', 'build-uncss', 'cssmin:build', 'copy:build2']);
   grunt.registerTask('lint', ['htmllint:lint', 'bootlint:lint', 'jshint:lint']);
   grunt.registerTask('build', ['uglify:build', 'build-css']);
   grunt.registerTask('default', ['uglify', 'htmllint', 'bootlint', 'jshint']);

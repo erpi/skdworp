@@ -16,7 +16,8 @@ hoofdpagina: true
 <html lang="nl-BE">
   <head>
     {% include head.html %}
-    <link href="{{"/styles/homepage.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+    <!--  inline css: optimalisatie voor 'google speed insights' -->
+    <style>{% include homepage.min.css %}</style>
   </head>
   <body data-spy="scroll" data-target=".navbar" data-offset="50">
     <a href="#top" class="sr-only sr-only-focusable">￼doorgaan naar hoofdinhoud</a>
