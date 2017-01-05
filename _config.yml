@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+source: source
 title: Dworpse Schaakkring
 author: Dworpse Schaakkring
 email: info@skdworp.be
@@ -23,16 +24,7 @@ clicky: true
 permalink: pretty
 # Build settings
 markdown: kramdown
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - negeren
-  - gruntfile.js
-  - package.json
-  - node_modules
-  - build-grunt
-  - scripts/chessboardjs-themes.js
-  - scripts/chessboard.js
+exclude: []
 #sass:
 #    style: compressed
 include: ['_pages']
