@@ -1,0 +1,146 @@
+[
+  {
+    "ronde": "1",
+    "datum": "11-10-1992",
+    "thuis": "228 Dworp 3",
+    "uit": "Roque 4",
+    "tscore": "1",
+    "uscore": "3",
+    "tgem": "1620",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Djuh Wasil", "uspeler": "Waterschoot Thierry", "telo": "1780", "uelo": "", "tstam": "19402", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Van Cauwelaert Hans", "uspeler": "Beukenhorst", "telo": "1521", "uelo": "", "tstam": "52132", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Meuter Alain", "telo": "1559", "uelo": "", "tstam": "655", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Vandenbohede Johan", "uspeler": "Demoulin", "telo": "ng", "uelo": "", "tstam": "96142", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "25-10-1992",
+    "thuis": "Boitsfort 4",
+    "uit": "228 Dworp 3",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "",
+    "ugem": "1684",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Dagonnier A", "uspeler": "Desmedt Jean Pierre", "telo": "", "uelo": "1799", "tstam": "", "ustam": "33910"},
+      {"tr": "0", "ur": "1", "tspeler": "Peeters Y", "uspeler": "Verstreken Erik", "telo": "", "uelo": "1778", "tstam": "", "ustam": "9270"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Praag Y", "uspeler": "Van der Voorde Sonja", "telo": "", "uelo": "1598", "tstam": "", "ustam": "43346"},
+      {"tr": "1", "ur": "0", "tspeler": "Massar M", "uspeler": "De Bosscher Peter", "telo": "", "uelo": "1559", "tstam": "", "ustam": "655"}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "08-11-1992",
+    "thuis": "228 Dworp 3",
+    "uit": "Woluwe 2",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1635",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Van Melsen R", "telo": "1861", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Van der Voorde Sonja", "uspeler": "Mariam\u00e9 R", "telo": "1598", "uelo": "", "tstam": "43346", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Van Cauwelaert Hans", "uspeler": "Cludts G", "telo": "1521", "uelo": "", "tstam": "52132", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Cludts A", "telo": "1559", "uelo": "", "tstam": "655", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "15-11-1992",
+    "thuis": "Thibaut 3",
+    "uit": "228 Dworp 3",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "",
+    "ugem": "1622",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Huwart B", "uspeler": "Desmedt Jean Pierre", "telo": "", "uelo": "1799", "tstam": "", "ustam": "33910"},
+      {"tr": "0", "ur": "1", "tspeler": "Bottu E", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1530", "tstam": "", "ustam": "27715"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Blum D", "uspeler": "Van der Voorde Sonja", "telo": "", "uelo": "1598", "tstam": "", "ustam": "43346"},
+      {"tr": "0", "ur": "1", "tspeler": "Bailleul F", "uspeler": "De Bosscher Peter", "telo": "", "uelo": "1559", "tstam": "", "ustam": "655"}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "06-12-1992",
+    "thuis": "228 Dworp 3",
+    "uit": "Tib\u00e9checs",
+    "tscore": "1",
+    "uscore": "3",
+    "tgem": "1622",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Desmedt Jean Pierre", "uspeler": "Ben Khayet E", "telo": "1799", "uelo": "", "tstam": "33910", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Deklerck Willy", "uspeler": "Delanoyer C", "telo": "1530", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Van der Voorde Sonja", "uspeler": "Amali R", "telo": "1598", "uelo": "", "tstam": "43346", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "De Bosscher Peter", "uspeler": "Rodriguez G", "telo": "1559", "uelo": "", "tstam": "655", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "24-01-1993",
+    "thuis": "228 Dworp 3",
+    "uit": "Soignies 3",
+    "tscore": "1",
+    "uscore": "3",
+    "tgem": "1585",
+    "ugem": "",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van der Voorde Sonja", "uspeler": "Debaisieux E", "telo": "1598", "uelo": "", "tstam": "43346", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher Peter", "uspeler": "De Schuyteneer Willy", "telo": "1559", "uelo": "", "tstam": "655", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Derez Frank", "uspeler": "Canneel Daniel", "telo": "1598", "uelo": "", "tstam": "9903", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Vandenbohede Johan", "uspeler": "Van Hende R", "telo": "ng", "uelo": "", "tstam": "96142", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "07-02-1993",
+    "thuis": "CRE Bruxelles 5",
+    "uit": "228 Dworp 3",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "",
+    "ugem": "1571",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Foual JP", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1530", "tstam": "", "ustam": "27715"},
+      {"tr": "1", "ur": "0", "tspeler": "Guhner M", "uspeler": "Van der Voorde Sonja", "telo": "", "uelo": "1598", "tstam": "", "ustam": "43346"},
+      {"tr": "1", "ur": "0", "tspeler": "Van Oppen O", "uspeler": "De Bosscher Peter", "telo": "", "uelo": "1559", "tstam": "", "ustam": "655"},
+      {"tr": "0", "ur": "1", "tspeler": "Guhner O", "uspeler": "Derez Frank", "telo": "", "uelo": "1598", "tstam": "", "ustam": "9903"}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "17-03-1993",
+    "thuis": "228 Dworp 3",
+    "uit": "Fous du Roy 4",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "1622",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Desmedt Jean Pierre", "uspeler": "Rosenhaim E", "telo": "1799", "uelo": "", "tstam": "33910", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Deklerck Willy", "uspeler": "Fonteyne J", "telo": "1530", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van der Voorde Sonja", "uspeler": "Poulain P", "telo": "1598", "uelo": "", "tstam": "43346", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Bousselmati Y", "telo": "1559", "uelo": "", "tstam": "655", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "21-03-1993",
+    "thuis": "Anderlecht 5",
+    "uit": "228 Dworp 3",
+    "tscore": "1",
+    "uscore": "3",
+    "tgem": "",
+    "ugem": "1622",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Delvaux J", "uspeler": "Desmedt Jean Pierre", "telo": "", "uelo": "1799", "tstam": "", "ustam": "33910"},
+      {"tr": "0", "ur": "1", "tspeler": "Marcus P", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1530", "tstam": "", "ustam": "27715"},
+      {"tr": "1", "ur": "0", "tspeler": "Avduli E", "uspeler": "Van der Voorde Sonja", "telo": "", "uelo": "1598", "tstam": "", "ustam": "43346"},
+      {"tr": "0", "ur": "1", "tspeler": "Leclercq A", "uspeler": "De Bosscher Peter", "telo": "", "uelo": "1559", "tstam": "", "ustam": "655"}
+    ]
+  }
+]

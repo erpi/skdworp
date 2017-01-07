@@ -1,0 +1,25 @@
+---
+layout: pills
+title: Nationale Interclubs 1992 - 1993
+description: Dworpse Schaakkring. Uitslagen en eindstand nationale interclubs 1992 - 1993.
+permalink: /archief/interclubs-9293/
+last_modified_at: 2017-01-07
+tabs:
+  - eindstand 4c
+  - eindstand 4d
+  - eindstand 5k
+---
+{% assign tab = page.tabs[0] %}
+{% include tab-pane-start.html href=tab aktief=true %}
+{% include table-interclubs-eindstand.html datafile=site.data.ni.ni9293.eindstand_dworp_1 %}
+{% include tab-pane-end.html %}
+
+{% assign tab = page.tabs[1] %}
+{% include tab-pane-start.html href=tab aktief=false %}
+{% include table-interclubs-eindstand.html datafile=site.data.ni.ni9293.eindstand_dworp_2 %}
+{% include tab-pane-end.html %}
+
+{% assign tab = page.tabs[2] %}
+{% include tab-pane-start.html href=tab aktief=false %}
+{% include table-interclubs-eindstand.html datafile=site.data.ni.ni9293.eindstand_dworp_3 %}
+{% include tab-pane-end.html %}
