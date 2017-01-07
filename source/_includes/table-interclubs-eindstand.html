@@ -9,7 +9,7 @@
     </thead>
     <tbody>
       {% for team in include.datafile %}
-      <tr{% if team.team contains 'dworp' %} class="dworp"{% endif %}>
+      <tr{% if team.team contains 'worp' %} class="dworp"{% endif %}>
         {% for kolom in team %}
         <td{% if forloop.index == 2 %} class="alignleft"{% endif %}>{{ kolom[1] | downcase }}</td>
         {% endfor %}

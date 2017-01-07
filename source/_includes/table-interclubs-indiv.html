@@ -30,9 +30,9 @@
               <td class="alignright">{{ bord.ustam }}</td><td>{{ bord.uspeler | downcase }}</td>
               <td class="aligncenter">{{ bord.uelo }}</td></tr>
             {% endfor %}
-          <tr><td></td><td class="aligncenter schuin" colspan="3">&lt; {{ ronde.tgem }}  &gt;</td>
+          <tr><td></td><td class="aligncenter schuin" colspan="3">{{ ronde.tgem }}</td>
             <td class="alignright vet">{{ ronde.tscore }}</td><td class="aligncenter vet">-</td>
-            <td class="vet">{{ ronde.uscore }}</td><td class="aligncenter schuin" colspan="3">&lt; {{ ronde.ugem }} &gt;</td>
+            <td class="vet">{{ ronde.uscore }}</td><td class="aligncenter schuin" colspan="3">{{ ronde.ugem }}</td>
           {% endif %}
         {% endfor %}
       {% endif %}

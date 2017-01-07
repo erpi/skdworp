@@ -23,6 +23,7 @@ last_modified_at: 2016-12-07
 - [2012 - 2013](/archief/interclubs-1213/)
 - [2011 - 2012](/archief/interclubs-1112/)
 - [2010 - 2011](/archief/interclubs-1011/)
+- [1993 - 1994](/archief/interclubs-9394/)
 
 ## individuele uitslagen interclubs
 
@@ -32,6 +33,7 @@ last_modified_at: 2016-12-07
 - [2012 - 2013](/archief/interclubs-indiv-1213/)
 - [2011 - 2012](/archief/interclubs-indiv-1112/)
 - [2010 - 2011](/archief/interclubs-indiv-1011/)
+- [1993 - 1994](/archief/interclubs-indiv-9394/)
 
 ## snelschaak
 
