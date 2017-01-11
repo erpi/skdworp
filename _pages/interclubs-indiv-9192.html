@@ -1,0 +1,25 @@
+---
+layout: pills
+title: Interclubs individueel 1991 - 1992
+permalink: /archief/interclubs-indiv-9192/
+noindex: true
+sitemap: false
+tabs:
+  - afdeling 4c
+  - afdeling 4d
+  - afdeling 5j
+---
+{% assign tab = page.tabs[0] %}
+{% include tab-pane-start.html href=tab aktief=true %}
+{% include table-interclubs-indiv.html datafile=site.data.ni.ni9192.individueel_dworp_1 jaar='1' %}
+{% include tab-pane-end.html %}
+
+{% assign tab = page.tabs[1] %}
+{% include tab-pane-start.html href=tab aktief=false %}
+{% include table-interclubs-indiv.html datafile=site.data.ni.ni9192.individueel_dworp_2 jaar='1' %}
+{% include tab-pane-end.html %}
+
+{% assign tab = page.tabs[2] %}
+{% include tab-pane-start.html href=tab aktief=false %}
+{% include table-interclubs-indiv.html datafile=site.data.ni.ni9192.individueel_dworp_3 jaar='1' %}
+{% include tab-pane-end.html %}

@@ -1,0 +1,146 @@
+[
+  {
+    "ronde": "1",
+    "datum": "06-10-1991",
+    "thuis": "Anderlecht 5",
+    "uit": "228 Dworp 2",
+    "tscore": "0",
+    "uscore": "4",
+    "tgem": "",
+    "ugem": "2031",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "De Waele L", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2300", "tstam": "", "ustam": "20621"},
+      {"tr": "0", "ur": "1", "tspeler": "Huyghend Dirk", "uspeler": "Debast Patrick", "telo": "", "uelo": "1956", "tstam": "", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Marcus P", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1941", "tstam": "", "ustam": "353"},
+      {"tr": "0", "ur": "1", "tspeler": "Briers G", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1925", "tstam": "", "ustam": "31348"}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "20-10-1991",
+    "thuis": "228 Dworp 2",
+    "uit": "Jumet 1",
+    "tscore": "0.5",
+    "uscore": "3.5",
+    "tgem": "2031",
+    "ugem": "",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren Serge", "uspeler": "Remy J", "telo": "2300", "uelo": "", "tstam": "20621", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Vidaich S", "telo": "1956", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Mieke", "uspeler": "Huchon J", "telo": "1941", "uelo": "", "tstam": "353", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Malfliet Bernard", "uspeler": "Varoquier E", "telo": "1925", "uelo": "", "tstam": "31348", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "03-11-1991",
+    "thuis": "Uccle 2",
+    "uit": "228 Dworp 2",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "",
+    "ugem": "2002",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vasseur A", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2300", "tstam": "", "ustam": "20621"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Masquelier Q", "uspeler": "Debast Patrick", "telo": "", "uelo": "1956", "tstam": "", "ustam": "76333"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Le Hoang V", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1925", "tstam": "", "ustam": "31348"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Beeckmans F", "uspeler": "Baekeland Pieter", "telo": "", "uelo": "1827", "tstam": "", "ustam": "99903"}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "17-11-1991",
+    "thuis": "228 Dworp 2",
+    "uit": "Soignies 2",
+    "tscore": "3.5",
+    "uscore": "0.5",
+    "tgem": "2031",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "Boon T", "telo": "2300", "uelo": "", "tstam": "20621", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Coppens Jean", "telo": "1956", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "Sottiaux P", "telo": "1941", "uelo": "", "tstam": "353", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Malfliet Bernard", "uspeler": "Andr\u00e9 HJ", "telo": "1925", "uelo": "", "tstam": "31348", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "01-12-1991",
+    "thuis": "Fous du Roy 1",
+    "uit": "228 Dworp 2",
+    "tscore": "0",
+    "uscore": "4",
+    "tgem": "",
+    "ugem": "2031",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "De Smet Karl", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2300", "tstam": "", "ustam": "20621"},
+      {"tr": "0", "ur": "1", "tspeler": "Brion Philippe", "uspeler": "Debast Patrick", "telo": "", "uelo": "1956", "tstam": "", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Silovy A", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1941", "tstam": "", "ustam": "353"},
+      {"tr": "0", "ur": "1", "tspeler": "Herpigny Y", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1925", "tstam": "", "ustam": "31348"}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "19-01-1992",
+    "thuis": "228 Dworp 2",
+    "uit": "Montignies 1",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "2031",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "Kaczmarcyk L", "telo": "2300", "uelo": "", "tstam": "20621", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Melet G", "telo": "1956", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh Mieke", "uspeler": "Dujart P", "telo": "1941", "uelo": "", "tstam": "353", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet Bernard", "uspeler": "Manne JL", "telo": "1925", "uelo": "", "tstam": "31348", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "16-02-1992",
+    "thuis": "Roque 3",
+    "uit": "228 Dworp 2",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "",
+    "ugem": "2031",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Van Horenbeke", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2300", "tstam": "", "ustam": "20621"},
+      {"tr": "1", "ur": "0", "tspeler": "Gielen", "uspeler": "Debast Patrick", "telo": "", "uelo": "1956", "tstam": "", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Sutherland", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1941", "tstam": "", "ustam": "353"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Demoulin", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1925", "tstam": "", "ustam": "31348"}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "01-03-1992",
+    "thuis": "Pantin 2",
+    "uit": "228 Dworp 2",
+    "tscore": "1",
+    "uscore": "3",
+    "tgem": "",
+    "ugem": "2031",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "De Merode", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2300", "tstam": "", "ustam": "20621"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Hody", "uspeler": "Debast Patrick", "telo": "", "uelo": "1956", "tstam": "", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Declerfayt", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1941", "tstam": "", "ustam": "353"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Ruiz", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1925", "tstam": "", "ustam": "31348"}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "15-03-1992",
+    "thuis": "CRE Charleroi 2",
+    "uit": "228 Dworp 2",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "",
+    "ugem": "2031",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Grobelny", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2300", "tstam": "", "ustam": "20621"},
+      {"tr": "1", "ur": "0", "tspeler": "Atienza", "uspeler": "Debast Patrick", "telo": "", "uelo": "1956", "tstam": "", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Gerard", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1941", "tstam": "", "ustam": "353"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Gressier", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1925", "tstam": "", "ustam": "31348"}
+    ]
+  }
+]

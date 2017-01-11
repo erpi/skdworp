@@ -1,0 +1,146 @@
+[
+  {
+    "ronde": "1",
+    "datum": "06-10-1991",
+    "thuis": "Anderlecht 4",
+    "uit": "228 Dworp 1",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "",
+    "ugem": "1868",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Adams L", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "1902", "tstam": "", "ustam": "43419"},
+      {"tr": "0", "ur": "1", "tspeler": "Delvaux J", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1881", "tstam": "", "ustam": "76325"},
+      {"tr": "0", "ur": "1", "tspeler": "Van Elverdinghe M", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1866", "tstam": "", "ustam": "76317"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Schuerman P", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1823", "tstam": "", "ustam": "19313"}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "20-10-1991",
+    "thuis": "228 Dworp 1",
+    "uit": "Thibaut 2",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "1815",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Geert", "uspeler": "Coosemans A", "telo": "1902", "uelo": "", "tstam": "43419", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Palazzo CA", "telo": "1866", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lemmens Pierre", "uspeler": "Bottu E", "telo": "1823", "uelo": "", "tstam": "19313", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Deklerck Willy", "uspeler": "Taschman S", "telo": "1669", "uelo": "", "tstam": "27715", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "03-11-1991",
+    "thuis": "Uccle 1",
+    "uit": "228 Dworp 1",
+    "tscore": "0.5",
+    "uscore": "3.5",
+    "tgem": "",
+    "ugem": "1868",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Boelen Michel", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "1902", "tstam": "", "ustam": "43419"},
+      {"tr": "0", "ur": "1", "tspeler": "Chevry P", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1881", "tstam": "", "ustam": "76325"},
+      {"tr": "0", "ur": "1", "tspeler": "Lambert H", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1866", "tstam": "", "ustam": "76317"},
+      {"tr": "0", "ur": "1", "tspeler": "Bridoux", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1823", "tstam": "", "ustam": "19313"}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "17-11-1991",
+    "thuis": "228 Dworp 1",
+    "uit": "CRE Bruxelles 4",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "1810",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Demoulin Pierre", "telo": "1881", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Thierens", "telo": "1866", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Lemmens Pierre", "uspeler": "Delacerda S", "telo": "1823", "uelo": "", "tstam": "19313", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Deklerck Willy", "uspeler": "Villaflores", "telo": "1669", "uelo": "", "tstam": "27715", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "01-12-1991",
+    "thuis": "La Venerie 2",
+    "uit": "228 Dworp 1",
+    "tscore": "3",
+    "uscore": "1",
+    "tgem": "",
+    "ugem": "1868",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vandervaeren Pierre", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "1902", "tstam": "", "ustam": "43419"},
+      {"tr": "1", "ur": "0", "tspeler": "Buyschaert R", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1881", "tstam": "", "ustam": "76325"},
+      {"tr": "0", "ur": "1", "tspeler": "Lacrosse", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1866", "tstam": "", "ustam": "76317"},
+      {"tr": "1", "ur": "0", "tspeler": "Lacrosse", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1823", "tstam": "", "ustam": "19313"}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "19-01-1992",
+    "thuis": "228 Dworp 1",
+    "uit": "Woluwe 1",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1840",
+    "ugem": "",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh Geert", "uspeler": "Phillips O", "telo": "1902", "uelo": "", "tstam": "43419", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Pletinckx Eddy", "uspeler": "Graham L", "telo": "1881", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Lemmens Pierre", "uspeler": "Frederiksen ", "telo": "1823", "uelo": "", "tstam": "19313", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Desmedt Jean Pierre", "uspeler": "Gallone D", "telo": "1753", "uelo": "", "tstam": "33910", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "16-02-1992",
+    "thuis": "KGSRL Gent 7",
+    "uit": "228 Dworp 1",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "",
+    "ugem": "1819",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "NN", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "1902", "tstam": "", "ustam": "43419"},
+      {"tr": "1", "ur": "0", "tspeler": "Deloof", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1881", "tstam": "", "ustam": "76325"},
+      {"tr": "0", "ur": "1", "tspeler": "NN", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1823", "tstam": "", "ustam": "19313"},
+      {"tr": "0", "ur": "1", "tspeler": "NN", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1669", "tstam": "", "ustam": "27715"}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "01-03-1992",
+    "thuis": "Pantin 1",
+    "uit": "228 Dworp 1",
+    "tscore": "4",
+    "uscore": "0",
+    "tgem": "",
+    "ugem": "1766",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Johannes", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "1902", "tstam": "", "ustam": "43419"},
+      {"tr": "1", "ur": "0", "tspeler": "Lallemand", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1881", "tstam": "", "ustam": "76325"},
+      {"tr": "1", "ur": "0", "tspeler": "Mouhib", "uspeler": "Van der Voorde Sonja", "telo": "", "uelo": "1671", "tstam": "", "ustam": "43346"},
+      {"tr": "1", "ur": "0", "tspeler": "Buchet", "uspeler": "De Bosscher Peter", "telo": "", "uelo": "1608", "tstam": "", "ustam": "655"}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "15-03-1992",
+    "thuis": "Capablanca",
+    "uit": "228 Dworp 1",
+    "tscore": "4",
+    "uscore": "0",
+    "tgem": "",
+    "ugem": "1819",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Minnebo", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "1902", "tstam": "", "ustam": "43419"},
+      {"tr": "1", "ur": "0", "tspeler": "Domus", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1881", "tstam": "", "ustam": "76325"},
+      {"tr": "1", "ur": "0", "tspeler": "Detry", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1823", "tstam": "", "ustam": "19313"},
+      {"tr": "1", "ur": "0", "tspeler": "Apostolakis", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1669", "tstam": "", "ustam": "27715"}
+    ]
+  }
+]
