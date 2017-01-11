@@ -19,7 +19,7 @@
     "ronde": "2",
     "datum": "17-10-1993",
     "thuis": "228 Dworp 1",
-    "uit": " Wavre 2",
+    "uit": "Wavre 2",
     "tscore": "1.5",
     "uscore": "2.5",
     "tgem": "1915",
@@ -68,8 +68,8 @@
     "datum": "05-12-1993",
     "thuis": "228 Dworp 1",
     "uit": "Mons 3",
-    "tscore": "2.5",
-    "uscore": "1.5",
+    "tscore": "1.5",
+    "uscore": "2.5",
     "tgem": "1915",
     "ugem": "",
     "borden": [
@@ -114,7 +114,7 @@
   {
     "ronde": "8",
     "datum": "06-02-1994",
-    "thuis": "Charleroi 2",
+    "thuis": "CRE Charleroi 2",
     "uit": "228 Dworp 1",
     "tscore": "2",
     "uscore": "2",
@@ -146,7 +146,7 @@
   {
     "ronde": "10",
     "datum": "06-03-1994",
-    "thuis": "Montigny",
+    "thuis": "Montignies",
     "uit": "228 Dworp 1",
     "tscore": "1.5",
     "uscore": "2.5",

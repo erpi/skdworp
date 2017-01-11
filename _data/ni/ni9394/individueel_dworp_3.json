@@ -9,10 +9,10 @@
     "tgem": "",
     "ugem": "1642",
     "borden": [
-      {"tr": "?", "ur": "?", "tspeler": "Pagnoul A", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1777", "tstam": "", "ustam": "27715"},
-      {"tr": "?", "ur": "?", "tspeler": "Bailleul F", "uspeler": "De Bosscher Peter", "telo": "", "uelo": "1641", "tstam": "", "ustam": "655"},
-      {"tr": "?", "ur": "?", "tspeler": "Gil", "uspeler": "Van der Voorde Sonja", "telo": "", "uelo": "1507", "tstam": "", "ustam": "43346"},
-      {"tr": "?", "ur": "?", "tspeler": "Bodart", "uspeler": "Merckx Eddy", "telo": "", "uelo": "ng", "tstam": "", "ustam": "5479"}
+      {"tr": "nm", "ur": "nm", "tspeler": "Pagnoul A", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1777", "tstam": "", "ustam": "27715"},
+      {"tr": "nm", "ur": "nm", "tspeler": "Bailleul F", "uspeler": "De Bosscher Peter", "telo": "", "uelo": "1641", "tstam": "", "ustam": "655"},
+      {"tr": "nm", "ur": "nm", "tspeler": "Gil", "uspeler": "Van der Voorde Sonja", "telo": "", "uelo": "1507", "tstam": "", "ustam": "43346"},
+      {"tr": "nm", "ur": "nm", "tspeler": "Bodart", "uspeler": "Merckx Eddy", "telo": "", "uelo": "ng", "tstam": "", "ustam": "5479"}
     ]
   },
   {
@@ -114,7 +114,7 @@
   {
     "ronde": "8",
     "datum": "06-02-1994",
-    "thuis": "B\u00e9nechecs",
+    "thuis": "Ben\u00e9checs",
     "uit": "228 Dworp 3",
     "tscore": "1",
     "uscore": "3",
