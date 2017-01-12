@@ -1,0 +1,146 @@
+[
+  {
+    "ronde": "1",
+    "datum": "07-10-1990",
+    "thuis": "Chess Club 2",
+    "uit": "Dworp 2",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "",
+    "ugem": "1630",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Hody P", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1844", "tstam": "", "ustam": "19313"},
+      {"tr": "0", "ur": "1", "tspeler": "Thalmann J", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1684", "tstam": "", "ustam": "27715"},
+      {"tr": "1", "ur": "0", "tspeler": "Declerfayt Y", "uspeler": "Van Cauwelaert Hans", "telo": "", "uelo": "1363", "tstam": "", "ustam": "52132"},
+      {"tr": "1", "ur": "0", "tspeler": "Delvaux M", "uspeler": "Louckx Andr\u00e9", "telo": "", "uelo": "ng", "tstam": "", "ustam": "97595"}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "21-10-1990",
+    "thuis": "Dworp 2",
+    "uit": "Mons",
+    "tscore": "0.5",
+    "uscore": "3.5",
+    "tgem": "1676",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Lemmens Pierre", "uspeler": "Spencer", "telo": "1844", "uelo": "", "tstam": "19313", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Tanghen", "telo": "1813", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Deklerck Willy", "uspeler": "Doison", "telo": "1684", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Van Cauwelaert Hans", "uspeler": "Pitropakis", "telo": "1363", "uelo": "", "tstam": "52132", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "04-11-1990",
+    "thuis": "Carni\u00e8res",
+    "uit": "Dworp 2",
+    "tscore": "4",
+    "uscore": "0",
+    "tgem": "",
+    "ugem": "1729",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Demuynck", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1844", "tstam": "", "ustam": "19313"},
+      {"tr": "1", "ur": "0", "tspeler": "Capitano", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1813", "tstam": "", "ustam": "76317"},
+      {"tr": "1", "ur": "0", "tspeler": "Odeur D", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1684", "tstam": "", "ustam": "27715"},
+      {"tr": "1", "ur": "0", "tspeler": "Depauw", "uspeler": "Louckx Bernard", "telo": "", "uelo": "1576", "tstam": "", "ustam": "97593"}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "09-12-1990",
+    "thuis": "Dworp 2",
+    "uit": "Jumet",
+    "tscore": "0",
+    "uscore": "4",
+    "tgem": "1709",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Lemmens Pierre", "uspeler": "Wauthier P", "telo": "1844", "uelo": "", "tstam": "19313", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Desmedt Jean Pierre", "uspeler": "Remy J", "telo": "1732", "uelo": "", "tstam": "33910", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Deklerck Willy", "uspeler": "Huchon J", "telo": "1684", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Louckx Bernard", "uspeler": "Vidaich S", "telo": "1576", "uelo": "", "tstam": "97593", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "16-12-1990",
+    "thuis": "Uccle 2",
+    "uit": "Dworp 2",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "",
+    "ugem": "1753",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Zamparo Sergio", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1844", "tstam": "", "ustam": "19313"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Mouhib", "uspeler": "Desmedt Jean Pierre", "telo": "", "uelo": "1732", "tstam": "", "ustam": "33910"},
+      {"tr": "1", "ur": "0", "tspeler": "Lapierre", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1684", "tstam": "", "ustam": "27715"},
+      {"tr": "0", "ur": "1", "tspeler": "Boelen Michel", "uspeler": "Baekeland Pieter", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99903"}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "20-01-1991",
+    "thuis": "Dworp 2",
+    "uit": "Waterloo 2",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "1630",
+    "ugem": "",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lemmens Pierre", "uspeler": "Wettach", "telo": "1844", "uelo": "", "tstam": "19313", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Deklerck Willy", "uspeler": "Wery", "telo": "1684", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Van Cauwelaert Hans", "uspeler": "Lheureux", "telo": "1363", "uelo": "", "tstam": "52132", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Baekeland Pieter", "uspeler": "Rodriguez", "telo": "ng", "uelo": "", "tstam": "99903", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "24-02-1991",
+    "thuis": "Montignies",
+    "uit": "Dworp 2",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "",
+    "ugem": "1837",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Kaczmarczyk", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "1854", "tstam": "", "ustam": "43419"},
+      {"tr": "0", "ur": "1", "tspeler": "Melet", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1844", "tstam": "", "ustam": "19313"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Dubois", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1813", "tstam": "", "ustam": "76317"},
+      {"tr": "1", "ur": "0", "tspeler": "Courbot", "uspeler": "Baekeland Pieter", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99903"}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "03-03-1991",
+    "thuis": "Nivelles",
+    "uit": "Dworp 2",
+    "tscore": "0.5",
+    "uscore": "3.5",
+    "tgem": "",
+    "ugem": "1837",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Druet", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "1854", "tstam": "", "ustam": "43419"},
+      {"tr": "0", "ur": "1", "tspeler": "Deschepper", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1844", "tstam": "", "ustam": "19313"},
+      {"tr": "0", "ur": "1", "tspeler": "Briglia", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1813", "tstam": "", "ustam": "76317"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Langh", "uspeler": "Baekeland Pieter", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99903"}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "17-03-1991",
+    "thuis": "Dworp 2",
+    "uit": "Soignies 2",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "1837",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Geert", "uspeler": "Vanderosen", "telo": "1854", "uelo": "", "tstam": "43419", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Lemmens Pierre", "uspeler": "Place", "telo": "1844", "uelo": "", "tstam": "19313", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Dufrasme", "telo": "1813", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Baekeland Pieter", "uspeler": "Boon", "telo": "ng", "uelo": "", "tstam": "99903", "ustam": ""}
+    ]
+  }
+]
