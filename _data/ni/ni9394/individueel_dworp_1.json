@@ -68,13 +68,13 @@
     "datum": "05-12-1993",
     "thuis": "228 Dworp 1",
     "uit": "Mons 3",
-    "tscore": "1.5",
-    "uscore": "2.5",
+    "tscore": "2.5",
+    "uscore": "1.5",
     "tgem": "1915",
     "ugem": "",
     "borden": [
       {"tr": "0.5", "ur": "0.5", "tspeler": "Pletinckx Eddy", "uspeler": "Levers T", "telo": "1926", "uelo": "", "tstam": "76325", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Taelemans Werner", "uspeler": "Lamproye JP", "telo": "1900", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "Lamproye JP", "telo": "1900", "uelo": "", "tstam": "2283", "ustam": ""},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Couvreur G", "telo": "1919", "uelo": "", "tstam": "76333", "ustam": ""},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet Bernard", "uspeler": "Lombart M", "telo": "1916", "uelo": "", "tstam": "31348", "ustam": ""}
     ]
