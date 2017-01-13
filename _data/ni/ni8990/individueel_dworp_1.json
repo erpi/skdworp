@@ -1,0 +1,164 @@
+[
+  {
+    "ronde": "1",
+    "datum": "15-10-1989",
+    "thuis": "Waterloo 1",
+    "uit": "Dworp 1",
+    "tscore": "5",
+    "uscore": "1",
+    "tgem": "",
+    "ugem": "1877",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Wettach M", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1963", "tstam": "", "ustam": "2283"},
+      {"tr": "1", "ur": "0", "tspeler": "Lacroix D", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1947", "tstam": "", "ustam": "76325"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Deschrijver F", "uspeler": "Van Nerom Luc", "telo": "", "uelo": "1909", "tstam": "", "ustam": "96246"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Decharneux B", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1884", "tstam": "", "ustam": "19313"},
+      {"tr": "1", "ur": "0", "tspeler": "Marinx Tanguy", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1850", "tstam": "", "ustam": "76317"},
+      {"tr": "1", "ur": "0", "tspeler": "Vausort A", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "1707", "tstam": "", "ustam": "43419"}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "29-10-1989",
+    "thuis": "Dworp 1",
+    "uit": "Roque 2",
+    "tscore": "4",
+    "uscore": "2",
+    "tgem": "1951",
+    "ugem": "",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Janssens Guy", "telo": "1978", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Taelemans Werner", "uspeler": "Pauwels D", "telo": "1963", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Mieke", "uspeler": "Vandenbruane Carl", "telo": "1960", "uelo": "", "tstam": "353", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Guyot M", "telo": "1947", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Malfliet Bernard", "uspeler": "Ajzenszer R", "telo": "1946", "uelo": "", "tstam": "31348", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Van Nerom Luc", "uspeler": "Garcia O", "telo": "1909", "uelo": "", "tstam": "96246", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "05-11-1989",
+    "thuis": "Rochade Kelmis",
+    "uit": "Dworp 1",
+    "tscore": "3.5",
+    "uscore": "2.5",
+    "tgem": "",
+    "ugem": "1938",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Roessler", "uspeler": "Debast Patrick", "telo": "", "uelo": "1978", "tstam": "", "ustam": "76333"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Niessen", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1963", "tstam": "", "ustam": "2283"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Godesar P", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1947", "tstam": "", "ustam": "76325"},
+      {"tr": "0", "ur": "1", "tspeler": "Godesar Gunter", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1946", "tstam": "", "ustam": "31348"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lanckrohr", "uspeler": "Van Nerom Luc", "telo": "", "uelo": "1909", "tstam": "", "ustam": "96246"},
+      {"tr": "1", "ur": "0", "tspeler": "Mertens", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1884", "tstam": "", "ustam": "19313"}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "19-11-1989",
+    "thuis": "Dworp 1",
+    "uit": "Carni\u00e8res 1",
+    "tscore": "3.5",
+    "uscore": "2.5",
+    "tgem": "1862",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Demuynck D", "telo": "1978", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Capitanio P", "telo": "1947", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Malfliet Bernard", "uspeler": "Odeur H", "telo": "1946", "uelo": "", "tstam": "31348", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Van Nerom Luc", "uspeler": "Delposen A", "telo": "1909", "uelo": "", "tstam": "96246", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Geert", "uspeler": "Josse G", "telo": "1707", "uelo": "", "tstam": "43419", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Desmedt Jean Pierre", "uspeler": "Denivet", "telo": "1684", "uelo": "", "tstam": "33910", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "03-12-1989",
+    "thuis": "Soignies",
+    "uit": "Dworp 1",
+    "tscore": "2.5",
+    "uscore": "3.5",
+    "tgem": "",
+    "ugem": "1951",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Leemans R", "uspeler": "Debast Patrick", "telo": "", "uelo": "1978", "tstam": "", "ustam": "76333"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lion A", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1963", "tstam": "", "ustam": "2283"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Leloutre Bernard", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1960", "tstam": "", "ustam": "353"},
+      {"tr": "0", "ur": "1", "tspeler": "Ooghe Jean-Marie", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1947", "tstam": "", "ustam": "76325"},
+      {"tr": "0", "ur": "1", "tspeler": "Masure Luc", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1946", "tstam": "", "ustam": "31348"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Audin", "uspeler": "Van Nerom Luc", "telo": "", "uelo": "1909", "tstam": "", "ustam": "96246"}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "21-01-1990",
+    "thuis": "Dworp 1",
+    "uit": "Chess Club 1",
+    "tscore": "1.5",
+    "uscore": "4.5",
+    "tgem": "1951",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Polarski B", "telo": "1978", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Taelemans Werner", "uspeler": "Haber Jean Pierre", "telo": "1963", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Mieke", "uspeler": "Zimmerman R", "telo": "1960", "uelo": "", "tstam": "353", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Pletinckx Eddy", "uspeler": "Selosse J", "telo": "1947", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Malfliet Bernard", "uspeler": "Fuss H", "telo": "1946", "uelo": "", "tstam": "31348", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Van Nerom Luc", "uspeler": "Delvaux M", "telo": "1909", "uelo": "", "tstam": "96246", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "18-02-1990",
+    "thuis": "CRE Charleroi 1",
+    "uit": "Dworp 1",
+    "tscore": "4.5",
+    "uscore": "1.5",
+    "tgem": "",
+    "ugem": "1901",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Piacentini C", "uspeler": "Debast Patrick", "telo": "", "uelo": "1978", "tstam": "", "ustam": "76333"},
+      {"tr": "1", "ur": "0", "tspeler": "Meuter R", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1963", "tstam": "", "ustam": "2283"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Romanelli R", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1960", "tstam": "", "ustam": "353"},
+      {"tr": "1", "ur": "0", "tspeler": "Leonard F", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1946", "tstam": "", "ustam": "31348"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verheyden F", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1850", "tstam": "", "ustam": "76317"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Gregorio S", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "1707", "tstam": "", "ustam": "43419"}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "04-03-1990",
+    "thuis": "Dworp 1",
+    "uit": "Oude God 1",
+    "tscore": "2",
+    "uscore": "4",
+    "tgem": "1958",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Peleman", "telo": "1978", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Taelemans Werner", "uspeler": "Guldentops", "telo": "1963", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Mieke", "uspeler": "Van Hemelrijck E", "telo": "1960", "uelo": "", "tstam": "353", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Ceukelaire Gert", "uspeler": "Joel", "telo": "1954", "uelo": "", "tstam": "99152", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Pletinckx Eddy", "uspeler": "De Kaey E", "telo": "1947", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Malfliet Bernard", "uspeler": "Arras", "telo": "1946", "uelo": "", "tstam": "31348", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "18-03-1990",
+    "thuis": "Thibaut",
+    "uit": "Dworp 1",
+    "tscore": "2.5",
+    "uscore": "3.5",
+    "tgem": "",
+    "ugem": "1915",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lambert L", "uspeler": "Debast Patrick", "telo": "", "uelo": "1978", "tstam": "", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Grodent G", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1960", "tstam": "", "ustam": "353"},
+      {"tr": "1", "ur": "0", "tspeler": "Thibaut G", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1954", "tstam": "", "ustam": "99152"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Chokouhian", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1947", "tstam": "", "ustam": "76325"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Kemele W", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1946", "tstam": "", "ustam": "31348"},
+      {"tr": "0", "ur": "1", "tspeler": "Bottu E", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "1707", "tstam": "", "ustam": "43419"}
+    ]
+  }
+]

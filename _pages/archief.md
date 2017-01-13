@@ -26,6 +26,8 @@ last_modified_at: 2016-12-07
 - [1993 - 1994](/archief/interclubs-9394/)
 - [1992 - 1993](/archief/interclubs-9293/)
 - [1991 - 1992](/archief/interclubs-9192/)
+- [1990 - 1991](/archief/interclubs-9091/)
+- [1989 - 1990](/archief/interclubs-8990/)
 
 ## individuele uitslagen interclubs
 
@@ -38,6 +40,8 @@ last_modified_at: 2016-12-07
 - [1993 - 1994](/archief/interclubs-indiv-9394/)
 - [1992 - 1993](/archief/interclubs-indiv-9293/)
 - [1991 - 1992](/archief/interclubs-indiv-9192/)
+- [1990 - 1991](/archief/interclubs-indiv-9091/)
+- [1989 - 1990](/archief/interclubs-indiv-8990/)
 
 ## snelschaak
 
