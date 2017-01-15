@@ -1,0 +1,19 @@
+---
+layout: pills
+title: Nationale Interclubs 1988 - 1989
+description: Dworpse Schaakkring. Uitslagen en eindstand nationale interclubs 1988 - 1989.
+permalink: /archief/interclubs-8889/
+last_modified_at: 2017-01-15
+tabs:
+  - eindstand 3b
+  - eindstand 4e
+---
+{% assign tab = page.tabs[0] %}
+{% include tab-pane-start.html href=tab aktief=true %}
+{% include table-interclubs-eindstand.html datafile=site.data.ni.ni8889.eindstand_dworp_1 %}
+{% include tab-pane-end.html %}
+
+{% assign tab = page.tabs[1] %}
+{% include tab-pane-start.html href=tab aktief=false %}
+{% include table-interclubs-eindstand.html datafile=site.data.ni.ni8889.eindstand_dworp_2 %}
+{% include tab-pane-end.html %}
