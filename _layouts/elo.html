@@ -1,0 +1,31 @@
+---
+layout: default
+---
+{{ site.data.elo.c228[datafile] }}
+
+<div class="table-responsive">
+  <table class="table table-condensed">
+    <thead>
+      <tr>
+        <th><span class="sr-only">nr</span></th>
+        <th class="alignright">stamnr</th>
+        <th>naam</th>
+        <th class="alignright">geboren op</th>
+        <th class="alignright">elo</th>
+        <th class="alignright">partijen</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for persoon in site.data.elo.c228[page.datafile] %}
+      <tr>
+        <td class="aligncenter">{{ forloop.index }}</td>
+        <td class="alignright">{{ persoon.stam }}</td>
+        <td>{{ persoon.naam | downcase }}</td>
+        <td class="alignright">{{ persoon.geboorte }}</td>
+        <td class="alignright">{{ persoon.elo }}</td>
+        <td class="alignright">{{ persoon.partijen }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
