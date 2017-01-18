@@ -53,8 +53,8 @@
     "partijen": [
       {"wr": "", "zr": "", "wit": "robert huysman", "zwart": "stijn bertrand"},
       {"wr": "", "zr": "", "wit": "yves baert", "zwart": "diederik lot"},
-      {"wr": "", "zr": "", "wit": "geert verrijken", "zwart": "walter de reymaeker"},
-      {"wr": "", "zr": "", "wit": "serge vanderwaeren", "zwart": "bernard malfliet"},
+      {"wr": "0", "zr": "1", "wit": "geert verrijken", "zwart": "walter de reymaeker"},
+      {"wr": "0.5", "zr": "0.5", "wit": "serge vanderwaeren", "zwart": "bernard malfliet"},
       {"wr": "", "zr": "", "wit": "kjell spaens", "zwart": "eric cornelis"},
       {"wr": "", "zr": "", "wit": "filip van de velde", "zwart": "peter de bosscher"}
     ]
