@@ -2,177 +2,177 @@
   {
     "ronde": "1",
     "datum": "03-10-1993",
-    "thuis": "La Louvi\u00e8re",
+    "thuis": "511 La Louvi\u00e8re",
     "uit": "228 Dworp 1",
     "tscore": "0",
     "uscore": "4",
-    "tgem": "",
-    "ugem": "1895",
+    "tgem": "1736",
+    "ugem": "1893",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Catalano J", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1926", "tstam": "", "ustam": "2283"},
-      {"tr": "0", "ur": "1", "tspeler": "Gorczica X", "uspeler": "Debast Patrick", "telo": "", "uelo": "1900", "tstam": "", "ustam": "76333"},
-      {"tr": "0", "ur": "1", "tspeler": "Ventat G", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1919", "tstam": "", "ustam": "31348"},
-      {"tr": "0", "ur": "1", "tspeler": "Barthelemy R", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1836", "tstam": "", "ustam": "76317"}
+      {"tr": "0", "ur": "1", "tspeler": "Catalano Joseph", "uspeler": "Taelemans Werner", "telo": "1836", "uelo": "1900", "tstam": "85022", "ustam": "2283"},
+      {"tr": "0", "ur": "1", "tspeler": "Gorczyca Xavier", "uspeler": "Debast Patrick", "telo": "1787", "uelo": "1917", "tstam": "31381", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Ventat Guy", "uspeler": "Malfliet Bernard", "telo": "1749", "uelo": "1919", "tstam": "68055", "ustam": "31348"},
+      {"tr": "0", "ur": "1", "tspeler": "Barthelemy Ren\u00e9", "uspeler": "Cornelis Eric", "telo": "1572", "uelo": "1836", "tstam": "12190", "ustam": "76317"}
     ]
   },
   {
     "ronde": "2",
     "datum": "17-10-1993",
     "thuis": "228 Dworp 1",
-    "uit": "Wavre 2",
+    "uit": "952 Wavre 2",
     "tscore": "1.5",
     "uscore": "2.5",
-    "tgem": "1915",
-    "ugem": "",
+    "tgem": "1913",
+    "ugem": "1866",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Perpete Raymond", "telo": "1926", "uelo": "", "tstam": "76325", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Taelemans Werner", "uspeler": "De Geradon J", "telo": "1900", "uelo": "", "tstam": "2283", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Cappuchi D", "telo": "1919", "uelo": "", "tstam": "76333", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Malfliet Bernard", "uspeler": "Meunier W", "telo": "1916", "uelo": "", "tstam": "31348", "ustam": ""}
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Perpete Raymond", "telo": "1916", "uelo": "1997", "tstam": "76325", "ustam": "1287"},
+      {"tr": "0", "ur": "1", "tspeler": "Taelemans Werner", "uspeler": "De Geradon Jean", "telo": "1900", "uelo": "1845", "tstam": "2283", "ustam": "85928"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Cappucci Donato", "telo": "1917", "uelo": "1823", "tstam": "76333", "ustam": "40274"},
+      {"tr": "0", "ur": "1", "tspeler": "Malfliet Bernard", "uspeler": "Meunier Willy", "telo": "1919", "uelo": "1798", "tstam": "31348", "ustam": "1279"}
     ]
   },
   {
     "ronde": "3",
     "datum": "07-11-1993",
-    "thuis": "Binche",
+    "thuis": "523 Binche",
     "uit": "228 Dworp 1",
     "tscore": "2",
     "uscore": "2",
-    "tgem": "",
-    "ugem": "1915",
+    "tgem": "1907",
+    "ugem": "1913",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Verschueren F", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1926", "tstam": "", "ustam": "76325"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Szklawecki S", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1900", "tstam": "", "ustam": "2283"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Michel A", "uspeler": "Debast Patrick", "telo": "", "uelo": "1919", "tstam": "", "ustam": "76333"},
-      {"tr": "1", "ur": "0", "tspeler": "Debrouwer Ph", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1916", "tstam": "", "ustam": "31348"}
+      {"tr": "0", "ur": "1", "tspeler": "Verschueren Frederic", "uspeler": "Pletinckx Eddy", "telo": "2021", "uelo": "1916", "tstam": "71676", "ustam": "76325"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Szklanecki Stanis", "uspeler": "Taelemans Werner", "telo": "1921", "uelo": "1900", "tstam": "82210", "ustam": "2283"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Michel Andr\u00e9", "uspeler": "Debast Patrick", "telo": "1854", "uelo": "1917", "tstam": "63193", "ustam": "76333"},
+      {"tr": "1", "ur": "0", "tspeler": "Debrouwer Philippe", "uspeler": "Malfliet Bernard", "telo": "1831", "uelo": "1919", "tstam": "97781", "ustam": "31348"}
     ]
   },
   {
     "ronde": "4",
     "datum": "21-11-1993",
-    "thuis": "Rixensart",
+    "thuis": "954 Rixensart",
     "uit": "228 Dworp 1",
     "tscore": "1.5",
     "uscore": "2.5",
-    "tgem": "",
-    "ugem": "1915",
+    "tgem": "1776",
+    "ugem": "1913",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Lambert M", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1926", "tstam": "", "ustam": "76325"},
-      {"tr": "0", "ur": "1", "tspeler": "Sneiders P", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1900", "tstam": "", "ustam": "2283"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderlinden M", "uspeler": "Debast Patrick", "telo": "", "uelo": "1919", "tstam": "", "ustam": "76333"},
-      {"tr": "0", "ur": "1", "tspeler": "Boonen", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1916", "tstam": "", "ustam": "31348"}
+      {"tr": "1", "ur": "0", "tspeler": "Lambert Michel", "uspeler": "Pletinckx Eddy", "telo": "1869", "uelo": "1916", "tstam": "80918", "ustam": "76325"},
+      {"tr": "0", "ur": "1", "tspeler": "Sneiders Pierre", "uspeler": "Taelemans Werner", "telo": "1824", "uelo": "1900", "tstam": "93688", "ustam": "2283"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderlinden Michel", "uspeler": "Debast Patrick", "telo": "1751", "uelo": "1917", "tstam": "79669", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Boonen Etienne", "uspeler": "Malfliet Bernard", "telo": "1658", "uelo": "1919", "tstam": "67539", "ustam": "31348"}
     ]
   },
   {
     "ronde": "5",
     "datum": "05-12-1993",
     "thuis": "228 Dworp 1",
-    "uit": "Mons 3",
+    "uit": "506 Mons 3",
     "tscore": "2.5",
     "uscore": "1.5",
-    "tgem": "1915",
-    "ugem": "",
+    "tgem": "1913",
+    "ugem": "1905",
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Pletinckx Eddy", "uspeler": "Levers T", "telo": "1926", "uelo": "", "tstam": "76325", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "Lamproye JP", "telo": "1900", "uelo": "", "tstam": "2283", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Couvreur G", "telo": "1919", "uelo": "", "tstam": "76333", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet Bernard", "uspeler": "Lombart M", "telo": "1916", "uelo": "", "tstam": "31348", "ustam": ""}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Pletinckx Eddy", "uspeler": "Levers Thierry", "telo": "1916", "uelo": "1958", "tstam": "76325", "ustam": "63134"},
+      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "Lamproye Jean Paul", "telo": "1900", "uelo": "1883", "tstam": "2283", "ustam": "44261"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Couvreur Gaetan", "telo": "1917", "uelo": "1875", "tstam": "76333", "ustam": "61280"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet Bernard", "uspeler": "Lombart Michel", "telo": "1919", "uelo": "ng", "tstam": "31348", "ustam": "70114"}
     ]
   },
   {
     "ronde": "6",
     "datum": "19-12-1993",
-    "thuis": "Fous du Roy 1",
+    "thuis": "203 Fous du Roy 1",
     "uit": "228 Dworp 1",
     "tscore": "1.5",
     "uscore": "2.5",
-    "tgem": "",
-    "ugem": "1915",
+    "tgem": "1706",
+    "ugem": "1913",
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Brion P", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1926", "tstam": "", "ustam": "76325"},
-      {"tr": "0", "ur": "1", "tspeler": "Rehak J", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1900", "tstam": "", "ustam": "2283"},
-      {"tr": "1", "ur": "0", "tspeler": "Bourgeois P", "uspeler": "Debast Patrick", "telo": "", "uelo": "1919", "tstam": "", "ustam": "76333"},
-      {"tr": "0", "ur": "1", "tspeler": "Fonteyne J", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1916", "tstam": "", "ustam": "31348"}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Brion Philippe", "uspeler": "Pletinckx Eddy", "telo": "1890", "uelo": "1916", "tstam": "74888", "ustam": "76325"},
+      {"tr": "0", "ur": "1", "tspeler": "Rehak Jan", "uspeler": "Taelemans Werner", "telo": "1803", "uelo": "1900", "tstam": "55671", "ustam": "2283"},
+      {"tr": "1", "ur": "0", "tspeler": "Bourgeois Pierre", "uspeler": "Debast Patrick", "telo": "1517", "uelo": "1917", "tstam": "84573", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Fonteyne Jacques", "uspeler": "Malfliet Bernard", "telo": "1614", "uelo": "1919", "tstam": "86002", "ustam": "31348"}
     ]
   },
   {
     "ronde": "7",
     "datum": "16-01-1994",
     "thuis": "228 Dworp 1",
-    "uit": "Soignies 2",
+    "uit": "518 Soignies 2",
     "tscore": "2.5",
     "uscore": "1.5",
-    "tgem": "1915",
-    "ugem": "",
+    "tgem": "1919",
+    "ugem": "1782",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Canneel M", "telo": "1926", "uelo": "", "tstam": "76325", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Taelemans Werner", "uspeler": "Boon Th", "telo": "1900", "uelo": "", "tstam": "2283", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Andr\u00e9 H", "telo": "1919", "uelo": "", "tstam": "76333", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet Bernard", "uspeler": "De Gendt", "telo": "1916", "uelo": "", "tstam": "31348", "ustam": ""}
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Canneel Michel", "telo": "1922", "uelo": "1814", "tstam": "76325", "ustam": "49034"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Taelemans Werner", "uspeler": "Boon Thierry", "telo": "1978", "uelo": "1808", "tstam": "2283", "ustam": "74225"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Andr\u00e9 Henri-Jean", "telo": "1894", "uelo": "1742", "tstam": "76333", "ustam": "93181"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet Bernard", "uspeler": "De Gendt Eddy", "telo": "1880", "uelo": "1764", "tstam": "31348", "ustam": "28673"}
     ]
   },
   {
     "ronde": "8",
     "datum": "06-02-1994",
-    "thuis": "CRE Charleroi 2",
+    "thuis": "501 CRE Charleroi 2",
     "uit": "228 Dworp 1",
     "tscore": "2",
     "uscore": "2",
-    "tgem": "",
-    "ugem": "1915",
+    "tgem": "2011",
+    "ugem": "1931",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Verheyden F", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1926", "tstam": "", "ustam": "76325"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Grobelny F", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1900", "tstam": "", "ustam": "2283"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Leonard F", "uspeler": "Debast Patrick", "telo": "", "uelo": "1919", "tstam": "", "ustam": "76333"},
-      {"tr": "1", "ur": "0", "tspeler": "Gregorio S", "uspeler": "Merckx Eddy", "telo": "", "uelo": "ng", "tstam": "", "ustam": "5479"}
+      {"tr": "0", "ur": "1", "tspeler": "Verheyden Fr\u00e9d\u00e9ric", "uspeler": "Pletinckx Eddy", "telo": "2090", "uelo": "1922", "tstam": "72460", "ustam": "76325"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Grobelny Fabrice", "uspeler": "Taelemans Werner", "telo": "1987", "uelo": "1978", "tstam": "89516", "ustam": "2283"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Leonard Fabrice", "uspeler": "Debast Patrick", "telo": "2031", "uelo": "1894", "tstam": "95753", "ustam": "76333"},
+      {"tr": "1", "ur": "0", "tspeler": "Gregorio Santiago", "uspeler": "Merckx Eddy", "telo": "1935", "uelo": "ng", "tstam": "68721", "ustam": "5479"}
     ]
   },
   {
     "ronde": "9",
     "datum": "20-02-1994",
     "thuis": "228 Dworp 1",
-    "uit": "Roque 4",
+    "uit": "245 Roque 4",
     "tscore": "2",
     "uscore": "2",
-    "tgem": "1915",
-    "ugem": "",
+    "tgem": "1919",
+    "ugem": "1728",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Van den hove A", "telo": "1926", "uelo": "", "tstam": "76325", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "Fory B", "telo": "1900", "uelo": "", "tstam": "2283", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Pereira Boris", "telo": "1919", "uelo": "", "tstam": "76333", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Malfliet Bernard", "uspeler": "Candanedo Salvador", "telo": "1916", "uelo": "", "tstam": "31348", "ustam": ""}
+      {"tr": "0", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Van Den Hove Anugrah", "telo": "1922", "uelo": "1735", "tstam": "76325", "ustam": "25992"},
+      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "Fory Benny", "telo": "1978", "uelo": "1774", "tstam": "2283", "ustam": "68195"},
+      {"tr": "0", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Pereira Boris", "telo": "1894", "uelo": "1764", "tstam": "76333", "ustam": "82805"},
+      {"tr": "1", "ur": "0", "tspeler": "Malfliet Bernard", "uspeler": "Candanedo Salvador", "telo": "1880", "uelo": "1638", "tstam": "31348", "ustam": "81507"}
     ]
   },
   {
     "ronde": "10",
     "datum": "06-03-1994",
-    "thuis": "Montignies",
+    "thuis": "528 Montignies",
     "uit": "228 Dworp 1",
     "tscore": "1.5",
     "uscore": "2.5",
-    "tgem": "",
-    "ugem": "1915",
+    "tgem": "1962",
+    "ugem": "1919",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Melet G", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1926", "tstam": "", "ustam": "76325"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Kaczmarzyk L", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1900", "tstam": "", "ustam": "2283"},
-      {"tr": "1", "ur": "0", "tspeler": "Manne JL", "uspeler": "Debast Patrick", "telo": "", "uelo": "1919", "tstam": "", "ustam": "76333"},
-      {"tr": "0", "ur": "1", "tspeler": "Majewski P", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1916", "tstam": "", "ustam": "31348"}
+      {"tr": "0", "ur": "1", "tspeler": "Melet Gilles", "uspeler": "Pletinckx Eddy", "telo": "2013", "uelo": "1922", "tstam": "68942", "ustam": "76325"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Kaczmarzyk Lucien", "uspeler": "Taelemans Werner", "telo": "2002", "uelo": "1978", "tstam": "81604", "ustam": "2283"},
+      {"tr": "1", "ur": "0", "tspeler": "Manne Jean-Luc", "uspeler": "Debast Patrick", "telo": "1914", "uelo": "1894", "tstam": "91201", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Majewski Philippe", "uspeler": "Malfliet Bernard", "telo": "1917", "uelo": "1880", "tstam": "94099", "ustam": "31348"}
     ]
   },
   {
     "ronde": "11",
     "datum": "20-03-1994",
     "thuis": "228 Dworp 1",
-    "uit": "Lessines 1",
+    "uit": "533 Lessines 1",
     "tscore": "3",
     "uscore": "1",
-    "tgem": "1915",
-    "ugem": "",
+    "tgem": "1919",
+    "ugem": "1857",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Masure Luc", "telo": "1926", "uelo": "", "tstam": "76325", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "Hannecart M", "telo": "1900", "uelo": "", "tstam": "2283", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Knudde F", "telo": "1919", "uelo": "", "tstam": "76333", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet Bernard", "uspeler": "Quievy P", "telo": "1916", "uelo": "", "tstam": "31348", "ustam": ""}
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Masure Luc", "telo": "1922", "uelo": "1926", "tstam": "76325", "ustam": "59811"},
+      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "Hannecart Marc", "telo": "1978", "uelo": "1884", "tstam": "2283", "ustam": "81523"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Knudde Francis", "telo": "1894", "uelo": "1847", "tstam": "76333", "ustam": "71081"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet Bernard", "uspeler": "Quievy Pascal", "telo": "1880", "uelo": "1770", "tstam": "31348", "ustam": "71412"}
     ]
   }
 ]

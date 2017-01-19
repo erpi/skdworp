@@ -2,177 +2,177 @@
   {
     "ronde": "1",
     "datum": "03-10-1993",
-    "thuis": "Geraardsbergen 2",
+    "thuis": "418 Geraardsbergen 2",
     "uit": "228 Dworp 2",
     "tscore": "2.5",
     "uscore": "1.5",
-    "tgem": "",
-    "ugem": "1913",
+    "tgem": "1881",
+    "ugem": "1914",
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Matthys K", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "2021", "tstam": "", "ustam": "31526"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Motte J", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1946", "tstam": "", "ustam": "353"},
-      {"tr": "1", "ur": "0", "tspeler": "Achtergaele K", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "1845", "tstam": "", "ustam": "43419"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Lallemand P", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1838", "tstam": "", "ustam": "19313"}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Matthys Luc", "uspeler": "Mertens Fran\u00e7ois", "telo": "1975", "uelo": "2025", "tstam": "19208", "ustam": "31526"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Motte Jan", "uspeler": "Maeckelbergh Mieke", "telo": "1957", "uelo": "1946", "tstam": "32794", "ustam": "353"},
+      {"tr": "1", "ur": "0", "tspeler": "Achtergaele Koen", "uspeler": "Maeckelbergh Geert", "telo": "1836", "uelo": "1848", "tstam": "30732", "ustam": "43419"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lallemand Paul", "uspeler": "Lemmens Pierre", "telo": "1757", "uelo": "1838", "tstam": "61476", "ustam": "19313"}
     ]
   },
   {
     "ronde": "2",
     "datum": "17-10-1993",
     "thuis": "228 Dworp 2",
-    "uit": "Humbeek 2",
+    "uit": "260 Humbeek 2",
     "tscore": "4",
     "uscore": "0",
-    "tgem": "1913",
-    "ugem": "",
+    "tgem": "1914",
+    "ugem": "1693",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Saenen R", "telo": "2021", "uelo": "", "tstam": "31526", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "De Jonckheere G", "telo": "1946", "uelo": "", "tstam": "353", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Geert", "uspeler": "Jacobs F", "telo": "1845", "uelo": "", "tstam": "43419", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Lemmens Pierre", "uspeler": "Lamair Dani\u00ebl", "telo": "1838", "uelo": "", "tstam": "19313", "ustam": ""}
+      {"tr": "1", "ur": "0", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Saenen Ren\u00e9", "telo": "2025", "uelo": "1775", "tstam": "31526", "ustam": "17515"},
+      {"tr": "1", "ur": "0f", "tspeler": "Maeckelbergh Mieke", "uspeler": "De Jonckheere Gilbert", "telo": "1946", "uelo": "1744", "tstam": "353", "ustam": "12556"},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Geert", "uspeler": "Jacobs Alphonse", "telo": "1848", "uelo": "1731", "tstam": "43419", "ustam": "96431"},
+      {"tr": "1", "ur": "0", "tspeler": "Lemmens Pierre", "uspeler": "Lamair Dani\u00ebl", "telo": "1838", "uelo": "1521", "tstam": "19313", "ustam": "96440"}
     ]
   },
   {
     "ronde": "3",
     "datum": "07-11-1993",
-    "thuis": "Oudenaarde 1",
+    "thuis": "460 Oudenaarde 1",
     "uit": "228 Dworp 2",
     "tscore": "2.5",
     "uscore": "1.5",
-    "tgem": "",
-    "ugem": "1913",
+    "tgem": "1900",
+    "ugem": "1914",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Van Steenkiste L", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "2021", "tstam": "", "ustam": "31526"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Maladry A", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1946", "tstam": "", "ustam": "353"},
-      {"tr": "1", "ur": "0", "tspeler": "De Bouver Guido", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "1845", "tstam": "", "ustam": "43419"},
-      {"tr": "1", "ur": "0", "tspeler": "Bruynooghe JP", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1838", "tstam": "", "ustam": "19313"}
+      {"tr": "0", "ur": "1", "tspeler": "Van Steenkiste Luc", "uspeler": "Mertens Fran\u00e7ois", "telo": "1979", "uelo": "2025", "tstam": "53449", "ustam": "31526"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Maladry Alexis", "uspeler": "Maeckelbergh Mieke", "telo": "1964", "uelo": "1946", "tstam": "22080", "ustam": "353"},
+      {"tr": "1", "ur": "0", "tspeler": "De Bouver Guido", "uspeler": "Maeckelbergh Geert", "telo": "1859", "uelo": "1848", "tstam": "9342", "ustam": "43419"},
+      {"tr": "1", "ur": "0", "tspeler": "Bruynooghe Jean-Pierre", "uspeler": "Lemmens Pierre", "telo": "1797", "uelo": "1838", "tstam": "49689", "ustam": "19313"}
     ]
   },
   {
     "ronde": "4",
     "datum": "21-11-1993",
-    "thuis": "Zelzate",
+    "thuis": "471 Zelzate",
     "uit": "228 Dworp 2",
     "tscore": "1",
     "uscore": "3",
-    "tgem": "",
-    "ugem": "1913",
+    "tgem": "1782",
+    "ugem": "1914",
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Vliet D", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "2021", "tstam": "", "ustam": "31526"},
-      {"tr": "0", "ur": "1", "tspeler": "Broekhuizen P", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1946", "tstam": "", "ustam": "353"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Hoorebeke J", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "1845", "tstam": "", "ustam": "43419"},
-      {"tr": "0", "ur": "1", "tspeler": "Claeys P", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1838", "tstam": "", "ustam": "19313"}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Vliet Dennis", "uspeler": "Mertens Fran\u00e7ois", "telo": "1892", "uelo": "2025", "tstam": "26492", "ustam": "31526"},
+      {"tr": "0", "ur": "1", "tspeler": "Broekhuizen Peter", "uspeler": "Maeckelbergh Mieke", "telo": "1775", "uelo": "1946", "tstam": "31895", "ustam": "353"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Hoorebeke Jimmy", "uspeler": "Maeckelbergh Geert", "telo": "1680", "uelo": "1848", "tstam": "22519", "ustam": "43419"},
+      {"tr": "0", "ur": "1", "tspeler": "Claeys Patrick", "uspeler": "Lemmens Pierre", "telo": "ng", "uelo": "1838", "tstam": "47589", "ustam": "19313"}
     ]
   },
   {
     "ronde": "5",
     "datum": "05-12-1993",
     "thuis": "228 Dworp 2",
-    "uit": "Jean Jaures 4",
+    "uit": "402 Jean Jaures 4",
     "tscore": "2.5",
     "uscore": "1.5",
-    "tgem": "1913",
-    "ugem": "",
+    "tgem": "1914",
+    "ugem": "1823",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "De Backere JP", "telo": "2021", "uelo": "", "tstam": "31526", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "Ongena G", "telo": "1946", "uelo": "", "tstam": "353", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Geert", "uspeler": "Vanbelleghem C", "telo": "1845", "uelo": "", "tstam": "43419", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Lemmens Pierre", "uspeler": "Verbruggen H", "telo": "1838", "uelo": "", "tstam": "19313", "ustam": ""}
+      {"tr": "1", "ur": "0", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "De Backere Jean-Pierre", "telo": "2025", "uelo": "1932", "tstam": "31526", "ustam": "17043"},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "Ongena Gilbert", "telo": "1946", "uelo": "1792", "tstam": "353", "ustam": "45314"},
+      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Geert", "uspeler": "Vanbelleghem Eric", "telo": "1848", "uelo": "1745", "tstam": "43419", "ustam": "13510"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lemmens Pierre", "uspeler": "Verbruggen Hugo", "telo": "1838", "uelo": "ng", "tstam": "19313", "ustam": "46604"}
     ]
   },
   {
     "ronde": "6",
     "datum": "19-12-1993",
-    "thuis": "Lokeren 1",
+    "thuis": "436 Lokeren 1",
     "uit": "228 Dworp 2",
     "tscore": "1.5",
     "uscore": "2.5",
-    "tgem": "",
-    "ugem": "1910",
+    "tgem": "2035",
+    "ugem": "1911",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "De Munck J", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "2021", "tstam": "", "ustam": "31526"},
-      {"tr": "0", "ur": "1", "tspeler": "Peelman L", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1946", "tstam": "", "ustam": "353"},
-      {"tr": "0", "ur": "1", "tspeler": "De Saegher J", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1838", "tstam": "", "ustam": "43419"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "De Fre W", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1836", "tstam": "", "ustam": "76317"}
+      {"tr": "1", "ur": "0", "tspeler": "De Munck Jan", "uspeler": "Mertens Fran\u00e7ois", "telo": "2117", "uelo": "2025", "tstam": "21938", "ustam": "31526"},
+      {"tr": "0", "ur": "1", "tspeler": "Peelman Lieven", "uspeler": "Maeckelbergh Mieke", "telo": "2067", "uelo": "1946", "tstam": "89265", "ustam": "353"},
+      {"tr": "0", "ur": "1", "tspeler": "De Saegher Johan", "uspeler": "Lemmens Pierre", "telo": "1988", "uelo": "1838", "tstam": "21717", "ustam": "19313"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Fr\u00e9 Walter", "uspeler": "Cornelis Eric", "telo": "1968", "uelo": "1836", "tstam": "41955", "ustam": "76317"}
     ]
   },
   {
     "ronde": "7",
     "datum": "16-01-1994",
     "thuis": "228 Dworp 2",
-    "uit": "Opwijk 1",
+    "uit": "261 Opwijk 1",
     "tscore": "2.5",
     "uscore": "1.5",
-    "tgem": "1910",
-    "ugem": "",
+    "tgem": "1900",
+    "ugem": "1869",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Rogiers Jan", "telo": "2021", "uelo": "", "tstam": "31526", "ustam": "48569"},
-      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "Verhasselt Kris", "telo": "1946", "uelo": "", "tstam": "353", "ustam": "34151"},
-      {"tr": "1", "ur": "0", "tspeler": "Lemmens Pierre", "uspeler": "Petermans Pascal", "telo": "1838", "uelo": "", "tstam": "43419", "ustam": "40142"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Dierickx Jan", "telo": "1836", "uelo": "", "tstam": "76317", "ustam": ""}
+      {"tr": "0", "ur": "1", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Rogiers Jan", "telo": "2034", "uelo": "2080", "tstam": "31526", "ustam": "48569"},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "Verhasselt Kris", "telo": "1929", "uelo": "1876", "tstam": "353", "ustam": "34151"},
+      {"tr": "1", "ur": "0", "tspeler": "Lemmens Pierre", "uspeler": "Petermans Pascal", "telo": "1794", "uelo": "1827", "tstam": "43419", "ustam": "40142"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Dierickx Jan", "telo": "1843", "uelo": "1693", "tstam": "76317", "ustam": "39594"}
     ]
   },
   {
     "ronde": "8",
     "datum": "06-02-1994",
-    "thuis": "Pat Berchem",
+    "thuis": "210 Pat Berchem",
     "uit": "228 Dworp 2",
     "tscore": "1.5",
     "uscore": "2.5",
-    "tgem": "",
-    "ugem": "1885",
+    "tgem": "1787",
+    "ugem": "1900",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Joseph F", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "2021", "tstam": "", "ustam": "31526"},
-      {"tr": "0", "ur": "1", "tspeler": "Steenwerckx Remy", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "1845", "tstam": "96506", "ustam": "43419"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Verschoren Fran\u00e7ois", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1838", "tstam": "41688", "ustam": "43419"},
-      {"tr": "0", "ur": "1", "tspeler": "Gervais J", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1836", "tstam": "", "ustam": "76317"}
+      {"tr": "1", "ur": "0", "tspeler": "Joseph Fernand", "uspeler": "Mertens Fran\u00e7ois", "telo": "2025", "uelo": "2034", "tstam": "604", "ustam": "31526"},
+      {"tr": "0", "ur": "1", "tspeler": "Steenwerckx Remy", "uspeler": "Maeckelbergh Geert", "telo": "1756", "uelo": "1929", "tstam": "28339", "ustam": "43419"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verschoren Fran\u00e7ois", "uspeler": "Lemmens Pierre", "telo": "1737", "uelo": "1794", "tstam": "41688", "ustam": "43419"},
+      {"tr": "0", "ur": "1", "tspeler": "Gervais Jacques", "uspeler": "Cornelis Eric", "telo": "1631", "uelo": "1843", "tstam": "2941", "ustam": "76317"}
     ]
   },
   {
     "ronde": "9",
     "datum": "20-02-1994",
     "thuis": "228 Dworp 2",
-    "uit": "Dendermonde 2",
+    "uit": "425 Dendermonde 2",
     "tscore": "4",
     "uscore": "0",
-    "tgem": "1910",
-    "ugem": "",
+    "tgem": "1900",
+    "ugem": "1627",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Wittock R", "telo": "2021", "uelo": "", "tstam": "31526", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "Den Doncker J", "telo": "1946", "uelo": "", "tstam": "353", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Lemmens Pierre", "uspeler": "Bosman L", "telo": "1838", "uelo": "", "tstam": "43419", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Cornelis Eric", "uspeler": "De Redder M", "telo": "1836", "uelo": "", "tstam": "76317", "ustam": ""}
+      {"tr": "1", "ur": "0", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Wittock Ren\u00e9", "telo": "2034", "uelo": "1664", "tstam": "31526", "ustam": "76791"},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "Den Doncker Joseph", "telo": "1929", "uelo": "1633", "tstam": "353", "ustam": "60"},
+      {"tr": "1", "ur": "0", "tspeler": "Lemmens Pierre", "uspeler": "Bosman Luc", "telo": "1794", "uelo": "1585", "tstam": "43419", "ustam": "13765"},
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis Eric", "uspeler": "De Ridder Michael", "telo": "1843", "uelo": "ng", "tstam": "76317", "ustam": "41777"}
     ]
   },
   {
     "ronde": "10",
     "datum": "06-03-1994",
-    "thuis": "Zottegem 2",
+    "thuis": "462 Zottegem 2",
     "uit": "228 Dworp 2",
     "tscore": "4",
     "uscore": "0",
-    "tgem": "",
-    "ugem": "1910",
+    "tgem": "1856",
+    "ugem": "1900",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Watte S", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "2021", "tstam": "", "ustam": "31526"},
-      {"tr": "1", "ur": "0", "tspeler": "Van der Borght F", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1946", "tstam": "", "ustam": "353"},
-      {"tr": "1", "ur": "0", "tspeler": "Temmerman Hans", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1838", "tstam": "", "ustam": "43419"},
-      {"tr": "1", "ur": "0", "tspeler": "Van Wassenhove M", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1836", "tstam": "", "ustam": "76317"}
+      {"tr": "1", "ur": "0", "tspeler": "Watte Stefaan", "uspeler": "Mertens Fran\u00e7ois", "telo": "1892", "uelo": "2034", "tstam": "54500", "ustam": "31526"},
+      {"tr": "1", "ur": "0", "tspeler": "Van Der Borght Filip", "uspeler": "Maeckelbergh Mieke", "telo": "1885", "uelo": "1929", "tstam": "10961", "ustam": "353"},
+      {"tr": "1", "ur": "0", "tspeler": "Temmerman Hans", "uspeler": "Lemmens Pierre", "telo": "1895", "uelo": "1794", "tstam": "2640", "ustam": "43419"},
+      {"tr": "1", "ur": "0", "tspeler": "Van Wassenhove Marc", "uspeler": "Cornelis Eric", "telo": "1752", "uelo": "1843", "tstam": "3174", "ustam": "76317"}
     ]
   },
   {
     "ronde": "11",
     "datum": "20-03-1994",
     "thuis": "228 Dworp 2",
-    "uit": "Mariakerke 2",
+    "uit": "442 Mariakerke 2",
     "tscore": "1",
     "uscore": "3",
-    "tgem": "1910",
-    "ugem": "",
+    "tgem": "1900",
+    "ugem": "1873",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Gunst F", "telo": "2021", "uelo": "", "tstam": "31526", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh Mieke", "uspeler": "De Reu P", "telo": "1946", "uelo": "", "tstam": "353", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Lemmens Pierre", "uspeler": "Develder J", "telo": "1838", "uelo": "", "tstam": "43419", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Kegels K", "telo": "1836", "uelo": "", "tstam": "76317", "ustam": ""}
+      {"tr": "0", "ur": "1", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Gunst Frank", "telo": "2034", "uelo": "1941", "tstam": "31526", "ustam": "36056"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh Mieke", "uspeler": "De Reu Paul", "telo": "1929", "uelo": "1866", "tstam": "353", "ustam": "1589"},
+      {"tr": "0", "ur": "1", "tspeler": "Lemmens Pierre", "uspeler": "Develder Jacques", "telo": "1794", "uelo": "1828", "tstam": "19313", "ustam": "50369"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Kegels Kristof", "telo": "1843", "uelo": "1858", "tstam": "76317", "ustam": "47490"}
     ]
   }
 ]
