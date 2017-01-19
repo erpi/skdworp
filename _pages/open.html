@@ -1,0 +1,28 @@
+---
+layout: default
+title: Open tornooi 2016 - 2017
+permalink: /open/
+noindex: true
+sitemap: false
+datadir: op1617
+---
+<ul class="nav nav-pills">
+  {% for bestand in site.data.open[page.datadir] reversed %}
+  <li{% if forloop.index == 1 %} class="active"{% endif %}>
+    <a data-toggle="pill" href="#{{ bestand[0] | replace: " ", "-" }}">{{ bestand[0] | replace: "_", " "}}</a>
+  </li>
+  {% endfor %}
+</ul>
+<div class="tab-content">
+  {% for bestand in site.data.open[page.datadir] reversed %}
+    {% assign naam = bestand[0] %}
+    {% if forloop.index == 1 %}
+      {% include tab-pane-start.html href=naam aktief=true %}
+    {% else %}
+      {% include tab-pane-start.html href=naam aktief=false %}
+    {% endif %}
+    {% assign inhoud = bestand[1] %}
+    {% include table-eindstand.html datafile=inhoud %}
+    {% include tab-pane-end.html %}
+  {% endfor %}
+</div>
