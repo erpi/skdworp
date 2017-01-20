@@ -1,8 +1,20 @@
-Stand,Naam,Punten
-1,Serge Vanderwaeren,3
-2,Diederik Lot,2
-2,Eric Cornelis,2
-4,Geert Verrijken,1.5
-4,Filip Van De Velde,1.5
-6,Mats Laureys,1
-7,Niels Lerinckx,0
+R1-Wit,R1-Zwart,uitslag
+Mo,Serge,0-1
+Niels,Diederik,0-1
+Mats,Filip,0-1
+Felix,Eric,0-1
+Sander,Stijn,1-0
+Alexander,bye,1
+,,
+R2-Wit,R2-Zwart,uitslag
+Serge,Filip,1-0
+Eric,Mo,0-1
+Alex,Felix,1-0
+Diederik,Sander,0.5-0.5
+Niels,Mats,0-1
+Stijn,bye,1
+,,
+R3-Wit,R3-Zwart,uitslag
+Diederik,Serge,0-1
+Mo,Alex,1-0
+Filip,Eric,0-1
