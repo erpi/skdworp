@@ -1,20 +1,19 @@
-R1-Wit,R1-Zwart,uitslag
-Felix,Serge,0-1
-Niels,Kjell,0-1
-Sander,Diederik,0-1
-Stijn,Filip,0-1
-Mats,Eric,0-1
-,,
-R2-Wit,R2-Zwart,uitslag
-Diederik,Serge,0-1
-Eric,Kjell,0-1
-Mats,Filip,0-1
-Felix,Sander,1-0
-Stijn ,Niels,0-1
-,,
-R3-Wit,R3-Zwart,uitslag
-Serge,Kjell,1-0
-Diederik,Filip,1-0
-Mats,Felix,1-0
-Niels,Eric,0-1
-Sander,Stijn,1-0
+wit,zwart,wr,zr
+partij 1,,,
+Felix,Serge,0,1
+Niels,Kjell,0,1
+Sander,Diederik,0,1
+Stijn,Filip,0,1
+Mats,Eric,0,1
+partij 2,,,
+Diederik,Serge,0,1
+Eric,Kjell,0,1
+Mats,Filip,0,1
+Felix,Sander,1,0
+Stijn,Niels,0,1
+partij 3,,,
+Serge,Kjell,1,0
+Diederik,Filip,1,0
+Mats,Felix,1,0
+Niels,Eric,0,1
+Sander,Stijn,1,0
