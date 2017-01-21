@@ -43,7 +43,7 @@
       {"wr": "", "zr": "", "wit": "peter de bosscher", "zwart": "kjell spaens"},
       {"wr": "0", "zr": "1", "wit": "eric cornelis", "zwart": "serge vanderwaeren"},
       {"wr": "0", "zr": "1", "wit": "bernard malfliet", "zwart": "geert verrijken"},
-      {"wr": "", "zr": "", "wit": "walter de reymaeker", "zwart": "yves baert"},
+      {"wr": "1", "zr": "0", "wit": "walter de reymaeker", "zwart": "yves baert"},
       {"wr": "", "zr": "", "wit": "diederik lot", "zwart": "robert huysman"}
     ]
   },
@@ -55,7 +55,7 @@
       {"wr": "", "zr": "", "wit": "yves baert", "zwart": "diederik lot"},
       {"wr": "0", "zr": "1", "wit": "geert verrijken", "zwart": "walter de reymaeker"},
       {"wr": "0.5", "zr": "0.5", "wit": "serge vanderwaeren", "zwart": "bernard malfliet"},
-      {"wr": "", "zr": "", "wit": "kjell spaens", "zwart": "eric cornelis"},
+      {"wr": "1", "zr": "0", "wit": "kjell spaens", "zwart": "eric cornelis"},
       {"wr": "", "zr": "", "wit": "filip van de velde", "zwart": "peter de bosscher"}
     ]
   },
