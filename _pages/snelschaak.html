@@ -5,35 +5,30 @@ permalink: /snelschaak/
 noindex: true
 sitemap: false
 rondes: [tussenstand, jun, mei, apr, maa, feb, jan, dec, nov, okt, sep, av]
+datadir: ss1617
 ---
 <p class="lead">tempo: 5 minuten k.o.</p>
-{% assign files = site.data.ss.ss1617 %}
-
-{% capture string_of_files %}{% for file in files %}{{ file[0] }},{% endfor %}{% endcapture %}
-{% assign array_of_files = string_of_files | split: "," %}
-
-{% capture string_of_tabs %}{% for ronde in page.rondes %}{% for file in array_of_files %}{% if ronde == file %}{{ ronde }},{% break %}{% endif %}{% endfor %}{% endfor %}{% endcapture %}
-{% assign tabs = string_of_tabs | split: "," %}
-
+{% assign bestanden = site.data.ss[page.datadir] %}
 <ul class="nav nav-pills">
-  {% for tab in tabs %}
-  <li{% if forloop.index == 1 %} class="active"{% endif %}><a data-toggle="pill" href="#{{ tab | replace: " ", "-" }}">{{ tab }}</a></li>
+  {% for ronde in page.rondes %}
+    {% if bestanden[ronde] %}
+    <li{% if forloop.index == 1 %} class="active"{% endif %}>
+      <a data-toggle="pill" href="#{{ ronde | replace: " ", "-" }}">{{ ronde }}</a>
+    </li>
+    {% endif %}
   {% endfor %}
 </ul>
 <div class="tab-content">
-  {% for tab in tabs %}
-    {% for file in files %}
-     {% if tab == file[0] %}
-      {% if tab == tabs.first %}
-        {% include tab-pane-start.html href=tab aktief=true %}
+  {% for ronde in page.rondes %}
+    {% assign bestand = bestanden[ronde] %}
+    {% if bestand %}
+      {% if forloop.index == 1 %}
+        {% include tab-pane-start.html href=ronde aktief=true %}
       {% else %}
-        {% include tab-pane-start.html href=tab aktief=false %}
+        {% include tab-pane-start.html href=ronde aktief=false %}
       {% endif %}
-      {% assign ronde = file[1] %}
-      {% include table-eindstand.html datafile=ronde %}
+      {% include table-eindstand.html datafile=bestand %}
       {% include tab-pane-end.html %}
-      {% break %}
-     {% endif %}
-    {% endfor %}
+    {% endif %}
   {% endfor %}
 </div>
