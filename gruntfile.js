@@ -27,7 +27,7 @@ module.exports = function(grunt) {
         },
         build: {
           files: {
-          'scripts/site.min.js': ['_scripts/libs/jquery-1.12.4.js', '_scripts/libs/bootstrap-3.3.7.js', '_scripts/libs/bootstrap-accessibility-1.0.3.js', '_scripts/components/footer.js'],
+          'scripts/site.min.js': ['_scripts/libs/jquery-1.12.4.js', '_scripts/libs/bootstrap-3.3.7.js', '_scripts/libs/bootstrap-accessibility-1.0.3.js', '_scripts/components/footer.js', '_scripts/components/verslag.js'],
           'scripts/homepage.min.js': ['_scripts/components/home/decrypt.js', '_scripts/components/home/scrolling.js', '_scripts/components/home/google-maps.js'],
           'scripts/post.min.js': ['_scripts/libs/chessboard-0.3.0_mod.js', '_scripts/libs/chessboardjs-themes.js', '_scripts/components/chessboard/show-solution.js'],
           }

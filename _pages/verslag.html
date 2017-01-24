@@ -1,64 +1,113 @@
 ---
 layout: default
-title: Verslag
+title: verslag schrijven
 permalink: /verslag/
 noindex: true
 sitemap: false
 ---
-<form method="post" action="">
- <div class="form-group">
-   <label for="ronde">ronde</label>
-   <input type="number" class="form-control" id="ronde">
- </div>
- <div class="form-group">
-   <label for="titel">titel</label>
-   <input type="text" class="form-control" id="titel">
- </div>
- <div class="form-group">
-   <label for="voornaam">voornaam</label>
-   <input type="text" class="form-control" id="voornaam">
- </div>
- <div class="form-group">
-   <label for="verslag">verslag</label>
-   <textarea rows="20" cols="80" type="text" class="form-control" id="verslag">
-  </textarea>
- </div>
- <button type="submit" class="btn btn-default">versturen</button>
+<!-- type (dropdown)(nationale interclub), titel, auteur, verslag, stelling (checkbox),
+     ronde, thuisploeg, uitploeg,
+     fen, titel, wit, zwart, woordje uitleg, oplossing -->
+<form class="form-horizontal" method="post" action="https://api.staticman.net/v2/entry/erpi/skdworp/gh-pages/posts">
+  <div class="well">
+    <div class="form-group">
+      <label class="control-label col-sm-2" for="type-verslag">type verslag:</label>
+      <div class="col-sm-10">
+        <select class="form-control" id="type-verslag" name="fields[soort]" value="ni" autofocus>
+          <option value="ni" selected>nationale interclubs</option>
+        </select>
+      </div>
+    </div>
+    <div id="interclubs-info">
+      <div class="form-group">
+        <label class="control-label col-sm-2" for="thuisploeg">thuisploeg:</label>
+        <div class="col-sm-4">
+          <input class="form-control" id="thuisploeg" name="fields[ni_thuisploeg]" type="text">
+        </div>
+        <label class="control-label col-sm-2" for="uitploeg">uitploeg:</label>
+        <div class="col-sm-4">
+          <input class="form-control" id="uitploeg" name="fields[ni_uitploeg]" type="text">
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="control-label col-sm-2" for="ronde">ronde:</label>
+        <div class="col-sm-4">
+          <input class="form-control" id="ronde" name="fields[ni_ronde]" type="number">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="well">
+    <div class="form-group">
+      <label class="control-label col-sm-2" for="titel">titel:</label>
+      <div class="col-sm-10">
+        <input class="form-control" id="titel" name="fields[title]" type="text">
+      </div>
+    </div>
+    <div class="form-group">
+      <label class="control-label col-sm-2" for="voornaam">voornaam:</label>
+      <div class="col-sm-10">
+        <input class="form-control" id="voornaam" name="fields[author]" type="text">
+      </div>
+    </div>
+    <div class="form-group">
+      <label class="control-label col-sm-2" for="verslag">verslag:</label>
+      <div class="col-sm-10">
+        <textarea class="form-control" id="verslag" name="fields[verslag]" rows="20" type="text">
+        </textarea>
+      </div>
+    </div>
+  </div>
+  <div class="well">
+    <div class="form-group">
+      <div class="col-sm-offset-2 col-sm-10">
+        <div class="checkbox">
+          <label><input id="stelling-toevoegen" type="checkbox"> stelling toevoegen</label>
+        </div>
+      </div>
+    </div>
+    <div style="display:none" id="stelling-info">
+      <div class="form-group">
+        <label class="control-label col-sm-2" for="">fen:</label>
+        <div class="col-sm-10">
+          <input class="form-control" id="fen" name="fields[stelling_fen]" type="text">
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="control-label col-sm-2" for="stelling_titel">titel:</label>
+        <div class="col-sm-10">
+          <input class="form-control" id="stelling_titel" name="fields[stelling_titel]" type="text">
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="control-label col-sm-2" for="wit">wit:</label>
+        <div class="col-sm-4">
+          <input class="form-control" id="wit" name="fields[stelling_wit]" type="text">
+        </div>
+        <label class="control-label col-sm-2" for="zwart">zwart:</label>
+        <div class="col-sm-4">
+          <input class="form-control" id="zwart" name="fields[stelling_zwart]" type="text">
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="control-label col-sm-2" for="uitleg">uitleg:</label>
+        <div class="col-sm-10">
+          <input class="form-control" id="uitleg" name="fields[stelling_uitleg]" type="text">
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="control-label col-sm-2" for="oplossing">oplossing:</label>
+        <div class="col-sm-10">
+          <input class="form-control" id="oplossing" name="fields[stelling_oplossing]" type="text">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="well">
+    <div class="form-group">
+       <div class="col-sm-offset-2 col-sm-10">
+         <button type="submit" class="btn btn-default">versturen</button>
+       </div>
+     </div>
+  </div>
 </form>
-
-<!-- <form class="js-form form" method="post" action="">
-  <div class="form__spinner mdl-spinner mdl-spinner--single-color mdl-js-spinner is-active"></div>
-  <fieldset class="field-group">
-    <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-      <input class="mdl-textfield__input" type="text" id="movie-form[name]" name="fields[name]"/>
-      <label class="mdl-textfield__label" for="movie-form[name]">naam</label>
-    </div>
-  </fieldset>
-
-  <fieldset class="field-group" style="display: none">
-    <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-      <input class="mdl-textfield__input" type="text" id="movie-form[address]" name="fields[address]"/>
-      <label class="mdl-textfield__label" for="movie-form[address]">Address</label>
-    </div>
-  </fieldset>
-
-  <fieldset class="field-group">
-    <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-      <input class="mdl-textfield__input" type="text" id="movie-form[title]" name="fields[title]"/>
-      <label class="mdl-textfield__label" for="movie-form[title]">Movie title</label>
-    </div>
-  </fieldset>
-
-  <fieldset class="field-group">
-    <div class="mdl-textfield mdl-textfield--floating-label mdl-js-textfield">
-      <textarea class="mdl-textfield__input" name="fields[description]" type="text" rows= "3" id="movie-form[description]"></textarea>
-      <label class="mdl-textfield__label" for="movie-form[description]">Your review. Markdown is allowed.</label>
-    </div>
-  </fieldset>
-
-  <fieldset class="field-group">
-    <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
-      doorsturen
-    </button>
-  </fieldset>
-</form> -->
