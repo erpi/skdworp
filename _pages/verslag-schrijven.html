@@ -46,13 +46,23 @@ sitemap: false
       <label class="control-label col-sm-2" for="voornaam">voornaam:</label>
       <div class="col-sm-10">
         <input class="form-control" id="voornaam" name="fields[author]" type="text">
-      </div>
+        </div>
     </div>
     <div class="form-group">
       <label class="control-label col-sm-2" for="verslag">verslag:</label>
       <div class="col-sm-10">
-        <textarea class="form-control" id="verslag" name="fields[verslag]" rows="20" type="text">
+        <textarea class="form-control" id="verslag" name="fields[verslag]" rows="20" type="text" aria-describedby="help-verslag">
         </textarea>
+        <span id="help-verslag" class="help-block">opmaak van de tekst gebeurt
+          met behulp van <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">
+          markdown</a>. een voorbeeld vind je <a href="https://raw.githubusercontent.com/erpi/skdworp/gh-pages/_posts/2016-11-28-ni-r4-verslag-geert.md" target="_blank">hier (onder het lijntje met '---')</a>.
+          even het belangrijkste opsommen. ten eerste, tussentitels
+          worden geschreven als '## mijn tussentitel' met een blanco lijn
+          ervoor en erna. ten tweede, tussen paragrafen moet een blanco lijn staan.
+          ten derde, spelersnamen zetten we tussen '**_' en '_**' markeringen waardoor
+          ze zowel vet als schuin worden weergegeven (bv. '**_Serge_**'). En ten vierde,
+          we zetten na de eerste inleidende zinnen het scheidingsteken '&lt;!--more--&gt;'
+          in de tekst.</span>
       </div>
     </div>
   </div>
@@ -68,7 +78,8 @@ sitemap: false
       <div class="form-group">
         <label class="control-label col-sm-2" for="">fen:</label>
         <div class="col-sm-10">
-          <input class="form-control" id="fen" name="fields[stelling_fen]" type="text">
+          <input class="form-control" id="fen" name="fields[stelling_fen]" type="text" aria-describedby="help-fen">
+          <span id="help-fen" class="help-block">positie in <a href="https://nl.wikipedia.org/wiki/Forsyth-Edwards_Notation" target="_blank">fen-notatie</a>. kan je oa. gemakkelijk aanmaken met behulp van de <a href="https://nl.lichess.org/editor" target="_blank">lichess editor</a>.</span>
         </div>
       </div>
       <div class="form-group">
@@ -90,13 +101,15 @@ sitemap: false
       <div class="form-group">
         <label class="control-label col-sm-2" for="uitleg">uitleg:</label>
         <div class="col-sm-10">
-          <input class="form-control" id="uitleg" name="fields[stelling_uitleg]" type="text">
+          <input class="form-control" id="uitleg" name="fields[stelling_uitleg]" type="text" aria-describedby="help-uitleg">
+          <span id="help-uitleg" class="help-block">een woordje uitleg over de stelling. bijvoorbeeld: 'halverwege de partij werd een mooie mat over het hoofd gezien, zwart speelt en wint'.</span>
         </div>
       </div>
       <div class="form-group">
         <label class="control-label col-sm-2" for="oplossing">oplossing:</label>
         <div class="col-sm-10">
-          <input class="form-control" id="oplossing" name="fields[stelling_oplossing]" type="text">
+          <input class="form-control" id="oplossing" name="fields[stelling_oplossing]" type="text" aria-describedby="help-oplossing">
+          <span id="help-oplossing" class="help-block">bijvoorbeeld: '1...Te1+ en wit ging mat achter de piketjes'</span>
         </div>
       </div>
     </div>
