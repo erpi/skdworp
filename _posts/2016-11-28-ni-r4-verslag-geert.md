@@ -2,9 +2,9 @@
 layout: verslag
 excerpt_separator: <!--more-->
 author: Geert
-ronde: 4
-thuisploeg: soignies 1
-uitploeg: dworp 1
+ni_ronde: 4
+ni_thuisploeg: soignies 1
+ni_uitploeg: dworp 1
 title: Met de hakken over de sloot
 description: "Soignies, laatste in de stand met nul punten, kreeg in de drie voorgaande ronden telkens een 5-1-pandoering. Zelf moeten we natuurlijk ook niet te hoog van de toren blazen met amper één op zes."
 stelling_fen: "7k/1pp1N1bp/3p2p1/p1n5/2B1p3/5R2/PP4K1/R1B1q3 w - -"
@@ -14,11 +14,11 @@ stelling_zwart: el kadi
 stelling_tekst: "de slotstelling van geert drie zetten voor het einde. wit speelt en wint geforceerd groot materiaal en/of zet mat."
 stelling_oplossing: "1. Pxg6+! hxg6 2. Th3+ Lh6 3. Lxh6! met de matdreiging Lf8"
 ---
-### Voorspel
+## Voorspel
 
 Soignies, laatste in de stand met nul punten, kreeg in de drie voorgaande ronden telkens een 5-1-pandoering. Zelf moeten we natuurlijk ook niet te hoog van de toren blazen met amper één op zes. En dus was winnen cruciaal. Elo-gewijs waren we trouwens ook favoriet. Helaas, kost wat kost moeten scoren, zet ook extra druk natuurlijk.<!--more-->
 
-### De ontmoeting
+## De ontmoeting
 
 Op bord 1 was het pleit snel beslecht. **_Serge_** stond met zwart van meet af aan goed na een blunder (dixit Serge) van zijn tegenstander. Hij had alle open lijnen, zowel voor torens als lopers en met een korte versus een lange rokade ging de aanval op de witte koning erg hard. Erop en erover. Serge kwam, zag en overwon. 0-1 voor de ‘goei’.
 
@@ -32,6 +32,6 @@ En toen begon het nagelbijten. **_Kjell_** op bord 2 kwam met wit schitterend ui
 
 En dan beten we nog veel meer en nog veel langer op onze nagels. **_Geert M._** had met zwart op bord 3 een hele partij lang een mooi gelijkopgaande stelling. Het resulteerde in een toreneindspel waarvoor het woord remise is uitgevonden. Alleen, Geert had nog maar luttele minuten op de klok. Het leek erop dat de tegenstander die tijdshandicap ten volle wou uitbuiten, hij bleef maar doorspelen. Niet ten onrechte natuurlijk, in geval van winst was het 3-3. Zover kwam het gelukkig voor ons niet. Plots stelde de Soignies-enaar (of hoe noem je een inwoner van Soignies?) zelf remise voor. Sportief! Half punt, game en match! 2,5-3,5 voor de ‘goei’. Oef, opdracht volbracht!
 
-### Naspel
+## Naspel
 
 Door deze overwinning staan we nu drie punten voor de eerste degradatieplaats. Het geeft even ademruimte en dat was meer dan nodig. Zondag is het thuis tegen Temse 2 en zij hebben krek evenveel punten als wij. Als we winnen, gaan we fluitend de winterstop in. Mannen! Smeer allemaal jullie benen maar al in.

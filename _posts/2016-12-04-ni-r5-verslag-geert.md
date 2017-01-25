@@ -2,24 +2,24 @@
 layout: verslag
 excerpt_separator: <!--more-->
 author: Geert
-ronde: 5
-thuisploeg: dworp 1
-uitploeg: temse 2
+ni_ronde: 5
+ni_thuisploeg: dworp 1
+ni_uitploeg: temse 2
 title: "Toppie, toppie, toppie!"
 description: "Winst tegen Temse 2 zou ons een zorgeloze winterslaap garanderen. De prognose is wel dat deze clash der titaantjes alle kanten uit kan. Temse 2 en Dworp hebben net evenveel match- en bordpunten."
 stelling_fen: "r1q1r3/1p4pk/p2pP1pp/2pP2b1/8/P1B3N1/1PQ5/4RBK1 w - - 1 35"
-stelling_titel: ode aan de slotpartij carlsen - karjakin
+stelling_titel: geïnspireerd door de slotpartij carlsen - karjakin
 stelling_wit: serge
 stelling_zwart: van laeken
 stelling_tekst: "jammer genoeg is de stelling niet op het bord gekomen, maar serge hoopte wel op Kh7 van zijn tegenstander. zwart koos voor een minder mooi einde dat eveneens 2 zetten later uit was. opgave: wit speelt en zet mat."
 stelling_oplossing: "35.Dxg6+! Kxg6 36.Ld3#"
 
 ---
-### Voorspel
+## Voorspel
 
 Winst tegen Temse 2 zou ons een zorgeloze winterslaap garanderen. De prognose is wel dat deze clash der titaantjes alle kanten uit kan. Temse 2 en Dworp hebben net evenveel match- en bordpunten. De Waaslanders blazen dit seizoen ook warm en koud. In ronde 2 kregen ze een 0-6 pandoering om de oren, een ronde later sloegen ze terug en blikten Europchess met 0,5-5,5 in. De samenstelling van het team kan sterk wisselen en hangt allicht af van de beschikbaarheden voor Temse 1. On verra.<!--more-->
 
-### De ontmoeting
+## De ontmoeting
 
 Het eerste punt haalde **_Diederik_** met wit op bord 5 binnen. In een Spaanse partij kwam hij al snel veel beter te staan en die lijn werd in het middenspel stijlrijk doorgetrokken. Een ‘blote’ zwarte koning, open lijnen, materiaalvoordeel… De Temsenaar verloor ‘zijn broek en zijn bretellen’ en de boeken konden toe. Een blitz-start: 1-0 voor de ‘goei’.
 
@@ -33,6 +33,6 @@ Op het laatste bord stond **_Walter_** met zwart moeilijk van bij het begin. Wit
 
 Meteen was de uitslag van de laatste ontmoeting, **_Geert M._** met wit op bord 3, van minder belang. Voor de kenners: de opening was een Zwolle in het Catalaans. Van in de opening liep het minder voor Geert M. Hij verloor al snel een stuk maar bleef wel vechten en knokken. Richard Leeuwenhart. Ondanks de materiële achterstand leken er op een bepaald moment toch tegenkansen te ontstaan: wit creëerde een vrijpion. Finaal mocht het echter niet baten, de Temsenaar bleef secuur voortzetten en haalde een punt binnen. Eindstand: 4-2 voor de ‘goei’.
 
-### Naspel
+## Naspel
 
 Een klein hoeraatje voor onszelf. Hiermee zijn we na vijf ronden en nog voor de winterstop met vijf matchpunten al quasi zeker van een verlengd verblijf in derde afdeling. We staan nu gedeeld zesde, midden in het pak, en op slechts twee punten van plek drie. Hier en daar nog eens scoren plus een beetje mazzel in de zes resterende rondes en we kunnen zelfs lonken naar een mooie ereplaats (Enfin, gelieve het zweefvliegtuig aan de grond te houden). Wellicht jammer voor ons dat de winterstop eraan komt, net nu we in de winning ‘mood’ zijn. Fijne eindejaarsfeesten!

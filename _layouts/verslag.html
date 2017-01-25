@@ -11,45 +11,37 @@ layout: compress
     <a href="#content" class="sr-only sr-only-focusable">￼doorgaan naar hoofdinhoud</a>
     {% include navbar.html %}
     <div class="container main-container" id="content" tabindex="-1">
-      <header id="top_">
+      <header id="top">
         <h1>{{ page.title | downcase }}</h1>
         <hr>
       </header>
-
       <section id="verslag">
         <div class="container">
-        <p class="pseudo-h3">{% include datum.html %}</p>
-        <p class="pseudo-h3">nationale interclubs ronde&nbsp;{{ page.ronde }}<br>{{ page.thuisploeg | downcase }} - {{ page.uitploeg | downcase }}</p>
-        <p class="pseudo-h2 auteur">door {{ page.author | downcase}}</p>
-        {{ content | downcase }}
-      </div>
-      </section>
-
-      {% if page.stelling_fen %}
-      <section id="opgave">
-        <h1>{{ page.stelling_titel | downcase }}</h1>
-        <hr>
-          <div class="container">
+          <h2>door {{ page.author | downcase}}</h2>
+          <p>{% include datum.html %}</p>
+          <p>nationale interclubs ronde&nbsp;{{ page.ni_ronde }}<br>{{ page.ni_thuisploeg | downcase }} - {{ page.ni_uitploeg | downcase }}</p>
+          {{ content | downcase }}
+          {% if page.stelling_fen and page.stelling_fen != "" %}
+          <h2>{{ page.stelling_titel | downcase }}</h2>
             <div class="row">
               <div class="col-xs-12 col-sm-6" style="padding-bottom: 15px;">
                 <div class="schaakbord center-block" id="board"></div>
+                <p class="small">fen: {{ page.stelling_fen }}</p>
               </div>
               <div class="col-xs-12 col-sm-6">
-                <p>fen: {{ page.stelling_fen }}</p>
                 <p class="lead">wit: {{ page.stelling_wit }}<br>zwart: {{ page.stelling_zwart }}</p>
-                <p class="lead">{{ page.stelling_tekst }}</p>
-                <div id="tonen"><p class="lead"><a href="#" onclick="toonOplossing();return false;">toon oplossing</a></p></div>
-                <div id="oplossing" class="hidden"><p class="lead">{{ page.stelling_oplossing }}</p></div>
-                <p class="lead"><a href="https://nl.lichess.org/analysis/_{{ page.stelling_fen | replace: " ", "_"}}" target="_blank">lichess.org analyse bord</a><p>
+                <p>{{ page.stelling_tekst }}</p>
+                <div id="tonen"><p><a href="#" onclick="toonOplossing();return false;">toon oplossing</a></p></div>
+                <div id="oplossing" class="hidden"><p>{{ page.stelling_oplossing }}</p></div>
+                <p><a href="https://nl.lichess.org/analysis/_{{ page.stelling_fen | replace: " ", "_"}}" target="_blank">lichess.org analyse bord</a><p>
               </div>
             </div>
-          </div>
+          {% endif %}
+        </div>
       </section>
-      {% endif %}
-
     </div>
     {% include footer.html %}
-    {% if page.stelling_fen %}
+    {% if page.stelling_fen and page.stelling_fen != "" %}
       <script src="{{"/scripts/post.min.js" | prepend: site.baseurl }}"></script>
       <script>
       $(document).ready(function(){
