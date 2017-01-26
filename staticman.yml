@@ -65,7 +65,7 @@ posts:
 
   # Text to be used as the commit message when pushing entries to the GitHub
   # repository.
-  commitMessage: "nieuw {fields.soort}-verslag (ronde {fields.ni_ronde}) van {fields.author} via staticman"
+  commitMessage: "nieuw verslag via staticman"
 
   transforms:
     verslag: frontmatterContent
