@@ -1,11 +1,11 @@
 ---
 _id: 3c21e070-e664-11e6-bdca-7de5d7664428
-description: ''
+description: 'Na een lange winterstop trekt de IC-ploeg zich weer op gang. De vorige twee ronden waren goed voor twee overwinningen. Het behoud in derde afdeling lijkt nu dus al in kannen en kruiken.'
 soort: ni
-ni_thuisploeg: Wavre
-ni_uitploeg: Dworp
-ni_ronde: '-6'
-title: 'Interclub ronde 6: Waver –Dworp:  Hard gevochten, broek net iets tekort'
+ni_thuisploeg: Wavre 1
+ni_uitploeg: Dworp 1
+ni_ronde: '6'
+title: 'Hard gevochten, broek net iets tekort'
 author: Geert
 stelling_fen: ''
 stelling_titel: ''
@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
 ---
 ## Voorspel
 
-Na een lange winterstop trekt de IC-ploeg zich weer op gang. De vorige twee ronden waren goed voor twee overwinningen. Het behoud in derde afdeling lijkt nu dus al in kannen en kruiken. Hier en daar nog een puntje sprokkelen en Kees is klaar. Het voordeel is ook dat we onbevangen richting Waals-Brabant trekken, naar Wavre, de leider in 3B. Niets te verliezen en niet bang. Maar wel een goeie graadmeter: wat zijn we echt waard? Hoever mogen onze ambities reiken?<!--more--> 
+Na een lange winterstop trekt de IC-ploeg zich weer op gang. De vorige twee ronden waren goed voor twee overwinningen. Het behoud in derde afdeling lijkt nu dus al in kannen en kruiken. Hier en daar nog een puntje sprokkelen en Kees is klaar. Het voordeel is ook dat we onbevangen richting Waals-Brabant trekken, naar Wavre, de leider in 3B. Niets te verliezen en niet bang. Maar wel een goeie graadmeter: wat zijn we echt waard? Hoever mogen onze ambities reiken?<!--more-->
 
 ## De ontmoeting
 
@@ -33,7 +33,7 @@ Helaas gaat het vervolgens hard mis. En wel –allicht niet toevallig- bij de tw
 
 **_Frank_** op bord 5 maakt na een periode van inactiviteit zijn wederoptreden. Hij doet het met zwier en met een Bird-opening (Spaans met Ld2) die hij kent als zijn broekzak. Dat wordt meteen ook beloond met een goed, kansrijk middenspel. Op het eerste gezicht lijkt het evenwicht wel nooit echt verstoord. Helaas, driewerf helaas, in tijdnood slaat het noodlot toe. De zwartspeler tast even mis met fatale gevolgen. De aanhouder wint evenwel: op een mooie dag komt er een einde aan een lange reeks nederlagen. Het gevolg is wel: nog steeds maar 1,5 voor ’de goei’.
 
-Gelukkig speelt ook **_Geert M._** op bord 3 mee. Al staat hij naar eigen zeggen in een vierpaardenspel met g3 van bij het begin minder en verovert de Waverse tegenstander na “nogal planloos” spel het loperpaar. Geert  blijft zich dapper weren in een partij die steeds meer wildwest wordt en open kansen biedt voor beide spelers. Met volgens Geert echter meer kans om te verliezen. Gelukkig slaagt hij erin een sterk paard op f3 te posteren en dat is meteen goed voor een half punt. Kortom en eindverdict: twee punten voor ‘de goei’. 
+Gelukkig speelt ook **_Geert M._** op bord 3 mee. Al staat hij naar eigen zeggen in een vierpaardenspel met g3 van bij het begin minder en verovert de Waverse tegenstander na “nogal planloos” spel het loperpaar. Geert  blijft zich dapper weren in een partij die steeds meer wildwest wordt en open kansen biedt voor beide spelers. Met volgens Geert echter meer kans om te verliezen. Gelukkig slaagt hij erin een sterk paard op f3 te posteren en dat is meteen goed voor een half punt. Kortom en eindverdict: twee punten voor ‘de goei’.
 
 ## Naspel
 
