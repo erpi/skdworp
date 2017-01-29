@@ -29,7 +29,7 @@ layout: compress
                 <p class="small">fen: {{ page.stelling_fen }}</p>
               </div>
               <div class="col-xs-12 col-sm-6">
-                <p class="lead">wit: {{ page.stelling_wit }}<br>zwart: {{ page.stelling_zwart }}</p>
+                <p class="lead">wit: {{ page.stelling_wit | downcase  }}<br>zwart: {{ page.stelling_zwart | downcase  }}</p>
                 <p>{{ page.stelling_uitleg }}</p>
                 <div id="tonen"><p><a href="#" onclick="toonOplossing();return false;">toon oplossing</a></p></div>
                 <div id="oplossing" class="hidden"><p>{{ page.stelling_oplossing }}</p></div>

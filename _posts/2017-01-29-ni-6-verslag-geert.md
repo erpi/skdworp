@@ -7,12 +7,13 @@ ni_uitploeg: Dworp 1
 ni_ronde: '6'
 title: 'Hard gevochten, broek net iets tekort'
 author: Geert
-stelling_fen: ''
-stelling_titel: ''
-stelling_wit: ''
-stelling_zwart: ''
-stelling_uitleg: ''
-stelling_oplossing: ''
+stelling_fen: 'r3k2r/pp1b2pp/1qnbpn2/3p2B1/3P4/2NB1N2/PP3PPP/R2Q1RK1 b - -'
+stelling_titel: 'Een fraai offer van de dame'
+stelling_wit: 'Anciaux'
+stelling_zwart: 'Serge'
+stelling_uitleg: 'wit denkt zijn pion op d4 op indirecte wijze te verdedigen met zijn loper op d3. serge heeft het anders gezien. zwart speelt en forceert remise'
+stelling_oplossing: '1... Pxd4! 2. Pxd4 Dxd4 3. Lg6+ hxg6 4. Dxd4 Lxh2+ 5. Kh1
+Lf4+ en eeuwig schaak (na 5... Le5+ 6. Dh4 Txh4+ 7. Lxh4 staat zwart waarschijnlijk zelfs iets beter)'
 date: '2017-01-29T20:48:06.462Z'
 layout: verslag
 excerpt_separator: <!--more-->
@@ -37,4 +38,4 @@ Gelukkig speelt ook **_Geert M._** op bord 3 mee. Al staat hij naar eigen zeggen
 
 ## Naspel
 
-Strijdend ten onder. Geknokt voor wat we waard zijn en afgaande op de Elootjes is de uitslag ook wel normaal te noemen. De twee sterkste teams van het hele pak hebben we nu gehad. Hen inblikken, zat er niet in. Daarvoor was onze broek wat te kort. Een beetje, niet veel en dat geeft hoop. Van alle andere ploegen in 3B hoeven we geen schrik te hebben. Te beginnen met de volgende ronde. Europchess: you beter watch out!
+Strijdend ten onder. Geknokt voor wat we waard zijn en afgaande op de Elootjes is de uitslag ook wel normaal te noemen. De twee sterkste teams van het hele pak hebben we nu gehad. Hen inblikken, zat er niet in. Daarvoor was onze broek wat te kort. Een beetje, niet veel en dat geeft hoop. Van alle andere ploegen in 3B hoeven we geen schrik te hebben. Te beginnen met de volgende ronde. Europchess: you better watch out!
