@@ -1,8 +1,8 @@
-nummer,naam,AV,sep,oct,Nov,Jan,totaal
-1,serve vanderwaeren,94,79,70,95,81,419
+nummer,naam,av,sep,okt,nov,jan,totaal
+1,serge vanderwaeren,94,79,70,95,81,419
 2,diederik lot,94,67,50,95,81,387
 3,kjell spaens,69,79,65,,,213
-4,peter debosscher,63,50,30,55,,198
+4,peter de bosscher,63,50,30,55,,198
 5,walter de reymaeker,31,,60,82,,173
 8,filip van de velde,38,33,25,,56,152
 7,eric cornelis,,33,,64,25,122
@@ -11,7 +11,7 @@ nummer,naam,AV,sep,oct,Nov,Jan,totaal
 10,mats laureys,,,,27,,27
 11,niels lerinckx,,,,27,,27
 12,sander lerinckx,,,,18,,18
-13,pieter ertveld,13,,,,,13
+13,pieter ertveldt,13,,,,,13
 17,eddy pletinckx,6,,,,6,12
 14,felix huyghe,,,,9,,9
 15,stijn beckers,,,,9,,9
