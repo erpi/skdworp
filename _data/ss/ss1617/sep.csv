@@ -1,8 +1,8 @@
-nummer,naam,1,2,3,4,5,6,7,totaal,stand,%
-1,filip van de velde,X,0,0,1,2,1,0,4,5,"33,33%"
-2,kjell spaens,2,X,"1,5",2,2,0,2,"9,5",1,"79,17%"
-3,serge vanderwaeren,2,"0,5",X,2,2,2,1,"9,5",1,"79,17%"
-4,eric cornelis,1,0,0,X,2,0,1,4,5,"33,33%"
-5,alex vonck,0,0,0,0,X,0,1,1,7,"8,33%"
-6,diederik lot,1,2,0,2,2,X,1,8,3,"66,67%"
-7,peter de bosscher,2,0,1,1,1,1,X,6,4,"50,00%"
+Nr,Naam,1,2,3,4,5,6,7,Totaal,Stand,%
+1,kjell spaens,X,1.5,0,2,2,2,2,9.5,1,79.17%
+2,serge vanderwaeren,0.5,X,2,1,2,2,2,9.5,1,79.17%
+3,diederik lot,2,0,X,1,2,1,2,8,3,66.67%
+4,peter debosscher,0,1,1,X,1,2,1,6,4,50.00%
+5,filip vandevelde,0,0,1,0,X,1,2,4,5,33.33%
+6,eric cornelis,0,0,0,1,1,X,2,4,5,33.33%
+7,alex vonck,0,0,0,1,0,0,X,1,7,8.33%
