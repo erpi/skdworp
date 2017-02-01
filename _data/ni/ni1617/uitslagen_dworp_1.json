@@ -63,12 +63,12 @@
     "ronde": "ronde 6",
     "datum": "29-01-2017",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "401 kgsrl 4", "uit": "174 brasschaat 2"},
-      {"tr": "", "ur": "", "thuis": "541 leuze 1", "uit": "261 opwijk 1"},
-      {"tr": "", "ur": "", "thuis": "518 soignies 1", "uit": "432 wetteren 2"},
-      {"tr": "", "ur": "", "thuis": "143 temse 2", "uit": "244 brussels 1"},
-      {"tr": "", "ur": "", "thuis": "952 wavre 1", "uit": "228 dworp 1"},
-      {"tr": "", "ur": "", "thuis": "226 europchess 2", "uit": "278 pantin 1"}
+      {"tr": "4", "ur": "2", "thuis": "401 kgsrl 4", "uit": "174 brasschaat 2"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "541 leuze 1", "uit": "261 opwijk 1"},
+      {"tr": "4", "ur": "2", "thuis": "518 soignies 1", "uit": "432 wetteren 2"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "143 temse 2", "uit": "244 brussels 1"},
+      {"tr": "4", "ur": "2", "thuis": "952 wavre 1", "uit": "228 dworp 1"},
+      {"tr": "3", "ur": "3", "thuis": "226 europchess 2", "uit": "278 pantin 1"}
     ]
   },
   {
