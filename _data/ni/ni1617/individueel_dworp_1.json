@@ -88,5 +88,23 @@
       {"tr": "1", "ur": "0", "tspeler": "Lot, Diederik", "uspeler": "Van Der Meiren, August", "telo": 1911, "uelo": 1635, "tstam": 9954, "ustam": 8044},
       {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "Van Geyt, Roger", "telo": 1872, "uelo": 1505, "tstam": 34584, "ustam": 32255}
     ]
+  },
+  {
+    "ronde": "6",
+    "datum": "29-01-2017",
+    "thuis": "952 Wavre 1",
+    "uit": "228 Dworp 1",
+    "tscore": 4.0,
+    "uscore": 2.0,
+    "tgem": 2059,
+    "ugem": 1923,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Anciaux, Marc", "uspeler": "Vanderwaeren, Serge", "telo": 2125, "uelo": 2214, "tstam": 92894, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Depauw, Christian", "uspeler": "Spaens, Kjell", "telo": 2099, "uelo": 1937, "tstam": 79294, "ustam": 29343},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verhaegen, Albert", "uspeler": "Maeckelbergh, Geert", "telo": 2088, "uelo": 1844, "tstam": 1473, "ustam": 43419},
+      {"tr": "1", "ur": "0", "tspeler": "Verspecht, Thierry", "uspeler": "Verrijken, Geert", "telo": 2056, "uelo": 1938, "tstam": 84255, "ustam": 62766},
+      {"tr": "1", "ur": "0", "tspeler": "Hawia, Thierry", "uspeler": "Denys, Frank", "telo": 2050, "uelo": 1917, "tstam": 46710, "ustam": 21881},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Bouchat, Xavier", "uspeler": "Van De Velde, Filip", "telo": 1937, "uelo": 1689, "tstam": 70602, "ustam": 31682}
+    ]
   }
 ]
