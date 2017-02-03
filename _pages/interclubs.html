@@ -11,7 +11,7 @@ tabs:
   - individueel
   - uitslagen
   - tussenstand
-last_modified_at: 2016-12-08
+last_modified_at: 2017-02-03
 ---
 {% assign tab = page.tabs[0] %}
 {% include tab-pane-start.html href=tab aktief=true %}
@@ -20,15 +20,18 @@ last_modified_at: 2016-12-08
 
 {% assign tab = page.tabs[1] %}
 {% include tab-pane-start.html href=tab aktief=false %}
+<p><a href="http://www.frbe-kbsb.be/index.php/interclubs" target="_blank">uitslagen nic op de site van de kbsb</a></p>
 {% include table-interclubs-indiv.html datafile=site.data.ni.ni1617.individueel_dworp_1 jaar='201' %}
 {% include tab-pane-end.html %}
 
 {% assign tab = page.tabs[2] %}
 {% include tab-pane-start.html href=tab aktief=false %}
+<p><a href="http://www.frbe-kbsb.be/index.php/interclubs" target="_blank">uitslagen nic op de site van de kbsb</a></p>
 {% include table-interclubs-uitslagen.html datafile=site.data.ni.ni1617.uitslagen_dworp_1 %}
 {% include tab-pane-end.html %}
 
 {% assign tab = page.tabs[3] %}
 {% include tab-pane-start.html href=tab aktief=false %}
+<p><a href="http://www.frbe-kbsb.be/index.php/interclubs" target="_blank">uitslagen nic op de site van de kbsb</a></p>
 {% include table-interclubs-eindstand.html datafile=site.data.ni.ni1617.tussenstand_dworp_1 %}
 {% include tab-pane-end.html %}
