@@ -4,7 +4,7 @@ description: 'Na een lange winterstop trekt de IC-ploeg zich weer op gang. De vo
 soort: ni
 ni_thuisploeg: Wavre 1
 ni_uitploeg: Dworp 1
-ni_ronde: '6'
+ronde: '6'
 title: 'Hard gevochten, broek net iets tekort'
 author: Geert
 stelling_fen: 'r3k2r/pp1b2pp/1qnbpn2/3p2B1/3P4/2NB1N2/PP3PPP/R2Q1RK1 b - -'

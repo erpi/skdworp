@@ -1,12 +1,14 @@
 <p class="">schrijf je in op onze <a href="{{ "/inschrijven-ni/" | prepend: site.baseurl }}">mailinglijst</a></p>
 {% for post in site.posts %}
-<div class="panel panel-primary">
-  <div class="panel-heading">
-    <h3 class="panel-title"><a href="{{ post.url | prepend: site.baseurl }}">ronde {{ post.ni_ronde }} - {{ post.title | downcase }}</a></h3>
-  </div>
-  <div class="panel-body">
-    {{ post.excerpt | downcase }}
-    <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary">lees meer »</a>
-  </div>
-</div>
+  {% if include.soort == post.soort %}
+    <div class="panel panel-primary">
+      <div class="panel-heading">
+        <h3 class="panel-title"><a href="{{ post.url | prepend: site.baseurl }}">ronde {{ post.ronde }} - {{ post.title | downcase }}</a></h3>
+      </div>
+      <div class="panel-body">
+        {{ post.excerpt | downcase }}
+        <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary">lees meer »</a>
+      </div>
+    </div>
+  {% endif %}
 {% endfor %}

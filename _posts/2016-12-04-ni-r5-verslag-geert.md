@@ -1,8 +1,9 @@
 ---
+soort: ni
 layout: verslag
 excerpt_separator: <!--more-->
 author: Geert
-ni_ronde: 5
+ronde: 5
 ni_thuisploeg: dworp 1
 ni_uitploeg: temse 2
 title: "Toppie, toppie, toppie!"
