@@ -1,6 +1,6 @@
 ---
 description: 'In ronde 6 van het klubkampioenschap speelde 10 man en ook al sta ik niet gekend om mijn vlotte schrijfstijl, wil ik toch proberen om deze historische avond met een klein verslagje te eren.'
-soort: kk
+tag: kk
 ronde: '6'
 title: 'Zwaargewicht'
 author: Diederik

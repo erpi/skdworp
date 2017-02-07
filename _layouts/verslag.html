@@ -19,10 +19,10 @@ layout: compress
         <div class="container">
           <h2>door {{ page.author | downcase}}</h2>
           <p>{% include datum.html %}</p>
-          {% if page.soort == "ni" %}
+          {% if page.tag == "ni" %}
           <p>nationale interclubs ronde&nbsp;{{ page.ronde }}<br>{{ page.ni_thuisploeg | downcase }} - {{ page.ni_uitploeg | downcase }}</p>
           {% endif %}
-          {% if page.soort == "kk" %}
+          {% if page.tag == "kk" %}
           <p>klubkampioenschap ronde&nbsp;{{ page.ronde }}</p>
           {% endif %}
           {{ content | downcase }}

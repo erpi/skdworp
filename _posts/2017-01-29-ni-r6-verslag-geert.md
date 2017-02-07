@@ -1,7 +1,7 @@
 ---
 _id: 3c21e070-e664-11e6-bdca-7de5d7664428
 description: 'Na een lange winterstop trekt de IC-ploeg zich weer op gang. De vorige twee ronden waren goed voor twee overwinningen. Het behoud in derde afdeling lijkt nu dus al in kannen en kruiken.'
-soort: ni
+tag: ni
 ni_thuisploeg: Wavre 1
 ni_uitploeg: Dworp 1
 ronde: '6'

@@ -1,5 +1,5 @@
 ---
-soort: ni
+tag: ni
 layout: verslag
 excerpt_separator: <!--more-->
 author: Geert
