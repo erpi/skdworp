@@ -3,7 +3,7 @@ tag: ni
 layout: verslag
 excerpt_separator: <!--more-->
 author: Geert
-ronde: 4
+ni_ronde: 4
 ni_thuisploeg: soignies 1
 ni_uitploeg: dworp 1
 title: Met de hakken over de sloot

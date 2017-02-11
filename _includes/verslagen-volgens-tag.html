@@ -3,7 +3,7 @@
   {% if include.tag == post.tag %}
     <div class="panel panel-primary">
       <div class="panel-heading">
-        <h3 class="panel-title"><a href="{{ post.url | prepend: site.baseurl }}">ronde {{ post.ronde }} - {{ post.title | downcase }}</a></h3>
+        <h3 class="panel-title"><a href="{{ post.url | prepend: site.baseurl }}">ronde {{ post.ni_ronde }}{{ post.kk_ronde }} - {{ post.title | downcase }}</a></h3>
       </div>
       <div class="panel-body">
         {{ post.excerpt | downcase }}

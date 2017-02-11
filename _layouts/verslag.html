@@ -20,10 +20,10 @@ layout: compress
           <h2>door {{ page.author | downcase}}</h2>
           <p>{% include datum.html %}</p>
           {% if page.tag == "ni" %}
-          <p>nationale interclubs ronde&nbsp;{{ page.ronde }}<br>{{ page.ni_thuisploeg | downcase }} - {{ page.ni_uitploeg | downcase }}</p>
+          <p>nationale interclubs ronde&nbsp;{{ page.ni_ronde }}<br>{{ page.ni_thuisploeg | downcase }} - {{ page.ni_uitploeg | downcase }}</p>
           {% endif %}
           {% if page.tag == "kk" %}
-          <p>klubkampioenschap ronde&nbsp;{{ page.ronde }}</p>
+          <p>klubkampioenschap ronde&nbsp;{{ page.kk_ronde }}</p>
           {% endif %}
           {{ content | downcase }}
           {% if page.stelling_fen and page.stelling_fen != "" %}
