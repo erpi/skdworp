@@ -15,7 +15,7 @@ stelling_zwart: Kjell
 stelling_uitleg: >-
   Wit staat beter maar heeft wat achterstand in ontwikkeling (Pb1 en nog geen
   rokade). En hij heeft enkele zwaktes die zwart (aan zet) subliem weet uit te buiten.
-stelling_oplossing: 1...Pxd4?! 2. Dxd4? - Tad8! en wit wint de dame wegens de matdreiging op d1
+stelling_oplossing: 1...Pxd4?! 2. Dxd4? - Tad8! en wit verliest de dame wegens de matdreiging op d1
 date: '2017-02-13T20:30:08.842Z'
 timestamp: 1487017808
 layout: verslag
