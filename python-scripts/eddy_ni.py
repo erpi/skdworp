@@ -9,6 +9,7 @@ import sys
 from collections import OrderedDict
 import re
 import datetime
+import codecs
 
 class generator:
     def __init__(self, seizoen, verbosity = False):
@@ -57,7 +58,7 @@ class generator:
                 break
             except:
                 if teams == "1234":
-                    sys.exit("Fout! Er bestaat geen bestand in de vorm van: %s !" % (self._ni_directory + self._excel_filename + "***" + self._excel_extensie))
+                    sys.exit("Fout! Er bestaat geen bestand in de vorm van: %s !" % (self._ni_directory + self._excel_filename + "***" + seizoen + self._excel_extensie))
 
     def _lees_jaren(self):
         self._jaren = [c.value for r in self._wb[self._ws_info]['B3':'B4'] for c in r]
@@ -68,7 +69,9 @@ class generator:
 
     def _verbose(self, info):
         if self._verbosity:
-            print(info)
+            if isinstance(info, unicode):
+                info = info.encode('utf-8', 'ignore')
+            print info
 
     def _html_interclubs(self, jaar1, jaar2, jaar12):
         html_string = (
@@ -117,11 +120,11 @@ class generator:
         self._schrijf_naar_bestand(self._pages_directory + self._html_indiv_output + jaar12 + ".html",
             html_string[:-1])
 
-    def _schrijf_naar_bestand(self, bestandsnaam, str):
-        self._verbose(str)
-        if str:
-            with open(bestandsnaam, 'w') as f:
-                f.write(str)
+    def _schrijf_naar_bestand(self, bestandsnaam, s, altijd_schrijven = False):
+        self._verbose(s)
+        if s or altijd_schrijven:
+            with codecs.open(bestandsnaam, 'w', encoding="utf-8") as f:
+                f.write(s)
 
     def html(self):
         jaar1 = str(self._jaren[0])
@@ -335,12 +338,12 @@ class generator:
         self._check_individuele_scores()
         self._lees_kruistabel_in()
         self._vergelijk_individueel_met_kruistabel()
-        self._schrijf_naar_bestand(self._ni_directory + "validatie.txt", self._validatie_string)
+        self._schrijf_naar_bestand(self._ni_directory + "validatie.txt", self._validatie_string, True)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="maak webpagina van Eddy zijn nationale interclubs excel-bestanden")
     parser.add_argument("seizoen", help="geef het seizoen op, bv. 'ni9394'")
-    parser.add_argument("-v", "--valideer", action="store_true",
+    parser.add_argument("-l", "--lint", action="store_true",
         help="valideer gegevens in excel-bestand")
     parser.add_argument("-m", "--html", action="store_true",
         help="maak nieuwe jekyll html-pagina")
@@ -350,7 +353,7 @@ if __name__ == "__main__":
         help="maak csv-bestand met kruistabel van ploegnummer")
     parser.add_argument("-a", "--alles", action="store_true",
         help="doe alles in eens")
-    parser.add_argument("-d", "--verbose", action="store_true",
+    parser.add_argument("-v", "--verbose", action="store_true",
         help="geef ook output in de console")
     args = parser.parse_args()
     g = generator(args.seizoen, args.verbose)
@@ -361,7 +364,7 @@ if __name__ == "__main__":
         g.json()
         g.html()
     else:
-        if args.valideer:
+        if args.lint:
             print("Valideer input in excel-bestand.")
             g.valideer()
         if args.csv:
@@ -380,6 +383,6 @@ if __name__ == "__main__":
             print("Maak html-bestanden.")
             g.html()
         # default
-        if not any((args.valideer, args.csv, args.json, args.html)):
+        if not any((args.lint, args.csv, args.json, args.html)):
             print("Valideer input in excel-bestand (default).")
             g.valideer()
