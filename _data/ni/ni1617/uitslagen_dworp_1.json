@@ -75,12 +75,12 @@
     "ronde": "ronde 7",
     "datum": "12-02-2017",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "174 brasschaat 2", "uit": "278 pantin 1"},
-      {"tr": "", "ur": "", "thuis": "228 dworp 1", "uit": "226 europchess 2"},
-      {"tr": "", "ur": "", "thuis": "244 brussels 1", "uit": "952 wavre 1"},
-      {"tr": "", "ur": "", "thuis": "432 wetteren 2", "uit": "143 temse 2"},
-      {"tr": "", "ur": "", "thuis": "261 opwijk 1", "uit": "518 soignies 1"},
-      {"tr": "", "ur": "", "thuis": "401 kgsrl 4", "uit": "541 leuze 1"}
+      {"tr": "0", "ur": "6", "thuis": "174 brasschaat 2", "uit": "278 pantin 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "228 dworp 1", "uit": "226 europchess 2"},
+      {"tr": "1", "ur": "5", "thuis": "244 brussels 1", "uit": "952 wavre 1"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "432 wetteren 2", "uit": "143 temse 2"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "261 opwijk 1", "uit": "518 soignies 1"},
+      {"tr": "0", "ur": "6", "thuis": "401 kgsrl 4", "uit": "541 leuze 1"}
     ]
   },
   {

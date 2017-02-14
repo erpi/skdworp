@@ -106,5 +106,23 @@
       {"tr": "1", "ur": "0", "tspeler": "Hawia, Thierry", "uspeler": "Denys, Frank", "telo": 2050, "uelo": 1917, "tstam": 46710, "ustam": 21881},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Bouchat, Xavier", "uspeler": "Van De Velde, Filip", "telo": 1937, "uelo": 1689, "tstam": 70602, "ustam": 31682}
     ]
+  },
+  {
+    "ronde": "7",
+    "datum": "12-02-2017",
+    "thuis": "228 Dworp 1",
+    "uit": "226 Europchess 2",
+    "tscore": 2.5,
+    "uscore": 3.5,
+    "tgem": 1960,
+    "ugem": 1949,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren, Serge", "uspeler": "Hannesson, Olafur", "telo": 2214, "uelo": 2108, "tstam": 20621, "ustam": 15623},
+      {"tr": "1", "ur": "0", "tspeler": "Spaens, Kjell", "uspeler": "Johansson, Mattias", "telo": 1937, "uelo": 2025, "tstam": 29343, "ustam": 10684},
+      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh, Geert", "uspeler": "Riksten, John", "telo": 1844, "uelo": 1993, "tstam": 43419, "ustam": 12861},
+      {"tr": "0", "ur": "1", "tspeler": "Verrijken, Geert", "uspeler": "Russian, Carlo", "telo": 1938, "uelo": 1857, "tstam": 62766, "ustam": 15518},
+      {"tr": "0", "ur": "1", "tspeler": "Denys, Frank", "uspeler": "Boe, Oeyvind", "telo": 1917, "uelo": 1877, "tstam": 21881, "ustam": 14828},
+      {"tr": "1", "ur": "0", "tspeler": "Lot, Diederik", "uspeler": "Frederiksen, Kristian Pad", "telo": 1911, "uelo": 1832, "tstam": 9954, "ustam": 60007}
+    ]
   }
 ]
