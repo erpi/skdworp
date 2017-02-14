@@ -15,7 +15,7 @@ stelling_zwart: Kjell
 stelling_uitleg: >-
   Wit staat beter maar heeft wat achterstand in ontwikkeling (Pb1 en nog geen
   rokade). En hij heeft enkele zwaktes die zwart (aan zet) subliem weet uit te buiten.
-stelling_oplossing: 1...Pxd4?! 2. Dxd4? - Tad8! en wit wint de dame wegens de matdreiging op d1
+stelling_oplossing: 1...Pxd4?! 2. Dxd4? - Tad8! en wit verliest de dame wegens de matdreiging op d1
 date: '2017-02-13T20:30:08.842Z'
 timestamp: 1487017808
 layout: verslag
@@ -37,7 +37,7 @@ Nog een half punt hebben we nodig om gelijk te spelen. Helaas hadden de beide Ge
 
 Een bord hoger, op 3 dus, hield **_Geert M._** lange tijd met de vingers in de neus stand in een gelijkopgaande stelling. Spijtig genoeg speelt ook de tijd mee. En in tijdnood blunderde Geert. De partij redden, zat er niet meer in. Jammer, jammer. 2,5 gelijk voor de goei.
 
-Dworps hoop in bange dagen lag dus bij **_Frank_** op bord 6. Helaas tastte hij van in de opening flink mis. Na acht zetten was stukverlies een feit. Frank vocht wel als een (Vlaamse) leeuw en kon met twee pionnen tegen een paard lange tijd de indruk wekken dat hij de zaak nog kon redden. Jammer genoeg verloor de tegenstander zijn koelbloedigheid en geduld niet. Finaal haalde de man van Europchess dus het volle pond binnen. Het mocht met andere woorden niet zijn: de goei verliezen met 2,5-3,5.
+Dworps hoop in bange dagen lag dus bij **_Frank_** op bord 5. Helaas tastte hij van in de opening flink mis. Na acht zetten was stukverlies een feit. Frank vocht wel als een (Vlaamse) leeuw en kon met twee pionnen tegen een paard lange tijd de indruk wekken dat hij de zaak nog kon redden. Jammer genoeg verloor de tegenstander zijn koelbloedigheid en geduld niet. Finaal haalde de man van Europchess dus het volle pond binnen. Het mocht met andere woorden niet zijn: de goei verliezen met 2,5-3,5.
 
 ## Naspel
 
