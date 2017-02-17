@@ -1,0 +1,178 @@
+[
+  {
+    "ronde": "1",
+    "datum": "08-10-1995",
+    "thuis": "228 Dworp 2",
+    "uit": "TSM Mechelen 3",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1850",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Lesage C", "telo": "1905", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Geert", "uspeler": "Van Hoof W", "telo": "1881", "uelo": "", "tstam": "43419", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Verbruggen G", "telo": "1873", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lemmens Pierre", "uspeler": "Vanderfraenen J", "telo": "1742", "uelo": "", "tstam": "43419", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "22-10-1995",
+    "thuis": "Jean Jaures Gent 3",
+    "uit": "228 Dworp 2",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "",
+    "ugem": "1861",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "van Rooijen P", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1905", "tstam": "", "ustam": "76325"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Backere Jean Pierre", "uspeler": "Verstreken Erik", "telo": "", "uelo": "1887", "tstam": "", "ustam": "9270"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Mulkers W", "uspeler": "Debast Patrick", "telo": "", "uelo": "1873", "tstam": "", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Bolca S", "uspeler": "De Bosscher Peter", "telo": "", "uelo": "1779", "tstam": "", "ustam": "655"}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "05-11-1995",
+    "thuis": "228 Dworp 2",
+    "uit": "Doorbraak Aalter",
+    "tscore": "3.5",
+    "uscore": "0.5",
+    "tgem": "1831",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Van Speybroeck Philippe", "telo": "1905", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Goethals K", "telo": "1873", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher Peter", "uspeler": "Ongenaert F", "telo": "1779", "uelo": "", "tstam": "655", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "De Smedt Jean-Pierre", "uspeler": "Van Der Borght K", "telo": "1765", "uelo": "", "tstam": "33910", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "19-11-1995",
+    "thuis": "Geraardsbergen 2",
+    "uit": "228 Dworp 2",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "",
+    "ugem": "1826",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Matthys Kris", "uspeler": "Verstreken Erik", "telo": "", "uelo": "1887", "tstam": "", "ustam": "9270"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Hauwe H", "uspeler": "Debast Patrick", "telo": "", "uelo": "1873", "tstam": "", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Lallemand Paul", "uspeler": "De Bosscher Peter", "telo": "", "uelo": "1779", "tstam": "", "ustam": "655"},
+      {"tr": "0", "ur": "1", "tspeler": "Jacob R", "uspeler": "De Smedt Jean-Pierre", "telo": "", "uelo": "1765", "tstam": "", "ustam": "33910"}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "03-12-1995",
+    "thuis": "228 Dworp 2",
+    "uit": "MSV Eeklo 4",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "1861",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Buysse P", "telo": "1905", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verstreken Erik", "uspeler": "Verstraeten J", "telo": "1887", "uelo": "", "tstam": "9270", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Verledens N", "telo": "1873", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "De Bosscher Peter", "uspeler": "De Causmaecker P", "telo": "1779", "uelo": "", "tstam": "655", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "17-12-1995",
+    "thuis": "228 Dworp 2",
+    "uit": "Ruy Lopez Gent 8",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "1861",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Speybroeck E", "telo": "1905", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Verstreken Erik", "uspeler": "Vercruyse V", "telo": "1887", "uelo": "", "tstam": "9270", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Bekaert M", "telo": "1873", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Cattoir E", "telo": "1779", "uelo": "", "tstam": "655", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "14-01-1996",
+    "thuis": "Dendermonde",
+    "uit": "228 Dworp 2",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "",
+    "ugem": "1831",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "De Vleeschauwer R", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1905", "tstam": "", "ustam": "76325"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vereecken FH", "uspeler": "Debast Patrick", "telo": "", "uelo": "1873", "tstam": "", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "De Ridder M", "uspeler": "De Bosscher Peter", "telo": "", "uelo": "1779", "tstam": "", "ustam": "655"},
+      {"tr": "1", "ur": "0", "tspeler": "De Vriendt A", "uspeler": "De Smedt Jean-Pierre", "telo": "", "uelo": "1765", "tstam": "", "ustam": "33910"}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "21-01-1996",
+    "thuis": "228 Dworp 2",
+    "uit": "Tervuren",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "1834",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Demol Patrick", "telo": "1905", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Verstreken Erik", "uspeler": "Banks Eddy", "telo": "1887", "uelo": "", "tstam": "9270", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Moens Andr\u00e9", "telo": "1779", "uelo": "", "tstam": "655", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Smedt Jean-Pierre", "uspeler": "Smets Guy", "telo": "1765", "uelo": "", "tstam": "33910", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "04-02-1996",
+    "thuis": "Mons 5",
+    "uit": "228 Dworp 2",
+    "tscore": "3.5",
+    "uscore": "0.5",
+    "tgem": "",
+    "ugem": "1808",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Levers Thierry", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1905", "tstam": "", "ustam": "76325"},
+      {"tr": "1", "ur": "0", "tspeler": "Audin Thierry", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "1881", "tstam": "", "ustam": "43419"},
+      {"tr": "1", "ur": "0", "tspeler": "Canneel Daniel", "uspeler": "De Bosscher Peter", "telo": "", "uelo": "1779", "tstam": "", "ustam": "655"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Canneel Michel", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1667", "tstam": "", "ustam": "27715"}
+    ]
+  },
+  {
+    "ronde": "10",
+    "datum": "03-03-1996",
+    "thuis": "228 Dworp 2",
+    "uit": "Lokeren 1",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1773",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Demuynck Jan", "telo": "1873", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "De Saeger Johan", "telo": "1779", "uelo": "", "tstam": "655", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Deklerck Willy", "uspeler": "Defre Willy", "telo": "1667", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Rousseau Frederik", "uspeler": "Peelman Lieven", "telo": "ng", "uelo": "", "tstam": "12769", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "11",
+    "datum": "17-03-1996",
+    "thuis": "Opwijk 1",
+    "uit": "228 Dworp 2",
+    "tscore": "4",
+    "uscore": "0",
+    "tgem": "",
+    "ugem": "1802",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Rogiers Jan", "uspeler": "Verstreken Erik", "telo": "", "uelo": "1887", "tstam": "", "ustam": "9270"},
+      {"tr": "1", "ur": "0", "tspeler": "Verhasselt Kris", "uspeler": "Debast Patrick", "telo": "", "uelo": "1873", "tstam": "", "ustam": "76333"},
+      {"tr": "1", "ur": "0", "tspeler": "Valcke Rudy", "uspeler": "De Bosscher Peter", "telo": "", "uelo": "1779", "tstam": "", "ustam": "655"},
+      {"tr": "1", "ur": "0", "tspeler": "De Bie G", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1667", "tstam": "", "ustam": "27715"}
+    ]
+  }
+]

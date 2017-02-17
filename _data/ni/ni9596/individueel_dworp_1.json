@@ -1,0 +1,178 @@
+[
+  {
+    "ronde": "1",
+    "datum": "08-10-1995",
+    "thuis": "228 Dworp 1",
+    "uit": "Carni\u00e8res",
+    "tscore": "3",
+    "uscore": "1",
+    "tgem": "1908",
+    "ugem": "",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Taelemans Werner", "uspeler": "De Muynck D", "telo": "1958", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Denivet A", "telo": "1891", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "De Pauw D", "telo": "1876", "uelo": "", "tstam": "353", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "Fosset F", "telo": "ng", "uelo": "", "tstam": "26816", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "22-10-1995",
+    "thuis": "Binche",
+    "uit": "228 Dworp 1",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "",
+    "ugem": "1908",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Szklanecki S", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1958", "tstam": "", "ustam": "2283"},
+      {"tr": "1", "ur": "0", "tspeler": "Serrure G", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1891", "tstam": "", "ustam": "76317"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Brouwer P", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1876", "tstam": "", "ustam": "353"},
+      {"tr": "0", "ur": "1", "tspeler": "Lasse D", "uspeler": "van Duuren Louis", "telo": "", "uelo": "ng", "tstam": "", "ustam": "26816"}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "05-11-1995",
+    "thuis": "228 Dworp 1",
+    "uit": "Roque 4",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "1908",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "Vandenhove A", "telo": "1958", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Vanderhelstraete Luc", "telo": "1891", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Mieke", "uspeler": "Vanderhelstraete Jean Jacques", "telo": "1876", "uelo": "", "tstam": "353", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "van Duuren Louis", "uspeler": "Sutherland D", "telo": "ng", "uelo": "", "tstam": "26816", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "19-11-1995",
+    "thuis": "Ludisan 2",
+    "uit": "228 Dworp 1",
+    "tscore": "3",
+    "uscore": "1",
+    "tgem": "",
+    "ugem": "1908",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Degembre P", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1958", "tstam": "", "ustam": "2283"},
+      {"tr": "0", "ur": "1", "tspeler": "Laurent M", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1891", "tstam": "", "ustam": "76317"},
+      {"tr": "1", "ur": "0", "tspeler": "Oger Daniel", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1876", "tstam": "", "ustam": "353"},
+      {"tr": "1", "ur": "0", "tspeler": "Dethy D", "uspeler": "van Duuren Louis", "telo": "", "uelo": "ng", "tstam": "", "ustam": "26816"}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "03-12-1995",
+    "thuis": "228 Dworp 1",
+    "uit": "La Louvi\u00e8re",
+    "tscore": "4",
+    "uscore": "0",
+    "tgem": "1908",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "Gorczyca X", "telo": "1958", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis Eric", "uspeler": "Giansante P", "telo": "1891", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "Maesfranckx P", "telo": "1876", "uelo": "", "tstam": "353", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "Del Moleno A", "telo": "ng", "uelo": "", "tstam": "26816", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "17-12-1995",
+    "thuis": "228 Dworp 1",
+    "uit": "CRE Charleroi 3",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1908",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "Dubuisson A", "telo": "1958", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Pieropan L", "telo": "1891", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Mieke", "uspeler": "George M", "telo": "1876", "uelo": "", "tstam": "353", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "(forfait)", "telo": "ng", "uelo": "", "tstam": "26816", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "14-01-1996",
+    "thuis": "Lessines 1",
+    "uit": "228 Dworp 1",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "",
+    "ugem": "1839",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "(forfait)", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1958", "tstam": "", "ustam": "2283"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Masure Luc", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1891", "tstam": "", "ustam": "76317"},
+      {"tr": "1", "ur": "0", "tspeler": "Knudde F", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1667", "tstam": "", "ustam": "27715"},
+      {"tr": "1", "ur": "0", "tspeler": "Verbeque Ren\u00e9", "uspeler": "van Duuren Louis", "telo": "", "uelo": "ng", "tstam": "", "ustam": "26816"}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "21-01-1996",
+    "thuis": "228 Dworp 1",
+    "uit": "Fous du Roy 2",
+    "tscore": "3",
+    "uscore": "1",
+    "tgem": "1776",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "De Smet Karl", "telo": "1958", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Macai Ioan", "telo": "1891", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Deklerck Willy", "uspeler": "Gervais Jacques", "telo": "1667", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Van der Voorde Sonja", "uspeler": "San Lorenzo Nordine", "telo": "1587", "uelo": "", "tstam": "43346", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "04-02-1996",
+    "thuis": "Mons 4",
+    "uit": "228 Dworp 1",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "",
+    "ugem": "1908",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vandervorst Marc", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1958", "tstam": "", "ustam": "2283"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Pitropakis Kyriakos", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1891", "tstam": "", "ustam": "76317"},
+      {"tr": "1", "ur": "0", "tspeler": "Degrave Geoffry", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1876", "tstam": "", "ustam": "353"},
+      {"tr": "0", "ur": "1", "tspeler": "Noe Philippe", "uspeler": "van Duuren Louis", "telo": "", "uelo": "ng", "tstam": "", "ustam": "26816"}
+    ]
+  },
+  {
+    "ronde": "10",
+    "datum": "03-03-1996",
+    "thuis": "228 Dworp 1",
+    "uit": "521 Tournai",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1828",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Taelemans Werner", "uspeler": "Vandecasteele Louis", "telo": "1958", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Decellier Patrick", "telo": "1891", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "Serifi Bafkar", "telo": "1876", "uelo": "", "tstam": "353", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van der Voorde Sonja", "uspeler": "Gosseye Christophe", "telo": "1587", "uelo": "", "tstam": "43346", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "11",
+    "datum": "17-03-1996",
+    "thuis": "Montagnard 2",
+    "uit": "228 Dworp 1",
+    "tscore": "0",
+    "uscore": "4",
+    "tgem": "",
+    "ugem": "1908",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "(forfait)", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1958", "tstam": "", "ustam": "2283"},
+      {"tr": "0", "ur": "1", "tspeler": "Courbot Luc", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1891", "tstam": "", "ustam": "76317"},
+      {"tr": "0", "ur": "1", "tspeler": "Courbot Jean-Luc", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1876", "tstam": "", "ustam": "353"},
+      {"tr": "0", "ur": "1", "tspeler": "(forfait)", "uspeler": "van Duuren Louis", "telo": "", "uelo": "ng", "tstam": "", "ustam": "26816"}
+    ]
+  }
+]
