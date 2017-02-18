@@ -75,12 +75,12 @@
     "ronde": "ronde 7",
     "datum": "17-02-2017",
     "partijen": [
-      {"wr": "", "zr": "", "wit": "yves baert", "zwart": "stijn bertrand"},
-      {"wr": "", "zr": "", "wit": "geert verrijken", "zwart": "robert huysman"},
+      {"wr": "0", "zr": "1", "wit": "yves baert", "zwart": "stijn bertrand"},
+      {"wr": "1", "zr": "0", "wit": "geert verrijken", "zwart": "robert huysman"},
       {"wr": "", "zr": "", "wit": "serge vanderwaeren", "zwart": "diederik lot"},
-      {"wr": "", "zr": "", "wit": "kjell spaens", "zwart": "walter de reymaeker"},
-      {"wr": "", "zr": "", "wit": "filip van de velde", "zwart": "bernard malfliet"},
-      {"wr": "", "zr": "", "wit": "peter de bosscher", "zwart": "eric cornelis"}
+      {"wr": "0.5", "zr": "0.5", "wit": "kjell spaens", "zwart": "walter de reymaeker"},
+      {"wr": "0.5", "zr": "0.5", "wit": "filip van de velde", "zwart": "bernard malfliet"},
+      {"wr": "0.5", "zr": "0.5", "wit": "peter de bosscher", "zwart": "eric cornelis"}
     ]
   },
   {
