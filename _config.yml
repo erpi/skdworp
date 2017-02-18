@@ -50,6 +50,9 @@ compress_html:
   profile: false
   startings: []
 collections:
+  archief_ni:
+    output: true
+    permalink: /archief/:path/
   elo:
     output: true
 defaults:
@@ -58,5 +61,12 @@ defaults:
       type: elo
     values:
       layout: elo
+      noindex: true
+      sitemap: false
+  - scope:
+      path: ""
+      type: archief_ni
+    values:
+      layout: interclubs
       noindex: true
       sitemap: false

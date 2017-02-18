@@ -16,7 +16,7 @@ class generator:
         # definieer namen van bestanden en mappen
         self._ni_directory = "../_data/ni/" + seizoen + "/"
         self._verbosity = verbosity
-        self._pages_directory = "../_pages/"
+        self._pages_directory = "../_archief_ni/"
         self._excel_filename = "individueel_eindstand_dworp_"
         self._excel_extensie = ".xlsx"
         self._csv_output = "eindstand_dworp_"
@@ -76,26 +76,31 @@ class generator:
     def _html_interclubs(self, jaar1, jaar2, jaar12):
         html_string = (
             "---\n"
-            "layout: pills\n"
             "title: Nationale Interclubs {0} - {1}\n"
-            "description: Dworpse Schaakkring. Uitslagen en eindstand nationale interclubs {0} - {1}.\n"
-            "permalink: /archief/interclubs-{2}/\n"
-            "last_modified_at: {3}\n"
-            "tabs:\n"
-            ).format(jaar1, jaar2, jaar12, datetime.datetime.today().strftime('%Y-%m-%d'))
-        for ploeg in self._ploegen:
-            html_string += "  - eindstand %s\n" % (self._reeksen[ploeg].lower(),)
-        html_string += "---\n"
-        for ploeg in self._ploegen:
-            html_string += (
-                "{{% assign tab = page.tabs[{0}] %}}\n"
-                "{{% include tab-pane-start.html href=tab aktief={1} %}}\n"
-                "{{% include table-interclubs-eindstand.html datafile=site.data.ni.ni{2}.eindstand_dworp_{3} %}}\n"
-                "{{% include tab-pane-end.html %}}\n\n"
-                ).format(ploeg, str(not ploeg).lower(), jaar12, ploeg + 1)
+            "beginjaar: {0}\n"
+            "---\n"
+            ).format(jaar1, jaar2)
+        # html_string = (
+        #     "---\n"
+        #     "layout: pills\n"
+        #     "title: Nationale Interclubs {0} - {1}\n"
+        #     "description: Dworpse Schaakkring. Uitslagen en eindstand nationale interclubs {0} - {1}.\n"
+        #     "permalink: /archief/interclubs-{2}/\n"
+        #     "last_modified_at: {3}\n"
+        #     "tabs:\n"
+        #     ).format(jaar1, jaar2, jaar12, datetime.datetime.today().strftime('%Y-%m-%d'))
+        # for ploeg in self._ploegen:
+        #     html_string += "  - eindstand %s\n" % (self._reeksen[ploeg].lower(),)
+        # html_string += "---\n"
+        # for ploeg in self._ploegen:
+        #     html_string += (
+        #         "{{% assign tab = page.tabs[{0}] %}}\n"
+        #         "{{% include tab-pane-start.html href=tab aktief={1} %}}\n"
+        #         "{{% include table-interclubs-eindstand.html datafile=site.data.ni.ni{2}.eindstand_dworp_{3} %}}\n"
+        #         "{{% include tab-pane-end.html %}}\n\n"
+        #         ).format(ploeg, str(not ploeg).lower(), jaar12, ploeg + 1)
         self._schrijf_naar_bestand(self._pages_directory + self._html_output + jaar12 + ".html",
-            html_string[:-1])
-        bestandsnaam = self._pages_directory + self._html_output + jaar12 + ".html"
+            html_string)
 
     def _html_interclubs_individueel(self, jaar1, jaar2, jaar12):
         html_string = (
@@ -131,7 +136,7 @@ class generator:
         jaar2 = str(self._jaren[1])
         jaar12 = jaar1[2:] + jaar2[2:]
         self._html_interclubs(jaar1, jaar2, jaar12)
-        self._html_interclubs_individueel(jaar1, jaar2, jaar12)
+        # self._html_interclubs_individueel(jaar1, jaar2, jaar12)
 
     def csv(self, ploeg = 0):
         if ploeg:
@@ -165,7 +170,7 @@ class generator:
             if rijen[-1][1] == 'team':
                 rijen = []
             # schrijf csv-bestand
-            bestandsnaam = self._ni_directory + self._csv_output + str(p + 1) + ".csv"
+            bestandsnaam = self._ni_directory + self._csv_output + str(p + 1) + "_" + self._reeksen[p].lower() + ".csv"
             self._verbose(rijen)
             if rijen:
                 with open(bestandsnaam, 'wb') as csvfile:
@@ -233,7 +238,7 @@ class generator:
                 ''', re.VERBOSE)
             json_string = r.sub(r'\1\2 \3 \4 \5 \6 \7 \8 \9\10', json_string)
             if json_string != '[]':
-                self._schrijf_naar_bestand(self._ni_directory + self._json_output + str(p + 1) + ".json",
+                self._schrijf_naar_bestand(self._ni_directory + self._json_output + str(p + 1) + "_" + self._reeksen[p].lower() + ".json",
                     json_string)
 
     def _lees_kruistabel_in(self):

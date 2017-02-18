@@ -1,0 +1,34 @@
+---
+layout: default
+---
+{% capture submap %}ni{{ page.beginjaar | slice: 2, 2 }}{{ page.beginjaar | plus: 1 | slice: 2, 2 }}{% endcapture %}
+{% assign gesorteerde_bestanden = site.data.ni[submap] | sort %}
+<ul class="nav nav-pills">
+  {% for bestand in gesorteerde_bestanden %}
+  {% assign tab = bestand[0] | remove: "_dworp_1" | remove: "_dworp_2" | remove: "_dworp_3" | remove: "_dworp_4" | replace: "_", " " %}
+  {% assign tabs = tabs | append: tab | append: "," %}
+  <li{% if forloop.index == 1 %} class="active"{% endif %}>
+    <a data-toggle="pill" href="#{{ tab | replace: " ", "-" }}">{{ tab | replace: "_", " " }}</a>
+  </li>
+  {% endfor %}
+</ul>
+{% assign tabs = tabs | split: "," %}
+<div class="tab-content">
+{% for bestand in gesorteerde_bestanden %}
+  {% assign tab = tabs[forloop.index0] | replace: " ", "-" %}
+  {% if forloop.first %}
+    {% include tab-pane-start.html href=tab aktief=true %}
+  {% else %}
+    {% include tab-pane-start.html href=tab aktief=false %}
+  {% endif %}
+  {% assign data = bestand[1] %}
+  {% if bestand[0] contains "eindstand" %}
+    {% include table-interclubs-eindstand.html datafile=data %}
+  {% elsif bestand[0] contains "individueel" %}
+    {% include table-interclubs-indiv.html datafile=data jaar='' %}
+  {% elsif bestand[0] contains "uitslagen" %}
+    {% include table-interclubs-uitslagen.html datafile=data %}
+  {% endif %}
+  {% include tab-pane-end.html %}
+{% endfor %}
+</div>

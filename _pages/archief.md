@@ -17,37 +17,9 @@ last_modified_at: 2017-01-18
 
 ## nationale interclubs
 
-- [2015 - 2016](/archief/interclubs-1516/)
-- [2014 - 2015](/archief/interclubs-1415/)
-- [2013 - 2014](/archief/interclubs-1314/)
-- [2012 - 2013](/archief/interclubs-1213/)
-- [2011 - 2012](/archief/interclubs-1112/)
-- [2010 - 2011](/archief/interclubs-1011/)
-- [1995 - 1996](/archief/interclubs-9596/)
-- [1994 - 1995](/archief/interclubs-9495/)
-- [1993 - 1994](/archief/interclubs-9394/)
-- [1992 - 1993](/archief/interclubs-9293/)
-- [1991 - 1992](/archief/interclubs-9192/)
-- [1990 - 1991](/archief/interclubs-9091/)
-- [1989 - 1990](/archief/interclubs-8990/)
-- [1988 - 1989](/archief/interclubs-8889/)
-
-## individuele uitslagen interclubs
-
-- [2015 - 2016](/archief/interclubs-indiv-1516/)
-- [2014 - 2015](/archief/interclubs-indiv-1415/)
-- [2013 - 2014](/archief/interclubs-indiv-1314/)
-- [2012 - 2013](/archief/interclubs-indiv-1213/)
-- [2011 - 2012](/archief/interclubs-indiv-1112/)
-- [2010 - 2011](/archief/interclubs-indiv-1011/)
-- [1995 - 1996](/archief/interclubs-indiv-9596/)
-- [1994 - 1995](/archief/interclubs-indiv-9495/)
-- [1993 - 1994](/archief/interclubs-indiv-9394/)
-- [1992 - 1993](/archief/interclubs-indiv-9293/)
-- [1991 - 1992](/archief/interclubs-indiv-9192/)
-- [1990 - 1991](/archief/interclubs-indiv-9091/)
-- [1989 - 1990](/archief/interclubs-indiv-8990/)
-- [1988 - 1989](/archief/interclubs-indiv-8889/)
+{% assign archief_ni = site.archief_ni | sort: "beginjaar" %}
+{% for archief in archief_ni reversed %}
+- [{{ archief.beginjaar }} - {{ archief.beginjaar | plus: 1 }}]({{ archief.url }}){% endfor %}
 
 ## snelschaak
 
