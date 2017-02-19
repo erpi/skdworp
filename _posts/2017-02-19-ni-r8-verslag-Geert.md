@@ -1,6 +1,6 @@
 ---
 _id: eb8215d0-f6ea-11e6-a223-49c618b6b1b6
-description: ''
+description: 'Na een mindere prestatie in de vorige ronde gingen we op zoek naar eerherstel. Het zou geen sinecure worden tegen het sterke Pantin dat aantrad met een ploeggemiddelde van 2082 Elo.'
 tag: ni
 ni_thuisploeg: Pantin 1
 ni_uitploeg: Dworp 1
@@ -13,11 +13,11 @@ stelling_titel: Open lijnen en sterke torens
 stelling_wit: Vanobbergh
 stelling_zwart: Geert V.
 stelling_uitleg: >-
-  Wit gaat geforceerd mat indien hij besluit om met de Dc3 de pion op f6 te
-  slaan. In de partij speelde hij cd5 waarna de stelling in remise verzandde.
+  wit gaat geforceerd mat indien hij besluit om met de dame de pion op f6 te
+  slaan. in de partij speelde hij cxd5 waarna de stelling in remise verzandde.
 stelling_oplossing: >-
-  1. Dc3xf6 - Tg8xg3! 2. hg3 - Dc7xg3+ 3. Kg1-h1 Dg3-h3+ 4. Pf3-h2 Lb6-c7 5.
-  f2-f4 Te4-e2 en mat is onvermijdelijk
+  1. Dxf6? Txg3! 2. hxg3 Dxg3+ 3. Kh1 Dh3+ 4. Ph2 Lc7! 5.
+  f4 Te2! en mat is onvermijdelijk
 date: '2017-02-19T21:32:31.992Z'
 timestamp: 1487539951
 layout: verslag
@@ -41,6 +41,6 @@ Daarna haalde **_Geert V._** op bord 3 gelukkig nog een halfje binnen met de zwa
 
 En dan begon het lange wachten op **_Frank_**. Hij kreeg een sterke aanvalsstelling, ging dan wellicht iets te passief acteren maar zag zijn spel finaal toch beloond met een florissante, kansrijke stelling. Met een toren en twee pionnen tegen loper plus toren bleef het evenwel zeer moeilijk manoeuvreren. Ondanks tijdnood maakte de Pantin-speler geen fouten meer. Wel integendeel, Frank verloor zijn twee pluspionnen. Het halve punt kwam gelukkig niet meer in gevaar. 1,5 uit 6 haalden de goei deze keer.
 
-##Naspel
+## Naspel
 
 Het heeft er nimmer ingezeten en dat was tegen een straffe tegenstander ook geen oneer. En aangezien we nooit op punten gerekend hadden, was de ontgoocheling achteraf ook niet al te groot. Bovendien, hoera, hoera, hoera: Frank heeft een lange negatieve reeks eindelijk doorbroken en een halfje gescoord (congrats!). Een positieve noot om te eindigen dus en nu op naar de volgende ronde. Winst tegen Brasschaat 2 is dan een haalbare kaart.
