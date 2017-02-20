@@ -13,11 +13,13 @@ stelling_titel: Open lijnen en sterke torens
 stelling_wit: Vanobbergh
 stelling_zwart: Geert V.
 stelling_uitleg: >-
-  wit gaat geforceerd mat indien hij besluit om met de dame de pion op f6 te
+  wit komt in de problemen indien hij besluit om met de dame de pion op f6 te
   slaan. in de partij speelde hij cxd5 waarna de stelling in remise verzandde.
+  waarom is 1. Dxf6 Txg3! 2. hxg3 foutief voor wit?
 stelling_oplossing: >-
-  1. Dxf6? Txg3! 2. hxg3 Dxg3+ 3. Kh1 Dh3+ 4. Ph2 Lc7! 5.
-  f4 Te2! en mat is onvermijdelijk
+  1. Dxf6? Txg3! 2. hxg3?? Dxg3+ 3. Kh1 Dh3+ 4. Ph2 Lc7! 5. f4 Te2! en mat is
+  onvermijdelijk. in plaats van 2. hxg3 kan wit best 2. Kh1 spelen, waarna zwart
+  nog 2... Tg8! met de dreiging Tf4 moet vinden.
 date: '2017-02-19T21:32:31.992Z'
 timestamp: 1487539951
 layout: verslag
