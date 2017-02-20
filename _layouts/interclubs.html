@@ -1,25 +1,81 @@
 ---
 layout: default
 ---
+{% comment %}
+we onderzoeken eerst of er interclubs-verslagen zijn voor het betreffende seizoen.
+indien wel, dan wordt de variabele "posts" op "true" gezet.
+een seizoen start en eindigt op 1 september
+{% endcomment %}
+{% capture begintijd %}{{ page.beginjaar }}-09-01{% endcapture %}
+{% capture eindtijd %}{{ page.beginjaar | plus: 1 }}-09-01{% endcapture %}
+{% assign begintijd = begintijd | date: '%s' | to_integer %}
+{% assign eindtijd = eindtijd | date: '%s' | to_integer %}
+{% assign posts = false %}
+{% assign verslagen = site.posts | where:"tag","ni" %}
+{% for verslag in verslagen reversed %}
+  {% assign posttijd = verslag.date | date: '%s' | to_integer %}
+  {% if posttijd > eindtijd %}
+    {% break %}
+  {% elsif posttijd < begintijd %}
+    {% continue %}
+  {% else %}
+    {% assign posts = true %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% comment %}
+maak een variabele "submap" om de juiste interclubs map te zoeken in de directory _data/ni/
+bv. "2016" als waarde voor beginjaar geeft als waarde voor submap "ni1617"
+{% endcomment %}
 {% capture submap %}ni{{ page.beginjaar | slice: 2, 2 }}{{ page.beginjaar | plus: 1 | slice: 2, 2 }}{% endcapture %}
 {% assign gesorteerde_bestanden = site.data.ni[submap] | sort %}
 <ul class="nav nav-pills">
+  {% if posts %}
+  {% comment %}
+  er zijn verslagen, dus we moeten een extra tabblad "verslagen" maken
+  {% endcomment %}
+  <li class="active">
+    <a data-toggle="pill" href="#verslagen">verslagen</a>
+  </li>
+  {% endif %}
+  {% comment %}
+  we maken de namen voor de overige tabs op basis van de bestandsnamen in de data directory
+  bv. "eindstand_dworp_1_3b.csv" geeft als waarde voor "tab" "eindstand 3b"
+  we steken al deze waarden in de array "tabs" om ze later te hergebruiken
+  {% endcomment %}
+  {% assign tabs = "" | split: "," %}
   {% for bestand in gesorteerde_bestanden %}
   {% assign tab = bestand[0] | remove: "_dworp_1" | remove: "_dworp_2" | remove: "_dworp_3" | remove: "_dworp_4" | replace: "_", " " %}
-  {% assign tabs = tabs | append: tab | append: "," %}
-  <li{% if forloop.index == 1 %} class="active"{% endif %}>
-    <a data-toggle="pill" href="#{{ tab | replace: " ", "-" }}">{{ tab | replace: "_", " " }}</a>
+  {% assign tabs = tabs | push: tab %}
+  <li{% if posts == false and forloop.first %} class="active"{% endif %}>
+    <a data-toggle="pill" href="#{{ tab | slugify }}">{{ tab }}</a>
   </li>
   {% endfor %}
 </ul>
-{% assign tabs = tabs | split: "," %}
+
 <div class="tab-content">
+{% if posts %}
+  {% include tab-pane-start.html href='verslagen' aktief=true %}
+  {% include verslagen-volgens-tag.html begintijd=begintijd eindtijd=eindtijd tag="ni" %}
+  {% include tab-pane-end.html %}
+{% endif %}
+
 {% for bestand in gesorteerde_bestanden %}
-  {% assign tab = tabs[forloop.index0] | replace: " ", "-" %}
-  {% if forloop.first %}
+
+  {% assign tab = tabs[forloop.index0] | slugify %}
+  {% if posts %}
+    {% include tab-pane-start.html href=tab aktief=false %}
+  {% elsif forloop.first %}
     {% include tab-pane-start.html href=tab aktief=true %}
   {% else %}
     {% include tab-pane-start.html href=tab aktief=false %}
+  {% endif %}
+
+  {% capture nu %}{{ 'now' | date: '%s' }}{% endcapture %}
+  {% assign nu = nu | to_integer %}
+  {% if nu < eindtijd %}
+  <p><a href="http://www.frbe-kbsb.be/index.php/interclubs" target="_blank">uitslagen nic op de site van de kbsb</a></p>
   {% endif %}
   {% assign data = bestand[1] %}
   {% if bestand[0] contains "eindstand" %}
@@ -28,7 +84,10 @@ layout: default
     {% include table-interclubs-indiv.html datafile=data jaar='' %}
   {% elsif bestand[0] contains "uitslagen" %}
     {% include table-interclubs-uitslagen.html datafile=data %}
+  {% elsif bestand[0] contains "tussenstand" %}
+    {% include table-interclubs-eindstand.html datafile=data %}
   {% endif %}
+
   {% include tab-pane-end.html %}
 {% endfor %}
 </div>

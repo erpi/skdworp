@@ -3,7 +3,7 @@ layout: default
 title: Tornooiarchief
 description: Tornooiarchief van de Dworpse Schaakkring.
 permalink: /archief/
-last_modified_at: 2017-01-18
+last_modified_at: 2017-02-20
 ---
 ## klubkampioenschap
 
@@ -17,7 +17,7 @@ last_modified_at: 2017-01-18
 
 ## nationale interclubs
 
-{% assign archief_ni = site.archief_ni | sort: "beginjaar" %}
+{% assign archief_ni = site.interclubs | sort: "beginjaar" | pop %}
 {% for archief in archief_ni reversed %}
 - [{{ archief.beginjaar }} - {{ archief.beginjaar | plus: 1 }}]({{ archief.url }}){% endfor %}
 
