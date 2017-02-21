@@ -56,6 +56,9 @@ collections:
   inzet:
     output: true
     permalink: /archief/:path/
+  klubkampioenschap:
+    output: true
+    permalink: /archief/:path/
   memorial:
     output: true
     permalink: /:path/
@@ -82,6 +85,13 @@ defaults:
       type: inzet
     values:
       layout: inzet
+      noindex: true
+      sitemap: false
+  - scope:
+      path: ""
+      type: klubkampioenschap
+    values:
+      layout: klubkampioenschap
       noindex: true
       sitemap: false
   - scope:

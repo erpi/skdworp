@@ -3,12 +3,13 @@ layout: default
 title: Tornooiarchief
 description: Tornooiarchief van de Dworpse Schaakkring.
 permalink: /archief/
-last_modified_at: 2017-02-20
+last_modified_at: 2017-02-21
 ---
 ## klubkampioenschap
 
-- [2015 - 2016](/archief/klubkampioenschap-1516/)
-- [2014 - 2015](/archief/klubkampioenschap-1415/)
+{% assign archief_kk = site.klubkampioenschap | sort: "beginjaar" | pop %}
+{% for archief in archief_kk reversed %}
+- [{{ archief.beginjaar }} - {{ archief.beginjaar | plus: 1 }}]({{ archief.url }}){% endfor %}
 
 ## prijs van de inzet
 

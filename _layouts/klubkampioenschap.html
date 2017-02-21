@@ -1,0 +1,81 @@
+---
+layout: default
+---
+{% comment %}
+we onderzoeken eerst of er kk-verslagen zijn voor het betreffende seizoen.
+indien wel, dan wordt de variabele "posts" op "true" gezet.
+een seizoen start en eindigt op 1 september
+{% endcomment %}
+{% capture begintijd %}{{ page.beginjaar }}-09-01{% endcapture %}
+{% capture eindtijd %}{{ page.beginjaar | plus: 1 }}-09-01{% endcapture %}
+{% assign begintijd = begintijd | date: '%s' | to_integer %}
+{% assign eindtijd = eindtijd | date: '%s' | to_integer %}
+{% assign posts = false %}
+{% assign verslagen = site.posts | where:"tag","kk" %}
+{% for verslag in verslagen reversed %}
+  {% assign posttijd = verslag.date | date: '%s' | to_integer %}
+  {% if posttijd > eindtijd %}
+    {% break %}
+  {% elsif posttijd < begintijd %}
+    {% continue %}
+  {% else %}
+    {% assign posts = true %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% comment %}
+maak een variabele "submap" om de juiste kk map te zoeken in de directory _data/kk/
+bv. "2016" als waarde voor beginjaar geeft als waarde voor submap "kk1617"
+{% endcomment %}
+{% capture submap %}kk{{ page.beginjaar | slice: 2, 2 }}{{ page.beginjaar | plus: 1 | slice: 2, 2 }}{% endcapture %}
+{% assign bestanden = site.data.kk[submap] | sort %}
+<ul class="nav nav-pills">
+  {% if posts %}
+  {% comment %}
+  een extra tabblad "verslagen" maken
+  {% endcomment %}
+  <li class="active">
+    <a data-toggle="pill" href="#verslagen">verslagen</a>
+  </li>
+  {% endif %}
+  {% comment %}
+  we maken de namen voor de overige tabs op basis van de bestandsnamen in de data directory
+  {% endcomment %}
+  {% for bestand in bestanden %}
+  {% assign tab = bestand[0] %}
+  <li{% if posts == false and forloop.first %} class="active"{% endif %}>
+    <a data-toggle="pill" href="#{{ tab }}">{{ tab }}</a>
+  </li>
+  {% endfor %}
+</ul>
+<div class="tab-content">
+{% if posts %}
+  {% include tab-pane-start.html href='verslagen' aktief=true %}
+  {% include verslagen-volgens-tag.html begintijd=begintijd eindtijd=eindtijd tag="kk" %}
+  {% include tab-pane-end.html %}
+{% endif %}
+
+{% for bestand in bestanden %}
+
+  {% assign tab = bestand[0] %}
+  {% if posts %}
+    {% include tab-pane-start.html href=tab aktief=false %}
+  {% elsif forloop.first %}
+    {% include tab-pane-start.html href=tab aktief=true %}
+  {% else %}
+    {% include tab-pane-start.html href=tab aktief=false %}
+  {% endif %}
+
+  {% assign data = bestand[1] %}
+  {% if bestand[0] contains "uitslagen" %}
+    {% include table-klubkampioenschap.html datafile=data jaar="" %}
+  {% elsif bestand[0] contains "eindstand" %}
+    {% include table-eindstand.html datafile=data %}
+  {% elsif bestand[0] contains "tussenstand" %}
+    {% include table-eindstand.html datafile=data %}
+  {% endif %}
+
+  {% include tab-pane-end.html %}
+{% endfor %}
+</div>
