@@ -1,0 +1,20 @@
+<div class="table-responsive">
+  <table class="table table-condensed">
+    <thead>
+      <tr>
+        {% for kolom in include.datafile[0] %}
+        <th>{% if forloop.index > 1 %}{{ kolom[0] | downcase }}{% else %}<span class="sr-only">{{ kolom[0] | downcase }}</span>{% endif %}</th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+      {% for persoon in include.datafile %}
+      <tr>
+        {% for kolom in persoon %}
+        <td>{{ kolom[1] | downcase }}</td>
+        {% endfor %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>

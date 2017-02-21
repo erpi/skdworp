@@ -1,0 +1,39 @@
+---
+layout: default
+---
+{% capture submap %}mm{{ page.jaar }}{% endcapture %}
+{% assign bestanden = site.data.mm[submap] | sort %}
+<ul class="nav nav-pills">
+  {% assign tabs = "" | split: "," %}
+  {% for bestand in bestanden %}
+    {% assign tab = bestand[0] %}
+    {% if tab contains "eindstand" %}
+      {% assign tab = "einduitslag tornooi" %}
+    {% elsif tab contains "svb" %}
+      {% assign tab = "kampioenschap svb" %}
+    {% endif %}
+    {% assign tabs = tabs | push: tab %}
+    <li{% if forloop.first %} class="active"{% endif %}>
+      <a data-toggle="pill" href="#{{ tab | slugify }}">{{ tab }}</a>
+    </li>
+  {% endfor %}
+</ul>
+<div class="tab-content">
+{% for bestand in bestanden %}
+  {% assign tab = tabs[forloop.index0] | slugify %}
+  {% if forloop.first %}
+    {% include tab-pane-start.html href=tab aktief=true %}
+  {% else %}
+    {% include tab-pane-start.html href=tab aktief=false %}
+  {% endif %}
+
+  {% assign data = bestand[1] %}
+  {% if bestand[0] contains "eindstand" %}
+    {% include table-memorial.html datafile=data %}
+  {% elsif bestand[0] contains "svb" %}
+    {% include table-svb.html datafile=data %}
+  {% endif %}
+
+  {% include tab-pane-end.html %}
+{% endfor %}
+</div>

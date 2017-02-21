@@ -56,6 +56,9 @@ collections:
   inzet:
     output: true
     permalink: /archief/:path/
+  memorial:
+    output: true
+    permalink: /:path/
   snelschaak:
     output: true
     permalink: /archief/:path/
@@ -79,6 +82,13 @@ defaults:
       type: inzet
     values:
       layout: inzet
+      noindex: true
+      sitemap: false
+  - scope:
+      path: ""
+      type: memorial
+    values:
+      layout: memorial
       noindex: true
       sitemap: false
   - scope:

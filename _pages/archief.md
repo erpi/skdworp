@@ -27,3 +27,9 @@ last_modified_at: 2017-02-20
 {% assign archief_ss = site.snelschaak | sort: "beginjaar" | pop %}
 {% for archief in archief_ss reversed %}
 - [{{ archief.beginjaar }} - {{ archief.beginjaar | plus: 1 }}]({{ archief.url }}){% endfor %}
+
+## memorial
+
+{% assign archief_mm = site.memorial | sort: "jaar" %}
+{% for archief in archief_mm reversed %}
+- [{{ archief.jaar }}]({{ archief.url }}){% endfor %}

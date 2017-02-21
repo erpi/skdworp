@@ -1,4 +1,4 @@
-nummer,naam,elo,club,punten,perf,res,mb,sb
+nummer,naam,elo,club,ptn,perf,res,mb,sb
 1,rihouay clement,2229,anderlecht,12.0,2316,,,
 2,lot diederik,1898,dworp,11.0,2160,1.0,,
 3,mayr thomas,2144,le pantin,11.0,2185,0.0,,
@@ -25,4 +25,3 @@ nummer,naam,elo,club,punten,perf,res,mb,sb
 24,huysman robert,1523,halle,4.0,1342,,,
 25,yacef keltoum,0,le pantin,2.0,997,,,
 26,rab rashed,0,halle,0.0,347,,,
-

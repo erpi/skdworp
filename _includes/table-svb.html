@@ -1,0 +1,12 @@
+<div class="table-responsive">
+  <table class="table">
+    <thead>
+      <tr><th colspan="2">kampioen en ratingwinnaars van het provinciaal kampioenschap vlaams-brabant</th></tr>
+    </thead>
+    <tbody>
+      {% for persoon in include.datafile %}
+      <tr><td>{{ persoon.categorie | downcase}}</td><td>{{ persoon.naam | downcase }}</td></tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
