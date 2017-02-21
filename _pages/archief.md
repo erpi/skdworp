@@ -23,5 +23,6 @@ last_modified_at: 2017-02-20
 
 ## snelschaak
 
-- [2015 - 2016](/archief/snelschaak-1516/)
-- [2014 - 2015](/archief/snelschaak-1415/)
+{% assign archief_ss = site.snelschaak | sort: "beginjaar" | pop %}
+{% for archief in archief_ss reversed %}
+- [{{ archief.beginjaar }} - {{ archief.beginjaar | plus: 1 }}]({{ archief.url }}){% endfor %}

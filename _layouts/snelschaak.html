@@ -1,0 +1,34 @@
+---
+layout: default
+---
+{% assign alletabs = "eindstand,tussenstand,jun,mei,apr,maa,feb,jan,dec,nov,okt,sep,av" %}
+{% assign alletabs = alletabs | split: "," %}
+
+{% capture submap %}ss{{ page.beginjaar | slice: 2, 2 }}{{ page.beginjaar | plus: 1 | slice: 2, 2 }}{% endcapture %}
+{% assign bestanden = site.data.ss[submap] %}
+
+<ul class="nav nav-pills">
+  {% assign tabs = "" | split: "," %}
+  {% assign eerste = true %}
+  {% for tab in alletabs %}
+    {% if bestanden[tab] %}
+      {% assign tabs = tabs | push: tab %}
+      <li{% if eerste %} class="active"{% endif %}>
+        <a data-toggle="pill" href="#{{ tab }}">{{ tab }}</a>
+      </li>
+      {% assign eerste = false %}
+    {% endif %}
+  {% endfor %}
+</ul>
+<div class="tab-content">
+{% for tab in tabs %}
+  {% if forloop.first %}
+    {% include tab-pane-start.html href=tab aktief=true %}
+  {% else %}
+    {% include tab-pane-start.html href=tab aktief=false %}
+  {% endif %}
+  {% assign data = bestanden[tab] %}
+  {% include table-eindstand.html datafile=data %}
+  {% include tab-pane-end.html %}
+{% endfor %}
+</div>

@@ -53,6 +53,9 @@ collections:
   interclubs:
     output: true
     permalink: /archief/:path/
+  snelschaak:
+    output: true
+    permalink: /archief/:path/
   elo:
     output: true
 defaults:
@@ -68,3 +71,10 @@ defaults:
       type: interclubs
     values:
       layout: interclubs
+  - scope:
+      path: ""
+      type: snelschaak
+    values:
+      layout: snelschaak
+      noindex: true
+      sitemap: false
