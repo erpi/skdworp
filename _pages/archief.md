@@ -12,8 +12,9 @@ last_modified_at: 2017-02-20
 
 ## prijs van de inzet
 
-- [2015 - 2016](/archief/inzet-1516/)
-- [2014 - 2015](/archief/inzet-1415/)
+{% assign archief_inzet = site.inzet | sort: "beginjaar" %}
+{% for archief in archief_inzet reversed %}
+- [{{ archief.beginjaar }} - {{ archief.beginjaar | plus: 1 }}]({{ archief.url }}){% endfor %}
 
 ## nationale interclubs
 

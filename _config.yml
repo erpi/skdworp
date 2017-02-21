@@ -53,6 +53,9 @@ collections:
   interclubs:
     output: true
     permalink: /archief/:path/
+  inzet:
+    output: true
+    permalink: /archief/:path/
   snelschaak:
     output: true
     permalink: /archief/:path/
@@ -71,6 +74,13 @@ defaults:
       type: interclubs
     values:
       layout: interclubs
+  - scope:
+      path: ""
+      type: inzet
+    values:
+      layout: inzet
+      noindex: true
+      sitemap: false
   - scope:
       path: ""
       type: snelschaak
