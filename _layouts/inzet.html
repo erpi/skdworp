@@ -1,0 +1,9 @@
+---
+layout: default
+---
+{% capture bestand %}inzet{{ page.beginjaar | slice: 2, 2 }}{{ page.beginjaar | plus: 1 | slice: 2, 2 }}{% endcapture %}
+
+{% assign data = site.data.inzet[bestand] %}
+{% include table-eindstand.html datafile=data %}
+
+{{ content }}

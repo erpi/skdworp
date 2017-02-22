@@ -50,6 +50,21 @@ compress_html:
   profile: false
   startings: []
 collections:
+  interclubs:
+    output: true
+    permalink: /archief/:path/
+  inzet:
+    output: true
+    permalink: /archief/:path/
+  klubkampioenschap:
+    output: true
+    permalink: /archief/:path/
+  memorial:
+    output: true
+    permalink: /:path/
+  snelschaak:
+    output: true
+    permalink: /archief/:path/
   elo:
     output: true
 defaults:
@@ -58,5 +73,39 @@ defaults:
       type: elo
     values:
       layout: elo
+      noindex: true
+      sitemap: false
+  - scope:
+      path: ""
+      type: interclubs
+    values:
+      layout: interclubs
+  - scope:
+      path: ""
+      type: inzet
+    values:
+      layout: inzet
+      noindex: true
+      sitemap: false
+  - scope:
+      path: ""
+      type: klubkampioenschap
+    values:
+      layout: klubkampioenschap
+      noindex: true
+      sitemap: false
+  - scope:
+      path: ""
+      type: memorial
+    values:
+      layout: memorial
+      noindex: true
+      sitemap: false
+      no_prev_next: true
+  - scope:
+      path: ""
+      type: snelschaak
+    values:
+      layout: snelschaak
       noindex: true
       sitemap: false

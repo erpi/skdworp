@@ -1,14 +1,20 @@
-<p class="">schrijf je in op onze <a href="{{ "/inschrijven-mailinglijst/" | prepend: site.baseurl }}">mailinglijst</a></p>
-{% for post in site.posts %}
-  {% if include.tag == post.tag %}
-    <div class="panel panel-primary">
-      <div class="panel-heading">
-        <h3 class="panel-title"><a href="{{ post.url | prepend: site.baseurl }}">ronde {{ post.ni_ronde }}{{ post.kk_ronde }} - {{ post.title | downcase }}</a></h3>
-      </div>
-      <div class="panel-body">
-        {{ post.excerpt | downcase }}
-        <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary">lees meer »</a>
-      </div>
+<p class="">schrijf je in op onze <a href="{{ "/inschrijven-mailinglijst/" | relative_url }}">mailinglijst</a></p>
+{% assign verslagen = site.posts | where:"tag",include.tag %}
+{% for verslag in verslagen %}
+  {% assign verslagtijd = verslag.date | date: '%s' | to_integer %}
+  {% if verslagtijd < include.begintijd %}
+    {% break %}
+  {% elsif verslagtijd > include.eindtijd %}
+    {% continue %}
+  {% else %}
+  <div class="panel panel-primary">
+    <div class="panel-heading">
+      <h3 class="panel-title"><a href="{{ verslag.url | relative_url }}">ronde {{ verslag.ni_ronde }}{{ verslag.kk_ronde }} - {{ verslag.title | downcase }}</a></h3>
     </div>
+    <div class="panel-body">
+      {{ verslag.excerpt | downcase }}
+      <a href="{{ verslag.url | relative_url }}" class="btn btn-primary">lees meer »</a>
+    </div>
+  </div>
   {% endif %}
 {% endfor %}
