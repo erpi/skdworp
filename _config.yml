@@ -101,6 +101,7 @@ defaults:
       layout: memorial
       noindex: true
       sitemap: false
+      no_prev_next: true
   - scope:
       path: ""
       type: snelschaak

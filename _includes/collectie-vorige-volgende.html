@@ -1,0 +1,22 @@
+{% unless page.no_prev_next %}
+  {% assign collectie = site[page.collection] | sort: 'beginjaar' %}
+  {% for document in collectie  %}
+    {% if document.title == page.title %}
+      {% unless forloop.first %}
+        {% assign purl = previous.url %}
+        {% capture vorige %}&lt; {{ previous.beginjaar }} - {{ previous.beginjaar | plus: 1 }}{% endcapture %}
+      {% endunless %}
+      {% unless forloop.last %}
+        {% assign next = collectie[forloop.index] %}
+        {% assign nurl = next.url %}
+        {% capture volgende %}{{ next.beginjaar }} - {{ next.beginjaar | plus: 1 }} &gt;{% endcapture %}
+      {% endunless %}
+      {% break %}
+    {% endif %}
+    {% assign previous = document %}
+  {% endfor %}
+  <div class="row">
+    <div class="col-xs-6">{% if purl %}<a href="{{ purl }}">{{ vorige }}</a>{% endif %}</div>
+    <div class="col-xs-6 alignright">{% if nurl %}<a href="{{ nurl }}">{{ volgende }}</a>{% endif %}</div>
+  </div>
+{% endunless %}
