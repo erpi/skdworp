@@ -16,7 +16,7 @@
     {% assign previous = document %}
   {% endfor %}
   <div class="row">
-    <div class="col-xs-6">{% if purl %}<a href="{{ purl }}">{{ vorige }}</a>{% endif %}</div>
-    <div class="col-xs-6 alignright">{% if nurl %}<a href="{{ nurl }}">{{ volgende }}</a>{% endif %}</div>
+    <div class="col-xs-6">{% if purl %}<a href="{{ purl | relative_url }}">{{ vorige }}</a>{% endif %}</div>
+    <div class="col-xs-6 alignright">{% if nurl %}<a href="{{ nurl | relative_url }}">{{ volgende }}</a>{% endif %}</div>
   </div>
 {% endunless %}

@@ -5,7 +5,7 @@ layout: compress
 <html lang="nl-BE">
   <head>
     {% include head.html %}
-    <link href="{{"/styles/post.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+    <link href="{{"/styles/post.min.css" | relative_url }}" rel="stylesheet">
   </head>
   <body>
     <a href="#content" class="sr-only sr-only-focusable">￼doorgaan naar hoofdinhoud</a>
@@ -48,7 +48,7 @@ layout: compress
     </div>
     {% include footer.html %}
     {% if page.stelling_fen and page.stelling_fen != "" %}
-      <script src="{{"/scripts/post.min.js" | prepend: site.baseurl }}"></script>
+      <script src="{{"/scripts/post.min.js" | relative_url }}"></script>
       <script>
       $(document).ready(function(){
         var board = ChessBoard('board', {

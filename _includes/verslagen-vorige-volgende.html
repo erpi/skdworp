@@ -1,6 +1,6 @@
 {% unless page.no_prev_next %}
   <div class="row">
-    <div class="col-xs-6">{% if page.previous %}<a href="{{ page.previous.url }}">vorig verslag</a>{% endif %}</div>
-    <div class="col-xs-6 alignright">{% if page.next %}<a href="{{ page.next.url }}">volgend verslag</a>{% endif %}</div>
+    <div class="col-xs-6">{% if page.previous %}<a href="{{ page.previous.url | relative_url }}">vorig verslag</a>{% endif %}</div>
+    <div class="col-xs-6 alignright">{% if page.next %}<a href="{{ page.next.url | relative_url }}">volgend verslag</a>{% endif %}</div>
   </div>
 {% endunless %}

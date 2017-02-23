@@ -10,6 +10,6 @@ sitemap: false
 <ul>
 {% for lijst in ordered_elo %}
 {% assign titel = lijst.title | remove_first: "elolijst " | split: " " | reverse | join: " " %}
-  <li><a href="{{ lijst.url }}">{{ titel }}</a>
+  <li><a href="{{ lijst.url | relative_url }}">{{ titel }}</a>
 {% endfor %}
 </ul>

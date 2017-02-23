@@ -4,13 +4,13 @@ description: "Welkom op de website van onze schaakclub. De club zijn roots ligge
 last_modified_at: 2017-01-30
 hoofdpagina: true
 ---
-{% capture kk_link %}{{ "/klubkampioenschap/" | prepend: site.baseurl | replace: '//', '/' }}{% endcapture %}
-{% capture kal_link %}{{ "/kalender/" | prepend: site.baseurl | replace: '//', '/' }}{% endcapture %}
-{% capture ni_link %}{{ "/interclubs/" | prepend: site.baseurl | replace: '//', '/' }}{% endcapture %}
-{% capture mem_link %}{{ "/memorial-2016/" | prepend: site.baseurl | replace: '//', '/' }}{% endcapture %}
-{% capture ct_link %}{{ "/contact/" | prepend: site.baseurl | replace: '//', '/' }}{% endcapture %}
-{% capture best_link %}{{ "#bestuur" | prepend: site.baseurl | replace: '//', '/' }}{% endcapture %}
-{% capture lok_link %}{{ "#lokatie" | prepend: site.baseurl | replace: '//', '/' }}{% endcapture %}
+{% capture kk_link %}{{ "/klubkampioenschap/" | relative_url }}{% endcapture %}
+{% capture kal_link %}{{ "/kalender/" | relative_url }}{% endcapture %}
+{% capture ni_link %}{{ "/interclubs/" | relative_url }}{% endcapture %}
+{% capture mem_link %}{{ "/memorial-2016/" | relative_url }}{% endcapture %}
+{% capture ct_link %}{{ "/contact/" | relative_url }}{% endcapture %}
+{% capture best_link %}{{ "#bestuur" | relative_url }}{% endcapture %}
+{% capture lok_link %}{{ "#lokatie" | relative_url }}{% endcapture %}
 
 <!DOCTYPE html>
 <html lang="nl-BE">
@@ -123,7 +123,7 @@ hoofdpagina: true
     </section>
 
     {% include footer.html %}
-    <script src="{{"/scripts/homepage.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{"/scripts/homepage.min.js" | relative_url }}"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHphI5tNhhW0hImFMhl-NAkiiq5M8Q1tw&callback=googleMapsInitialize" async defer></script>
   </body>
 </html>

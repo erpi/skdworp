@@ -5,16 +5,16 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-4 alignleft">
-        <a href="{{ "/contact/" | prepend: site.baseurl }}"><span class="fa fa-envelope-o" aria-hidden="true"></span> contacteer ons</a>
+        <a href="{{ "/contact/" | relative_url }}"><span class="fa fa-envelope-o" aria-hidden="true"></span> contacteer ons</a>
       </div>
       <div class="col-xs-4">
-        <a href="{{ "/inschrijven-mailinglijst/" | prepend: site.baseurl }}"><span class="fa fa-newspaper-o" aria-hidden="true"></span> inschrijven mailinglijst</a>
+        <a href="{{ "/inschrijven-mailinglijst/" | relative_url }}"><span class="fa fa-newspaper-o" aria-hidden="true"></span> inschrijven mailinglijst</a>
       </div>
       <div class="col-xs-4 alignright">
-        <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank"><span class="fa fa-feed" aria-hidden="true"></span> atom feed</a>
+        <a href="{{ "/feed.xml" | relative_url }}" target="_blank"><span class="fa fa-feed" aria-hidden="true"></span> atom feed</a>
       </div>
     </div>
   </div>
 </footer>
-<script src="{{"/scripts/site.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{"/scripts/site.min.js" | relative_url }}"></script>
 {% include clicky.html %}
