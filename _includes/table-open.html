@@ -1,0 +1,24 @@
+<div class="table-responsive">
+  <table class="table table-condensed">
+    <tbody>
+      {% assign borden = include.datafile %}
+      {% for bord in borden %}
+      <tr>
+      {% assign witspeler = bord.wit | downcase | slice: 0, 6 %}
+        {% if witspeler == "partij" %}
+          {% assign teller = 0 %}
+          <th colspan="2">{{ bord.wit | downcase }}</th>
+          <th colspan="5" class="alignright"></th>
+        {% else %}
+          {% assign teller = teller | plus: 1 %}
+          <td class="aligncenter">{{ teller }}</td>
+          <td>{{ bord.wit | downcase }}</td><td>-</td>
+          <td>{{ bord.zwart | downcase }}</td>
+          <td class="alignright">{{ bord.wr | downcase }}</td>
+          <td class="aligncenter">-</td><td>{{ bord.zr | downcase }}</td>
+        {% endif %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>

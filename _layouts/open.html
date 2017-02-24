@@ -1,0 +1,38 @@
+---
+layout: default
+---
+{% assign alletabs = "eindstand,tussenstand,ronde_12,ronde_11,ronde_10,ronde_9,ronde_8,ronde_7,ronde_6,ronde_5,ronde_4,ronde_3,ronde_2,ronde_1" %}
+{% assign alletabs = alletabs | split: "," %}
+
+{% capture submap %}op{{ page.beginjaar | slice: 2, 2 }}{{ page.beginjaar | plus: 1 | slice: 2, 2 }}{% endcapture %}
+{% assign bestanden = site.data.open[submap] %}
+
+<ul class="nav nav-pills">
+{% assign tabs = "" | split: "," %}
+{% assign eerste = true %}
+{% for tab in alletabs %}
+  {% if bestanden[tab] %}
+    {% assign tabs = tabs | push: tab %}
+    <li{% if eerste %} class="active"{% endif %}>
+      <a data-toggle="pill" href="#{{ tab }}">{{ tab | replace: "_"," " }}</a>
+    </li>
+    {% assign eerste = false %}
+  {% endif %}
+{% endfor %}
+</ul>
+<div class="tab-content">
+{% for tab in tabs %}
+  {% if forloop.first %}
+    {% include tab-pane-start.html href=tab aktief=true %}
+  {% else %}
+    {% include tab-pane-start.html href=tab aktief=false %}
+  {% endif %}
+  {% assign data = bestanden[tab] %}
+  {% if tab contains "ronde" %}
+    {% include table-open.html datafile=data %}
+  {% elsif tab contains "stand" %}
+    {% include table-eindstand.html datafile=data %}
+  {% endif %}
+  {% include tab-pane-end.html %}
+{% endfor %}
+</div>

@@ -50,6 +50,8 @@ compress_html:
   profile: false
   startings: []
 collections:
+  elo:
+    output: true
   interclubs:
     output: true
     permalink: /archief/:path/
@@ -62,11 +64,12 @@ collections:
   memorial:
     output: true
     permalink: /:path/
+  open:
+    output: true
+    permalink: /archief/:path/
   snelschaak:
     output: true
     permalink: /archief/:path/
-  elo:
-    output: true
 defaults:
   - scope:
       path: ""
@@ -102,6 +105,13 @@ defaults:
       noindex: true
       sitemap: false
       no_prev_next: true
+  - scope:
+      path: ""
+      type: open
+    values:
+      layout: open
+      noindex: true
+      sitemap: false
   - scope:
       path: ""
       type: snelschaak
