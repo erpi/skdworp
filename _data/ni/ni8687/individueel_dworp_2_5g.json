@@ -1,0 +1,114 @@
+[
+  {
+    "ronde": "1",
+    "datum": "19-10-1986",
+    "thuis": "Thibaut 4",
+    "uit": "Dworp 2",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "",
+    "ugem": "1860",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Selosse J", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1867", "tstam": "", "ustam": "76325"},
+      {"tr": "1", "ur": "0", "tspeler": "Van Roy M", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "1866", "tstam": "", "ustam": "31526"},
+      {"tr": "0", "ur": "1", "tspeler": "Faybish Nimrod", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1860", "tstam": "", "ustam": "76317"},
+      {"tr": "0", "ur": "1", "tspeler": "Aertsens X", "uspeler": "Debast Patrick", "telo": "", "uelo": "1848", "tstam": "", "ustam": "76333"}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "16-11-1986",
+    "thuis": "Dworp 2",
+    "uit": "Westland 3",
+    "tscore": "1",
+    "uscore": "3",
+    "tgem": "1860",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Saeys Thierry", "telo": "1867", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Lalieu", "telo": "1866", "uelo": "", "tstam": "31526", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Beuzard", "telo": "1860", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Johannes", "telo": "1848", "uelo": "", "tstam": "76333", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "30-11-1986",
+    "thuis": "Ruy Lopez Gent 8",
+    "uit": "Dworp 2",
+    "tscore": "0.5",
+    "uscore": "3.5",
+    "tgem": "",
+    "ugem": "1860",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "De Vulder", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1867", "tstam": "", "ustam": "76325"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Deyne", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "1866", "tstam": "", "ustam": "31526"},
+      {"tr": "0", "ur": "1", "tspeler": "Stuyts S", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1860", "tstam": "", "ustam": "76317"},
+      {"tr": "0", "ur": "1", "tspeler": "Boeckx", "uspeler": "Debast Patrick", "telo": "", "uelo": "1848", "tstam": "", "ustam": "76333"}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "07-12-1986",
+    "thuis": "Dworp 2",
+    "uit": "",
+    "tscore": "",
+    "uscore": "",
+    "tgem": "",
+    "ugem": "",
+    "borden": [
+      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "21-12-1986",
+    "thuis": "Dworp 2",
+    "uit": "Tibechecs",
+    "tscore": "3",
+    "uscore": "1",
+    "tgem": "1860",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Ben Khayat", "telo": "1867", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Amali", "telo": "1866", "uelo": "", "tstam": "31526", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis Eric", "uspeler": "Othman", "telo": "1860", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Lossignol", "telo": "1848", "uelo": "", "tstam": "76333", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "04-01-1987",
+    "thuis": "Anderlecht 4",
+    "uit": "Dworp 2",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "",
+    "ugem": "1860",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Silberfeld", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1867", "tstam": "", "ustam": "76325"},
+      {"tr": "1", "ur": "0", "tspeler": "Baecke Mieke", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "1866", "tstam": "", "ustam": "31526"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Ceuster Jea-Luc", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1860", "tstam": "", "ustam": "76317"},
+      {"tr": "0", "ur": "1", "tspeler": "Roelandt", "uspeler": "Debast Patrick", "telo": "", "uelo": "1848", "tstam": "", "ustam": "76333"}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "01-02-1987",
+    "thuis": "Dworp 2",
+    "uit": "Roque 7",
+    "tscore": "4",
+    "uscore": "0",
+    "tgem": "1825",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Biront A", "telo": "1867", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis Eric", "uspeler": "Coppey A", "telo": "1860", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Lehaire A", "telo": "1848", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Carette Bernard", "uspeler": "Legat D", "telo": "1725", "uelo": "", "tstam": "11226", "ustam": ""}
+    ]
+  }
+]

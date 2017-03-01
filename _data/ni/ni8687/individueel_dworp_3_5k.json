@@ -1,0 +1,114 @@
+[
+  {
+    "ronde": "1",
+    "datum": "19-10-1986",
+    "thuis": "Dworp 3",
+    "uit": "Oude God 3",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "1563",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Grandjean Luc", "uspeler": "Cools E", "telo": "ng", "uelo": "", "tstam": "98291", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Deklerck Willy", "uspeler": "Bamps E", "telo": "1610", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Smedt Jean Pierre", "uspeler": "Slaets R", "telo": "1516", "uelo": "", "tstam": "33910", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Verstreken Erik", "uspeler": "Versluys J", "telo": "ng", "uelo": "", "tstam": "9270", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "16-11-1986",
+    "thuis": "Ruy Lopez Gent 9",
+    "uit": "Dworp 3",
+    "tscore": "3",
+    "uscore": "1",
+    "tgem": "",
+    "ugem": "1563",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Leroy", "uspeler": "Grandjean Luc", "telo": "", "uelo": "ng", "tstam": "", "ustam": "98291"},
+      {"tr": "1", "ur": "0", "tspeler": "De Corte", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1610", "tstam": "", "ustam": "27715"},
+      {"tr": "1", "ur": "0", "tspeler": "Genetello", "uspeler": "De Smedt Jean Pierre", "telo": "", "uelo": "1516", "tstam": "", "ustam": "33910"},
+      {"tr": "0", "ur": "1", "tspeler": "Bertens", "uspeler": "Verstreken Erik", "telo": "", "uelo": "ng", "tstam": "", "ustam": "9270"}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "30-11-1986",
+    "thuis": "Dworp 3",
+    "uit": "Paroza Berchem 2",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1563",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Grandjean Luc", "uspeler": "De Meyer", "telo": "ng", "uelo": "", "tstam": "98291", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Deklerck Willy", "uspeler": "Meulenbergs", "telo": "1610", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Smedt Jean Pierre", "uspeler": "Dhaene D", "telo": "1516", "uelo": "", "tstam": "33910", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Verstreken Erik", "uspeler": "Geylen", "telo": "ng", "uelo": "", "tstam": "9270", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "07-12-1986",
+    "thuis": "Mat of Pat 2",
+    "uit": "Dworp 3",
+    "tscore": "3",
+    "uscore": "1",
+    "tgem": "",
+    "ugem": "1655",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vanden Driessche A.", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1840", "tstam": "", "ustam": "31348"},
+      {"tr": "1", "ur": "0", "tspeler": "Baeten", "uspeler": "Grandjean Luc", "telo": "", "uelo": "ng", "tstam": "", "ustam": "98291"},
+      {"tr": "1", "ur": "0", "tspeler": "Schneiders", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1610", "tstam": "", "ustam": "27715"},
+      {"tr": "0", "ur": "1", "tspeler": "De Cock", "uspeler": "De Smedt Jean Pierre", "telo": "", "uelo": "1516", "tstam": "", "ustam": "33910"}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "21-12-1986",
+    "thuis": "Dworp 3",
+    "uit": "",
+    "tscore": "",
+    "uscore": "",
+    "tgem": "",
+    "ugem": "",
+    "borden": [
+      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "04-01-1987",
+    "thuis": "Dworp 3",
+    "uit": "Brasschaat 2",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "1563",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Grandjean Luc", "uspeler": "Leyssen G", "telo": "ng", "uelo": "", "tstam": "98291", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Deklerck Willy", "uspeler": "Leyssen F", "telo": "1610", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "De Smedt Jean Pierre", "uspeler": "Maes P", "telo": "1516", "uelo": "", "tstam": "33910", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Verstreken Erik", "uspeler": "De Meulenaer", "telo": "ng", "uelo": "", "tstam": "9270", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "01-02-1987",
+    "thuis": "Willebroek",
+    "uit": "Dworp 3",
+    "tscore": "0.5",
+    "uscore": "3.5",
+    "tgem": "",
+    "ugem": "1561",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verbruggen Jan", "uspeler": "Grandjean Luc", "telo": "", "uelo": "ng", "tstam": "22373", "ustam": "98291"},
+      {"tr": "0", "ur": "1", "tspeler": "Pax Walter", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1610", "tstam": "7331", "ustam": "27715"},
+      {"tr": "0", "ur": "1", "tspeler": "Willaert Jan", "uspeler": "Martinez Francis", "telo": "", "uelo": "1556", "tstam": "6998", "ustam": "97453"},
+      {"tr": "0", "ur": "1", "tspeler": "Willemsen Paul", "uspeler": "De Smedt Jean Pierre", "telo": "", "uelo": "1516", "tstam": "22624", "ustam": "33910"}
+    ]
+  }
+]

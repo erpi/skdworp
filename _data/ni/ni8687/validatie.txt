@@ -1,0 +1,15 @@
+Ronde 5: Dworp 2: fout: som thuisscores '4' niet gelijk aan totaal '3'
+Ronde 5: Dworp 2: fout: som uitscores '0' niet gelijk aan totaal '1'
+Ronde 4: Dworp 2: waarschuwing: geen ploegnaam gevonden
+Ronde 5: Dworp 3: waarschuwing: geen ploegnaam gevonden
+Ronde 7: Dworp 3: fout: score tegen 'willebroek' niet identiek aan score in kruistabel
+Ronde 8: Dworp 2: waarschuwing: geen ploegnaam gevonden
+Ronde 8: Dworp 3: waarschuwing: geen ploegnaam gevonden
+Ronde 9: Dworp 2: waarschuwing: geen ploegnaam gevonden
+Ronde 9: Dworp 3: waarschuwing: geen ploegnaam gevonden
+Ronde 10: Dworp 1: waarschuwing: geen ploegnaam gevonden
+Ronde 10: Dworp 2: waarschuwing: geen ploegnaam gevonden
+Ronde 10: Dworp 3: waarschuwing: geen ploegnaam gevonden
+Ronde 11: Dworp 1: waarschuwing: geen ploegnaam gevonden
+Ronde 11: Dworp 2: waarschuwing: geen ploegnaam gevonden
+Ronde 11: Dworp 3: waarschuwing: geen ploegnaam gevonden
