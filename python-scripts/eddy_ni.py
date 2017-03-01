@@ -16,7 +16,7 @@ class generator:
         # definieer namen van bestanden en mappen
         self._ni_directory = "../_data/ni/" + seizoen + "/"
         self._verbosity = verbosity
-        self._pages_directory = "../_archief_ni/"
+        self._pages_directory = "../_interclubs/"
         self._excel_filename = "individueel_eindstand_dworp_"
         self._excel_extensie = ".xlsx"
         self._csv_output = "eindstand_dworp_"
@@ -250,10 +250,16 @@ class generator:
             for i,n in enumerate(namen):
                 if n.find("dworp") != -1:
                     dworp = i
-            rij_dworp = int(self._cel_tegenstanders_begin[p][1:]) + dworp
-            uitslagen = [ws.cell(row=rij_dworp, column=(3+i)).value for i in range(len(namen))]
-            tegenstanders = zip(namen, uitslagen)
-            del tegenstanders[dworp]
+                    rij_dworp = int(self._cel_tegenstanders_begin[p][1:]) + dworp
+                    uitslagen = [ws.cell(row=rij_dworp, column=(3+j)).value for j in range(len(namen))]
+                    tegenstanders = zip(namen, uitslagen)
+                    del tegenstanders[dworp]
+                    break
+            else:
+                # dworp niet gevonden in de (waarschijnlijk lege) kruistabel
+                tegenstanders = []
+                self._validatie_string += u"Kruistabel: Dworp {0}: fout: ploeg van Dworp staat er niet in\n".format(
+                                        p + 1)
             self._tegenstanders.append(tegenstanders)
 
     def _vergelijk_individueel_met_kruistabel(self):
@@ -267,10 +273,8 @@ class generator:
                     else:
                         tegenstander = ws[self._cell_uitploeg[p]].value.lower()
                         score = int(ws[self._cell_thuisscore[p]].value * 10)
-                    gevonden = False
                     for n in self._tegenstanders[p]:
                         if n[0].find(tegenstander) != -1:
-                            gevonden = True
                             if tegenstander != n[0]:
                                 # geen zuivere exacte match, bv. alleen ploegnummer in kruistabel
                                 self._validatie_string += u"Ronde {0}: Dworp {1}: fout: '{2}' niet identiek aan '{3}' in kruistabel\n".format(
@@ -282,11 +286,9 @@ class generator:
                             except TypeError:
                                 self._validatie_string += u"Ronde {0}: Dworp {1}: waarschuwing: score tegen '{2}' niet ingevuld in kruistabel\n".format(
                                         r, p + 1, tegenstander)
-                            # else:
-                            #     print 'a', tegenstander, score, int(n[1] * 10)
                             break
-                    if not gevonden:
-                        # we proberen te zoeken met de ploegnaam zonder ploegnummer
+                    else:
+                        # tegenstander niet gevonden, we proberen te zoeken met de ploegnaam zonder ploegnummer
                         try:
                             int(tegenstander.split()[-1])
                             verkorte_naam = u" ".join(tegenstander.split()[:-1])
@@ -294,7 +296,6 @@ class generator:
                             verkorte_naam = tegenstander
                         for n in self._tegenstanders[p]:
                             if n[0].find(verkorte_naam) != -1:
-                                gevonden = True
                                 self._validatie_string += u"Ronde {0}: Dworp {1}: fout: '{2}' niet identiek aan '{3}' in kruistabel\n".format(
                                     r, p + 1, tegenstander, n[0])
                                 try:
@@ -304,15 +305,13 @@ class generator:
                                 except TypeError:
                                     self._validatie_string += u"Ronde {0}: Dworp {1}: waarschuwing: score tegen '{2}' niet ingevuld in kruistabel\n".format(
                                             r, p + 1, tegenstander)
-                                # else:
-                                #     print 'b', tegenstander, score, int(n[1] * 10)
                                 break
-                    if not gevonden:
-                        # waarschijnlijk een probleem met spelling
-                        self._validatie_string += u"Ronde {0}: Dworp {1}: fout: '{2}' niet gevonden in kruistabel (spelling?)\n".format(
-                                        r, p + 1, tegenstander)
-                        self._validatie_string += u"Ronde {0}: Dworp {1}: waarschuwing: score tegen '{2}' is niet gecontroleerd in kruistabel\n".format(
-                            r, p + 1, tegenstander)
+                        else:
+                            # tegenstander nog steeds niet gevonden, waarschijnlijk een probleem met spelling
+                            self._validatie_string += u"Ronde {0}: Dworp {1}: fout: '{2}' niet gevonden in kruistabel (spelling?)\n".format(
+                                            r, p + 1, tegenstander)
+                            self._validatie_string += u"Ronde {0}: Dworp {1}: waarschuwing: score tegen '{2}' is niet gecontroleerd in kruistabel\n".format(
+                                r, p + 1, tegenstander)
                 except AttributeError:
                     self._validatie_string += u"Ronde {0}: Dworp {1}: waarschuwing: geen ploegnaam gevonden\n".format(r, p + 1)
 
@@ -388,6 +387,6 @@ if __name__ == "__main__":
             print("Maak html-bestanden.")
             g.html()
         # default
-        if not any((args.lint, args.csv, args.json, args.html)):
+        if not any((args.lint, args.csv, args.json, args.html, args.json == 0, args.csv == 0)):
             print("Valideer input in excel-bestand (default).")
             g.valideer()
