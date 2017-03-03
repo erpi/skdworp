@@ -1,18 +1,19 @@
-nummer,naam,av,sep,okt,nov,jan,totaal
-1,serge vanderwaeren,94,79,70,95,81,419
-2,diederik lot,94,67,50,95,81,387
-3,kjell spaens,69,79,65,,,213
-4,peter de bosscher,63,50,30,55,,198
-5,walter de reymaeker,31,,60,82,,173
-8,filip van de velde,38,33,25,,56,152
-7,eric cornelis,,33,,64,25,122
-6,geert verrijken,44,,,73,,117
-9,dirk van helder,,,,45,,45
-10,mats laureys,,,,27,,27
-11,niels lerinckx,,,,27,,27
-12,sander lerinckx,,,,18,,18
-13,pieter ertveldt,13,,,,,13
-17,eddy pletinckx,6,,,,6,12
-14,felix huyghe,,,,9,,9
-15,stijn beckers,,,,9,,9
-16,alex vonck,,8,,,,8
+nummer,naam,AV,sep,oct,Nov,Jan,Feb,totaal
+1,diederik lot,94,67,50,95,81,100,487
+2,serve vanderwaeren,94,79,70,95,81,44,463
+3,peter debosscher,63,50,30,55,,25,223
+4,kjell spaens,69,79,65,,,,213
+5,walter de reymaeker,31,,60,82,,,173
+6,eric cornelis,,33,,64,25,38,160
+7,filip van de velde,38,33,25,,56,,152
+8,geert verrijken,44,,,73,,,117
+9,dirk van helder,,,,45,,,45
+10,Dirk Geuens,,,,,,44,44
+11,mats laureys,,,,27,,,27
+12,niels lerinckx,,,,27,,,27
+13,sander lerinckx,,,,18,,,18
+14,pieter ertveld,13,,,,,,13
+15,eddy pletinckx,6,,,,6,,12
+16,felix huyghe,,,,9,,,9
+17,stijn beckers,,,,9,,,9
+18,alex vonck,,8,,,,,8
