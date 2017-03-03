@@ -100,15 +100,15 @@
     "datum": "01-02-1987",
     "thuis": "Willebroek",
     "uit": "Dworp 3",
-    "tscore": "0.5",
-    "uscore": "3.5",
+    "tscore": "3.5",
+    "uscore": "0.5",
     "tgem": "",
     "ugem": "1561",
     "borden": [
       {"tr": "0.5", "ur": "0.5", "tspeler": "Verbruggen Jan", "uspeler": "Grandjean Luc", "telo": "", "uelo": "ng", "tstam": "22373", "ustam": "98291"},
-      {"tr": "0", "ur": "1", "tspeler": "Pax Walter", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1610", "tstam": "7331", "ustam": "27715"},
-      {"tr": "0", "ur": "1", "tspeler": "Willaert Jan", "uspeler": "Martinez Francis", "telo": "", "uelo": "1556", "tstam": "6998", "ustam": "97453"},
-      {"tr": "0", "ur": "1", "tspeler": "Willemsen Paul", "uspeler": "De Smedt Jean Pierre", "telo": "", "uelo": "1516", "tstam": "22624", "ustam": "33910"}
+      {"tr": "1", "ur": "0", "tspeler": "Pax Walter", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1610", "tstam": "7331", "ustam": "27715"},
+      {"tr": "1", "ur": "0", "tspeler": "Willaert Jan", "uspeler": "Martinez Francis", "telo": "", "uelo": "1556", "tstam": "6998", "ustam": "97453"},
+      {"tr": "1", "ur": "0", "tspeler": "Willemsen Paul", "uspeler": "De Smedt Jean Pierre", "telo": "", "uelo": "1516", "tstam": "22624", "ustam": "33910"}
     ]
   }
 ]
