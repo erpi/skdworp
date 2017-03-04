@@ -87,12 +87,12 @@
     "ronde": "ronde 8",
     "datum": "03-03-2017",
     "partijen": [
-      {"wr": "", "zr": "", "wit": "stijn bertrand", "zwart": "eric cornelis"},
-      {"wr": "", "zr": "", "wit": "bernard malfliet", "zwart": "peter de bosscher"},
-      {"wr": "", "zr": "", "wit": "walter de reymaeker", "zwart": "filip van de velde"},
-      {"wr": "", "zr": "", "wit": "diederik lot", "zwart": "kjell spaens"},
-      {"wr": "", "zr": "", "wit": "robert huysman", "zwart": "serge vanderwaeren"},
-      {"wr": "", "zr": "", "wit": "yves baert", "zwart": "geert verrijken"}
+      {"wr": "1", "zr": "0", "wit": "stijn bertrand", "zwart": "eric cornelis"},
+      {"wr": "1", "zr": "0", "wit": "bernard malfliet", "zwart": "peter de bosscher"},
+      {"wr": "1", "zr": "0", "wit": "walter de reymaeker", "zwart": "filip van de velde"},
+      {"wr": "0.5", "zr": "0.5", "wit": "diederik lot", "zwart": "kjell spaens"},
+      {"wr": "0", "zr": "1", "wit": "robert huysman", "zwart": "serge vanderwaeren"},
+      {"wr": "0", "zr": "1", "wit": "yves baert", "zwart": "geert verrijken"}
     ]
   },
   {
