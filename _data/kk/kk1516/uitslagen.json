@@ -3,140 +3,140 @@
     "ronde": "ronde 1",
     "datum": "09-10-2015",
     "partijen": [
-      {"wr": "", "zr": "", "wit": "eddy pletinckx", "zwart": "bye"},
-      {"wr": "1", "zr": "0", "wit": "filip van de velde", "zwart": "robert huysman"},
-      {"wr": "0.5", "zr": "0.5", "wit": "diederik lot", "zwart": "serge vanderwaeren"},
-      {"wr": "1", "zr": "0", "wit": "alexander debeuckelaere", "zwart": "eric cornelis"}
+      {"wr": "", "zr": "", "wit": "Eddy Pletinckx", "zwart": "bye"},
+      {"wr": "1", "zr": "0", "wit": "Filip Van de Velde", "zwart": "Robert Huysman"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Diederik Lot", "zwart": "Serge Vanderwaeren"},
+      {"wr": "1", "zr": "0", "wit": "Alexander Debeuckelaere", "zwart": "Eric Cornelis"}
     ]
   },
   {
     "ronde": "ronde 2",
     "datum": "23-10-2015",
     "partijen": [
-      {"wr": "", "zr": "", "wit": "bye", "zwart": "eric cornelis"},
-      {"wr": "1", "zr": "0", "wit": "serge vanderwaeren", "zwart": "alexander debeuckelaere"},
-      {"wr": "0", "zr": "1", "wit": "robert huysman", "zwart": "diederik lot"},
-      {"wr": "0.5", "zr": "0.5", "wit": "eddy pletinckx", "zwart": "filip van de velde"}
+      {"wr": "", "zr": "", "wit": "bye", "zwart": "Eric Cornelis"},
+      {"wr": "1", "zr": "0", "wit": "Serge Vanderwaeren", "zwart": "Alexander Debeuckelaere"},
+      {"wr": "0", "zr": "1", "wit": "Robert Huysman", "zwart": "Diederik Lot"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Eddy Pletinckx", "zwart": "Filip Van de Velde"}
     ]
   },
   {
     "ronde": "ronde 3",
     "datum": "06-11-2015",
     "partijen": [
-      {"wr": "", "zr": "", "wit": "filip van de velde", "zwart": "bye"},
-      {"wr": "1", "zr": "0", "wit": "diederik lot", "zwart": "eddy pletinckx"},
-      {"wr": "0", "zr": "1", "wit": "alexander debeuckelaere", "zwart": "robert huysman"},
-      {"wr": "1", "zr": "0", "wit": "eric cornelis", "zwart": "serge vanderwaeren"}
+      {"wr": "", "zr": "", "wit": "Filip Van de Velde", "zwart": "bye"},
+      {"wr": "1", "zr": "0", "wit": "Diederik Lot", "zwart": "Eddy Pletinckx"},
+      {"wr": "0", "zr": "1", "wit": "Alexander Debeuckelaere", "zwart": "Robert Huysman"},
+      {"wr": "1", "zr": "0", "wit": "Eric Cornelis", "zwart": "Serge Vanderwaeren"}
     ]
   },
   {
     "ronde": "ronde 4",
     "datum": "20-11-2015",
     "partijen": [
-      {"wr": "", "zr": "", "wit": "bye", "zwart": "serge vanderwaeren"},
-      {"wr": "1", "zr": "0", "wit": "robert huysman", "zwart": "eric cornelis"},
-      {"wr": "1", "zr": "0", "wit": "eddy pletinckx", "zwart": "alexander debeuckelaere"},
-      {"wr": "0", "zr": "1", "wit": "filip van de velde", "zwart": "diederik lot"}
+      {"wr": "", "zr": "", "wit": "bye", "zwart": "Serge Vanderwaeren"},
+      {"wr": "1", "zr": "0", "wit": "Robert Huysman", "zwart": "Eric Cornelis"},
+      {"wr": "1", "zr": "0", "wit": "Eddy Pletinckx", "zwart": "Alexander Debeuckelaere"},
+      {"wr": "0", "zr": "1", "wit": "Filip Van de Velde", "zwart": "Diederik Lot"}
     ]
   },
   {
     "ronde": "ronde 5",
     "datum": "18-12-2015",
     "partijen": [
-      {"wr": "", "zr": "", "wit": "diederik lot", "zwart": "bye"},
-      {"wr": "1", "zr": "0", "wit": "alexander debeuckelaere", "zwart": "filip van de velde"},
-      {"wr": "0.5", "zr": "0.5", "wit": "eric cornelis", "zwart": "eddy pletinckx"},
-      {"wr": "1", "zr": "0", "wit": "serge vanderwaeren", "zwart": "robert huysman"}
+      {"wr": "", "zr": "", "wit": "Diederik Lot", "zwart": "bye"},
+      {"wr": "1", "zr": "0", "wit": "Alexander Debeuckelaere", "zwart": "Filip Van de Velde"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Eric Cornelis", "zwart": "Eddy Pletinckx"},
+      {"wr": "1", "zr": "0", "wit": "Serge Vanderwaeren", "zwart": "Robert Huysman"}
     ]
   },
   {
     "ronde": "ronde 6",
     "datum": "15-01-2016",
     "partijen": [
-      {"wr": "", "zr": "", "wit": "bye", "zwart": "robert huysman"},
-      {"wr": "0", "zr": "1", "wit": "eddy pletinckx", "zwart": "serge vanderwaeren"},
-      {"wr": "0", "zr": "1", "wit": "filip van de velde", "zwart": "eric cornelis"},
-      {"wr": "1", "zr": "0", "wit": "diederik lot", "zwart": "alexander debeuckelaere"}
+      {"wr": "", "zr": "", "wit": "bye", "zwart": "Robert Huysman"},
+      {"wr": "0", "zr": "1", "wit": "Eddy Pletinckx", "zwart": "Serge Vanderwaeren"},
+      {"wr": "0", "zr": "1", "wit": "Filip Van de Velde", "zwart": "Eric Cornelis"},
+      {"wr": "1", "zr": "0", "wit": "Diederik Lot", "zwart": "Alexander Debeuckelaere"}
     ]
   },
   {
     "ronde": "ronde 7",
     "datum": "05-02-2016",
     "partijen": [
-      {"wr": "", "zr": "", "wit": "alexander debeuckelaere", "zwart": "bye"},
-      {"wr": "0", "zr": "1", "wit": "eric cornelis", "zwart": "diederik lot"},
-      {"wr": "1", "zr": "0", "wit": "serge vanderwaeren", "zwart": "filip van de velde"},
-      {"wr": "0.5", "zr": "0.5", "wit": "robert huysman", "zwart": "eddy pletinckx"}
+      {"wr": "", "zr": "", "wit": "Alexander Debeuckelaere", "zwart": "bye"},
+      {"wr": "0", "zr": "1", "wit": "Eric Cornelis", "zwart": "Diederik Lot"},
+      {"wr": "1", "zr": "0", "wit": "Serge Vanderwaeren", "zwart": "Filip Van de Velde"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Robert Huysman", "zwart": "Eddy Pletinckx"}
     ]
   },
   {
     "ronde": "ronde 8",
     "datum": "19-02-2016",
     "partijen": [
-      {"wr": "0.5", "zr": "0.5", "wit": "eric cornelis", "zwart": "alexander debeuckelaere"},
-      {"wr": "1", "zr": "0", "wit": "serge vanderwaeren", "zwart": "diederik lot"},
-      {"wr": "0", "zr": "1", "wit": "robert huysman", "zwart": "filip van de velde"},
-      {"wr": "", "zr": "", "wit": "bye", "zwart": "eddy pletinckx"}
+      {"wr": "0.5", "zr": "0.5", "wit": "Eric Cornelis", "zwart": "Alexander Debeuckelaere"},
+      {"wr": "1", "zr": "0", "wit": "Serge Vanderwaeren", "zwart": "Diederik Lot"},
+      {"wr": "0", "zr": "1", "wit": "Robert Huysman", "zwart": "Filip Van de Velde"},
+      {"wr": "", "zr": "", "wit": "bye", "zwart": "Eddy Pletinckx"}
     ]
   },
   {
     "ronde": "ronde 9",
     "datum": "04-03-2016",
     "partijen": [
-      {"wr": "1", "zr": "0", "wit": "filip van de velde", "zwart": "eddy pletinckx"},
-      {"wr": "1", "zr": "0", "wit": "diederik lot", "zwart": "robert huysman"},
-      {"wr": "0", "zr": "1", "wit": "alexander debeuckelaere", "zwart": "serge vanderwaeren"},
-      {"wr": "", "zr": "", "wit": "eric cornelis", "zwart": "bye"}
+      {"wr": "1", "zr": "0", "wit": "Filip Van de Velde", "zwart": "Eddy Pletinckx"},
+      {"wr": "1", "zr": "0", "wit": "Diederik Lot", "zwart": "Robert Huysman"},
+      {"wr": "0", "zr": "1", "wit": "Alexander Debeuckelaere", "zwart": "Serge Vanderwaeren"},
+      {"wr": "", "zr": "", "wit": "Eric Cornelis", "zwart": "bye"}
     ]
   },
   {
     "ronde": "ronde 10",
     "datum": "18-03-2016",
     "partijen": [
-      {"wr": "1", "zr": "0", "wit": "serge vanderwaeren", "zwart": "eric cornelis"},
-      {"wr": "0", "zr": "1", "wit": "robert huysman", "zwart": "alexander debeuckelaere"},
-      {"wr": "1", "zr": "0", "wit": "eddy pletinckx", "zwart": "diederik lot"},
-      {"wr": "", "zr": "", "wit": "bye", "zwart": "filip van de velde"}
+      {"wr": "1", "zr": "0", "wit": "Serge Vanderwaeren", "zwart": "Eric Cornelis"},
+      {"wr": "0", "zr": "1", "wit": "Robert Huysman", "zwart": "Alexander Debeuckelaere"},
+      {"wr": "1", "zr": "0", "wit": "Eddy Pletinckx", "zwart": "Diederik Lot"},
+      {"wr": "", "zr": "", "wit": "bye", "zwart": "Filip Van de Velde"}
     ]
   },
   {
     "ronde": "ronde 11",
     "datum": "08-04-2016",
     "partijen": [
-      {"wr": "1", "zr": "0", "wit": "diederik lot", "zwart": "filip van de velde"},
-      {"wr": "0", "zr": "1", "wit": "alexander debeuckelaere", "zwart": "eddy pletinckx"},
-      {"wr": "1", "zr": "0", "wit": "eric cornelis", "zwart": "robert huysman"},
-      {"wr": "", "zr": "", "wit": "serge vanderwaeren", "zwart": "bye"}
+      {"wr": "1", "zr": "0", "wit": "Diederik Lot", "zwart": "Filip Van de Velde"},
+      {"wr": "0", "zr": "1", "wit": "Alexander Debeuckelaere", "zwart": "Eddy Pletinckx"},
+      {"wr": "1", "zr": "0", "wit": "Eric Cornelis", "zwart": "Robert Huysman"},
+      {"wr": "", "zr": "", "wit": "Serge Vanderwaeren", "zwart": "bye"}
     ]
   },
   {
     "ronde": "ronde 12",
     "datum": "22-04-2016",
     "partijen": [
-      {"wr": "0", "zr": "1", "wit": "robert huysman", "zwart": "serge vanderwaeren"},
-      {"wr": "1", "zr": "0", "wit": "eddy pletinckx", "zwart": "eric cornelis"},
-      {"wr": "1", "zr": "0", "wit": "filip van de velde", "zwart": "alexander debeuckelaere"},
-      {"wr": "", "zr": "", "wit": "bye", "zwart": "diederik lot"}
+      {"wr": "0", "zr": "1", "wit": "Robert Huysman", "zwart": "Serge Vanderwaeren"},
+      {"wr": "1", "zr": "0", "wit": "Eddy Pletinckx", "zwart": "Eric Cornelis"},
+      {"wr": "1", "zr": "0", "wit": "Filip Van de Velde", "zwart": "Alexander Debeuckelaere"},
+      {"wr": "", "zr": "", "wit": "bye", "zwart": "Diederik Lot"}
     ]
   },
   {
     "ronde": "ronde 13",
     "datum": "06-05-2016",
     "partijen": [
-      {"wr": "1", "zr": "0", "wit": "alexander debeuckelaere", "zwart": "diederik lot"},
-      {"wr": "0", "zr": "1", "wit": "eric cornelis", "zwart": "filip van de velde"},
-      {"wr": "1", "zr": "0", "wit": "serge vanderwaeren", "zwart": "eddy pletinckx"},
-      {"wr": "", "zr": "", "wit": "robert huysman", "zwart": "bye"}
+      {"wr": "1", "zr": "0", "wit": "Alexander Debeuckelaere", "zwart": "Diederik Lot"},
+      {"wr": "0", "zr": "1", "wit": "Eric Cornelis", "zwart": "Filip Van de Velde"},
+      {"wr": "1", "zr": "0", "wit": "Serge Vanderwaeren", "zwart": "Eddy Pletinckx"},
+      {"wr": "", "zr": "", "wit": "Robert Huysman", "zwart": "bye"}
     ]
   },
   {
     "ronde": "ronde 14",
     "datum": "20-05-2016",
     "partijen": [
-      {"wr": "0.5", "zr": "0.5", "wit": "eddy pletinckx", "zwart": "robert huysman"},
-      {"wr": "0.5", "zr": "0.5", "wit": "filip van de velde", "zwart": "serge vanderwaeren"},
-      {"wr": "1", "zr": "0", "wit": "diederik lot", "zwart": "eric cornelis"},
-      {"wr": "", "zr": "", "wit": "bye", "zwart": "alexander debeuckelaere"}
+      {"wr": "0.5", "zr": "0.5", "wit": "Eddy Pletinckx", "zwart": "Robert Huysman"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Filip Van de Velde", "zwart": "Serge Vanderwaeren"},
+      {"wr": "1", "zr": "0", "wit": "Diederik Lot", "zwart": "Eric Cornelis"},
+      {"wr": "", "zr": "", "wit": "bye", "zwart": "Alexander Debeuckelaere"}
     ]
   }
 ]

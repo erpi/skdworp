@@ -1,0 +1,142 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "04-10-2013",
+    "partijen": [
+      {"wr": "0", "zr": "1", "wit": "Bernard Malfliet", "zwart": "Ruben Degraeve"},
+      {"wr": "1", "zr": "0", "wit": "Alexander Debeuckelaere", "zwart": "Robert Huysman"},
+      {"wr": "1", "zr": "0", "wit": "Serge Vanderwaeren", "zwart": "Eric Cornelis"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Peter Vanp\u00e9", "zwart": "Diederik Lot"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "18-10-2013",
+    "partijen": [
+      {"wr": "0", "zr": "1", "wit": "Ruben Degraeve", "zwart": "Diederik Lot"},
+      {"wr": "1", "zr": "0", "wit": "Eric Cornelis", "zwart": "Peter Vanp\u00e9"},
+      {"wr": "0F", "zr": "1F", "wit": "Robert Huysman", "zwart": "Serge Vanderwaeren"},
+      {"wr": "1", "zr": "0", "wit": "Bernard Malfliet", "zwart": "Alexander Debeuckelaere"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "15-11-2013",
+    "partijen": [
+      {"wr": "1", "zr": "0", "wit": "Alexander Debeuckelaere", "zwart": "Ruben Degraeve"},
+      {"wr": "1F", "zr": "0F", "wit": "Serge Vanderwaeren", "zwart": "Bernard Malfliet"},
+      {"wr": "1F", "zr": "0F", "wit": "Peter Vanp\u00e9", "zwart": "Robert Huysman"},
+      {"wr": "1", "zr": "0", "wit": "Diederik Lot", "zwart": "Eric Cornelis"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "13-12-2013",
+    "partijen": [
+      {"wr": "0", "zr": "1", "wit": "Ruben Degraeve", "zwart": "Eric Cornelis"},
+      {"wr": "0F", "zr": "1F", "wit": "Robert Huysman", "zwart": "Diederik Lot"},
+      {"wr": "0F", "zr": "0F", "wit": "Bernard Malfliet", "zwart": "Peter Vanp\u00e9"},
+      {"wr": "0", "zr": "1", "wit": "Alexander Debeuckelaere", "zwart": "Serge Vanderwaeren"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "10-01-2014",
+    "partijen": [
+      {"wr": "1", "zr": "0", "wit": "Serge Vanderwaeren", "zwart": "Ruben Degraeve"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Peter Vanp\u00e9", "zwart": "Alexander Debeuckelaere"},
+      {"wr": "1", "zr": "0", "wit": "Diederik Lot", "zwart": "Bernard Malfliet"},
+      {"wr": "1F", "zr": "0F", "wit": "Eric Cornelis", "zwart": "Robert Huysman"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "24-01-2014",
+    "partijen": [
+      {"wr": "1F", "zr": "0F", "wit": "Ruben Degraeve", "zwart": "Robert Huysman"},
+      {"wr": "0F", "zr": "1F", "wit": "Bernard Malfliet", "zwart": "Eric Cornelis"},
+      {"wr": "0", "zr": "1", "wit": "Alexander Debeuckelaere", "zwart": "Diederik Lot"},
+      {"wr": "1", "zr": "0", "wit": "Serge Vanderwaeren", "zwart": "Peter Vanp\u00e9"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "07-02-2014",
+    "partijen": [
+      {"wr": "0F", "zr": "1F", "wit": "Peter Vanp\u00e9", "zwart": "Ruben Degraeve"},
+      {"wr": "0", "zr": "1", "wit": "Diederik Lot", "zwart": "Serge Vanderwaeren"},
+      {"wr": "0", "zr": "1", "wit": "Eric Cornelis", "zwart": "Alexander Debeuckelaere"},
+      {"wr": "0F", "zr": "1F", "wit": "Robert Huysman", "zwart": "Bernard Malfliet"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "21-02-2014",
+    "partijen": [
+      {"wr": "1F", "zr": "0F", "wit": "Diederik Lot", "zwart": "Peter Vanp\u00e9"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Eric Cornelis", "zwart": "Serge Vanderwaeren"},
+      {"wr": "0F", "zr": "1F", "wit": "Robert Huysman", "zwart": "Alexander Debeuckelaere"},
+      {"wr": "1F", "zr": "0F", "wit": "Ruben Degraeve", "zwart": "Bernard Malfliet"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "07-03-2014",
+    "partijen": [
+      {"wr": "1F", "zr": "0F", "wit": "Alexander Debeuckelaere", "zwart": "Bernard Malfliet"},
+      {"wr": "1F", "zr": "0F", "wit": "Serge Vanderwaeren", "zwart": "Robert Huysman"},
+      {"wr": "0F", "zr": "1F", "wit": "Peter Vanp\u00e9", "zwart": "Eric Cornelis"},
+      {"wr": "1", "zr": "0", "wit": "Diederik Lot", "zwart": "Ruben Degraeve"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "21-03-2014",
+    "partijen": [
+      {"wr": "0", "zr": "1", "wit": "Eric Cornelis", "zwart": "Diederik Lot"},
+      {"wr": "0F", "zr": "0F", "wit": "Robert Huysman", "zwart": "Peter Vanp\u00e9"},
+      {"wr": "0F", "zr": "1F", "wit": "Bernard Malfliet", "zwart": "Serge Vanderwaeren"},
+      {"wr": "0", "zr": "1", "wit": "Ruben Degraeve", "zwart": "Alexander Debeuckelaere"}
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "04-04-2014",
+    "partijen": [
+      {"wr": "1", "zr": "0", "wit": "Serge Vanderwaeren", "zwart": "Alexander Debeuckelaere"},
+      {"wr": "0F", "zr": "0F", "wit": "Peter Vanp\u00e9", "zwart": "Bernard Malfliet"},
+      {"wr": "1F", "zr": "0F", "wit": "Diederik Lot", "zwart": "Robert Huysman"},
+      {"wr": "", "zr": "", "wit": "Eric Cornelis", "zwart": "Ruben Degraeve"}
+    ]
+  },
+  {
+    "ronde": "ronde 12",
+    "datum": "18-04-2014",
+    "partijen": [
+      {"wr": "0F", "zr": "1F", "wit": "Robert Huysman", "zwart": "Eric Cornelis"},
+      {"wr": "0F", "zr": "1F", "wit": "Bernard Malfliet", "zwart": "Diederik Lot"},
+      {"wr": "1F", "zr": "0F", "wit": "Alexander Debeuckelaere", "zwart": "Peter Vanp\u00e9"},
+      {"wr": "", "zr": "", "wit": "Ruben Degraeve", "zwart": "Serge Vanderwaeren"}
+    ]
+  },
+  {
+    "ronde": "ronde 13",
+    "datum": "16-05-2014",
+    "partijen": [
+      {"wr": "0F", "zr": "1F", "wit": "Peter Vanp\u00e9", "zwart": "Serge Vanderwaeren"},
+      {"wr": "1", "zr": "0", "wit": "Diederik Lot", "zwart": "Alexander Debeuckelaere"},
+      {"wr": "1F", "zr": "0F", "wit": "Eric Cornelis", "zwart": "Bernard Malfliet"},
+      {"wr": "0F", "zr": "1F", "wit": "Robert Huysman", "zwart": "Ruben Degraeve"}
+    ]
+  },
+  {
+    "ronde": "ronde 14",
+    "datum": "13-06-2014",
+    "partijen": [
+      {"wr": "0F", "zr": "0F", "wit": "Bernard Malfliet", "zwart": "Robert Huysman"},
+      {"wr": "0", "zr": "1", "wit": "Alexander Debeuckelaere", "zwart": "Eric Cornelis"},
+      {"wr": "0", "zr": "1", "wit": "Serge Vanderwaeren", "zwart": "Diederik Lot"},
+      {"wr": "1F", "zr": "0F", "wit": "Ruben Degraeve", "zwart": "Peter Vanp\u00e9"}
+    ]
+  }
+]

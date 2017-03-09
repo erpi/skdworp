@@ -1,0 +1,92 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "07-10-2012",
+    "partijen": [
+      {"wr": "0", "zr": "1", "wit": "Peter De Bosscher", "zwart": "Serge Vanderwaeren"},
+      {"wr": "0", "zr": "1", "wit": "Robert Huysman", "zwart": "Diederik Lot"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Peter Vanp\u00e9", "zwart": "Eric Cornelis"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "21-10-2012",
+    "partijen": [
+      {"wr": "0", "zr": "1", "wit": "Serge Vanderwaeren", "zwart": "Eric Cornelis"},
+      {"wr": "0", "zr": "1", "wit": "Diederik Lot", "zwart": "Peter Vanp\u00e9"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Peter De Bosscher", "zwart": "Robert Huysman"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "04-11-2012",
+    "partijen": [
+      {"wr": "0", "zr": "1", "wit": "Robert Huysman", "zwart": "Serge Vanderwaeren"},
+      {"wr": "1", "zr": "0", "wit": "Peter Vanp\u00e9", "zwart": "Peter De Bosscher"},
+      {"wr": "0", "zr": "1", "wit": "Eric Cornelis", "zwart": "Diederik Lot"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "18-11-2012",
+    "partijen": [
+      {"wr": "0.5", "zr": "0.5", "wit": "Serge Vanderwaeren", "zwart": "Diederik Lot"},
+      {"wr": "1", "zr": "0", "wit": "Peter De Bosscher", "zwart": "Eric Cornelis"},
+      {"wr": "0", "zr": "1", "wit": "Robert Huysman", "zwart": "Peter Vanp\u00e9"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "16-12-2012",
+    "partijen": [
+      {"wr": "0", "zr": "1", "wit": "Peter Vanp\u00e9", "zwart": "Serge Vanderwaeren"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Eric Cornelis", "zwart": "Robert Huysman"},
+      {"wr": "1F", "zr": "0F", "wit": "Diederik Lot", "zwart": "Peter De Bosscher"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "20-01-2013",
+    "partijen": [
+      {"wr": "0", "zr": "1", "wit": "Eric Cornelis", "zwart": "Peter Vanp\u00e9"},
+      {"wr": "1", "zr": "0", "wit": "Diederik Lot", "zwart": "Robert Huysman"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Serge Vanderwaeren", "zwart": "Peter De Bosscher"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "17-02-2013",
+    "partijen": [
+      {"wr": "0", "zr": "1", "wit": "Robert Huysman", "zwart": "Peter De Bosscher"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Peter Vanp\u00e9", "zwart": "Diederik Lot"},
+      {"wr": "0", "zr": "1", "wit": "Eric Cornelis", "zwart": "Serge Vanderwaeren"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "02-03-2013",
+    "partijen": [
+      {"wr": "1", "zr": "0", "wit": "Diederik Lot", "zwart": "Eric Cornelis"},
+      {"wr": "0F", "zr": "1F", "wit": "Peter De Bosscher", "zwart": "Peter Vanp\u00e9"},
+      {"wr": "0", "zr": "1", "wit": "Serge Vanderwaeren", "zwart": "Robert Huysman"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "20-04-2013",
+    "partijen": [
+      {"wr": "1", "zr": "0", "wit": "Peter Vanp\u00e9", "zwart": "Robert Huysman"},
+      {"wr": "0", "zr": "1", "wit": "Eric Cornelis", "zwart": "Peter De Bosscher"},
+      {"wr": "0", "zr": "1", "wit": "Diederik Lot", "zwart": "Serge Vanderwaeren"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "18-05-2013",
+    "partijen": [
+      {"wr": "0", "zr": "1", "wit": "Peter De Bosscher", "zwart": "Diederik Lot"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Robert Huysman", "zwart": "Eric Cornelis"},
+      {"wr": "1", "zr": "0", "wit": "Serge Vanderwaeren", "zwart": "Peter Vanp\u00e9"}
+    ]
+  }
+]

@@ -3,132 +3,132 @@
     "ronde": "ronde 1",
     "datum": "07-10-2016",
     "partijen": [
-      {"wr": "1", "zr": "0", "wit": "walter de reymaeker", "zwart": "stijn bertrand"},
-      {"wr": "1", "zr": "0", "wit": "diederik lot", "zwart": "bernard malfliet"},
-      {"wr": "0", "zr": "1", "wit": "robert huysman", "zwart": "eric cornelis"},
-      {"wr": "0", "zr": "1", "wit": "yves baert", "zwart": "peter de bosscher"},
-      {"wr": "0", "zr": "1", "wit": "geert verrijken", "zwart": "filip van de velde"},
-      {"wr": "0.5", "zr": "0.5", "wit": "serge vanderwaeren", "zwart": "kjell spaens"}
+      {"wr": "1", "zr": "0", "wit": "Walter De Reymaeker", "zwart": "Stijn Bertrand"},
+      {"wr": "1", "zr": "0", "wit": "Diederik Lot", "zwart": "Bernard Malfliet"},
+      {"wr": "0", "zr": "1", "wit": "Robert Huysman", "zwart": "Eric Cornelis"},
+      {"wr": "0", "zr": "1", "wit": "Yves Baert", "zwart": "Peter De Bosscher"},
+      {"wr": "0", "zr": "1", "wit": "Geert Verrijken", "zwart": "Filip Van de Velde"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Serge Vanderwaeren", "zwart": "Kjell Spaens"}
     ]
   },
  {
     "ronde": "ronde 2",
     "datum": "21-10-2016",
     "partijen": [
-      {"wr": "1", "zr": "0", "wit": "kjell spaens", "zwart": "stijn bertrand"},
-      {"wr": "0", "zr": "1", "wit": "filip van de velde", "zwart": "serge vanderwaeren"},
-      {"wr": "0", "zr": "1", "wit": "peter de bosscher", "zwart": "geert verrijken"},
-      {"wr": "1", "zr": "0", "wit": "eric cornelis", "zwart": "yves baert"},
-      {"wr": "1", "zr": "0", "wit": "bernard malfliet", "zwart": "robert huysman"},
-      {"wr": "0", "zr": "1", "wit": "walter de reymaeker", "zwart": "diederik lot"}
+      {"wr": "1", "zr": "0", "wit": "Kjell Spaens", "zwart": "Stijn Bertrand"},
+      {"wr": "0", "zr": "1", "wit": "Filip Van de Velde", "zwart": "Serge Vanderwaeren"},
+      {"wr": "0", "zr": "1", "wit": "Peter De Bosscher", "zwart": "Geert Verrijken"},
+      {"wr": "1", "zr": "0", "wit": "Eric Cornelis", "zwart": "Yves Baert"},
+      {"wr": "1", "zr": "0", "wit": "Bernard Malfliet", "zwart": "Robert Huysman"},
+      {"wr": "0", "zr": "1", "wit": "Walter De Reymaeker", "zwart": "Diederik Lot"}
     ]
   },
   {
     "ronde": "ronde 3",
     "datum": "04-11-2016",
     "partijen": [
-      {"wr": "0", "zr": "1", "wit": "stijn bertrand", "zwart": "diederik lot"},
-      {"wr": "0", "zr": "1", "wit": "robert huysman", "zwart": "walter de reymaeker"},
-      {"wr": "", "zr": "", "wit": "yves baert", "zwart": "bernard malfliet"},
-      {"wr": "1", "zr": "0", "wit": "geert verrijken", "zwart": "eric cornelis"},
-      {"wr": "0.5", "zr": "0.5", "wit": "serge vanderwaeren", "zwart": "peter de bosscher"},
-      {"wr": "0.5", "zr": "0.5", "wit": "kjell spaens", "zwart": "filip van de velde"}
+      {"wr": "0", "zr": "1", "wit": "Stijn Bertrand", "zwart": "Diederik Lot"},
+      {"wr": "0", "zr": "1", "wit": "Robert Huysman", "zwart": "Walter De Reymaeker"},
+      {"wr": "", "zr": "", "wit": "Yves Baert", "zwart": "Bernard Malfliet"},
+      {"wr": "1", "zr": "0", "wit": "Geert Verrijken", "zwart": "Eric Cornelis"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Serge Vanderwaeren", "zwart": "Peter De Bosscher"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Kjell Spaens", "zwart": "Filip Van de Velde"}
     ]
   },
   {
     "ronde": "ronde 4",
     "datum": "16-12-2016",
     "partijen": [
-      {"wr": "0.5", "zr": "0.5", "wit": "stijn bertrand", "zwart": "filip van de velde"},
-      {"wr": "", "zr": "", "wit": "peter de bosscher", "zwart": "kjell spaens"},
-      {"wr": "0", "zr": "1", "wit": "eric cornelis", "zwart": "serge vanderwaeren"},
-      {"wr": "0", "zr": "1", "wit": "bernard malfliet", "zwart": "geert verrijken"},
-      {"wr": "1", "zr": "0", "wit": "walter de reymaeker", "zwart": "yves baert"},
-      {"wr": "", "zr": "", "wit": "diederik lot", "zwart": "robert huysman"}
+      {"wr": "0.5", "zr": "0.5", "wit": "Stijn Bertrand", "zwart": "Filip Van de Velde"},
+      {"wr": "", "zr": "", "wit": "Peter De Bosscher", "zwart": "Kjell Spaens"},
+      {"wr": "0", "zr": "1", "wit": "Eric Cornelis", "zwart": "Serge Vanderwaeren"},
+      {"wr": "0", "zr": "1", "wit": "Bernard Malfliet", "zwart": "Geert Verrijken"},
+      {"wr": "1", "zr": "0", "wit": "Walter De Reymaeker", "zwart": "Yves Baert"},
+      {"wr": "", "zr": "", "wit": "Diederik Lot", "zwart": "Robert Huysman"}
     ]
   },
   {
     "ronde": "ronde 5",
     "datum": "13-01-2017",
     "partijen": [
-      {"wr": "", "zr": "", "wit": "robert huysman", "zwart": "stijn bertrand"},
-      {"wr": "", "zr": "", "wit": "yves baert", "zwart": "diederik lot"},
-      {"wr": "0", "zr": "1", "wit": "geert verrijken", "zwart": "walter de reymaeker"},
-      {"wr": "0.5", "zr": "0.5", "wit": "serge vanderwaeren", "zwart": "bernard malfliet"},
-      {"wr": "1", "zr": "0", "wit": "kjell spaens", "zwart": "eric cornelis"},
-      {"wr": "", "zr": "", "wit": "filip van de velde", "zwart": "peter de bosscher"}
+      {"wr": "", "zr": "", "wit": "Robert Huysman", "zwart": "Stijn Bertrand"},
+      {"wr": "", "zr": "", "wit": "Yves Baert", "zwart": "Diederik Lot"},
+      {"wr": "0", "zr": "1", "wit": "Geert Verrijken", "zwart": "Walter De Reymaeker"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Serge Vanderwaeren", "zwart": "Bernard Malfliet"},
+      {"wr": "1", "zr": "0", "wit": "Kjell Spaens", "zwart": "Eric Cornelis"},
+      {"wr": "", "zr": "", "wit": "Filip Van de Velde", "zwart": "Peter De Bosscher"}
     ]
   },
   {
     "ronde": "ronde 6",
     "datum": "03-02-2017",
     "partijen": [
-      {"wr": "0", "zr": "1", "wit": "stijn bertrand", "zwart": "peter de bosscher"},
-      {"wr": "0.5", "zr": "0.5", "wit": "eric cornelis", "zwart": "filip van de velde"},
-      {"wr": "", "zr": "", "wit": "bernard malfliet", "zwart": "kjell spaens"},
-      {"wr": "0.5", "zr": "0.5", "wit": "walter de reymaeker", "zwart": "serge vanderwaeren"},
-      {"wr": "1", "zr": "0", "wit": "diederik lot", "zwart": "geert verrijken"},
-      {"wr": "1", "zr": "0", "wit": "robert huysman", "zwart": "yves baert"}
+      {"wr": "0", "zr": "1", "wit": "Stijn Bertrand", "zwart": "Peter De Bosscher"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Eric Cornelis", "zwart": "Filip Van de Velde"},
+      {"wr": "", "zr": "", "wit": "Bernard Malfliet", "zwart": "Kjell Spaens"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Walter De Reymaeker", "zwart": "Serge Vanderwaeren"},
+      {"wr": "1", "zr": "0", "wit": "Diederik Lot", "zwart": "Geert Verrijken"},
+      {"wr": "1", "zr": "0", "wit": "Robert Huysman", "zwart": "Yves Baert"}
     ]
   },
   {
     "ronde": "ronde 7",
     "datum": "17-02-2017",
     "partijen": [
-      {"wr": "0", "zr": "1", "wit": "yves baert", "zwart": "stijn bertrand"},
-      {"wr": "1", "zr": "0", "wit": "geert verrijken", "zwart": "robert huysman"},
-      {"wr": "", "zr": "", "wit": "serge vanderwaeren", "zwart": "diederik lot"},
-      {"wr": "0.5", "zr": "0.5", "wit": "kjell spaens", "zwart": "walter de reymaeker"},
-      {"wr": "0.5", "zr": "0.5", "wit": "filip van de velde", "zwart": "bernard malfliet"},
-      {"wr": "0.5", "zr": "0.5", "wit": "peter de bosscher", "zwart": "eric cornelis"}
+      {"wr": "0", "zr": "1", "wit": "Yves Baert", "zwart": "Stijn Bertrand"},
+      {"wr": "1", "zr": "0", "wit": "Geert Verrijken", "zwart": "Robert Huysman"},
+      {"wr": "", "zr": "", "wit": "Serge Vanderwaeren", "zwart": "Diederik Lot"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Kjell Spaens", "zwart": "Walter De Reymaeker"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Filip Van de Velde", "zwart": "Bernard Malfliet"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Peter De Bosscher", "zwart": "Eric Cornelis"}
     ]
   },
   {
     "ronde": "ronde 8",
     "datum": "03-03-2017",
     "partijen": [
-      {"wr": "1", "zr": "0", "wit": "stijn bertrand", "zwart": "eric cornelis"},
-      {"wr": "1", "zr": "0", "wit": "bernard malfliet", "zwart": "peter de bosscher"},
-      {"wr": "1", "zr": "0", "wit": "walter de reymaeker", "zwart": "filip van de velde"},
-      {"wr": "0.5", "zr": "0.5", "wit": "diederik lot", "zwart": "kjell spaens"},
-      {"wr": "0", "zr": "1", "wit": "robert huysman", "zwart": "serge vanderwaeren"},
-      {"wr": "0", "zr": "1", "wit": "yves baert", "zwart": "geert verrijken"}
+      {"wr": "1", "zr": "0", "wit": "Stijn Bertrand", "zwart": "Eric Cornelis"},
+      {"wr": "1", "zr": "0", "wit": "Bernard Malfliet", "zwart": "Peter De Bosscher"},
+      {"wr": "1", "zr": "0", "wit": "Walter De Reymaeker", "zwart": "Filip Van de Velde"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Diederik Lot", "zwart": "Kjell Spaens"},
+      {"wr": "0", "zr": "1", "wit": "Robert Huysman", "zwart": "Serge Vanderwaeren"},
+      {"wr": "0", "zr": "1", "wit": "Yves Baert", "zwart": "Geert Verrijken"}
     ]
   },
   {
     "ronde": "ronde 9",
     "datum": "07-04-2017",
     "partijen": [
-      {"wr": "", "zr": "", "wit": "geert verrijken", "zwart": "stijn bertrand"},
-      {"wr": "", "zr": "", "wit": "serge vanderwaeren", "zwart": "yves baert"},
-      {"wr": "", "zr": "", "wit": "kjell spaens", "zwart": "robert huysman"},
-      {"wr": "", "zr": "", "wit": "filip van de velde", "zwart": "diederik lot"},
-      {"wr": "", "zr": "", "wit": "peter de bosscher", "zwart": "walter de reymaeker"},
-      {"wr": "", "zr": "", "wit": "eric cornelis", "zwart": "bernard malfliet"}
+      {"wr": "", "zr": "", "wit": "Geert Verrijken", "zwart": "Stijn Bertrand"},
+      {"wr": "", "zr": "", "wit": "Serge Vanderwaeren", "zwart": "Yves Baert"},
+      {"wr": "", "zr": "", "wit": "Kjell Spaens", "zwart": "Robert Huysman"},
+      {"wr": "", "zr": "", "wit": "Filip Van de Velde", "zwart": "Diederik Lot"},
+      {"wr": "", "zr": "", "wit": "Peter De Bosscher", "zwart": "Walter De Reymaeker"},
+      {"wr": "", "zr": "", "wit": "Eric Cornelis", "zwart": "Bernard Malfliet"}
     ]
   },
   {
     "ronde": "ronde 10",
     "datum": "21-04-2017",
     "partijen": [
-      {"wr": "", "zr": "", "wit": "stijn bertrand", "zwart": "bernard malfliet"},
-      {"wr": "", "zr": "", "wit": "walter de reymaeker", "zwart": "eric cornelis"},
-      {"wr": "", "zr": "", "wit": "diederik lot", "zwart": "peter de bosscher"},
-      {"wr": "", "zr": "", "wit": "robert huysman", "zwart": "filip van de velde"},
-      {"wr": "", "zr": "", "wit": "yves baert", "zwart": "kjell spaens"},
-      {"wr": "", "zr": "", "wit": "geert verrijken", "zwart": "serge vanderwaeren"}
+      {"wr": "", "zr": "", "wit": "Stijn Bertrand", "zwart": "Bernard Malfliet"},
+      {"wr": "", "zr": "", "wit": "Walter De Reymaeker", "zwart": "Eric Cornelis"},
+      {"wr": "", "zr": "", "wit": "Diederik Lot", "zwart": "Peter De Bosscher"},
+      {"wr": "", "zr": "", "wit": "Robert Huysman", "zwart": "Filip Van de Velde"},
+      {"wr": "", "zr": "", "wit": "Yves Baert", "zwart": "Kjell Spaens"},
+      {"wr": "", "zr": "", "wit": "Geert Verrijken", "zwart": "Serge Vanderwaeren"}
     ]
   },
   {
     "ronde": "ronde 11",
     "datum": "05-05-2017",
     "partijen": [
-      {"wr": "", "zr": "", "wit": "serge vanderwaeren", "zwart": "stijn bertrand"},
-      {"wr": "", "zr": "", "wit": "kjell spaens", "zwart": "geert verrijken"},
-      {"wr": "", "zr": "", "wit": "filip van de velde", "zwart": "yves baert"},
-      {"wr": "", "zr": "", "wit": "peter de bosscher", "zwart": "robert huysman"},
-      {"wr": "", "zr": "", "wit": "eric cornelis", "zwart": "diederik lot"},
-      {"wr": "", "zr": "", "wit": "bernard malfliet", "zwart": "walter de reymaeker"}
+      {"wr": "", "zr": "", "wit": "Serge Vanderwaeren", "zwart": "Stijn Bertrand"},
+      {"wr": "", "zr": "", "wit": "Kjell Spaens", "zwart": "Geert Verrijken"},
+      {"wr": "", "zr": "", "wit": "Filip Van de Velde", "zwart": "Yves Baert"},
+      {"wr": "", "zr": "", "wit": "Peter De Bosscher", "zwart": "Robert Huysman"},
+      {"wr": "", "zr": "", "wit": "Eric Cornelis", "zwart": "Diederik Lot"},
+      {"wr": "", "zr": "", "wit": "Bernard Malfliet", "zwart": "Walter De Reymaeker"}
     ]
   }
 ]

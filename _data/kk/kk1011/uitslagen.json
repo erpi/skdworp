@@ -1,0 +1,101 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "15-10-2010",
+    "partijen": [
+      {"wr": "4", "zr": "1", "wit": "Serge Vanderwaeren", "zwart": "Robert Huysman"},
+      {"wr": "1", "zr": "4", "wit": "Jean-Didier Kawanda", "zwart": "Diederik Lot"},
+      {"wr": "2", "zr": "2", "wit": "Louis van Duuren", "zwart": "Bernard Malfliet"},
+      {"wr": "4", "zr": "1", "wit": "Eric Cornelis", "zwart": "Peter Vanp\u00e9"},
+      {"wr": "1", "zr": "4", "wit": "Geert Maeckelbergh", "zwart": "Patrick Debast"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "19-11-2010",
+    "partijen": [
+      {"wr": "4F", "zr": "0F", "wit": "Robert Huysman", "zwart": "Patrick Debast"},
+      {"wr": "2", "zr": "2", "wit": "Peter Vanp\u00e9", "zwart": "Geert Maeckelbergh"},
+      {"wr": "2", "zr": "2", "wit": "Bernard Malfliet", "zwart": "Eric Cornelis"},
+      {"wr": "4", "zr": "1", "wit": "Diederik Lot", "zwart": "Louis van Duuren"},
+      {"wr": "4", "zr": "1", "wit": "Serge Vanderwaeren", "zwart": "Jean-Didier Kawanda"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "03-12-2010",
+    "partijen": [
+      {"wr": "4", "zr": "1", "wit": "Jean-Didier Kawanda", "zwart": "Robert Huysman"},
+      {"wr": "4", "zr": "1", "wit": "Louis van Duuren", "zwart": "Serge Vanderwaeren"},
+      {"wr": "1", "zr": "4", "wit": "Eric Cornelis", "zwart": "Diederik Lot"},
+      {"wr": "1", "zr": "4", "wit": "Geert Maeckelbergh", "zwart": "Bernard Malfliet"},
+      {"wr": "0F", "zr": "4F", "wit": "Patrick Debast", "zwart": "Peter Vanp\u00e9"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "07-01-2011",
+    "partijen": [
+      {"wr": "2", "zr": "2", "wit": "Robert Huysman", "zwart": "Peter Vanp\u00e9"},
+      {"wr": "2", "zr": "2", "wit": "Bernard Malfliet", "zwart": "Patrick Debast"},
+      {"wr": "2", "zr": "2", "wit": "Diederik Lot", "zwart": "Geert Maeckelbergh"},
+      {"wr": "4", "zr": "1", "wit": "Serge Vanderwaeren", "zwart": "Eric Cornelis"},
+      {"wr": "4", "zr": "1", "wit": "Jean-Didier Kawanda", "zwart": "Louis van Duuren"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "21-01-2011",
+    "partijen": [
+      {"wr": "4", "zr": "1", "wit": "Louis van Duuren", "zwart": "Robert Huysman"},
+      {"wr": "2", "zr": "2", "wit": "Eric Cornelis", "zwart": "Jean-Didier Kawanda"},
+      {"wr": "1", "zr": "4", "wit": "Geert Maeckelbergh", "zwart": "Serge Vanderwaeren"},
+      {"wr": "0F", "zr": "4F", "wit": "Patrick Debast", "zwart": "Diederik Lot"},
+      {"wr": "2", "zr": "2", "wit": "Peter Vanp\u00e9", "zwart": "Bernard Malfliet"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "18-02-2011",
+    "partijen": [
+      {"wr": "1", "zr": "4", "wit": "Robert Huysman", "zwart": "Bernard Malfliet"},
+      {"wr": "4", "zr": "1", "wit": "Diederik Lot", "zwart": "Peter Vanp\u00e9"},
+      {"wr": "4F", "zr": "0F", "wit": "Serge Vanderwaeren", "zwart": "Patrick Debast"},
+      {"wr": "1", "zr": "4", "wit": "Jean-Didier Kawanda", "zwart": "Geert Maeckelbergh"},
+      {"wr": "1", "zr": "4", "wit": "Louis van Duuren", "zwart": "Eric Cornelis"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "04-03-2011",
+    "partijen": [
+      {"wr": "2", "zr": "2", "wit": "Eric Cornelis", "zwart": "Robert Huysman"},
+      {"wr": "0F", "zr": "0F", "wit": "Geert Maeckelbergh", "zwart": "Louis van Duuren"},
+      {"wr": "0F", "zr": "4F", "wit": "Patrick Debast", "zwart": "Jean-Didier Kawanda"},
+      {"wr": "1", "zr": "4", "wit": "Peter Vanp\u00e9", "zwart": "Serge Vanderwaeren"},
+      {"wr": "1", "zr": "4", "wit": "Bernard Malfliet", "zwart": "Diederik Lot"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "18-03-2011",
+    "partijen": [
+      {"wr": "4", "zr": "1", "wit": "Robert Huysman", "zwart": "Diederik Lot"},
+      {"wr": "4", "zr": "1", "wit": "Serge Vanderwaeren", "zwart": "Bernard Malfliet"},
+      {"wr": "1", "zr": "4", "wit": "Jean-Didier Kawanda", "zwart": "Peter Vanp\u00e9"},
+      {"wr": "4F", "zr": "0F", "wit": "Louis van Duuren", "zwart": "Patrick Debast"},
+      {"wr": "1", "zr": "4", "wit": "Eric Cornelis", "zwart": "Geert Maeckelbergh"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "15-04-2011",
+    "partijen": [
+      {"wr": "1", "zr": "4", "wit": "Geert Maeckelbergh", "zwart": "Robert Huysman"},
+      {"wr": "0F", "zr": "4F", "wit": "Patrick Debast", "zwart": "Eric Cornelis"},
+      {"wr": "4F", "zr": "0F", "wit": "Peter Vanp\u00e9", "zwart": "Louis van Duuren"},
+      {"wr": "1", "zr": "4", "wit": "Bernard Malfliet", "zwart": "Jean-Didier Kawanda"},
+      {"wr": "1", "zr": "4", "wit": "Diederik Lot", "zwart": "Serge Vanderwaeren"}
+    ]
+  }
+]
