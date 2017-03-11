@@ -40,11 +40,11 @@
     "datum": "16-12-2016",
     "partijen": [
       {"wr": "0.5", "zr": "0.5", "wit": "Stijn Bertrand", "zwart": "Filip Van de Velde"},
-      {"wr": "", "zr": "", "wit": "Peter De Bosscher", "zwart": "Kjell Spaens"},
+      {"wr": "1", "zr": "0", "wit": "Peter De Bosscher", "zwart": "Kjell Spaens"},
       {"wr": "0", "zr": "1", "wit": "Eric Cornelis", "zwart": "Serge Vanderwaeren"},
       {"wr": "0", "zr": "1", "wit": "Bernard Malfliet", "zwart": "Geert Verrijken"},
       {"wr": "1", "zr": "0", "wit": "Walter De Reymaeker", "zwart": "Yves Baert"},
-      {"wr": "", "zr": "", "wit": "Diederik Lot", "zwart": "Robert Huysman"}
+      {"wr": "1", "zr": "0", "wit": "Diederik Lot", "zwart": "Robert Huysman"}
     ]
   },
   {
