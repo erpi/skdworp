@@ -87,12 +87,12 @@
     "ronde": "ronde 8",
     "datum": "19-02-2017",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "541 leuze 1", "uit": "174 brasschaat 2"},
-      {"tr": "", "ur": "", "thuis": "518 soignies 1", "uit": "401 kgsrl 4"},
-      {"tr": "", "ur": "", "thuis": "143 temse 2", "uit": "261 opwijk 1"},
-      {"tr": "", "ur": "", "thuis": "952 wavre 1", "uit": "432 wetteren 2"},
-      {"tr": "", "ur": "", "thuis": "226 europchess 2", "uit": "244 brussels 1"},
-      {"tr": "", "ur": "", "thuis": "278 pantin 1", "uit": "228 dworp 1"}
+      {"tr": "4", "ur": "2", "thuis": "541 leuze 1", "uit": "174 brasschaat 2"},
+      {"tr": "0.5", "ur": "5.5", "thuis": "518 soignies 1", "uit": "401 kgsrl 4"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "143 temse 2", "uit": "261 opwijk 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "952 wavre 1", "uit": "432 wetteren 2"},
+      {"tr": "4", "ur": "2", "thuis": "226 europchess 2", "uit": "244 brussels 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "278 pantin 1", "uit": "228 dworp 1"}
     ]
   },
   {
