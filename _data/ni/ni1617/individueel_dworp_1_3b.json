@@ -124,5 +124,42 @@
       {"tr": "0", "ur": "1", "tspeler": "Denys, Frank", "uspeler": "Boe, Oeyvind", "telo": 1917, "uelo": 1877, "tstam": 21881, "ustam": 14828},
       {"tr": "1", "ur": "0", "tspeler": "Lot, Diederik", "uspeler": "Frederiksen, Kristian Pad", "telo": 1911, "uelo": 1832, "tstam": 9954, "ustam": 60007}
     ]
+  },
+  {
+    "ronde": "8",
+    "datum": "19-02-2017",
+    "thuis": "278 Pantin 1",
+    "uit": "228 Dworp 1",
+    "tscore": 4.5,
+    "uscore": 1.5,
+    "tgem": 1960,
+    "ugem": 1949,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Dupuis, Cedric", "uspeler": "Vanderwaeren, Serge", "telo": 1949, "uelo": 2214, "tstam": 96105, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Boon, Alexis", "uspeler": "Spaens, Kjell", "telo": 1823, "uelo": 1937, "tstam": 77241, "ustam": 29343},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Ooghe, Jean-Marie", "uspeler": "Maeckelbergh, Geert", "telo": 1804, "uelo": 1844, "tstam": 70742, "ustam": 43419},
+      {"tr": "0", "ur": "1", "tspeler": "El Kadi, Ismael", "uspeler": "Verrijken, Geert", "telo": 1817, "uelo": 1938, "tstam": 13305, "ustam": 62766},
+      {"tr": "1", "ur": "0", "tspeler": "Deneyer, Frank", "uspeler": "De Reymaeker, Walter", "telo": 1741, "uelo": 1872, "tstam": 98919, "ustam": 34584},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Dupont, Claude", "uspeler": "Van De Velde, Filip", "telo": 1674, "uelo": 1689, "tstam": 78166, "ustam": 31682}
+      ]
+  },
+  {
+    "ronde": "9",
+    "datum": "13-03-2017",
+    "thuis": "174 Brasschaat 2",
+    "uit": "228 Dworp 1",
+    "tscore": 2,
+    "uscore": 4,
+    "tgem": 1960,
+    "ugem": 1949,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Dupuis, Cedric", "uspeler": "Vanderwaeren, Serge", "telo": 1949, "uelo": 2214, "tstam": 96105, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "Boon, Alexis", "uspeler": "Spaens, Kjell", "telo": 1823, "uelo": 1937, "tstam": 77241, "ustam": 29343},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Ooghe, Jean-Marie", "uspeler": "Maeckelbergh, Geert", "telo": 1804, "uelo": 1844, "tstam": 70742, "ustam": 43419},
+      {"tr": "1", "ur": "0", "tspeler": "El Kadi, Ismael", "uspeler": "Verrijken, Geert", "telo": 1817, "uelo": 1938, "tstam": 13305, "ustam": 62766},
+      {"tr": "0", "ur": "1", "tspeler": "Deneyer, Frank", "uspeler": "De Reymaeker, Walter", "telo": 1741, "uelo": 1872, "tstam": 98919, "ustam": 34584},
+      {"tr": "0", "ur": "1", "tspeler": "Dupont, Claude", "uspeler": "Van De Velde, Filip", "telo": 1674, "uelo": 1689, "tstam": 78166, "ustam": 31682}
+       ]
   }
+  
 ]
