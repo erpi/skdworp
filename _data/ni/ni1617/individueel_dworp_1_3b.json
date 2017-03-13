@@ -132,8 +132,8 @@
     "uit": "228 Dworp 1",
     "tscore": 4.5,
     "uscore": 1.5,
-    "tgem": 1960,
-    "ugem": 1949,
+    "tgem": 2082,
+    "ugem": 1900,
     "borden": [
       {"tr": "0.5", "ur": "0.5", "tspeler": "Collette Benjamin", "uspeler": "Vanderwaeren, Serge", "telo": 2178, "uelo": 2214, "tstam": 65544, "ustam": 20621},
       {"tr": "1", "ur": "0", "tspeler": "Mayr, Thomas", "uspeler": "Spaens, Kjell", "telo": 2150, "uelo": 1937, "tstam": 15582, "ustam": 29343},
@@ -151,7 +151,7 @@
     "tscore": 2,
     "uscore": 4,
     "tgem": 1960,
-    "ugem": 1949,
+    "ugem": 1954,
     "borden": [
       {"tr": "0.5", "ur": "0.5", "tspeler": "Mitran, Anthony Cristian", "uspeler": "Vanderwaeren, Serge", "telo": 2150, "uelo": 2214, "tstam": 12736, "ustam": 20621},
       {"tr": "0", "ur": "1", "tspeler": "De Smedt, Mark", "uspeler": "Spaens, Kjell", "telo": 2010, "uelo": 1937, "tstam": 28240, "ustam": 29343},
