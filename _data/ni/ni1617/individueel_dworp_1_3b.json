@@ -153,12 +153,12 @@
     "tgem": 1960,
     "ugem": 1949,
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Dupuis, Cedric", "uspeler": "Vanderwaeren, Serge", "telo": 1949, "uelo": 2214, "tstam": 96105, "ustam": 20621},
-      {"tr": "0", "ur": "1", "tspeler": "Boon, Alexis", "uspeler": "Spaens, Kjell", "telo": 1823, "uelo": 1937, "tstam": 77241, "ustam": 29343},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Ooghe, Jean-Marie", "uspeler": "Maeckelbergh, Geert", "telo": 1804, "uelo": 1844, "tstam": 70742, "ustam": 43419},
-      {"tr": "1", "ur": "0", "tspeler": "El Kadi, Ismael", "uspeler": "Verrijken, Geert", "telo": 1817, "uelo": 1938, "tstam": 13305, "ustam": 62766},
-      {"tr": "0", "ur": "1", "tspeler": "Deneyer, Frank", "uspeler": "De Reymaeker, Walter", "telo": 1741, "uelo": 1872, "tstam": 98919, "ustam": 34584},
-      {"tr": "0", "ur": "1", "tspeler": "Dupont, Claude", "uspeler": "Van De Velde, Filip", "telo": 1674, "uelo": 1689, "tstam": 78166, "ustam": 31682}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Mitran, Anthony Cristian", "uspeler": "Vanderwaeren, Serge", "telo": 2150, "uelo": 2214, "tstam": 12736, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "De Smedt, Mark", "uspeler": "Spaens, Kjell", "telo": 2010, "uelo": 1937, "tstam": 28240, "ustam": 29343},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Osinga, Angelique", "uspeler": "Maeckelbergh, Geert", "telo": 1972, "uelo": 1894, "tstam": 12370, "ustam": 43419},
+      {"tr": "1", "ur": "0", "tspeler": "Holwijn, Melvin", "uspeler": "Verrijken, Geert", "telo": 1971, "uelo": 1893, "tstam": 14187, "ustam": 62766},
+      {"tr": "0", "ur": "1", "tspeler": "Van Nieuwenhuizen, Hans", "uspeler": "Denys, Frank", "telo": 1873, "uelo": 1892, "tstam": 12959, "ustam": 21881},
+      {"tr": "0", "ur": "1", "tspeler": "Beukema, Christiaan", "uspeler": "Lot, Diederik", "telo": 1782, "uelo": 1891, "tstam": 11418, "ustam": 9954}
        ]
   }
   
