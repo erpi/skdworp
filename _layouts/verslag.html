@@ -37,8 +37,10 @@ layout: compress
               <div class="col-xs-12 col-sm-6">
                 <p class="lead">wit: {{ page.stelling_wit | downcase  }}<br>zwart: {{ page.stelling_zwart | downcase  }}</p>
                 <p>{{ page.stelling_uitleg }}</p>
-                <div id="tonen"><p><a href="#" onclick="toonOplossing();return false;">toon oplossing</a></p></div>
-                <div id="oplossing" class="hidden"><p>{{ page.stelling_oplossing }}</p></div>
+                {% if page.stelling_oplossing and page.stelling_oplossing != '' %}
+                  <div id="tonen"><p><a href="#" onclick="toonOplossing();return false;">toon oplossing</a></p></div>
+                  <div id="oplossing" class="hidden"><p>{{ page.stelling_oplossing }}</p></div>
+                {% endif %}
                 <p><a href="https://nl.lichess.org/analysis/_{{ page.stelling_fen | replace: " ", "_"}}" target="_blank">lichess.org analyse bord</a><p>
               </div>
             </div>
