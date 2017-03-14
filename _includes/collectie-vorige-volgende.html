@@ -4,19 +4,25 @@
     {% if document.title == page.title %}
       {% unless forloop.first %}
         {% assign purl = previous.url %}
-        {% capture vorige %}&lt; {{ previous.beginjaar }} - {{ previous.beginjaar | plus: 1 }}{% endcapture %}
+        {% capture vorige %}{{ previous.beginjaar }} - {{ previous.beginjaar | plus: 1 }}{% endcapture %}
+      {% else %}
+        {% capture vorige %}{{ page.beginjaar | minus: 2 }} - {{ page.beginjaar | minus: 1 }}{% endcapture %}
       {% endunless %}
       {% unless forloop.last %}
         {% assign next = collectie[forloop.index] %}
         {% assign nurl = next.url %}
-        {% capture volgende %}{{ next.beginjaar }} - {{ next.beginjaar | plus: 1 }} &gt;{% endcapture %}
+        {% capture volgende %}{{ next.beginjaar }} - {{ next.beginjaar | plus: 1 }}{% endcapture %}
+      {% else %}
+        {% capture volgende %}{{ page.beginjaar | plus: 1 }} - {{ page.beginjaar | plus: 2 }}{% endcapture %}
       {% endunless %}
       {% break %}
     {% endif %}
     {% assign previous = document %}
   {% endfor %}
-  <div class="row">
-    <div class="col-xs-6">{% if purl %}<a href="{{ purl | relative_url }}">{{ vorige }}</a>{% endif %}</div>
-    <div class="col-xs-6 alignright">{% if nurl %}<a href="{{ nurl | relative_url }}">{{ volgende }}</a>{% endif %}</div>
-  </div>
+  <nav aria-label="vorige volgende navigatie">
+    <ul class="pager">
+      <li class="previous{% unless purl %} disabled{% endunless %}"><a href="{{ purl | relative_url }}"><span aria-hidden="true">&larr;</span> {{ vorige }}</a></li>
+      <li class="next{% unless nurl %} disabled{% endunless %}"><a href="{{ nurl | relative_url }}">{{ volgende }} <span aria-hidden="true">&rarr;</span></a></li>
+    </ul>
+  </nav>
 {% endunless %}

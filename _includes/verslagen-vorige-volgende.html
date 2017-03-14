@@ -1,6 +1,8 @@
 {% unless page.no_prev_next %}
-  <div class="row">
-    <div class="col-xs-6">{% if page.previous %}<a href="{{ page.previous.url | relative_url }}">vorig verslag</a>{% endif %}</div>
-    <div class="col-xs-6 alignright">{% if page.next %}<a href="{{ page.next.url | relative_url }}">volgend verslag</a>{% endif %}</div>
-  </div>
+<nav aria-label="vorige volgende navigatie">
+  <ul class="pager">
+    <li class="previous{% unless page.previous %} disabled{% endunless %}"><a href="{{ page.previous.url | relative_url }}"><span aria-hidden="true">&larr;</span> vorig verslag</a></li>
+    <li class="next{% unless page.next %} disabled{% endunless %}"><a href="{{ page.next.url | relative_url }}">volgend verslag <span aria-hidden="true">&rarr;</span></a></li>
+  </ul>
+</nav>
 {% endunless %}
