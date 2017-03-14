@@ -13,6 +13,7 @@
 
       <ul class="nav navbar-nav navbar-right">
         <li{% if page.url == '/kalender/' %} class="active"{% endif %}><a href="{{ "/kalender/" | relative_url }}">kalender</a></li>
+        <li{% if page.url contains '/journaal/' %} class="active"{% endif %}><a href="{{ "/journaal/" | relative_url }}">journaal</a></li>
         <li class="dropdown">
           <!-- add href="#" attibute to <a> to fix safari weirdness,
               or add "clickable" to class attribute of <a>
