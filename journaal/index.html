@@ -1,0 +1,34 @@
+---
+layout: journaal
+title: Webjournaal
+description: blog met onder andere verslagen van interclubs en clubkampioenschap
+---
+{% if paginator.page > 1 %}
+  {% include pagination.html %}
+{% endif %}
+
+{% for post in paginator.posts %}
+{% if post.tag == "kk" %}
+  {% assign tag = "klubkampioenschap" %}
+{% elsif post.tag == "ni" %}
+  {% assign tag = "interclubs" %}
+{% else %}
+  {% assign tag =  post.tag %}
+{% endif %}
+
+<article>
+  <div style="padding:10px 30px 0px;">
+  <header>
+    <h1>
+      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
+    </h1>
+  </header>
+  <p class="lead">{{ post.content | strip_html | truncatewords: 40 | downcase }}</p>
+  <p class="lead"><a href="{{ post.url | relative_url }}" title="Permalink to: {{ post.title }}">lees meer &raquo;</a></p>
+  <p class="lead"><span class="fa fa-user" aria-hidden="true"></span> {{ post.author | downcase }} <span class="fa fa-tag" aria-hidden="true"></span> {{ tag }} <span class="fa fa-clock-o" aria-hidden="true"></span> <time>{% include datum.html date=post.date %}</time></p>
+  </div>
+  <hr style="border-color:#CF4A1C">
+</article>
+{% endfor %}
+
+{% include pagination.html %}

@@ -1,0 +1,21 @@
+{% if paginator.total_pages > 1 %}
+<div class="row lead">
+  <div class="col-xs-4" style="text-align:left">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">&laquo; vorige</a>
+  {% else %}
+    <span class="previous">&laquo; vorige</span>
+  {% endif %}
+  </div>
+  <div class="col-xs-4" style="text-align:center;">
+  <span class="page_number ">pagina {{ paginator.page }} van {{ paginator.total_pages }}</span>
+  </div>
+  <div class="col-xs-4" style="text-align:right">
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">volgende &raquo;</a>
+  {% else %}
+    <span class="next ">volgende &raquo;</span>
+  {% endif %}
+  </div>
+</div>
+{% endif %}

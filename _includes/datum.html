@@ -1,5 +1,5 @@
-{% assign maand = page.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}
+{% assign maand = include.date | date: "%-m" %}
+{{ include.date | date: "%-d" }}
 {% case maand %}
   {% when '1' %}januari
   {% when '2' %}februari
@@ -14,4 +14,4 @@
   {% when '11' %}november
   {% when '12' %}december
   {% endcase %}
-{{ page.date | date: "%Y" }}
+{{ include.date | date: "%Y" }}
