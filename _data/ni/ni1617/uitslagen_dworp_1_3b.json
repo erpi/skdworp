@@ -99,12 +99,12 @@
     "ronde": "ronde 9",
     "datum": "12-03-2017",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "174 brasschaat 2", "uit": "228 dworp 1"},
-      {"tr": "", "ur": "", "thuis": "244 brussels 1", "uit": "278 pantin 1"},
-      {"tr": "", "ur": "", "thuis": "432 wetteren 2", "uit": "226 europchess 2"},
-      {"tr": "", "ur": "", "thuis": "261 opwijk 1", "uit": "952 wavre 1"},
-      {"tr": "", "ur": "", "thuis": "401 kgsrl 4", "uit": "143 temse 2"},
-      {"tr": "", "ur": "", "thuis": "541 leuze 1", "uit": "518 soignies 1"}
+      {"tr": "2", "ur": "4", "thuis": "174 brasschaat 2", "uit": "228 dworp 1"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "244 brussels 1", "uit": "278 pantin 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "432 wetteren 2", "uit": "226 europchess 2"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "261 opwijk 1", "uit": "952 wavre 1"},
+      {"tr": "3", "ur": "3", "thuis": "401 kgsrl 4", "uit": "143 temse 2"},
+      {"tr": "3", "ur": "3", "thuis": "541 leuze 1", "uit": "518 soignies 1"}
     ]
   },
   {
