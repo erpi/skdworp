@@ -16,3 +16,5 @@ Behalve dit incident verliep het toernooi vlekkenloos. De eerste reeks was trouw
 Zelf was ik Elo-favoriet (1964) in de tweede reeks. Uiteindelijk werd ik ook gedeeld eerste samen met **_Guido Permentier_** (Elo 1725) en **_Erik Vande Velde_** (Elo 1924) met 5/7. In reeks drie speelde **_Bob Huysman_** (Elo 1481) mee. Hij haalde een mooie derde plaats met 4/7. De eerste plaats ging hier naar **_Piet Ulburghs_** (Elo 1624) met 5,5/7. Ten slotte was er nog een vierde reeks. Die werd gewonnen door **_Roger Buelens_**  (Elo 1382) met 6/7.
 
 Al bij al een leuke pot zaterdagnamiddagschaak. Fijne bieren werden verloot onder de deelnemers. Samen met een goed prijzengeld in elke reeks zorgde dit voor heel wat tevreden gezichten. Deze competitie, in de wandelgangen het oude zakken ofte krasse knarren tornooi genoemd, kan nog groeien. Het mag beslist een vaste plaats op de kalender krijgen. Deze competitie bewijst immers dat op schaaktalent en -vreugde geen leeftijd staat.
+
+[volledige uitslag op de website van de VSF](https://sites.google.com/site/vlaamseschaakfederatie/historiek/recente-toernooien/1e-vsf-rapid-50-65)
