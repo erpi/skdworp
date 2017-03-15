@@ -7,6 +7,7 @@ sitemap: false
 link_github: "https://raw.githubusercontent.com/erpi/skdworp/gh-pages/_posts/"
 ni_voorbeeld: "2017-01-29-ni-r6-verslag-geert.md"
 kk_voorbeeld: "2017-02-05-kk-r6-verslag-diederik.md"
+varia_voorbeeld: "2017-03-13-vsf-rapid-50plus.md"
 ---
 <form class="form-horizontal" method="post" action="https://api.staticman.net/v2/entry/erpi/skdworp/gh-pages/posts">
   <input type="hidden" name="options[redirect]" value="{{ site.url }}/bevestiging-verslag/">
@@ -19,11 +20,14 @@ kk_voorbeeld: "2017-02-05-kk-r6-verslag-diederik.md"
         <select required class="form-control" id="type-verslag" name="fields[tag]" value="ni" autofocus>
           <option value="ni" selected>nationale interclubs</option>
           <option value="kk">klubkampioenschap</option>
+          <option value="varia">varia</option>
         </select>
         <span id="help-tag-ni" class="help-block">een voorbeeld van een vorig
           verslag van de nationionale interclubs vind je <a href="{{ page.link_github }}{{ page.ni_voorbeeld }}" target="_blank">hier</a></span>
         <span id="help-tag-kk" class="help-block">een voorbeeld van een vorig
           verslag van het klubkampioenschap vind je <a href="{{ page.link_github }}{{ page.kk_voorbeeld }}" target="_blank">hier</a></span>
+        <span id="help-tag-varia" class="help-block">een voorbeeld van een vorig
+          varia verslag vind je <a href="{{ page.link_github }}{{ page.varia_voorbeeld }}" target="_blank">hier</a></span>
       </div>
     </div>
     <div id="interclubs-info">
