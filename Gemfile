@@ -19,11 +19,11 @@ ruby RUBY_VERSION
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # pieter: lijn hieronder enabled
-#gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 # pieter: tijdelijk '104' toegevoegd.
-gem 'github-pages', '104', group: :jekyll_plugins
+#gem 'github-pages', '104', group: :jekyll_plugins
 gem 'therubyracer'
-gem 'html-proofer'
+#gem 'html-proofer'
 
 # If you have any plugins, put them here!
 # pieter: feed niet nodig
