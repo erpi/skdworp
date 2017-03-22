@@ -29,7 +29,7 @@ feed: true
         <span class="fa fa-user" aria-hidden="true"></span>
         {{ post.author | downcase }}&nbsp; <span class="fa fa-tag" aria-hidden="true"></span>
         {{ tag }}&nbsp; <span class="fa fa-clock-o" aria-hidden="true"></span>
-        <time>{% include datum.html date=post.date %}</time></p>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{% include datum.html date=post.date %}</time></p>
     </footer>
     </div>
     <hr style="border-color:#CF4A1C">

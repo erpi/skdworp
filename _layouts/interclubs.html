@@ -85,7 +85,7 @@ bv. "2016" als waarde voor beginjaar geeft als waarde voor submap "ni1617"
   {% elsif bestand[0] contains "uitslagen" %}
     {% include table-interclubs-uitslagen.html datafile=data %}
   {% elsif bestand[0] contains "tussenstand" %}
-    {% include table-interclubs-eindstand.html datafile=data %}
+    {% include table-tussenstand.html id="ni" %}
   {% endif %}
 
   {% include tab-pane-end.html %}
