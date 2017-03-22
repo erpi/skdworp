@@ -43,7 +43,7 @@ $(document).ready(function(){
         function totaalKolom(kolom) {
             var i, res, totaal = 0;
             for (i = 0; i < rooster.length; i++) {
-                res = rooster[i][kolom]
+                res = rooster[i][kolom];
                 if (Number.isFinite(res)) {totaal += res;}
             }
             return totaal;
