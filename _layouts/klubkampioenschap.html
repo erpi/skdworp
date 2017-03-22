@@ -73,7 +73,7 @@ bv. "2016" als waarde voor beginjaar geeft als waarde voor submap "kk1617"
   {% elsif bestand[0] contains "eindstand" %}
     {% include table-eindstand.html datafile=data %}
   {% elsif bestand[0] contains "tussenstand" %}
-    {% include table-eindstand.html datafile=data %}
+    {% include table-tussenstand.html id="kk" %}
   {% endif %}
 
   {% include tab-pane-end.html %}
