@@ -1,5 +1,5 @@
 module.exports = function(grunt) {
-  var navbar = ['.fade', '.fade.in', '.collapse', '.collapse.in', '.collapsing', '.alert-danger', /\.open/];
+  var navbar = ['.fade', '.fade.in', '.collapse', '.collapse.in', '.collapsing', '.alert-danger', /\.open/, /\.navbar-nav.+\.active/];
   var navchess = navbar.concat([/\.clearfix/, /\.board/, /\.square/, /\.white/, /\.black/, /\.highlight/, /\.notation/, /\.alpha/, /\.numeric/]);
   var navchessimg = navchess.concat(['.img-responsive', '.center-block'])
   var navblitz = navbar.concat([".doorstreept"])
