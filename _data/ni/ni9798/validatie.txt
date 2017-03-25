@@ -1,0 +1,69 @@
+Ronde 2: Dworp 1: fout: som thuisscores '0.5' niet gelijk aan totaal 'None'
+Ronde 2: Dworp 1: fout: som uitscores '3.5' niet gelijk aan totaal 'None'
+Ronde 6: Dworp 2: fout: som thuisscores '2.0' niet gelijk aan totaal 'None'
+Ronde 6: Dworp 2: fout: som uitscores '2.0' niet gelijk aan totaal 'None'
+Ronde 7: Dworp 3: fout: som thuisscores '3.0' niet gelijk aan totaal 'None'
+Ronde 7: Dworp 3: fout: som uitscores '1.0' niet gelijk aan totaal 'None'
+Ronde 1: Dworp 1: fout: '506 mons 3' niet gevonden in kruistabel (spelling?)
+Ronde 1: Dworp 1: waarschuwing: score tegen '506 mons 3' is niet gecontroleerd in kruistabel
+Ronde 1: Dworp 2: fout: '506 mons 4' niet gevonden in kruistabel (spelling?)
+Ronde 1: Dworp 2: waarschuwing: score tegen '506 mons 4' is niet gecontroleerd in kruistabel
+Ronde 1: Dworp 3: waarschuwing: geen ploegnaam gevonden
+Ronde 2: Dworp 1: fout: '953 nivelles 1' niet gevonden in kruistabel (spelling?)
+Ronde 2: Dworp 1: waarschuwing: score tegen '953 nivelles 1' is niet gecontroleerd in kruistabel
+Ronde 2: Dworp 2: fout: '518 soignies 2' niet gevonden in kruistabel (spelling?)
+Ronde 2: Dworp 2: waarschuwing: score tegen '518 soignies 2' is niet gecontroleerd in kruistabel
+Ronde 2: Dworp 3: fout: '243 leuven 4' niet gevonden in kruistabel (spelling?)
+Ronde 2: Dworp 3: waarschuwing: score tegen '243 leuven 4' is niet gecontroleerd in kruistabel
+Ronde 3: Dworp 1: fout: '601 liège 3' niet gevonden in kruistabel (spelling?)
+Ronde 3: Dworp 1: waarschuwing: score tegen '601 liège 3' is niet gecontroleerd in kruistabel
+Ronde 3: Dworp 2: fout: '540 gazomat gilly 1' niet gevonden in kruistabel (spelling?)
+Ronde 3: Dworp 2: waarschuwing: score tegen '540 gazomat gilly 1' is niet gecontroleerd in kruistabel
+Ronde 3: Dworp 3: fout: '135 geel 1' niet gevonden in kruistabel (spelling?)
+Ronde 3: Dworp 3: waarschuwing: score tegen '135 geel 1' is niet gecontroleerd in kruistabel
+Ronde 4: Dworp 1: fout: '266 desperado leuven 2' niet gevonden in kruistabel (spelling?)
+Ronde 4: Dworp 1: waarschuwing: score tegen '266 desperado leuven 2' is niet gecontroleerd in kruistabel
+Ronde 4: Dworp 2: fout: '203 fous du roy 2' niet gevonden in kruistabel (spelling?)
+Ronde 4: Dworp 2: waarschuwing: score tegen '203 fous du roy 2' is niet gecontroleerd in kruistabel
+Ronde 4: Dworp 3: fout: '130 hoboken 10' niet gevonden in kruistabel (spelling?)
+Ronde 4: Dworp 3: waarschuwing: score tegen '130 hoboken 10' is niet gecontroleerd in kruistabel
+Ronde 5: Dworp 1: fout: '272 tibéchecs 1' niet gevonden in kruistabel (spelling?)
+Ronde 5: Dworp 1: waarschuwing: score tegen '272 tibéchecs 1' is niet gecontroleerd in kruistabel
+Ronde 5: Dworp 2: fout: '505 carnières ' niet gevonden in kruistabel (spelling?)
+Ronde 5: Dworp 2: waarschuwing: score tegen '505 carnières ' is niet gecontroleerd in kruistabel
+Ronde 5: Dworp 3: fout: '186 olen 3' niet gevonden in kruistabel (spelling?)
+Ronde 5: Dworp 3: waarschuwing: score tegen '186 olen 3' is niet gecontroleerd in kruistabel
+Ronde 6: Dworp 1: fout: '260 humbeek 2' niet gevonden in kruistabel (spelling?)
+Ronde 6: Dworp 1: waarschuwing: score tegen '260 humbeek 2' is niet gecontroleerd in kruistabel
+Ronde 6: Dworp 2: fout: '204 excelsior 1' niet gevonden in kruistabel (spelling?)
+Ronde 6: Dworp 2: waarschuwing: score tegen '204 excelsior 1' is niet gecontroleerd in kruistabel
+Ronde 6: Dworp 3: fout: '260 humbeek 3' niet gevonden in kruistabel (spelling?)
+Ronde 6: Dworp 3: waarschuwing: score tegen '260 humbeek 3' is niet gecontroleerd in kruistabel
+Ronde 7: Dworp 1: fout: '244 thibuccle 3' niet gevonden in kruistabel (spelling?)
+Ronde 7: Dworp 1: waarschuwing: score tegen '244 thibuccle 3' is niet gecontroleerd in kruistabel
+Ronde 7: Dworp 2: fout: '521 tournai 2' niet gevonden in kruistabel (spelling?)
+Ronde 7: Dworp 2: waarschuwing: score tegen '521 tournai 2' is niet gecontroleerd in kruistabel
+Ronde 7: Dworp 3: fout: '410 sint-niklaas 1' niet gevonden in kruistabel (spelling?)
+Ronde 7: Dworp 3: waarschuwing: score tegen '410 sint-niklaas 1' is niet gecontroleerd in kruistabel
+Ronde 8: Dworp 1: fout: '243 leuven 3' niet gevonden in kruistabel (spelling?)
+Ronde 8: Dworp 1: waarschuwing: score tegen '243 leuven 3' is niet gecontroleerd in kruistabel
+Ronde 8: Dworp 3: fout: '174 brasschat 5' niet gevonden in kruistabel (spelling?)
+Ronde 8: Dworp 3: waarschuwing: score tegen '174 brasschat 5' is niet gecontroleerd in kruistabel
+Ronde 9: Dworp 1: fout: '229 woluwe 2' niet gevonden in kruistabel (spelling?)
+Ronde 9: Dworp 1: waarschuwing: score tegen '229 woluwe 2' is niet gecontroleerd in kruistabel
+Ronde 9: Dworp 2: fout: '952 wavre 2' niet gevonden in kruistabel (spelling?)
+Ronde 9: Dworp 2: waarschuwing: score tegen '952 wavre 2' is niet gecontroleerd in kruistabel
+Ronde 9: Dworp 3: fout: '436 lokeren ' niet gevonden in kruistabel (spelling?)
+Ronde 9: Dworp 3: waarschuwing: score tegen '436 lokeren ' is niet gecontroleerd in kruistabel
+Ronde 10: Dworp 1: fout: '501 cre charleroi 3' niet gevonden in kruistabel (spelling?)
+Ronde 10: Dworp 1: waarschuwing: score tegen '501 cre charleroi 3' is niet gecontroleerd in kruistabel
+Ronde 10: Dworp 2: fout: '501 cre charleroi 4' niet gevonden in kruistabel (spelling?)
+Ronde 10: Dworp 2: waarschuwing: score tegen '501 cre charleroi 4' is niet gecontroleerd in kruistabel
+Ronde 10: Dworp 3: fout: '266 desperado 4' niet gevonden in kruistabel (spelling?)
+Ronde 10: Dworp 3: waarschuwing: score tegen '266 desperado 4' is niet gecontroleerd in kruistabel
+Ronde 11: Dworp 1: fout: '209 anderlecht 3' niet gevonden in kruistabel (spelling?)
+Ronde 11: Dworp 1: waarschuwing: score tegen '209 anderlecht 3' is niet gecontroleerd in kruistabel
+Ronde 11: Dworp 2: fout: '209 anderlecht 4' niet gevonden in kruistabel (spelling?)
+Ronde 11: Dworp 2: waarschuwing: score tegen '209 anderlecht 4' is niet gecontroleerd in kruistabel
+Ronde 11: Dworp 3: fout: '261 opwijk 2' niet gevonden in kruistabel (spelling?)
+Ronde 11: Dworp 3: waarschuwing: score tegen '261 opwijk 2' is niet gecontroleerd in kruistabel
