@@ -267,12 +267,16 @@ class generator:
             ws = self._wb["R" + str(r)]
             for p in self._ploegen:
                 try:
-                    if ws[self._cell_thuisploeg[p]].value.lower().find("dworp") == -1:
-                        tegenstander = ws[self._cell_thuisploeg[p]].value.lower()
-                        score = int(ws[self._cell_uitscore[p]].value * 10)
-                    else:
-                        tegenstander = ws[self._cell_uitploeg[p]].value.lower()
-                        score = int(ws[self._cell_thuisscore[p]].value * 10)
+                    try:
+                        if ws[self._cell_thuisploeg[p]].value.lower().find("dworp") == -1:
+                            tegenstander = ws[self._cell_thuisploeg[p]].value.lower()
+                            score = int(ws[self._cell_uitscore[p]].value * 10)
+                        else:
+                            tegenstander = ws[self._cell_uitploeg[p]].value.lower()
+                            score = int(ws[self._cell_thuisscore[p]].value * 10)
+                    except TypeError:
+                        # wanneer er geen som van de individuele resultaten is ingevuld krijgen we hier een TypeError
+                        score = -9999
                     for n in self._tegenstanders[p]:
                         if n[0].find(tegenstander) != -1:
                             if tegenstander != n[0]:
