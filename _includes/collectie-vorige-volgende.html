@@ -1,19 +1,36 @@
 {% unless page.no_prev_next %}
-  {% assign collectie = site[page.collection] | sort: 'beginjaar' %}
+    {% if page.collection == "elo" %}
+    {{ elo }}
+      {% assign collectie = site[page.collection] | sort: 'rangschikking' %}
+    {% else %}
+      {% assign collectie = site[page.collection] | sort: 'beginjaar' %}
+    {% endif %}
   {% for document in collectie  %}
     {% if document.title == page.title %}
       {% unless forloop.first %}
         {% assign purl = previous.url %}
         {% capture vorige %}{{ previous.beginjaar }} - {{ previous.beginjaar | plus: 1 }}{% endcapture %}
+        {% if page.collection == "elo" %}
+          {% assign vorige = previous.title | remove_first: "elolijst " %}
+        {% endif %}
       {% else %}
         {% capture vorige %}{{ page.beginjaar | minus: 2 }} - {{ page.beginjaar | minus: 1 }}{% endcapture %}
+        {% if page.collection == "elo" %}
+          {% assign vorige = "n/a" %}
+        {% endif %}
       {% endunless %}
       {% unless forloop.last %}
         {% assign next = collectie[forloop.index] %}
         {% assign nurl = next.url %}
         {% capture volgende %}{{ next.beginjaar }} - {{ next.beginjaar | plus: 1 }}{% endcapture %}
+        {% if page.collection == "elo" %}
+          {% assign volgende = next.title | remove_first: "elolijst " %}
+        {% endif %}
       {% else %}
         {% capture volgende %}{{ page.beginjaar | plus: 1 }} - {{ page.beginjaar | plus: 2 }}{% endcapture %}
+        {% if page.collection == "elo" %}
+          {% assign volgende = "n/a" %}
+        {% endif %}
       {% endunless %}
       {% break %}
     {% endif %}
