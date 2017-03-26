@@ -160,6 +160,24 @@
       {"tr": "0", "ur": "1", "tspeler": "Van Nieuwenhuizen, Hans", "uspeler": "Denys, Frank", "telo": 1873, "uelo": 1892, "tstam": 12959, "ustam": 21881},
       {"tr": "0", "ur": "1", "tspeler": "Beukema, Christiaan", "uspeler": "Lot, Diederik", "telo": 1782, "uelo": 1891, "tstam": 11418, "ustam": 9954}
        ]
+  },
+  {
+    "ronde": "10",
+    "datum": "26-03-2017",
+    "thuis": "228 Dworp 1",
+    "uit": "244 Brussels 1",
+    "tscore": 3,
+    "uscore": 3,
+    "tgem": 1940,
+    "ugem": 1885,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren, Serge", "uspeler": "Guisset, Philippe", "telo": 2214, "uelo": 1965, "tstam": 20621, "ustam": 97250},
+      {"tr": "0", "ur": "1", "tspeler": "Spaens, Kjell", "uspeler": "Sochman, Petr", "telo": 1937, "uelo": 1919, "tstam": 29343, "ustam": 10991},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh, Geert", "uspeler": "Lombart, Philippe", "telo": 1894, "uelo": 1918, "tstam": 43419, "ustam": 41831},
+      {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Cottenier, Christophe", "telo": 1893, "uelo": 1912, "tstam": 62766, "ustam": 86398},
+      {"tr": "0", "ur": "1", "tspeler": "Denys, Frank", "uspeler": "Mabille, Natacha", "telo": 1892, "uelo": 1911, "tstam": 21881, "ustam": 90611},
+      {"tr": "0", "ur": "1", "tspeler": "De Bosscher, Peter", "uspeler": "Boujmil, Said", "telo": 1812, "uelo": 1684, "tstam": 655, "ustam": 61735}
+       ]
   }
-  
+
 ]
