@@ -88,6 +88,8 @@ defaults:
       type: interclubs
     values:
       layout: interclubs
+      noindex: true
+      sitemap: false
   - scope:
       path: ""
       type: inzet
