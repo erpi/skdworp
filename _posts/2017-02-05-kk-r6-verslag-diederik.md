@@ -55,9 +55,9 @@ In het klassement blijft Walter aan de leiding, gevolgd door Serge, Diederik en 
 
 Wordt vervolgd....
 
-[spelers]: {{ site.url }}/images/kk1617/r6_diederik_spelers.jpg
-[stelling 1]: {{ site.url }}/images/kk1617/r6_diederik_stelling_1.png
-[stelling 2]: {{ site.url }}/images/kk1617/r6_diederik_stelling_2.png
-[stelling 3]: {{ site.url }}/images/kk1617/r6_diederik_stelling_3.png
-[stelling 4]: {{ site.url }}/images/kk1617/r6_diederik_stelling_4.png
-[stelling 5]: {{ site.url }}/images/kk1617/r6_diederik_stelling_5.png
+[spelers]: {{ "/images/kk1617/r6_diederik_spelers.jpg" | absolute_url }}
+[stelling 1]: {{ "/images/kk1617/r6_diederik_stelling_1.png" | absolute_url }}
+[stelling 2]: {{ "/images/kk1617/r6_diederik_stelling_2.png" | absolute_url }}
+[stelling 3]: {{ "/images/kk1617/r6_diederik_stelling_3.png" | absolute_url }}
+[stelling 4]: {{ "/images/kk1617/r6_diederik_stelling_4.png" | absolute_url }}
+[stelling 5]: {{ "/images/kk1617/r6_diederik_stelling_5.png" | absolute_url }}
