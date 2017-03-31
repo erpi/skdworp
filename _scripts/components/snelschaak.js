@@ -28,10 +28,10 @@ $(document).ready(function(){
     function ssUitslagenDoorstrepen() {
         var i, beginKolom, uitslagen;
         if (ssTabel[0].rows[0].cells[2].innerHTML.toLowerCase() != 'av') {
-            // uitslagen av tellen niet mee en dienen niet doorstreept te worden
             beginKolom = 2;
         } else {
-            beginKolom = 2;
+            // uitslagen av tellen niet mee en dienen niet doorstreept te worden
+            beginKolom = 3;
         }
         $('.ss-stand > tbody  > tr').each(function() {
             uitslagen = [];
