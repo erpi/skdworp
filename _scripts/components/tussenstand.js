@@ -164,7 +164,7 @@ $(document).ready(function(){
         // console.log(tabel);
         return tabel;
     }
-    kruisTabel = document.getElementsByClassName("table-tussenstand");
+    kruisTabel = document.getElementsByClassName("kruis-tussenstand");
     if (kruisTabel[0]) {
         soort = kruisTabel[0].id;
         uitslagenInlezen();

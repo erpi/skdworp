@@ -28,10 +28,20 @@ layout: default
     {% include tab-pane-start.html href=tab aktief=false %}
   {% endif %}
   {% assign data = bestanden[tab] %}
-  {% if tab contains "stand" %}
-    {% include table-snelschaak.html datafile=data %}
+  {% if tab contains "eindstand" %}
+    {% include table-ss-eindstand.html datafile=data %}
+  {% elsif tab contains "tussenstand" %}
+    {% include table-ss-tussenstand.html datafile=data %}
   {% else %}
     {% include table-eindstand.html datafile=data %}
+  {% endif %}
+  {% if tab contains "stand" %}
+  <p>
+      <span class="dworp">winnaar(s) van de avond in blauw</span><br>
+      {% if tabs.last == "av" %}
+      <span class="schuin">* buiten competitie</span>
+      {% endif %}
+  </p>
   {% endif %}
   {% include tab-pane-end.html %}
 {% endfor %}
