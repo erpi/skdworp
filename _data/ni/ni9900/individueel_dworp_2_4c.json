@@ -1,0 +1,178 @@
+[
+  {
+    "ronde": "1",
+    "datum": "03-10-1999",
+    "thuis": "228 Dworp 2",
+    "uit": "Fous du Roy 2",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1802",
+    "ugem": "1606",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Pletinckx Eddy", "uspeler": "Karagoulian G", "telo": "1845", "uelo": "1743", "tstam": "76325", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "Sonnaert P", "telo": "1842", "uelo": "1526", "tstam": "353", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lemmens Pierre", "uspeler": "Gervais J", "telo": "1774", "uelo": "1607", "tstam": "43419", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "van Duuren Louis", "uspeler": "Mouradian A", "telo": "1748", "uelo": "1546", "tstam": "26816", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "17-10-1999",
+    "thuis": "Excelsior 1",
+    "uit": "228 Dworp 2",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "1746",
+    "ugem": "1800",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Atanasiu N", "uspeler": "Lot Diederik", "telo": "1946", "uelo": "1831", "tstam": "", "ustam": "9954"},
+      {"tr": "0", "ur": "1", "tspeler": "Verschoren Francis", "uspeler": "Pletinckx Eddy", "telo": "1721", "uelo": "1845", "tstam": "", "ustam": "76325"},
+      {"tr": "0", "ur": "1", "tspeler": "Pagnoul A", "uspeler": "Lemmens Pierre", "telo": "1769", "uelo": "1774", "tstam": "", "ustam": "43419"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Petr\u00e9 R", "uspeler": "van Duuren Louis", "telo": "1547", "uelo": "1748", "tstam": "", "ustam": "26816"}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "31-10-1999",
+    "thuis": "228 Dworp 2",
+    "uit": "Rochade Eupen 4",
+    "tscore": "3",
+    "uscore": "1",
+    "tgem": "1833",
+    "ugem": "1819",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lot Diederik", "uspeler": "Simons J", "telo": "1831", "uelo": "1896", "tstam": "9954", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Malfliet Bernard", "uspeler": "Zagozen F", "telo": "1881", "uelo": "1880", "tstam": "31348", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Godesar G", "telo": "1845", "uelo": "1753", "tstam": "76325", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lemmens Pierre", "uspeler": "Charlier N", "telo": "1774", "uelo": "1747", "tstam": "43419", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "14-11-1999",
+    "thuis": "Boitsfort 2",
+    "uit": "228 Dworp 2",
+    "tscore": "",
+    "uscore": "",
+    "tgem": "1928",
+    "ugem": "1800",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Dohogne Y", "uspeler": "Lot Diederik", "telo": "2041", "uelo": "1831", "tstam": "", "ustam": "9954"},
+      {"tr": "1", "ur": "0", "tspeler": "Peeters Y", "uspeler": "Pletinckx Eddy", "telo": "1951", "uelo": "1845", "tstam": "", "ustam": "76325"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Silovy A", "uspeler": "Lemmens Pierre", "telo": "1861", "uelo": "1774", "tstam": "", "ustam": "43419"},
+      {"tr": "1", "ur": "0", "tspeler": "Lacrosse Bernard", "uspeler": "van Duuren Louis", "telo": "1858", "uelo": "1748", "tstam": "36633", "ustam": "26816"}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "28-11-1999",
+    "thuis": "Aarschot 1",
+    "uit": "228 Dworp 2",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1778",
+    "ugem": "1745",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vets N", "uspeler": "Pletinckx Eddy", "telo": "1847", "uelo": "1845", "tstam": "", "ustam": "76325"},
+      {"tr": "1", "ur": "0", "tspeler": "Verduyct Johan", "uspeler": "Lemmens Pierre", "telo": "1844", "uelo": "1774", "tstam": "", "ustam": "43419"},
+      {"tr": "0", "ur": "1", "tspeler": "Janssens E", "uspeler": "van Duuren Louis", "telo": "1768", "uelo": "1748", "tstam": "", "ustam": "26816"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Dauw T", "uspeler": "Van der Voorde Sonja", "telo": "1653", "uelo": "1611", "tstam": "", "ustam": "43346"}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "12-12-1999",
+    "thuis": "228 Dworp 2",
+    "uit": "TSM Mechelen 3",
+    "tscore": "4",
+    "uscore": "0",
+    "tgem": "1761",
+    "ugem": "1869",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Lemmens Pierre", "uspeler": "Verbruggen J", "telo": "1774", "uelo": "1869", "tstam": "43419", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "n.m.", "telo": "1748", "uelo": "", "tstam": "26816", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "09-01-2000",
+    "thuis": "Tib\u00e9checs 1",
+    "uit": "228 Dworp 2",
+    "tscore": "3.5",
+    "uscore": "0.5",
+    "tgem": "1835",
+    "ugem": "1833",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Couillard M", "uspeler": "Lot Diederik", "telo": "1922", "uelo": "1831", "tstam": "", "ustam": "9954"},
+      {"tr": "1", "ur": "0", "tspeler": "Rauta N", "uspeler": "Malfliet Bernard", "telo": "1865", "uelo": "1881", "tstam": "", "ustam": "31348"},
+      {"tr": "1", "ur": "0", "tspeler": "Rodriguez Garcia C", "uspeler": "Pletinckx Eddy", "telo": "1737", "uelo": "1845", "tstam": "", "ustam": "76325"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Ben Khayat E", "uspeler": "Lemmens Pierre", "telo": "1816", "uelo": "1774", "tstam": "", "ustam": "43419"}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "23-01-2000",
+    "thuis": "228 Dworp 2",
+    "uit": "CRE Charleroi 3",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "1625",
+    "ugem": "1371",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lot Diederik", "uspeler": "Soretti V", "telo": "1831", "uelo": "1523", "tstam": "9954", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet Bernard", "uspeler": "Jadouille O", "telo": "1881", "uelo": "1516", "tstam": "31348", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Malfliet Koen", "uspeler": "Simal A", "telo": "1552", "uelo": "1279", "tstam": "64327", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Heremans Gersende", "uspeler": "Krasucki P", "telo": "1234", "uelo": "1164", "tstam": "2259", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "06-02-2000",
+    "thuis": "Wol-Thib 3",
+    "uit": "228 Dworp 2",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "1797",
+    "ugem": "1671",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Kemele W", "uspeler": "Pletinckx Eddy", "telo": "1830", "uelo": "1845", "tstam": "", "ustam": "76325"},
+      {"tr": "0", "ur": "1", "tspeler": "Citti P", "uspeler": "Lemmens Pierre", "telo": "1808", "uelo": "1774", "tstam": "", "ustam": "43419"},
+      {"tr": "1", "ur": "0", "tspeler": "Lambert M", "uspeler": "Van der Voorde Sonja", "telo": "1795", "uelo": "1611", "tstam": "", "ustam": "43346"},
+      {"tr": "1", "ur": "0", "tspeler": "Van Loo Georges", "uspeler": "Dekoster Pascal", "telo": "1754", "uelo": "1452", "tstam": "", "ustam": "54658"}
+    ]
+  },
+  {
+    "ronde": "10",
+    "datum": "20-02-2000",
+    "thuis": "228 Dworp 2",
+    "uit": "Woluw\u00e9 2",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "1532",
+    "ugem": "1377",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van der Voorde Sonja", "uspeler": "Matinfar M", "telo": "1611", "uelo": "1414", "tstam": "43346", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Dekoster Pascal", "uspeler": "Geerinckx B", "telo": "1452", "uelo": "1340", "tstam": "54658", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "11",
+    "datum": "19-03-2000",
+    "thuis": "Anderlecht 4",
+    "uit": "228 Dworp 2",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1675",
+    "ugem": "1630",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vanderhelstraete Jean Jacques", "uspeler": "Lot Diederik", "telo": "1694", "uelo": "1831", "tstam": "", "ustam": "9954"},
+      {"tr": "0", "ur": "1", "tspeler": "Tonoli Benjamin", "uspeler": "Pletinckx Eddy", "telo": "1728", "uelo": "1845", "tstam": "", "ustam": "76325"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Delvaux J", "uspeler": "Van der Voorde Sonja", "telo": "1674", "uelo": "1611", "tstam": "", "ustam": "43346"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Rando M", "uspeler": "Heremans Gersende", "telo": "1602", "uelo": "1234", "tstam": "", "ustam": "2259"}
+    ]
+  }
+]

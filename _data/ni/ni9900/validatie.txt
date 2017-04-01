@@ -1,0 +1,23 @@
+Ronde 4: Dworp 2: fout: som thuisscores '3.5' niet gelijk aan totaal 'None'
+Ronde 4: Dworp 2: fout: som uitscores '0.5' niet gelijk aan totaal 'None'
+Ronde 5: Dworp 1: fout: som thuisscores '2.0' niet gelijk aan totaal 'None'
+Ronde 5: Dworp 1: fout: som uitscores '2.0' niet gelijk aan totaal 'None'
+Ronde 8: Dworp 3: fout: som thuisscores '3.0' niet gelijk aan totaal 'None'
+Ronde 8: Dworp 3: fout: som uitscores '1.0' niet gelijk aan totaal 'None'
+Ronde 10: Dworp 3: fout: som thuisscores '3' niet gelijk aan totaal 'None'
+Ronde 10: Dworp 3: fout: som uitscores '1' niet gelijk aan totaal 'None'
+Ronde 1: Dworp 1: fout: '114 kon. mechelen 2' niet gevonden in kruistabel (spelling?)
+Ronde 1: Dworp 1: waarschuwing: score tegen '114 kon. mechelen 2' is niet gecontroleerd in kruistabel
+Ronde 1: Dworp 3: fout: score tegen 'fous du roy 3' niet identiek aan score in kruistabel
+Ronde 3: Dworp 3: fout: score tegen 'desperado leuven 5' niet identiek aan score in kruistabel
+Ronde 4: Dworp 2: fout: score tegen 'boitsfort 2' niet identiek aan score in kruistabel
+Ronde 5: Dworp 1: fout: score tegen 'machelen 1' niet identiek aan score in kruistabel
+Ronde 5: Dworp 2: fout: 'aarschot 1' niet identiek aan 'aarschot' in kruistabel
+Ronde 6: Dworp 3: fout: 'cre bruxelles 4' niet gevonden in kruistabel (spelling?)
+Ronde 6: Dworp 3: waarschuwing: score tegen 'cre bruxelles 4' is niet gecontroleerd in kruistabel
+Ronde 8: Dworp 1: fout: 'boey temse 3' niet gevonden in kruistabel (spelling?)
+Ronde 8: Dworp 1: waarschuwing: score tegen 'boey temse 3' is niet gecontroleerd in kruistabel
+Ronde 8: Dworp 3: fout: score tegen 'epicure 2' niet identiek aan score in kruistabel
+Ronde 10: Dworp 3: fout: 'humbeek 2' niet identiek aan 'humbeek 3' in kruistabel
+Ronde 10: Dworp 3: fout: score tegen 'humbeek 2' niet identiek aan score in kruistabel
+Ronde 11: Dworp 3: fout: score tegen 'anderlecht 5' niet identiek aan score in kruistabel

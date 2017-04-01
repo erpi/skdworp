@@ -1,0 +1,178 @@
+[
+  {
+    "ronde": "1",
+    "datum": "03-10-1999",
+    "thuis": "228 Dworp 1",
+    "uit": "114 Kon. Mechelen 2",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1885",
+    "ugem": "1945",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "Dom W", "telo": "1961", "uelo": "1952", "tstam": "2283", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Logie D", "telo": "1897", "uelo": "1951", "tstam": "76333", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Pelgrims J", "telo": "1816", "uelo": "1942", "tstam": "76317", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Geert", "uspeler": "Denckens L", "telo": "1867", "uelo": "1935", "tstam": "43419", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "17-10-1999",
+    "thuis": "Jean Jaur\u00e8s Gent 3",
+    "uit": "228 Dworp 1",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "1828",
+    "ugem": "1879",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "De Vreesse F", "uspeler": "Taelemans Werner", "telo": "2016", "uelo": "1961", "tstam": "", "ustam": "2283"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van de Putte J", "uspeler": "Debast Patrick", "telo": "1865", "uelo": "1897", "tstam": "", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Vanlooy N", "uspeler": "Cornelis Eric", "telo": "1715", "uelo": "1816", "tstam": "", "ustam": "76317"},
+      {"tr": "0", "ur": "1", "tspeler": "De Wilde K", "uspeler": "Maeckelbergh Mieke", "telo": "1714", "uelo": "1842", "tstam": "", "ustam": "353"}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "31-10-1999",
+    "thuis": "228 Dworp 1",
+    "uit": "Rochade Eupen 3",
+    "tscore": "1",
+    "uscore": "3",
+    "tgem": "1891",
+    "ugem": "1921",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Taelemans Werner", "uspeler": "Eichhorn A", "telo": "1961", "uelo": "2131", "tstam": "2283", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Robinet C", "telo": "1897", "uelo": "2013", "tstam": "76333", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Voigt I", "telo": "1816", "uelo": "1849", "tstam": "76317", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Ertveldt Pieter", "uspeler": "Delhaes G", "telo": "ng", "uelo": "1690", "tstam": "48097", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "14-11-1999",
+    "thuis": "L.V. Leuven 3",
+    "uit": "228 Dworp 1",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1873",
+    "ugem": "1885",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Ceulemans K", "uspeler": "Taelemans Werner", "telo": "2094", "uelo": "1961", "tstam": "", "ustam": "2283"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vandervurst Adriaan", "uspeler": "Debast Patrick", "telo": "1849", "uelo": "1897", "tstam": "", "ustam": "76333"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Goedhuys Jo", "uspeler": "Cornelis Eric", "telo": "1675", "uelo": "1816", "tstam": "", "ustam": "76317"},
+      {"tr": "0", "ur": "1", "tspeler": "Horan T", "uspeler": "Maeckelbergh Geert", "telo": "ng", "uelo": "1867", "tstam": "", "ustam": "43419"}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "28-11-1999",
+    "thuis": "Machelen 1",
+    "uit": "228 Dworp 1",
+    "tscore": "",
+    "uscore": "",
+    "tgem": "2023",
+    "ugem": "1885",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Mattheys Eddy", "uspeler": "Taelemans Werner", "telo": "2116", "uelo": "1961", "tstam": "", "ustam": "2283"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Casier Wim", "uspeler": "Debast Patrick", "telo": "2069", "uelo": "1897", "tstam": "", "ustam": "76333"},
+      {"tr": "1", "ur": "0", "tspeler": "Groenez Jean", "uspeler": "Cornelis Eric", "telo": "1981", "uelo": "1816", "tstam": "", "ustam": "76317"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Banks Eddy", "uspeler": "Maeckelbergh Geert", "telo": "1924", "uelo": "1867", "tstam": "", "ustam": "43419"}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "12-12-1999",
+    "thuis": "228 Dworp 1",
+    "uit": "TSM Mechelen 2",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "1891",
+    "ugem": "1914",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Taelemans Werner", "uspeler": "Mangelschots P", "telo": "1961", "uelo": "2011", "tstam": "2283", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Schepers J", "telo": "1897", "uelo": "1921", "tstam": "76333", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Deweerdt J", "telo": "1816", "uelo": "1893", "tstam": "76317", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Ertveldt Pieter", "uspeler": "Lesage C", "telo": "ng", "uelo": "1830", "tstam": "48097", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "09-01-2000",
+    "thuis": "Desperado Leuven 2",
+    "uit": "228 Dworp 1",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "1910",
+    "ugem": "1891",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Heynen Koen", "uspeler": "Taelemans Werner", "telo": "2050", "uelo": "1961", "tstam": "", "ustam": "2283"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Massoels T", "uspeler": "Debast Patrick", "telo": "1888", "uelo": "1897", "tstam": "", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Cuypers D", "uspeler": "Cornelis Eric", "telo": "1886", "uelo": "1816", "tstam": "", "ustam": "76317"},
+      {"tr": "1", "ur": "0", "tspeler": "Vanhaverbeke Johan", "uspeler": "Ertveldt Pieter", "telo": "1814", "uelo": "ng", "tstam": "", "ustam": "48097"}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "23-01-2000",
+    "thuis": "228 Dworp 1",
+    "uit": "Boey Temse 3",
+    "tscore": "3",
+    "uscore": "1",
+    "tgem": "1821",
+    "ugem": "7398",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "Smet D", "telo": "1961", "uelo": "18741", "tstam": "2283", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Van der Meiren A", "telo": "1897", "uelo": "1744", "tstam": "76333", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis Eric", "uspeler": "Blommaert M", "telo": "1816", "uelo": "1709", "tstam": "76317", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Van der Voorde Sonja", "uspeler": "Vanderhallen N", "telo": "1611", "uelo": "", "tstam": "43346", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "06-02-2000",
+    "thuis": "Wol-Thib 2",
+    "uit": "228 Dworp 1",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "1767",
+    "ugem": "1727",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Rotsaert G", "uspeler": "Taelemans Werner", "telo": "1919", "uelo": "1961", "tstam": "", "ustam": "2283"},
+      {"tr": "0", "ur": "1", "tspeler": "Boelen Michel", "uspeler": "Debast Patrick", "telo": "1760", "uelo": "1897", "tstam": "", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Huwart B", "uspeler": "Cornelis Eric", "telo": "1706", "uelo": "1816", "tstam": "", "ustam": "76317"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Delplanque A", "uspeler": "Heremans Gersende", "telo": "1683", "uelo": "1234", "tstam": "", "ustam": "2259"}
+    ]
+  },
+  {
+    "ronde": "10",
+    "datum": "20-02-2000",
+    "thuis": "228 Dworp 1",
+    "uit": "Humbeek 2",
+    "tscore": "0.5",
+    "uscore": "3.5",
+    "tgem": "1727",
+    "ugem": "1954",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Taelemans Werner", "uspeler": "Holsteyn M", "telo": "1961", "uelo": "1977", "tstam": "2283", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Petermans P", "telo": "1897", "uelo": "1973", "tstam": "76333", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Van Aken K", "telo": "1816", "uelo": "1973", "tstam": "76317", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Heremans Gersende", "uspeler": "Van Den Broeck Wim", "telo": "1234", "uelo": "1894", "tstam": "2259", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "11",
+    "datum": "19-03-2000",
+    "thuis": "Brasschaat 3",
+    "uit": "228 Dworp 1",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1844",
+    "ugem": "1782",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Adams G", "uspeler": "Taelemans Werner", "telo": "1927", "uelo": "1961", "tstam": "", "ustam": "2283"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Broeckmeyer W", "uspeler": "Debast Patrick", "telo": "1907", "uelo": "1897", "tstam": "", "ustam": "76333"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Baete G", "uspeler": "Cornelis Eric", "telo": "1873", "uelo": "1816", "tstam": "", "ustam": "76317"},
+      {"tr": "1", "ur": "0", "tspeler": "Hendrickx F", "uspeler": "Dekoster Pascal", "telo": "1669", "uelo": "1452", "tstam": "", "ustam": "54658"}
+    ]
+  }
+]
