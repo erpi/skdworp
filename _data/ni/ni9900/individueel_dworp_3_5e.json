@@ -3,54 +3,54 @@
     "ronde": "1",
     "datum": "03-10-1999",
     "thuis": "228 Dworp 3",
-    "uit": "Fous du Roy 3",
-    "tscore": "3",
-    "uscore": "1",
+    "uit": "203 Fous du Roy 3",
+    "tscore": "4",
+    "uscore": "0",
     "tgem": "1471",
     "ugem": "1347",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "De Bosscher Peter", "uspeler": "Willems Y", "telo": "1727", "uelo": "1392", "tstam": "655", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Dekoster Pascal", "uspeler": "Depraetere P", "telo": "1452", "uelo": "1375", "tstam": "54658", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Heremans Gersende", "uspeler": "Laemont J", "telo": "1234", "uelo": "1275", "tstam": "2259", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Ertveldt Pieter", "uspeler": "Mikaelian D", "telo": "ng", "uelo": "ng", "tstam": "48097", "ustam": ""}
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Willems Yvetta", "telo": "1727", "uelo": "1392", "tstam": "655", "ustam": "76236"},
+      {"tr": "1", "ur": "0", "tspeler": "Dekoster Pascal", "uspeler": "Depraetere Paul", "telo": "1452", "uelo": "1375", "tstam": "54658", "ustam": "71439"},
+      {"tr": "1", "ur": "0", "tspeler": "Heremans Gersende", "uspeler": "Laemont Jean", "telo": "1234", "uelo": "1275", "tstam": "2259", "ustam": "89729"},
+      {"tr": "1", "ur": "0", "tspeler": "Ertveldt Pieter", "uspeler": "Mikaelian David", "telo": "ng", "uelo": "ng", "tstam": "48097", "ustam": "86916"}
     ]
   },
   {
     "ronde": "2",
     "datum": "17-10-1999",
-    "thuis": "Fleurus 1",
+    "thuis": "538 Fleurus 1",
     "uit": "228 Dworp 3",
     "tscore": "1.5",
     "uscore": "2.5",
     "tgem": "1466",
     "ugem": "1597",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Bussola E", "uspeler": "De Bosscher Peter", "telo": "1529", "uelo": "1727", "tstam": "", "ustam": "655"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Deboulle P", "uspeler": "Van der Voorde Sonja", "telo": "1554", "uelo": "1611", "tstam": "", "ustam": "43346"},
-      {"tr": "1", "ur": "0", "tspeler": "Collart D", "uspeler": "Dekoster Pascal", "telo": "1528", "uelo": "1452", "tstam": "", "ustam": "54658"},
-      {"tr": "0", "ur": "1", "tspeler": "Vander Cassyen Marieke", "uspeler": "Ertveldt Pieter", "telo": "1251", "uelo": "ng", "tstam": "", "ustam": "48097"}
+      {"tr": "0", "ur": "1", "tspeler": "Bussola Eric", "uspeler": "De Bosscher Peter", "telo": "1529", "uelo": "1727", "tstam": "77828", "ustam": "655"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Deboulle Patrick", "uspeler": "Van der Voorde Sonja", "telo": "1554", "uelo": "1611", "tstam": "58025", "ustam": "43346"},
+      {"tr": "1", "ur": "0", "tspeler": "Collart Didier", "uspeler": "Dekoster Pascal", "telo": "1528", "uelo": "1452", "tstam": "62511", "ustam": "54658"},
+      {"tr": "0", "ur": "1", "tspeler": "Vander Casseyen Marie-Jo", "uspeler": "Ertveldt Pieter", "telo": "1251", "uelo": "ng", "tstam": "72842", "ustam": "48097"}
     ]
   },
   {
     "ronde": "3",
     "datum": "31-10-1999",
     "thuis": "228 Dworp 3",
-    "uit": "Desperado Leuven 5",
-    "tscore": "3",
-    "uscore": "1",
+    "uit": "266 Desperado Leuven 5",
+    "tscore": "2.5",
+    "uscore": "1.5",
     "tgem": "1471",
     "ugem": "1572",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Vandermeulen Boni", "telo": "1727", "uelo": "1688", "tstam": "655", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Dekoster Pascal", "uspeler": "Robeyns B", "telo": "1452", "uelo": "1611", "tstam": "54658", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Heremans Gersende", "uspeler": "Maes L", "telo": "1234", "uelo": "1592", "tstam": "2259", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "de Kort Bruno", "uspeler": "Van Edom W", "telo": "ng", "uelo": "1398", "tstam": "41483", "ustam": ""}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher Peter", "uspeler": "Vandermeulen Boni", "telo": "1727", "uelo": "1688", "tstam": "655", "ustam": "45292"},
+      {"tr": "1", "ur": "0", "tspeler": "Dekoster Pascal", "uspeler": "Robeyns Bart", "telo": "1452", "uelo": "1611", "tstam": "54658", "ustam": "3271"},
+      {"tr": "0", "ur": "1", "tspeler": "Heremans Gersende", "uspeler": "Maes Louis", "telo": "1234", "uelo": "1592", "tstam": "2259", "ustam": "27286"},
+      {"tr": "1", "ur": "0", "tspeler": "de Kort Bruno", "uspeler": "Van Edom Wim", "telo": "ng", "uelo": "1398", "tstam": "41483", "ustam": "26565"}
     ]
   },
   {
     "ronde": "4",
     "datum": "14-11-1999",
-    "thuis": "Boitsfort 3",
+    "thuis": "239 Boitsfort 3",
     "uit": "228 Dworp 3",
     "tscore": "0",
     "uscore": "4",
@@ -58,32 +58,32 @@
     "ugem": "1343",
     "borden": [
       {"tr": "0", "ur": "1", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Marechal M", "uspeler": "Dekoster Pascal", "telo": "1484", "uelo": "1452", "tstam": "", "ustam": "54658"},
-      {"tr": "0", "ur": "1", "tspeler": "Van Buggenhaut E", "uspeler": "Heremans Gersende", "telo": "1444", "uelo": "1234", "tstam": "", "ustam": "2259"},
-      {"tr": "0", "ur": "1", "tspeler": "Motte C", "uspeler": "Ertveldt Pieter", "telo": "1397", "uelo": "ng", "tstam": "", "ustam": "48097"}
+      {"tr": "0", "ur": "1", "tspeler": "Marechal Michel", "uspeler": "Dekoster Pascal", "telo": "1484", "uelo": "1452", "tstam": "61514", "ustam": "54658"},
+      {"tr": "0", "ur": "1", "tspeler": "Van Buggenhaut Eric", "uspeler": "Heremans Gersende", "telo": "1444", "uelo": "1234", "tstam": "54232", "ustam": "2259"},
+      {"tr": "0", "ur": "1", "tspeler": "Motte Christian", "uspeler": "Ertveldt Pieter", "telo": "1397", "uelo": "ng", "tstam": "90387", "ustam": "48097"}
     ]
   },
   {
     "ronde": "5",
     "datum": "28-11-1999",
-    "thuis": "Pantin 2",
+    "thuis": "278 Pantin 2",
     "uit": "228 Dworp 3",
     "tscore": "2",
     "uscore": "2",
     "tgem": "1564",
     "ugem": "1471",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Monbrun T", "uspeler": "De Bosscher Peter", "telo": "1564", "uelo": "1727", "tstam": "", "ustam": "655"},
-      {"tr": "1", "ur": "0", "tspeler": "Quin N", "uspeler": "Dekoster Pascal", "telo": "ng", "uelo": "1452", "tstam": "", "ustam": "54658"},
-      {"tr": "1", "ur": "0", "tspeler": "Miller M", "uspeler": "Heremans Gersende", "telo": "ng", "uelo": "1234", "tstam": "", "ustam": "2259"},
-      {"tr": "0", "ur": "1", "tspeler": "Declerfayt N", "uspeler": "Ertveldt Pieter", "telo": "ng", "uelo": "ng", "tstam": "", "ustam": "48097"}
+      {"tr": "0", "ur": "1", "tspeler": "Monbrun Thierry", "uspeler": "De Bosscher Peter", "telo": "1564", "uelo": "1727", "tstam": "84166", "ustam": "655"},
+      {"tr": "1", "ur": "0", "tspeler": "Quin Nicolas", "uspeler": "Dekoster Pascal", "telo": "ng", "uelo": "1452", "tstam": "80438", "ustam": "54658"},
+      {"tr": "1", "ur": "0", "tspeler": "Miller Michel", "uspeler": "Heremans Gersende", "telo": "ng", "uelo": "1234", "tstam": "91081", "ustam": "2259"},
+      {"tr": "0", "ur": "1", "tspeler": "Declerfayt Nicolas", "uspeler": "Ertveldt Pieter", "telo": "ng", "uelo": "ng", "tstam": "89907", "ustam": "48097"}
     ]
   },
   {
     "ronde": "6",
     "datum": "12-12-1999",
     "thuis": "228 Dworp 3",
-    "uit": "CRE Bruxelles 4",
+    "uit": "201 CRE Bruxelles 4",
     "tscore": "4",
     "uscore": "0",
     "tgem": "",
@@ -98,81 +98,81 @@
   {
     "ronde": "7",
     "datum": "09-01-2000",
-    "thuis": "Tib\u00e9checs 2",
+    "thuis": "272 Tib\u00e9checs 2",
     "uit": "228 Dworp 3",
     "tscore": "2.5",
     "uscore": "1.5",
     "tgem": "1553",
     "ugem": "1506",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Debacker Y", "uspeler": "De Bosscher Peter", "telo": "1721", "uelo": "1727", "tstam": "", "ustam": "655"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Amali B", "uspeler": "Van der Voorde Sonja", "telo": "1616", "uelo": "1611", "tstam": "", "ustam": "43346"},
-      {"tr": "1", "ur": "0", "tspeler": "Thomas T", "uspeler": "Dekoster Pascal", "telo": "1542", "uelo": "1452", "tstam": "", "ustam": "54658"},
-      {"tr": "0", "ur": "1", "tspeler": "Azzoug S", "uspeler": "Heremans Gersende", "telo": "1331", "uelo": "1234", "tstam": "", "ustam": "2259"}
+      {"tr": "1", "ur": "0", "tspeler": "Debacker Yves", "uspeler": "De Bosscher Peter", "telo": "1721", "uelo": "1727", "tstam": "90212", "ustam": "655"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Amali Belgacem", "uspeler": "Van der Voorde Sonja", "telo": "1616", "uelo": "1611", "tstam": "70106", "ustam": "43346"},
+      {"tr": "1", "ur": "0", "tspeler": "Thomas Thierry", "uspeler": "Dekoster Pascal", "telo": "1542", "uelo": "1452", "tstam": "69914", "ustam": "54658"},
+      {"tr": "0", "ur": "1", "tspeler": "Azzoug Samir", "uspeler": "Heremans Gersende", "telo": "1331", "uelo": "1234", "tstam": "77275", "ustam": "2259"}
     ]
   },
   {
     "ronde": "8",
     "datum": "23-01-2000",
     "thuis": "228 Dworp 3",
-    "uit": "Epicure 2",
-    "tscore": "",
-    "uscore": "",
+    "uit": "290 Epicure 2",
+    "tscore": "3",
+    "uscore": "1",
     "tgem": "1782",
     "ugem": "1856",
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Pletinckx Eddy", "uspeler": "Burnay Gerard", "telo": "1845", "uelo": "1896", "tstam": "76325", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Piron Jean Marie", "telo": "1727", "uelo": "1855", "tstam": "655", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Lemmens Pierre", "uspeler": "Wasnair michel", "telo": "1774", "uelo": "1918", "tstam": "43419", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Ertveldt Pieter", "uspeler": "Laios S", "telo": "ng", "uelo": "1753", "tstam": "48097", "ustam": ""}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Pletinckx Eddy", "uspeler": "Burnay Gerard", "telo": "1845", "uelo": "1896", "tstam": "76325", "ustam": "92452"},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Piron Jean Marie", "telo": "1727", "uelo": "1855", "tstam": "655", "ustam": "65722"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lemmens Pierre", "uspeler": "Wasnair Michel", "telo": "1774", "uelo": "1918", "tstam": "43419", "ustam": "77615"},
+      {"tr": "1", "ur": "0", "tspeler": "Ertveldt Pieter", "uspeler": "Laios Steve", "telo": "ng", "uelo": "1753", "tstam": "48097", "ustam": "55760"}
     ]
   },
   {
     "ronde": "9",
     "datum": "06-02-2000",
-    "thuis": "Wol-Thib 5",
+    "thuis": "244 Wol-Thib 5",
     "uit": "228 Dworp 3",
     "tscore": "0",
     "uscore": "4",
     "tgem": "1453",
     "ugem": "1772",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Van Tykom A", "uspeler": "Maeckelbergh Mieke", "telo": "1524", "uelo": "1842", "tstam": "", "ustam": "353"},
-      {"tr": "0", "ur": "1", "tspeler": "Pochet JM", "uspeler": "De Bosscher Peter", "telo": "1514", "uelo": "1727", "tstam": "", "ustam": "655"},
-      {"tr": "0", "ur": "1", "tspeler": "Cornil R", "uspeler": "van Duuren Louis", "telo": "1410", "uelo": "1748", "tstam": "", "ustam": "26816"},
-      {"tr": "0", "ur": "1", "tspeler": "Coupaye M", "uspeler": "Ertveldt Pieter", "telo": "1365", "uelo": "ng", "tstam": "", "ustam": "48097"}
+      {"tr": "0", "ur": "1", "tspeler": "Van Tykom Alex", "uspeler": "Maeckelbergh Mieke", "telo": "1524", "uelo": "1842", "tstam": "89401", "ustam": "353"},
+      {"tr": "0", "ur": "1", "tspeler": "Pochet Jean-Marc", "uspeler": "De Bosscher Peter", "telo": "1514", "uelo": "1727", "tstam": "84603", "ustam": "655"},
+      {"tr": "0", "ur": "1", "tspeler": "Cornil Robert", "uspeler": "van Duuren Louis", "telo": "1410", "uelo": "1748", "tstam": "59668", "ustam": "26816"},
+      {"tr": "0", "ur": "1", "tspeler": "Coupaye Michel", "uspeler": "Ertveldt Pieter", "telo": "1365", "uelo": "ng", "tstam": "74802", "ustam": "48097"}
     ]
   },
   {
     "ronde": "10",
     "datum": "20-02-2000",
     "thuis": "228 Dworp 3",
-    "uit": "Humbeek 2",
-    "tscore": "",
-    "uscore": "",
+    "uit": "260 Humbeek 3",
+    "tscore": "4",
+    "uscore": "0",
     "tgem": "1772",
-    "ugem": "1686",
+    "ugem": "1739",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Mieke", "uspeler": "Roels Louis", "telo": "1842", "uelo": "1894", "tstam": "353", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Van Peer", "telo": "1727", "uelo": "1584", "tstam": "655", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "Vandervurst Adriaan", "telo": "1748", "uelo": "1580", "tstam": "26816", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Ertveldt Pieter", "uspeler": "Laureys D", "telo": "ng", "uelo": "ng", "tstam": "48097", "ustam": ""}
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "Roels Louis", "telo": "1842", "uelo": "1894", "tstam": "353", "ustam": "21733"},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Van Peer Cedric-Johan", "telo": "1727", "uelo": "1584", "tstam": "655", "ustam": "51578"},
+      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "Van Der Vurst Arne", "telo": "1748", "uelo": "ng", "tstam": "26816", "ustam": "52736"},
+      {"tr": "1", "ur": "0", "tspeler": "Ertveldt Pieter", "uspeler": "Laureys Dennis", "telo": "ng", "uelo": "ng", "tstam": "48097", "ustam": "25879"}
     ]
   },
   {
     "ronde": "11",
     "datum": "19-03-2000",
-    "thuis": "Anderlecht 5",
+    "thuis": "209 Anderlecht 5",
     "uit": "228 Dworp 3",
-    "tscore": "1",
-    "uscore": "3",
+    "tscore": "0",
+    "uscore": "4",
     "tgem": "1292",
     "ugem": "1773",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Grede Manfred", "uspeler": "Maeckelbergh Mieke", "telo": "1650", "uelo": "1842", "tstam": "", "ustam": "353"},
-      {"tr": "0", "ur": "1", "tspeler": "Weynans N", "uspeler": "De Bosscher Peter", "telo": "1169", "uelo": "1727", "tstam": "", "ustam": "655"},
-      {"tr": "1", "ur": "0", "tspeler": "Beernaert P", "uspeler": "van Duuren Louis", "telo": "1198", "uelo": "1748", "tstam": "", "ustam": "26816"},
-      {"tr": "0", "ur": "1", "tspeler": "Van der Meersch I", "uspeler": "Lemmens Pierre", "telo": "1150", "uelo": "1774", "tstam": "", "ustam": "43419"}
+      {"tr": "0", "ur": "1", "tspeler": "Grede Manfred", "uspeler": "Maeckelbergh Mieke", "telo": "1650", "uelo": "1842", "tstam": "92622", "ustam": "353"},
+      {"tr": "0", "ur": "1", "tspeler": "Weynans Nadine", "uspeler": "De Bosscher Peter", "telo": "1169", "uelo": "1727", "tstam": "33006", "ustam": "655"},
+      {"tr": "0", "ur": "1", "tspeler": "Van der Meersch Isabelle", "uspeler": "Lemmens Pierre", "telo": "1150", "uelo": "1774", "tstam": "81167", "ustam": "43419"},
+      {"tr": "0", "ur": "1", "tspeler": "Beernaert Patrick", "uspeler": "van Duuren Louis", "telo": "1198", "uelo": "1748", "tstam": "80853", "ustam": "26816"}
     ]
   }
 ]
