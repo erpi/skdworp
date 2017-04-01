@@ -304,7 +304,7 @@ class generator:
                                     r, p + 1, tegenstander, n[0])
                                 try:
                                     if score != int(n[1] * 10):
-                                        self._validatie_string += u"Ronde {0}: 'Dworp {1}': fout: score tegen '{2}' niet identiek aan score in kruistabel\n".format(
+                                        self._validatie_string += u"Ronde {0}: Dworp {1}: fout: score tegen '{2}' niet identiek aan score in kruistabel\n".format(
                                             r, p + 1, tegenstander)
                                 except TypeError:
                                     self._validatie_string += u"Ronde {0}: Dworp {1}: waarschuwing: score tegen '{2}' niet ingevuld in kruistabel\n".format(
