@@ -11,7 +11,7 @@ $(document).ready(function(){
             for (rij = 0; rij < aantalRijen; rij++) {
                 cell = body.rows[rij].cells[kolom];
                 uitslag = parseFloat(cell.innerHTML);
-                if (Number.isFinite(uitslag)) {
+                if (isFinite(uitslag)) {
                     if (uitslag > hoogste) {
                         hoogste = uitslag;
                         winnaars = [cell];
@@ -37,7 +37,7 @@ $(document).ready(function(){
             uitslagen = [];
             $(this).children('td').slice(beginKolom, -1).each(function(index, td) {
                 var uitslag = [parseFloat($(td).html()), td];
-                if (Number.isFinite(uitslag[0])) {
+                if (isFinite(uitslag[0])) {
                     uitslagen.push(uitslag);
                 }
             });
@@ -92,7 +92,7 @@ $(document).ready(function(){
                 tds = $(this).children('td');
                 spelerIndex = indexNaam(tds.eq(1).html());
                 res = parseFloat(tds.eq(tds.length - 1).html());
-                if (Number.isFinite(res)) {
+                if (isFinite(res)) {
                     rooster[spelerIndex + 1][rooster[0].length - 1] = Math.round(res);
                 }
             });
@@ -106,7 +106,7 @@ $(document).ready(function(){
             uitslagen = [];
             for (kolom = beginKolom; kolom < rooster[0].length; kolom++) {
                 uitslag = rooster[rij][kolom];
-                if (Number.isFinite(uitslag)) {uitslagen.push(uitslag);}
+                if (isFinite(uitslag)) {uitslagen.push(uitslag);}
             }
             if (uitslagen.length > 5) {
                 uitslagen.sort(function(a, b) {return b - a;});

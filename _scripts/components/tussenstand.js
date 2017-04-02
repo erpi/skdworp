@@ -25,10 +25,10 @@ $(document).ready(function(){
                 zwartIndex = indexNaam(tds.eq(3).html());
                 wr = parseFloat(tds.eq(4).html());
                 zr = parseFloat(tds.eq(6).html());
-                if (Number.isFinite(wr)) {
+                if (isFinite(wr)) {
                     rooster[witIndex][zwartIndex] = wr;
                 }
-                if (Number.isFinite(zr)) {
+                if (isFinite(zr)) {
                     rooster[zwartIndex][witIndex] = zr;
                 }
             }
@@ -44,7 +44,7 @@ $(document).ready(function(){
             var i, res, totaal = 0;
             for (i = 0; i < rooster.length; i++) {
                 res = rooster[i][kolom];
-                if (Number.isFinite(res)) {totaal += res;}
+                if (isFinite(res)) {totaal += res;}
             }
             return totaal;
         }
