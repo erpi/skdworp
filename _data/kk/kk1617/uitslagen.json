@@ -99,10 +99,10 @@
     "ronde": "ronde 9",
     "datum": "07-04-2017",
     "partijen": [
-      {"wr": "", "zr": "", "wit": "Geert Verrijken", "zwart": "Stijn Bertrand"},
-      {"wr": "", "zr": "", "wit": "Serge Vanderwaeren", "zwart": "Yves Baert"},
+      {"wr": "1", "zr": "0", "wit": "Geert Verrijken", "zwart": "Stijn Bertrand"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Serge Vanderwaeren", "zwart": "Yves Baert"},
       {"wr": "", "zr": "", "wit": "Kjell Spaens", "zwart": "Robert Huysman"},
-      {"wr": "", "zr": "", "wit": "Filip Van de Velde", "zwart": "Diederik Lot"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Filip Van de Velde", "zwart": "Diederik Lot"},
       {"wr": "", "zr": "", "wit": "Peter De Bosscher", "zwart": "Walter De Reymaeker"},
       {"wr": "0.5", "zr": "0.5", "wit": "Eric Cornelis", "zwart": "Bernard Malfliet"}
     ]
