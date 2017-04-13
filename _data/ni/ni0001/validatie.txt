@@ -1,0 +1,19 @@
+Ronde 4: Dworp 3: fout: som thuisscores '1.5' niet gelijk aan totaal '3'
+Ronde 4: Dworp 3: fout: som uitscores '0.5' niet gelijk aan totaal '1'
+Ronde 1: Dworp 2: fout: 'lasne waterloo 2' niet gevonden in kruistabel (spelling?)
+Ronde 1: Dworp 2: waarschuwing: score tegen 'lasne waterloo 2' is niet gecontroleerd in kruistabel
+Ronde 2: Dworp 2: fout: 'carnières 1' niet identiek aan 'carnières' in kruistabel
+Ronde 2: Dworp 3: fout: 'sint niklaas 2' niet gevonden in kruistabel (spelling?)
+Ronde 2: Dworp 3: waarschuwing: score tegen 'sint niklaas 2' is niet gecontroleerd in kruistabel
+Ronde 3: Dworp 1: fout: 'mechelen 3' niet identiek aan 'stm mechelen 3' in kruistabel
+Ronde 3: Dworp 1: fout: score tegen 'mechelen 3' niet identiek aan score in kruistabel
+Ronde 3: Dworp 2: fout: 'fontaine 2' niet identiek aan 'fontaine 1' in kruistabel
+Ronde 4: Dworp 2: fout: score tegen 'liège 5' niet identiek aan score in kruistabel
+Ronde 5: Dworp 1: fout: 'tsm mechelen 3' niet gevonden in kruistabel (spelling?)
+Ronde 5: Dworp 1: waarschuwing: score tegen 'tsm mechelen 3' is niet gecontroleerd in kruistabel
+Ronde 6: Dworp 1: fout: score tegen 'humbeek 2' niet identiek aan score in kruistabel
+Ronde 6: Dworp 2: fout: score tegen 'soignies 2' niet identiek aan score in kruistabel
+Ronde 7: Dworp 1: fout: 'boey temse' niet identiek aan 'boey temse 3' in kruistabel
+Ronde 8: Dworp 2: fout: 'gazomat gilly 1' niet identiek aan 'gazomat gilly' in kruistabel
+Ronde 11: Dworp 2: fout: 'wtcc ukkel 3' niet gevonden in kruistabel (spelling?)
+Ronde 11: Dworp 2: waarschuwing: score tegen 'wtcc ukkel 3' is niet gecontroleerd in kruistabel
