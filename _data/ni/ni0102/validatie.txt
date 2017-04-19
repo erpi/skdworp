@@ -1,0 +1,5 @@
+Ronde 8: Dworp 2: fout: som thuisscores '0' niet gelijk aan totaal '0.5'
+Ronde 8: Dworp 2: fout: som uitscores '2' niet gelijk aan totaal '3.5'
+Ronde 6: Dworp 3: fout: score tegen 'lessines 2' niet identiek aan score in kruistabel
+Ronde 9: Dworp 2: fout: 'bosvoorde 3' niet gevonden in kruistabel (spelling?)
+Ronde 9: Dworp 2: waarschuwing: score tegen 'bosvoorde 3' is niet gecontroleerd in kruistabel

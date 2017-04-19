@@ -1,0 +1,178 @@
+[
+  {
+    "ronde": "1",
+    "datum": "14-10-2001",
+    "thuis": "228 Dworp 2",
+    "uit": "Excelsior 1",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1547",
+    "ugem": "1653",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Lot Diederik", "uspeler": "Atanasiu Nicolae", "telo": "1832", "uelo": "1871", "tstam": "9954", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanpe Peter", "uspeler": "Verschoren Fran\u00e7ois", "telo": "1703", "uelo": "1676", "tstam": "10157", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "nm", "uspeler": "nm", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Puttemans Patrick", "uspeler": "De Boeck Pierre", "telo": "1333", "uelo": "1411", "tstam": "28681", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "28-10-2001",
+    "thuis": "Anderlecht 3",
+    "uit": "228 Dworp 2",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1639",
+    "ugem": "1547",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Dony Richard", "uspeler": "Lot Diederik", "telo": "1854", "uelo": "1832", "tstam": "", "ustam": "9954"},
+      {"tr": "1", "ur": "0", "tspeler": "Delvaux Jacques", "uspeler": "Vanpe Peter", "telo": "1634", "uelo": "1703", "tstam": "", "ustam": "10157"},
+      {"tr": "0", "ur": "1", "tspeler": "Rando Manuel", "uspeler": "De Bosscher Peter", "telo": "1583", "uelo": "1775", "tstam": "", "ustam": "655"},
+      {"tr": "0", "ur": "1", "tspeler": "Meskens Stephan", "uspeler": "Puttemans Patrick", "telo": "1483", "uelo": "1333", "tstam": "", "ustam": "28681"}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "25-11-2001",
+    "thuis": "228 Dworp 2",
+    "uit": "Fontaine 1",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1547",
+    "ugem": "1676",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lot Diederik", "uspeler": "George Michael", "telo": "1832", "uelo": "1925", "tstam": "9954", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Pletinckx Eddy", "uspeler": "Culot Jean-Fran\u00e7ois", "telo": "1832", "uelo": "1869", "tstam": "65325", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Wattin Joffrey", "telo": "1775", "uelo": "1235", "tstam": "655", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Puttemans Patrick", "uspeler": "Charlier Benoit", "telo": "1333", "uelo": "nm", "tstam": "28681", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "09-12-2001",
+    "thuis": "Fous du Roy 1",
+    "uit": "228 Dworp 2",
+    "tscore": "4",
+    "uscore": "0",
+    "tgem": "1949",
+    "ugem": "1547",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Akhayan Ruben", "uspeler": "Lot Diederik", "telo": "2132", "uelo": "1832", "tstam": "", "ustam": "9954"},
+      {"tr": "1", "ur": "0", "tspeler": "Macai Ioan", "uspeler": "Vanpe Peter", "telo": "1901", "uelo": "1703", "tstam": "", "ustam": "10157"},
+      {"tr": "1", "ur": "0", "tspeler": "Gilbert Collin", "uspeler": "De Bosscher Peter", "telo": "1883", "uelo": "1775", "tstam": "", "ustam": "655"},
+      {"tr": "1", "ur": "0", "tspeler": "Brion Sophie", "uspeler": "Puttemans Patrick", "telo": "1881", "uelo": "1333", "tstam": "", "ustam": "28681"}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "23-12-2001",
+    "thuis": "228 Dworp 2",
+    "uit": "Humbeek 3",
+    "tscore": "0.5",
+    "uscore": "3.5",
+    "tgem": "1547",
+    "ugem": "1609",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lot Diederik", "uspeler": "Van Der Vurst Arne", "telo": "1832", "uelo": "1732", "tstam": "9954", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "nm", "uspeler": "nm", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "De Bosscher Peter", "uspeler": "Van Nooten Stijn", "telo": "1775", "uelo": "1649", "tstam": "655", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Puttemans Patrick", "uspeler": "Barb\u00e9 Tom", "telo": "1333", "uelo": "1446", "tstam": "28681", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "06-01-2002",
+    "thuis": "Tib\u00e9checs 1",
+    "uit": "228 Dworp 2",
+    "tscore": "3",
+    "uscore": "1",
+    "tgem": "1911",
+    "ugem": "1547",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Dos Santos Pimenta Carlos", "uspeler": "Lot Diederik", "telo": "2021", "uelo": "1832", "tstam": "", "ustam": "9954"},
+      {"tr": "1", "ur": "0", "tspeler": "Rauta Nicolas", "uspeler": "Verstreken Erik", "telo": "1816", "uelo": "1814", "tstam": "", "ustam": "9270"},
+      {"tr": "1", "ur": "0", "tspeler": "Couillard Marc", "uspeler": "Pletinckx Eddy", "telo": "1897", "uelo": "1832", "tstam": "", "ustam": "65325"},
+      {"tr": "1", "ur": "0", "tspeler": "", "uspeler": "nm", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "20-01-2002",
+    "thuis": "228 Dworp 2",
+    "uit": "WTCC Ukkel 3",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1547",
+    "ugem": "1636",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Lot Diederik", "uspeler": "Ouzounian Gerard", "telo": "1832", "uelo": "1759", "tstam": "9954", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Vanpe Peter", "uspeler": "Van Loo Georges", "telo": "1703", "uelo": "1695", "tstam": "10157", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Grignard Guillaume", "telo": "1775", "uelo": "1536", "tstam": "655", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Puttemans Patrick", "uspeler": "Semminckx Julien", "telo": "1333", "uelo": "1555", "tstam": "28681", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "03-02-2002",
+    "thuis": "228 Dworp 2",
+    "uit": "Lasne-Waterloo 2",
+    "tscore": "0.5",
+    "uscore": "3.5",
+    "tgem": "1554",
+    "ugem": "1888",
+    "borden": [
+      {"tr": "", "ur": "", "tspeler": "nm", "uspeler": "nm", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "De Bosscher Peter", "uspeler": "Lheureux Benoit", "telo": "1775", "uelo": "1881", "tstam": "655", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Puttemans Patrick", "uspeler": "Wettach Alain", "telo": "1333", "uelo": "1894", "tstam": "28681", "ustam": ""},
+      {"tr": "", "ur": "", "tspeler": "nm", "uspeler": "nm", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "17-02-2002",
+    "thuis": "Bosvoorde 3",
+    "uit": "228 Dworp 2",
+    "tscore": "0",
+    "uscore": "4",
+    "tgem": "1622",
+    "ugem": "1547",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Dembour Luc", "uspeler": "Lot Diederik", "telo": "1731", "uelo": "1832", "tstam": "", "ustam": "9954"},
+      {"tr": "0", "ur": "1", "tspeler": "Remon Serge", "uspeler": "Pletinckx Eddy", "telo": "1697", "uelo": "1832", "tstam": "", "ustam": "65325"},
+      {"tr": "0", "ur": "1", "tspeler": "Delpierre Oscar", "uspeler": "Vanpe Peter", "telo": "1613", "uelo": "1703", "tstam": "", "ustam": "10157"},
+      {"tr": "0", "ur": "1", "tspeler": "Jassem Philippe", "uspeler": "De Bosscher Peter", "telo": "1446", "uelo": "1775", "tstam": "", "ustam": "655"}
+    ]
+  },
+  {
+    "ronde": "10",
+    "datum": "03-03-2002",
+    "thuis": "228 Dworp 2",
+    "uit": "Epicure 2",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "1547",
+    "ugem": "1782",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Burnay Gerard", "telo": "1832", "uelo": "1905", "tstam": "65325", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Vanpe Peter", "uspeler": "Piron Jean-Marie", "telo": "1703", "uelo": "1888", "tstam": "10157", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Laios Steve", "telo": "1775", "uelo": "1734", "tstam": "655", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Puttemans Patrick", "uspeler": "Vandenplas Gerard", "telo": "1333", "uelo": "1602", "tstam": "28681", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "11",
+    "datum": "10-03-2002",
+    "thuis": "CRE Charleroi 3",
+    "uit": "228 Dworp 2",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "1563",
+    "ugem": "1547",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Dubuisson Raymond", "uspeler": "Lot Diederik", "telo": "1785", "uelo": "1832", "tstam": "", "ustam": "9954"},
+      {"tr": "1", "ur": "0", "tspeler": "nm", "uspeler": "nm", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Krasucki Youri", "uspeler": "De Bosscher Peter", "telo": "1343", "uelo": "1775", "tstam": "", "ustam": "655"},
+      {"tr": "1", "ur": "0", "tspeler": "Beliy Nikita", "uspeler": "Puttemans Patrick", "telo": "1561", "uelo": "1333", "tstam": "", "ustam": "28681"}
+    ]
+  }
+]
