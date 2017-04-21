@@ -112,7 +112,7 @@
     "datum": "21-04-2017",
     "partijen": [
       {"wr": "", "zr": "", "wit": "Stijn Bertrand", "zwart": "Bernard Malfliet"},
-      {"wr": "", "zr": "", "wit": "Walter De Reymaeker", "zwart": "Eric Cornelis"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Walter De Reymaeker", "zwart": "Eric Cornelis"},
       {"wr": "1", "zr": "0", "wit": "Diederik Lot", "zwart": "Peter De Bosscher"},
       {"wr": "0", "zr": "1", "wit": "Robert Huysman", "zwart": "Filip Van de Velde"},
       {"wr": "", "zr": "", "wit": "Yves Baert", "zwart": "Kjell Spaens"},
