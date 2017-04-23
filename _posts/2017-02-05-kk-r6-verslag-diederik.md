@@ -4,6 +4,7 @@ tag: kk
 kk_ronde: '6'
 title: 'Zwaargewicht'
 author: Diederik
+fotograaf: Diederik
 stelling_fen: ''
 stelling_titel: ''
 stelling_wit: ''

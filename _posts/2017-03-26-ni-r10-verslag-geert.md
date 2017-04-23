@@ -6,6 +6,7 @@ ni_uitploeg: Brussels 1
 ni_ronde: '10'
 title: 'Carnaval overal, er staat een paard in de gang'
 author: Geert
+fotograaf: Diederik
 stelling_fen: ''
 stelling_titel: ''
 stelling_wit: ''

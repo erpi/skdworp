@@ -18,7 +18,11 @@ layout: compress
       </header>
       <section id="verslag">
         <div class="container">
-          <h2>door {{ page.author | downcase}}</h2>
+          <h2>door {{ page.author | downcase}}
+          {% if page.fotograaf and page.fotograaf != page.author %}
+          <small> (foto's {{ page.fotograaf | downcase }})</small>
+          {% endif %}
+          </h2>
           <p>{% include datum.html date=page.date %}</p>
           {% if page.tag == "ni" %}
           <p>nationale interclubs ronde&nbsp;{{ page.ni_ronde }}<br>{{ page.ni_thuisploeg | downcase }} - {{ page.ni_uitploeg | downcase }}</p>
