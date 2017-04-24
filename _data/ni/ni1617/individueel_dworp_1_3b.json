@@ -178,6 +178,23 @@
       {"tr": "0", "ur": "1", "tspeler": "Denys, Frank", "uspeler": "Mabille, Natacha", "telo": 1892, "uelo": 1911, "tstam": 21881, "ustam": 90611},
       {"tr": "0", "ur": "1", "tspeler": "De Bosscher, Peter", "uspeler": "Boujmil, Said", "telo": 1812, "uelo": 1684, "tstam": 655, "ustam": 61735}
        ]
+  },
+  {
+    "ronde": "11",
+    "datum": "24-04-2017",
+    "thuis": "432 Wetteren 2",
+    "uit": "228 Dworp 1",
+    "tscore": 2,
+    "uscore": 4,
+    "tgem": 2001,
+    "ugem": 1918,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verlinden, Robijn", "uspeler": "Vanderwaeren, Serge", "telo": 2052, "uelo": 2214, "tstam": 13854, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Michiels, Luc", "uspeler": "Maeckelbergh, Geert", "telo": 2023, "uelo": 1894, "tstam": 66443, "ustam": 43419},
+      {"tr": "0", "ur": "1", "tspeler": "Maes, Tibo", "uspeler": "Verrijken, Geert", "telo": 2022, "uelo": 1893, "tstam": 42391, "ustam": 62766},
+      {"tr": "0", "ur": "1", "tspeler": "Vintioen, Ben", "uspeler": "Denys, Frank", "telo": 1972, "uelo": 1892, "tstam": 38822, "ustam": 21881},
+      {"tr": "0", "ur": "1", "tspeler": "Castelein, Dirk", "uspeler": "Lot, Diederik", "telo": 1970, "uelo": 1891, "tstam": 72966, "ustam": 9954},
+      {"tr": "1", "ur": "0", "tspeler": "Demunck, Jan", "uspeler": "Cornelis, Eric", "telo": 1965, "uelo": 1726, "tstam": 21938, "ustam": 76317}
+       ]
   }
-
 ]

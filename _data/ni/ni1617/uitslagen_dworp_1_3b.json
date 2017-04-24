@@ -123,12 +123,12 @@
     "ronde": "ronde 11",
     "datum": "23-04-2017",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "244 brussels 1", "uit": "174 brasschaat 2"},
-      {"tr": "", "ur": "", "thuis": "432 wetteren 2", "uit": "228 dworp 1"},
-      {"tr": "", "ur": "", "thuis": "261 opwijk 1", "uit": "278 pantin 1"},
-      {"tr": "", "ur": "", "thuis": "401 kgsrl 4", "uit": "226 europchess 2"},
-      {"tr": "", "ur": "", "thuis": "541 leuze 1", "uit": "952 wavre 1"},
-      {"tr": "", "ur": "", "thuis": "518 soignies 1", "uit": "143 temse 2"}
+      {"tr": "2.5", "ur": "3.5", "thuis": "244 brussels 1", "uit": "174 brasschaat 2"},
+      {"tr": "2", "ur": "4", "thuis": "432 wetteren 2", "uit": "228 dworp 1"},
+      {"tr": "4", "ur": "2", "thuis": "261 opwijk 1", "uit": "278 pantin 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "401 kgsrl 4", "uit": "226 europchess 2"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "541 leuze 1", "uit": "952 wavre 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "518 soignies 1", "uit": "143 temse 2"}
     ]
   }
 ]
