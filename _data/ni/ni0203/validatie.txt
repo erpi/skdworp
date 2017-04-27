@@ -1,5 +1,1 @@
-Ronde 5: Dworp 1: fout: 'excelsior' niet identiek aan 'excelsior ' in kruistabel
-Ronde 5: Dworp 3: fout: 'jean jaurès gent 4' niet gevonden in kruistabel (spelling?)
-Ronde 5: Dworp 3: waarschuwing: score tegen 'jean jaurès gent 4' is niet gecontroleerd in kruistabel
-Ronde 6: Dworp 1: waarschuwing: score tegen 'bye' niet ingevuld in kruistabel
-Ronde 6: Dworp 3: fout: 'rapid aalter 3' niet identiek aan 'rapid aalter 2' in kruistabel
+Ronde 6: Dworp 1: waarschuwing: geen ploegnaam gevonden
