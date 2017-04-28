@@ -14,7 +14,7 @@
       {"tr": "0", "ur": "1", "tspeler": "Massoels, Thomas", "uspeler": "Denys, Frank", "telo": 1980, "uelo": 1939, "tstam": 21113, "ustam": 21881},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Cuypers, Dries", "uspeler": "Maeckelbergh, Geert", "telo": 1849, "uelo": 1821, "tstam": 14605, "ustam": 43419},
       {"tr": "1", "ur": "0", "tspeler": "Burger, Stefaan", "uspeler": "Cornelis, Eric", "telo": 1834, "uelo": 1690, "tstam": 30856, "ustam": 76317},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Noten, Stijn", "uspeler": "Van De Velde, Filip", "telo": 1821, "uelo": 1535, "tstam": 24422, "ustam": 31682}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Noten, Stijn", "uspeler": "Van de Velde, Filip", "telo": 1821, "uelo": 1535, "tstam": 24422, "ustam": 31682}
     ]
   },
   {
@@ -32,7 +32,7 @@
       {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Canneel, Daniel", "telo": 1939, "uelo": 1972, "tstam": 21881, "ustam": 50113},
       {"tr": "0", "ur": "1", "tspeler": "De Reymaeker, Walter", "uspeler": "Vivone, Santino", "telo": 1923, "uelo": 1911, "tstam": 34584, "ustam": 59048},
       {"tr": "0", "ur": "1", "tspeler": "Cornelis, Eric", "uspeler": "De Noose, Daniel", "telo": 1690, "uelo": 1855, "tstam": 76317, "ustam": 90883},
-      {"tr": "0", "ur": "1", "tspeler": "Van De Velde, Filip", "uspeler": "Cloes, Johan", "telo": 1535, "uelo": 1704, "tstam": 31682, "ustam": 85901}
+      {"tr": "0", "ur": "1", "tspeler": "Van de Velde, Filip", "uspeler": "Cloes, Johan", "telo": 1535, "uelo": 1704, "tstam": 31682, "ustam": 85901}
     ]
   },
   {
@@ -50,7 +50,7 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Boons, Bert", "uspeler": "De Reymaeker, Walter", "telo": 1992, "uelo": 1927, "tstam": 40517, "ustam": 34584},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Boons, Patrick", "uspeler": "Maeckelbergh, Geert", "telo": 2026, "uelo": 1822, "tstam": 28533, "ustam": 43419},
       {"tr": "1", "ur": "0", "tspeler": "Barbier, Thomas", "uspeler": "Cornelis, Eric", "telo": 1988, "uelo": 1685, "tstam": 13161, "ustam": 76317},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Smet, Louis", "uspeler": "Van De Velde, Filip", "telo": 1717, "uelo": 1546, "tstam": 11748, "ustam": 31682}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Smet, Louis", "uspeler": "Van de Velde, Filip", "telo": 1717, "uelo": 1546, "tstam": 11748, "ustam": 31682}
     ]
   },
   {
@@ -68,7 +68,7 @@
       {"tr": "1", "ur": "0", "tspeler": "Hannesson, Olafur", "uspeler": "Denys, Frank", "telo": 2126, "uelo": 1939, "tstam": 15623, "ustam": 21881},
       {"tr": "0", "ur": "1", "tspeler": "Ramos Florido, Jose-Maria", "uspeler": "De Reymaeker, Walter", "telo": 1928, "uelo": 1923, "tstam": 50149, "ustam": 34584},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Frederiksen, Kristian Pad", "uspeler": "Maeckelbergh, Geert", "telo": 1839, "uelo": 1821, "tstam": 60007, "ustam": 43419},
-      {"tr": "0", "ur": "1", "tspeler": "Parreira, Luis Miguel", "uspeler": "Van De Velde, Filip", "telo": 1879, "uelo": 1535, "tstam": 12300, "ustam": 31682}
+      {"tr": "0", "ur": "1", "tspeler": "Parreira, Luis Miguel", "uspeler": "Van de Velde, Filip", "telo": 1879, "uelo": 1535, "tstam": 12300, "ustam": 31682}
     ]
   },
   {
@@ -86,7 +86,7 @@
       {"tr": "0", "ur": "1", "tspeler": "Denys, Frank", "uspeler": "De Bock, Lennart", "telo": 1939, "uelo": 2061, "tstam": 21881, "ustam": 38253},
       {"tr": "0.5", "ur": "0.5", "tspeler": "De Reymaeker, Walter", "uspeler": "De Rycke, Timothy", "telo": 1923, "uelo": 2016, "tstam": 34584, "ustam": 24694},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh, Geert", "uspeler": "Decruyenaere, Robbert", "telo": 1821, "uelo": 1720, "tstam": 43419, "ustam": 10967},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Van De Velde, Filip", "uspeler": "Van Malder, Klaus", "telo": 1535, "uelo": 1584, "tstam": 31682, "ustam": 10937}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van de Velde, Filip", "uspeler": "Van Malder, Klaus", "telo": 1535, "uelo": 1584, "tstam": 31682, "ustam": 10937}
     ]
   },
   {
@@ -104,7 +104,7 @@
       {"tr": "1", "ur": "0", "tspeler": "Michiels, Luc", "uspeler": "Denys, Frank", "telo": 2127, "uelo": 1939, "tstam": 66443, "ustam": 21881},
       {"tr": "1", "ur": "0", "tspeler": "Van Houtte, Randy", "uspeler": "De Reymaeker, Walter", "telo": 2000, "uelo": 1923, "tstam": 10283, "ustam": 34584},
       {"tr": "0", "ur": "1", "tspeler": "Demunck, Jan", "uspeler": "Maeckelbergh, Geert", "telo": 1981, "uelo": 1821, "tstam": 21938, "ustam": 43419},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Vintioen, Ben", "uspeler": "Van De Velde, Filip", "telo": 1926, "uelo": 1535, "tstam": 38822, "ustam": 31682}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vintioen, Ben", "uspeler": "Van de Velde, Filip", "telo": 1926, "uelo": 1535, "tstam": 38822, "ustam": 31682}
     ]
   },
   {
@@ -122,7 +122,7 @@
       {"tr": "0", "ur": "1", "tspeler": "Denys, Frank", "uspeler": "Van Leeuwen, Etienne", "telo": 1939, "uelo": 2079, "tstam": 21881, "ustam": 15121},
       {"tr": "0", "ur": "1", "tspeler": "De Reymaeker, Walter", "uspeler": "Boog, Ben", "telo": 1923, "uelo": 2075, "tstam": 34584, "ustam": 53830},
       {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh, Geert", "uspeler": "Van De Wynkele, Rudy", "telo": 1821, "uelo": 1992, "tstam": 43419, "ustam": 9679},
-      {"tr": "1", "ur": "0", "tspeler": "Van De Velde, Filip", "uspeler": "De Saegher, Johan", "telo": 1535, "uelo": 1922, "tstam": 31682, "ustam": 53708}
+      {"tr": "1", "ur": "0", "tspeler": "Van de Velde, Filip", "uspeler": "De Saegher, Johan", "telo": 1535, "uelo": 1922, "tstam": 31682, "ustam": 53708}
     ]
   },
   {
@@ -140,7 +140,7 @@
       {"tr": "1", "ur": "0", "tspeler": "Van Laeken, Jonathan", "uspeler": "De Reymaeker, Walter", "telo": 1886, "uelo": 1923, "tstam": 31674, "ustam": 34584},
       {"tr": "0", "ur": "1", "tspeler": "Verhalle, Elias", "uspeler": "Maeckelbergh, Geert", "telo": 1811, "uelo": 1821, "tstam": 11400, "ustam": 43419},
       {"tr": "0", "ur": "1", "tspeler": "Ost, Roger", "uspeler": "Cornelis, Eric", "telo": 1632, "uelo": 1690, "tstam": 97150, "ustam": 76317},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Dhooge, Achiel", "uspeler": "Van De Velde, Filip", "telo": 1606, "uelo": 1535, "tstam": 8401, "ustam": 31682}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Dhooge, Achiel", "uspeler": "Van de Velde, Filip", "telo": 1606, "uelo": 1535, "tstam": 8401, "ustam": 31682}
     ]
   },
   {
@@ -158,7 +158,7 @@
       {"tr": "0", "ur": "1", "tspeler": "De Reymaeker, Walter", "uspeler": "Bastogne, Damien", "telo": 1923, "uelo": 2084, "tstam": 34584, "ustam": 56901},
       {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh, Geert", "uspeler": "Wettach, Alain", "telo": 1821, "uelo": 1960, "tstam": 43419, "ustam": 63797},
       {"tr": "1", "ur": "0", "tspeler": "Cornelis, Eric", "uspeler": "Lheureux, Benoit", "telo": 1690, "uelo": 1846, "tstam": 76317, "ustam": 81302},
-      {"tr": "1", "ur": "0", "tspeler": "Van De Velde, Filip", "uspeler": "Chung Choong Lon, Marc", "telo": 1535, "uelo": 1846, "tstam": 31682, "ustam": 68209}
+      {"tr": "1", "ur": "0", "tspeler": "Van de Velde, Filip", "uspeler": "Chung Choong Lon, Marc", "telo": 1535, "uelo": 1846, "tstam": 31682, "ustam": 68209}
     ]
   },
   {
@@ -194,7 +194,7 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh, Geert", "uspeler": "Verhaegen, Albert", "telo": 1821, "uelo": 2107, "tstam": 43419, "ustam": 1473},
       {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher, Peter", "uspeler": "Depauw, Christian", "telo": 1811, "uelo": 2105, "tstam": 655, "ustam": 79294},
       {"tr": "0", "ur": "1", "tspeler": "Cornelis, Eric", "uspeler": "Hawia, Thierry", "telo": 1690, "uelo": 2049, "tstam": 76317, "ustam": 46710},
-      {"tr": "0", "ur": "1", "tspeler": "Van De Velde, Filip", "uspeler": "Bouchat, Xavier", "telo": 1535, "uelo": 1963, "tstam": 31682, "ustam": 70602}
+      {"tr": "0", "ur": "1", "tspeler": "Van de Velde, Filip", "uspeler": "Bouchat, Xavier", "telo": 1535, "uelo": 1963, "tstam": 31682, "ustam": 70602}
     ]
   }
 ]
