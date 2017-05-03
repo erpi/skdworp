@@ -20,4 +20,15 @@
 
 .footer-main div div div {
    padding-bottom: 10px;
+   font-size: larger;
+}
+
+.footer-main div div div a {
+  vertical-align:sub;display:inline-block;
+}
+
+@media (max-width: 767px) {
+	.footer-main div div div {
+		text-align: center;
+	}
 }
