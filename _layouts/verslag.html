@@ -18,6 +18,9 @@ layout: compress
       </header>
       <section id="verslag">
         <div class="container">
+          <div class="grijs">
+            {% include social.html %}
+          </div>
           <h2>door {{ page.author | downcase}}
           {% if page.fotograaf and page.fotograaf != page.author %}
           <small> (foto's {{ page.fotograaf | downcase }})</small>
