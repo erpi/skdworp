@@ -123,12 +123,12 @@
     "ronde": "ronde 11",
     "datum": "05-05-2017",
     "partijen": [
-      {"wr": "", "zr": "", "wit": "Serge Vanderwaeren", "zwart": "Stijn Bertrand"},
-      {"wr": "", "zr": "", "wit": "Kjell Spaens", "zwart": "Geert Verrijken"},
-      {"wr": "", "zr": "", "wit": "Filip Van de Velde", "zwart": "Yves Baert"},
-      {"wr": "", "zr": "", "wit": "Peter De Bosscher", "zwart": "Robert Huysman"},
+      {"wr": "1", zr": "0", "wit": "Serge Vanderwaeren", "zwart": "Stijn Bertrand"},
+      {"wr": "0", zr": "1", "wit": "Kjell Spaens", "zwart": "Geert Verrijken"},
+      {"wr": "0.5", zr": "0.5", "wit": "Filip Van de Velde", "zwart": "Yves Baert"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Peter De Bosscher", "zwart": "Robert Huysman"},
       {"wr": "", "zr": "", "wit": "Eric Cornelis", "zwart": "Diederik Lot"},
-      {"wr": "", "zr": "", "wit": "Bernard Malfliet", "zwart": "Walter De Reymaeker"}
+      {"wr": "1", "zr": "0", "wit": "Bernard Malfliet", "zwart": "Walter De Reymaeker"}
     ]
   }
 ]
