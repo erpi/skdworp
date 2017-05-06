@@ -41,15 +41,9 @@ Wanneer we naar de tussenstand kijken zien we dat er nog veel mogelijk is, een k
 
 ![stelling 4 fen: r4rk1/pbp3pp/1pnpq3/5p2/2P5/2Q1PN2/PP2BPPP/3R1RK1 w - -][stelling 4]
 
-c5! De dreiging Lc4 is ineens heel sterk en na het begrijpelijke maar zwakke Pe5? (Kh8 was beter) haalt Eric opnieuw uit met het knappe c6! (ook al geeft Stockfish nog andere mogelijkheden). Hierna domineert Eric de stelling volledig en heeft Filip eigenlijk geen schijn van kans meer. Het blijft dan ook een raadsel waarom onze voorzitter enkele zetten later (zie onderstaande stelling) remise voorstelde, een aanbod waar Filip niet lang moest over nadenken.
+[spelers]: {{ "/images/kk1617/r11_foto_serge.jpg" | absolute_url }}
+[stelling 1]: {{ "/images/kk1617/r11_foto_peter.jpg" | absolute_url }}
+[stelling 2]: {{ "/images/kk1617/r11_foto_yves.jpg" | absolute_url }}
+[stelling 3]: {{ "/images/kk1617/r11_foto_bernard.jpg" | absolute_url }}
+[stelling 4]: {{ "/images/kk1617/r11_uitslag_hypo.png" | absolute_url }}
 
-![stelling 5 fen: r1b2rk1/p1p3pp/1pP5/4pp2/2B5/4P3/PP3PPP/3R1RK1 w - -][stelling 5]
-
-Lc4+ met remise voorstel.
-
-[spelers]: {{ "/images/kk1617/r6_diederik_spelers.jpg" | absolute_url }}
-[stelling 1]: {{ "/images/kk1617/r6_diederik_stelling_1.png" | absolute_url }}
-[stelling 2]: {{ "/images/kk1617/r6_diederik_stelling_2.png" | absolute_url }}
-[stelling 3]: {{ "/images/kk1617/r6_diederik_stelling_3.png" | absolute_url }}
-[stelling 4]: {{ "/images/kk1617/r6_diederik_stelling_4.png" | absolute_url }}
-[stelling 5]: {{ "/images/kk1617/r6_diederik_stelling_5.png" | absolute_url }}
