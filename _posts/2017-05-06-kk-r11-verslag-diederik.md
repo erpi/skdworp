@@ -9,7 +9,7 @@ stelling_fen: '2R5/3r1k1p/p2p1p2/1p5P/1n3B2/1P6/1r4P1/4R1K1 w - -'
 stelling_titel: 'Wit speelt en geeft mat in enkele'
 stelling_wit: 'Bernard'
 stelling_zwart: 'Walter'
-stelling_uitleg: ' h5 heeft net het enige vluchtveld (g6) van de koning weggenomen'
+stelling_uitleg: 'de stelling is niet exact juist, maar het matbeeld klopt wel'
 stelling_oplossing: 'Lh6!'
 layout: verslag
 excerpt_separator: <!--more-->
@@ -18,9 +18,13 @@ De laatste ronde van het KK weeral, maar het blijft spannend daar er nog een hel
 
 De laatste ronde van het KK weeral, maar het blijft spannend daar er nog een hele hoop inhaalpartijen te spelen zijn en de eindstand dus pas over enkele weken gekend zal zijn. Zelf moest ik jammer genoeg opnieuw uitstellen tegen **_Eric_** wegens een tripje voor het werk waardoor ik pas rond 21u30 in de club aanwezig kon zijn. Net op tijd voor de eerste verassing: **_Kjell_** verliest met wit tegen **_Geert_**. **_Kjell_** leek een gezonde plus uit de opening te hebben die uitdraaide op een schijnbaar dodelijke aanval tegen zwarts koning, **_Geert_** verdedigt echter secuur en na een incorrect stukoffer van wit mogen de stukken terug in de doos. Tijd voor wat Duvels, pintjes en gin tonics. Mede door de plus remise tegen **_Serge_** in de vorige ronde komt **_Geert_** hiermee alleen aan de leiding, een mooie eindsprint na een ietwat mindere start! 
 
+## Serge - Stijn 1-0
+
 **_Serge_** tegen **_Stijn_** was misschien de enige “normale” uitslag in deze ronde. **_Stijn_** vocht voor wat hij waard was, maar de structurele zwakte van zijn geïsoleerde d-pion deed hem uiteindelijk de das om. Hij bleef wel vechten en complicaties zoeken, iets wat hem in de toekomst zeker nog punten zal opleveren. **_Serge_** kon hiermee na een lange reeks van remises nog eens een vol punt binnen halen en blijft in de running voor de eerste plaats.
 
 ![foto spelers][spelers]
+
+## Peter - Bob 0.5-0.5
 
 **_Peter_** kwam in een eindspel dat op het eerste zicht gelijk was tegen **_Bob_**, al was zijn toren iets actiever. In hevige tijdnood kon hij een blunder van **_Bob_** die een pion verliest niet afstraffen, remise was dan ook de logische uitslag. 
 
@@ -28,7 +32,7 @@ Het is niet de eerste keer dit jaar dat de increment van 15 seconden de boosdoen
 
 ![stelling 1 fen: r1bqkb1r/ppp2Npp/2n5/3np3/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 6][stelling 1]
 
-Filip bereikte een mooie stelling tegen Yves maar kon het niet afmaken. Yves heeft secuur gespeeld en is vooral niet in hevige tijdnood gekomen, hetgeen hem begin dit jaar zo vaak de das heeft omgedaan. Deze verandering in speelstijl levert hem direct enkele goede resultaten op (zie ook de remise tegen Serge). Ook hier word uiteindelijk de vredespijp gerookt. In de eindstand haalt Filip de helft van de punten met enkele mooie resultaten en partijen, veelbelovend voor de volgende jaren!
+**_Filip_** bereikte een mooie stelling tegen **_Yves_** maar kon het niet afmaken. **_Yves_** heeft secuur gespeeld en is vooral niet in hevige tijdnood gekomen, hetgeen hem begin dit jaar zo vaak de das heeft omgedaan. Deze verandering in speelstijl levert hem direct enkele goede resultaten op (zie ook de remise tegen Serge). Ook hier word uiteindelijk de vredespijp gerookt. In de eindstand haalt **_Filip_** de helft van de punten met enkele mooie resultaten en partijen, veelbelovend voor de volgende jaren!
 
 ![stelling 2 fen: 8/p1p5/2k1p3/2P1Pppp/2K4P/P4PP1/8/8 b - - 0 1][stelling 2]
 
