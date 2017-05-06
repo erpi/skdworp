@@ -22,7 +22,7 @@ De laatste ronde van het KK weeral, maar het blijft spannend daar er nog een hel
 
 **_Serge_** tegen **_Stijn_** was misschien de enige “normale” uitslag in deze ronde. **_Stijn_** vocht voor wat hij waard was, maar de structurele zwakte van zijn geïsoleerde d-pion deed hem uiteindelijk de das om. Hij bleef wel vechten en complicaties zoeken, iets wat hem in de toekomst zeker nog punten zal opleveren. **_Serge_** kon hiermee na een lange reeks van remises nog eens een vol punt binnen halen en blijft in de running voor de eerste plaats.
 
-![foto spelers][spelers]
+![Serge Stijn][spelers]
 
 ## Peter - Bob 0.5-0.5
 
@@ -30,15 +30,19 @@ De laatste ronde van het KK weeral, maar het blijft spannend daar er nog een hel
 
 Het is niet de eerste keer dit jaar dat de increment van 15 seconden de boosdoener is. Er moet blijven genoteerd worden waardoor er niet genoeg tijd is om betere stellingen te converteren in winst, wat eigenlijk de bedoeling is van de increment. Misschien moet dit toch eens herbekeken worden volgend jaar of er geen ander tempo beter geschikt is.  
 
-![stelling 1 fen: r1bqkb1r/ppp2Npp/2n5/3np3/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 6][stelling 1]
+![Peter Bob][stelling 1]
+
+## Filip - Yves 0.5-0.5
 
 **_Filip_** bereikte een mooie stelling tegen **_Yves_** maar kon het niet afmaken. **_Yves_** heeft secuur gespeeld en is vooral niet in hevige tijdnood gekomen, hetgeen hem begin dit jaar zo vaak de das heeft omgedaan. Deze verandering in speelstijl levert hem direct enkele goede resultaten op (zie ook de remise tegen Serge). Ook hier word uiteindelijk de vredespijp gerookt. In de eindstand haalt **_Filip_** de helft van de punten met enkele mooie resultaten en partijen, veelbelovend voor de volgende jaren!
 
-![stelling 2 fen: 8/p1p5/2k1p3/2P1Pppp/2K4P/P4PP1/8/8 b - - 0 1][stelling 2]
+![Yves][stelling 2]
+
+## Bernard - Walter 1-0
 
 Dan de verassing van de avond; **_Bernard**_ valt in zijn typische stijl aan  tegen **_Walter_** die het hoofd koel houd en kan afwikkelen naar wat waarschijnlijk een gewonnen partij is. Met **_Bernard_** heb je echter nooit gedaan, iets dat ikzelf en met mij vele andere, ook al heb mogen ondervinden. **_Walter_** liet toe dat **_Bernard_** met h4 en nadien h5 het enige vluchtveld van de zwarte koning afnam en na Lh6! is het plots ondekbaar mat (zie stelling die zeker op de damevleugel helemaal verkeerd is maar het matbeeld klopt wel). Een anti-climax voor **_Walter_** die hiermee (en ook door de remise tegen Eric in de vorige ronde) zijn eerste plaats aan **_Geert_** verliest. 
 
-![stelling 3 fen: bn6/4kpp1/p1p1p2p/N7/P1pP4/4P3/2B1KPPP/8 w - - 0 1][stelling 3]
+![Bernard Walter][stelling 3]
 
 Wanneer we naar de tussenstand kijken zien we dat er nog veel mogelijk is, een klein voorbeeldje hieronder dat best wel uniek zou zijn. 
 
