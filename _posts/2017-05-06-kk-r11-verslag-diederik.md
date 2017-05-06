@@ -24,21 +24,20 @@ De laatste ronde van het KK weeral, maar het blijft spannend daar er nog een hel
 
 Stelling na 6.Pxf7!? (fried liver attack)
 
-**_Walter - Serge_** heb ik niet echt gevolgd. Dus vergeef mijn summiere samenvatting. Er was een klein "touché" incident zonder veel erg voor het verdere verloop van de partij. In een redelijk complex toreneindspel stelde Serge uiteindelijk remise voor. Volgens Walter had hij de beste kansen en stond hij misschien zelfs gewonnen, maar hij nam toch het zekere voor het onzekere en aanvaarde het remisevoorstel.
+**_Serge_** tegen **_Stijn_** was misschien de enige “normale” uitslag in deze ronde. **_Stijn_** vocht voor wat hij waard was, maar de structurele zwakte van zijn geïsoleerde d-pion deed hem uiteindelijk de das om. Hij bleef wel vechten en complicaties zoeken, iets wat hem in de toekomst zeker nog punten zal opleveren. **_Serge_** kon hiermee na een lange reeks van remises nog eens een vol punt binnen halen en blijft in de running voor de eerste plaats.
 
-**_Stijn - Peter_** was eveneens een spannende partij die uiteindelijk in remise dreigde te verzanden. Een kleine onnauwkeurigheid van Stijn leverde onderstaande stelling op waar Peter de juiste "breekzet" vond.
+**_Peter_** kwam in een eindspel dat op het eerste zicht gelijk was tegen **_Bob_**, al was zijn toren iets actiever. In hevige tijdnood kon hij een blunder van **_Bob_** die een pion verliest niet afstraffen, remise was dan ook de logische uitslag. 
+Het is niet de eerste keer dit jaar dat de increment van 15 seconden de boosdoener is. Er moet blijven genoteerd worden waardoor er niet genoeg tijd is om betere stellingen te converteren in winst, wat eigenlijk de bedoeling is van de increment. Misschien moet dit toch eens herbekeken worden volgend jaar of er geen ander tempo beter geschikt is.  
 
 ![stelling 2 fen: 8/p1p5/2k1p3/2P1Pppp/2K4P/P4PP1/8/8 b - - 0 1][stelling 2]
 
 Zwart speelt 1...f4! en ook al kan wit na 2.g4 hxg4 3.h5 eveneens promoveren, toch staat zwart volledig gewonnen. Peter haalde na secuur spel het volle punt binnen. Een goede les voor Stijn!
 
-In de partij **_Diederik - Geert_** werd er door beide spelers nogal slordig gespeeld in de opening en het vroege middenspel. Dat resulteerde eerst in snel pionverlies van Diederik, maar na enkele mindere zetten van Geert in een stelling waar zwart moest vechten voor gelijkspel.
+Dan de verassing van de avond; **_Bernard**_ valt in zijn typische stijl aan  tegen **_Walter_** die het hoofd koel houd en kan afwikkelen naar wat waarschijnlijk een gewonnen partij is. Met **_Bernard_** heb je echter nooit gedaan, iets dat ikzelf en met mij vele andere, ook al heb mogen ondervinden. **_Walter_** liet toe dat **_Bernard_** met h4 en nadien h5 het enige vluchtveld van de zwarte koning afnam en na Lh6! is het plots ondekbaar mat (zie stelling die zeker op de damevleugel helemaal verkeerd is maar het matbeeld klopt wel). Een anti-climax voor **_Walter_** die hiermee (en ook door de remise tegen Eric in de vorige ronde) zijn eerste plaats aan **_Geert_** verliest. 
 
 ![stelling 3 fen: bn6/4kpp1/p1p1p2p/N7/P1pP4/4P3/2B1KPPP/8 w - - 0 1][stelling 3]
 
-In bovenstaand stelling leverde het precieze Le4! (i.p.v. het "normale" Pxc4 =) een gezonde plus van 0.6 op, zwart zijn stukken worden volledig gedomineerd en bijna al zijn pionnen staan op de verkeerde kleur. Na de partij werd uitvoerig gediscussieerd of zwart hier nog remisekansen heeft. Na analyse met de machine is gebleken dat zowel wit als zwart, zoals te verwachten, het vervolg niet zuiver hebben gespeeld en remise dus zeker nog tot de mogelijkheden behoorde. In de praktijk echter denk ik dat spelers op ons bescheiden niveau dit eindspel met zwart niet kunnen houden wat van Le4! de matchwinnaar maakt. Diederik die positioneel begint te spelen, waar gaan we het schrijven?
-
-De mooiste partij was misschien wel **_Eric - Filip_**. Eric is in een ver verleden nog omschreven als de meest talentvolle speler van onze club op Serge na, echter met grote hiaten in zijn spel (citaat Koen Heynen). Iedereen mag van deze uitspraak het zijne denken, het feit blijft dat Eric prachtige partijen kan spelen, wat hij hier bewijst tegen Filip.
+Wanneer we naar de tussenstand kijken zien we dat er nog veel mogelijk is, een klein voorbeeldje hieronder dat best wel uniek zou zijn. 
 
 ![stelling 4 fen: r4rk1/pbp3pp/1pnpq3/5p2/2P5/2Q1PN2/PP2BPPP/3R1RK1 w - -][stelling 4]
 
@@ -47,10 +46,6 @@ c5! De dreiging Lc4 is ineens heel sterk en na het begrijpelijke maar zwakke Pe5
 ![stelling 5 fen: r1b2rk1/p1p3pp/1pP5/4pp2/2B5/4P3/PP3PPP/3R1RK1 w - -][stelling 5]
 
 Lc4+ met remise voorstel.
-
-In het klassement blijft Walter aan de leiding, gevolgd door Serge, Diederik en Kjell. Maar er moeten nog vele onderlinge duels gespeeld worden, alles blijft dus mogelijk in ons sterkste en spannendste kampioenschap in jaren.
-
-Wordt vervolgd....
 
 [spelers]: {{ "/images/kk1617/r6_diederik_spelers.jpg" | absolute_url }}
 [stelling 1]: {{ "/images/kk1617/r6_diederik_stelling_1.png" | absolute_url }}
