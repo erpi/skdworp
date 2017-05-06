@@ -2,7 +2,7 @@
 description: De laatste ronde van het KK weeral, maar het blijft spannend daar er nog een hele hoop inhaalpartijen te spelen zijn en de eindstand dus pas over enkele weken gekend zal zijn.'
 tag: kk
 kk_ronde: '11'
-title: 'Geert neemt de leiding na knotsgekke ronde'
+title: 'Geert neemt de leiding na knotsgekke laatste ronde'
 author: Diederik
 fotograaf: Diederik
 stelling_fen: '2R5/3r1k1p/p2p1p2/1p5P/1n3B2/1P6/1r4P1/4R1K1 w - -'
