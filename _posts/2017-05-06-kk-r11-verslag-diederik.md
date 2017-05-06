@@ -16,7 +16,7 @@ excerpt_separator: <!--more-->
 ---
 De laatste ronde van het KK weeral, maar het blijft spannend daar er nog een hele hoop inhaalpartijen te spelen zijn en de eindstand dus pas over enkele weken gekend zal zijn.<!--more-->
 
-Zelf moest ik jammer genoeg opnieuw uitstellen tegen **_Eric_** wegens een tripje voor het werk waardoor ik pas rond 21u30 in de club aanwezig kon zijn. Net op tijd voor de eerste verassing: **_Kjell_** verliest met wit tegen **_Geert_**. **_Kjell_** leek een gezonde plus uit de opening te hebben die uitdraaide op een schijnbaar dodelijke aanval tegen zwarts koning, **_Geert_** verdedigt echter secuur en na een incorrect stukoffer van wit mogen de stukken terug in de doos. Tijd voor wat Duvels, pintjes en gin tonics. Mede door de plus remise tegen **_Serge_** in de vorige ronde komt **_Geert_** hiermee alleen aan de leiding, een mooie eindsprint na een ietwat mindere start! 
+Zelf moest ik jammer genoeg opnieuw uitstellen tegen **_Eric_** wegens een tripje voor het werk waardoor ik pas rond 21u30 in de club aanwezig kon zijn. Net op tijd voor de eerste verassing: **_Kjell_** verliest met wit tegen **_Geert_**. **_Kjell_** leek een gezonde plus uit de opening te hebben die uitdraaide op een schijnbaar dodelijke aanval tegen zwarts koning, **_Geert_** verdedigt echter secuur en na een incorrect stukoffer van wit mochten de stukken terug in de doos. Tijd voor wat Duvels, pintjes en gin tonics. Mede door de plus remise tegen **_Serge_** in de vorige ronde komt **_Geert_** hiermee alleen aan de leiding, een mooie eindsprint na een ietwat mindere start! 
 
 ## Serge - Stijn 1-0
 
@@ -40,7 +40,7 @@ Het is niet de eerste keer dit jaar dat de increment van 15 seconden de boosdoen
 
 ## Bernard - Walter 1-0
 
-Dan de verassing van de avond; **_Bernard**_ valt in zijn typische stijl aan  tegen **_Walter_** die het hoofd koel houd en kan afwikkelen naar wat waarschijnlijk een gewonnen partij is. Met **_Bernard_** heb je echter nooit gedaan, iets dat ikzelf en met mij vele andere, ook al heb mogen ondervinden. **_Walter_** liet toe dat **_Bernard_** met h4 en nadien h5 het enige vluchtveld van de zwarte koning afnam en na Lh6! is het plots ondekbaar mat (zie stelling die zeker op de damevleugel helemaal verkeerd is maar het matbeeld klopt wel). Een anti-climax voor **_Walter_** die hiermee (en ook door de remise tegen Eric in de vorige ronde) zijn eerste plaats aan **_Geert_** verliest. 
+Dan de verassing van de avond; **_Bernard**_ valt in zijn typische stijl aan tegen **_Walter_** die het hoofd koel houd en kan afwikkelen naar wat waarschijnlijk een gewonnen partij is. Met **_Bernard_** heb je echter nooit gedaan, iets dat ikzelf en met mij vele andere, ook al heb mogen ondervinden. **_Walter_** liet toe dat **_Bernard_** met h4 en nadien h5 het enige vluchtveld van de zwarte koning afnam en na Lh6! is het plots ondekbaar mat (zie stelling die zeker op de damevleugel helemaal verkeerd is maar het matbeeld klopt wel). Een anti-climax voor **_Walter_** die hiermee (en ook door de remise tegen Eric in de vorige ronde) zijn eerste plaats aan **_Geert_** verliest. 
 
 ![Bernard Walter][stelling 3]
 
