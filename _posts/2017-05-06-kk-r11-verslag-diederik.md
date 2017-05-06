@@ -16,11 +16,11 @@ excerpt_separator: <!--more-->
 ---
 De laatste ronde van het KK weeral, maar het blijft spannend daar er nog een hele hoop inhaalpartijen te spelen zijn en de eindstand dus pas over enkele weken gekend zal zijn.<!--more-->
 
-De laatste ronde van het KK weeral, maar het blijft spannend daar er nog een hele hoop inhaalpartijen te spelen zijn en de eindstand dus pas over enkele weken gekend zal zijn. Zelf moest ik jammer genoeg opnieuw uitstellen tegen **_Eric_** wegens een tripje voor het werk waardoor ik pas rond 21u30 in de club aanwezig kon zijn. Net op tijd voor de eerste verassing: **_Kjell_** verliest met wit tegen **_Geert_**. **_Kjell_** leek een gezonde plus uit de opening te hebben die uitdraaide op een schijnbaar dodelijke aanval tegen zwarts koning, **_Geert_** verdedigt echter secuur en na een incorrect stukoffer van wit mogen de stukken terug in de doos. Tijd voor wat Duvels, pintjes en gin tonics. Mede door de plus remise tegen **_Serge_** in de vorige ronde komt **_Geert_** hiermee alleen aan de leiding, een mooie eindsprint na een ietwat mindere start! 
+Zelf moest ik jammer genoeg opnieuw uitstellen tegen **_Eric_** wegens een tripje voor het werk waardoor ik pas rond 21u30 in de club aanwezig kon zijn. Net op tijd voor de eerste verassing: **_Kjell_** verliest met wit tegen **_Geert_**. **_Kjell_** leek een gezonde plus uit de opening te hebben die uitdraaide op een schijnbaar dodelijke aanval tegen zwarts koning, **_Geert_** verdedigt echter secuur en na een incorrect stukoffer van wit mogen de stukken terug in de doos. Tijd voor wat Duvels, pintjes en gin tonics. Mede door de plus remise tegen **_Serge_** in de vorige ronde komt **_Geert_** hiermee alleen aan de leiding, een mooie eindsprint na een ietwat mindere start! 
 
 ## Serge - Stijn 1-0
 
-**_Serge_** tegen **_Stijn_** was misschien de enige “normale” uitslag in deze ronde. **_Stijn_** vocht voor wat hij waard was, maar de structurele zwakte van zijn geïsoleerde d-pion deed hem uiteindelijk de das om. Hij bleef wel vechten en complicaties zoeken, iets wat hem in de toekomst zeker nog punten zal opleveren. **_Serge_** kon hiermee na een lange reeks van remises nog eens een vol punt binnen halen en blijft in de running voor de eerste plaats.
+**_Serge_** tegen **_Stijn_** was misschien de enige “normale” uitslag van de avond. **_Stijn_** vocht voor wat hij waard was, maar de structurele zwakte van zijn geïsoleerde d-pion deed hem uiteindelijk de das om. Hij bleef wel vechten en complicaties zoeken, iets wat hem in de toekomst zeker nog punten zal opleveren. **_Serge_** kon hiermee na een lange reeks van remises nog eens een vol punt binnen halen en blijft in de running voor de eerste plaats.
 
 ![Serge Stijn][spelers]
 
