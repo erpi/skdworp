@@ -2,7 +2,7 @@
 description: De laatste ronde van het KK weeral, maar het blijft spannend daar er nog een hele hoop inhaalpartijen te spelen zijn en de eindstand dus pas over enkele weken gekend zal zijn.'
 tag: kk
 kk_ronde: '11'
-title: 'Geert neemt de leiding na knotsgekke laatste ronde'
+title: 'Geert neemt de leiding na verrassende laatste ronde'
 author: Diederik
 fotograaf: Diederik
 stelling_fen: '2R5/3r1k1p/p2p1p2/1p5P/1n3B2/1P6/1r4P1/4R1K1 w - -'
@@ -16,7 +16,7 @@ excerpt_separator: <!--more-->
 ---
 De laatste ronde van het KK weeral, maar het blijft spannend daar er nog een hele hoop inhaalpartijen te spelen zijn en de eindstand dus pas over enkele weken gekend zal zijn.<!--more-->
 
-Zelf moest ik jammer genoeg opnieuw uitstellen tegen **_Eric_** wegens een tripje voor het werk waardoor ik pas rond 21u30 in de club aanwezig kon zijn. Net op tijd voor de eerste verassing: **_Kjell_** verliest met wit tegen **_Geert_**. **_Kjell_** leek een gezonde plus uit de opening te hebben die uitdraaide op een schijnbaar dodelijke aanval tegen zwarts koning, **_Geert_** verdedigt echter secuur en na een incorrect stukoffer van wit mochten de stukken terug in de doos. Tijd voor wat Duvels, pintjes en gin tonics. Mede door de plus remise tegen **_Serge_** in de vorige ronde komt **_Geert_** hiermee alleen aan de leiding, een mooie eindsprint na een ietwat mindere start! 
+Zelf moest ik jammer genoeg opnieuw uitstellen tegen **_Eric_** wegens een tripje voor het werk waardoor ik pas rond 21u30 in de club aanwezig kon zijn. Net op tijd voor de eerste verrassing: **_Kjell_** verliest met wit tegen **_Geert_**. **_Kjell_** leek een gezonde plus uit de opening te hebben die uitdraaide op een schijnbaar dodelijke aanval tegen zwarts koning, **_Geert_** verdedigt echter secuur en na een incorrect stukoffer van wit mochten de stukken terug in de doos. Tijd voor wat Duvels, pintjes en gin tonics. Mede door de plus remise tegen **_Serge_** in de vorige ronde komt **_Geert_** hiermee alleen aan de leiding, een mooie eindsprint na een ietwat mindere start! 
 
 ## Serge - Stijn 1-0
 
