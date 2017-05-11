@@ -8,7 +8,8 @@ feed: true
   {% include pagination.html %}
 {% endif %}
 
-{% for post in paginator.posts %}
+{% assign posts = paginator.posts | where_exp: "post", "post.draft != true" %}
+{% for post in posts %}
   {% if post.tag == "kk" %}
     {% assign tag = "klubkampioenschap" %}
   {% elsif post.tag == "ni" %}

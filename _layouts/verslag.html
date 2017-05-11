@@ -13,7 +13,7 @@ layout: compress
     <div class="container main-container" id="content" tabindex="-1">
       {% include verslagen-vorige-volgende.html %}
       <header id="top">
-        <h1>{{ page.title | downcase }}</h1>
+        <h1>{{ page.title | downcase }}{% if page.draft %} (draft){% endif %}</h1>
         <hr>
       </header>
       <section id="verslag">
