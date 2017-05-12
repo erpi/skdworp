@@ -52,7 +52,7 @@
     "datum": "13-01-2017",
     "partijen": [
       {"wr": "0", "zr": "1", "wit": "Robert Huysman", "zwart": "Stijn Bertrand"},
-      {"wr": "", "zr": "", "wit": "Yves Baert", "zwart": "Diederik Lot"},
+      {"wr": "0", "zr": "1", "wit": "Yves Baert", "zwart": "Diederik Lot"},
       {"wr": "0", "zr": "1", "wit": "Geert Verrijken", "zwart": "Walter De Reymaeker"},
       {"wr": "0.5", "zr": "0.5", "wit": "Serge Vanderwaeren", "zwart": "Bernard Malfliet"},
       {"wr": "1", "zr": "0", "wit": "Kjell Spaens", "zwart": "Eric Cornelis"},
