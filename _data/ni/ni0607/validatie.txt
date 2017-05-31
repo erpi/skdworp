@@ -1,0 +1,42 @@
+Ronde 1: Dworp 1: fout: '607 sk rochade 3' niet gevonden in kruistabel (spelling?)
+Ronde 1: Dworp 1: waarschuwing: score tegen '607 sk rochade 3' is niet gecontroleerd in kruistabel
+Ronde 1: Dworp 2: fout: '260 humbeek 6' niet gevonden in kruistabel (spelling?)
+Ronde 1: Dworp 2: waarschuwing: score tegen '260 humbeek 6' is niet gecontroleerd in kruistabel
+Ronde 2: Dworp 1: fout: '901 namur 3' niet gevonden in kruistabel (spelling?)
+Ronde 2: Dworp 1: waarschuwing: score tegen '901 namur 3' is niet gecontroleerd in kruistabel
+Ronde 2: Dworp 2: fout: '401 kgsrl gent 13' niet gevonden in kruistabel (spelling?)
+Ronde 2: Dworp 2: waarschuwing: score tegen '401 kgsrl gent 13' is niet gecontroleerd in kruistabel
+Ronde 3: Dworp 1: fout: '708 nls lommel 1' niet gevonden in kruistabel (spelling?)
+Ronde 3: Dworp 1: waarschuwing: score tegen '708 nls lommel 1' is niet gecontroleerd in kruistabel
+Ronde 3: Dworp 2: fout: '268 londerzeel 1' niet gevonden in kruistabel (spelling?)
+Ronde 3: Dworp 2: waarschuwing: score tegen '268 londerzeel 1' is niet gecontroleerd in kruistabel
+Ronde 4: Dworp 1: fout: '604 ksk47 eynatten 4' niet gevonden in kruistabel (spelling?)
+Ronde 4: Dworp 1: waarschuwing: score tegen '604 ksk47 eynatten 4' is niet gecontroleerd in kruistabel
+Ronde 4: Dworp 2: fout: '244 brussels 6' niet gevonden in kruistabel (spelling?)
+Ronde 4: Dworp 2: waarschuwing: score tegen '244 brussels 6' is niet gecontroleerd in kruistabel
+Ronde 5: Dworp 1: fout: '618 amay 2' niet gevonden in kruistabel (spelling?)
+Ronde 5: Dworp 1: waarschuwing: score tegen '618 amay 2' is niet gecontroleerd in kruistabel
+Ronde 5: Dworp 2: fout: '204 exelsior 1' niet gevonden in kruistabel (spelling?)
+Ronde 5: Dworp 2: waarschuwing: score tegen '204 exelsior 1' is niet gecontroleerd in kruistabel
+Ronde 6: Dworp 1: fout: '627 wirtzfeld 1' niet gevonden in kruistabel (spelling?)
+Ronde 6: Dworp 1: waarschuwing: score tegen '627 wirtzfeld 1' is niet gecontroleerd in kruistabel
+Ronde 6: Dworp 2: fout: '959 fleurus 2' niet gevonden in kruistabel (spelling?)
+Ronde 6: Dworp 2: waarschuwing: score tegen '959 fleurus 2' is niet gecontroleerd in kruistabel
+Ronde 7: Dworp 2: fout: '209 chess club caïssa 6' niet gevonden in kruistabel (spelling?)
+Ronde 7: Dworp 2: waarschuwing: score tegen '209 chess club caïssa 6' is niet gecontroleerd in kruistabel
+Ronde 8: Dworp 1: fout: '506 mons 1' niet gevonden in kruistabel (spelling?)
+Ronde 8: Dworp 1: waarschuwing: score tegen '506 mons 1' is niet gecontroleerd in kruistabel
+Ronde 8: Dworp 2: fout: '230 leuven centraal 8' niet gevonden in kruistabel (spelling?)
+Ronde 8: Dworp 2: waarschuwing: score tegen '230 leuven centraal 8' is niet gecontroleerd in kruistabel
+Ronde 9: Dworp 1: fout: '230 leuven centraal 3' niet gevonden in kruistabel (spelling?)
+Ronde 9: Dworp 1: waarschuwing: score tegen '230 leuven centraal 3' is niet gecontroleerd in kruistabel
+Ronde 9: Dworp 2: fout: '201 cre bruxelles 5' niet gevonden in kruistabel (spelling?)
+Ronde 9: Dworp 2: waarschuwing: score tegen '201 cre bruxelles 5' is niet gecontroleerd in kruistabel
+Ronde 10: Dworp 1: fout: '727 midden-limburg 1' niet gevonden in kruistabel (spelling?)
+Ronde 10: Dworp 1: waarschuwing: score tegen '727 midden-limburg 1' is niet gecontroleerd in kruistabel
+Ronde 10: Dworp 2: fout: '249 ruisbroek 2' niet gevonden in kruistabel (spelling?)
+Ronde 10: Dworp 2: waarschuwing: score tegen '249 ruisbroek 2' is niet gecontroleerd in kruistabel
+Ronde 11: Dworp 1: fout: '601 crelel liège 2' niet gevonden in kruistabel (spelling?)
+Ronde 11: Dworp 1: waarschuwing: score tegen '601 crelel liège 2' is niet gecontroleerd in kruistabel
+Ronde 11: Dworp 2: fout: '290 epicure 2' niet gevonden in kruistabel (spelling?)
+Ronde 11: Dworp 2: waarschuwing: score tegen '290 epicure 2' is niet gecontroleerd in kruistabel
