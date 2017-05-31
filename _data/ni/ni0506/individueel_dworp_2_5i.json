@@ -1,0 +1,173 @@
+[
+  {
+    "ronde": "1",
+    "datum": "",
+    "thuis": "228 Dworp 2",
+    "uit": "Humbeek 6",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "1767",
+    "ugem": "1287",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Van Nooten Erik", "telo": "1879", "uelo": "1363", "tstam": "31526", "ustam": "54585"},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Borbas Gabor", "telo": "1824", "uelo": "1269", "tstam": "655", "ustam": "54356"},
+      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "Pepermans Jelle", "telo": "1752", "uelo": "1229", "tstam": "26816", "ustam": "34045"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verschoren Fran\u00e7ois", "uspeler": "Van Herck Rob", "telo": "1611", "uelo": "ng", "tstam": "41688", "ustam": "57690"}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "",
+    "thuis": "KOSK Oostende 5",
+    "uit": "228 Dworp 2",
+    "tscore": "3.5",
+    "uscore": "0.5",
+    "tgem": "1806",
+    "ugem": "1749",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Dayer Glenn", "uspeler": "Mertens Fran\u00e7ois", "telo": "1824", "uelo": "1879", "tstam": "24384", "ustam": "31526"},
+      {"tr": "1", "ur": "0", "tspeler": "Drabs Olivier", "uspeler": "Cornelis Eric", "telo": "1843", "uelo": "1754", "tstam": "85359", "ustam": "76317"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Tytgat Karel", "uspeler": "van Duuren Louis", "telo": "1782", "uelo": "1752", "tstam": "45276", "ustam": "26816"},
+      {"tr": "1", "ur": "0", "tspeler": "Nierynck Willy", "uspeler": "Verschoren Fran\u00e7ois", "telo": "1776", "uelo": "1611", "tstam": "72281", "ustam": "41688"}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "",
+    "thuis": "228 Dworp 2",
+    "uit": "(bye)",
+    "tscore": "",
+    "uscore": "",
+    "tgem": "",
+    "ugem": "",
+    "borden": []
+  },
+  {
+    "ronde": "4",
+    "datum": "",
+    "thuis": "KGSRL Gent 16",
+    "uit": "228 Dworp 2",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "1405",
+    "ugem": "1765",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Saligo Pieter", "uspeler": "Mertens Fran\u00e7ois", "telo": "1603", "uelo": "1879", "tstam": "15679", "ustam": "31526"},
+      {"tr": "1", "ur": "0", "tspeler": "Inghelbrecht Veronique", "uspeler": "Debast Patrick", "telo": "1505", "uelo": "1816", "tstam": "35891", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Roels Sofie", "uspeler": "van Duuren Louis", "telo": "1324", "uelo": "1752", "tstam": "33324", "ustam": "26816"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Klijsen Yvonne", "uspeler": "Verschoren Fran\u00e7ois", "telo": "1186", "uelo": "1611", "tstam": "32557", "ustam": "41688"}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "",
+    "thuis": "228 Dworp 2",
+    "uit": "Hoboken 7",
+    "tscore": "3",
+    "uscore": "1",
+    "tgem": "1818",
+    "ugem": "1498",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Van Den Elsacker Robert", "telo": "1879", "uelo": "1587", "tstam": "31526", "ustam": "40371"},
+      {"tr": "0", "ur": "1", "tspeler": "De Bosscher Peter", "uspeler": "Janssens Jean", "telo": "1824", "uelo": "1515", "tstam": "655", "ustam": "11606"},
+      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Van Deuren Junte", "telo": "1816", "uelo": "1476", "tstam": "76333", "ustam": "2917"},
+      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "Van Houdt Walter", "telo": "1752", "uelo": "1413", "tstam": "26816", "ustam": "15008"}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "",
+    "thuis": "Machelen",
+    "uit": "228 Dworp 2",
+    "tscore": "0",
+    "uscore": "4",
+    "tgem": "1823",
+    "ugem": "1780",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Groenez Jean", "uspeler": "Mertens Fran\u00e7ois", "telo": "1957", "uelo": "1879", "tstam": "37044", "ustam": "31526"},
+      {"tr": "0", "ur": "1", "tspeler": "De Mol Patrick", "uspeler": "Debast Patrick", "telo": "1861", "uelo": "1816", "tstam": "57011", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Hernalsteen Johan", "uspeler": "van Duuren Louis", "telo": "1793", "uelo": "1752", "tstam": "5932", "ustam": "26816"},
+      {"tr": "0", "ur": "1", "tspeler": "Van De Venne Peter", "uspeler": "Dekoster Pascal", "telo": "1681", "uelo": "1674", "tstam": "53236", "ustam": "54658"}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "",
+    "thuis": "228 Dworp 2",
+    "uit": "Brussels 5",
+    "tscore": "",
+    "uscore": "",
+    "tgem": "1649",
+    "ugem": "1736",
+    "borden": [
+      {"tr": "", "ur": "", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Dembour Luc", "telo": "1879", "uelo": "1782", "tstam": "31526", "ustam": "96717"},
+      {"tr": "", "ur": "", "tspeler": "Debast Patrick", "uspeler": "Mondele Mathieu", "telo": "1816", "uelo": "1778", "tstam": "76333", "ustam": "75736"},
+      {"tr": "", "ur": "", "tspeler": "van Duuren Louis", "uspeler": "Van Loo Georges", "telo": "1752", "uelo": "1732", "tstam": "26816", "ustam": "52094"},
+      {"tr": "", "ur": "", "tspeler": "Van Cutsem Jan", "uspeler": "Lefevre Stephane", "telo": "1150", "uelo": "1651", "tstam": "10618", "ustam": "72362"}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "",
+    "thuis": "Sint-Niklaas 3",
+    "uit": "228 Dworp 2",
+    "tscore": "1",
+    "uscore": "3",
+    "tgem": "1416",
+    "ugem": "1799",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Rottier Gery", "uspeler": "Mertens Fran\u00e7ois", "telo": "1562", "uelo": "1879", "tstam": "45365", "ustam": "31526"},
+      {"tr": "1", "ur": "0", "tspeler": "Lutz Dirk", "uspeler": "Ertveldt Pieter", "telo": "1397", "uelo": "1811", "tstam": "5371", "ustam": "48097"},
+      {"tr": "0", "ur": "1", "tspeler": "Covents Maarten", "uspeler": "Cornelis Eric", "telo": "1347", "uelo": "1754", "tstam": "12955", "ustam": "76317"},
+      {"tr": "0", "ur": "1", "tspeler": "Van Landeghem Gunther", "uspeler": "van Duuren Louis", "telo": "1357", "uelo": "1752", "tstam": "2925", "ustam": "26816"}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "",
+    "thuis": "228 Dworp 2",
+    "uit": "Borgerhout 8",
+    "tscore": "",
+    "uscore": "",
+    "tgem": "1730",
+    "ugem": "1678",
+    "borden": [
+      {"tr": "", "ur": "", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "D'Haluin Wim", "telo": "1879", "uelo": "1839", "tstam": "31526", "ustam": "36684"},
+      {"tr": "", "ur": "", "tspeler": "Cornelis Eric", "uspeler": "Cankja Ylli", "telo": "1754", "uelo": "1794", "tstam": "76317", "ustam": "41271"},
+      {"tr": "", "ur": "", "tspeler": "Dekoster Pascal", "uspeler": "Adriaense Rob", "telo": "1674", "uelo": "1514", "tstam": "54658", "ustam": "41122"},
+      {"tr": "", "ur": "", "tspeler": "Verschoren Fran\u00e7ois", "uspeler": "Lambertz Philippe", "telo": "1611", "uelo": "1563", "tstam": "41688", "ustam": "20702"}
+    ]
+  },
+  {
+    "ronde": "10",
+    "datum": "",
+    "thuis": "228 Dworp 2",
+    "uit": "TSM Mechelen 4",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1631",
+    "ugem": "1581",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Ducaert Frederik", "telo": "1879", "uelo": "1806", "tstam": "31526", "ustam": "24597"},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Geert", "uspeler": "Wijns Daniel", "telo": "1882", "uelo": "1782", "tstam": "43419", "ustam": "27341"},
+      {"tr": "0", "ur": "1", "tspeler": "Verschoren Fran\u00e7ois", "uspeler": "Verbruggen Filip", "telo": "1611", "uelo": "1551", "tstam": "41688", "ustam": "23604"},
+      {"tr": "0", "ur": "1", "tspeler": "Van Cutsem Jan", "uspeler": "Arens Jeroen", "telo": "1150", "uelo": "1183", "tstam": "10618", "ustam": "7706"}
+    ]
+  },
+  {
+    "ronde": "11",
+    "datum": "",
+    "thuis": "Zottegem 4",
+    "uit": "228 Dworp 2",
+    "tscore": "1",
+    "uscore": "3",
+    "tgem": "1521",
+    "ugem": "1782",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vande Velde Kristof", "uspeler": "Mertens Fran\u00e7ois", "telo": "1662", "uelo": "1879", "tstam": "19283", "ustam": "31526"},
+      {"tr": "0", "ur": "1", "tspeler": "De Gendt Eddy", "uspeler": "Maeckelbergh Mieke", "telo": "1560", "uelo": "1885", "tstam": "28673", "ustam": "353"},
+      {"tr": "0", "ur": "1", "tspeler": "Van Dmme Seraphien", "uspeler": "van Duuren Louis", "telo": "1341", "uelo": "1752", "tstam": "2658", "ustam": "26816"},
+      {"tr": "0", "ur": "1", "tspeler": "Hofman Thomas", "uspeler": "Verschoren Fran\u00e7ois", "telo": "ng", "uelo": "1611", "tstam": "10135", "ustam": "41688"}
+    ]
+  }
+]
