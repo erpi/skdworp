@@ -166,11 +166,11 @@
     "uit": "228 Dworp 2",
     "tscore": "1",
     "uscore": "3",
-    "tgem": "1675",
+    "tgem": "1691",
     "ugem": "1831",
     "borden": [
       {"tr": "0", "ur": "1", "tspeler": "De Vleeschauwer Raoul", "uspeler": "Mertens Fran\u00e7ois", "telo": "1917", "uelo": "1985", "tstam": "21920", "ustam": "31526"},
-      {"tr": "0", "ur": "1", "tspeler": "De Vriendt Augustin", "uspeler": "Debast Patrick", "telo": "1628", "uelo": "1862", "tstam": "62316", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "De Vriendt P", "uspeler": "Debast Patrick", "telo": "", "uelo": "1862", "tstam": "", "ustam": "76333"},
       {"tr": "1", "ur": "0", "tspeler": "De Ridder Michael", "uspeler": "De Bosscher Peter", "telo": "1670", "uelo": "1768", "tstam": "41777", "ustam": "655"},
       {"tr": "0", "ur": "1", "tspeler": "Van Herck Jeroen", "uspeler": "De Smedt Jean-Pierre", "telo": "1486", "uelo": "1708", "tstam": "36005", "ustam": "33910"}
     ]
