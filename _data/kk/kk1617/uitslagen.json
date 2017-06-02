@@ -29,7 +29,7 @@
     "partijen": [
       {"wr": "0", "zr": "1", "wit": "Stijn Bertrand", "zwart": "Diederik Lot"},
       {"wr": "0", "zr": "1", "wit": "Robert Huysman", "zwart": "Walter De Reymaeker"},
-      {"wr": "", "zr": "", "wit": "Yves Baert", "zwart": "Bernard Malfliet"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Yves Baert", "zwart": "Bernard Malfliet"},
       {"wr": "1", "zr": "0", "wit": "Geert Verrijken", "zwart": "Eric Cornelis"},
       {"wr": "0.5", "zr": "0.5", "wit": "Serge Vanderwaeren", "zwart": "Peter De Bosscher"},
       {"wr": "0.5", "zr": "0.5", "wit": "Kjell Spaens", "zwart": "Filip Van de Velde"}
@@ -127,7 +127,7 @@
       {"wr": "0", "zr": "1", "wit": "Kjell Spaens", "zwart": "Geert Verrijken"},
       {"wr": "0.5", "zr": "0.5", "wit": "Filip Van de Velde", "zwart": "Yves Baert"},
       {"wr": "0.5", "zr": "0.5", "wit": "Peter De Bosscher", "zwart": "Robert Huysman"},
-      {"wr": "", "zr": "", "wit": "Eric Cornelis", "zwart": "Diederik Lot"},
+      {"wr": "0.5", "zr": "0.5", "wit": "Eric Cornelis", "zwart": "Diederik Lot"},
       {"wr": "1", "zr": "0", "wit": "Bernard Malfliet", "zwart": "Walter De Reymaeker"}
     ]
   }
