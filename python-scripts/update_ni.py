@@ -4,13 +4,21 @@ import sys
 
 if sys.version_info[0] != 2 or sys.version_info[1] < 7:
     sys.exit("This script requires Python version 2.7; you're runnning " +
-        ".".join(str(x) for x in sys.version_info))
+             ".".join(str(x) for x in sys.version_info))
 
-#openpyxl needs jdcal
+# openpyxl needs jdcal
 from openpyxl import load_workbook
 from collections import OrderedDict
 from zipfile import ZipFile
-import argparse, csv, datetime, dbf, json, logging, os, re, urllib2
+import argparse
+import csv
+import datetime
+import dbf
+import json
+import logging
+import os
+import re
+import urllib2
 # https://pypi.python.org/pypi/dbf
 
 club = 'dworp'
@@ -27,13 +35,15 @@ url_locatie = 'http://www.frbe-kbsb.be/sites/manager/ICN/16-17/'
 zip_input = 'Datas.zip'
 dbf_input = 'Part24L.DBF'
 # dictionary om scores uit dbase-bestand om te zetten in getallen
-score = {'0': 0, '0F': 0, '1': 1, '1F': 1, '0.5': 0.5 }
+score = {'0': 0, '0F': 0, '1': 1, '1F': 1, '0.5': 0.5}
 # excel-bestand van kbsb
 xls_input = 'NationaalInterclub2016-2017_Uitslagen.xlsm'
 # worksheets in excel-bestand
-ws_ronden = ('R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11')
-# cellen in excel-bestand, wijzigt elk seizoen indien reeks waarin ploegen spelen, wijzigt
-# eerste veld is steeds voor Dworp 1, tweede voor Dworp 2, lege string indien geen Dworp 2
+ws_ronden = ('R1', 'R2', 'R3', 'R4', 'R5', 'R6',
+             'R7', 'R8', 'R9', 'R10', 'R11')
+# cellen in excel-bestand, wijzigt elk seizoen indien reeks waarin
+# ploegen spelen, wijzigt. Eerste veld is steeds voor Dworp 1, tweede
+# voor Dworp 2, lege string indien geen Dworp 2
 cell_ranking_begin = ('A62', '')
 cell_ranking_eind = ('Q74', '')
 cell_uitslag_begin = ('G16', '')
@@ -48,19 +58,21 @@ try:
 except OSError:
     pass
 
-app_name =  os.path.basename(sys.argv[0])
+app_name = os.path.basename(sys.argv[0])
 app_name = os.path.splitext(app_name)[0]
 
 if sys.platform == "win32":
     data_locatie = os.path.join(os.environ['LOCALAPPDATA'], app_name)
 elif sys.platform == "darwin":
-    data_locatie = os.path.join(os.path.expanduser('/Library/Application Support'), app_name)
+    data_locatie = os.path.join(os.path.expanduser(
+        '/Library/Application Support'), app_name)
 else:
     data_locatie = os.path.join("/var/lib", app_name)
 
 log_locatie = "/var/log"
 lib_locate = "/var/lib/update_ni"
 log_file = 'update_ni.log'
+
 
 def maak_csv_ranking(verbose=False):
     wb = load_workbook(xls_input, data_only=True)
@@ -79,12 +91,14 @@ def maak_csv_ranking(verbose=False):
                     l.append('')
             string_list.append(l)
         # schrijf csv-bestand
-        bestandsnaam = os.path.join(ni_dir, 'tussenstand_{0}_{1}.csv'.format(club, ploeg))
+        bestandsnaam = os.path.join(
+            ni_dir, 'tussenstand_{0}_{1}.csv'.format(club, ploeg))
         logger.debug(string_list)
         backup_vorig_bestand(bestandsnaam)
         with open(bestandsnaam, 'wb') as csvfile:
             csvwriter = csv.writer(csvfile, quoting=csv.QUOTE_NONE)
             csvwriter.writerows(string_list)
+
 
 def maak_json_ploeg_uitslagen(verbose=False):
     wb = load_workbook(xls_input, data_only=True)
@@ -96,22 +110,25 @@ def maak_json_ploeg_uitslagen(verbose=False):
                 datum = ws[cell_datum[i]].value.strftime('%d-%m-%Y')
             except:
                 # hack voor 11de ronde
-                datum = ws[cell_datum[i]].value[:10].replace('/','-')
-            ronde = OrderedDict([("ronde", "ronde %d" % (n + 1,)), ("datum", datum)])
+                datum = ws[cell_datum[i]].value[:10].replace('/', '-')
+            ronde = OrderedDict(
+                [("ronde", "ronde %d" % (n + 1,)), ("datum", datum)])
             matches = []
             cell_range = ws[cell_uitslag_begin[i]:cell_uitslag_eind[i]]
             for row in cell_range:
                 team1 = row[0].value.lower()
                 team2 = row[1].value.lower()
-                if row[2].value != None:
+                if row[2].value is not None:
                     team1_res = str(row[2].value)
                 else:
                     team1_res = ''
-                if row[4].value != None:
+                if row[4].value is not None:
                     team2_res = str(row[4].value)
                 else:
                     team2_res = ''
-                matches.append(OrderedDict([("tr", team1_res), ("ur", team2_res), ("thuis", team1), ("uit", team2)]))
+                matches.append(OrderedDict(
+                    [("tr", team1_res), ("ur", team2_res), ("thuis", team1),
+                     ("uit", team2)]))
             ronde["uitslagen"] = matches
             l.append(ronde)
         json_string = json.dumps(l, indent=2, separators=(',', ': '))
@@ -127,10 +144,12 @@ def maak_json_ploeg_uitslagen(verbose=False):
         json_string = p.sub(r'\1\2 \3 \4 \5\6', json_string)
         logger.debug(json_string)
         # schrijf json-bestand
-        bestandsnaam = os.path.join(ni_dir, 'uitslagen_{0}_{1}.json'.format(club, ploeg))
+        bestandsnaam = os.path.join(
+            ni_dir, 'uitslagen_{0}_{1}.json'.format(club, ploeg))
         backup_vorig_bestand(bestandsnaam)
         with open(bestandsnaam, 'w') as f:
             f.write(json_string)
+
 
 def maak_json_individuele_uitslagen(verbose=False):
     table = dbf.Table(dbf_input)
@@ -152,11 +171,15 @@ def maak_json_individuele_uitslagen(verbose=False):
         if clubnummer == r.clb_icn_b:
             team = r.equipe_b.rstrip()
             teams.add(team)
-            d[(team, r.ronde, r.tableau)] = (r.date, w_club, z_club, r.res.rstrip(), r.mat_b, r.nom_b.rstrip(), r.elo_b, r.mat_n, r.nom_n.rstrip(), r.elo_n)
+            d[(team, r.ronde, r.tableau)] = (
+                r.date, w_club, z_club, r.res.rstrip(), r.mat_b,
+                r.nom_b.rstrip(), r.elo_b, r.mat_n, r.nom_n.rstrip(), r.elo_n)
         if clubnummer == r.clb_icn_n:
             team = r.equipe_n.rstrip()
             teams.add(team)
-            d[(team, r.ronde, r.tableau)] = (r.date, w_club, z_club, r.res.rstrip(), r.mat_b, r.nom_b.rstrip(), r.elo_b, r.mat_n, r.nom_n.rstrip(), r.elo_n)
+            d[(team, r.ronde, r.tableau)] = (
+                r.date, w_club, z_club, r.res.rstrip(), r.mat_b,
+                r.nom_b.rstrip(), r.elo_b, r.mat_n, r.nom_n.rstrip(), r.elo_n)
 
     teams = list(teams)
     teams.sort()
@@ -166,18 +189,21 @@ def maak_json_individuele_uitslagen(verbose=False):
             if d[(team, r, 1)][3] == '-':
                 continue
             boards = []
-            tscore, uscore, trating, urating, tdiv, udiv = (0, 0, 0, 0, 0.0, 0.0)
+            tscore, uscore, trating, urating, tdiv, udiv = (
+                0, 0, 0, 0, 0.0, 0.0)
             for b in range(1, 9):
                 try:
-                    w_res, b_res = d[(team, r, b)][3].replace(u'\u00bd', '0.5').split('-')
+                    w_res, b_res = d[(team, r, b)][3].replace(
+                        u'\u00bd', '0.5').split('-')
                     if b % 2:
-                        boards.append(OrderedDict([('tr', w_res), ('ur', b_res),
-                            ('tspeler', d[(team, r, b)][5]),
-                            ('uspeler', d[(team, r, b)][8]),
-                            ('telo', d[(team, r, b)][6]),
-                            ('uelo', d[(team, r, b)][9]),
-                            ('tstam', d[(team, r, b)][4]),
-                            ('ustam', d[(team, r, b)][7])]))
+                        boards.append(
+                            OrderedDict([('tr', w_res), ('ur', b_res),
+                                         ('tspeler', d[(team, r, b)][5]),
+                                         ('uspeler', d[(team, r, b)][8]),
+                                         ('telo', d[(team, r, b)][6]),
+                                         ('uelo', d[(team, r, b)][9]),
+                                         ('tstam', d[(team, r, b)][4]),
+                                         ('ustam', d[(team, r, b)][7])]))
                         tscore += score[w_res]
                         uscore += score[b_res]
                         if d[(team, r, b)][6]:
@@ -187,13 +213,14 @@ def maak_json_individuele_uitslagen(verbose=False):
                             urating += d[(team, r, b)][9]
                             udiv += 1
                     else:
-                        boards.append(OrderedDict([('tr', b_res), ('ur', w_res),
-                            ('tspeler', d[(team, r, b)][8]),
-                            ('uspeler', d[(team, r, b)][5]),
-                            ('telo', d[(team, r, b)][9]),
-                            ('uelo', d[(team, r, b)][6]),
-                            ('tstam', d[(team, r, b)][7]),
-                            ('ustam', d[(team, r, b)][4])]))
+                        boards.append(
+                            OrderedDict([('tr', b_res), ('ur', w_res),
+                                         ('tspeler', d[(team, r, b)][8]),
+                                         ('uspeler', d[(team, r, b)][5]),
+                                         ('telo', d[(team, r, b)][9]),
+                                         ('uelo', d[(team, r, b)][6]),
+                                         ('tstam', d[(team, r, b)][7]),
+                                         ('ustam', d[(team, r, b)][4])]))
                         tscore += score[b_res]
                         uscore += score[w_res]
                         if d[(team, r, b)][9]:
@@ -205,7 +232,9 @@ def maak_json_individuele_uitslagen(verbose=False):
                 except KeyError:
                     pass
             datum = d[(team, r, 1)][0].strftime('%d-%m-%Y')
-            ronde = OrderedDict([("ronde", str(r)), ("datum", datum), ('thuis', d[(team, r, 1)][1]), ('uit', d[(team, r, 1)][2])])
+            ronde = OrderedDict([("ronde", str(r)), ("datum", datum),
+                                 ('thuis', d[(team, r, 1)][1]),
+                                 ('uit', d[(team, r, 1)][2])])
             ronde["tscore"] = tscore
             ronde["uscore"] = uscore
             try:
@@ -234,8 +263,10 @@ def maak_json_individuele_uitslagen(verbose=False):
             ''', re.VERBOSE)
         json_string = p.sub(r'\1\2 \3 \4 \5 \6 \7 \8 \9\10', json_string)
         logger.debug(json_string)
-        #write json string to file
-        bestandsnaam = os.path.join(ni_dir, 'individueel_{0}.json'.format(team.lower().replace(' ','_')))
+        # write json string to file
+        bestandsnaam = os.path.join(
+            ni_dir, 'individueel_{0}.json'.format(
+                team.lower().replace(' ', '_')))
         backup_vorig_bestand(bestandsnaam)
         with open(bestandsnaam, 'w') as f:
             f.write(json_string)
@@ -245,6 +276,8 @@ def maak_json_individuele_uitslagen(verbose=False):
 # https://docs.python.org/2/library/urllib2.html
 # http://www.diveintopython3.net/http-web-services.html
 # https://github.com/dustin/snippets/blob/master/python/net/http/fetch.py
+
+
 def download_nieuwe_versie_bestand(bestandsnaam, verbose=False):
     url = url_locatie + bestandsnaam
     etag = read_etag(bestandsnaam)
@@ -271,16 +304,21 @@ def download_nieuwe_versie_bestand(bestandsnaam, verbose=False):
         # remote server kan niet bereikt worden
         logger.error("URL Error: {0} {1}".format(e.reason, url))
     except IOError:
-        logger.error("bestand '{0}' kan niet geschreven worden".format(bestandsnaam))
+        logger.error(
+            "bestand '{0}' kan niet geschreven worden".format(bestandsnaam))
+
 
 def backup_vorig_bestand(bestand):
     if os.path.isfile(bestand):
         modifiedTime = os.path.getmtime(bestand)
-        dt = datetime.datetime.fromtimestamp(modifiedTime).strftime("%Y-%m-%d_%H.%M.%S")
+        dt = datetime.datetime.fromtimestamp(
+            modifiedTime).strftime("%Y-%m-%d_%H.%M.%S")
         (root, ext) = os.path.splitext(bestand)
         nieuwe_naam = root + '_' + dt + ext
-        logger.debug("oude versie '{0}' hernoemen naar '{1}'".format(bestand, nieuwe_naam))
+        logger.debug("oude versie '{0}' hernoemen naar '{1}'".format(
+            bestand, nieuwe_naam))
         os.rename(bestand, nieuwe_naam)
+
 
 def read_etag(bestandsnaam):
     etag_bestandsnaam = bestandsnaam + ".etag"
@@ -292,6 +330,7 @@ def read_etag(bestandsnaam):
         logger.warning("ETag voor {0} niet gevonden".format(bestandsnaam))
         return None
 
+
 def write_etag(bestandsnaam, etag):
     if etag:
         etag_bestandsnaam = bestandsnaam + ".etag"
@@ -299,6 +338,7 @@ def write_etag(bestandsnaam, etag):
             f.write(etag)
     else:
         logger.warning("ETag voor {0} niet gevonden".format(bestandsnaam))
+
 
 def start_logging(verbose=False):
     # logging to console
@@ -319,21 +359,23 @@ def start_logging(verbose=False):
     if verbose:
         logger.setLevel(logging.DEBUG)
     else:
-        mylogger.setLevel(logging.INFO)
+        logger.setLevel(logging.INFO)
     logger.addHandler(sh)
     logger.addHandler(fh)
     return logger
 
+
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="update uitslagen interclubs op basis van data-bestanden kbsb")
+    parser = argparse.ArgumentParser(
+        description="update uitslagen interclubs op basis van data-bestanden kbsb")
     parser.add_argument("-p", "--ploegen", action="store_true",
-        help="update de ploeguitslagen en tussenstand")
+                        help="update de ploeguitslagen en tussenstand")
     parser.add_argument("-i", "--individueel", action="store_true",
-        help="update de individuele uitslagen")
+                        help="update de individuele uitslagen")
     parser.add_argument("-a", "--alles", action="store_true",
-        help="update alles")
+                        help="update alles")
     parser.add_argument("-v", "--verbose", action="store_true",
-        help="geef extra output in de console")
+                        help="geef extra output in de console")
     args = parser.parse_args()
     logger = start_logging(args.verbose)
     if args.ploegen or args.alles:
