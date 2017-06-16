@@ -22,8 +22,8 @@
     "datum": "16-10-2016",
     "thuis": "401 KGSRL 4",
     "uit": "228 Dworp 1",
-    "tscore": 3.0,
-    "uscore": 3.0,
+    "tscore": 3,
+    "uscore": 3,
     "tgem": 1933,
     "ugem": 1960,
     "borden": [
@@ -94,8 +94,8 @@
     "datum": "29-01-2017",
     "thuis": "952 Wavre 1",
     "uit": "228 Dworp 1",
-    "tscore": 4.0,
-    "uscore": 2.0,
+    "tscore": 4,
+    "uscore": 2,
     "tgem": 2059,
     "ugem": 1923,
     "borden": [
@@ -132,34 +132,34 @@
     "uit": "228 Dworp 1",
     "tscore": 4.5,
     "uscore": 1.5,
-    "tgem": 2082,
-    "ugem": 1900,
+    "tgem": 2090,
+    "ugem": 1895,
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Collette Benjamin", "uspeler": "Vanderwaeren, Serge", "telo": 2178, "uelo": 2214, "tstam": 65544, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Collette, Benjamin", "uspeler": "Vanderwaeren, Serge", "telo": 2178, "uelo": 2214, "tstam": 65544, "ustam": 20621},
       {"tr": "1", "ur": "0", "tspeler": "Mayr, Thomas", "uspeler": "Spaens, Kjell", "telo": 2150, "uelo": 1937, "tstam": 15582, "ustam": 29343},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanobbergh, Gregory", "uspeler": "Verrijken, Geert", "telo": 2098, "uelo": 1893, "tstam": 76228, "ustam": 62766},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Robert, Pierre", "uspeler": "Denys, Frank", "telo": 2092, "uelo": 1892, "tstam": 92479, "ustam": 21881},
-      {"tr": "1", "ur": "0", "tspeler": "Demoulin, Joachim", "uspeler": "Van de Velde, Filip", "telo": 2061, "uelo": 1739, "tstam": 72435, "ustam": 31682},
-      {"tr": "1", "ur": "0", "tspeler": "Jacobs, Antoine", "uspeler": "Cornelis, Eric", "telo": 1913, "uelo": 1726, "tstam": 50571, "ustam": 76317}
-      ]
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanobbergh, Gregory", "uspeler": "Verrijken, Geert", "telo": 2098, "uelo": 1938, "tstam": 76228, "ustam": 62766},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Robert, Pierre", "uspeler": "Denys, Frank", "telo": 2092, "uelo": 1917, "tstam": 92479, "ustam": 21881},
+      {"tr": "1", "ur": "0", "tspeler": "Demoulin, Joachim", "uspeler": "Van de Velde, Filip", "telo": 2061, "uelo": 1689, "tstam": 72435, "ustam": 31682},
+      {"tr": "1", "ur": "0", "tspeler": "Jacobs, Antoine", "uspeler": "Cornelis, Eric", "telo": 1963, "uelo": 1676, "tstam": 50571, "ustam": 76317}
+    ]
   },
   {
     "ronde": "9",
-    "datum": "13-03-2017",
+    "datum": "12-03-2017",
     "thuis": "174 Brasschaat 2",
     "uit": "228 Dworp 1",
     "tscore": 2,
     "uscore": 4,
-    "tgem": 1960,
-    "ugem": 1954,
+    "tgem": 1923,
+    "ugem": 1960,
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Mitran, Anthony Cristian", "uspeler": "Vanderwaeren, Serge", "telo": 2150, "uelo": 2214, "tstam": 12736, "ustam": 20621},
-      {"tr": "0", "ur": "1", "tspeler": "De Smedt, Mark", "uspeler": "Spaens, Kjell", "telo": 2010, "uelo": 1937, "tstam": 28240, "ustam": 29343},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Osinga, Angelique", "uspeler": "Maeckelbergh, Geert", "telo": 1972, "uelo": 1894, "tstam": 12370, "ustam": 43419},
-      {"tr": "1", "ur": "0", "tspeler": "Holwijn, Melvin", "uspeler": "Verrijken, Geert", "telo": 1971, "uelo": 1893, "tstam": 14187, "ustam": 62766},
-      {"tr": "0", "ur": "1", "tspeler": "Van Nieuwenhuizen, Hans", "uspeler": "Denys, Frank", "telo": 1873, "uelo": 1892, "tstam": 12959, "ustam": 21881},
-      {"tr": "0", "ur": "1", "tspeler": "Beukema, Christiaan", "uspeler": "Lot, Diederik", "telo": 1782, "uelo": 1891, "tstam": 11418, "ustam": 9954}
-       ]
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Mitran, Anthony Cristian", "uspeler": "Vanderwaeren, Serge", "telo": 2131, "uelo": 2214, "tstam": 12736, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "De Smedt, Mark", "uspeler": "Spaens, Kjell", "telo": 1960, "uelo": 1937, "tstam": 28240, "ustam": 29343},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Osinga, Angelique", "uspeler": "Maeckelbergh, Geert", "telo": 1922, "uelo": 1844, "tstam": 12370, "ustam": 43419},
+      {"tr": "1", "ur": "0", "tspeler": "Holwijn, Melvin", "uspeler": "Verrijken, Geert", "telo": 1971, "uelo": 1938, "tstam": 14187, "ustam": 62766},
+      {"tr": "0", "ur": "1", "tspeler": "Van Nieuwenhuizen, Hans", "uspeler": "Denys, Frank", "telo": 1823, "uelo": 1917, "tstam": 12959, "ustam": 21881},
+      {"tr": "0", "ur": "1", "tspeler": "Beukema, Christiaan", "uspeler": "Lot, Diederik", "telo": 1732, "uelo": 1911, "tstam": 11418, "ustam": 9954}
+    ]
   },
   {
     "ronde": "10",
@@ -168,33 +168,33 @@
     "uit": "244 Brussels 1",
     "tscore": 3,
     "uscore": 3,
-    "tgem": 1940,
-    "ugem": 1885,
+    "tgem": 1944,
+    "ugem": 1876,
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren, Serge", "uspeler": "Guisset, Philippe", "telo": 2214, "uelo": 1965, "tstam": 20621, "ustam": 97250},
-      {"tr": "0", "ur": "1", "tspeler": "Spaens, Kjell", "uspeler": "Sochman, Petr", "telo": 1937, "uelo": 1919, "tstam": 29343, "ustam": 10991},
-      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh, Geert", "uspeler": "Lombart, Philippe", "telo": 1894, "uelo": 1918, "tstam": 43419, "ustam": 41831},
-      {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Cottenier, Christophe", "telo": 1893, "uelo": 1912, "tstam": 62766, "ustam": 86398},
-      {"tr": "0", "ur": "1", "tspeler": "Denys, Frank", "uspeler": "Mabille, Natacha", "telo": 1892, "uelo": 1911, "tstam": 21881, "ustam": 90611},
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren, Serge", "uspeler": "Guisset, Philippe", "telo": 2214, "uelo": 1915, "tstam": 20621, "ustam": 97250},
+      {"tr": "0", "ur": "1", "tspeler": "Spaens, Kjell", "uspeler": "Sochman, Petr", "telo": 1937, "uelo": 1954, "tstam": 29343, "ustam": 10991},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh, Geert", "uspeler": "Lombart, Philippe", "telo": 1844, "uelo": 1900, "tstam": 43419, "ustam": 41831},
+      {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Cottenier, Christophe", "telo": 1938, "uelo": 1862, "tstam": 62766, "ustam": 86398},
+      {"tr": "0", "ur": "1", "tspeler": "Denys, Frank", "uspeler": "Mabille, Natacha", "telo": 1917, "uelo": 1938, "tstam": 21881, "ustam": 90611},
       {"tr": "0", "ur": "1", "tspeler": "De Bosscher, Peter", "uspeler": "Boujmil, Said", "telo": 1812, "uelo": 1684, "tstam": 655, "ustam": 61735}
-       ]
+    ]
   },
   {
     "ronde": "11",
-    "datum": "24-04-2017",
+    "datum": "23-04-2017",
     "thuis": "432 Wetteren 2",
     "uit": "228 Dworp 1",
     "tscore": 2,
     "uscore": 4,
-    "tgem": 2001,
-    "ugem": 1918,
+    "tgem": 2000,
+    "ugem": 1917,
     "borden": [
       {"tr": "0.5", "ur": "0.5", "tspeler": "Verlinden, Robijn", "uspeler": "Vanderwaeren, Serge", "telo": 2052, "uelo": 2214, "tstam": 13854, "ustam": 20621},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Michiels, Luc", "uspeler": "Maeckelbergh, Geert", "telo": 2023, "uelo": 1894, "tstam": 66443, "ustam": 43419},
-      {"tr": "0", "ur": "1", "tspeler": "Maes, Tibo", "uspeler": "Verrijken, Geert", "telo": 2022, "uelo": 1893, "tstam": 42391, "ustam": 62766},
-      {"tr": "0", "ur": "1", "tspeler": "Vintioen, Ben", "uspeler": "Denys, Frank", "telo": 1972, "uelo": 1892, "tstam": 38822, "ustam": 21881},
-      {"tr": "0", "ur": "1", "tspeler": "Castelein, Dirk", "uspeler": "Lot, Diederik", "telo": 1970, "uelo": 1891, "tstam": 72966, "ustam": 9954},
-      {"tr": "1", "ur": "0", "tspeler": "Demunck, Jan", "uspeler": "Cornelis, Eric", "telo": 1965, "uelo": 1726, "tstam": 21938, "ustam": 76317}
-       ]
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Michiels, Luc", "uspeler": "Maeckelbergh, Geert", "telo": 2073, "uelo": 1844, "tstam": 66443, "ustam": 43419},
+      {"tr": "0", "ur": "1", "tspeler": "Maes, Tibo", "uspeler": "Verrijken, Geert", "telo": 1972, "uelo": 1938, "tstam": 42391, "ustam": 62766},
+      {"tr": "0", "ur": "1", "tspeler": "Vintioen, Ben", "uspeler": "Denys, Frank", "telo": 1922, "uelo": 1917, "tstam": 38822, "ustam": 21881},
+      {"tr": "0", "ur": "1", "tspeler": "Castelein, Dirk", "uspeler": "Lot, Diederik", "telo": 2015, "uelo": 1911, "tstam": 72966, "ustam": 9954},
+      {"tr": "1", "ur": "0", "tspeler": "Demunck, Jan", "uspeler": "Cornelis, Eric", "telo": 1965, "uelo": 1676, "tstam": 21938, "ustam": 76317}
+    ]
   }
 ]
