@@ -44,6 +44,26 @@ header .header-content .header-content-inner .pseudo-h3 {
   margin-right: auto;
   margin-bottom: 50px;
 }
+@media (max-height: 400px) {
+  header {
+    min-height: 125%;
+  }
+}
+@media (max-height: 350px) {
+  header {
+    min-height: 150%;
+  }
+}
+@media (max-height: 300px) {
+  header {
+    min-height: 175%;
+  }
+}
+@media (max-height: 250px) {
+  header {
+    min-height: 200%;
+  }
+}
 @media (max-width: 767px) {
   header .header-content {
     padding: 0 20px;

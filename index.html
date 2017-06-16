@@ -1,13 +1,13 @@
 ---
 layout: compress
 description: "Welkom op de website van onze schaakclub. De club zijn roots liggen in Dworp, schaken doen we tegenwoordig in Halle."
-last_modified_at: 2017-05-03
+last_modified_at: 2017-06-16
 hoofdpagina: true
 ---
 {% capture kk_link %}{{ "/klubkampioenschap/" | relative_url }}{% endcapture %}
 {% capture kal_link %}{{ "/kalender/" | relative_url }}{% endcapture %}
 {% capture ni_link %}{{ "/interclubs/" | relative_url }}{% endcapture %}
-{% capture mem_link %}{{ "/memorial-2016/" | relative_url }}{% endcapture %}
+{% capture mem_link %}{{ "/memorial/" | relative_url }}{% endcapture %}
 {% capture ct_link %}{{ "/contact/" | relative_url }}{% endcapture %}
 {% capture best_link %}{{ "#bestuur" | relative_url }}{% endcapture %}
 {% capture lok_link %}{{ "#lokatie" | relative_url }}{% endcapture %}
@@ -26,10 +26,11 @@ hoofdpagina: true
     <header class="header-content" id="top" tabindex="-1">
         <div class="header-content">
             <div class="header-content-inner">
+              <a href={{ mem_link }} class="btn btn-primary btn-lg">belgisch kampioenschap blitz 2017 »</a>
                 <h1>dworpse schaakkring</h1>
                 <hr class="header-hr">
                 <p class="pseudo-h3">een schaakclub in halle</p>
-                <a href="#over-ons" class="btn btn-warning btn-lg">over ons »</a>
+                <a href="#over-ons" id="btn-over" class="btn btn-warning btn-lg">over ons »</a>
             </div>
         </div>
     </header>
