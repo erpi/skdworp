@@ -12,7 +12,7 @@
       <h3 class="panel-title"><a href="{{ verslag.url | relative_url }}">ronde {{ verslag.ni_ronde }}{{ verslag.kk_ronde }} - {{ verslag.title | downcase }}</a></h3>
     </div>
     <div class="panel-body">
-      <p>{{ verslag.excerpt | strip_html | downcase }}</p>
+      <p>{{ verslag.excerpt | strip_html | downcase | remove_first: "vooraf" | remove_first: "voorspel"}}</p>
       <a href="{{ verslag.url | relative_url }}" class="btn btn-primary">lees meer »</a>
     </div>
   </div>

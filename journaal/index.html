@@ -23,7 +23,7 @@ feed: true
     <header>
       <h1><a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a></h1>
     </header>
-    <p class="lead">{{ post.content | strip_html | truncatewords: 40 | downcase }}</p>
+    <p class="lead">{{ post.content | strip_html | truncatewords: 40 | downcase | remove_first: "vooraf" | remove_first: "voorspel"}}</p>
     <p class="lead"><a href="{{ post.url | relative_url }}">lees meer &raquo;</a></p>
     <footer>
       <p class="lead">
