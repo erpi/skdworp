@@ -1,0 +1,33 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="nl-BE">
+  <head>
+    {% include head.html %}
+    <link href="{{"/styles/site.min.css" | relative_url }}" rel="stylesheet">
+    <!-- http://stackoverflow.com/questions/23261301/required-attribute-not-work-in-safari-browser -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/webshim/1.16.0/minified/polyfiller.js"></script>
+    <script>
+      webshim.activeLang('nl');
+      webshims.polyfill('forms');
+      webshims.cfg.no$Switch = true;
+    </script>
+  </head>
+  <body>
+    <a href="#content" class="sr-only sr-only-focusable">￼doorgaan naar hoofdinhoud</a>
+    {% include navbar.html %}
+    <div class="container main-container" id="content" tabindex="-1">
+      <div class="row">
+        <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0 col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2">
+          <h1>{{ page.title | downcase }}</h1>
+          <p class="lead">{{ page.uitleg }}</p>
+          <div class="well">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

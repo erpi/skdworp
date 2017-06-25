@@ -1,9 +1,639 @@
 ---
-layout: default
-title: Inschrijven Memorial Patrick Debast
+layout: inschrijven-memorial
+title: Inschrijven Memorial Patrick Debast 2017
 permalink: /inschrijven-memorial/
 noindex: true
 sitemap: false
 ---
-<p class="lead"> nothing to see here yet... move along!</p>
-<img alt="2 oudjes aan het schaken op reuzengroot 3x3 bord" src="{{"/images/work_in_progress.jpg" | relative_url }}">
+<style>
+  label {
+    padding-right: 8px;
+  }
+  .form-group {
+    margin-bottom: 8px;
+  }
+  .form-group.required .control-label:first-child:before {
+   content:"*  ";
+   color:#CF4A1C;
+}
+</style>
+<form class="form-horizontal" method="post"
+      action="">
+  <input type="hidden" name="options[redirect]"
+         value="{{ site.url }}/bevestiging-verslag/">
+  <input type="hidden" name="options[origin]" value="{{ site.url }}">
+  <input type="hidden" name="fields[description]" value="">
+  <div class="form-group">
+    <div class="col-sm-offset-3 col-sm-9">
+      <p class="vet form-control-static">
+        <span style="color:#CF4A1C;">*</span>
+        verplicht veld / obligatoire / required
+      </p>
+    </div>
+  </div>
+
+  <div class="form-group required">
+    <label class="control-label col-sm-3" for="naam">achternaam:</label>
+    <div class="col-sm-9">
+      <input required class="form-control input-sm" id="naam" name="fields[naam]"
+             type="text" aria-describedby="help-naam">
+      <span id="help-naam" class="help-block">nom / last name</span>
+    </div>
+  </div>
+
+  <div class="form-group required">
+    <label class="control-label col-sm-3" for="voornaam">voornaam:</label>
+    <div class="col-sm-9">
+      <input required class="form-control input-sm" id="voornaam" name="fields[voornaam]"
+             type="text" aria-describedby="help-voornaam">
+      <span id="help-voornaam" class="help-block">prénom / first name</span>
+    </div>
+  </div>
+
+  <div class="form-group required">
+    <label class="control-label col-sm-3" for="email">e-mailadres:</label>
+    <div class="col-sm-9">
+      <input required class="form-control input-sm" id="email" name="fields[email]"
+             type="email" aria-describedby="help-email">
+      <span id="help-email" class="help-block">adresse e-mail / email address</span>
+    </div>
+  </div>
+
+  <div class="form-group required">
+    <label class="control-label col-sm-3" for="geboortejaar">geboortejaar:</label>
+    <div class="col-sm-4">
+      <input required class="form-control input-sm" id="geboortejaar"
+             name="fields[geboortejaar]" type="text"
+             aria-describedby="help-geboortejaar">
+      <span id="help-geboortejaar" class="help-block">année de naissance / year of birth</span>
+    </div>
+  </div>
+    
+  <div class="form-group">
+    <label class="control-label col-sm-3" for="kbsb_id">stamnummer kbsb:</label>
+    <div class="col-sm-4">
+      <input class="form-control input-sm" id="kbsb_id" name="fields[kbsb_id]"
+             type="text" aria-describedby="help-kbsb-id">
+      <span id="help-kbsb-id" class="help-block">matricule frbe / belgian federation id</span>
+    </div>
+
+    <label class="control-label col-sm-2" for="kbsb_elo">nationale elo:</label>
+    <div class="col-sm-3">
+      <input class="form-control input-sm" id="kbsb_elo" name="fields[kbsb_elo]"
+             type="text" aria-describedby="help-kbsb-elo">
+      <span id="help-kbsb-elo" class="help-block">elo national / national rating</span>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label class="control-label col-sm-3" for="fide_id">stamnummer fide:</label>
+    <div class="col-sm-4">
+      <input class="form-control input-sm" id="fide_id" name="fields[fide_id]"
+             type="text" aria-describedby="help-fide-id">
+      <span id="help-fide-id" class="help-block">matricule fidé / fide id code</span>
+    </div>
+
+    <label class="control-label col-sm-2" for="fide_elo">fide elo:</label>
+    <div class="col-sm-3">
+      <input class="form-control input-sm" id="fide_elo" name="fields[fide_elo]"
+             type="text" aria-describedby="help-fide-elo">
+      <span id="help-fide-elo" class="help-block">elo fidé / fide rating</span>
+    </div>
+  </div>
+  
+  <div class="form-group">
+    <label class="control-label col-sm-3" for="">nationaliteit:</label>
+    <div class="col-sm-4">
+      <select class="form-control" id="nationaliteit"
+              name="fields[nationaliteit]" value="bel" aria-describedby="help-nationaliteit">
+        <option value=""></option>
+	<option>abw</option>
+	<option>afg</option>
+	<option>ago</option>
+	<option>aia</option>
+	<option>ala</option>
+	<option>alb</option>
+	<option>and</option>
+	<option>arg</option>
+	<option>arm</option>
+	<option>asm</option>
+	<option>ata</option>
+	<option>atg</option>
+	<option>aus</option>
+	<option>aut</option>
+	<option>aze</option>
+	<option>bdi</option>
+	<option selected>bel</option>
+	<option>ben</option>
+	<option>bes</option>
+	<option>bfa</option>
+	<option>bgd</option>
+	<option>bgr</option>
+	<option>bhr</option>
+	<option>bhs</option>
+	<option>bih</option>
+	<option>blr</option>
+	<option>blz</option>
+	<option>bmu</option>
+	<option>bol</option>
+	<option>bra</option>
+	<option>brb</option>
+	<option>brn</option>
+	<option>btn</option>
+	<option>bvt</option>
+	<option>bwa</option>
+	<option>caf</option>
+	<option>can</option>
+	<option>cck</option>
+	<option>chl</option>
+	<option>chn</option>
+	<option>cmr</option>
+	<option>cpv</option>
+	<option>cxr</option>
+	<option>cym</option>
+	<option>dza</option>
+	<option>iot</option>
+	<option>khm</option>
+	<option>tcd</option>
+	<option>col</option>
+	<option>com</option>
+	<option>cog</option>
+	<option>cod</option>
+	<option>cok</option>
+	<option>cri</option>
+	<option>civ</option>
+	<option>hrv</option>
+	<option>cub</option>
+	<option>cuw</option>
+	<option>cyp</option>
+	<option>cze</option>
+	<option>dnk</option>
+	<option>dji</option>
+	<option>dma</option>
+	<option>dom</option>
+	<option>ecu</option>
+	<option>egy</option>
+	<option>slv</option>
+	<option>gnq</option>
+	<option>eri</option>
+	<option>est</option>
+	<option>eth</option>
+	<option>flk</option>
+	<option>fro</option>
+	<option>fji</option>
+	<option>fin</option>
+	<option>fra</option>
+	<option>guf</option>
+	<option>pyf</option>
+	<option>atf</option>
+	<option>gab</option>
+	<option>gmb</option>
+	<option>geo</option>
+	<option>deu</option>
+	<option>gha</option>
+	<option>gib</option>
+	<option>grc</option>
+	<option>grl</option>
+	<option>grd</option>
+	<option>glp</option>
+	<option>gum</option>
+	<option>gtm</option>
+	<option>ggy</option>
+	<option>gin</option>
+	<option>gnb</option>
+	<option>guy</option>
+	<option>hti</option>
+	<option>hmd</option>
+	<option>vat</option>
+	<option>hnd</option>
+	<option>hkg</option>
+	<option>hun</option>
+	<option>isl</option>
+	<option>ind</option>
+	<option>idn</option>
+	<option>irn</option>
+	<option>irq</option>
+	<option>irl</option>
+	<option>imn</option>
+	<option>isr</option>
+	<option>ita</option>
+	<option>jam</option>
+	<option>jpn</option>
+	<option>jey</option>
+	<option>jor</option>
+	<option>kaz</option>
+	<option>ken</option>
+	<option>kir</option>
+	<option>prk</option>
+	<option>kor</option>
+	<option>kwt</option>
+	<option>kgz</option>
+	<option>lao</option>
+	<option>lva</option>
+	<option>lbn</option>
+	<option>lso</option>
+	<option>lbr</option>
+	<option>lby</option>
+	<option>lie</option>
+	<option>ltu</option>
+	<option>lux</option>
+	<option>mac</option>
+	<option>mkd</option>
+	<option>mdg</option>
+	<option>mwi</option>
+	<option>mys</option>
+	<option>mdv</option>
+	<option>mli</option>
+	<option>mlt</option>
+	<option>mhl</option>
+	<option>mtq</option>
+	<option>mrt</option>
+	<option>mus</option>
+	<option>myt</option>
+	<option>mex</option>
+	<option>fsm</option>
+	<option>mda</option>
+	<option>mco</option>
+	<option>mng</option>
+	<option>mne</option>
+	<option>msr</option>
+	<option>mar</option>
+	<option>moz</option>
+	<option>mmr</option>
+	<option>nam</option>
+	<option>nru</option>
+	<option>npl</option>
+	<option>nld</option>
+	<option>ncl</option>
+	<option>nzl</option>
+	<option>nic</option>
+	<option>ner</option>
+	<option>nga</option>
+	<option>niu</option>
+	<option>nfk</option>
+	<option>mnp</option>
+	<option>nor</option>
+	<option>omn</option>
+	<option>pak</option>
+	<option>plw</option>
+	<option>pse</option>
+	<option>pan</option>
+	<option>png</option>
+	<option>pry</option>
+	<option>per</option>
+	<option>phl</option>
+	<option>pcn</option>
+	<option>pol</option>
+	<option>prt</option>
+	<option>pri</option>
+	<option>qat</option>
+	<option>reu</option>
+	<option>rou</option>
+	<option>rus</option>
+	<option>rwa</option>
+	<option>blm</option>
+	<option>shn</option>
+	<option>kna</option>
+	<option>lca</option>
+	<option>maf</option>
+	<option>spm</option>
+	<option>vct</option>
+	<option>wsm</option>
+	<option>smr</option>
+	<option>stp</option>
+	<option>sau</option>
+	<option>sen</option>
+	<option>srb</option>
+	<option>syc</option>
+	<option>sle</option>
+	<option>sgp</option>
+	<option>sxm</option>
+	<option>svk</option>
+	<option>svn</option>
+	<option>slb</option>
+	<option>som</option>
+	<option>zaf</option>
+	<option>sgs</option>
+	<option>ssd</option>
+	<option>esp</option>
+	<option>lka</option>
+	<option>sdn</option>
+	<option>sur</option>
+	<option>sjm</option>
+	<option>swz</option>
+	<option>swe</option>
+	<option>che</option>
+	<option>syr</option>
+	<option>twn</option>
+	<option>tjk</option>
+	<option>tza</option>
+	<option>tha</option>
+	<option>tls</option>
+	<option>tgo</option>
+	<option>tkl</option>
+	<option>ton</option>
+	<option>tto</option>
+	<option>tun</option>
+	<option>tur</option>
+	<option>tkm</option>
+	<option>tca</option>
+	<option>tuv</option>
+	<option>uga</option>
+	<option>ukr</option>
+	<option>are</option>
+	<option>gbr</option>
+	<option>usa</option>
+	<option>umi</option>
+	<option>ury</option>
+	<option>uzb</option>
+	<option>vut</option>
+	<option>ven</option>
+	<option>vnm</option>
+	<option>vgb</option>
+	<option>vir</option>
+	<option>wlf</option>
+	<option>esh</option>
+	<option>yem</option>
+	<option>zmb</option>
+	<option>zwe</option>
+	<!-- <option value="afg">afghanistan</option> -->
+	<!-- <option value="ala">åland islands</option> -->
+	<!-- <option value="alb">albania</option> -->
+	<!-- <option value="dza">algeria</option> -->
+	<!-- <option value="asm">american samoa</option> -->
+	<!-- <option value="and">andorra</option> -->
+	<!-- <option value="ago">angola</option> -->
+	<!-- <option value="aia">anguilla</option> -->
+	<!-- <option value="ata">antarctica</option> -->
+	<!-- <option value="atg">antigua and barbuda</option> -->
+	<!-- <option value="arg">argentina</option> -->
+	<!-- <option value="arm">armenia</option> -->
+	<!-- <option value="abw">aruba</option> -->
+	<!-- <option value="aus">australia</option> -->
+	<!-- <option value="aut">austria</option> -->
+	<!-- <option value="aze">azerbaijan</option> -->
+	<!-- <option value="bhs">bahamas</option> -->
+	<!-- <option value="bhr">bahrain</option> -->
+	<!-- <option value="bgd">bangladesh</option> -->
+	<!-- <option value="brb">barbados</option> -->
+	<!-- <option value="blr">belarus</option> -->
+	<!-- <option value="bel" selected>belgium</option> -->
+	<!-- <option value="blz">belize</option> -->
+	<!-- <option value="ben">benin</option> -->
+	<!-- <option value="bmu">bermuda</option> -->
+	<!-- <option value="btn">bhutan</option> -->
+	<!-- <option value="bol">bolivia, plurinational state of</option> -->
+	<!-- <option value="bes">bonaire, sint eustatius and saba</option> -->
+	<!-- <option value="bih">bosnia and herzegovina</option> -->
+	<!-- <option value="bwa">botswana</option> -->
+	<!-- <option value="bvt">bouvet island</option> -->
+	<!-- <option value="bra">brazil</option> -->
+	<!-- <option value="iot">british indian ocean territory</option> -->
+	<!-- <option value="brn">brunei darussalam</option> -->
+	<!-- <option value="bgr">bulgaria</option> -->
+	<!-- <option value="bfa">burkina faso</option> -->
+	<!-- <option value="bdi">burundi</option> -->
+	<!-- <option value="khm">cambodia</option> -->
+	<!-- <option value="cmr">cameroon</option> -->
+	<!-- <option value="can">canada</option> -->
+	<!-- <option value="cpv">cape verde</option> -->
+	<!-- <option value="cym">cayman islands</option> -->
+	<!-- <option value="caf">central african republic</option> -->
+	<!-- <option value="tcd">chad</option> -->
+	<!-- <option value="chl">chile</option> -->
+	<!-- <option value="chn">china</option> -->
+	<!-- <option value="cxr">christmas island</option> -->
+	<!-- <option value="cck">cocos (keeling) islands</option> -->
+	<!-- <option value="col">colombia</option> -->
+	<!-- <option value="com">comoros</option> -->
+	<!-- <option value="cog">congo</option> -->
+	<!-- <option value="cod">congo, the democratic republic of the</option> -->
+	<!-- <option value="cok">cook islands</option> -->
+	<!-- <option value="cri">costa rica</option> -->
+	<!-- <option value="civ">côte d'ivoire</option> -->
+	<!-- <option value="hrv">croatia</option> -->
+	<!-- <option value="cub">cuba</option> -->
+	<!-- <option value="cuw">curaçao</option> -->
+	<!-- <option value="cyp">cyprus</option> -->
+	<!-- <option value="cze">czech republic</option> -->
+	<!-- <option value="dnk">denmark</option> -->
+	<!-- <option value="dji">djibouti</option> -->
+	<!-- <option value="dma">dominica</option> -->
+	<!-- <option value="dom">dominican republic</option> -->
+	<!-- <option value="ecu">ecuador</option> -->
+	<!-- <option value="egy">egypt</option> -->
+	<!-- <option value="slv">el salvador</option> -->
+	<!-- <option value="gnq">equatorial guinea</option> -->
+	<!-- <option value="eri">eritrea</option> -->
+	<!-- <option value="est">estonia</option> -->
+	<!-- <option value="eth">ethiopia</option> -->
+	<!-- <option value="flk">falkland islands (malvinas)</option> -->
+	<!-- <option value="fro">faroe islands</option> -->
+	<!-- <option value="fji">fiji</option> -->
+	<!-- <option value="fin">finland</option> -->
+	<!-- <option value="fra">france</option> -->
+	<!-- <option value="guf">french guiana</option> -->
+	<!-- <option value="pyf">french polynesia</option> -->
+	<!-- <option value="atf">french southern territories</option> -->
+	<!-- <option value="gab">gabon</option> -->
+	<!-- <option value="gmb">gambia</option> -->
+	<!-- <option value="geo">georgia</option> -->
+	<!-- <option value="deu">germany</option> -->
+	<!-- <option value="gha">ghana</option> -->
+	<!-- <option value="gib">gibraltar</option> -->
+	<!-- <option value="grc">greece</option> -->
+	<!-- <option value="grl">greenland</option> -->
+	<!-- <option value="grd">grenada</option> -->
+	<!-- <option value="glp">guadeloupe</option> -->
+	<!-- <option value="gum">guam</option> -->
+	<!-- <option value="gtm">guatemala</option> -->
+	<!-- <option value="ggy">guernsey</option> -->
+	<!-- <option value="gin">guinea</option> -->
+	<!-- <option value="gnb">guinea-bissau</option> -->
+	<!-- <option value="guy">guyana</option> -->
+	<!-- <option value="hti">haiti</option> -->
+	<!-- <option value="hmd">heard island and mcdonald islands</option> -->
+	<!-- <option value="vat">holy see (vatican city state)</option> -->
+	<!-- <option value="hnd">honduras</option> -->
+	<!-- <option value="hkg">hong kong</option> -->
+	<!-- <option value="hun">hungary</option> -->
+	<!-- <option value="isl">iceland</option> -->
+	<!-- <option value="ind">india</option> -->
+	<!-- <option value="idn">indonesia</option> -->
+	<!-- <option value="irn">iran, islamic republic of</option> -->
+	<!-- <option value="irq">iraq</option> -->
+	<!-- <option value="irl">ireland</option> -->
+	<!-- <option value="imn">isle of man</option> -->
+	<!-- <option value="isr">israel</option> -->
+	<!-- <option value="ita">italy</option> -->
+	<!-- <option value="jam">jamaica</option> -->
+	<!-- <option value="jpn">japan</option> -->
+	<!-- <option value="jey">jersey</option> -->
+	<!-- <option value="jor">jordan</option> -->
+	<!-- <option value="kaz">kazakhstan</option> -->
+	<!-- <option value="ken">kenya</option> -->
+	<!-- <option value="kir">kiribati</option> -->
+	<!-- <option value="prk">korea, democratic people's republic of</option> -->
+	<!-- <option value="kor">korea, republic of</option> -->
+	<!-- <option value="kwt">kuwait</option> -->
+	<!-- <option value="kgz">kyrgyzstan</option> -->
+	<!-- <option value="lao">lao people's democratic republic</option> -->
+	<!-- <option value="lva">latvia</option> -->
+	<!-- <option value="lbn">lebanon</option> -->
+	<!-- <option value="lso">lesotho</option> -->
+	<!-- <option value="lbr">liberia</option> -->
+	<!-- <option value="lby">libya</option> -->
+	<!-- <option value="lie">liechtenstein</option> -->
+	<!-- <option value="ltu">lithuania</option> -->
+	<!-- <option value="lux">luxembourg</option> -->
+	<!-- <option value="mac">macao</option> -->
+	<!-- <option value="mkd">macedonia, the former yugoslav republic of</option> -->
+	<!-- <option value="mdg">madagascar</option> -->
+	<!-- <option value="mwi">malawi</option> -->
+	<!-- <option value="mys">malaysia</option> -->
+	<!-- <option value="mdv">maldives</option> -->
+	<!-- <option value="mli">mali</option> -->
+	<!-- <option value="mlt">malta</option> -->
+	<!-- <option value="mhl">marshall islands</option> -->
+	<!-- <option value="mtq">martinique</option> -->
+	<!-- <option value="mrt">mauritania</option> -->
+	<!-- <option value="mus">mauritius</option> -->
+	<!-- <option value="myt">mayotte</option> -->
+	<!-- <option value="mex">mexico</option> -->
+	<!-- <option value="fsm">micronesia, federated states of</option> -->
+	<!-- <option value="mda">moldova, republic of</option> -->
+	<!-- <option value="mco">monaco</option> -->
+	<!-- <option value="mng">mongolia</option> -->
+	<!-- <option value="mne">montenegro</option> -->
+	<!-- <option value="msr">montserrat</option> -->
+	<!-- <option value="mar">morocco</option> -->
+	<!-- <option value="moz">mozambique</option> -->
+	<!-- <option value="mmr">myanmar</option> -->
+	<!-- <option value="nam">namibia</option> -->
+	<!-- <option value="nru">nauru</option> -->
+	<!-- <option value="npl">nepal</option> -->
+	<!-- <option value="nld">netherlands</option> -->
+	<!-- <option value="ncl">new caledonia</option> -->
+	<!-- <option value="nzl">new zealand</option> -->
+	<!-- <option value="nic">nicaragua</option> -->
+	<!-- <option value="ner">niger</option> -->
+	<!-- <option value="nga">nigeria</option> -->
+	<!-- <option value="niu">niue</option> -->
+	<!-- <option value="nfk">norfolk island</option> -->
+	<!-- <option value="mnp">northern mariana islands</option> -->
+	<!-- <option value="nor">norway</option> -->
+	<!-- <option value="omn">oman</option> -->
+	<!-- <option value="pak">pakistan</option> -->
+	<!-- <option value="plw">palau</option> -->
+	<!-- <option value="pse">palestinian territory, occupied</option> -->
+	<!-- <option value="pan">panama</option> -->
+	<!-- <option value="png">papua new guinea</option> -->
+	<!-- <option value="pry">paraguay</option> -->
+	<!-- <option value="per">peru</option> -->
+	<!-- <option value="phl">philippines</option> -->
+	<!-- <option value="pcn">pitcairn</option> -->
+	<!-- <option value="pol">poland</option> -->
+	<!-- <option value="prt">portugal</option> -->
+	<!-- <option value="pri">puerto rico</option> -->
+	<!-- <option value="qat">qatar</option> -->
+	<!-- <option value="reu">réunion</option> -->
+	<!-- <option value="rou">romania</option> -->
+	<!-- <option value="rus">russian federation</option> -->
+	<!-- <option value="rwa">rwanda</option> -->
+	<!-- <option value="blm">saint barthélemy</option> -->
+	<!-- <option value="shn">saint helena, ascension and tristan da cunha</option> -->
+	<!-- <option value="kna">saint kitts and nevis</option> -->
+	<!-- <option value="lca">saint lucia</option> -->
+	<!-- <option value="maf">saint martin (french part)</option> -->
+	<!-- <option value="spm">saint pierre and miquelon</option> -->
+	<!-- <option value="vct">saint vincent and the grenadines</option> -->
+	<!-- <option value="wsm">samoa</option> -->
+	<!-- <option value="smr">san marino</option> -->
+	<!-- <option value="stp">sao tome and principe</option> -->
+	<!-- <option value="sau">saudi arabia</option> -->
+	<!-- <option value="sen">senegal</option> -->
+	<!-- <option value="srb">serbia</option> -->
+	<!-- <option value="syc">seychelles</option> -->
+	<!-- <option value="sle">sierra leone</option> -->
+	<!-- <option value="sgp">singapore</option> -->
+	<!-- <option value="sxm">sint maarten (dutch part)</option> -->
+	<!-- <option value="svk">slovakia</option> -->
+	<!-- <option value="svn">slovenia</option> -->
+	<!-- <option value="slb">solomon islands</option> -->
+	<!-- <option value="som">somalia</option> -->
+	<!-- <option value="zaf">south africa</option> -->
+	<!-- <option value="sgs">south georgia and the south sandwich islands</option> -->
+	<!-- <option value="ssd">south sudan</option> -->
+	<!-- <option value="esp">spain</option> -->
+	<!-- <option value="lka">sri lanka</option> -->
+	<!-- <option value="sdn">sudan</option> -->
+	<!-- <option value="sur">suriname</option> -->
+	<!-- <option value="sjm">svalbard and jan mayen</option> -->
+	<!-- <option value="swz">swaziland</option> -->
+	<!-- <option value="swe">sweden</option> -->
+	<!-- <option value="che">switzerland</option> -->
+	<!-- <option value="syr">syrian arab republic</option> -->
+	<!-- <option value="twn">taiwan, province of china</option> -->
+	<!-- <option value="tjk">tajikistan</option> -->
+	<!-- <option value="tza">tanzania, united republic of</option> -->
+	<!-- <option value="tha">thailand</option> -->
+	<!-- <option value="tls">timor-leste</option> -->
+	<!-- <option value="tgo">togo</option> -->
+	<!-- <option value="tkl">tokelau</option> -->
+	<!-- <option value="ton">tonga</option> -->
+	<!-- <option value="tto">trinidad and tobago</option> -->
+	<!-- <option value="tun">tunisia</option> -->
+	<!-- <option value="tur">turkey</option> -->
+	<!-- <option value="tkm">turkmenistan</option> -->
+	<!-- <option value="tca">turks and caicos islands</option> -->
+	<!-- <option value="tuv">tuvalu</option> -->
+	<!-- <option value="uga">uganda</option> -->
+	<!-- <option value="ukr">ukraine</option> -->
+	<!-- <option value="are">united arab emirates</option> -->
+	<!-- <option value="gbr">united kingdom</option> -->
+	<!-- <option value="usa">united states</option> -->
+	<!-- <option value="umi">united states minor outlying islands</option> -->
+	<!-- <option value="ury">uruguay</option> -->
+	<!-- <option value="uzb">uzbekistan</option> -->
+	<!-- <option value="vut">vanuatu</option> -->
+	<!-- <option value="ven">venezuela, bolivarian republic of</option> -->
+	<!-- <option value="vnm">viet nam</option> -->
+	<!-- <option value="vgb">virgin islands, british</option> -->
+	<!-- <option value="vir">virgin islands, u.s.</option> -->
+	<!-- <option value="wlf">wallis and futuna</option> -->
+	<!-- <option value="esh">western sahara</option> -->
+	<!-- <option value="yem">yemen</option> -->
+	<!-- <option value="zmb">zambia</option> -->
+	<!-- <option value="zwe">zimbabwe</option> -->
+      </select>
+      <span id="help-nationaliteit" class="help-block">nationalité / nationality</span>
+    </div>
+    <!-- <label class="control-label col-sm-3" for="club">club:</label> -->
+    <!-- <div class="col-sm-4"> -->
+    <!--   <input class="form-control input-sm" id="club" name="fields[club]" -->
+    <!--          type="text" aria-describedby="help-club"> -->
+    <!-- </div> -->
+      
+    <label class="control-label col-sm-2" for="">schaaktitel:</label>
+    <div class="col-sm-3">
+      <select class="form-control" id="titel"
+              name="fields[titel]" value="" aria-describedby="help-titel">
+        <option value=""></option>
+        <option value="fm">fm</option>
+        <option value="im">im</option>
+        <option value="gm">gm</option>
+        <option value="wfm">wfm</option>
+        <option value="wim">wim</option>
+        <option value="wgm">wgm</option>
+      </select>
+      <span id="help-titel" class="help-block">titre fidé / fide title</span>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <div class="col-sm-offset-3 col-sm-9">
+      <button type="submit" class="btn btn-default">inschrijven / inscrire / subscribe</button>
+    </div>
+  </div>
+</form>
+
