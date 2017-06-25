@@ -9,44 +9,65 @@ ni_voorbeeld: "2017-01-29-ni-r6-verslag-geert.md"
 kk_voorbeeld: "2017-02-05-kk-r6-verslag-diederik.md"
 varia_voorbeeld: "2017-03-13-vsf-rapid-50plus.md"
 ---
-<form class="form-horizontal" method="post" action="https://api.staticman.net/v2/entry/erpi/skdworp/gh-pages/posts">
-  <input type="hidden" name="options[redirect]" value="{{ site.url }}/bevestiging-verslag/">
+<form class="form-horizontal" method="post"
+      action="https://api.staticman.net/v2/entry/erpi/skdworp/gh-pages/posts">
+  <input type="hidden" name="options[redirect]"
+         value="{{ site.url }}/bevestiging-verslag/">
   <input type="hidden" name="options[origin]" value="{{ site.url }}">
   <input type="hidden" name="fields[description]" value="">
   <div class="well">
     <div class="form-group">
-      <label class="control-label col-sm-2" for="type-verslag">type verslag:</label>
+      <label class="control-label col-sm-2" for="type-verslag">type verslag:
+      </label>
       <div class="col-sm-10">
-        <select required class="form-control" id="type-verslag" name="fields[tag]" value="ni" autofocus>
+        <select required class="form-control" id="type-verslag"
+                name="fields[tag]" value="ni" autofocus>
           <option value="ni" selected>nationale interclubs</option>
           <option value="kk">klubkampioenschap</option>
           <option value="varia">varia</option>
         </select>
-        <span id="help-tag-ni" class="help-block">een voorbeeld van een vorig
-          verslag van de nationionale interclubs vind je <a href="{{ page.link_github }}{{ page.ni_voorbeeld }}" target="_blank">hier</a></span>
-        <span id="help-tag-kk" class="help-block">een voorbeeld van een vorig
-          verslag van het klubkampioenschap vind je <a href="{{ page.link_github }}{{ page.kk_voorbeeld }}" target="_blank">hier</a></span>
-        <span id="help-tag-varia" class="help-block">een voorbeeld van een vorig
-          varia verslag vind je <a href="{{ page.link_github }}{{ page.varia_voorbeeld }}" target="_blank">hier</a></span>
+        <span id="help-tag-ni" class="help-block">
+          een voorbeeld van een vorig verslag van de nationionale
+          interclubs vind je
+          <a href="{{ page.link_github }}{{ page.ni_voorbeeld }}"
+             target="_blank">hier</a>
+        </span>
+        <span id="help-tag-kk" class="help-block">
+          een voorbeeld van een vorig verslag van het
+          klubkampioenschap vind je
+          <a href="{{ page.link_github }}{{ page.kk_voorbeeld }}"
+             target="_blank">hier</a>
+        </span>
+        <span id="help-tag-varia" class="help-block">
+          een voorbeeld van een vorig varia verslag vind je
+          <a href="{{ page.link_github }}{{ page.varia_voorbeeld }}"
+             target="_blank">hier</a>
+        </span>
       </div>
     </div>
     <div id="interclubs-info">
       <div class="form-group">
-        <label class="control-label col-sm-2" for="thuisploeg">thuisploeg:</label>
+        <label class="control-label col-sm-2" for="thuisploeg">thuisploeg:
+        </label>
         <div class="col-sm-4">
-          <input class="form-control" id="thuisploeg" name="fields[ni_thuisploeg]" type="text" aria-describedby="help-thuis">
+          <input class="form-control" id="thuisploeg"
+                 name="fields[ni_thuisploeg]" type="text"
+                 aria-describedby="help-thuis">
           <span id="help-thuis" class="help-block">bv. 'Dworp 1'</span>
         </div>
         <label class="control-label col-sm-2" for="uitploeg">uitploeg:</label>
         <div class="col-sm-4">
-          <input class="form-control" id="uitploeg" name="fields[ni_uitploeg]" type="text" aria-describedby="help-uit">
+          <input class="form-control" id="uitploeg"
+                 name="fields[ni_uitploeg]" type="text"
+                 aria-describedby="help-uit">
           <span id="help-uit" class="help-block">bv. 'KGSRL 33'</span>
         </div>
       </div>
       <div class="form-group">
         <label class="control-label col-sm-2" for="ni_ronde">ronde:</label>
         <div class="col-sm-4">
-          <input class="form-control" id="ni_ronde" name="fields[ni_ronde]" type="number" aria-describedby="help-ni-ronde">
+          <input class="form-control" id="ni_ronde" name="fields[ni_ronde]"
+                 type="number" aria-describedby="help-ni-ronde">
           <span id="help-ni-ronde" class="help-block">bv. '12'</span>
         </div>
       </div>
@@ -55,7 +76,8 @@ varia_voorbeeld: "2017-03-13-vsf-rapid-50plus.md"
       <div class="form-group">
         <label class="control-label col-sm-2" for="kk_ronde">ronde:</label>
         <div class="col-sm-4">
-          <input class="form-control" id="kk_ronde" name="fields[kk_ronde]" type="number" aria-describedby="help-kk-ronde">
+          <input class="form-control" id="kk_ronde" name="fields[kk_ronde]"
+                 type="number" aria-describedby="help-kk-ronde">
           <span id="help-kk-ronde" class="help-block">bv. '13'</span>
         </div>
       </div>
@@ -65,39 +87,51 @@ varia_voorbeeld: "2017-03-13-vsf-rapid-50plus.md"
     <div class="form-group">
       <label class="control-label col-sm-2" for="titel">titel:</label>
       <div class="col-sm-10">
-        <input required class="form-control" id="titel" name="fields[title]" type="text" aria-describedby="help-titel">
-        <span id="help-titel" class="help-block">bv. 'Hard gevochten, broek net iets tekort'</span>
+        <input required class="form-control" id="titel" name="fields[title]"
+               type="text" aria-describedby="help-titel">
+        <span id="help-titel" class="help-block">bv. 'Hard gevochten, broek
+          net iets tekort'
+        </span>
       </div>
     </div>
     <div class="form-group">
-      <label class="control-label col-sm-2" for="voornaam">voornaam auteur:</label>
+      <label class="control-label col-sm-2" for="voornaam">voornaam auteur:
+      </label>
       <div class="col-sm-10">
-        <input required class="form-control" id="voornaam" name="fields[author]" type="text" aria-describedby="help-voornaam">
+        <input required class="form-control" id="voornaam"
+               name="fields[author]" type="text"
+               aria-describedby="help-voornaam">
         <span id="help-voornaam" class="help-block">bv. 'Geert'</span>
       </div>
     </div>
     <div class="form-group">
-      <label class="control-label col-sm-2" for="fotograaf">voornaam fotograaf:</label>
+      <label class="control-label col-sm-2" for="fotograaf">
+        voornaam fotograaf:</label>
       <div class="col-sm-10">
-        <input class="form-control" id="fotograaf" name="fields[fotograaf]" type="text" aria-describedby="help-fotograaf">
+        <input class="form-control" id="fotograaf" name="fields[fotograaf]"
+               type="text" aria-describedby="help-fotograaf">
         <span id="help-fotograaf" class="help-block">bv. 'Diederik'</span>
       </div>
     </div>
     <div class="form-group">
       <label class="control-label col-sm-2" for="verslag">verslag:</label>
       <div class="col-sm-10">
-        <textarea required class="form-control" id="verslag" name="fields[verslag]" rows="20" type="text" aria-describedby="help-verslag"></textarea>
-        <span id="help-verslag" class="help-block">opmaak van de tekst gebeurt
-          met behulp van <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">
-          markdown</a>. een voorbeeld vind je
-          <a href="{{ page.link_github }}{{ page.ni_voorbeeld }}" target="_blank">
-          hier (na het onderste lijntje met '---')</a>.  even het belangrijkste
-          opsommen:<br>1. tussentitels worden geschreven als '## mijn tussentitel'
-          met een blanco lijn ervoor en erna<br>2. tussen paragrafen moet een
-          blanco lijn staan<br>3. spelersnamen zetten we tussen '**_' en '_**'
-          markeringen waardoor ze zowel vet als schuin worden weergegeven (bv.
-          '**_Serge_**')<br>4. tussen de inleiding en de rest zetten we een
-          scheidingsmarkering met de tekenreeks '&lt;!--more--&gt;'</span>
+        <textarea required class="form-control" id="verslag"
+                  name="fields[verslag]" rows="20" type="text"
+                  aria-describedby="help-verslag"></textarea>
+        <span id="help-verslag" class="help-block">
+          opmaak van de tekst gebeurt met behulp van
+          <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
+             target="_blank">markdown</a>. een voorbeeld vind je
+          <a href="{{ page.link_github }}{{ page.ni_voorbeeld }}"
+             target="_blank">hier (na het onderste lijntje met '---')</a>.
+          even het belangrijkste opsommen:<br>1. tussentitels worden
+          geschreven als '## mijn tussentitel' met een blanco lijn ervoor en
+          erna<br>2. tussen paragrafen moet een blanco lijn staan<br>3.
+          spelersnamen zetten we tussen '**_' en '_**' markeringen waardoor
+          ze zowel vet als schuin worden weergegeven (bv. '**_Serge_**')<br>
+          4. tussen de inleiding en de rest zetten we een scheidingsmarkering
+          met de tekenreeks '&lt;!--more--&gt;'</span>
       </div>
     </div>
   </div>
@@ -105,8 +139,14 @@ varia_voorbeeld: "2017-03-13-vsf-rapid-50plus.md"
     <div class="form-group">
       <div class="col-sm-offset-2 col-sm-10">
         <div class="checkbox">
-          <label><input id="stelling-toevoegen" type="checkbox" aria-describedby="help-stelling"> stelling toevoegen</label>
-          <span id="help-stelling" class="help-block">aanvinken indien je een extra stelling wil toevoegen aan het verslag</span>
+          <label>
+            <input id="stelling-toevoegen" type="checkbox"
+                   aria-describedby="help-stelling"> stelling toevoegen
+          </label>
+          <span id="help-stelling" class="help-block">
+            aanvinken indien je een extra stelling wil toevoegen aan het
+            verslag
+          </span>
         </div>
       </div>
     </div>
@@ -114,50 +154,74 @@ varia_voorbeeld: "2017-03-13-vsf-rapid-50plus.md"
       <div class="form-group">
         <label class="control-label col-sm-2" for="">fen:</label>
         <div class="col-sm-10">
-          <input class="form-control" id="fen" name="fields[stelling_fen]" type="text" aria-describedby="help-fen">
-          <span id="help-fen" class="help-block">bijvoorbeeld '3n2k1/p5p1/5p2/2R4p/8/P3rP2/5NPP/6K1 b - -'<br><a href="https://nl.wikipedia.org/wiki/Forsyth-Edwards_Notation" target="_blank">fen-notatie</a> kan je oa. gemakkelijk aanmaken met behulp van de <a href="https://nl.lichess.org/editor" target="_blank">lichess editor</a></span>
+          <input class="form-control" id="fen" name="fields[stelling_fen]"
+                 type="text" aria-describedby="help-fen">
+          <span id="help-fen" class="help-block">
+            bijvoorbeeld '3n2k1/p5p1/5p2/2R4p/8/P3rP2/5NPP/6K1 b - -'<br>
+            <a href="https://nl.wikipedia.org/wiki/Forsyth-Edwards_Notation"
+               target="_blank">fen-notatie</a>
+            kan je oa. gemakkelijk aanmaken met behulp van de
+            <a href="https://nl.lichess.org/editor" target="_blank">
+              lichess editor</a>
+          </span>
         </div>
       </div>
       <div class="form-group">
-        <label class="control-label col-sm-2" for="stelling_titel">titel:</label>
+        <label class="control-label col-sm-2" for="stelling_titel">titel:
+        </label>
         <div class="col-sm-10">
-          <input class="form-control" id="stelling_titel" name="fields[stelling_titel]" type="text" aria-describedby="help-st-titel">
-          <span id="help-st-titel" class="help-block">bv. 'Combinatie van de dag'</span>
+          <input class="form-control" id="stelling_titel"
+                 name="fields[stelling_titel]" type="text"
+                 aria-describedby="help-st-titel">
+          <span id="help-st-titel" class="help-block">
+            bv. 'Combinatie van de dag'</span>
         </div>
       </div>
       <div class="form-group">
         <label class="control-label col-sm-2" for="wit">wit:</label>
         <div class="col-sm-4">
-          <input class="form-control" id="wit" name="fields[stelling_wit]" type="text" aria-describedby="help-wit">
+          <input class="form-control" id="wit" name="fields[stelling_wit]"
+                 type="text" aria-describedby="help-wit">
           <span id="help-wit" class="help-block">bv. 'Peeters'</span>
         </div>
         <label class="control-label col-sm-2" for="zwart">zwart:</label>
         <div class="col-sm-4">
-          <input class="form-control" id="zwart" name="fields[stelling_zwart]" type="text" aria-describedby="help-zwart">
+          <input class="form-control" id="zwart"
+                 name="fields[stelling_zwart]" type="text"
+                 aria-describedby="help-zwart">
           <span id="help-zwart" class="help-block">bv. 'Serge'</span>
         </div>
       </div>
       <div class="form-group">
         <label class="control-label col-sm-2" for="uitleg">uitleg:</label>
         <div class="col-sm-10">
-          <input class="form-control" id="uitleg" name="fields[stelling_uitleg]" type="text" aria-describedby="help-uitleg">
-          <span id="help-uitleg" class="help-block">een woordje uitleg over de stelling. bijvoorbeeld: 'halverwege de partij werd een mooie mat over het hoofd gezien, zwart speelt en wint'</span>
+          <input class="form-control" id="uitleg"
+                 name="fields[stelling_uitleg]" type="text"
+                 aria-describedby="help-uitleg">
+          <span id="help-uitleg" class="help-block">
+            een woordje uitleg over de stelling. bijvoorbeeld: 'halverwege
+            de partij werd een mooie mat over het hoofd gezien, zwart speelt
+            en wint'</span>
         </div>
       </div>
       <div class="form-group">
-        <label class="control-label col-sm-2" for="oplossing">oplossing:</label>
+        <label class="control-label col-sm-2" for="oplossing">oplossing:
+        </label>
         <div class="col-sm-10">
-          <input class="form-control" id="oplossing" name="fields[stelling_oplossing]" type="text" aria-describedby="help-oplossing">
-          <span id="help-oplossing" class="help-block">bv. '1...Te1+ en wit gaat mat achter de piketjes'</span>
+          <input class="form-control" id="oplossing"
+                 name="fields[stelling_oplossing]" type="text"
+                 aria-describedby="help-oplossing">
+          <span id="help-oplossing" class="help-block">
+            bv. '1...Te1+ en wit gaat mat achter de piketjes'</span>
         </div>
       </div>
     </div>
   </div>
   <div class="well">
     <div class="form-group">
-       <div class="col-sm-offset-2 col-sm-10">
-         <button type="submit" class="btn btn-default">versturen</button>
-       </div>
-     </div>
+      <div class="col-sm-offset-2 col-sm-10">
+        <button type="submit" class="btn btn-default">versturen</button>
+      </div>
+    </div>
   </div>
 </form>
