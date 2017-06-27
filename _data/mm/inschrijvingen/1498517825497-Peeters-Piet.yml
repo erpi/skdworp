@@ -10,5 +10,5 @@ fide_elo: ''
 nationaliteit: aus
 titel: gm
 date: '2017-06-26T22:57:05.495Z'
-doet_mee_aan_tornooi: true
-nieuwe_inschrijving: true
+aanwezig: true
+nieuwe_inschrijving: false
