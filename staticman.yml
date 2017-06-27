@@ -71,7 +71,7 @@ posts:
   transforms:
     verslag: frontmatterContent
 
-memorial:
+memorial-inschrijven:
   # (*) REQUIRED
   #
   # Names of the fields the form is allowed to submit. If a field that is
@@ -98,7 +98,7 @@ memorial:
   # with a `type` property, which configures the generated field, or any value
   # to be used directly (e.g. a string, number or array)
   generatedFields:
-    doet_mee_aan_tornooi: true
+    aanwezig: true
     nieuwe_inschrijving: true
 
   # Whether entries need to be appproved before they are published to the main
@@ -138,3 +138,26 @@ memorial:
   # Text to be used as the commit message when pushing entries to the GitHub
   # repository.
   commitMessage: "inschrijving memorial (web) {fields.achternaam} {fields.voornaam}"
+  
+memorial-invoeren:
+  allowedFields: ["achternaam", "voornaam", "email", "geboortejaar", "kbsb_id", "kbsb_elo", "fide_id", "fide_elo", "nationaliteit", "titel", "aanwezig", "nieuwe_inschrijving"]
+
+  branch: "gh-pages"
+
+  filename: "{@timestamp}-{fields.achternaam}-{fields.voornaam}"
+
+  format: yaml
+
+generatedFields:
+  nieuwe_inschrijving: false
+
+  moderation: false
+
+  name: "skdworp.be"
+
+  notifications:
+    enabled: false
+
+  path: "_data/mm/inschrijvingen/"
+  requiredFields: ["achternaam", "voornaam", "email", "geboortejaar"]
+  commitMessage: "invoer door bestuur {fields.achternaam} {fields.voornaam}"
