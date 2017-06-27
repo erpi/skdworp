@@ -1,7 +1,7 @@
 ---
 layout: inschrijven-memorial
 title: Inschrijven Memorial Patrick Debast 2017
-permalink: /inschrijven-memorial/
+permalink: /mm-inschrijven/
 noindex: true
 sitemap: false
 ---
@@ -18,11 +18,11 @@ sitemap: false
 }
 </style>
 <form class="form-horizontal" method="post"
-      action="">
+      action="https://api.staticman.net/v2/entry/erpi/skdworp/gh-pages/memorial-inschrijven">
   <input type="hidden" name="options[redirect]"
          value="{{ site.url }}/bevestiging-verslag/">
   <input type="hidden" name="options[origin]" value="{{ site.url }}">
-  <input type="hidden" name="fields[description]" value="">
+  <!-- <input type="hidden" name="fields[description]" value=""> -->
   <div class="form-group">
     <div class="col-sm-offset-3 col-sm-9">
       <p class="vet form-control-static">
@@ -33,11 +33,11 @@ sitemap: false
   </div>
 
   <div class="form-group required">
-    <label class="control-label col-sm-3" for="naam">achternaam:</label>
+    <label class="control-label col-sm-3" for="achternaam">achternaam:</label>
     <div class="col-sm-9">
-      <input required class="form-control input-sm" id="naam" name="fields[naam]"
-             type="text" aria-describedby="help-naam">
-      <span id="help-naam" class="help-block">nom / last name</span>
+      <input required class="form-control input-sm" id="achternaam" name="fields[achternaam]"
+             type="text" aria-describedby="help-achternaam">
+      <span id="help-achternaam" class="help-block">nom / last name</span>
     </div>
   </div>
 
@@ -104,7 +104,7 @@ sitemap: false
   <div class="form-group">
     <label class="control-label col-sm-3" for="">nationaliteit:</label>
     <div class="col-sm-4">
-      <select class="form-control" id="nationaliteit"
+      <select class="form-control input-sm" id="nationaliteit"
               name="fields[nationaliteit]" value="bel" aria-describedby="help-nationaliteit">
         <option value=""></option>
 	<option>abw</option>
@@ -616,7 +616,7 @@ sitemap: false
       
     <label class="control-label col-sm-2" for="">schaaktitel:</label>
     <div class="col-sm-3">
-      <select class="form-control" id="titel"
+      <select class="form-control input-sm" id="titel"
               name="fields[titel]" value="" aria-describedby="help-titel">
         <option value=""></option>
         <option value="fm">fm</option>
