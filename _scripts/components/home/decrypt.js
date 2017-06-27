@@ -21,6 +21,6 @@ function decrypt(origin, size, key, word) {
 $(document).ready(function(){
     $(".encrypted").text(function(i, origText){
         var zonder_dubbele_slash = origText.replace("\\\\", "\\");
-        return "  " + decrypt(46, 77, "schaken", zonder_dubbele_slash);
+        return "  " + decrypt(46, 77, "interclub", zonder_dubbele_slash);
     });
 });
