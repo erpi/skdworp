@@ -1,0 +1,50 @@
+---
+layout: default
+title: Overzicht alle deelnemers Memorial
+permalink: /mm-overzicht/
+noindex: true
+sitemap: false
+---
+{% assign deelnemers = site.data.mm["inschrijvingen"] %}
+
+<div class="table-responsive">
+  <table class="table table-condensed">
+    <thead>
+      <tr>
+        <th><span class="sr-only">nummer</span></th>
+        <th>naam</th>
+        <th>voornaam</th>
+        <th>jaar</th>
+        <th>stamn</th>
+        <th>elo</th>
+        <th>fide id</th>
+        <th>fide elo</th>
+        <th>nat</th>
+        <th>titel</th>
+        <th>invoerdatum</th>
+        <th>aanwezig</th>
+        <th>nieuw</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for deelnemer in deelnemers %}
+      {% assign dn = deelnemer[1] %}
+      <tr>
+        <td>{{ forloop.index }}</td>
+        <td>{{ dn["achternaam"] | downcase }}</td>
+        <td>{{ dn["voornaam"] | downcase }}</td>
+        <td>{{ dn["geboortejaar"] }}</td>
+        <td>{{ dn["kbsb_id"] }}</td>
+        <td>{{ dn["kbsb_elo"] }}</td>
+        <td>{{ dn["fide_id"] }}</td>
+        <td>{{ dn["fide_elo"] }}</td>
+        <td>{{ dn["nationaliteit"] }}</td>
+        <td>{{ dn["titel"] }}</td>
+        <td>{{ dn["date"] }}</td>
+        <td>{% if dn["aanwezig"] == true %}ja{% else %}nee{% endif %}</td>
+        <td>{% if dn["nieuwe_inschrijving"] == true %}ja{% else %}nee{% endif %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>

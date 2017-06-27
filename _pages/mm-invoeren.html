@@ -1,0 +1,378 @@
+---
+layout: inschrijven-memorial
+title: Nieuwe deelnemer invoeren
+permalink: /mm-invoeren/
+noindex: true
+sitemap: false
+---
+<style>
+  .form-group.required .control-label:first-child:before {
+  content:"*  ";
+  color:#CF4A1C;
+  }
+</style>
+<form class="form-horizontal" method="post"
+      action="https://api.staticman.net/v2/entry/erpi/skdworp/gh-pages/memorial-invoeren">
+  <input type="hidden" name="options[redirect]"
+         value="{{ site.url }}/bevestiging-verslag/">
+  <input type="hidden" name="options[origin]" value="{{ site.url }}">
+  <div class="form-group">
+    <div class="col-sm-offset-3 col-sm-9">
+      <p class="vet form-control-static">
+        <span style="color:#CF4A1C;">*</span>
+        verplicht veld / obligatoire / required
+      </p>
+    </div>
+  </div>
+
+  <div class="form-group required">
+    <label class="control-label col-sm-3" for="achternaam">achternaam:</label>
+    <div class="col-sm-9">
+      <input required class="form-control" id="achternaam" name="fields[achternaam]"
+             type="text">
+    </div>
+  </div>
+
+  <div class="form-group required">
+    <label class="control-label col-sm-3" for="voornaam">voornaam:</label>
+    <div class="col-sm-9">
+      <input required class="form-control" id="voornaam" name="fields[voornaam]"
+             type="text">
+    </div>
+  </div>
+
+  <div class="form-group required">
+    <label class="control-label col-sm-3" for="email">e-mailadres:</label>
+    <div class="col-sm-9">
+      <input required class="form-control" id="email" name="fields[email]"
+             type="email">
+    </div>
+  </div>
+
+  <div class="form-group required">
+    <label class="control-label col-sm-3" for="geboortejaar">geboortejaar:</label>
+    <div class="col-sm-4">
+      <input required class="form-control" id="geboortejaar"
+             name="fields[geboortejaar]" type="text">
+    </div>
+  </div>
+  
+  <div class="form-group">
+    <label class="control-label col-sm-3" for="kbsb_id">kbsb stamnummer:</label>
+    <div class="col-sm-4">
+      <input class="form-control" id="kbsb_id" name="fields[kbsb_id]"
+             type="text">
+    </div>
+
+    <label class="control-label col-sm-2" for="kbsb_elo">kbsb elo:</label>
+    <div class="col-sm-3">
+      <input class="form-control" id="kbsb_elo" name="fields[kbsb_elo]"
+             type="text">
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label class="control-label col-sm-3" for="fide_id">fide id:</label>
+    <div class="col-sm-4">
+      <input class="form-control" id="fide_id" name="fields[fide_id]"
+             type="text">
+    </div>
+
+    <label class="control-label col-sm-2" for="fide_elo">fide elo:</label>
+    <div class="col-sm-3">
+      <input class="form-control" id="fide_elo" name="fields[fide_elo]"
+             type="text">
+    </div>
+  </div>
+  
+  <div class="form-group">
+    <label class="control-label col-sm-3" for="">nationaliteit:</label>
+    <div class="col-sm-4">
+      <select class="form-control" id="nationaliteit"
+              name="fields[nationaliteit]" value="bel">
+        <option value=""></option>
+	<option>abw</option>
+	<option>afg</option>
+	<option>ago</option>
+	<option>aia</option>
+	<option>ala</option>
+	<option>alb</option>
+	<option>and</option>
+	<option>arg</option>
+	<option>arm</option>
+	<option>asm</option>
+	<option>ata</option>
+	<option>atg</option>
+	<option>aus</option>
+	<option>aut</option>
+	<option>aze</option>
+	<option>bdi</option>
+	<option selected>bel</option>
+	<option>ben</option>
+	<option>bes</option>
+	<option>bfa</option>
+	<option>bgd</option>
+	<option>bgr</option>
+	<option>bhr</option>
+	<option>bhs</option>
+	<option>bih</option>
+	<option>blr</option>
+	<option>blz</option>
+	<option>bmu</option>
+	<option>bol</option>
+	<option>bra</option>
+	<option>brb</option>
+	<option>brn</option>
+	<option>btn</option>
+	<option>bvt</option>
+	<option>bwa</option>
+	<option>caf</option>
+	<option>can</option>
+	<option>cck</option>
+	<option>chl</option>
+	<option>chn</option>
+	<option>cmr</option>
+	<option>cpv</option>
+	<option>cxr</option>
+	<option>cym</option>
+	<option>dza</option>
+	<option>iot</option>
+	<option>khm</option>
+	<option>tcd</option>
+	<option>col</option>
+	<option>com</option>
+	<option>cog</option>
+	<option>cod</option>
+	<option>cok</option>
+	<option>cri</option>
+	<option>civ</option>
+	<option>hrv</option>
+	<option>cub</option>
+	<option>cuw</option>
+	<option>cyp</option>
+	<option>cze</option>
+	<option>dnk</option>
+	<option>dji</option>
+	<option>dma</option>
+	<option>dom</option>
+	<option>ecu</option>
+	<option>egy</option>
+	<option>slv</option>
+	<option>gnq</option>
+	<option>eri</option>
+	<option>est</option>
+	<option>eth</option>
+	<option>flk</option>
+	<option>fro</option>
+	<option>fji</option>
+	<option>fin</option>
+	<option>fra</option>
+	<option>guf</option>
+	<option>pyf</option>
+	<option>atf</option>
+	<option>gab</option>
+	<option>gmb</option>
+	<option>geo</option>
+	<option>deu</option>
+	<option>gha</option>
+	<option>gib</option>
+	<option>grc</option>
+	<option>grl</option>
+	<option>grd</option>
+	<option>glp</option>
+	<option>gum</option>
+	<option>gtm</option>
+	<option>ggy</option>
+	<option>gin</option>
+	<option>gnb</option>
+	<option>guy</option>
+	<option>hti</option>
+	<option>hmd</option>
+	<option>vat</option>
+	<option>hnd</option>
+	<option>hkg</option>
+	<option>hun</option>
+	<option>isl</option>
+	<option>ind</option>
+	<option>idn</option>
+	<option>irn</option>
+	<option>irq</option>
+	<option>irl</option>
+	<option>imn</option>
+	<option>isr</option>
+	<option>ita</option>
+	<option>jam</option>
+	<option>jpn</option>
+	<option>jey</option>
+	<option>jor</option>
+	<option>kaz</option>
+	<option>ken</option>
+	<option>kir</option>
+	<option>prk</option>
+	<option>kor</option>
+	<option>kwt</option>
+	<option>kgz</option>
+	<option>lao</option>
+	<option>lva</option>
+	<option>lbn</option>
+	<option>lso</option>
+	<option>lbr</option>
+	<option>lby</option>
+	<option>lie</option>
+	<option>ltu</option>
+	<option>lux</option>
+	<option>mac</option>
+	<option>mkd</option>
+	<option>mdg</option>
+	<option>mwi</option>
+	<option>mys</option>
+	<option>mdv</option>
+	<option>mli</option>
+	<option>mlt</option>
+	<option>mhl</option>
+	<option>mtq</option>
+	<option>mrt</option>
+	<option>mus</option>
+	<option>myt</option>
+	<option>mex</option>
+	<option>fsm</option>
+	<option>mda</option>
+	<option>mco</option>
+	<option>mng</option>
+	<option>mne</option>
+	<option>msr</option>
+	<option>mar</option>
+	<option>moz</option>
+	<option>mmr</option>
+	<option>nam</option>
+	<option>nru</option>
+	<option>npl</option>
+	<option>nld</option>
+	<option>ncl</option>
+	<option>nzl</option>
+	<option>nic</option>
+	<option>ner</option>
+	<option>nga</option>
+	<option>niu</option>
+	<option>nfk</option>
+	<option>mnp</option>
+	<option>nor</option>
+	<option>omn</option>
+	<option>pak</option>
+	<option>plw</option>
+	<option>pse</option>
+	<option>pan</option>
+	<option>png</option>
+	<option>pry</option>
+	<option>per</option>
+	<option>phl</option>
+	<option>pcn</option>
+	<option>pol</option>
+	<option>prt</option>
+	<option>pri</option>
+	<option>qat</option>
+	<option>reu</option>
+	<option>rou</option>
+	<option>rus</option>
+	<option>rwa</option>
+	<option>blm</option>
+	<option>shn</option>
+	<option>kna</option>
+	<option>lca</option>
+	<option>maf</option>
+	<option>spm</option>
+	<option>vct</option>
+	<option>wsm</option>
+	<option>smr</option>
+	<option>stp</option>
+	<option>sau</option>
+	<option>sen</option>
+	<option>srb</option>
+	<option>syc</option>
+	<option>sle</option>
+	<option>sgp</option>
+	<option>sxm</option>
+	<option>svk</option>
+	<option>svn</option>
+	<option>slb</option>
+	<option>som</option>
+	<option>zaf</option>
+	<option>sgs</option>
+	<option>ssd</option>
+	<option>esp</option>
+	<option>lka</option>
+	<option>sdn</option>
+	<option>sur</option>
+	<option>sjm</option>
+	<option>swz</option>
+	<option>swe</option>
+	<option>che</option>
+	<option>syr</option>
+	<option>twn</option>
+	<option>tjk</option>
+	<option>tza</option>
+	<option>tha</option>
+	<option>tls</option>
+	<option>tgo</option>
+	<option>tkl</option>
+	<option>ton</option>
+	<option>tto</option>
+	<option>tun</option>
+	<option>tur</option>
+	<option>tkm</option>
+	<option>tca</option>
+	<option>tuv</option>
+	<option>uga</option>
+	<option>ukr</option>
+	<option>are</option>
+	<option>gbr</option>
+	<option>usa</option>
+	<option>umi</option>
+	<option>ury</option>
+	<option>uzb</option>
+	<option>vut</option>
+	<option>ven</option>
+	<option>vnm</option>
+	<option>vgb</option>
+	<option>vir</option>
+	<option>wlf</option>
+	<option>esh</option>
+	<option>yem</option>
+	<option>zmb</option>
+	<option>zwe</option>
+      </select>
+    </div>
+    
+    <label class="control-label col-sm-2" for="">schaaktitel:</label>
+    <div class="col-sm-3">
+      <select class="form-control" id="titel"
+              name="fields[titel]" value="">
+        <option value=""></option>
+        <option value="fm">fm</option>
+        <option value="im">im</option>
+        <option value="gm">gm</option>
+        <option value="wfm">wfm</option>
+        <option value="wim">wim</option>
+        <option value="wgm">wgm</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label class="control-label col-sm-3" for="">aanwezig:</label>
+    <div class="col-sm-4">
+      <select class="form-control" id="aanwezig"
+              name="fields[aanwezig]" value="true">
+        <option value="true">ja</option>
+        <option value="false">nee</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <div class="col-sm-offset-3 col-sm-9">
+      <button type="submit" class="btn btn-default">invoeren</button>
+    </div>
+  </div>
+</form>
+
