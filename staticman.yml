@@ -137,10 +137,10 @@ memorial-inschrijven:
 
   # Text to be used as the commit message when pushing entries to the GitHub
   # repository.
-  commitMessage: "inschrijving memorial (web) {fields.achternaam} {fields.voornaam}"
+  commitMessage: "nieuwe inschrijving mm - {fields.achternaam} {fields.voornaam}"
   
 memorial-invoeren:
-  allowedFields: ["achternaam", "voornaam", "email", "geboortejaar", "kbsb_id", "kbsb_elo", "fide_id", "fide_elo", "nationaliteit", "titel", "aanwezig", "nieuwe_inschrijving"]
+  allowedFields: ["achternaam", "voornaam", "email", "geboortejaar", "kbsb_id", "kbsb_elo", "fide_id", "fide_elo", "nationaliteit", "titel", "aanwezig"]
 
   branch: "gh-pages"
 
@@ -160,4 +160,4 @@ generatedFields:
 
   path: "_data/mm/inschrijvingen/"
   requiredFields: ["achternaam", "voornaam", "email", "geboortejaar"]
-  commitMessage: "invoer door bestuur {fields.achternaam} {fields.voornaam}"
+  commitMessage: "invoer mm door bestuur - {fields.achternaam} {fields.voornaam}"
