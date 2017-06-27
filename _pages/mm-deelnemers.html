@@ -1,0 +1,48 @@
+---
+layout: default
+title: Deelnemers Memorial 2017
+permalink: /mm-deelnemers/
+noindex: true
+sitemap: false
+---
+{% assign deelnemers = site.data.mm["inschrijvingen"] %}
+{% assign nieuwe_deelnemers = deelnemers | where:"nieuwe_inschrijving",true %}
+
+{% assign aantal_nieuw = nieuwe_deelnemers | size %}
+{% if aantal_nieuw != 0 %}
+<h2>ontvangen inschrijvingen</h2>
+<ol style="font-size:larger;">
+{% for deelnemer in nieuwe_deelnemers %}
+<li> {{ deelnemer["achternaam"] | downcase}} {{ deelnemer["voornaam"] | downcase}}</li>
+{% endfor %}
+</ol>
+{% endif %}
+
+{% assign oude_deelnemers = deelnemers | where:"nieuwe_inschrijving",false %}
+{% assign huidige_deelnemers = oude_deelnemers | where:"aanwezig",true %}
+
+<h2>deelnemers</h2>
+<div class="table-responsive">
+  <table class="table">
+    <thead>
+      <tr>
+        <th><span class="sr-only">nummer</span></th>
+        <th>naam</th>
+        <th>voornaam</th>
+        <th>titel</th>
+        <th>nationale elo</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for deelnemer in huidige_deelnemers %}
+      <tr>
+        <td>{{ forloop.index }}</td>
+        <td>{{ deelnemer["achternaam"] | downcase}}</td>
+        <td>{{ deelnemer["voornaam"] | downcase}}</td>
+        <td>{{ deelnemer["titel"] }}</td>
+        <td>{{ deelnemer["kbsb_elo"] }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
