@@ -35,10 +35,10 @@ posts:
   # the data file. Keys are the name of the field. The value can be an object
   # with a `type` property, which configures the generated field, or any value
   # to be used directly (e.g. a string, number or array)
-  generatedFields:
-    layout: verslag
-    excerpt_separator: <!--more-->
-    draft: true
+  # generatedFields:
+  #   layout: verslag
+  #   excerpt_separator: <!--more-->
+  #   draft: true
 
   # Whether entries need to be appproved before they are published to the main
   # branch. If set to `true`, a pull request will be created for your approval.
