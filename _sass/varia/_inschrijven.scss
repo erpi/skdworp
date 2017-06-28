@@ -1,0 +1,15 @@
+@import "bootswatch/variables";
+
+.form-group.required .control-label:first-child:before {
+  content:"*  ";
+  color:$brand-primary;
+}
+
+.form-group.klein {
+  margin-bottom: 8px;
+}
+
+.form-group.klein .control-label {
+  padding-right: 8px;
+}
+

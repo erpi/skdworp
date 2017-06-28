@@ -46,3 +46,15 @@
 .verborgen {
   display:none !important;
 }
+
+.memorial h1, .memorial h2 {
+  color: $brand-primary;
+}
+
+.memorial hr {
+  border-color: $brand-primary;
+}
+
+.memorial p {
+  font-size: larger;
+}

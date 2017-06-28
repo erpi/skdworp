@@ -5,12 +5,6 @@ permalink: /mm-invoeren/
 noindex: true
 sitemap: false
 ---
-<style>
-  .form-group.required .control-label:first-child:before {
-  content:"*  ";
-  color:#CF4A1C;
-  }
-</style>
 <form class="form-horizontal" method="post"
       action="https://api.staticman.net/v2/entry/erpi/skdworp/gh-pages/memorial-invoeren">
   <input type="hidden" name="options[redirect]"
@@ -86,11 +80,11 @@ sitemap: false
   </div>
   
   <div class="form-group">
-    <label class="control-label col-sm-3" for="">nationaliteit:</label>
+    <label class="control-label col-sm-3" for="nationaliteit">nationaliteit:</label>
     <div class="col-sm-4">
       <select class="form-control" id="nationaliteit"
-              name="fields[nationaliteit]" value="bel">
-        <option value=""></option>
+              name="fields[nationaliteit]">
+        <option value="" label="onbekend"></option>
 	<option>abw</option>
 	<option>afg</option>
 	<option>ago</option>
@@ -343,11 +337,11 @@ sitemap: false
       </select>
     </div>
     
-    <label class="control-label col-sm-2" for="">schaaktitel:</label>
+    <label class="control-label col-sm-2" for="titel">schaaktitel:</label>
     <div class="col-sm-3">
       <select class="form-control" id="titel"
-              name="fields[titel]" value="">
-        <option value=""></option>
+              name="fields[titel]">
+        <option value="" label="geen" selected></option>
         <option value="fm">fm</option>
         <option value="im">im</option>
         <option value="gm">gm</option>
@@ -359,11 +353,11 @@ sitemap: false
   </div>
 
   <div class="form-group">
-    <label class="control-label col-sm-3" for="">aanwezig:</label>
+    <label class="control-label col-sm-3" for="aanwezig">aanwezig:</label>
     <div class="col-sm-4">
       <select class="form-control" id="aanwezig"
-              name="fields[aanwezig]" value="true">
-        <option value="true">ja</option>
+              name="fields[aanwezig]">
+        <option value="true" selected>ja</option>
         <option value="false">nee</option>
       </select>
     </div>

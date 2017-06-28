@@ -5,18 +5,6 @@ permalink: /mm-inschrijven/
 noindex: true
 sitemap: false
 ---
-<style>
-  label {
-    padding-right: 8px;
-  }
-  .form-group {
-    margin-bottom: 8px;
-  }
-  .form-group.required .control-label:first-child:before {
-   content:"*  ";
-   color:#CF4A1C;
-}
-</style>
 <form class="form-horizontal" method="post"
       action="https://api.staticman.net/v2/entry/erpi/skdworp/gh-pages/memorial-inschrijven">
   <input type="hidden" name="options[redirect]"
@@ -32,7 +20,7 @@ sitemap: false
     </div>
   </div>
 
-  <div class="form-group required">
+  <div class="form-group required klein">
     <label class="control-label col-sm-3" for="achternaam">achternaam:</label>
     <div class="col-sm-9">
       <input required class="form-control input-sm" id="achternaam" name="fields[achternaam]"
@@ -41,7 +29,7 @@ sitemap: false
     </div>
   </div>
 
-  <div class="form-group required">
+  <div class="form-group required klein">
     <label class="control-label col-sm-3" for="voornaam">voornaam:</label>
     <div class="col-sm-9">
       <input required class="form-control input-sm" id="voornaam" name="fields[voornaam]"
@@ -50,7 +38,7 @@ sitemap: false
     </div>
   </div>
 
-  <div class="form-group required">
+  <div class="form-group required klein">
     <label class="control-label col-sm-3" for="e-mail">e-mailadres:</label>
     <div class="col-sm-9">
       <input required class="form-control input-sm" id="e-mail" name="fields[e-mail]"
@@ -59,7 +47,7 @@ sitemap: false
     </div>
   </div>
 
-  <div class="form-group required">
+  <div class="form-group required klein">
     <label class="control-label col-sm-3" for="geboortejaar">geboortejaar:</label>
     <div class="col-sm-4">
       <input required class="form-control input-sm" id="geboortejaar"
@@ -69,7 +57,7 @@ sitemap: false
     </div>
   </div>
     
-  <div class="form-group">
+  <div class="form-group klein">
     <label class="control-label col-sm-3" for="kbsb_id">stamnummer kbsb:</label>
     <div class="col-sm-4">
       <input class="form-control input-sm" id="kbsb_id" name="fields[kbsb_id]"
@@ -85,7 +73,7 @@ sitemap: false
     </div>
   </div>
 
-  <div class="form-group">
+  <div class="form-group klein">
     <label class="control-label col-sm-3" for="fide_id">stamnummer fide:</label>
     <div class="col-sm-4">
       <input class="form-control input-sm" id="fide_id" name="fields[fide_id]"
@@ -101,12 +89,12 @@ sitemap: false
     </div>
   </div>
   
-  <div class="form-group">
-    <label class="control-label col-sm-3" for="">nationaliteit:</label>
+  <div class="form-group klein">
+    <label class="control-label col-sm-3" for="nationaliteit">nationaliteit:</label>
     <div class="col-sm-4">
       <select class="form-control input-sm" id="nationaliteit"
-              name="fields[nationaliteit]" value="bel" aria-describedby="help-nationaliteit">
-        <option value=""></option>
+              name="fields[nationaliteit]" aria-describedby="help-nationaliteit">
+        <option value="" label="onbekend"></option>
 	<option>abw</option>
 	<option>afg</option>
 	<option>ago</option>
@@ -614,11 +602,11 @@ sitemap: false
     <!--          type="text" aria-describedby="help-club"> -->
     <!-- </div> -->
       
-    <label class="control-label col-sm-2" for="">schaaktitel:</label>
+    <label class="control-label col-sm-2" for="titel">schaaktitel:</label>
     <div class="col-sm-3">
       <select class="form-control input-sm" id="titel"
-              name="fields[titel]" value="" aria-describedby="help-titel">
-        <option value=""></option>
+              name="fields[titel]" aria-describedby="help-titel">
+        <option value="" label="geen" selected></option>
         <option value="fm">fm</option>
         <option value="im">im</option>
         <option value="gm">gm</option>
@@ -630,7 +618,7 @@ sitemap: false
     </div>
   </div>
 
-  <div class="form-group">
+  <div class="form-group klein">
     <div class="col-sm-offset-3 col-sm-9">
       <button type="submit" class="btn btn-default">inschrijven / inscrire / subscribe</button>
     </div>
