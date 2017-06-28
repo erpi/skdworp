@@ -76,7 +76,7 @@ memorial-inschrijven:
   #
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
-  allowedFields: ["achternaam", "voornaam", "e-mail", "geboortejaar", "kbsb_id", "kbsb_elo", "fide_id", "fide_elo", "nationaliteit", "titel"]
+  allowedFields: ["achternaam", "voornaam", "e-mail", "geboortejaar", "kbsb_id", "kbsb_elo", "fide_id", "fide_elo", "nationaliteit", "titel", "aanwezig", "nieuwe_inschrijving"]
 
   # (*) REQUIRED
   #
@@ -97,9 +97,6 @@ memorial-inschrijven:
   # the data file. Keys are the name of the field. The value can be an object
   # with a `type` property, which configures the generated field, or any value
   # to be used directly (e.g. a string, number or array)
-  generatedFields:
-    aanwezig: true
-    nieuwe_inschrijving: true
 
   # Whether entries need to be appproved before they are published to the main
   # branch. If set to `true`, a pull request will be created for your approval.
@@ -140,12 +137,10 @@ memorial-inschrijven:
   commitMessage: "nieuwe inschrijving mm - {fields.achternaam} {fields.voornaam}"
   
 memorial-invoeren:
-  allowedFields: ["achternaam", "voornaam", "e-mail", "geboortejaar", "kbsb_id", "kbsb_elo", "fide_id", "fide_elo", "nationaliteit", "titel", "aanwezig"]
+  allowedFields: ["achternaam", "voornaam", "e-mail", "geboortejaar", "kbsb_id", "kbsb_elo", "fide_id", "fide_elo", "nationaliteit", "titel", "aanwezig", "nieuwe_inschrijving"]
   branch: "gh-pages"
   filename: "{@timestamp}-{fields.achternaam}-{fields.voornaam}"
   format: yaml
-  generatedFields:
-    nieuwe_inschrijving: false
   moderation: false
   name: "skdworp.be"
   notifications:
