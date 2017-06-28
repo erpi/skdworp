@@ -10,6 +10,5 @@ fide_elo: ''
 nationaliteit: bel
 titel: ''
 date: '2017-06-27T13:20:46.516Z'
-doet_mee_aan_tornooi: true
-nieuwe_inschrijving: true
+nieuwe_inschrijving: false
 aanwezig: true
