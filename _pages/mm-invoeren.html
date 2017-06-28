@@ -5,7 +5,8 @@ permalink: /mm-invoeren/
 noindex: true
 sitemap: false
 ---
-<form class="form-horizontal" method="post"
+<form class="form-horizontal" method="post" onsubmit="return wijzigEmail()"
+      id="inschrijven"
       action="https://api.staticman.net/v2/entry/erpi/skdworp/gh-pages/memorial-invoeren">
   <input type="hidden" name="options[redirect]"
          value="{{ site.url }}/bevestiging-verslag/">
@@ -38,7 +39,7 @@ sitemap: false
   <div class="form-group required">
     <label class="control-label col-sm-3" for="e-mail">e-mailadres:</label>
     <div class="col-sm-9">
-      <input required class="form-control" id="e-mail" name="fields[e-mail]"
+      <input required class="form-control" id="e-mail"
              type="email">
     </div>
   </div>

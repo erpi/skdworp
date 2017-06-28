@@ -5,12 +5,12 @@ permalink: /mm-inschrijven/
 noindex: true
 sitemap: false
 ---
-<form class="form-horizontal" method="post"
+<form class="form-horizontal" method="post" onsubmit="return wijzigEmail()"
+      id="inschrijven"
       action="https://api.staticman.net/v2/entry/erpi/skdworp/gh-pages/memorial-inschrijven">
   <input type="hidden" name="options[redirect]"
          value="{{ site.url }}/bevestiging-verslag/">
   <input type="hidden" name="options[origin]" value="{{ site.url }}">
-  <!-- <input type="hidden" name="fields[description]" value=""> -->
   <div class="form-group">
     <div class="col-sm-offset-3 col-sm-9">
       <p class="vet form-control-static">
@@ -41,7 +41,7 @@ sitemap: false
   <div class="form-group required klein">
     <label class="control-label col-sm-3" for="e-mail">e-mailadres:</label>
     <div class="col-sm-9">
-      <input required class="form-control input-sm" id="e-mail" name="fields[e-mail]"
+      <input required class="form-control input-sm" id="e-mail"
              type="email" aria-describedby="help-e-mail">
       <span id="help-e-mail" class="help-block">adresse e-mail / email address</span>
     </div>
@@ -344,255 +344,6 @@ sitemap: false
 	<option>yem</option>
 	<option>zmb</option>
 	<option>zwe</option>
-	<!-- <option value="afg">afghanistan</option> -->
-	<!-- <option value="ala">åland islands</option> -->
-	<!-- <option value="alb">albania</option> -->
-	<!-- <option value="dza">algeria</option> -->
-	<!-- <option value="asm">american samoa</option> -->
-	<!-- <option value="and">andorra</option> -->
-	<!-- <option value="ago">angola</option> -->
-	<!-- <option value="aia">anguilla</option> -->
-	<!-- <option value="ata">antarctica</option> -->
-	<!-- <option value="atg">antigua and barbuda</option> -->
-	<!-- <option value="arg">argentina</option> -->
-	<!-- <option value="arm">armenia</option> -->
-	<!-- <option value="abw">aruba</option> -->
-	<!-- <option value="aus">australia</option> -->
-	<!-- <option value="aut">austria</option> -->
-	<!-- <option value="aze">azerbaijan</option> -->
-	<!-- <option value="bhs">bahamas</option> -->
-	<!-- <option value="bhr">bahrain</option> -->
-	<!-- <option value="bgd">bangladesh</option> -->
-	<!-- <option value="brb">barbados</option> -->
-	<!-- <option value="blr">belarus</option> -->
-	<!-- <option value="bel" selected>belgium</option> -->
-	<!-- <option value="blz">belize</option> -->
-	<!-- <option value="ben">benin</option> -->
-	<!-- <option value="bmu">bermuda</option> -->
-	<!-- <option value="btn">bhutan</option> -->
-	<!-- <option value="bol">bolivia, plurinational state of</option> -->
-	<!-- <option value="bes">bonaire, sint eustatius and saba</option> -->
-	<!-- <option value="bih">bosnia and herzegovina</option> -->
-	<!-- <option value="bwa">botswana</option> -->
-	<!-- <option value="bvt">bouvet island</option> -->
-	<!-- <option value="bra">brazil</option> -->
-	<!-- <option value="iot">british indian ocean territory</option> -->
-	<!-- <option value="brn">brunei darussalam</option> -->
-	<!-- <option value="bgr">bulgaria</option> -->
-	<!-- <option value="bfa">burkina faso</option> -->
-	<!-- <option value="bdi">burundi</option> -->
-	<!-- <option value="khm">cambodia</option> -->
-	<!-- <option value="cmr">cameroon</option> -->
-	<!-- <option value="can">canada</option> -->
-	<!-- <option value="cpv">cape verde</option> -->
-	<!-- <option value="cym">cayman islands</option> -->
-	<!-- <option value="caf">central african republic</option> -->
-	<!-- <option value="tcd">chad</option> -->
-	<!-- <option value="chl">chile</option> -->
-	<!-- <option value="chn">china</option> -->
-	<!-- <option value="cxr">christmas island</option> -->
-	<!-- <option value="cck">cocos (keeling) islands</option> -->
-	<!-- <option value="col">colombia</option> -->
-	<!-- <option value="com">comoros</option> -->
-	<!-- <option value="cog">congo</option> -->
-	<!-- <option value="cod">congo, the democratic republic of the</option> -->
-	<!-- <option value="cok">cook islands</option> -->
-	<!-- <option value="cri">costa rica</option> -->
-	<!-- <option value="civ">côte d'ivoire</option> -->
-	<!-- <option value="hrv">croatia</option> -->
-	<!-- <option value="cub">cuba</option> -->
-	<!-- <option value="cuw">curaçao</option> -->
-	<!-- <option value="cyp">cyprus</option> -->
-	<!-- <option value="cze">czech republic</option> -->
-	<!-- <option value="dnk">denmark</option> -->
-	<!-- <option value="dji">djibouti</option> -->
-	<!-- <option value="dma">dominica</option> -->
-	<!-- <option value="dom">dominican republic</option> -->
-	<!-- <option value="ecu">ecuador</option> -->
-	<!-- <option value="egy">egypt</option> -->
-	<!-- <option value="slv">el salvador</option> -->
-	<!-- <option value="gnq">equatorial guinea</option> -->
-	<!-- <option value="eri">eritrea</option> -->
-	<!-- <option value="est">estonia</option> -->
-	<!-- <option value="eth">ethiopia</option> -->
-	<!-- <option value="flk">falkland islands (malvinas)</option> -->
-	<!-- <option value="fro">faroe islands</option> -->
-	<!-- <option value="fji">fiji</option> -->
-	<!-- <option value="fin">finland</option> -->
-	<!-- <option value="fra">france</option> -->
-	<!-- <option value="guf">french guiana</option> -->
-	<!-- <option value="pyf">french polynesia</option> -->
-	<!-- <option value="atf">french southern territories</option> -->
-	<!-- <option value="gab">gabon</option> -->
-	<!-- <option value="gmb">gambia</option> -->
-	<!-- <option value="geo">georgia</option> -->
-	<!-- <option value="deu">germany</option> -->
-	<!-- <option value="gha">ghana</option> -->
-	<!-- <option value="gib">gibraltar</option> -->
-	<!-- <option value="grc">greece</option> -->
-	<!-- <option value="grl">greenland</option> -->
-	<!-- <option value="grd">grenada</option> -->
-	<!-- <option value="glp">guadeloupe</option> -->
-	<!-- <option value="gum">guam</option> -->
-	<!-- <option value="gtm">guatemala</option> -->
-	<!-- <option value="ggy">guernsey</option> -->
-	<!-- <option value="gin">guinea</option> -->
-	<!-- <option value="gnb">guinea-bissau</option> -->
-	<!-- <option value="guy">guyana</option> -->
-	<!-- <option value="hti">haiti</option> -->
-	<!-- <option value="hmd">heard island and mcdonald islands</option> -->
-	<!-- <option value="vat">holy see (vatican city state)</option> -->
-	<!-- <option value="hnd">honduras</option> -->
-	<!-- <option value="hkg">hong kong</option> -->
-	<!-- <option value="hun">hungary</option> -->
-	<!-- <option value="isl">iceland</option> -->
-	<!-- <option value="ind">india</option> -->
-	<!-- <option value="idn">indonesia</option> -->
-	<!-- <option value="irn">iran, islamic republic of</option> -->
-	<!-- <option value="irq">iraq</option> -->
-	<!-- <option value="irl">ireland</option> -->
-	<!-- <option value="imn">isle of man</option> -->
-	<!-- <option value="isr">israel</option> -->
-	<!-- <option value="ita">italy</option> -->
-	<!-- <option value="jam">jamaica</option> -->
-	<!-- <option value="jpn">japan</option> -->
-	<!-- <option value="jey">jersey</option> -->
-	<!-- <option value="jor">jordan</option> -->
-	<!-- <option value="kaz">kazakhstan</option> -->
-	<!-- <option value="ken">kenya</option> -->
-	<!-- <option value="kir">kiribati</option> -->
-	<!-- <option value="prk">korea, democratic people's republic of</option> -->
-	<!-- <option value="kor">korea, republic of</option> -->
-	<!-- <option value="kwt">kuwait</option> -->
-	<!-- <option value="kgz">kyrgyzstan</option> -->
-	<!-- <option value="lao">lao people's democratic republic</option> -->
-	<!-- <option value="lva">latvia</option> -->
-	<!-- <option value="lbn">lebanon</option> -->
-	<!-- <option value="lso">lesotho</option> -->
-	<!-- <option value="lbr">liberia</option> -->
-	<!-- <option value="lby">libya</option> -->
-	<!-- <option value="lie">liechtenstein</option> -->
-	<!-- <option value="ltu">lithuania</option> -->
-	<!-- <option value="lux">luxembourg</option> -->
-	<!-- <option value="mac">macao</option> -->
-	<!-- <option value="mkd">macedonia, the former yugoslav republic of</option> -->
-	<!-- <option value="mdg">madagascar</option> -->
-	<!-- <option value="mwi">malawi</option> -->
-	<!-- <option value="mys">malaysia</option> -->
-	<!-- <option value="mdv">maldives</option> -->
-	<!-- <option value="mli">mali</option> -->
-	<!-- <option value="mlt">malta</option> -->
-	<!-- <option value="mhl">marshall islands</option> -->
-	<!-- <option value="mtq">martinique</option> -->
-	<!-- <option value="mrt">mauritania</option> -->
-	<!-- <option value="mus">mauritius</option> -->
-	<!-- <option value="myt">mayotte</option> -->
-	<!-- <option value="mex">mexico</option> -->
-	<!-- <option value="fsm">micronesia, federated states of</option> -->
-	<!-- <option value="mda">moldova, republic of</option> -->
-	<!-- <option value="mco">monaco</option> -->
-	<!-- <option value="mng">mongolia</option> -->
-	<!-- <option value="mne">montenegro</option> -->
-	<!-- <option value="msr">montserrat</option> -->
-	<!-- <option value="mar">morocco</option> -->
-	<!-- <option value="moz">mozambique</option> -->
-	<!-- <option value="mmr">myanmar</option> -->
-	<!-- <option value="nam">namibia</option> -->
-	<!-- <option value="nru">nauru</option> -->
-	<!-- <option value="npl">nepal</option> -->
-	<!-- <option value="nld">netherlands</option> -->
-	<!-- <option value="ncl">new caledonia</option> -->
-	<!-- <option value="nzl">new zealand</option> -->
-	<!-- <option value="nic">nicaragua</option> -->
-	<!-- <option value="ner">niger</option> -->
-	<!-- <option value="nga">nigeria</option> -->
-	<!-- <option value="niu">niue</option> -->
-	<!-- <option value="nfk">norfolk island</option> -->
-	<!-- <option value="mnp">northern mariana islands</option> -->
-	<!-- <option value="nor">norway</option> -->
-	<!-- <option value="omn">oman</option> -->
-	<!-- <option value="pak">pakistan</option> -->
-	<!-- <option value="plw">palau</option> -->
-	<!-- <option value="pse">palestinian territory, occupied</option> -->
-	<!-- <option value="pan">panama</option> -->
-	<!-- <option value="png">papua new guinea</option> -->
-	<!-- <option value="pry">paraguay</option> -->
-	<!-- <option value="per">peru</option> -->
-	<!-- <option value="phl">philippines</option> -->
-	<!-- <option value="pcn">pitcairn</option> -->
-	<!-- <option value="pol">poland</option> -->
-	<!-- <option value="prt">portugal</option> -->
-	<!-- <option value="pri">puerto rico</option> -->
-	<!-- <option value="qat">qatar</option> -->
-	<!-- <option value="reu">réunion</option> -->
-	<!-- <option value="rou">romania</option> -->
-	<!-- <option value="rus">russian federation</option> -->
-	<!-- <option value="rwa">rwanda</option> -->
-	<!-- <option value="blm">saint barthélemy</option> -->
-	<!-- <option value="shn">saint helena, ascension and tristan da cunha</option> -->
-	<!-- <option value="kna">saint kitts and nevis</option> -->
-	<!-- <option value="lca">saint lucia</option> -->
-	<!-- <option value="maf">saint martin (french part)</option> -->
-	<!-- <option value="spm">saint pierre and miquelon</option> -->
-	<!-- <option value="vct">saint vincent and the grenadines</option> -->
-	<!-- <option value="wsm">samoa</option> -->
-	<!-- <option value="smr">san marino</option> -->
-	<!-- <option value="stp">sao tome and principe</option> -->
-	<!-- <option value="sau">saudi arabia</option> -->
-	<!-- <option value="sen">senegal</option> -->
-	<!-- <option value="srb">serbia</option> -->
-	<!-- <option value="syc">seychelles</option> -->
-	<!-- <option value="sle">sierra leone</option> -->
-	<!-- <option value="sgp">singapore</option> -->
-	<!-- <option value="sxm">sint maarten (dutch part)</option> -->
-	<!-- <option value="svk">slovakia</option> -->
-	<!-- <option value="svn">slovenia</option> -->
-	<!-- <option value="slb">solomon islands</option> -->
-	<!-- <option value="som">somalia</option> -->
-	<!-- <option value="zaf">south africa</option> -->
-	<!-- <option value="sgs">south georgia and the south sandwich islands</option> -->
-	<!-- <option value="ssd">south sudan</option> -->
-	<!-- <option value="esp">spain</option> -->
-	<!-- <option value="lka">sri lanka</option> -->
-	<!-- <option value="sdn">sudan</option> -->
-	<!-- <option value="sur">suriname</option> -->
-	<!-- <option value="sjm">svalbard and jan mayen</option> -->
-	<!-- <option value="swz">swaziland</option> -->
-	<!-- <option value="swe">sweden</option> -->
-	<!-- <option value="che">switzerland</option> -->
-	<!-- <option value="syr">syrian arab republic</option> -->
-	<!-- <option value="twn">taiwan, province of china</option> -->
-	<!-- <option value="tjk">tajikistan</option> -->
-	<!-- <option value="tza">tanzania, united republic of</option> -->
-	<!-- <option value="tha">thailand</option> -->
-	<!-- <option value="tls">timor-leste</option> -->
-	<!-- <option value="tgo">togo</option> -->
-	<!-- <option value="tkl">tokelau</option> -->
-	<!-- <option value="ton">tonga</option> -->
-	<!-- <option value="tto">trinidad and tobago</option> -->
-	<!-- <option value="tun">tunisia</option> -->
-	<!-- <option value="tur">turkey</option> -->
-	<!-- <option value="tkm">turkmenistan</option> -->
-	<!-- <option value="tca">turks and caicos islands</option> -->
-	<!-- <option value="tuv">tuvalu</option> -->
-	<!-- <option value="uga">uganda</option> -->
-	<!-- <option value="ukr">ukraine</option> -->
-	<!-- <option value="are">united arab emirates</option> -->
-	<!-- <option value="gbr">united kingdom</option> -->
-	<!-- <option value="usa">united states</option> -->
-	<!-- <option value="umi">united states minor outlying islands</option> -->
-	<!-- <option value="ury">uruguay</option> -->
-	<!-- <option value="uzb">uzbekistan</option> -->
-	<!-- <option value="vut">vanuatu</option> -->
-	<!-- <option value="ven">venezuela, bolivarian republic of</option> -->
-	<!-- <option value="vnm">viet nam</option> -->
-	<!-- <option value="vgb">virgin islands, british</option> -->
-	<!-- <option value="vir">virgin islands, u.s.</option> -->
-	<!-- <option value="wlf">wallis and futuna</option> -->
-	<!-- <option value="esh">western sahara</option> -->
-	<!-- <option value="yem">yemen</option> -->
-	<!-- <option value="zmb">zambia</option> -->
-	<!-- <option value="zwe">zimbabwe</option> -->
       </select>
       <span id="help-nationaliteit" class="help-block">nationalité / nationality</span>
     </div>
@@ -624,4 +375,3 @@ sitemap: false
     </div>
   </div>
 </form>
-

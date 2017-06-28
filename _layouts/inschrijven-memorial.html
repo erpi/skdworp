@@ -29,5 +29,20 @@ layout: compress
       </div>
     </div>
     {% include footer.html %}
+    <script src="{{"/scripts/jsencrypt.min.js" | relative_url }}"></script>
+    <script>
+      function wijzigEmail() {
+        var pubkey = "-----BEGIN PUBLIC KEY-----
+        MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKsFQhvEQejvb0jvWyIlfUoIX24x37no
+        HR6uitQGYuAVQu5BVKhhWl6uultS50q1uIqKP+WaO7WEz+8/dIZa8VkCAwEAAQ==
+        -----END PUBLIC KEY-----";
+        var encrypt = new JSEncrypt();
+        encrypt.setPublicKey(pubkey);
+        var encrypted = encrypt.encrypt($('#e-mail').val());
+        $('<input>').attr('type', 'hidden').attr('name', 'fields[e-mail]').attr('value', encrypted).appendTo('#inschrijven');
+        return true;
+      }
+    </script>
+
   </body>
 </html>
