@@ -77,6 +77,10 @@ inschrijven:
   filename: "{@timestamp}-{fields.achternaam}-{fields.voornaam}"
   format: yaml
   generatedFields:
+    datum_inschrijving:
+      type: date
+      options:
+        format: "iso8601"
     doet_mee: true
     nieuwe_inschrijving: true
   moderation: false
@@ -91,6 +95,10 @@ invoeren:
   filename: "{@timestamp}-{fields.achternaam}-{fields.voornaam}"
   format: yaml
   generatedFields:
+    datum_inschrijving:
+      type: date
+      options:
+        format: "iso8601"
     doet_mee: true
     nieuwe_inschrijving: false
   moderation: false
