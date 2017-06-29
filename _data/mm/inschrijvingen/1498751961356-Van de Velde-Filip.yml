@@ -3,9 +3,9 @@ achternaam: Van de Velde
 voornaam: Filip
 geboortejaar: '1990'
 kbsb_id: '31682'
-kbsb_elo: '1802'
+kbsb_elo: '1692'
 fide_id: '221759'
-fide_elo: '1692'
+fide_elo: '1802'
 nationaliteit: bel
 titel: ''
 e-mail: >-
@@ -13,6 +13,6 @@ e-mail: >-
 date: 1498751961
 layout: post
 aanwezig: true
-nieuwe_inschrijving: true
+nieuwe_inschrijving: false
 doet_mee: true
 datum_inschrijving: '2017-06-29T15:59:21.356Z'
