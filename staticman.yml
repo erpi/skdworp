@@ -137,7 +137,7 @@ memorial-inschrijven:
   commitMessage: "nieuwe inschrijving mm - {fields.achternaam} {fields.voornaam}"
   
 memorial-invoeren:
-  allowedFields: ["achternaam", "voornaam", "e-mail", "geboortejaar", "kbsb_id", "kbsb_elo", "fide_id", "fide_elo", "nationaliteit", "titel", "doet_mee", "nieuwe_inschrijving"]
+  allowedFields: ["achternaam", "voornaam", "e-mail", "geboortejaar", "kbsb_id", "kbsb_elo", "fide_id", "fide_elo", "nationaliteit", "titel", "doet_mee", "nieuwe_inschrijving_bis"]
   branch: "gh-pages"
   filename: "{@timestamp}-{fields.achternaam}-{fields.voornaam}"
   format: yaml
