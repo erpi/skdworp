@@ -22,7 +22,7 @@ sitemap: false
         <th>nat</th>
         <th>titel</th>
         <th>invoerdatum</th>
-        <th>aanwezig</th>
+        <th>doet mee</th>
         <th>nieuw</th>
       </tr>
     </thead>
@@ -41,7 +41,7 @@ sitemap: false
         <td>{{ dn["nationaliteit"] }}</td>
         <td>{{ dn["titel"] }}</td>
         <td>{{ dn["date"] }}</td>
-        <td>{% if dn["aanwezig"] == true %}ja{% else %}nee{% endif %}</td>
+        <td>{% if dn["doet_mee"] == true %}ja{% else %}nee{% endif %}</td>
         <td>{% if dn["nieuwe_inschrijving"] == true %}ja{% else %}nee{% endif %}</td>
       </tr>
       {% endfor %}

@@ -19,7 +19,7 @@ sitemap: false
 {% endif %}
 
 {% assign oude_deelnemers = deelnemers | where:"nieuwe_inschrijving",false %}
-{% assign huidige_deelnemers = oude_deelnemers | where:"aanwezig",true %}
+{% assign huidige_deelnemers = oude_deelnemers | where:"doet_mee",true %}
 
 <h2>deelnemers</h2>
 <div class="table-responsive">
