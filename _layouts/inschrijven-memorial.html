@@ -40,6 +40,7 @@ layout: compress
         encrypt.setPublicKey(pubkey);
         var encrypted = encrypt.encrypt($('#e-mail').val());
         $('<input>').attr('type', 'hidden').attr('name', 'fields[e-mail]').attr('value', encrypted).appendTo('#inschrijven');
+      console.log($('#aanwezig').val());
         return true;
       }
     </script>
