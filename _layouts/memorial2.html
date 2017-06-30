@@ -1,0 +1,28 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="nl-BE">
+  <head>
+    {% include head.html %}
+    <link href="{{"/styles/site.min.css" | relative_url }}" rel="stylesheet">
+  </head>
+  <body>
+    <a href="#content" class="sr-only sr-only-focusable">￼doorgaan naar hoofdinhoud</a>
+    {% include navbar.html %}
+    <div class="container main-container" id="content" tabindex="-1">
+      <nav aria-label="terug naar info">
+        <ul class="pager">
+          <li class="previous">
+            <a href="{{ "/memorial/" | relative_url }}" style="font-size:larger;">
+              <span aria-hidden="true">&larr;</span> info pagina
+            </a>
+        </ul>
+      </nav>
+      {% if page.title %}<h1>{{ page.title | downcase }}</h1>{% endif %}
+      {% if page.subtitle %}<h2>{{ page.subtitle | downcase }}</h2>{% endif %}
+      {{ content }}
+    </div>
+      {% include footer.html %}
+  </body>
+</html>
