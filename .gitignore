@@ -4,3 +4,4 @@ _site
 negeren/
 node_modules/
 build-grunt/
+python-scripts/env
