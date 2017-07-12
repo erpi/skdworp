@@ -1,11 +1,11 @@
 _id: e53f9950-6665-11e7-9b06-05d55a32e74f
-achternaam: de reymaeker
-voornaam: walter
-geboortejaar: '1945'
-kbsb_id: '34584'
-kbsb_elo: ''
-fide_id: ''
-fide_elo: ''
+achternaam: De Reymaeker
+voornaam: Walter
+geboortejaar: 1945
+kbsb_id: 34584
+kbsb_elo: 1882
+fide_id: 208000
+fide_elo: 1848
 nationaliteit: bel
 titel: ''
 e-mail: >-
@@ -13,4 +13,4 @@ e-mail: >-
 date: '2017-07-11T18:22:28.625Z'
 datum_inschrijving: '2017-07-11T18:22:28.625Z'
 doet_mee: true
-nieuwe_inschrijving: true
+nieuwe_inschrijving: false
