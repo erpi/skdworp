@@ -1,27 +1,21 @@
 ---
-layout: memorial2
+layout: default
 title: Deelnemers Memorial 2017
 permalink: /mm-deelnemers/
 noindex: true
 sitemap: false
 ---
-{% assign deelnemers = site.data.mm["inschrijvingen"] %}
-{% assign nieuwe_deelnemers = deelnemers | where:"nieuwe_inschrijving",true %}
+{% assign deelnemers = site.data.mm.mm2017.deelnemers | where:"aanwezig","ja" | sort: "nationale elo", "last" %}
 
-{% assign aantal_nieuw = nieuwe_deelnemers | size %}
-{% if aantal_nieuw != 0 %}
-<h2>ontvangen inschrijvingen</h2>
-<ol style="font-size:larger;">
-{% for deelnemer in nieuwe_deelnemers %}
-<li> {{ deelnemer["achternaam"] | downcase}} {{ deelnemer["voornaam"] | downcase}}</li>
-{% endfor %}
-</ol>
-{% endif %}
+<nav aria-label="terug naar info">
+  <ul class="pager">
+    <li class="previous">
+      <a href="{{ "/memorial/" | relative_url }}" style="font-size:larger;">
+        <span aria-hidden="true">&larr;</span> info pagina
+      </a>
+  </ul>
+</nav>
 
-{% assign oude_deelnemers = deelnemers | where:"nieuwe_inschrijving",false %}
-{% assign huidige_deelnemers = oude_deelnemers | where:"doet_mee",true %}
-
-<h2>deelnemers</h2>
 <div class="table-responsive">
   <table class="table">
     <thead>
@@ -34,13 +28,13 @@ sitemap: false
       </tr>
     </thead>
     <tbody>
-      {% for deelnemer in huidige_deelnemers %}
+      {% for deelnemer in deelnemers %}
       <tr>
         <td>{{ forloop.index }}</td>
-        <td>{{ deelnemer["achternaam"] | downcase}}</td>
-        <td>{{ deelnemer["voornaam"] | downcase}}</td>
-        <td>{{ deelnemer["titel"] }}</td>
-        <td>{{ deelnemer["kbsb_elo"] }}</td>
+        <td>{{ deelnemer.achternaam | downcase}}</td>
+        <td>{{ deelnemer.voornaam | downcase}}</td>
+        <td>{{ deelnemer.schaaktitel | downcase }}</td>
+        <td>{{ deelnemer["nationale elo"] }}</td>
       </tr>
       {% endfor %}
     </tbody>

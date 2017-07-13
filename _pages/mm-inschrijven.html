@@ -5,12 +5,12 @@ permalink: /mm-inschrijven/
 noindex: true
 sitemap: false
 ---
-<form class="form-horizontal" method="post" onsubmit="return wijzigEmail()"
+<form class="form-horizontal" method="post" 
       id="inschrijven"
-      action="https://api.staticman.net/v2/entry/erpi/skdworp/gh-pages/inschrijven">
-  <input type="hidden" name="options[redirect]"
-         value="{{ site.url }}/mm-bevestiging/">
-  <input type="hidden" name="options[origin]" value="{{ site.url }}">
+      action="https://docs.google.com/forms/d/e/1FAIpQLSdsYfYL4W92_Xpp307FyQdCmhiepp7WtJm7bWRq6vbMVSXX_Q/formResponse">
+
+  <input name="emailReceipt" value="true" type="hidden">
+  
   <div class="form-group">
     <div class="col-sm-offset-3 col-sm-9">
       <p class="vet form-control-static">
@@ -23,7 +23,7 @@ sitemap: false
   <div class="form-group required klein">
     <label class="control-label col-sm-3" for="achternaam">achternaam:</label>
     <div class="col-sm-9">
-      <input required class="form-control input-sm" id="achternaam" name="fields[achternaam]"
+      <input required class="form-control input-sm" id="achternaam" name="entry.408805176"
              type="text" aria-describedby="help-achternaam">
       <span id="help-achternaam" class="help-block">nom / last name</span>
     </div>
@@ -32,7 +32,7 @@ sitemap: false
   <div class="form-group required klein">
     <label class="control-label col-sm-3" for="voornaam">voornaam:</label>
     <div class="col-sm-9">
-      <input required class="form-control input-sm" id="voornaam" name="fields[voornaam]"
+      <input required class="form-control input-sm" id="voornaam" name="entry.1086172822"
              type="text" aria-describedby="help-voornaam">
       <span id="help-voornaam" class="help-block">prénom / first name</span>
     </div>
@@ -41,7 +41,7 @@ sitemap: false
   <div class="form-group required klein">
     <label class="control-label col-sm-3" for="e-mail">e-mailadres:</label>
     <div class="col-sm-9">
-      <input required class="form-control input-sm" id="e-mail"
+      <input required class="form-control input-sm" id="e-mail" name="entry.1612129773"
              type="email" aria-describedby="help-e-mail">
       <span id="help-e-mail" class="help-block">adresse e-mail / email address</span>
     </div>
@@ -51,7 +51,7 @@ sitemap: false
     <label class="control-label col-sm-3" for="geboortejaar">geboortejaar:</label>
     <div class="col-sm-4">
       <input required class="form-control input-sm" id="geboortejaar"
-             name="fields[geboortejaar]" type="text"
+             name="entry.2135799414" type="text"
              aria-describedby="help-geboortejaar">
       <span id="help-geboortejaar" class="help-block">année de naissance / year of birth</span>
     </div>
@@ -60,14 +60,14 @@ sitemap: false
   <div class="form-group klein">
     <label class="control-label col-sm-3" for="kbsb_id">stamnummer kbsb:</label>
     <div class="col-sm-4">
-      <input class="form-control input-sm" id="kbsb_id" name="fields[kbsb_id]"
+      <input class="form-control input-sm" id="kbsb_id" name="entry.420072020"
              type="text" aria-describedby="help-kbsb-id">
       <span id="help-kbsb-id" class="help-block">matricule frbe / belgian federation id</span>
     </div>
 
     <label class="control-label col-sm-2" for="kbsb_elo">nationale elo:</label>
     <div class="col-sm-3">
-      <input class="form-control input-sm" id="kbsb_elo" name="fields[kbsb_elo]"
+      <input class="form-control input-sm" id="kbsb_elo" name="entry.1868859642"
              type="text" aria-describedby="help-kbsb-elo">
       <span id="help-kbsb-elo" class="help-block">elo national / national rating</span>
     </div>
@@ -76,14 +76,14 @@ sitemap: false
   <div class="form-group klein">
     <label class="control-label col-sm-3" for="fide_id">stamnummer fide:</label>
     <div class="col-sm-4">
-      <input class="form-control input-sm" id="fide_id" name="fields[fide_id]"
+      <input class="form-control input-sm" id="fide_id" name="entry.1072013982"
              type="text" aria-describedby="help-fide-id">
       <span id="help-fide-id" class="help-block">matricule fidé / fide id code</span>
     </div>
 
     <label class="control-label col-sm-2" for="fide_elo">fide elo:</label>
     <div class="col-sm-3">
-      <input class="form-control input-sm" id="fide_elo" name="fields[fide_elo]"
+      <input class="form-control input-sm" id="fide_elo" name="entry.1606057064"
              type="text" aria-describedby="help-fide-elo">
       <span id="help-fide-elo" class="help-block">elo fidé / fide rating</span>
     </div>
@@ -93,7 +93,7 @@ sitemap: false
     <label class="control-label col-sm-3" for="nationaliteit">nationaliteit:</label>
     <div class="col-sm-4">
       <select class="form-control input-sm" id="nationaliteit"
-              name="fields[nationaliteit]" aria-describedby="help-nationaliteit">
+              name="entry.322181207" aria-describedby="help-nationaliteit">
         <option value="" label="onbekend"></option>
 	<option>abw</option>
 	<option>afg</option>
@@ -356,7 +356,7 @@ sitemap: false
     <label class="control-label col-sm-2" for="titel">schaaktitel:</label>
     <div class="col-sm-3">
       <select class="form-control input-sm" id="titel"
-              name="fields[titel]" aria-describedby="help-titel">
+              name="entry.192472377" aria-describedby="help-titel">
         <option value="" label="geen" selected></option>
         <option value="fm">fm</option>
         <option value="im">im</option>
