@@ -5,7 +5,7 @@ permalink: /mm-deelnemers/
 noindex: true
 sitemap: false
 ---
-{% assign deelnemers = site.data.mm.mm2017.deelnemers | where:"aanwezig","ja" | sort: "nationale elo", "last" %}
+{% assign deelnemers = site.data.mm.mm2017.deelnemers | where:"aanwezig","ja" | sort: "nationale elo", "first" | reverse %}
 
 <nav aria-label="terug naar info">
   <ul class="pager">
