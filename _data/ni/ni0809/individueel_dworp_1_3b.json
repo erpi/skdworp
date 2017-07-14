@@ -1,0 +1,200 @@
+[
+  {
+    "ronde": "1",
+    "datum": "05-10-2008",
+    "thuis": "228 Dworp 1",
+    "uit": "472 Mercatel Sint-Amandsberg 1",
+    "tscore": "14",
+    "uscore": "10",
+    "tgem": "2048",
+    "ugem": "2005",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Vanderwaeren Serge", "uspeler": "Willen Benny", "telo": "2257", "uelo": "2129", "tstam": "20621", "ustam": "40568"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Mechelen Jan", "uspeler": "Mahieu Rimsky", "telo": "2253", "uelo": "2124", "tstam": "14354", "ustam": "29327"},
+      {"tr": "1", "ur": "0", "tspeler": "Heynen Koen", "uspeler": "Van De Vyver Dirk", "telo": "2031", "uelo": "2075", "tstam": "27413", "ustam": "48950"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Denys Frank", "uspeler": "Six Stefaan", "telo": "2021", "uelo": "1948", "tstam": "21881", "ustam": "34843"},
+      {"tr": "1", "ur": "0", "tspeler": "Lot Diederik", "uspeler": "Heemeryck Johan", "telo": "1900", "uelo": "1910", "tstam": "9954", "ustam": "20842"},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "Heeffer Albrecht", "telo": "1825", "uelo": "1845", "tstam": "353", "ustam": "97390"}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "19-10-2008",
+    "thuis": "228 Dworp 1",
+    "uit": "278 Pantin 1",
+    "tscore": "12",
+    "uscore": "12",
+    "tgem": "2044",
+    "ugem": "1986",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren Serge", "uspeler": "Thiteca Thierry", "telo": "2257", "uelo": "2112", "tstam": "20621", "ustam": "25186"},
+      {"tr": "1", "ur": "0", "tspeler": "Van Mechelen Jan", "uspeler": "Jacobs Antoine", "telo": "2253", "uelo": "2047", "tstam": "14354", "ustam": "50571"},
+      {"tr": "0", "ur": "1", "tspeler": "Heynen Koen", "uspeler": "Rousseau Benoit", "telo": "2031", "uelo": "2014", "tstam": "27413", "ustam": "93548"},
+      {"tr": "0", "ur": "1", "tspeler": "Denys Frank", "uspeler": "Scoriels Michael", "telo": "2021", "uelo": "1971", "tstam": "21881", "ustam": "77950"},
+      {"tr": "1", "ur": "0", "tspeler": "Lot Diederik", "uspeler": "Onrubia-Aviles Carlos", "telo": "1900", "uelo": "1925", "tstam": "9954", "ustam": "85103"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Ertveldt Pieter", "uspeler": "De Merode Rodolphe", "telo": "1800", "uelo": "1846", "tstam": "48097", "ustam": "89460"}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "02-11-2008",
+    "thuis": "601 CRELEL 3",
+    "uit": "228 Dworp 1",
+    "tscore": "13",
+    "uscore": "11",
+    "tgem": "1994",
+    "ugem": "2027",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Degueldre Philippe", "uspeler": "Vanderwaeren Serge", "telo": "2171", "uelo": "2257", "tstam": "67288", "ustam": "20621"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Marville Gregoire", "uspeler": "Van Mechelen Jan", "telo": "2070", "uelo": "2253", "tstam": "85511", "ustam": "14354"},
+      {"tr": "1", "ur": "0", "tspeler": "Thiry Jean-Christophe", "uspeler": "Heynen Koen", "telo": "2040", "uelo": "2031", "tstam": "64386", "ustam": "27413"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Remont Leopold", "uspeler": "Denys Frank", "telo": "1995", "uelo": "2021", "tstam": "2411", "ustam": "21881"},
+      {"tr": "1", "ur": "0", "tspeler": "Wlogalski Olivier", "uspeler": "Maeckelbergh Geert", "telo": "1984", "uelo": "1818", "tstam": "78069", "ustam": "43419"},
+      {"tr": "0", "ur": "1", "tspeler": "Stefaniak Nicolas", "uspeler": "Debast Patrick", "telo": "1705", "uelo": "1784", "tstam": "60371", "ustam": "76333"}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "23-11-2008",
+    "thuis": "228 Dworp 1",
+    "uit": "548 Ca\u00efssa Europe 1 ",
+    "tscore": "16",
+    "uscore": "8",
+    "tgem": "2047",
+    "ugem": "1983",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "Smailovic Omer", "telo": "2257", "uelo": "2159", "tstam": "20621", "ustam": "79804"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Mechelen Jan", "uspeler": "Semlali Hassan", "telo": "2253", "uelo": "2129", "tstam": "14354", "ustam": "63291"},
+      {"tr": "1", "ur": "0", "tspeler": "Heynen Koen", "uspeler": "Degrave Geoffrey", "telo": "2031", "uelo": "2020", "tstam": "27413", "ustam": "81388"},
+      {"tr": "1", "ur": "0", "tspeler": "Denys Frank", "uspeler": "Canneel Daniel", "telo": "2021", "uelo": "1989", "tstam": "21881", "ustam": "50113"},
+      {"tr": "1", "ur": "0", "tspeler": "Lot Diederik", "uspeler": "Schurins Thomas", "telo": "1900", "uelo": "1889", "tstam": "9954", "ustam": "93637"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh Geert", "uspeler": "Vicainne Jerome", "telo": "1818", "uelo": "1714", "tstam": "43419", "ustam": "91472"}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "07-12-2008",
+    "thuis": "506 Mons 2",
+    "uit": "228 Dworp 1",
+    "tscore": "10",
+    "uscore": "14",
+    "tgem": "1785",
+    "ugem": "2029",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Hias Ludovic", "uspeler": "Vanderwaeren Serge", "telo": "1998", "uelo": "2257", "tstam": "79316", "ustam": "20621"},
+      {"tr": "0", "ur": "1", "tspeler": "Lhost Geoffrey", "uspeler": "Van Mechelen Jan", "telo": "1955", "uelo": "2253", "tstam": "60747", "ustam": "14354"},
+      {"tr": "1", "ur": "0", "tspeler": "Lui Eric", "uspeler": "Heynen Koen", "telo": "1878", "uelo": "2031", "tstam": "81981", "ustam": "27413"},
+      {"tr": "0", "ur": "1", "tspeler": "Rousseau Jean-Fran\u00e7ois", "uspeler": "Denys Frank", "telo": "1786", "uelo": "2021", "tstam": "75418", "ustam": "21881"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Pitropakis Kyriakos", "uspeler": "Maeckelbergh Mieke", "telo": "1605", "uelo": "1825", "tstam": "43605", "ustam": "353"},
+      {"tr": "0", "ur": "1", "tspeler": "Van de Water Marc", "uspeler": "Debast Patrick", "telo": "1485", "uelo": "1784", "tstam": "78093", "ustam": "76333"}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "04-01-2009",
+    "thuis": "228 Dworp 1",
+    "uit": "260 Humbeek 1",
+    "tscore": "9",
+    "uscore": "15",
+    "tgem": "2048",
+    "ugem": "2045",
+    "borden": [
+      {"tr": "0", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "Van Den Berkmortel Theo", "telo": "2257", "uelo": "2276", "tstam": "20621", "ustam": "53562"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Mechelen Jan", "uspeler": "Rogiers Jan", "telo": "2253", "uelo": "2133", "tstam": "14354", "ustam": "48569"},
+      {"tr": "1", "ur": "0", "tspeler": "Heynen Koen", "uspeler": "Reyniers Pieter", "telo": "2031", "uelo": "2035", "tstam": "27413", "ustam": "50628"},
+      {"tr": "0", "ur": "1", "tspeler": "Denys Frank", "uspeler": "Van Cappellen Jonas", "telo": "2021", "uelo": "2026", "tstam": "21881", "ustam": "1988"},
+      {"tr": "0", "ur": "1", "tspeler": "Lot Diederik", "uspeler": "Schrevens Birger", "telo": "1900", "uelo": "2003", "tstam": "9954", "ustam": "10421"},
+      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Mieke", "uspeler": "De Ridder Dieter", "telo": "1825", "uelo": "1799", "tstam": "353", "ustam": "50491"}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "18-01-2009",
+    "thuis": "952 Wavre 2",
+    "uit": "228 Dworp 1",
+    "tscore": "11",
+    "uscore": "12",
+    "tgem": "1954",
+    "ugem": "2041",
+    "borden": [
+      {"tr": "1", "ur": "ff", "tspeler": "Vingerhoets Luc", "uspeler": "Vanderwaeren Serge", "telo": "2113", "uelo": "2257", "tstam": "86479", "ustam": "20621"},
+      {"tr": "0", "ur": "1", "tspeler": "Guebel Yves", "uspeler": "Van Mechelen Jan", "telo": "2036", "uelo": "2253", "tstam": "89591", "ustam": "14354"},
+      {"tr": "1", "ur": "0", "tspeler": "Brouri Mohand", "uspeler": "Heynen Koen", "telo": "2017", "uelo": "2031", "tstam": "61875", "ustam": "27413"},
+      {"tr": "0", "ur": "1", "tspeler": "Macai Ioan", "uspeler": "Denys Frank", "telo": "1952", "uelo": "2021", "tstam": "92312", "ustam": "21881"},
+      {"tr": "0", "ur": "1", "tspeler": "Vanden Berghe Gregory", "uspeler": "Lot Diederik", "telo": "1888", "uelo": "1900", "tstam": "85979", "ustam": "9954"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lenoir Thierry", "uspeler": "Cornelis Eric", "telo": "1719", "uelo": "1783", "tstam": "60275", "ustam": "76317"}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "01-02-2009",
+    "thuis": "228 Dworp 1",
+    "uit": "401 KGSRL Gent 3",
+    "tscore": "13",
+    "uscore": "11",
+    "tgem": "2045",
+    "ugem": "1914",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren Serge", "uspeler": "Deman Stefaan", "telo": "2257", "uelo": "2143", "tstam": "20621", "ustam": "50229"},
+      {"tr": "1", "ur": "0", "tspeler": "Van Mechelen Jan", "uspeler": "Vercruysse Vincent", "telo": "2253", "uelo": "1931", "tstam": "14354", "ustam": "11886"},
+      {"tr": "1", "ur": "0", "tspeler": "Heynen Koen", "uspeler": "Vanson Marc", "telo": "2031", "uelo": "1920", "tstam": "27413", "ustam": "22837"},
+      {"tr": "1", "ur": "0", "tspeler": "Denys Frank", "uspeler": "Roels Frederik", "telo": "2021", "uelo": "1886", "tstam": "21881", "ustam": "22659"},
+      {"tr": "0", "ur": "1", "tspeler": "Lot Diederik", "uspeler": "Vergauwen Bart", "telo": "1900", "uelo": "1807", "tstam": "9954", "ustam": "45080"},
+      {"tr": "0", "ur": "1", "tspeler": "van Duuren Louis", "uspeler": "Bunkens Rudi", "telo": "1810", "uelo": "1794", "tstam": "26816", "ustam": "29467"}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "15-02-2009",
+    "thuis": "501 CRE Charleroi 3",
+    "uit": "228 Dworp 1",
+    "tscore": "14",
+    "uscore": "10",
+    "tgem": "1982",
+    "ugem": "2028",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Lafosse Jimmy", "uspeler": "Vanderwaeren Serge", "telo": "2112", "uelo": "2257", "tstam": "73270", "ustam": "20621"},
+      {"tr": "0", "ur": "1", "tspeler": "Fosset Fran\u00e7ois", "uspeler": "Van Mechelen Jan", "telo": "1992", "uelo": "2253", "tstam": "79901", "ustam": "14354"},
+      {"tr": "1", "ur": "0", "tspeler": "Godart Fran\u00e7ois", "uspeler": "Heynen Koen", "telo": "1985", "uelo": "2031", "tstam": "71757", "ustam": "27413"},
+      {"tr": "1", "ur": "0", "tspeler": "Bruno Ricardo", "uspeler": "Denys Frank", "telo": "1951", "uelo": "2021", "tstam": "82635", "ustam": "21881"},
+      {"tr": "1", "ur": "0", "tspeler": "Krasucki Youri", "uspeler": "Maeckelbergh Mieke", "telo": "1940", "uelo": "1825", "tstam": "88323", "ustam": "353"},
+      {"tr": "1", "ur": "0", "tspeler": "Real Thibault", "uspeler": "Cornelis Eric", "telo": "1912", "uelo": "1783", "tstam": "66249", "ustam": "76317"}
+    ]
+  },
+  {
+    "ronde": "10",
+    "datum": "08-03-2009",
+    "thuis": "228 Dworp 1",
+    "uit": "901 Namur 3",
+    "tscore": "12",
+    "uscore": "12",
+    "tgem": "2026",
+    "ugem": "2032",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren Serge", "uspeler": "Uhoda Philippe", "telo": "2257", "uelo": "2153", "tstam": "20621", "ustam": "63011"},
+      {"tr": "1", "ur": "0", "tspeler": "Van Mechelen Jan", "uspeler": "Verspecht Thierry", "telo": "2253", "uelo": "2086", "tstam": "14354", "ustam": "84255"},
+      {"tr": "1", "ur": "0", "tspeler": "Heynen Koen", "uspeler": "Lejeune Vincent", "telo": "2031", "uelo": "2042", "tstam": "27413", "ustam": "62561"},
+      {"tr": "0", "ur": "1", "tspeler": "Denys Frank", "uspeler": "Andre Damien", "telo": "2021", "uelo": "2041", "tstam": "21881", "ustam": "69744"},
+      {"tr": "0", "ur": "1", "tspeler": "van Duuren Louis", "uspeler": "Laurent Michel", "telo": "1810", "uelo": "2040", "tstam": "26816", "ustam": "45110"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Aubert Bernard", "telo": "1783", "uelo": "1832", "tstam": "76317", "ustam": "66419"}
+    ]
+  },
+  {
+    "ronde": "11",
+    "datum": "22-03-2009",
+    "thuis": "430 Landegem 1",
+    "uit": "228 Dworp 1",
+    "tscore": "12",
+    "uscore": "12",
+    "tgem": "1986",
+    "ugem": "1991",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Bosschem Tim", "uspeler": "Vanderwaeren Serge", "telo": "2097", "uelo": "2257", "tstam": "10553", "ustam": "20621"},
+      {"tr": "0", "ur": "1", "tspeler": "Philips Richard", "uspeler": "Van Mechelen Jan", "telo": "2080", "uelo": "2253", "tstam": "25518", "ustam": "14354"},
+      {"tr": "1", "ur": "0", "tspeler": "Danckaert Luk", "uspeler": "Denys Frank", "telo": "2075", "uelo": "2021", "tstam": "8273", "ustam": "21881"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Bonne Ronny", "uspeler": "Lot Diederik", "telo": "2074", "uelo": "1900", "tstam": "34746", "ustam": "9954"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanhauwaert Kurt", "uspeler": "Cornelis Eric", "telo": "1815", "uelo": "1783", "tstam": "46639", "ustam": "76317"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Grootaert Luc", "uspeler": "Malfliet Bernard", "telo": "1772", "uelo": "1734", "tstam": "29271", "ustam": "31348"}
+    ]
+  }
+]

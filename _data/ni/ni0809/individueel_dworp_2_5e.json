@@ -1,0 +1,168 @@
+[
+  {
+    "ronde": "1",
+    "datum": "05-10-2008",
+    "thuis": "228 Dworp 2",
+    "uit": "209 Chess Club Ca\u00efssa 5",
+    "tscore": "9",
+    "uscore": "7",
+    "tgem": "1764",
+    "ugem": "1563",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Grede Manfred ", "telo": "1826", "uelo": "1563", "tstam": "31526", "ustam": "92622"},
+      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "Bachir John", "telo": "1810", "uelo": "n.g.", "tstam": "26816", "ustam": "50277"},
+      {"tr": "1", "ur": "0", "tspeler": "Ertveldt Pieter", "uspeler": "Vanham Nicolas", "telo": "1800", "uelo": "n.g.", "tstam": "48097", "ustam": "50140"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Carrette Bernard", "uspeler": "Vanham Christophe", "telo": "1619", "uelo": "n.g.", "tstam": "11226", "ustam": "50135"}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "19-10-2008",
+    "thuis": "228 Dworp 2",
+    "uit": "401 KGSRL Gent 13",
+    "tscore": "8",
+    "uscore": "8",
+    "tgem": "1753",
+    "ugem": "1461",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Verhasselt Jimmy", "telo": "1826", "uelo": "1560", "tstam": "31526", "ustam": "23507"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Bleyaert Tom", "telo": "1784", "uelo": "1557", "tstam": "76333", "ustam": "35262"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "De Clercq Geert", "telo": "1783", "uelo": "1523", "tstam": "76317", "ustam": "39888"},
+      {"tr": "1", "ur": "0", "tspeler": "Carrette Bernard", "uspeler": "Hugaert Daan", "telo": "1619", "uelo": "1202", "tstam": "11226", "ustam": "9547"}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "02-11-2008",
+    "thuis": "471 Wachtebeke 3",
+    "uit": "228 Dworp 2",
+    "tscore": "6",
+    "uscore": "9",
+    "tgem": "1578",
+    "ugem": "1760",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Dhuyvetter Frederik", "uspeler": "Mertens Fran\u00e7ois", "telo": "1796", "uelo": "1826", "tstam": "22039", "ustam": "31526"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verschraegen Thomas", "uspeler": "van Duuren Louis", "telo": "1673", "uelo": "1810", "tstam": "34517", "ustam": "26816"},
+      {"tr": "0", "ur": "1", "tspeler": "Dhuyvetter Koen", "uspeler": "Cornelis Eric", "telo": "1672", "uelo": "1783", "tstam": "21857", "ustam": "76317"},
+      {"tr": "ff", "ur": "1", "tspeler": "Langenhuysen Timothy", "uspeler": "Carrette Bernard", "telo": "1170", "uelo": "1619", "tstam": "11402", "ustam": "11226"}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "23-11-2008",
+    "thuis": "228 Dworp 2",
+    "uit": "475 Aalter 7",
+    "tscore": "11",
+    "uscore": "5",
+    "tgem": "1798",
+    "ugem": "1237",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Bockaert Jan", "telo": "1826", "uelo": "1592", "tstam": "31526", "ustam": "47317"},
+      {"tr": "1", "ur": "0", "tspeler": "Ertveldt Pieter", "uspeler": "Demey Robbe", "telo": "1800", "uelo": "1204", "tstam": "48097", "ustam": "10186"},
+      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Nys Jonas", "telo": "1784", "uelo": "1090", "tstam": "76333", "ustam": "10140"},
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis Eric", "uspeler": "De Geeter Arne", "telo": "1783", "uelo": "1060", "tstam": "76317", "ustam": "11712"}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "07-12-2008",
+    "thuis": "249 Ruisbroek 1",
+    "uit": "228 Dworp 2",
+    "tscore": "6",
+    "uscore": "10",
+    "tgem": "1375",
+    "ugem": "1803",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Huysman Robert", "uspeler": "Maeckelbergh Geert", "telo": "1559", "uelo": "1818", "tstam": "15482", "ustam": "43419"},
+      {"tr": "0", "ur": "1", "tspeler": "Noynaert Marc", "uspeler": "van Duuren Louis", "telo": "1358", "uelo": "1810", "tstam": "49328", "ustam": "26816"},
+      {"tr": "1", "ur": "0", "tspeler": "De Ridder Patrick", "uspeler": "Ertveldt Pieter", "telo": "1333", "uelo": "1800", "tstam": "4782", "ustam": "48097"},
+      {"tr": "0", "ur": "1", "tspeler": "Braeckman Peter", "uspeler": "Cornelis Eric", "telo": "1249", "uelo": "1783", "tstam": "21211", "ustam": "76317"}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "04-01-2009",
+    "thuis": "228 Dworp 2",
+    "uit": "260 Humbeek 5",
+    "tscore": "8",
+    "uscore": "7",
+    "tgem": "1809",
+    "ugem": "1335",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Wauters Johan", "telo": "1826", "uelo": "1537", "tstam": "31526", "ustam": "27359"},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Geert", "uspeler": "Serneels Jo", "telo": "1818", "uelo": "1276", "tstam": "43419", "ustam": "31658"},
+      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "Van Nooten Erik", "telo": "1810", "uelo": "1373", "tstam": "26816", "ustam": "54585"},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Van Hauwermeiren Kwinten", "telo": "1783", "uelo": "1152", "tstam": "76317", "ustam": "11024"}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "18-01-2009",
+    "thuis": "bye",
+    "uit": "228 Dworp 2",
+    "tscore": "",
+    "uscore": "",
+    "tgem": "",
+    "ugem": "",
+    "borden": []
+  },
+  {
+    "ronde": "8",
+    "datum": "01-02-2009",
+    "thuis": "228 Dworp 2",
+    "uit": "401 KGSRL Gent 14",
+    "tscore": "12",
+    "uscore": "4",
+    "tgem": "1803",
+    "ugem": "1400",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Dooms Vincent", "telo": "1826", "uelo": "1487", "tstam": "31526", "ustam": "27189"},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Geert", "uspeler": "Vandecasteele Reimond", "telo": "1818", "uelo": "1449", "tstam": "43419", "ustam": "21989"},
+      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Traest Philip", "telo": "1784", "uelo": "1432", "tstam": "76333", "ustam": "6190"},
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis Eric", "uspeler": "Picqueur Eric", "telo": "1783", "uelo": "1233", "tstam": "76317", "ustam": "24015"}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "15-02-2009",
+    "thuis": "226 Europchess 1",
+    "uit": "228 Dworp 2",
+    "tscore": "12",
+    "uscore": "4",
+    "tgem": "2093",
+    "ugem": "1764",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Hoffmeister Frank", "uspeler": "Mertens Fran\u00e7ois", "telo": "2198", "uelo": "1826", "tstam": "81558", "ustam": "31526"},
+      {"tr": "1", "ur": "0", "tspeler": "Czuczai Jeno", "uspeler": "van Duuren Louis", "telo": "2169", "uelo": "1810", "tstam": "60319", "ustam": "26816"},
+      {"tr": "1", "ur": "0", "tspeler": "Barta Jozsef", "uspeler": "Ertveldt Pieter", "telo": "2155", "uelo": "1800", "tstam": "50151", "ustam": "48097"},
+      {"tr": "1", "ur": "0", "tspeler": "Palk Paavo", "uspeler": "Carrette Bernard", "telo": "1850", "uelo": "1619", "tstam": "50144", "ustam": "11226"}
+    ]
+  },
+  {
+    "ronde": "10",
+    "datum": "08-03-2009",
+    "thuis": "228 Dworp 2",
+    "uit": "bye",
+    "tscore": "",
+    "uscore": "",
+    "tgem": "",
+    "ugem": "",
+    "borden": []
+  },
+  {
+    "ronde": "11",
+    "datum": "22-03-2009",
+    "thuis": "418 Geraardsbergen 2",
+    "uit": "228 Dworp 2",
+    "tscore": "8",
+    "uscore": "8",
+    "tgem": "1813",
+    "ugem": "1760",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "De Moyer Karel", "uspeler": "Mertens Fran\u00e7ois", "telo": "1931", "uelo": "1826", "tstam": "56782", "ustam": "31526"},
+      {"tr": "0", "ur": "1", "tspeler": "Matthijs Luc", "uspeler": "De Bosscher Peter", "telo": "1815", "uelo": "1812", "tstam": "19208", "ustam": "655"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Flamee Dirk", "uspeler": "Debast Patrick", "telo": "1764", "uelo": "1784", "tstam": "19135", "ustam": "76333"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lallemand Paul", "uspeler": "Carrette Bernard", "telo": "1741", "uelo": "1619", "tstam": "61476", "ustam": "11226"}
+    ]
+  }
+]
