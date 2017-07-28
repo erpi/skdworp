@@ -12,9 +12,10 @@ import codecs
 
 
 class generator:
-    def __init__(self, seizoen, verbosity=False):
+    def __init__(self, seizoen, geen_kruistabel=False, verbosity=False):
         # definieer namen van bestanden en mappen
         self._ni_directory = "../_data/ni/" + seizoen + "/"
+        self._geen_kruistabel = geen_kruistabel
         self._verbosity = verbosity
         self._pages_directory = "../_interclubs/"
         self._excel_filename = "individueel_eindstand_dworp_"
@@ -132,6 +133,9 @@ class generator:
                 del rijen[-1]
                 for rij in rijen:
                     del rij[-3]
+            # maak een gewone eindstand, geen kruistabel
+            if self._geen_kruistabel:
+                rijen = [rij[0:2] + rij[-2:] for rij in rijen]
             # verwijder lege tabel
             if rijen[-1][1] == 'team':
                 rijen = []
@@ -395,13 +399,15 @@ if __name__ == "__main__":
                         help="maak json-bestand met individuele resultaten "
                         "van ploegnummer")
     parser.add_argument("-c", "--csv", type=int, choices=[0, 1, 2, 3, 4],
-                        help="maak csv-bestand met kruistabel van ploegnummer")
+                        help="maak csv-bestand met eindstand van ploegnummer")
+    parser.add_argument("-s", "--summier", action="store_true",
+                        help="eindstand bevat enkel totalen, geen onderlinge resultaten")
     parser.add_argument("-a", "--alles", action="store_true",
                         help="doe alles in eens")
     parser.add_argument("-v", "--verbose", action="store_true",
                         help="geef ook output in de console")
     args = parser.parse_args()
-    g = generator(args.seizoen, args.verbose)
+    g = generator(args.seizoen, args.summier, args.verbose)
     if args.alles:
         print "doe alles"
         g.valideer()
