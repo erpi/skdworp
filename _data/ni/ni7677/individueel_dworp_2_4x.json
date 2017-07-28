@@ -1,0 +1,146 @@
+[
+  {
+    "ronde": "1",
+    "datum": "09-01-1977",
+    "thuis": "228 Dworp 2",
+    "uit": "229 Ca\u00efssa Woluwe",
+    "tscore": "1",
+    "uscore": "3",
+    "tgem": "",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Malfliet Koen", "uspeler": "Beulens V", "telo": "ng", "uelo": "", "tstam": "64327", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Brancart Marc", "uspeler": "Linssens F", "telo": "ng", "uelo": "", "tstam": "nm", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Dlugoszewsky Jos\u00e9", "telo": "ng", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Ibel G", "telo": "ng", "uelo": "", "tstam": "76333", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "23-01-1977",
+    "thuis": "514 Fontaine l' Ev\u00e8que",
+    "uit": "228 Dworp 2",
+    "tscore": "3.5",
+    "uscore": "0.5",
+    "tgem": "",
+    "ugem": "1032",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Janssens R", "uspeler": "Freson Jan", "telo": "", "uelo": "1032", "tstam": "", "ustam": "nm"},
+      {"tr": "1", "ur": "0", "tspeler": "Ducruet E", "uspeler": "Baekeland Pieter", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99903"},
+      {"tr": "1", "ur": "0", "tspeler": "Quenon D", "uspeler": "Brancart Marc", "telo": "", "uelo": "ng", "tstam": "", "ustam": "nm"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Canteri Luc", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "ng", "tstam": "", "ustam": "76325"}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "06-02-1977",
+    "thuis": "228 Dworp 2",
+    "uit": "506 Mons",
+    "tscore": "1",
+    "uscore": "3",
+    "tgem": "1032",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Freson Jan", "uspeler": "Tyrant P", "telo": "1032", "uelo": "", "tstam": "nm", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Brancart Marc", "uspeler": "Lemoine Andr\u00e9", "telo": "ng", "uelo": "", "tstam": "nm", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Waroquier P", "telo": "ng", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Billemont W", "telo": "ng", "uelo": "", "tstam": "76333", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "10-02-1977",
+    "thuis": "228 Dworp 2",
+    "uit": "Alfil Negro",
+    "tscore": "4",
+    "uscore": "0",
+    "tgem": "",
+    "ugem": "",
+    "borden": [
+      {"tr": "", "ur": "", "tspeler": "", "uspeler": "ff", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "", "ur": "", "tspeler": "", "uspeler": "ff", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "", "ur": "", "tspeler": "", "uspeler": "ff", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "", "ur": "", "tspeler": "", "uspeler": "ff", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "06-03-1977",
+    "thuis": "228 Dworp 2",
+    "uit": "518 Soignies",
+    "tscore": "0.5",
+    "uscore": "3.5",
+    "tgem": "1183",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Debelder Willy", "uspeler": "Canneel Michel", "telo": "1183", "uelo": "", "tstam": "nm", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Brancart Marc", "uspeler": "Coppens Jean", "telo": "ng", "uelo": "", "tstam": "nm", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Briggs Georges", "telo": "ng", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Coppens R", "telo": "ng", "uelo": "", "tstam": "76333", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "20-03-1977",
+    "thuis": "228 Dworp 2",
+    "uit": "517 Flobecq",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Baekeland Pieter", "uspeler": "Masure Luc", "telo": "ng", "uelo": "", "tstam": "99903", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Malfliet Koen", "uspeler": "Meersschaert J", "telo": "ng", "uelo": "", "tstam": "64327", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Pletinckx Eddy", "uspeler": "Verbeelte Filip", "telo": "ng", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Robinson", "telo": "ng", "uelo": "", "tstam": "76333", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "27-03-1977",
+    "thuis": "501 CRE Charleroi 3",
+    "uit": "228 Dworp 2",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Roman Y", "uspeler": "Malfliet Koen", "telo": "", "uelo": "ng", "tstam": "", "ustam": "64327"},
+      {"tr": "0", "ur": "1", "tspeler": "Renaud C", "uspeler": "Brancart Marc", "telo": "", "uelo": "ng", "tstam": "", "ustam": "nm"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Anciaux", "uspeler": "Cornelis Eric", "telo": "", "uelo": "ng", "tstam": "", "ustam": "76317"},
+      {"tr": "0", "ur": "1", "tspeler": "Renaud V", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "ng", "tstam": "", "ustam": "76325"}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "17-04-2017",
+    "thuis": "228 Dworp 2",
+    "uit": "507 Jumet ",
+    "tscore": "4",
+    "uscore": "0",
+    "tgem": "",
+    "ugem": "",
+    "borden": [
+      {"tr": "", "ur": "", "tspeler": "", "uspeler": "ff", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "", "ur": "", "tspeler": "", "uspeler": "ff", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "", "ur": "", "tspeler": "", "uspeler": "ff", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "", "ur": "", "tspeler": "", "uspeler": "ff", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "24-04-1977",
+    "thuis": "234 Le Mat",
+    "uit": "228 Dworp 2",
+    "tscore": "4",
+    "uscore": "0",
+    "tgem": "",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Magis P", "uspeler": "Malfliet Koen", "telo": "", "uelo": "ng", "tstam": "", "ustam": "64327"},
+      {"tr": "1", "ur": "0", "tspeler": "Arnould JJ", "uspeler": "Brancart Marc", "telo": "", "uelo": "ng", "tstam": "", "ustam": "nm"},
+      {"tr": "1", "ur": "0", "tspeler": "Vandervaeren JP", "uspeler": "Cornelis Eric", "telo": "", "uelo": "ng", "tstam": "", "ustam": "76317"},
+      {"tr": "1", "ur": "0", "tspeler": "Roulin E", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "ng", "tstam": "", "ustam": "76325"}
+    ]
+  }
+]
