@@ -1,0 +1,141 @@
+[
+  {
+    "ronde": "1",
+    "datum": "15-01-1978",
+    "thuis": "240 Machelen 2",
+    "uit": "228 Dworp 2",
+    "tscore": "6",
+    "uscore": "10",
+    "tgem": "",
+    "ugem": "1242",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Verstreken Florent", "uspeler": "Janssens Fritz", "telo": "", "uelo": "1272", "tstam": "", "ustam": "57282"},
+      {"tr": "3", "ur": "1", "tspeler": "Van de Venne Freddy", "uspeler": "Maton Gedeon", "telo": "", "uelo": "1262", "tstam": "", "ustam": "nm"},
+      {"tr": "1", "ur": "3", "tspeler": "Wolfs R", "uspeler": "Brancart Marc", "telo": "", "uelo": "1244", "tstam": "", "ustam": "nm"},
+      {"tr": "1", "ur": "3", "tspeler": "Wolfs Marc", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1189", "tstam": "", "ustam": "76325"}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "29-01-1978",
+    "thuis": "228 Dworp 2",
+    "uit": "701 Hasselt 3",
+    "tscore": "12",
+    "uscore": "3",
+    "tgem": "1355",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "Rosseel Gilbert", "uspeler": "Van Damme F", "telo": "1632", "uelo": "", "tstam": "19372", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Brancart Marc", "uspeler": "Ramaekers H", "telo": "1244", "uelo": "", "tstam": "nm", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Zimmerman A", "telo": "1189", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "3", "ur": "0", "tspeler": "Kunze Martin", "uspeler": "(forfait)", "telo": "ng", "uelo": "", "tstam": "nm", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "12-02-1978",
+    "thuis": "244 Thibaut 3",
+    "uit": "228 Dworp 2",
+    "tscore": "7",
+    "uscore": "9",
+    "tgem": "",
+    "ugem": "1353",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Phillipart L", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1632", "tstam": "", "ustam": "19372"},
+      {"tr": "2", "ur": "2", "tspeler": "Chokoubian A", "uspeler": "Janssens Fritz", "telo": "", "uelo": "1272", "tstam": "", "ustam": "57282"},
+      {"tr": "3", "ur": "1", "tspeler": "Van Roy", "uspeler": "Maton Gedeon", "telo": "", "uelo": "1262", "tstam": "", "ustam": "nm"},
+      {"tr": "1", "ur": "3", "tspeler": "Ninane", "uspeler": "Brancart Marc", "telo": "", "uelo": "1244", "tstam": "", "ustam": "nm"}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "26-02-1978",
+    "thuis": "228 Dworp 2",
+    "uit": "243 Kessel-Lo 1",
+    "tscore": "8",
+    "uscore": "8",
+    "tgem": "1353",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Rosseel Gilbert", "uspeler": "Debus E", "telo": "1632", "uelo": "", "tstam": "19372", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Janssens Fritz", "uspeler": "Van Espen Eddy", "telo": "1272", "uelo": "", "tstam": "57282", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Maton Gedeon", "uspeler": "Stoops Leo", "telo": "1262", "uelo": "", "tstam": "nm", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Brancart Marc", "uspeler": "Barro P", "telo": "1244", "uelo": "", "tstam": "nm", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "12-03-1978",
+    "thuis": "124 Deurne 3",
+    "uit": "228 Dworp 2",
+    "tscore": "",
+    "uscore": "",
+    "tgem": "",
+    "ugem": "1332",
+    "borden": [
+      {"tr": "", "ur": "", "tspeler": "Engelaer Maurice", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1632", "tstam": "", "ustam": "19372"},
+      {"tr": "", "ur": "", "tspeler": "Budts R", "uspeler": "Maton Gedeon", "telo": "", "uelo": "1262", "tstam": "", "ustam": "nm"},
+      {"tr": "", "ur": "", "tspeler": "Proost P", "uspeler": "Brancart Marc", "telo": "", "uelo": "1244", "tstam": "", "ustam": "nm"},
+      {"tr": "", "ur": "", "tspeler": "Beeckmans Peter", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1189", "tstam": "", "ustam": "76325"}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "02-04-1978",
+    "thuis": "228 Dworp 2",
+    "uit": "(bye)",
+    "tscore": "",
+    "uscore": "",
+    "tgem": "",
+    "ugem": "",
+    "borden": []
+  },
+  {
+    "ronde": "7",
+    "datum": "09-04-1978",
+    "thuis": "228 Dworp 2",
+    "uit": "101 Kon. Antwerpse SK 3",
+    "tscore": "8",
+    "uscore": "8",
+    "tgem": "1353",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "Rosseel Gilbert", "uspeler": "Dael", "telo": "1632", "uelo": "", "tstam": "19372", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Janssens Fritz", "uspeler": "Boeye Luc", "telo": "1272", "uelo": "", "tstam": "57282", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Maton Gedeon", "uspeler": "De Kemp G", "telo": "1262", "uelo": "", "tstam": "nm", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Brancart Marc", "uspeler": "De Meersman J", "telo": "1244", "uelo": "", "tstam": "nm", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "23-04-1978",
+    "thuis": "130 Moretus Hoboken 2",
+    "uit": "228 Dworp 2",
+    "tscore": "4",
+    "uscore": "11",
+    "tgem": "",
+    "ugem": "1353",
+    "borden": [
+      {"tr": "0", "ur": "3", "tspeler": "Janssens Jean (ff)", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1632", "tstam": "", "ustam": "19372"},
+      {"tr": "2", "ur": "2", "tspeler": "Van Rooy A", "uspeler": "Janssens Fritz", "telo": "", "uelo": "1272", "tstam": "", "ustam": "57282"},
+      {"tr": "1", "ur": "3", "tspeler": "Elsermans ", "uspeler": "Maton Gedeon", "telo": "", "uelo": "1262", "tstam": "", "ustam": "nm"},
+      {"tr": "1", "ur": "3", "tspeler": "Van Damme G", "uspeler": "Brancart Marc", "telo": "", "uelo": "1244", "tstam": "", "ustam": "nm"}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "30-04-1978",
+    "thuis": "228 Dworp 2",
+    "uit": "132 Oude God 3",
+    "tscore": "8",
+    "uscore": "8",
+    "tgem": "1334",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Rosseel Gilbert", "uspeler": "Torreele R", "telo": "1632", "uelo": "", "tstam": "19372", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Janssens Fritz", "uspeler": "De Vos L", "telo": "1272", "uelo": "", "tstam": "57282", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Brancart Marc", "uspeler": "Heynen Gerard", "telo": "1244", "uelo": "", "tstam": "nm", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Verbruggen J", "telo": "1189", "uelo": "", "tstam": "76325", "ustam": ""}
+    ]
+  }
+]

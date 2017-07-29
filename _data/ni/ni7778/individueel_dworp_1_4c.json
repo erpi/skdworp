@@ -1,0 +1,141 @@
+[
+  {
+    "ronde": "1",
+    "datum": "15-01-1978",
+    "thuis": "241 Tervuren",
+    "uit": "228 Dworp 1",
+    "tscore": "9",
+    "uscore": "7",
+    "tgem": "",
+    "ugem": "1385",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "Melchior Jean-Fran\u00e7ois", "uspeler": "Djuh Wasile", "telo": "", "uelo": "1527", "tstam": "", "ustam": "19402"},
+      {"tr": "1", "ur": "3", "tspeler": "Moens Andr\u00e9", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1501", "tstam": "", "ustam": "19313"},
+      {"tr": "3", "ur": "1", "tspeler": "Smekens Willy", "uspeler": "Debast Patrick", "telo": "", "uelo": "1126", "tstam": "", "ustam": "76333"},
+      {"tr": "3", "ur": "1", "tspeler": "Van den Put P", "uspeler": "Cornelis Eric", "telo": "", "uelo": "ng", "tstam": "", "ustam": "76317"}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "29-01-1978",
+    "thuis": "228 Dworp 1",
+    "uit": "501 CRE Charleroi 3",
+    "tscore": "10",
+    "uscore": "6",
+    "tgem": "1385",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "Djuh Wasile", "uspeler": "Br\u00e9da Andr\u00e9", "telo": "1527", "uelo": "", "tstam": "19402", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Lemmens Pierre", "uspeler": "Daubersy J", "telo": "1501", "uelo": "", "tstam": "19313", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Dufrasne R", "telo": "1126", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Keizer", "telo": "ng", "uelo": "", "tstam": "76317", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "12-02-1978",
+    "thuis": "435 Torenwachters Geraardsbergen",
+    "uit": "228 Dworp 1",
+    "tscore": "6",
+    "uscore": "10",
+    "tgem": "",
+    "ugem": "1272",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Huwe R", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1501", "tstam": "", "ustam": "19313"},
+      {"tr": "2", "ur": "2", "tspeler": "Spitaels D", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1189", "tstam": "", "ustam": "76325"},
+      {"tr": "2", "ur": "2", "tspeler": "De Cremer A", "uspeler": "Debast Patrick", "telo": "", "uelo": "1126", "tstam": "", "ustam": "76333"},
+      {"tr": "1", "ur": "3", "tspeler": "Vercleyen J", "uspeler": "Cornelis Eric", "telo": "", "uelo": "ng", "tstam": "", "ustam": "76317"}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "26-02-1978",
+    "thuis": "228 Dworp 1",
+    "uit": "(bye)",
+    "tscore": "",
+    "uscore": "",
+    "tgem": "",
+    "ugem": "",
+    "borden": []
+  },
+  {
+    "ronde": "5",
+    "datum": "12-03-1978",
+    "thuis": "228 Dworp 1",
+    "uit": "418 Geraardsbergen 2",
+    "tscore": "6",
+    "uscore": "10",
+    "tgem": "1292",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "Djuh Wasile", "uspeler": "Van de Pontseele E", "telo": "1527", "uelo": "", "tstam": "19402", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Lemmens Pierre", "uspeler": "Van de Pontseele Luc", "telo": "1501", "uelo": "", "tstam": "19313", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Debast Patrick", "uspeler": "Van Cauwenberghe M", "telo": "1126", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Freson Jan", "uspeler": "Vercleyen J", "telo": "1013", "uelo": "", "tstam": "nm", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "02-04-1978",
+    "thuis": "518 Soignies 1",
+    "uit": "228 Dworp 1",
+    "tscore": "9",
+    "uscore": "7",
+    "tgem": "",
+    "ugem": "1385",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Canneel Michel", "uspeler": "Djuh Wasile", "telo": "", "uelo": "1527", "tstam": "", "ustam": "19402"},
+      {"tr": "2", "ur": "2", "tspeler": "Briggs Georges", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1501", "tstam": "", "ustam": "19313"},
+      {"tr": "3", "ur": "1", "tspeler": "Legrand M", "uspeler": "Debast Patrick", "telo": "", "uelo": "1126", "tstam": "", "ustam": "76333"},
+      {"tr": "3", "ur": "1", "tspeler": "Assez", "uspeler": "Cornelis Eric", "telo": "", "uelo": "ng", "tstam": "", "ustam": "76317"}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "09-04-1978",
+    "thuis": "228 Dworp 1",
+    "uit": "517 Flobecq",
+    "tscore": "7",
+    "uscore": "9",
+    "tgem": "1385",
+    "ugem": "",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "Djuh Wasile", "uspeler": "Masure Luc", "telo": "1527", "uelo": "", "tstam": "19402", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Lemmens Pierre", "uspeler": "Meerschaert J", "telo": "1501", "uelo": "", "tstam": "19313", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Debast Patrick", "uspeler": "Verbeelte Philippe", "telo": "1126", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Cornelis Eric", "uspeler": "Haveaux A", "telo": "ng", "uelo": "", "tstam": "76317", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "23-04-1978",
+    "thuis": "506 Mons 1",
+    "uit": "228 Dworp 1",
+    "tscore": "8",
+    "uscore": "8",
+    "tgem": "",
+    "ugem": "1272",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Tyrant P", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1501", "tstam": "", "ustam": "19313"},
+      {"tr": "3", "ur": "1", "tspeler": "Lemoine Andr\u00e9", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1189", "tstam": "", "ustam": "76325"},
+      {"tr": "2", "ur": "2", "tspeler": "Libert", "uspeler": "Debast Patrick", "telo": "", "uelo": "1126", "tstam": "", "ustam": "76333"},
+      {"tr": "2", "ur": "2", "tspeler": "Tournois", "uspeler": "Cornelis Eric", "telo": "", "uelo": "ng", "tstam": "", "ustam": "76317"}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "30-04-1978",
+    "thuis": "228 Dworp 1",
+    "uit": "237 Woluwe 64",
+    "tscore": "9",
+    "uscore": "7",
+    "tgem": "1514",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "Djuh Wasile", "uspeler": "Grasser A", "telo": "1527", "uelo": "", "tstam": "19402", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Lemmens Pierre", "uspeler": "Butaye B", "telo": "1501", "uelo": "", "tstam": "19313", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Cornelis Eric", "uspeler": "Vroye JP", "telo": "ng", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Kunze Martin", "uspeler": "Van Acker JL", "telo": "ng", "uelo": "", "tstam": "nm", "ustam": ""}
+    ]
+  }
+]
