@@ -1,69 +1,46 @@
 Kruistabel: Dworp 1: fout: ploeg van Dworp staat er niet in
-Kruistabel: Dworp 2: fout: ploeg van Dworp staat er niet in
 Kruistabel: Dworp 3: fout: ploeg van Dworp staat er niet in
 Ronde 1: Dworp 1: fout: '109 borgerhout 3' niet gevonden in kruistabel (spelling?)
 Ronde 1: Dworp 1: waarschuwing: score tegen '109 borgerhout 3' is niet gecontroleerd in kruistabel
-Ronde 1: Dworp 2: fout: '203 fous du roy 1' niet gevonden in kruistabel (spelling?)
-Ronde 1: Dworp 2: waarschuwing: score tegen '203 fous du roy 1' is niet gecontroleerd in kruistabel
 Ronde 1: Dworp 3: fout: '473 pion aalter' niet gevonden in kruistabel (spelling?)
 Ronde 1: Dworp 3: waarschuwing: score tegen '473 pion aalter' is niet gecontroleerd in kruistabel
 Ronde 2: Dworp 1: fout: '153 rijke vorst 1' niet gevonden in kruistabel (spelling?)
 Ronde 2: Dworp 1: waarschuwing: score tegen '153 rijke vorst 1' is niet gecontroleerd in kruistabel
-Ronde 2: Dworp 2: fout: '243 lv leuven 3' niet gevonden in kruistabel (spelling?)
-Ronde 2: Dworp 2: waarschuwing: score tegen '243 lv leuven 3' is niet gecontroleerd in kruistabel
 Ronde 2: Dworp 3: fout: '260 humbeek 2' niet gevonden in kruistabel (spelling?)
 Ronde 2: Dworp 3: waarschuwing: score tegen '260 humbeek 2' is niet gecontroleerd in kruistabel
 Ronde 3: Dworp 1: fout: '174 brasschaat 2' niet gevonden in kruistabel (spelling?)
 Ronde 3: Dworp 1: waarschuwing: score tegen '174 brasschaat 2' is niet gecontroleerd in kruistabel
-Ronde 3: Dworp 2: fout: '229 woluwe 1' niet gevonden in kruistabel (spelling?)
-Ronde 3: Dworp 2: waarschuwing: score tegen '229 woluwe 1' is niet gecontroleerd in kruistabel
 Ronde 3: Dworp 3: fout: '462 zottegem 3' niet gevonden in kruistabel (spelling?)
 Ronde 3: Dworp 3: waarschuwing: score tegen '462 zottegem 3' is niet gecontroleerd in kruistabel
 Ronde 4: Dworp 1: fout: '249 ruisbroek' niet gevonden in kruistabel (spelling?)
 Ronde 4: Dworp 1: waarschuwing: score tegen '249 ruisbroek' is niet gecontroleerd in kruistabel
-Ronde 4: Dworp 2: fout: '501 cre charleroi 3' niet gevonden in kruistabel (spelling?)
-Ronde 4: Dworp 2: waarschuwing: score tegen '501 cre charleroi 3' is niet gecontroleerd in kruistabel
 Ronde 4: Dworp 3: fout: '303 k brugse sk 3' niet gevonden in kruistabel (spelling?)
 Ronde 4: Dworp 3: waarschuwing: score tegen '303 k brugse sk 3' is niet gecontroleerd in kruistabel
 Ronde 5: Dworp 1: fout: '128 beveren 3' niet gevonden in kruistabel (spelling?)
 Ronde 5: Dworp 1: waarschuwing: score tegen '128 beveren 3' is niet gecontroleerd in kruistabel
-Ronde 5: Dworp 2: fout: '266 desperado leuven 2' niet gevonden in kruistabel (spelling?)
-Ronde 5: Dworp 2: waarschuwing: score tegen '266 desperado leuven 2' is niet gecontroleerd in kruistabel
 Ronde 5: Dworp 3: fout: '464 sint-gillis 2' niet gevonden in kruistabel (spelling?)
 Ronde 5: Dworp 3: waarschuwing: score tegen '464 sint-gillis 2' is niet gecontroleerd in kruistabel
 Ronde 6: Dworp 1: fout: '263 aarschot' niet gevonden in kruistabel (spelling?)
 Ronde 6: Dworp 1: waarschuwing: score tegen '263 aarschot' is niet gecontroleerd in kruistabel
-Ronde 6: Dworp 2: fout: '244 tibucle 2' niet gevonden in kruistabel (spelling?)
-Ronde 6: Dworp 2: waarschuwing: score tegen '244 tibucle 2' is niet gecontroleerd in kruistabel
 Ronde 6: Dworp 3: fout: '186 osk 6' niet gevonden in kruistabel (spelling?)
 Ronde 6: Dworp 3: waarschuwing: score tegen '186 osk 6' is niet gecontroleerd in kruistabel
 Ronde 7: Dworp 1: fout: '108 merksem 2' niet gevonden in kruistabel (spelling?)
 Ronde 7: Dworp 1: waarschuwing: score tegen '108 merksem 2' is niet gecontroleerd in kruistabel
-Ronde 7: Dworp 2: fout: '601 cre liège 3' niet gevonden in kruistabel (spelling?)
-Ronde 7: Dworp 2: waarschuwing: score tegen '601 cre liège 3' is niet gecontroleerd in kruistabel
 Ronde 7: Dworp 3: fout: '401 ruy lopez gent 12' niet gevonden in kruistabel (spelling?)
 Ronde 7: Dworp 3: waarschuwing: score tegen '401 ruy lopez gent 12' is niet gecontroleerd in kruistabel
 Ronde 8: Dworp 1: fout: '166 tsm mechelen 2' niet gevonden in kruistabel (spelling?)
 Ronde 8: Dworp 1: waarschuwing: score tegen '166 tsm mechelen 2' is niet gecontroleerd in kruistabel
-Ronde 8: Dworp 2: fout: '533 lessines' niet gevonden in kruistabel (spelling?)
-Ronde 8: Dworp 2: waarschuwing: score tegen '533 lessines' is niet gecontroleerd in kruistabel
 Ronde 8: Dworp 3: fout: '130 hoboken 11' niet gevonden in kruistabel (spelling?)
 Ronde 8: Dworp 3: waarschuwing: score tegen '130 hoboken 11' is niet gecontroleerd in kruistabel
 Ronde 9: Dworp 1: fout: '130 hoboken 5' niet gevonden in kruistabel (spelling?)
 Ronde 9: Dworp 1: waarschuwing: score tegen '130 hoboken 5' is niet gecontroleerd in kruistabel
-Ronde 9: Dworp 2: fout: '201 cre bruxelles 3' niet gevonden in kruistabel (spelling?)
-Ronde 9: Dworp 2: waarschuwing: score tegen '201 cre bruxelles 3' is niet gecontroleerd in kruistabel
 Ronde 9: Dworp 3: fout: '475 doorbraak aalter' niet gevonden in kruistabel (spelling?)
 Ronde 9: Dworp 3: waarschuwing: score tegen '475 doorbraak aalter' is niet gecontroleerd in kruistabel
 Ronde 10: Dworp 1: fout: '176 westerlo 2' niet gevonden in kruistabel (spelling?)
 Ronde 10: Dworp 1: waarschuwing: score tegen '176 westerlo 2' is niet gecontroleerd in kruistabel
-Ronde 10: Dworp 2: fout: '204 benéchec 1' niet gevonden in kruistabel (spelling?)
-Ronde 10: Dworp 2: waarschuwing: score tegen '204 benéchec 1' is niet gecontroleerd in kruistabel
 Ronde 10: Dworp 3: fout: '402 jean jaures gent 7' niet gevonden in kruistabel (spelling?)
 Ronde 10: Dworp 3: waarschuwing: score tegen '402 jean jaures gent 7' is niet gecontroleerd in kruistabel
 Ronde 11: Dworp 1: fout: '712 tienen 1' niet gevonden in kruistabel (spelling?)
 Ronde 11: Dworp 1: waarschuwing: score tegen '712 tienen 1' is niet gecontroleerd in kruistabel
-Ronde 11: Dworp 2: fout: '506 mons 3' niet gevonden in kruistabel (spelling?)
-Ronde 11: Dworp 2: waarschuwing: score tegen '506 mons 3' is niet gecontroleerd in kruistabel
 Ronde 11: Dworp 3: fout: '472 mercatel gent 3' niet gevonden in kruistabel (spelling?)
 Ronde 11: Dworp 3: waarschuwing: score tegen '472 mercatel gent 3' is niet gecontroleerd in kruistabel
