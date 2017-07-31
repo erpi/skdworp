@@ -1,0 +1,162 @@
+[
+  {
+    "ronde": "1",
+    "datum": "05-11-1978",
+    "thuis": "228 Dworp 2",
+    "uit": "418 Geraardsbergen 2",
+    "tscore": "10",
+    "uscore": "6",
+    "tgem": "1240",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "Brancart Marc", "uspeler": "Van de Pontseele Luc", "telo": "1328", "uelo": "", "tstam": "nm", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Van Cauwenberghe M", "telo": "1317", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Debast Patrick", "uspeler": "Vercleyen J", "telo": "1177", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Cornelis Eric", "uspeler": "Leurs M", "telo": "1136", "uelo": "", "tstam": "76317", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "19-11-1978",
+    "thuis": "401 KGSRL Gent 5",
+    "uit": "228 Dworp 2",
+    "tscore": "8",
+    "uscore": "8",
+    "tgem": "",
+    "ugem": "1240",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Van Mol R", "uspeler": "Brancart Marc", "telo": "", "uelo": "1328", "tstam": "", "ustam": "nm"},
+      {"tr": "3", "ur": "1", "tspeler": "Bruynooghe", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1317", "tstam": "", "ustam": "76325"},
+      {"tr": "1", "ur": "3", "tspeler": "Pollez A", "uspeler": "Debast Patrick", "telo": "", "uelo": "1177", "tstam": "", "ustam": "76333"},
+      {"tr": "3", "ur": "1", "tspeler": "Van Ryckeghem F", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1136", "tstam": "", "ustam": "76317"}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "03-12-1978",
+    "thuis": "228 Dworp 2",
+    "uit": "402 Jean Jaur\u00e8s Gent 5",
+    "tscore": "7",
+    "uscore": "9",
+    "tgem": "1192",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Pletinckx Eddy", "uspeler": "Clayssens J", "telo": "1317", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Debast Patrick", "uspeler": "De Corte L", "telo": "1177", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Daese R", "telo": "1136", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Vandermeersch Luc", "uspeler": "Tackels A", "telo": "1136", "uelo": "", "tstam": "93073", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "07-01-1979",
+    "thuis": "438 Deinze 1",
+    "uit": "228 Dworp 2",
+    "tscore": "6",
+    "uscore": "10",
+    "tgem": "",
+    "ugem": "1201",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "Casteleyn Dirk", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1317", "tstam": "", "ustam": "76325"},
+      {"tr": "2", "ur": "2", "tspeler": "Maes E", "uspeler": "Debast Patrick", "telo": "", "uelo": "1177", "tstam": "", "ustam": "76333"},
+      {"tr": "1", "ur": "3", "tspeler": "Van den Heeden A", "uspeler": "Maton Gedeon", "telo": "", "uelo": "1173", "tstam": "", "ustam": "nm"},
+      {"tr": "1", "ur": "3", "tspeler": "Coorevits Y", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1136", "tstam": "", "ustam": "76317"}
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "28-01-1979",
+    "thuis": "425 Dendermonde 3",
+    "uit": "228 Dworp 2",
+    "tscore": "6",
+    "uscore": "10",
+    "tgem": "",
+    "ugem": "1240",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Den Doncker J", "uspeler": "Brancart Marc", "telo": "", "uelo": "1328", "tstam": "", "ustam": "nm"},
+      {"tr": "2", "ur": "2", "tspeler": "Verniers E", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1317", "tstam": "", "ustam": "76325"},
+      {"tr": "2", "ur": "2", "tspeler": "Franckaert P", "uspeler": "Debast Patrick", "telo": "", "uelo": "1177", "tstam": "", "ustam": "76333"},
+      {"tr": "1", "ur": "3", "tspeler": "Van Bellingen P", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1136", "tstam": "", "ustam": "76317"}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "11-02-1979",
+    "thuis": "228 Dworp 2",
+    "uit": "Post Gent 1",
+    "tscore": "11",
+    "uscore": "4",
+    "tgem": "1091",
+    "ugem": "",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "Janssens Fritz", "uspeler": "Devos H", "telo": "1245", "uelo": "", "tstam": "57282", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Van de Leen R", "telo": "1177", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Bavinje", "telo": "1136", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "3", "ur": "0", "tspeler": "Malfliet Koen", "uspeler": "ff", "telo": "807", "uelo": "", "tstam": "64327", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "25-02-1979",
+    "thuis": "240 Machelen 2",
+    "uit": "228 Dworp 2",
+    "tscore": "2",
+    "uscore": "12",
+    "tgem": "",
+    "ugem": "1240",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Van Laere Etienne", "uspeler": "Brancart Marc", "telo": "", "uelo": "1328", "tstam": "", "ustam": "nm"},
+      {"tr": "1", "ur": "3", "tspeler": "Vandevelde J", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1317", "tstam": "", "ustam": "76325"},
+      {"tr": "0", "ur": "3", "tspeler": "ff", "uspeler": "Debast Patrick", "telo": "", "uelo": "1177", "tstam": "", "ustam": "76333"},
+      {"tr": "0", "ur": "3", "tspeler": "ff", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1136", "tstam": "", "ustam": "76317"}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "04-03-1979",
+    "thuis": "228 Dworp 2",
+    "uit": "249 Ruisbroek 1",
+    "tscore": "6",
+    "uscore": "10",
+    "tgem": "1240",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "Brancart Marc", "uspeler": "Uylenbroeck Roland", "telo": "1328", "uelo": "", "tstam": "nm", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Pletinckx Eddy", "uspeler": "Baesberg A", "telo": "1317", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Debast Patrick", "uspeler": "Mattheys", "telo": "1177", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Cornelis Eric", "uspeler": "Stiens Kris", "telo": "1136", "uelo": "", "tstam": "76317", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "11-03-1979",
+    "thuis": "228 Dworp 2",
+    "uit": "417 Aalst 2",
+    "tscore": "10",
+    "uscore": "6",
+    "tgem": "1249",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "Brancart Marc", "uspeler": "Van den Houte O", "telo": "1328", "uelo": "", "tstam": "nm", "ustam": ""},
+      {"tr": "3", "ur": "3", "tspeler": "Pletinckx Eddy", "uspeler": "Van Tittelboom F", "telo": "1317", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "1", "ur": "1", "tspeler": "Maton Gedeon", "uspeler": "Cherrette F", "telo": "1173", "uelo": "", "tstam": "nm", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Meyts J", "telo": "1177", "uelo": "", "tstam": "76333", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "10",
+    "datum": "25-03-1979",
+    "thuis": "436 Lokeren 2",
+    "uit": "228 Dworp 2",
+    "tscore": "11",
+    "uscore": "5",
+    "tgem": "",
+    "ugem": "1193",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "Defr\u00e9 W", "uspeler": "Brancart Marc", "telo": "", "uelo": "1328", "tstam": "", "ustam": "nm"},
+      {"tr": "3", "ur": "1", "tspeler": "Deprez F", "uspeler": "Maton Gedeon", "telo": "", "uelo": "1173", "tstam": "", "ustam": "nm"},
+      {"tr": "3", "ur": "1", "tspeler": "Vernimmen F", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1136", "tstam": "", "ustam": "76317"},
+      {"tr": "3", "ur": "1", "tspeler": "Zaman R", "uspeler": "Vandermeersch Luc", "telo": "", "uelo": "1136", "tstam": "", "ustam": "93073"}
+    ]
+  }
+]
