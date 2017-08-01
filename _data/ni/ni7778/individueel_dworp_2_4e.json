@@ -68,15 +68,15 @@
     "datum": "12-03-1978",
     "thuis": "124 Deurne 3",
     "uit": "228 Dworp 2",
-    "tscore": "",
-    "uscore": "",
+    "tscore": "8",
+    "uscore": "8",
     "tgem": "",
     "ugem": "1332",
     "borden": [
-      {"tr": "", "ur": "", "tspeler": "Engelaer Maurice", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1632", "tstam": "", "ustam": "19372"},
-      {"tr": "", "ur": "", "tspeler": "Budts R", "uspeler": "Maton Gedeon", "telo": "", "uelo": "1262", "tstam": "", "ustam": "nm"},
-      {"tr": "", "ur": "", "tspeler": "Proost P", "uspeler": "Brancart Marc", "telo": "", "uelo": "1244", "tstam": "", "ustam": "nm"},
-      {"tr": "", "ur": "", "tspeler": "Beeckmans Peter", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1189", "tstam": "", "ustam": "76325"}
+      {"tr": "1", "ur": "3", "tspeler": "Engelaer Maurice", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1632", "tstam": "", "ustam": "19372"},
+      {"tr": "2", "ur": "2", "tspeler": "Budts R", "uspeler": "Maton Gedeon", "telo": "", "uelo": "1262", "tstam": "", "ustam": "nm"},
+      {"tr": "2", "ur": "2", "tspeler": "Proost P", "uspeler": "Brancart Marc", "telo": "", "uelo": "1244", "tstam": "", "ustam": "nm"},
+      {"tr": "3", "ur": "1", "tspeler": "Beeckmans Peter", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1189", "tstam": "", "ustam": "76325"}
     ]
   },
   {
