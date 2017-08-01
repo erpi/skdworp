@@ -1,0 +1,114 @@
+[
+  {
+    "ronde": "1",
+    "datum": "18-10-1987",
+    "thuis": "Halle Zoersel",
+    "uit": "Dworp 4",
+    "tscore": "4",
+    "uscore": "0",
+    "tgem": "",
+    "ugem": "1784",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Van Beurden", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1848", "tstam": "", "ustam": "353"},
+      {"tr": "1", "ur": "0", "tspeler": "De Weerdt", "uspeler": "Verstreken erik", "telo": "", "uelo": "1772", "tstam": "", "ustam": "9270"},
+      {"tr": "1", "ur": "0", "tspeler": "Jacobs", "uspeler": "Grandjean Luc", "telo": "", "uelo": "1733", "tstam": "", "ustam": "98291"},
+      {"tr": "1", "ur": "0", "tspeler": "Jonckergouw", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43419"}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "08-11-1987",
+    "thuis": "Dworp 4",
+    "uit": "Machelen 2",
+    "tscore": "3.5",
+    "uscore": "0.5",
+    "tgem": "1784",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "Vandevelde J", "telo": "1848", "uelo": "", "tstam": "353", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Verstreken erik", "uspeler": "Cools Jos", "telo": "1772", "uelo": "", "tstam": "9270", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Grandjean Luc", "uspeler": "Geerts S", "telo": "1733", "uelo": "", "tstam": "98291", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh Geert", "uspeler": "Malfliet G", "telo": "ng", "uelo": "", "tstam": "43419", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "22-11-1987",
+    "thuis": "Ca\u00efssa Woluwe 3",
+    "uit": "Dworp 4",
+    "tscore": "3.5",
+    "uscore": "0.5",
+    "tgem": "",
+    "ugem": "1784",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Mariane Ph", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1848", "tstam": "", "ustam": "353"},
+      {"tr": "1", "ur": "0", "tspeler": "Dethier M", "uspeler": "Verstreken erik", "telo": "", "uelo": "1772", "tstam": "", "ustam": "9270"},
+      {"tr": "1", "ur": "0", "tspeler": "Dlogoszewski J", "uspeler": "Grandjean Luc", "telo": "", "uelo": "1733", "tstam": "", "ustam": "98291"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vandenhove A", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43419"}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "06-12-1987",
+    "thuis": "Ruisbroek 2",
+    "uit": "Dworp 4",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "",
+    "ugem": "1818",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Stiens Kris", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1874", "tstam": "", "ustam": "76317"},
+      {"tr": "0", "ur": "1", "tspeler": "Deynaert D", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1848", "tstam": "", "ustam": "353"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Steenhoudt Jan", "uspeler": "Grandjean Luc", "telo": "", "uelo": "1733", "tstam": "", "ustam": "98291"},
+      {"tr": "1", "ur": "0", "tspeler": "Stiens Randy", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43419"}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "21-02-1988",
+    "thuis": "Dworp 4",
+    "uit": "Tervuren 2",
+    "tscore": "3.5",
+    "uscore": "0.5",
+    "tgem": "1784",
+    "ugem": "",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh Mieke", "uspeler": "Vandendael A", "telo": "1848", "uelo": "", "tstam": "353", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Verstreken erik", "uspeler": "Smets G", "telo": "1772", "uelo": "", "tstam": "9270", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Grandjean Luc", "uspeler": "Van Hecke Martine", "telo": "1733", "uelo": "", "tstam": "98291", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Geert", "uspeler": "Vandervurst Adriaan", "telo": "ng", "uelo": "", "tstam": "43419", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "06-03-1988",
+    "thuis": "Dworp 4",
+    "uit": "Pantin 3",
+    "tscore": "3",
+    "uscore": "1",
+    "tgem": "1811",
+    "ugem": "",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet Bernard", "uspeler": "Ruiz", "telo": "1889", "uelo": "", "tstam": "31348", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh Mieke", "uspeler": "Cagneau G", "telo": "1848", "uelo": "", "tstam": "353", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Verstreken erik", "uspeler": "Poutte", "telo": "1772", "uelo": "", "tstam": "9270", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Grandjean Luc", "uspeler": "Dubois", "telo": "1733", "uelo": "", "tstam": "98291", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "20-03-1988",
+    "thuis": "Chess Club 2",
+    "uit": "Dworp 4",
+    "tscore": "",
+    "uscore": "",
+    "tgem": "",
+    "ugem": "1870",
+    "borden": [
+      {"tr": "", "ur": "", "tspeler": "NN", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1889", "tstam": "", "ustam": "31348"},
+      {"tr": "", "ur": "", "tspeler": "NN", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1874", "tstam": "", "ustam": "76317"},
+      {"tr": "", "ur": "", "tspeler": "NN", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1848", "tstam": "", "ustam": "353"},
+      {"tr": "", "ur": "", "tspeler": "NN", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43419"}
+    ]
+  }
+]

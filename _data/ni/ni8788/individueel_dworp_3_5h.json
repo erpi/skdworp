@@ -1,0 +1,114 @@
+[
+  {
+    "ronde": "1",
+    "datum": "18-10-1987",
+    "thuis": "Roque 9",
+    "uit": "Dworp 3",
+    "tscore": "3.5",
+    "uscore": "0.5",
+    "tgem": "",
+    "ugem": "1786",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Hock D", "uspeler": "Djuh", "telo": "", "uelo": "1826", "tstam": "", "ustam": "19402"},
+      {"tr": "1", "ur": "0", "tspeler": "Ben Hahmoud M", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1746", "tstam": "", "ustam": "27715"},
+      {"tr": "1", "ur": "0", "tspeler": "De Meester david", "uspeler": "Dewilde Eric", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43401"},
+      {"tr": "1", "ur": "0", "tspeler": "De Man P", "uspeler": "Neven Pascal", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43427"}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "08-11-1987",
+    "thuis": "Dworp 3",
+    "uit": "Ruisbroek 1",
+    "tscore": "0.5",
+    "uscore": "3.5",
+    "tgem": "1716",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Deklerck Willy", "uspeler": "Mattheys Eddy", "telo": "1746", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Smedt Jean Pierre", "uspeler": "Meugens Eric", "telo": "1686", "uelo": "", "tstam": "33910", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Dewilde Eric", "uspeler": "Uylenroeck Roland", "telo": "ng", "uelo": "", "tstam": "43401", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Neven Pascal", "uspeler": "Toujour A", "telo": "ng", "uelo": "", "tstam": "43427", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "22-11-1987",
+    "thuis": "SK Anderlecht 5",
+    "uit": "Dworp 3",
+    "tscore": "1",
+    "uscore": "3",
+    "tgem": "",
+    "ugem": "1720",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Tillie W", "uspeler": "Debouvere Pascal", "telo": "", "uelo": "1884", "tstam": "", "ustam": "2372"},
+      {"tr": "1", "ur": "0", "tspeler": "Jacobs W", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1746", "tstam": "", "ustam": "27715"},
+      {"tr": "0", "ur": "1", "tspeler": "Kara A", "uspeler": "De Smedt Jean Pierre", "telo": "", "uelo": "1686", "tstam": "", "ustam": "33910"},
+      {"tr": "0", "ur": "1", "tspeler": "Kara C", "uspeler": "Vierendeels Robert", "telo": "", "uelo": "1565", "tstam": "", "ustam": "95707"}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "06-12-1987",
+    "thuis": "CRE Bruxelles 4",
+    "uit": "Dworp 3",
+    "tscore": "3",
+    "uscore": "1",
+    "tgem": "",
+    "ugem": "1688",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Verzin H", "uspeler": "Debouvere Pascal", "telo": "", "uelo": "1884", "tstam": "", "ustam": "2372"},
+      {"tr": "1", "ur": "0", "tspeler": "Verlaenen R", "uspeler": "Malfliet Koen", "telo": "", "uelo": "1616", "tstam": "", "ustam": "64327"},
+      {"tr": "1", "ur": "0", "tspeler": "Tournoy G", "uspeler": "Vierendeels Robert", "telo": "", "uelo": "1565", "tstam": "", "ustam": "95707"},
+      {"tr": "1", "ur": "0", "tspeler": "Cornil R", "uspeler": "Neven Pascal", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43427"}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "21-02-1988",
+    "thuis": "Dworp 3",
+    "uit": "Etterbeek 2",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1757",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Van Nerom Luc", "uspeler": "Gerrosch P", "telo": "1892", "uelo": "", "tstam": "96246", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Debouvere Pascal", "uspeler": "Antoine J", "telo": "1884", "uelo": "", "tstam": "2372", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "De Smedt Jean Pierre", "uspeler": "Nourrier L", "telo": "1686", "uelo": "", "tstam": "33910", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Vierendeels Robert", "uspeler": "Lefever D", "telo": "1565", "uelo": "", "tstam": "95707", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "06-03-1988",
+    "thuis": "Dworp 3",
+    "uit": "Pantin 2",
+    "tscore": "0",
+    "uscore": "4",
+    "tgem": "1750",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Debouvere Pascal", "uspeler": "Noubaun", "telo": "1884", "uelo": "", "tstam": "2372", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Malfliet Koen", "uspeler": "De Merode", "telo": "1616", "uelo": "", "tstam": "64327", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Dewilde Eric", "uspeler": "De Moerlooze", "telo": "ng", "uelo": "", "tstam": "43401", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Neven Pascal", "uspeler": "Meganck", "telo": "ng", "uelo": "", "tstam": "43427", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "20-03-1988",
+    "thuis": "Chess Club 1",
+    "uit": "Dworp 3",
+    "tscore": "",
+    "uscore": "",
+    "tgem": "",
+    "ugem": "1694",
+    "borden": [
+      {"tr": "", "ur": "", "tspeler": "NN", "uspeler": "Verstreken Erik", "telo": "", "uelo": "1772", "tstam": "", "ustam": "9270"},
+      {"tr": "", "ur": "", "tspeler": "NN", "uspeler": "Malfliet Koen", "telo": "", "uelo": "1616", "tstam": "", "ustam": "64327"},
+      {"tr": "", "ur": "", "tspeler": "NN", "uspeler": "Dewilde Eric", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43401"},
+      {"tr": "", "ur": "", "tspeler": "NN", "uspeler": "Neven Pascal", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43427"}
+    ]
+  }
+]
