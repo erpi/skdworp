@@ -2,163 +2,163 @@
   {
     "ronde": "1",
     "datum": "18-10-1987",
-    "thuis": "Ca\u00efsssa Wolwe 1",
-    "uit": "Dworp 1",
+    "thuis": "229 Ca\u00efssa Woluwe 1",
+    "uit": "228 Dworp 1",
     "tscore": "2.5",
     "uscore": "3.5",
     "tgem": "",
     "ugem": "2032",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Uhoda P", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2121", "tstam": "", "ustam": "20621"},
-      {"tr": "1", "ur": "0", "tspeler": "Fery L", "uspeler": "Boers Jos", "telo": "", "uelo": "2101", "tstam": "", "ustam": "68128"},
-      {"tr": "0", "ur": "1", "tspeler": "Penneman F", "uspeler": "Taelemans Werner", "telo": "", "uelo": "2021", "tstam": "", "ustam": "2283"},
-      {"tr": "0", "ur": "1", "tspeler": "Kounakis L", "uspeler": "Debast Patrick", "telo": "", "uelo": "2010", "tstam": "", "ustam": "76333"},
-      {"tr": "1", "ur": "0", "tspeler": "Van Melsen R", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1992", "tstam": "", "ustam": "99152"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Higuet A", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1948", "tstam": "", "ustam": "19313"}
+      {"tr": "0", "ur": "1", "tspeler": "Uhoda Philippe", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2121", "tstam": "63011", "ustam": "20621"},
+      {"tr": "1", "ur": "0", "tspeler": "Fery Luc", "uspeler": "Boers Jos", "telo": "", "uelo": "2101", "tstam": "58432", "ustam": "68128"},
+      {"tr": "0", "ur": "1", "tspeler": "Penneman Francis", "uspeler": "Taelemans Werner", "telo": "", "uelo": "2021", "tstam": "24872", "ustam": "2283"},
+      {"tr": "0", "ur": "1", "tspeler": "Koumakis Luc", "uspeler": "Debast Patrick", "telo": "", "uelo": "2010", "tstam": "60038", "ustam": "76333"},
+      {"tr": "1", "ur": "0", "tspeler": "Van Melsen Raymond", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1992", "tstam": "28207", "ustam": "99152"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Higuet Auguste", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1948", "tstam": "9130", "ustam": "19313"}
     ]
   },
   {
     "ronde": "2",
     "datum": "08-11-1987",
-    "thuis": "Dworp 1",
-    "uit": "Soignies 1",
+    "thuis": "228 Dworp 1",
+    "uit": "518 Soignies 1",
     "tscore": "3",
     "uscore": "3",
     "tgem": "2032",
     "ugem": "",
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren Serge", "uspeler": "Vanderose M", "telo": "2121", "uelo": "", "tstam": "20621", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Boers Jos", "uspeler": "Leloutre Bernard", "telo": "2101", "uelo": "", "tstam": "68128", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "Masure Luc", "telo": "2021", "uelo": "", "tstam": "2283", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Dufrasne P", "telo": "2010", "uelo": "", "tstam": "76333", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "De Ceukelaire Gert", "uspeler": "Rousseau JF", "telo": "1992", "uelo": "", "tstam": "99152", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Lemmens Pierre", "uspeler": "Vandemergel Y", "telo": "1948", "uelo": "", "tstam": "19313", "ustam": ""}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren Serge", "uspeler": "Vanderose Michel", "telo": "2121", "uelo": "", "tstam": "20621", "ustam": "77038"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Boers Jos", "uspeler": "Leloutre Bernard", "telo": "2101", "uelo": "", "tstam": "68128", "ustam": "92916"},
+      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "Masure Luc", "telo": "2021", "uelo": "", "tstam": "2283", "ustam": "59811"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Dufrasne Pierre", "telo": "2010", "uelo": "", "tstam": "76333", "ustam": "35386"},
+      {"tr": "0", "ur": "1", "tspeler": "De Ceukelaire Gert", "uspeler": "Rousseau Jean-Fran\u00e7ois", "telo": "1992", "uelo": "", "tstam": "99152", "ustam": "75418"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lemmens Pierre", "uspeler": "Vandemergel Yvan", "telo": "1948", "uelo": "", "tstam": "19313", "ustam": "67814"}
     ]
   },
   {
     "ronde": "3",
     "datum": "22-11-1987",
-    "thuis": "Wavre 1",
-    "uit": "Dworp 1",
+    "thuis": "223 Wavre 1",
+    "uit": "228 Dworp 1",
     "tscore": "1.5",
     "uscore": "4.5",
     "tgem": "",
     "ugem": "2032",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Verhaegen", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2121", "tstam": "", "ustam": "20621"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Anciaux", "uspeler": "Boers Jos", "telo": "", "uelo": "2101", "tstam": "", "ustam": "68128"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Godefroit", "uspeler": "Taelemans Werner", "telo": "", "uelo": "2021", "tstam": "", "ustam": "2283"},
-      {"tr": "0", "ur": "1", "tspeler": "Perpete", "uspeler": "Debast Patrick", "telo": "", "uelo": "2010", "tstam": "", "ustam": "76333"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Lecocq", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1992", "tstam": "", "ustam": "99152"},
-      {"tr": "0", "ur": "1", "tspeler": "De Donder P", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1948", "tstam": "", "ustam": "19313"}
+      {"tr": "0", "ur": "1", "tspeler": "Verhaegen Albert", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2121", "tstam": "1473", "ustam": "20621"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Anciaux Marc", "uspeler": "Boers Jos", "telo": "", "uelo": "2101", "tstam": "92894", "ustam": "68128"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Godefroit Jean Louis", "uspeler": "Taelemans Werner", "telo": "", "uelo": "2021", "tstam": "591", "ustam": "2283"},
+      {"tr": "0", "ur": "1", "tspeler": "Perpete Raymond", "uspeler": "Debast Patrick", "telo": "", "uelo": "2010", "tstam": "1287", "ustam": "76333"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lecocq Joel", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1992", "tstam": "1465", "ustam": "99152"},
+      {"tr": "0", "ur": "1", "tspeler": "De Donder Philippe", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1948", "tstam": "84310", "ustam": "19313"}
     ]
   },
   {
     "ronde": "4",
     "datum": "06-12-1987",
-    "thuis": "Dworp 1",
-    "uit": "Waterloo 1",
+    "thuis": "228 Dworp 1",
+    "uit": "216 Waterloo 1",
     "tscore": "1.5",
     "uscore": "4.5",
     "tgem": "2032",
     "ugem": "",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "Szczesny D", "telo": "2121", "uelo": "", "tstam": "20621", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Boers Jos", "uspeler": "Lacroix D", "telo": "2101", "uelo": "", "tstam": "68128", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Taelemans Werner", "uspeler": "Deschrijver F", "telo": "2021", "uelo": "", "tstam": "2283", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Wettach M", "telo": "2010", "uelo": "", "tstam": "76333", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "De Ceukelaire Gert", "uspeler": "Vausort A", "telo": "1992", "uelo": "", "tstam": "99152", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Lemmens Pierre", "uspeler": "Decharneux B", "telo": "1948", "uelo": "", "tstam": "19313", "ustam": ""}
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "Szczesny Daniel", "telo": "2121", "uelo": "", "tstam": "20621", "ustam": "17647"},
+      {"tr": "0", "ur": "1", "tspeler": "Boers Jos", "uspeler": "Lacroix Didier", "telo": "2101", "uelo": "", "tstam": "68128", "ustam": "43702"},
+      {"tr": "0", "ur": "1", "tspeler": "Taelemans Werner", "uspeler": "Deschryver Fabien", "telo": "2021", "uelo": "", "tstam": "2283", "ustam": "31259"},
+      {"tr": "0", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Wettach Michel", "telo": "2010", "uelo": "", "tstam": "76333", "ustam": "62286"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Ceukelaire Gert", "uspeler": "Vausort Andr\u00e9", "telo": "1992", "uelo": "", "tstam": "99152", "ustam": "9563"},
+      {"tr": "0", "ur": "1", "tspeler": "Lemmens Pierre", "uspeler": "Decharneux Baudoin", "telo": "1948", "uelo": "", "tstam": "19313", "ustam": "52850"}
     ]
   },
   {
     "ronde": "5",
     "datum": "20-12-1987",
-    "thuis": "Geraardsbergen 1",
-    "uit": "Dworp 1",
+    "thuis": "418 Geraardsbergen 1",
+    "uit": "228 Dworp 1",
     "tscore": "3.5",
     "uscore": "2.5",
     "tgem": "",
     "ugem": "2013",
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Courteyn Patrick", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2121", "tstam": "", "ustam": "20621"},
-      {"tr": "1", "ur": "0", "tspeler": "Saligo Luc", "uspeler": "Boers Jos", "telo": "", "uelo": "2101", "tstam": "", "ustam": "68128"},
-      {"tr": "0", "ur": "1", "tspeler": "Matthys Luc", "uspeler": "Taelemans Werner", "telo": "", "uelo": "2021", "tstam": "", "ustam": "2283"},
-      {"tr": "1", "ur": "0", "tspeler": "Van de Ponseeele E", "uspeler": "Debast Patrick", "telo": "", "uelo": "2010", "tstam": "", "ustam": "76333"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Flamee Dirk", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1948", "tstam": "", "ustam": "19313"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Nuffelen", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1874", "tstam": "", "ustam": "76317"}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Courteyn Patrick", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2121", "tstam": "42161", "ustam": "20621"},
+      {"tr": "1", "ur": "0", "tspeler": "Saligo Luc", "uspeler": "Boers Jos", "telo": "", "uelo": "2101", "tstam": "19267", "ustam": "68128"},
+      {"tr": "0", "ur": "1", "tspeler": "Matthys Luc", "uspeler": "Taelemans Werner", "telo": "", "uelo": "2021", "tstam": "19208", "ustam": "2283"},
+      {"tr": "1", "ur": "0", "tspeler": "Van de Pontseele Erik", "uspeler": "Debast Patrick", "telo": "", "uelo": "2010", "tstam": "49956", "ustam": "76333"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Flamee Dirk", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1948", "tstam": "19135", "ustam": "19313"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Nuffel Marc", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1874", "tstam": "76244", "ustam": "76317"}
     ]
   },
   {
     "ronde": "6",
     "datum": "07-02-1988",
-    "thuis": "Dworp 1",
-    "uit": "Nivelles 1",
+    "thuis": "228 Dworp 1",
+    "uit": "515 Nivelles 1",
     "tscore": "3.5",
     "uscore": "2.5",
     "tgem": "2032",
     "ugem": "",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "Verheyen", "telo": "2121", "uelo": "", "tstam": "20621", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Boers Jos", "uspeler": "Roger Marc", "telo": "2101", "uelo": "", "tstam": "68128", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Taelemans Werner", "uspeler": "Stilmant", "telo": "2021", "uelo": "", "tstam": "2283", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Roger Michel", "telo": "2010", "uelo": "", "tstam": "76333", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "De Ceukelaire Gert", "uspeler": "Roger J-M", "telo": "1992", "uelo": "", "tstam": "99152", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "Verheyen Jean", "telo": "2121", "uelo": "", "tstam": "20621", "ustam": "39471"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Boers Jos", "uspeler": "Roger Marc", "telo": "2101", "uelo": "", "tstam": "68128", "ustam": "72397"},
+      {"tr": "0", "ur": "1", "tspeler": "Taelemans Werner", "uspeler": "Stilmant Thierry", "telo": "2021", "uelo": "", "tstam": "2283", "ustam": "75990"},
+      {"tr": "0", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Roger Michel", "telo": "2010", "uelo": "", "tstam": "76333", "ustam": "78123"},
+      {"tr": "1", "ur": "0", "tspeler": "De Ceukelaire Gert", "uspeler": "Roger Jean-Marie", "telo": "1992", "uelo": "", "tstam": "99152", "ustam": "72389"},
       {"tr": "1", "ur": "0", "tspeler": "Lemmens Pierre", "uspeler": "Halasz", "telo": "1948", "uelo": "", "tstam": "19313", "ustam": ""}
     ]
   },
   {
     "ronde": "7",
     "datum": "21-02-1988",
-    "thuis": "Carni\u00e8res",
-    "uit": "Dworp 1",
+    "thuis": "505 Carni\u00e8res",
+    "uit": "228 Dworp 1",
     "tscore": "1.5",
     "uscore": "4.5",
     "tgem": "",
     "ugem": "2032",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Wauthier P", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2121", "tstam": "", "ustam": "20621"},
-      {"tr": "0", "ur": "1", "tspeler": "Delposen A", "uspeler": "Boers Jos", "telo": "", "uelo": "2101", "tstam": "", "ustam": "68128"},
-      {"tr": "0", "ur": "1", "tspeler": "Odeur H", "uspeler": "Taelemans Werner", "telo": "", "uelo": "2021", "tstam": "", "ustam": "2283"},
-      {"tr": "1", "ur": "0", "tspeler": "De Muynck D", "uspeler": "Debast Patrick", "telo": "", "uelo": "2010", "tstam": "", "ustam": "76333"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "De Pauw D", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1992", "tstam": "", "ustam": "99152"},
-      {"tr": "0", "ur": "1", "tspeler": "Josse G", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1948", "tstam": "", "ustam": "19313"}
+      {"tr": "0", "ur": "1", "tspeler": "Wauthier Pierre", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2121", "tstam": "5606", "ustam": "20621"},
+      {"tr": "0", "ur": "1", "tspeler": "Delposen Alex", "uspeler": "Boers Jos", "telo": "", "uelo": "2101", "tstam": "80489", "ustam": "68128"},
+      {"tr": "0", "ur": "1", "tspeler": "Odeur Hubert", "uspeler": "Taelemans Werner", "telo": "", "uelo": "2021", "tstam": "92002", "ustam": "2283"},
+      {"tr": "1", "ur": "0", "tspeler": "De Muynck Daniel", "uspeler": "Debast Patrick", "telo": "", "uelo": "2010", "tstam": "67440", "ustam": "76333"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Pauw Damien", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1992", "tstam": "69311", "ustam": "99152"},
+      {"tr": "0", "ur": "1", "tspeler": "Josse Gaston", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1948", "tstam": "12122", "ustam": "19313"}
     ]
   },
   {
     "ronde": "8",
     "datum": "06-03-1988",
-    "thuis": "CRE Charleroi 1",
-    "uit": "Dworp 1",
+    "thuis": "501 CRE Charleroi 1",
+    "uit": "228 Dworp 1",
     "tscore": "3",
     "uscore": "3",
     "tgem": "",
     "ugem": "1989",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Piacentini C", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2121", "tstam": "", "ustam": "20621"},
-      {"tr": "0", "ur": "1", "tspeler": "Dusart P", "uspeler": "Boers Jos", "telo": "", "uelo": "2101", "tstam": "", "ustam": "68128"},
-      {"tr": "1", "ur": "0", "tspeler": "Romanelli R", "uspeler": "Taelemans Werner", "telo": "", "uelo": "2021", "tstam": "", "ustam": "2283"},
-      {"tr": "0", "ur": "1", "tspeler": "Meuter R", "uspeler": "Debast Patrick", "telo": "", "uelo": "2010", "tstam": "", "ustam": "76333"},
-      {"tr": "1", "ur": "0", "tspeler": "Gregorio S", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1992", "tstam": "", "ustam": "99152"},
-      {"tr": "1", "ur": "0", "tspeler": "Waroquier E", "uspeler": "De Smedt Jean Pierre", "telo": "", "uelo": "1686", "tstam": "", "ustam": "33910"}
+      {"tr": "0", "ur": "1", "tspeler": "Piacentini Claudio", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2121", "tstam": "54810", "ustam": "20621"},
+      {"tr": "0", "ur": "1", "tspeler": "Dusart Philippe", "uspeler": "Boers Jos", "telo": "", "uelo": "2101", "tstam": "19933", "ustam": "68128"},
+      {"tr": "1", "ur": "0", "tspeler": "Romanelli Robert", "uspeler": "Taelemans Werner", "telo": "", "uelo": "2021", "tstam": "5720", "ustam": "2283"},
+      {"tr": "0", "ur": "1", "tspeler": "Meuter Roger", "uspeler": "Debast Patrick", "telo": "", "uelo": "2010", "tstam": "12157", "ustam": "76333"},
+      {"tr": "1", "ur": "0", "tspeler": "Gregorio Santiago", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1992", "tstam": "68721", "ustam": "99152"},
+      {"tr": "1", "ur": "0", "tspeler": "Varoquier Eric", "uspeler": "De Smedt Jean Pierre", "telo": "", "uelo": "1686", "tstam": "65765", "ustam": "33910"}
     ]
   },
   {
     "ronde": "9",
     "datum": "20-03-1988",
-    "thuis": "Dworp 1",
-    "uit": "SK Anderlecht 3",
+    "thuis": "228 Dworp 1",
+    "uit": "209 SK Anderlecht 3",
     "tscore": "",
     "uscore": "",
     "tgem": "1989",
     "ugem": "",
     "borden": [
-      {"tr": "", "ur": "", "tspeler": "Vanderwaeren Serge", "uspeler": "Campeert J", "telo": "2121", "uelo": "", "tstam": "20621", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "Boers Jos", "uspeler": "Furstenberg Tom", "telo": "2101", "uelo": "", "tstam": "68128", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "Taelemans Werner", "uspeler": "Presti G", "telo": "2021", "uelo": "", "tstam": "2283", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "Debast Patrick", "uspeler": "Van Gompel Hugo", "telo": "2010", "uelo": "", "tstam": "76333", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "De Ceukelaire Gert", "uspeler": "De Ceuster Jean-Luc", "telo": "1992", "uelo": "", "tstam": "99152", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "De Smedt Jean Pierre", "uspeler": "Adams L", "telo": "1686", "uelo": "", "tstam": "33910", "ustam": ""}
+      {"tr": "", "ur": "", "tspeler": "Vanderwaeren Serge", "uspeler": "Campeert Julien", "telo": "2121", "uelo": "", "tstam": "20621", "ustam": "8877"},
+      {"tr": "", "ur": "", "tspeler": "Boers Jos", "uspeler": "Furstenberg Tom", "telo": "2101", "uelo": "", "tstam": "68128", "ustam": "28398"},
+      {"tr": "", "ur": "", "tspeler": "Taelemans Werner", "uspeler": "Presti Giuseppe", "telo": "2021", "uelo": "", "tstam": "2283", "ustam": "71005"},
+      {"tr": "", "ur": "", "tspeler": "Debast Patrick", "uspeler": "Van Gompel Hugo", "telo": "2010", "uelo": "", "tstam": "76333", "ustam": "2526"},
+      {"tr": "", "ur": "", "tspeler": "De Ceukelaire Gert", "uspeler": "De Ceuster Jean-Luc", "telo": "1992", "uelo": "", "tstam": "99152", "ustam": "27928"},
+      {"tr": "", "ur": "", "tspeler": "De Smedt Jean Pierre", "uspeler": "Adams Luc", "telo": "1686", "uelo": "", "tstam": "33910", "ustam": "42200"}
     ]
   }
 ]

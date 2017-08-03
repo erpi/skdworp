@@ -1,21 +1,11 @@
-Ronde 1: Dworp 1: fout: 'caïsssa wolwe 1' niet gevonden in kruistabel (spelling?)
-Ronde 1: Dworp 1: waarschuwing: score tegen 'caïsssa wolwe 1' is niet gecontroleerd in kruistabel
-Ronde 2: Dworp 2: fout: 'tienen ' niet gevonden in kruistabel (spelling?)
-Ronde 2: Dworp 2: waarschuwing: score tegen 'tienen ' is niet gecontroleerd in kruistabel
-Ronde 5: Dworp 1: fout: 'geraardsbergen 1' niet gevonden in kruistabel (spelling?)
-Ronde 5: Dworp 1: waarschuwing: score tegen 'geraardsbergen 1' is niet gecontroleerd in kruistabel
 Ronde 5: Dworp 3: waarschuwing: geen ploegnaamgevonden
 Ronde 5: Dworp 4: waarschuwing: geen ploegnaamgevonden
-Ronde 6: Dworp 2: waarschuwing: score tegen 'westland 3' niet ingevuld in kruistabel
 Ronde 6: Dworp 3: waarschuwing: geen ploegnaamgevonden
 Ronde 6: Dworp 4: waarschuwing: geen ploegnaamgevonden
-Ronde 7: Dworp 3: fout: 'etterbeek 2' niet gevonden in kruistabel (spelling?)
-Ronde 7: Dworp 3: waarschuwing: score tegen 'etterbeek 2' is niet gecontroleerd in kruistabel
-Ronde 7: Dworp 4: fout: score tegen 'tervuren 2' niet identiek aan score in kruistabel
-Ronde 9: Dworp 1: fout: score tegen 'sk anderlecht 3' niet identiek aan score in kruistabel
-Ronde 9: Dworp 2: fout: score tegen 'thibaut 3' niet identiek aan score in kruistabel
-Ronde 9: Dworp 3: fout: score tegen 'chess club 1' niet identiek aan score in kruistabel
-Ronde 9: Dworp 4: fout: score tegen 'chess club 2' niet identiek aan score in kruistabel
+Ronde 9: Dworp 1: fout: score tegen '209 sk anderlecht 3' niet identiek aan score in kruistabel
+Ronde 9: Dworp 2: fout: score tegen '244 thibaut 3' niet identiek aan score in kruistabel
+Ronde 9: Dworp 3: fout: score tegen '280 chess club 1' niet identiek aan score in kruistabel
+Ronde 9: Dworp 4: fout: score tegen '280 chess club 2' niet identiek aan score in kruistabel
 Ronde 10: Dworp 1: waarschuwing: geen ploegnaamgevonden
 Ronde 10: Dworp 2: waarschuwing: geen ploegnaamgevonden
 Ronde 10: Dworp 3: waarschuwing: geen ploegnaamgevonden
