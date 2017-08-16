@@ -1,6 +1,6 @@
 function googleMapsInitialize() {
   var LatLngKK = new google.maps.LatLng(50.746403, 4.257978);
-  var LatLngNI = new google.maps.LatLng(50.740465, 4.242809);
+    var LatLngNI = new google.maps.LatLng(50.7946083, 4.3000642);
   var mapOptionsKK = {
     zoom: 15,
     center: LatLngKK,
@@ -20,7 +20,7 @@ function googleMapsInitialize() {
     clickableIcons: false,
   };
   var mapKK = new google.maps.Map(document.getElementById("start65"),mapOptionsKK);
-  var mapNI = new google.maps.Map(document.getElementById("campus"),mapOptionsNI);
+  var mapNI = new google.maps.Map(document.getElementById("greunenhond"),mapOptionsNI);
   var markerKK = new google.maps.Marker({
     position: LatLngKK,
     map: mapKK,
@@ -29,6 +29,6 @@ function googleMapsInitialize() {
   var markerNI = new google.maps.Marker({
     position: LatLngNI,
     map: mapNI,
-    title: 'campus halle'
+    title: 'café greunenhond'
   });
 }
