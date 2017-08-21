@@ -78,6 +78,5 @@ Ronde 10: Dworp 2: Bord 1: fout: som van bordscore niet gelijk aan 1
 Ronde 10: Dworp 2: Bord 2: fout: som van bordscore niet gelijk aan 1
 Ronde 10: Dworp 2: Bord 3: fout: som van bordscore niet gelijk aan 1
 Ronde 10: Dworp 2: Bord 4: fout: som van bordscore niet gelijk aan 1
-Ronde 4: Dworp 2: fout: score tegen '438 deinze 1' niet identiek aan score in kruistabel
 Ronde 11: Dworp 1: waarschuwing: geen ploegnaamgevonden
 Ronde 11: Dworp 2: waarschuwing: geen ploegnaamgevonden
