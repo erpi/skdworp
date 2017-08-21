@@ -73,10 +73,10 @@
     "tgem": "",
     "ugem": "1905",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Verzin", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1992", "tstam": "", "ustam": "99152"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Verlaenen R", "uspeler": "Van Nerom Luc", "telo": "", "uelo": "1892", "tstam": "", "ustam": "96246"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Tournoy G", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1889", "tstam": "", "ustam": "31348"},
-      {"tr": "1", "ur": "0", "tspeler": "Werner G", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1848", "tstam": "", "ustam": "353"}
+      {"tr": "1", "ur": "0", "tspeler": "Verzin Henri", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1992", "tstam": "17663", "ustam": "99152"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verlaenen Robert", "uspeler": "Van Nerom Luc", "telo": "", "uelo": "1892", "tstam": "80179", "ustam": "96246"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Tournoy Georges", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1889", "tstam": "64408", "ustam": "31348"},
+      {"tr": "1", "ur": "0", "tspeler": "Werner Guy", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1848", "tstam": "45365", "ustam": "353"}
     ]
   },
   {
@@ -114,17 +114,17 @@
   {
     "ronde": "8",
     "datum": "06-03-1988",
-    "thuis": "402 JJ Gent 5",
+    "thuis": "402 Jean Jaur\u00e8s Gent 5",
     "uit": "228 Dworp 2",
     "tscore": "2",
     "uscore": "2",
-    "tgem": "",
+    "tgem": "1890",
     "ugem": "1909",
     "borden": [
       {"tr": "0", "ur": "1", "tspeler": "Clayssens Jan", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1948", "tstam": "3701", "ustam": "19313"},
-      {"tr": "1", "ur": "0", "tspeler": "Paepens Frans", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1920", "tstam": "16748", "ustam": "76325"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Stuyts S", "uspeler": "Van Nerom Luc", "telo": "", "uelo": "1892", "tstam": "", "ustam": "96246"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Rodrigues Marcel", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1874", "tstam": "16675", "ustam": "76317"}
+      {"tr": "1", "ur": "0", "tspeler": "Paepens Frans", "uspeler": "Pletinckx Eddy", "telo": "1896", "uelo": "1920", "tstam": "16748", "ustam": "76325"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Stuyts Jos", "uspeler": "Van Nerom Luc", "telo": "1894", "uelo": "1892", "tstam": "58700", "ustam": "96246"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Rodrigues Marcel", "uspeler": "Cornelis Eric", "telo": "1881", "uelo": "1874", "tstam": "16675", "ustam": "76317"}
     ]
   },
   {

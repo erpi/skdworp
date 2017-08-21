@@ -97,13 +97,13 @@
     "tscore": "3.5",
     "uscore": "2.5",
     "tgem": "2032",
-    "ugem": "",
+    "ugem": "1667",
     "borden": [
       {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "Verheyen Jean", "telo": "2121", "uelo": "", "tstam": "20621", "ustam": "39471"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Boers Jos", "uspeler": "Roger Marc", "telo": "2101", "uelo": "", "tstam": "68128", "ustam": "72397"},
       {"tr": "0", "ur": "1", "tspeler": "Taelemans Werner", "uspeler": "Stilmant Thierry", "telo": "2021", "uelo": "", "tstam": "2283", "ustam": "75990"},
       {"tr": "0", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Roger Michel", "telo": "2010", "uelo": "", "tstam": "76333", "ustam": "78123"},
-      {"tr": "1", "ur": "0", "tspeler": "De Ceukelaire Gert", "uspeler": "Roger Jean-Marie", "telo": "1992", "uelo": "", "tstam": "99152", "ustam": "72389"},
+      {"tr": "1", "ur": "0", "tspeler": "De Ceukelaire Gert", "uspeler": "Roger Jean-Marie", "telo": "1992", "uelo": "1667", "tstam": "99152", "ustam": "72389"},
       {"tr": "1", "ur": "0", "tspeler": "Lemmens Pierre", "uspeler": "Halasz", "telo": "1948", "uelo": "", "tstam": "19313", "ustam": ""}
     ]
   },

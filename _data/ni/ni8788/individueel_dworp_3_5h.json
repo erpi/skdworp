@@ -87,12 +87,12 @@
     "tscore": "0",
     "uscore": "4",
     "tgem": "1750",
-    "ugem": "",
+    "ugem": "1146",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Debouvere Pascal", "uspeler": "Noubaun", "telo": "1884", "uelo": "", "tstam": "2372", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Malfliet Koen", "uspeler": "De Merode Rodolphe", "telo": "1616", "uelo": "", "tstam": "64327", "ustam": "89460"},
-      {"tr": "0", "ur": "1", "tspeler": "Dewilde Eric", "uspeler": "De Moerlooze", "telo": "ng", "uelo": "", "tstam": "43401", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Neven Pascal", "uspeler": "Meganck", "telo": "ng", "uelo": "", "tstam": "43427", "ustam": ""}
+      {"tr": "0", "ur": "1", "tspeler": "Debouvere Pascal", "uspeler": "Monbrun Thierry", "telo": "1884", "uelo": "ng", "tstam": "2372", "ustam": "84166"},
+      {"tr": "0", "ur": "1", "tspeler": "Malfliet Koen", "uspeler": "De Merode Rodolphe", "telo": "1616", "uelo": "ng", "tstam": "64327", "ustam": "89460"},
+      {"tr": "0", "ur": "1", "tspeler": "Dewilde Eric", "uspeler": "De Moerlooze Jacqueline", "telo": "ng", "uelo": "1146", "tstam": "43401", "ustam": "82201"},
+      {"tr": "0", "ur": "1", "tspeler": "Neven Pascal", "uspeler": "Meganck Marc", "telo": "ng", "uelo": "ng", "tstam": "43427", "ustam": "88706"}
     ]
   },
   {
