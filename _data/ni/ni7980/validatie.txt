@@ -1,0 +1,130 @@
+Ronde 1: Dworp 1: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 1: Dworp 1: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 1: Dworp 1: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 1: Dworp 1: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 1: Dworp 1: Bord 5: fout: som van bordscore niet gelijk aan 1
+Ronde 1: Dworp 1: Bord 6: fout: som van bordscore niet gelijk aan 1
+Ronde 1: Dworp 2: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 1: Dworp 2: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 1: Dworp 2: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 1: Dworp 2: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 2: Dworp 1: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 2: Dworp 1: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 2: Dworp 1: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 2: Dworp 1: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 2: Dworp 1: Bord 5: fout: som van bordscore niet gelijk aan 1
+Ronde 2: Dworp 1: Bord 6: fout: som van bordscore niet gelijk aan 1
+Ronde 2: Dworp 2: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 2: Dworp 2: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 2: Dworp 2: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 2: Dworp 2: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 3: Dworp 1: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 3: Dworp 1: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 3: Dworp 1: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 3: Dworp 1: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 3: Dworp 1: Bord 5: fout: som van bordscore niet gelijk aan 1
+Ronde 3: Dworp 1: Bord 6: fout: som van bordscore niet gelijk aan 1
+Ronde 3: Dworp 2: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 3: Dworp 2: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 3: Dworp 2: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 3: Dworp 2: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 4: Dworp 1: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 4: Dworp 1: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 4: Dworp 1: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 4: Dworp 1: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 4: Dworp 1: Bord 5: fout: som van bordscore niet gelijk aan 1
+Ronde 4: Dworp 1: Bord 6: fout: som van bordscore niet gelijk aan 1
+Ronde 4: Dworp 2: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 4: Dworp 2: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 4: Dworp 2: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 4: Dworp 2: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 5: Dworp 1: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 5: Dworp 1: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 5: Dworp 1: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 5: Dworp 1: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 5: Dworp 1: Bord 5: fout: som van bordscore niet gelijk aan 1
+Ronde 5: Dworp 1: Bord 6: fout: som van bordscore niet gelijk aan 1
+Ronde 5: Dworp 2: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 5: Dworp 2: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 5: Dworp 2: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 5: Dworp 2: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 6: Dworp 2: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 6: Dworp 2: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 6: Dworp 2: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 6: Dworp 2: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 7: Dworp 2: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 7: Dworp 2: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 7: Dworp 2: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 7: Dworp 2: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 8: Dworp 2: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 8: Dworp 2: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 8: Dworp 2: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 8: Dworp 2: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 9: Dworp 1: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 9: Dworp 1: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 9: Dworp 1: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 9: Dworp 1: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 9: Dworp 1: Bord 5: fout: som van bordscore niet gelijk aan 1
+Ronde 9: Dworp 1: Bord 6: fout: som van bordscore niet gelijk aan 1
+Ronde 9: Dworp 2: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 9: Dworp 2: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 9: Dworp 2: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 9: Dworp 2: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 10: Dworp 2: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 10: Dworp 2: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 10: Dworp 2: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 10: Dworp 2: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 11: Dworp 1: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 11: Dworp 1: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 11: Dworp 1: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 11: Dworp 1: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 11: Dworp 1: Bord 5: fout: som van bordscore niet gelijk aan 1
+Ronde 11: Dworp 1: Bord 6: fout: som van bordscore niet gelijk aan 1
+Ronde 11: Dworp 2: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 11: Dworp 2: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 11: Dworp 2: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 11: Dworp 2: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 1: Dworp 1: fout: '418 geraardsbergen 1' niet gevonden in kruistabel (spelling?)
+Ronde 1: Dworp 1: waarschuwing: score tegen '418 geraardsbergen 1' is niet gecontroleerd in kruistabel
+Ronde 1: Dworp 2: fout: '719 waterschei' niet gevonden in kruistabel (spelling?)
+Ronde 1: Dworp 2: waarschuwing: score tegen '719 waterschei' is niet gecontroleerd in kruistabel
+Ronde 2: Dworp 1: fout: '245 caïssa ganshoren' niet gevonden in kruistabel (spelling?)
+Ronde 2: Dworp 1: waarschuwing: score tegen '245 caïssa ganshoren' is niet gecontroleerd in kruistabel
+Ronde 2: Dworp 2: fout: '238 zaventem' niet gevonden in kruistabel (spelling?)
+Ronde 2: Dworp 2: waarschuwing: score tegen '238 zaventem' is niet gecontroleerd in kruistabel
+Ronde 3: Dworp 1: fout: '203 fous du roy' niet gevonden in kruistabel (spelling?)
+Ronde 3: Dworp 1: waarschuwing: score tegen '203 fous du roy' is niet gecontroleerd in kruistabel
+Ronde 3: Dworp 2: fout: '20165 waterloo' niet gevonden in kruistabel (spelling?)
+Ronde 3: Dworp 2: waarschuwing: score tegen '20165 waterloo' is niet gecontroleerd in kruistabel
+Ronde 4: Dworp 1: fout: '244 thibaut' niet gevonden in kruistabel (spelling?)
+Ronde 4: Dworp 1: waarschuwing: score tegen '244 thibaut' is niet gecontroleerd in kruistabel
+Ronde 4: Dworp 2: fout: '707 tessenderlo' niet gevonden in kruistabel (spelling?)
+Ronde 4: Dworp 2: waarschuwing: score tegen '707 tessenderlo' is niet gecontroleerd in kruistabel
+Ronde 5: Dworp 1: fout: '250 gligoric' niet gevonden in kruistabel (spelling?)
+Ronde 5: Dworp 1: waarschuwing: score tegen '250 gligoric' is niet gecontroleerd in kruistabel
+Ronde 5: Dworp 2: fout: '253 dragon bleu' niet gevonden in kruistabel (spelling?)
+Ronde 5: Dworp 2: waarschuwing: score tegen '253 dragon bleu' is niet gecontroleerd in kruistabel
+Ronde 6: Dworp 1: fout: 'n.m.' niet gevonden in kruistabel (spelling?)
+Ronde 6: Dworp 1: waarschuwing: score tegen 'n.m.' is niet gecontroleerd in kruistabel
+Ronde 6: Dworp 2: fout: '249 ruisbroek 2' niet gevonden in kruistabel (spelling?)
+Ronde 6: Dworp 2: waarschuwing: score tegen '249 ruisbroek 2' is niet gecontroleerd in kruistabel
+Ronde 7: Dworp 1: fout: 'n.m.' niet gevonden in kruistabel (spelling?)
+Ronde 7: Dworp 1: waarschuwing: score tegen 'n.m.' is niet gecontroleerd in kruistabel
+Ronde 7: Dworp 2: fout: '234 le mat' niet gevonden in kruistabel (spelling?)
+Ronde 7: Dworp 2: waarschuwing: score tegen '234 le mat' is niet gecontroleerd in kruistabel
+Ronde 8: Dworp 1: fout: 'n.m.' niet gevonden in kruistabel (spelling?)
+Ronde 8: Dworp 1: waarschuwing: score tegen 'n.m.' is niet gecontroleerd in kruistabel
+Ronde 8: Dworp 2: fout: '243 leuven 2' niet gevonden in kruistabel (spelling?)
+Ronde 8: Dworp 2: waarschuwing: score tegen '243 leuven 2' is niet gecontroleerd in kruistabel
+Ronde 9: Dworp 1: fout: 'cre charleroi 2' niet identiek aan 'cre charleroi ' in kruistabel
+Ronde 9: Dworp 1: waarschuwing: score tegen 'cre charleroi 2' niet ingevuld in kruistabel
+Ronde 9: Dworp 2: fout: '223 wavre 2' niet gevonden in kruistabel (spelling?)
+Ronde 9: Dworp 2: waarschuwing: score tegen '223 wavre 2' is niet gecontroleerd in kruistabel
+Ronde 10: Dworp 1: fout: 'n.m.' niet gevonden in kruistabel (spelling?)
+Ronde 10: Dworp 1: waarschuwing: score tegen 'n.m.' is niet gecontroleerd in kruistabel
+Ronde 10: Dworp 2: fout: '252 echiquier anderlecht 1' niet gevonden in kruistabel (spelling?)
+Ronde 10: Dworp 2: waarschuwing: score tegen '252 echiquier anderlecht 1' is niet gecontroleerd in kruistabel
+Ronde 11: Dworp 1: fout: '518 soignies' niet gevonden in kruistabel (spelling?)
+Ronde 11: Dworp 1: waarschuwing: score tegen '518 soignies' is niet gecontroleerd in kruistabel
+Ronde 11: Dworp 2: fout: '418 geraardsbergen ' niet gevonden in kruistabel (spelling?)
+Ronde 11: Dworp 2: waarschuwing: score tegen '418 geraardsbergen ' is niet gecontroleerd in kruistabel
