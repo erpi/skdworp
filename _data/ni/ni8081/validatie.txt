@@ -52,21 +52,5 @@ Ronde 9: Dworp 1: Bord 3: fout: som van bordscore niet gelijk aan 1
 Ronde 9: Dworp 1: Bord 4: fout: som van bordscore niet gelijk aan 1
 Ronde 9: Dworp 1: Bord 5: fout: som van bordscore niet gelijk aan 1
 Ronde 9: Dworp 1: Bord 6: fout: som van bordscore niet gelijk aan 1
-Ronde 1: Dworp 1: fout: '425 dendermonde' niet gevonden in kruistabel (spelling?)
-Ronde 1: Dworp 1: waarschuwing: score tegen '425 dendermonde' is niet gecontroleerd in kruistabel
-Ronde 2: Dworp 1: fout: '144 wilrijk' niet gevonden in kruistabel (spelling?)
-Ronde 2: Dworp 1: waarschuwing: score tegen '144 wilrijk' is niet gecontroleerd in kruistabel
-Ronde 3: Dworp 1: fout: '229 caïssa woluwe' niet gevonden in kruistabel (spelling?)
-Ronde 3: Dworp 1: waarschuwing: score tegen '229 caïssa woluwe' is niet gecontroleerd in kruistabel
-Ronde 4: Dworp 1: fout: '707 tessenderlo' niet gevonden in kruistabel (spelling?)
-Ronde 4: Dworp 1: waarschuwing: score tegen '707 tessenderlo' is niet gecontroleerd in kruistabel
-Ronde 6: Dworp 1: fout: '114 k. mechelse sk 2' niet gevonden in kruistabel (spelling?)
-Ronde 6: Dworp 1: waarschuwing: score tegen '114 k. mechelse sk 2' is niet gecontroleerd in kruistabel
-Ronde 7: Dworp 1: fout: '108 merksem' niet gevonden in kruistabel (spelling?)
-Ronde 7: Dworp 1: waarschuwing: score tegen '108 merksem' is niet gecontroleerd in kruistabel
-Ronde 8: Dworp 1: fout: '138 bornem' niet gevonden in kruistabel (spelling?)
-Ronde 8: Dworp 1: waarschuwing: score tegen '138 bornem' is niet gecontroleerd in kruistabel
-Ronde 9: Dworp 1: fout: '436 lokeren' niet gevonden in kruistabel (spelling?)
-Ronde 9: Dworp 1: waarschuwing: score tegen '436 lokeren' is niet gecontroleerd in kruistabel
 Ronde 10: Dworp 1: waarschuwing: geen ploegnaamgevonden
 Ronde 11: Dworp 1: waarschuwing: geen ploegnaamgevonden
