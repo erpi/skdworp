@@ -4,6 +4,8 @@ title: Deelnemers Memorial 2017
 permalink: /mm-deelnemers/
 noindex: true
 sitemap: false
+fide: true
+club: false
 ---
 {% assign deelnemers = site.data.mm.mm2017.deelnemers | where:"aanwezig","ja" | sort: "nationale elo", "first" | reverse %}
 
@@ -25,6 +27,12 @@ sitemap: false
         <th>voornaam</th>
         <th>titel</th>
         <th>nationale elo</th>
+        {% if page.fide %}
+        <th>fide (blitz) elo</th>
+        {% endif %}
+        {% if page.club %}
+        <th>club</th>
+        {% endif %}
       </tr>
     </thead>
     <tbody>
@@ -35,6 +43,12 @@ sitemap: false
         <td>{{ deelnemer.voornaam | downcase}}</td>
         <td>{{ deelnemer.schaaktitel | downcase }}</td>
         <td>{{ deelnemer["nationale elo"] }}</td>
+        {% if page.fide %}
+        <td>{{ deelnemer["fide elo"] }}</td>
+        {% endif %}
+        {% if page.club %}
+        <td>{{ deelnemer.club | downcase }}</td>
+        {% endif %}
       </tr>
       {% endfor %}
     </tbody>
