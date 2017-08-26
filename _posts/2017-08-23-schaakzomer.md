@@ -1,5 +1,5 @@
-
 ---
+description: schaakzomer
 tag: varia
 fotograaf: Amruta Mokal
 title: Schaakzomer 2017
