@@ -1,4 +1,5 @@
 ---
+_id: 614d2e00-2867-11e7-8592-dd4afdea08e7
 description: schaakzomer
 tag: varia
 fotograaf: Amruta Mokal
