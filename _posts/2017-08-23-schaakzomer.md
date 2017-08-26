@@ -1,3 +1,4 @@
+
 ---
 _id: 57a74bd0-8837-11e7-8858-57dcd9b266c8
 tag: varia
@@ -33,3 +34,5 @@ Het volgende tornooi waar opnieuw Walter actief was, is het open van Charleroi. 
 In Charleroi was er ook een snelschaaktornooi waar ik aan deelnam. Het tempo was deze keer 3 + 2, wat me normaal helemaal niet ligt maar ik speelde toch een verdienstelijk tornooi met o.a. remises tegen 2 fide meesters (Hamblok en de Franse James Eden) en een eind score van 6.5/11. Ik vraag me af of we dit tempo in de toekomst meer gaan zien? Op topniveau is dit zeker het geval en misschien moeten we dit ook eens overwegen voor onze blitz avonden?
 
 Als laatste tornooi deze zomer was er het open van Geraardsbergen met opnieuw een blitz tornooi in de marge. Aan het hoofdtornooi doen traditiegetrouw Eddy, Frank, Bob en Serge mee terwijl de blitz al jaren het domein is van Eric, Bernard, Serge en mezelf. Bernard kon er jammer genoeg niet bij zijn dit jaar en we vergeten de blitz liefst heel snel wegens de vrij povere scores (5.5/9 voor Serge en 4/9 voor Eric en mezelf), behalve dan dat het gezellig was en we wat reclame hebben kunnen maken voor de memorial Debast. In het open tornooi waren vooral Frank en Serge op dreef. Serge speelde ei zo na de perfecte Manhattan Dodge maar slaagde er niet in zijn laatste ronde te winnen en liet zo de 2de plaats verloren gaan. Frank speelde van in het begin een sterk tornooi met mooie resultaten tegen +2000 spelers. Hij haalde in de laatste ronde remise tegen Schalckx (FM) en klokte, net als Serge, af op 6 punten. Beide laatste partijen waren trouwens live te volgen online.
+
+[foto Walter]: {{ "/images/kk1617/Walter.jpg" | absolute_url }}
