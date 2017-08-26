@@ -18,7 +18,6 @@ stelling_oplossing: >-
 date: '2017-08-23T19:14:53.719Z'
 layout: verslag
 excerpt_separator: <!--more-->
-draft: true
 ---
 Naar goede gewoonte waren er deze zomer tal van onze leden actief op verschillende grote en kleinere tornooien, tijd voor een kort verslagje dus.<!--more-->
 
