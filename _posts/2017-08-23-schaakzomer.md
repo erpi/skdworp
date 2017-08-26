@@ -3,7 +3,7 @@ _id: 57a74bd0-8837-11e7-8858-57dcd9b266c8
 tag: varia
 title: Schaakzomer 2017
 author: Diederik
-stelling_fen: 8/3k4/8/PP6/K5R1/8/6pr/8 b - -
+stelling_fen: 8/2k5/8/PP6/K5R1/8/6pr/8 b - -
 stelling_titel: Combinatie in blitz
 stelling_wit: Diederik Lot
 stelling_zwart: Godry Clement
