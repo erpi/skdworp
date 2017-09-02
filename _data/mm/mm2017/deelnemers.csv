@@ -1,19 +1,19 @@
 Tijdstempel,achternaam,voornaam,stamnummer kbsb,nationale elo,stamnummer fide,fide elo,nationaliteit,schaaktitel,aanwezig,club
 13-7-2017 21:39:01,Geuens,Dirk,20796,1810,,,bel,,ja,Mechelen
 14-7-2017 9:33:50,Deschuyteneer,Lucien,64068,1366,209570,1520,bel,,ja,Geraardsbergen
-15-7-2017 14:07:11,De Bosscher,Peter,655,1789,214205,1802,bel,,ja,Dworp
-16-7-2017 10:06:12,Flamée,Dirk,19135,1643,200689,1757,bel,,ja,Geraardsbergen
+15-7-2017 14:07:11,De Bosscher,Peter,655,1789,214205,,bel,,ja,Dworp
+16-7-2017 10:06:12,Flamée,Dirk,19135,1643,200689,,bel,,ja,Geraardsbergen
 16-7-2017 11:33:08,Steynen,Christophe,12405,1293,,,bel,,ja,Aalst
 20-7-2017 11:07:26,Benmadani,Yazid,,,211647,1504,alg,,,Mouscron
-21-7-2017 22:31:05,Verrijken,Geert,62766,1942,209201,1908,bel,,ja,Dworp
+21-7-2017 22:31:05,Verrijken,Geert,62766,1942,209201,,bel,,ja,Dworp
 24-7-2017 17:00:16,Lerinckx,Niels,12699,,,,bel,,ja,Dworp
 24-7-2017 17:00:50,Lerinckx,Sander,12702,,,,bel,,ja,Dworp
 24-7-2017 17:01:31,Laureys,Mats,12750,,,,bel,,ja,Dworp
 26-7-2017 15:58:28,Van Wijnendaele,Jovanni,10612,1647,235970,1630,bel,,ja,Aalst
 27-7-2017 9:20:44,Benmadani,Yazid,17545,1558,7908881,1545,alg,,ja,Mouscron
 28-7-2017 20:34:17,Lenaerts,Lennert,3003,2277,211435,2303,bel,fm,ja,Genk
-1-8-2017 9:53:08,Van de Wynkele,Herman,9644,1977,207144,2030,bel,,ja,MSV
-4-8-2017 10:33:49,Huysman,Robert,15482,1484,200697,1458,bel,,ja,Halle
+1-8-2017 9:53:08,Van de Wynkele,Herman,9644,1977,207144,,bel,,ja,MSV
+4-8-2017 10:33:49,Huysman,Robert,15482,1484,200697,,bel,,ja,Halle
 7-8-2017 13:28:40,Atanasiu,Nicolae,24856,1872,262420,1926,bel,,ja,Le Pantin
 7-8-2017 13:30:13,Elinckx,Michel,14772,1409,246760,1501,bel,,ja,Le Pantin
 7-8-2017 16:38:56,Van Bunderen,Gert,18686,1861,209023,1863,bel,,ja,Hoboken
@@ -23,7 +23,7 @@ Tijdstempel,achternaam,voornaam,stamnummer kbsb,nationale elo,stamnummer fide,fi
 10-8-2017 17:25:58,Vanrossum,Matthias,,,,,bel,,ja,
 16-8-2017 8:09:09,Aragones-Melhem,Georgy,99933,2171,243108,2026,bel,,ja,CREB
 18-8-2017 15:06:33,Roos,David,11789,2092,210064,2079,bel,,ja,Zottegem
-20-8-2017 19:15:40,Roos,Adrian,11118,2278,263621,2289,bel,fm,ja,Zottegem
+20-8-2017 19:15:40,Roos,Adrian,11118,2278,263621,,bel,fm,ja,Zottegem
 24-8-2017 22:39:57,Bultijnck,Kristoff,16944,,254975,,bel,,ja,Halle
 26-8-2017 15:06:41,Licandro,Frederico,17014,1522,2866477,1522,ita,,ja,Brussels Chess Club
 27-8-2017 17:51:00,Anné,Philippe,48267,1409,212199,,bel,,ja,KASK
@@ -34,10 +34,11 @@ Tijdstempel,achternaam,voornaam,stamnummer kbsb,nationale elo,stamnummer fide,fi
 30-8-2017 19:15:25,Sohet,Cédric,60468,1744,228206,1714,bel,,ja,
 31-8-2017 0:24:11,Dardha,Daniel,130,2131,240990,2216,bel,,ja,
 31-8-2017 0:25:35,Dardha,Arben,130,2309,240990,2286,bel,fm,ja,
+2-9-2017 15:18:57,Taleb,mohamad,,,,,bel,,ja,
 13-7-2017 10:57:03,Lot,Diederik,9954,1983,231223,1959,bel,,ja,Dworp
 13-7-2017 10:57:03,Van de Velde,Filip,31682,1727,221759,1802,bel,,ja,Dworp
 13-7-2017 10:57:03,Vanderwaeren,Serge,20621,2172,200069,2189,bel,fm,ja,Dworp
-13-7-2017 10:57:03,Spaens,Kjell,29343,1973,208191,1937,bel,,ja,Dworp
+13-7-2017 10:57:03,Spaens,Kjell,29343,1973,208191,,bel,,ja,Dworp
 13-7-2017 10:57:03,Roels,Frederik,22659,1950,209503,2010,bel,,ja,KGSRL Gent
 13-7-2017 10:57:03,De Reymaeker,Walter,34584,1882,208000,1848,bel,,ja,Dworp
 13-7-2017 10:57:03,Cornelis,Eric,76317,1675,213772,1733,bel,,ja,Dworp
