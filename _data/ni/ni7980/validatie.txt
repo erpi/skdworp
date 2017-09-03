@@ -94,19 +94,15 @@ Ronde 4: Dworp 1: waarschuwing: score tegen '244 thibaut 1' niet ingevuld in kru
 Ronde 4: Dworp 2: waarschuwing: score tegen '707 tessenderlo 1' niet ingevuld in kruistabel
 Ronde 5: Dworp 1: waarschuwing: score tegen '250 gligoric' niet ingevuld in kruistabel
 Ronde 5: Dworp 2: waarschuwing: score tegen '253 dragon bleu' niet ingevuld in kruistabel
-Ronde 6: Dworp 1: fout: 'n.m.' niet gevonden in kruistabel (spelling?)
-Ronde 6: Dworp 1: waarschuwing: score tegen 'n.m.' is niet gecontroleerd in kruistabel
+Ronde 6: Dworp 1: waarschuwing: geen ploegnaamgevonden
 Ronde 6: Dworp 2: waarschuwing: score tegen '249 ruisbroek 2' niet ingevuld in kruistabel
-Ronde 7: Dworp 1: fout: 'n.m.' niet gevonden in kruistabel (spelling?)
-Ronde 7: Dworp 1: waarschuwing: score tegen 'n.m.' is niet gecontroleerd in kruistabel
+Ronde 7: Dworp 1: waarschuwing: geen ploegnaamgevonden
 Ronde 7: Dworp 2: waarschuwing: score tegen '234 le mat 4' niet ingevuld in kruistabel
-Ronde 8: Dworp 1: fout: 'n.m.' niet gevonden in kruistabel (spelling?)
-Ronde 8: Dworp 1: waarschuwing: score tegen 'n.m.' is niet gecontroleerd in kruistabel
+Ronde 8: Dworp 1: waarschuwing: geen ploegnaamgevonden
 Ronde 8: Dworp 2: waarschuwing: score tegen '243 leuven 2' niet ingevuld in kruistabel
 Ronde 9: Dworp 1: waarschuwing: score tegen '501 cre charleroi 2' niet ingevuld in kruistabel
 Ronde 9: Dworp 2: waarschuwing: score tegen '223 wavre 2' niet ingevuld in kruistabel
-Ronde 10: Dworp 1: fout: 'n.m.' niet gevonden in kruistabel (spelling?)
-Ronde 10: Dworp 1: waarschuwing: score tegen 'n.m.' is niet gecontroleerd in kruistabel
+Ronde 10: Dworp 1: waarschuwing: geen ploegnaamgevonden
 Ronde 10: Dworp 2: waarschuwing: score tegen '252 echiquier anderlecht 1' niet ingevuld in kruistabel
 Ronde 11: Dworp 1: waarschuwing: score tegen '518 soignies' niet ingevuld in kruistabel
 Ronde 11: Dworp 2: waarschuwing: score tegen '418 geraardsbergen 2' niet ingevuld in kruistabel

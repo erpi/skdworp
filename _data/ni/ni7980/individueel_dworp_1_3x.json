@@ -90,39 +90,6 @@
     ]
   },
   {
-    "ronde": "6",
-    "datum": "06-01-1980",
-    "thuis": "n.m.",
-    "uit": "n.m.",
-    "tscore": "",
-    "uscore": "",
-    "tgem": "",
-    "ugem": "",
-    "borden": []
-  },
-  {
-    "ronde": "7",
-    "datum": "20-01-1980",
-    "thuis": "n.m.",
-    "uit": "n.m.",
-    "tscore": "",
-    "uscore": "",
-    "tgem": "",
-    "ugem": "",
-    "borden": []
-  },
-  {
-    "ronde": "8",
-    "datum": "03-02-1980",
-    "thuis": "n.m.",
-    "uit": "n.m.",
-    "tscore": "",
-    "uscore": "",
-    "tgem": "",
-    "ugem": "",
-    "borden": []
-  },
-  {
     "ronde": "9",
     "datum": "10-02-1980",
     "thuis": "501 CRE Charleroi 2",
@@ -139,17 +106,6 @@
       {"tr": "3", "ur": "1", "tspeler": "Majewski", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1708", "tstam": "", "ustam": "19372"},
       {"tr": "1", "ur": "3", "tspeler": "Artisien C", "uspeler": "Janssens Fritz", "telo": "", "uelo": "1450", "tstam": "", "ustam": "57282"}
     ]
-  },
-  {
-    "ronde": "10",
-    "datum": "02-03-1980",
-    "thuis": "n.m.",
-    "uit": "n.m.",
-    "tscore": "",
-    "uscore": "",
-    "tgem": "",
-    "ugem": "",
-    "borden": []
   },
   {
     "ronde": "11",
