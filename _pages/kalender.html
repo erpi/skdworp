@@ -1,14 +1,15 @@
 ---
 layout: pills
-title: Kalender 2016 - 2017
-description: Dworpse Schaakkring. Agenda 2016 - 2017.
+title: (nog zeer onvolledige) kalender 2017 - 2018
+description: Dworpse Schaakkring. Agenda 2017 - 2018.
 permalink: /kalender/
-jaar1: "2016"
-jaar2: "2017"
+jaar1: "2017"
+jaar2: "2018"
 tabs:
-  - 2016
   - 2017
-last_modified_at: 2017-08-16
+  - 2018
+  - externe kalenders
+last_modified_at: 2017-09-04
 ---
 {% assign tab = page.tabs[0] %}
 {% include tab-pane-start.html href=tab aktief=true %}
@@ -18,4 +19,17 @@ last_modified_at: 2017-08-16
 {% assign tab = page.tabs[1] %}
 {% include tab-pane-start.html href=tab aktief=false %}
 {% include table-kalender.html jaar=page.jaar2 %}
+{% include tab-pane-end.html %}
+
+{% assign tab = page.tabs[2] %}
+{% include tab-pane-start.html href=tab aktief=false %}
+<h3>goede kalenders om het schaakgebeuren in belgië te volgen</h3>
+<ul>
+  <li><p>de belgische schaakbond heeft zijn <a href="http://www.frbe-kbsb.be/index.php/nl/nieuws/nieuws">tornooikalender</a></p></li>
+  <li><p>de <a href="http://www.schaakkalender.weebly.com/" target="_blank">schaakkalender</a> van ben van de putte</p></li>
+  <li><p>een initiatief van schaakclub caballos is <a href="http://www.planyourchess.com/" target="_blank">plan your chess</a></p></li>
+  <li><p><a href="http://www.cerclepantin.be/calendrier.php" target="_blank">le calendrier</a> van de brusselse club le pantin</p></li>
+  <li><p>en tot slot hebben we nog de <a href="https://chess-calendar.eu/index.php?searchquery=120km&localisation=Halle%2C+BEL" target="_blank">grootste schaakkalender ter wereld</a></p></li>
+</ul>
+
 {% include tab-pane-end.html %}
