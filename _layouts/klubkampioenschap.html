@@ -69,11 +69,11 @@ bv. "2016" als waarde voor beginjaar geeft als waarde voor submap "kk1617"
 
   {% assign data = bestand[1] %}
   {% if bestand[0] contains "uitslagen" %}
-    {% include table-klubkampioenschap.html datafile=data jaar="" %}
+    {% include table-klubkampioenschap.html datafile=data jaar="" id="uitslag-01" %}
   {% elsif bestand[0] contains "eindstand" %}
     {% include table-eindstand.html datafile=data %}
   {% elsif bestand[0] contains "tussenstand" %}
-    {% include table-tussenstand.html id="kk" %}
+    {% include table-tussenstand.html id="kk-01" %}
   {% endif %}
 
   {% include tab-pane-end.html %}

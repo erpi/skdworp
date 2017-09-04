@@ -1,5 +1,5 @@
 <div class="table-responsive">
-  <table class="table uitslagen">
+  <table class="table uitslagen" id="{{ include.id }}">
     <tbody>
       {% for ronde in include.datafile %}
         <tr><th colspan="2">{{ ronde.ronde | downcase }}</th>

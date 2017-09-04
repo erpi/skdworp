@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    var kruisTabel, soort, namen = [], rooster = [];
+    var kruisTabel, soort, uitslagenId, n, namen, rooster;
     function uitslagenInlezen() {
         var tds, witIndex, zwartIndex, wr, zr;
         function indexNaam(naam) {
@@ -18,7 +18,8 @@ $(document).ready(function(){
             }
             return i;
         }
-        $('.uitslagen > tbody  > tr').each(function() {
+        
+        $(uitslagenId + ' > tbody  > tr').each(function() {
             tds = $(this).children('td');
             if (tds.length == 7) {
                 witIndex = indexNaam(tds.eq(1).html());
@@ -165,12 +166,17 @@ $(document).ready(function(){
         return tabel;
     }
     kruisTabel = document.getElementsByClassName("kruis-tussenstand");
-    if (kruisTabel[0]) {
-        soort = kruisTabel[0].id;
+    for (n = 0; n < kruisTabel.length; n++) {
+        namen = [];
+        rooster = [];
+        // soort van tabel: 'nn' of 'kk'
+        soort = kruisTabel[n].id.substr(0, 2);
+        // id van de tabel met uitslagen, bv. 'uitslag-3b'
+        uitslagenId = '#uitslag-' + kruisTabel[n].id.substr(-2, 2);
         uitslagenInlezen();
         roosterTotalenToevoegen();
         sorteerRooster();
         roosterVervolledigen();
-        kruisTabel[0].innerHTML = htmlRooster();
+        kruisTabel[n].innerHTML = htmlRooster();
     }
 });
