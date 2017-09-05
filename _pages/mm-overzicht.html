@@ -27,11 +27,17 @@ sitemap: false
         <th>elo</th>
         <th>fide id</th>
         <th>fide elo</th>
+        <th>fide blitz</th>
+        <th>elo gebruikt</th>
+        <th>soort</th>
         <th>nat</th>
         <th>titel</th>
         <th>invoerdatum</th>
         <th>aanwezig</th>
         <th>club</th>
+        <th>betaald</th>
+        <th>bedrag</th>
+        <th>svb</th>
       </tr>
     </thead>
     <tbody>
@@ -44,11 +50,17 @@ sitemap: false
         <td>{{ deelnemer["nationale elo"] }}</td>
         <td>{{ deelnemer["stamnummer fide"] }}</td>
         <td>{{ deelnemer["fide elo"] }}</td>
+        <td>{{ deelnemer["fide blitz"] }}</td>
+        <td>{{ deelnemer.rating }}</td>
+        <td>{{ deelnemer["rating soort"] }}</td>
         <td>{{ deelnemer.nationaliteit }}</td>
         <td>{{ deelnemer.schaaktitel }}</td>
         <td>{{ deelnemer.Tijdstempel }}</td>
         <td>{{ deelnemer.aanwezig }}</td>
         <td>{{ deelnemer.club }}</td>
+        <td>{{ deelnemer["payment received"] | downcase }}</td>
+        <td>{{ deelnemer.amount }}</td>
+        <td>{{ deelnemer.SVB | downcase }}</td>
       </tr>
       {% endfor %}
     </tbody>
