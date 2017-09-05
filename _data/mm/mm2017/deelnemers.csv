@@ -1,47 +1,48 @@
-Tijdstempel,achternaam,voornaam,stamnummer kbsb,nationale elo,stamnummer fide,fide elo,nationaliteit,schaaktitel,aanwezig,club
-13-7-2017 21:39:01,Geuens,Dirk,20796,1810,,,bel,,neen,Mechelen
-14-7-2017 9:33:50,Deschuyteneer,Lucien,64068,1366,209570,1520,bel,,ja,Geraardsbergen
-15-7-2017 14:07:11,De Bosscher,Peter,655,1789,214205,,bel,,ja,Dworp
-16-7-2017 10:06:12,Flamée,Dirk,19135,1643,200689,,bel,,ja,Geraardsbergen
-16-7-2017 11:33:08,Steynen,Christophe,12405,1293,,,bel,,ja,Aalst
-20-7-2017 11:07:26,Benmadani,Yazid,,,211647,1504,alg,,neen,Mouscron
-21-7-2017 22:31:05,Verrijken,Geert,62766,1942,209201,,bel,,ja,Dworp
-24-7-2017 17:00:16,Lerinckx,Niels,12699,,,,bel,,ja,Dworp
-24-7-2017 17:00:50,Lerinckx,Sander,12702,,,,bel,,ja,Dworp
-24-7-2017 17:01:31,Laureys,Mats,12750,,,,bel,,ja,Dworp
-26-7-2017 15:58:28,Van Wijnendaele,Jovanni,10612,1647,235970,1630,bel,,ja,Aalst
-27-7-2017 9:20:44,Benmadani,Yazid,17545,1558,7908881,1545,alg,,ja,Mouscron
-28-7-2017 20:34:17,Lenaerts,Lennert,3003,2277,211435,2303,bel,fm,ja,Genk
-1-8-2017 9:53:08,Van de Wynkele,Herman,9644,1977,207144,,bel,,ja,MSV
-4-8-2017 10:33:49,Huysman,Robert,15482,1484,200697,,bel,,ja,Halle
-7-8-2017 13:28:40,Atanasiu,Nicolae,24856,1872,262420,1926,bel,,ja,Le Pantin
-7-8-2017 13:30:13,Elinckx,Michel,14772,1409,246760,1501,bel,,ja,Le Pantin
-7-8-2017 16:38:56,Van Bunderen,Gert,18686,1861,209023,1863,bel,,ja,Hoboken
-8-8-2017 9:59:38,De Block,Yordi,11030,2080,214175,1985,bel,,ja,Opwijk
-8-8-2017 10:00:56,De Block,Fabio,11034,1919,226181,1855,bel,,ja,Opwijk
-9-8-2017 19:06:38,Pouliart,Sander,15856,1325,251062,1204,bel,,neen,Mechelen
-10-8-2017 17:25:58,Vanrossum,Matthias,,,,,bel,,ja,Dworp
-16-8-2017 8:09:09,Aragones-Melhem,Georgy,99933,2171,243108,2026,bel,,ja,CREB
-18-8-2017 15:06:33,Roos,David,11789,2092,210064,2079,bel,,ja,Zottegem
-20-8-2017 19:15:40,Roos,Adrian,11118,2278,263621,,bel,fm,ja,Zottegem
-24-8-2017 22:39:57,Bultijnck,Kristoff,16944,,254975,,bel,,ja,Halle
-26-8-2017 15:06:41,Licandro,Frederico,17014,1522,2866477,1522,ita,,ja,Brussels Chess Club
-27-8-2017 17:51:00,Anné,Philippe,48267,1409,212199,,bel,,ja,KASK
-28-8-2017 21:29:40,Meskens,Stephan,33481,1843,2502275,1876,irl,,ja,Opwijk
-28-8-2017 21:32:13,Morozova,Iuliia,13493,2054,14104946,1904,ukr,wfm,ja,Opwijk
-29-8-2017 9:44:04,Pletinckx,Eddy,76325,1827,227846,,bel,,ja,Dworp
-29-8-2017 12:38:01,Boucquet,Emile,34738,2166,233161,2157,bel,,ja,KBSK Brugge
-30-8-2017 19:15:25,Sohet,Cédric,60468,1744,228206,1714,bel,,ja,The Belgian CC
-31-8-2017 0:24:11,Dardha,Daniel,130,2131,240990,2216,bel,,ja,Hoboken
-31-8-2017 0:25:35,Dardha,Arben,130,2309,240990,2286,bel,fm,ja,Hoboken
-2-9-2017 15:18:57,Taleb,mohamad,,,,,bel,,ja,Dworp
-3-9-2017 19:04:17,Abolianin,Arthur,,2329,202606,2329,bel,im,ja,
-4-9-2017 13:29:40,Pinto,Antonio,,1955,833738,1903,ita,,ja,
-13-7-2017 10:57:03,Lot,Diederik,9954,1983,231223,1976,bel,,ja,Dworp
-13-7-2017 10:57:03,Van de Velde,Filip,31682,1727,221759,,bel,,ja,Dworp
-13-7-2017 10:57:03,Vanderwaeren,Serge,20621,2172,200069,,bel,fm,ja,Dworp
-13-7-2017 10:57:03,Spaens,Kjell,29343,1973,208191,,bel,,ja,Dworp
-13-7-2017 10:57:03,Roels,Frederik,22659,1950,209503,2010,bel,,ja,KGSRL Gent
-13-7-2017 10:57:03,De Reymaeker,Walter,34584,1882,208000,,bel,,ja,Dworp
-13-7-2017 10:57:03,Cornelis,Eric,76317,1675,213772,,bel,,ja,Dworp
-13-7-2017 10:57:03,Vennekens,Camiel,37168,1828,228834,1812,bel,,ja,Hoboken
+Tijdstempel,achternaam,voornaam,stamnummer kbsb,nationale elo,stamnummer fide,fide elo,fide blitz,rating,rating soort,nationaliteit,schaaktitel,aanwezig,club,payment received,amount,SVB
+13-7-2017 21:39:01,Geuens,Dirk,20796,1810,,,,1810,nationale rating,bel,,neen,Mechelen,,,N
+14-7-2017 9:33:50,Deschuyteneer,Lucien,64068,1366,209570,1520,,1520,fide standaard,bel,,ja,Geraardsbergen,,,N
+15-7-2017 14:07:11,De Bosscher,Peter,655,1789,214205,,,1789,nationale rating,bel,,ja,Dworp,,,J
+16-7-2017 10:06:12,Flamée,Dirk,19135,1643,200689,,,1643,nationale rating,bel,,ja,Geraardsbergen,,,N
+16-7-2017 11:33:08,Steynen,Christophe,12405,1293,,,,1293,nationale rating,bel,,ja,Dworp,,,J
+20-7-2017 11:07:26,Benmadani,Yazid,,,211647,1504,,1504,fide standaard,alg,,neen,Mouscron,,,N
+21-7-2017 22:31:05,Verrijken,Geert,62766,1942,209201,,,1942,nationale rating,bel,,ja,Dworp,,,J
+24-7-2017 17:00:16,Lerinckx,Niels,12699,,,,,,,bel,,ja,Dworp,,,J
+24-7-2017 17:00:50,Lerinckx,Sander,12702,,,,,,,bel,,ja,Dworp,,,J
+24-7-2017 17:01:31,Laureys,Mats,12750,,,,,,,bel,,ja,Dworp,,,J
+26-7-2017 15:58:28,Van Wijnendaele,Jovanni,10612,1647,235970,1630,,1630,fide standaard,bel,,ja,Aalst,Ja,10,N
+27-7-2017 9:20:44,Benmadani,Yazid,17545,1558,7908881,1545,,1545,fide standaard,alg,,ja,Mouscron,,,N
+28-7-2017 20:34:17,Lenaerts,Lennert,3003,2277,211435,2303,,2303,fide standaard,bel,fm,ja,Genk,Ja,5,N
+1-8-2017 9:53:08,Van de Wynkele,Herman,9644,1977,207144,,,1977,nationale rating,bel,,ja,MSV,,,N
+4-8-2017 10:33:49,Huysman,Robert,15482,1484,200697,,,1484,nationale rating,bel,,ja,Halle,,,J
+7-8-2017 13:28:40,Atanasiu,Nicolae,24856,1872,262420,1926,,1926,fide standaard,bel,,ja,Le Pantin,Ja,10,N
+7-8-2017 13:30:13,Elinckx,Michel,14772,1409,246760,1501,,1501,fide standaard,bel,,ja,Le Pantin,Ja,10,N
+7-8-2017 16:38:56,Van Bunderen,Gert,18686,1861,209023,1863,,1863,fide standaard,bel,,ja,Hoboken,Ja,10,N
+8-8-2017 9:59:38,De Block,Yordi,11030,2080,214175,1985,,1985,fide standaard,bel,,ja,Opwijk,,,J
+8-8-2017 10:00:56,De Block,Fabio,11034,1919,226181,1855,,1855,fide standaard,bel,,ja,Opwijk,,,J
+9-8-2017 19:06:38,Pouliart,Sander,15856,1325,251062,1204,,1204,fide standaard,bel,,neen,Mechelen,,,N
+10-8-2017 17:25:58,Vanrossum,Matthias,,,,,,,,bel,,ja,Dworp,Ja,10,J
+16-8-2017 8:09:09,Aragones-Melhem,Georgy,99933,2171,243108,2026,,2026,fide standaard,bel,,ja,CREB,,,N
+18-8-2017 15:06:33,Roos,David,11789,2092,210064,2079,,2079,fide standaard,bel,,ja,Zottegem,,,N
+20-8-2017 19:15:40,Roos,Adrian,11118,2278,263621,,,2278,nationale rating,bel,fm,ja,Zottegem,,,N
+24-8-2017 22:39:57,Bultijnck,Kristoff,16944,,254975,,,,,bel,,ja,Halle,Ja,10,J
+26-8-2017 15:06:41,Licandro,Frederico,17014,1522,2866477,1522,,1522,fide standaard,ita,,ja,Brussels Chess Club,,,N
+27-8-2017 17:51:00,Anné,Philippe,48267,1409,212199,,,1409,nationale rating,bel,,ja,KASK,,,N
+28-8-2017 21:29:40,Meskens,Stephan,33481,1843,2502275,1876,,1876,fide standaard,irl,,ja,Opwijk,Ja,10,J
+28-8-2017 21:32:13,Morozova,Iuliia,13493,2054,14104946,1904,,1904,fide standaard,ukr,wfm,ja,Opwijk,Ja,10,J
+29-8-2017 9:44:04,Pletinckx,Eddy,76325,1827,227846,,,1827,nationale rating,bel,,ja,Dworp,Ja,10,J
+29-8-2017 12:38:01,Boucquet,Emile,34738,2166,233161,2157,,2157,fide standaard,bel,,ja,KBSK Brugge,,,N
+30-8-2017 19:15:25,Sohet,Cédric,60468,1744,228206,1714,,1714,fide standaard,bel,,ja,The Belgian CC,Ja,10,N
+31-8-2017 0:24:11,Dardha,Daniel,130,2131,240990,2216,,2216,fide standaard,bel,,ja,Hoboken,,,N
+31-8-2017 0:25:35,Dardha,Arben,130,2309,240990,2286,,2286,fide standaard,bel,fm,ja,Hoboken,,,N
+2-9-2017 15:18:57,Taleb,mohamad,,,,,,,,bel,,ja,Dworp,,,J
+3-9-2017 19:04:17,Abolianin,Arthur,,2329,202606,2329,,2329,fide standaard,bel,im,ja,,,,J
+4-9-2017 13:29:40,Pinto,Antonio,,1955,833738,1903,,1903,fide standaard,ita,,ja,,,,N
+5-9-2017 14:47:50,Test van,Pieter,12345,1111,123456,2222,1234,1234,fide blitz,bel,,neen,Dworp,,,
+13-7-2017 10:57:03,Lot,Diederik,9954,1983,231223,1976,,1976,fide standaard,bel,,ja,Dworp,Ja,10,J
+13-7-2017 10:57:03,Van de Velde,Filip,31682,1727,221759,,,1727,nationale rating,bel,,ja,Dworp,,,J
+13-7-2017 10:57:03,Vanderwaeren,Serge,20621,2172,200069,,,2172,nationale rating,bel,fm,ja,Dworp,,,J
+13-7-2017 10:57:03,Spaens,Kjell,29343,1973,208191,,,1973,nationale rating,bel,,ja,Dworp,,,J
+13-7-2017 10:57:03,Roels,Frederik,22659,1950,209503,2010,,2010,fide standaard,bel,,ja,KGSRL Gent,,,N
+13-7-2017 10:57:03,De Reymaeker,Walter,34584,1882,208000,,,1882,nationale rating,bel,,ja,Dworp,,,J
+13-7-2017 10:57:03,Cornelis,Eric,76317,1675,213772,,,1675,nationale rating,bel,,ja,Dworp,,,J
+13-7-2017 10:57:03,Vennekens,Camiel,37168,1828,228834,1812,,1812,fide standaard,bel,,ja,Hoboken,,,N
