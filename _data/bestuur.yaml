@@ -21,7 +21,7 @@ voorzitter:
   gsm: 0470 65 17 54
   email: SflWX[e_Y.fdceMeuISVa # vigenère
 secretaris:
-  functie: secretaris
+  functie: secretaris &amp; tornooileider
   naam: bernard malfliet
   telefoon:
   gsm: 0471 98 33 87
