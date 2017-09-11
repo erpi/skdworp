@@ -1,6 +1,6 @@
 Tijdstempel,achternaam,voornaam,stamnummer kbsb,nationale elo,stamnummer fide,fide elo,fide blitz,rating,rating soort,nationaliteit,schaaktitel,aanwezig,club,payment received,amount,SVB
-13-7-2017 21:39:01,Geuens,Dirk,20796,1810,,,,1810,nationale rating,bel,,neen,Mechelen,,,N
-14-7-2017 9:33:50,Deschuyteneer,Lucien,64068,1366,209570,1405,1520,1520,fide blitz,bel,,neen,Geraardsbergen,Neen,10,N
+13-7-2017 21:39:01,Geuens,Dirk,20796,1810,,,,1810,nationale rating,bel,,neen,Mechelen,,,
+14-7-2017 9:33:50,Deschuyteneer,Lucien,64068,1366,209570,1405,1520,1520,fide blitz,bel,,neen,Geraardsbergen,,,
 15-7-2017 14:07:11,De Bosscher,Peter,655,1789,214205,1802,,1802,fide standaard,bel,,ja,Dworp,Neen,10,J
 16-7-2017 10:06:12,Flamée,Dirk,19135,1643,200689,1757,,1757,fide standaard,bel,,ja,Geraardsbergen,Neen,10,N
 16-7-2017 11:33:08,Steynen,Christophe,12405,1293,,,,1293,nationale rating,bel,,neen,Dworp,Neen,10,J
@@ -12,14 +12,14 @@ Tijdstempel,achternaam,voornaam,stamnummer kbsb,nationale elo,stamnummer fide,fi
 26-7-2017 15:58:28,Van Wijnendaele,Jovanni,10612,1647,235970,1630,,1630,fide standaard,bel,,ja,Aalst,Ja,10,N
 27-7-2017 9:20:44,Benmadani,Yazid,17545,1558,7908881,1585,1545,1545,fide blitz,alg,,ja,Mouscron,Neen,10,N
 28-7-2017 20:34:17,Lenaerts,Lennert,3003,2277,211435,2289,2303,2303,fide blitz,bel,fm,ja,Genk,Ja,5,N
-1-8-2017 9:53:08,Van de Wynkele,Herman,9644,1977,207144,2030,,2030,fide standaard,bel,,neen,MSV,Neen,10,N
+1-8-2017 9:53:08,Van de Wynkele,Herman,9644,1977,207144,2030,,2030,fide standaard,bel,,neen,MSV,,,
 4-8-2017 10:33:49,Huysman,Robert,15482,1484,200697,1458,,1458,fide standaard,bel,,ja,Halle,Neen,10,J
 7-8-2017 13:28:40,Atanasiu,Nicolae,24856,1872,262420,1875,1926,1926,fide blitz,bel,,ja,Le Pantin,Ja,10,N
 7-8-2017 13:30:13,Elinckx,Michel,14772,1409,246760,1427,1501,1501,fide blitz,bel,,ja,Le Pantin,Ja,10,N
 7-8-2017 16:38:56,Van Bunderen,Gert,18686,1861,209023,1896,1863,1863,fide blitz,bel,,ja,Hoboken,Ja,10,N
 8-8-2017 9:59:38,De Block,Yordi,11030,2080,214175,2117,1985,1985,fide blitz,bel,,ja,Opwijk,Neen,10,J
 8-8-2017 10:00:56,De Block,Fabio,11034,1919,226181,1961,1855,1855,fide blitz,bel,,ja,Opwijk,Neen,5,J
-9-8-2017 19:06:38,Pouliart,Sander,15856,1325,251062,1265,1204,1204,fide blitz,bel,,neen,Mechelen,Neen,,N
+9-8-2017 19:06:38,Pouliart,Sander,15856,1325,251062,1265,1204,1204,fide blitz,bel,,neen,Mechelen,,,
 10-8-2017 17:25:58,Vanrossum,Matthias,,,,,,,,bel,,ja,Dworp,Ja,5,J
 16-8-2017 8:09:09,Aragones-Melhem,Georgy,99933,2171,243108,2106,2026,2026,fide blitz,bel,,ja,CREB,Neen,10,N
 18-8-2017 15:06:33,Roos,David,11789,2092,210064,2102,2079,2079,fide blitz,bel,,ja,Zottegem,Neen,10,N
@@ -37,27 +37,27 @@ Tijdstempel,achternaam,voornaam,stamnummer kbsb,nationale elo,stamnummer fide,fi
 2-9-2017 15:18:57,Taleb,mohamad,17600,,,,,,,bel,,ja,Dworp,Neen,10,J
 3-9-2017 19:04:17,Abolianin,Arthur,9946,2318,202606,2329,2375,2375,fide blitz,bel,im,ja,Rochade Eupen,Neen,0,J
 4-9-2017 13:29:40,Pinto,Antonio,,,833738,1955,1903,1903,fide blitz,ita,,ja,,Neen,10,N
-5-9-2017 14:47:50,Test van,Pieter,,,,,,,,,,neen,,Neen,,
+5-9-2017 14:47:50,Test van,Pieter,,,,,,,,,,neen,,,,
 5-9-2017 18:51:59,Huyghe,Felix,17486,,,,,,,bel,,ja,Dworp,Neen,5,J
 5-9-2017 18:53:26,Beckers,Stijn,17472,,,,,,,bel,,ja,Dworp,Neen,5,J
 8-9-2017 10:07:43,Dekegel,Gregory,,,,,,,,,,neen,,,,
-8-9-2017 22:14:52,Alienkin,Aleksander,10252,2396,4156765,2396,2358,2358,fide blitz,rus,im,ja,KS47 Eynatten,,,
-9-9-2017 10:59:31,Drossart,Jonathan ,71137,1729,215937,1698,1732,1732,fide blitz,bel,,ja,Tournai,,10,
-9-9-2017 11:02:29,Minet,Julien,74926,1919,209473,1896,1919,1919,fide blitz,bel,,ja,Tournai,,10,
-9-9-2017 11:05:15,Skowron,Jean-Pol,77348,1591,228168,1648,,1648,fide standaard,bel,,ja,Tournai,,10,
+8-9-2017 22:14:52,Alienkin,Aleksander,10252,2396,4156765,2396,2358,2358,fide blitz,rus,im,ja,KS47 Eynatten,Ja,0,N
+9-9-2017 10:59:31,Drossart,Jonathan ,71137,1729,215937,1698,1732,1732,fide blitz,bel,,ja,Tournai,Neen,10,N
+9-9-2017 11:02:29,Minet,Julien,74926,1919,209473,1896,1919,1919,fide blitz,bel,,ja,Tournai,Neen,10,N
+9-9-2017 11:05:15,Skowron,Jean-Pol,77348,1591,228168,1648,,1648,fide standaard,bel,,ja,Tournai,Neen,10,N
 9-9-2017 12:29:09,Dardha,Daniel,,,,,,,,,,neen,,,,
 9-9-2017 12:45:44,Snyers,Pieter,11329,1485,245364,1572,,1572,fide standaard,bel,,ja,Schilde,Neen,5,N
-10-9-2017 11:18:14,Hamers,Niels,17719,,,,,,,bel,,ja,Dworp,,,J
-10-9-2017 11:20:40,Bertrand,Stijn,21253,1634,212709,,,1634,nationale rating,bel,,ja,Dworp,,,J
-10-9-2017 11:37:07,Fivez,Stev,14089,1569,246786,1518,,1518,fide standaard,bel,,ja,SCRR,Ja,5,J
-10-9-2017 18:01:11,Spanoghe,Ivan ,94307,2180,203491,2131,2090,2090,fide blitz,bel,,ja,CREB,,,
-10-9-2017 21:27:41,Devolder,Dieter,27961,1979,210013,1978,2058,2058,fide blitz,bel,,ja,KWSLE,,10,N
+10-9-2017 11:18:14,Hamers,Niels,17719,,,,,,,bel,,ja,Dworp,Neen,10,J
+10-9-2017 11:20:40,Bertrand,Stijn,21253,1634,212709,,,1634,nationale rating,bel,,ja,Dworp,Neen,10,J
+10-9-2017 11:37:07,Fivez,Stev,14089,1569,246786,1518,,1518,fide standaard,bel,,ja,SCRR,Ja,5,N
+10-9-2017 18:01:11,Spanoghe,Ivan ,94307,2180,203491,2131,2090,2090,fide blitz,bel,,ja,CREB,Neen,10,N
+10-9-2017 21:27:41,Devolder,Dieter,27961,1979,210013,1978,2058,2058,fide blitz,bel,,ja,KWSLE,Neen,10,N
 10-9-2017 23:15:22,de Villers,Mourad,74365,2180,203475,2140,2123,2123,fide blitz,bel,,ja,Boitsfort,Ja,10,N
 11-9-2017 10:40:00,Pleysier,Simon,14768,1951,246999,1871,,1871,fide standaard,bel,,ja,Le Pantin,Ja,10,N
-11-9-2017 11:13:28,Silvain,Thierry,,,680915,1914,1744,1744,fide blitz,fra,,ja,Frankrijk,,,
+11-9-2017 11:13:28,Silvain,Thierry,,,680915,1914,1744,1744,fide blitz,fra,,ja,Frankrijk,Neen,10,N
 11-9-2017 11:52:20,Miulescu,Gabriel,,,1200690,2007,,2007,fide standaard,ukr,im,ja,Ukraine,Ja,0,N
-11-9-2017 11:59:16,Parreira,Luis Miguel,12300,1865,1903071,1859,1833,1833,fide blitz,por,,ja,Europchess,,10,N
-11-9-2017 15:28:14,Mayr,Thomas,15582,2174,1607677,2177,2110,2110,fide blitz,aut,,ja,Le Pantin,,10,N
+11-9-2017 11:59:16,Parreira,Luis Miguel,12300,1865,1903071,1859,1833,1833,fide blitz,por,,ja,Europchess,Neen,10,N
+11-9-2017 15:28:14,Mayr,Thomas,15582,2174,1607677,2177,2110,2110,fide blitz,aut,,ja,Le Pantin,Neen,10,N
 13-7-2017 10:57:03,Lot,Diederik,9954,1983,231223,1974,1976,1976,fide blitz,bel,,ja,Dworp,Ja,10,J
 13-7-2017 10:57:03,Van de Velde,Filip,31682,1727,221759,1802,,1802,fide standaard,bel,,ja,Dworp,Neen,10,J
 13-7-2017 10:57:03,Vanderwaeren,Serge,20621,2172,200069,2189,,2189,fide standaard,bel,fm,ja,Dworp,Ja,5,J
