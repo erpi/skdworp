@@ -20,7 +20,7 @@ Voor mij was het een dubbele primeur. Mijn eerste schuchtere pasjes in De Greune
 
 Eerst even rondkijken in dit lokaal waar we dit jaar onze interclub-ontmoetingen gaan afwerken. Een rustige locatie, geen storende (achtergrond)muziek maar zalige stilte. En houten tafels die zich uitstekend lenen om er schaakborden op te plaatsen. Plus ruimte zat om zelfs in opperste concentratie de benen te strekken.
 
-![geert als simultaangever][foto geert]
+![diederik als simultaangever][foto diederik]
 
 Anders gezegd: alle voorwaarden zijn vervuld voor het eerste en het tweede team van Dworp om hier tijdens de interclub-ontmoetingen topprestaties te leveren. Dat zou moeten uitmonden in een zorgeloos seizoen voor de eerste ploeg in derde afdeling en in een titel in vijfde voor het tweede team. Mik hoog, de pijl zal wel zakken tijdens het vliegen zeker. Maar alvast tijdens de thuismatchen in De Greunenond moeten we de steile ambitie kunnen waarmaken. En een **niet onbelangrijk detail** voor de liefhebbers: de prijs van de drank is hier laag.
 
@@ -28,7 +28,7 @@ Anders gezegd: alle voorwaarden zijn vervuld voor het eerste en het tweede team 
 
 Over naar de orde van de (zater)dag, namelijk de simultaan van Diederik en ik tegen elf lokale spelers. Het niveau varieerde, van (Brusselse) competitieschakers tot spelers die al jaren geen stuk meer hadden aangeraakt tot en met absolute beginners.
 
-![diederik als simultaangever][foto diederik]
+![geert als simultaangever][foto geert]
 
 In een eerste sessie speelde Diederik tegen vijf Ruisbroekenaren en ik tegen zes. De tegenstanders verdedigden zich kranig en hielden lang stand. Uiteindelijk moesten we twee remises toestaan. In de tweede ronde haalde Diederik 6 op 6 (!), ik 3,5/5. Al bij al een eervol resultaat.
 
