@@ -34,6 +34,8 @@ In een eerste sessie speelde Diederik tegen vijf Ruisbroekenaren en ik tegen zes
 
 Na afloop waren de mannen van de Greunenond tevreden en wij ook. Dit bleek een unieke gelegenheid om de Dworpse schaakkring en het schaken te promoten. Goed voor onze naambekendheid en bovendien kregen enkele spelers de smaak te pakken. In die mate zelfs dat we ze weldra ook in Start 65 zullen zien opdagen. Keep up the good work! Dit is voor herhaling vatbaar.
 
+Een datum die je zeker in je agenda moet plaatsen is zaterdag 7 oktober. De Greunenhond organiseert dan zijn jaarlijkse mosselkermis waar we natuurlijk graag talrijk aanwezig willen zijn daar we hun lokaal gratis ter beschikking krijgen.
+
 Voor wie er geen genoeg van krijgt: [de internetkrant van Sint-Pieters-Leeuw postte de dag zelf nog een verslagje][1].
 
 [foto geert]: {{ "/assets/images/1718/simultaan_greunenond_geert.jpg" | absolute_url }}
