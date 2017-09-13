@@ -10,7 +10,7 @@ layout: verslag
 excerpt_separator: <!--more-->
 image:
   path: '/assets/images/1718/simultaan_greunenond_diederik.jpg'
-draft: true
+draft: false
 ---
 Afgelopen zaterdag 9 september hadden Diederik en ik de eer om voor het eerst voet aan grond te zetten in ons nieuwe interclublokaal De Greunenond. Het café en de Dworpse schaakkring organiseerden hier een simultaan waaraan elf lokale Ruisbroekse schaakkrakken deelnamen.<!--more-->
 
