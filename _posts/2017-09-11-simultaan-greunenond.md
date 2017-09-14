@@ -36,8 +36,11 @@ Na afloop waren de mannen van de Greunenond tevreden en wij ook. Dit bleek een u
 
 Een datum die je zeker in je agenda moet plaatsen is zaterdag 7 oktober. De Greunenond organiseert dan zijn jaarlijkse **mosselkermis** waar we natuurlijk graag talrijk aanwezig willen zijn. We krijgen hun lokaal immers gratis ter beschikking.
 
-Voor wie er geen genoeg van krijgt: [de internetkrant van Sint-Pieters-Leeuw postte de dag zelf nog een verslagje][1].
+Voor wie er geen genoeg van krijgt: 
+* [de internetkrant van Sint-Pieters-Leeuw postte de dag zelf nog een verslagje][1].
+* [alle foto's gemaakt door Julien Steens][2]
 
 [foto geert]: {{ "/assets/images/1718/simultaan_greunenond_geert.jpg" | absolute_url }}
 [foto diederik]: {{ "/assets/images/1718/simultaan_greunenond_diederik.jpg" | absolute_url }}
 [1]: https://sint-pieters-leeuw.eu/2017/09/09/simultaanschaak-in-de-greunenond/
+[2]: https://photos.app.goo.gl/ndieZcvyKckgbThT2
