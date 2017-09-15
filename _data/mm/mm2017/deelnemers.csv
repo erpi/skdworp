@@ -5,8 +5,8 @@ Tijdstempel,achternaam,voornaam,stamnummer kbsb,nationale elo,stamnummer fide,fi
 16-7-2017 10:06:12,Flamée,Dirk,19135,1643,200689,1757,,1757,fide standaard,bel,,ja,Geraardsbergen,Neen,10,N
 15-9-2017 18:00:00,Guerit,Justin,14365,1676,245267,1809,1564,1564,fide blitz,bel,,ja,Fontaine,Neen,5,N
 21-7-2017 22:31:05,Verrijken,Geert,62766,1942,209201,1908,,1908,fide standaard,bel,,ja,Dworp,Neen,10,J
-24-7-2017 17:00:16,Lerinckx,Niels,12699,,,,,,,bel,,ja,Dworp,Neen,5,J
-24-7-2017 17:00:50,Lerinckx,Sander,12702,,,,,,,bel,,ja,Dworp,Neen,5,J
+24-7-2017 17:00:16,Lerinckx,Niels,12699,,,,,,,bel,,ja,Dworp,Ja,5,J
+24-7-2017 17:00:50,Lerinckx,Sander,12702,,,,,,,bel,,ja,Dworp,Ja,5,J
 24-7-2017 17:01:31,Laureys,Mats,12750,,,,,,,bel,,ja,Dworp,Neen,5,J
 15-9-2017 18:00:00,Akuatse,Angel Kaleb,13468,1629,240257,1744,1585,1585,fide blitz,bel,,ja,Caissa Europe,Neen,5,N
 27-7-2017 9:20:44,Benmadani,Yazid,17545,1558,7908881,1585,1545,1545,fide blitz,alg,,ja,Mouscron,Neen,10,N
@@ -69,10 +69,14 @@ Tijdstempel,achternaam,voornaam,stamnummer kbsb,nationale elo,stamnummer fide,fi
 15-9-2017 21:45:56,Nieuwe test,Pieter,,,,,,,,,,,,,,
 15-9-2017 22:55:22,Van Steenwinckel,Hugo,96491,1579,222534,1573,,1573,fide standaard,bel,,ja,Kapelle-op-den-bos,Neen,10,J
 15-9-2017 23:51:26,Van de Wynkele,Herman,9644,1977,207144,2030,,2030,fide standaard,bel,,ja,MSV,Neen,10,N
+16-9-2017 1:21:44,Barbier,Astrid,31518,1855,200395,1819,1753,1753,fide blitz,bel,,ja,Temse,Neen,10,N
+16-9-2017 1:23:16,De True,Toon,17817,1873,237957,1767,,1767,fide standaard,bel,,ja,Geraardsbergen,Neen,10,N
+16-9-2017 1:24:09,De True,Kwinten,11813,1529,237949,1552,,1552,fide standaard,bel,,ja,Geraardsbergen,Neen,5,N
+16-9-2017 1:31:10,Kuipers,Domien,71820,1832,225070,1836,1800,1800,fide blitz,bel,,ja,Eisden,Neen,10,N
 13-7-2017 10:57:03,Lot,Diederik,9954,1983,231223,1974,1976,1976,fide blitz,bel,,ja,Dworp,Ja,10,J
 13-7-2017 10:57:03,Van de Velde,Filip,31682,1727,221759,1802,,1802,fide standaard,bel,,ja,Dworp,Neen,10,J
 13-7-2017 10:57:03,Vanderwaeren,Serge,20621,2172,200069,2189,,2189,fide standaard,bel,fm,ja,Dworp,Ja,5,J
-13-7-2017 10:57:03,Spaens,Kjell,29343,1973,208191,1937,,1937,fide standaard,bel,,neen,Dworp,,,
+13-7-2017 10:57:03,Spaens,Kjell,29343,1973,208191,1937,,1937,fide standaard,bel,,neen,Dworp,Ja,5,J
 13-7-2017 10:57:03,Roels,Frederik,22659,1950,209503,1945,2010,2010,fide blitz,bel,,ja,KGSRL Gent,Neen,10,N
 13-7-2017 10:57:03,De Reymaeker,Walter,34584,1882,208000,1872,,1872,fide standaard,bel,,ja,Dworp,Neen,10,J
 13-7-2017 10:57:03,Cornelis,Eric,76317,1675,213772,1733,,1733,fide standaard,bel,,ja,Dworp,Ja,10,J
