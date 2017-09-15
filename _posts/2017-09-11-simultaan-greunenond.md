@@ -38,7 +38,7 @@ Een datum die je zeker in je agenda moet plaatsen is zaterdag 7 oktober. De Greu
 
 Voor wie er geen genoeg van krijgt: 
 * [de internetkrant van Sint-Pieters-Leeuw postte de dag zelf nog een verslagje][1].
-* [alle foto's gemaakt door Julien Steens][2]
+* [bekijk alle foto's gemaakt door Julien Steens][2]
 
 [foto geert]: {{ "/assets/images/1718/simultaan_greunenond_geert.jpg" | absolute_url }}
 [foto diederik]: {{ "/assets/images/1718/simultaan_greunenond_diederik.jpg" | absolute_url }}
