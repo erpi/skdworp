@@ -1,0 +1,17 @@
+<div class="table-responsive">
+  <table class="table table-eindstand">
+    <tbody>
+      {% for partij in include.datafile %}
+      <tr>
+        <td>{{ partij.bord}}</td>
+        <td class="alignleft">{{ partij.wit | downcase}} ({{ partij.welo}})</td>
+        <td>-</td>
+        <td class="alignleft">{{ partij.zwart | downcase}} ({{ partij.zelo}})</td>
+        <td>{{ partij.wres | downcase}}</td>
+        <td>-</td>
+        <td>{{ partij.zres | downcase}}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>

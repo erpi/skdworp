@@ -1,0 +1,19 @@
+{% assign verslagen = site.posts | where:"tag",include.tag %}
+{% for verslag in verslagen %}
+  {% assign verslagtijd = verslag.date | date: '%s' | to_integer %}
+  {% if verslagtijd < include.begintijd %}
+    {% break %}
+  {% elsif verslagtijd > include.eindtijd %}
+    {% continue %}
+  {% else %}
+  <div class="panel panel-primary">
+    <div class="panel-heading">
+      <h3 class="panel-title"><a href="{{ verslag.url | relative_url }}">{{ verslag.title | downcase }}</a></h3>
+    </div>
+    <div class="panel-body">
+      <p>{{ verslag.content | strip_html | truncatewords: 80 | downcase | remove_first: "vooraf" | remove_first: "voorspel"}}</p>
+      <a href="{{ verslag.url | relative_url }}" class="btn btn-primary">lees meer »</a>
+    </div>
+  </div>
+  {% endif %}
+{% endfor %}

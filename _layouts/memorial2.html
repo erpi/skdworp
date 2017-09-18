@@ -1,0 +1,100 @@
+---
+layout: default
+---
+{{ content }}
+
+{% comment %}
+we onderzoeken eerst of er een memorial verslag is voor dit seizoen.
+indien wel, dan wordt de variabele "posts" op "true" gezet.
+een seizoen start en eindigt op 1 september
+{% endcomment %}
+{% capture begintijd %}{{ page.jaar }}-09-01{% endcapture %}
+{% capture eindtijd %}{{ page.jaar | plus: 1 }}-09-01{% endcapture %}
+{% assign begintijd = begintijd | date: '%s' | to_integer %}
+{% assign eindtijd = eindtijd | date: '%s' | to_integer %}
+{% assign posts = false %}
+{% assign verslagen = site.posts | where:"tag","mm" %}
+{% for verslag in verslagen reversed %}
+  {% assign posttijd = verslag.date | date: '%s' | to_integer %}
+  {% if posttijd > eindtijd %}
+    {% break %}
+  {% elsif posttijd < begintijd %}
+    {% continue %}
+  {% else %}
+    {% assign posts = true %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% comment %}
+maak een variabele "submap" om de juiste mm map te zoeken in de directory _data/mm/
+bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
+{% endcomment %}
+{% capture submap %}mm{{ page.jaar }}{% endcapture %}
+{% assign bestanden = site.data.mm[submap] | sort %}
+                      {% if bestanden[0][0] contains "deelnemers" %}
+                        {% assign bestanden = bestanden | shift %}
+                      {% endif %}
+<ul class="nav nav-pills">
+  {% assign tabs = "" | split: "," %}
+  {% if posts %}
+  {% comment %}
+  een extra tabblad "verslag" maken
+  {% endcomment %}
+  {% assign tabs = tabs | push: "verslag" %}
+  <li class="active">
+    <a data-toggle="pill" href="#verslag">verslag</a>
+  </li>
+  {% endif %}
+  {% comment %}
+  we maken de namen voor de overige tabs op basis van de bestandsnamen in de data directory
+  {% endcomment %}
+  {% for bestand in bestanden %}
+  {% assign tab = bestand[0] %}
+    {% if tab contains "fotos" %}
+      {% assign tab = "foto's" %}
+    {% elsif tab contains "kampioenen" %}
+      {% assign tab = "titels" %}
+    {% endif %}
+    {% assign tabs = tabs | push: tab %}
+  <li{% if posts == false and forloop.first %} class="active"{% endif %}>
+    <a data-toggle="pill" href="#{{ tab | slugify }}">{{ tab }}</a>
+  </li>
+  {% endfor %}
+</ul>
+<div class="tab-content">
+{% if posts %}
+  {% include tab-pane-start.html href='verslag' aktief=true %}
+  {% include verslag-memorial.html begintijd=begintijd eindtijd=eindtijd tag="mm" %}
+  {% include tab-pane-end.html %}
+  {% assign tabs = tabs | shift %}
+{% endif %}
+
+{% for bestand in bestanden %}
+
+  {% assign tab = tabs[forloop.index0] | slugify %}
+  {% if posts %}
+    {% include tab-pane-start.html href=tab aktief=false %}
+  {% elsif forloop.first %}
+    {% include tab-pane-start.html href=tab aktief=true %}
+  {% else %}
+    {% include tab-pane-start.html href=tab aktief=false %}
+  {% endif %}
+
+  {% assign data = bestand[1] %}
+  
+  {% if bestand[0] contains "klassement" %}
+    {% include table-memorial.html datafile=data %}
+  {% elsif bestand[0] contains "kampioenen" %}
+    {% include table-titels.html datafile=data %}
+  {% elsif bestand[0] contains "fotos" %}
+    {% include fotos-memorial.html datafile=data %}
+  {% elsif bestand[0] contains "svb" %}
+    {% include table-svb.html datafile=data %}
+  {% elsif bestand[0] contains "r" %}
+    {% include table-memorial2.html datafile=data %}
+  {% endif %}
+
+  {% include tab-pane-end.html %}
+{% endfor %}
+</div>

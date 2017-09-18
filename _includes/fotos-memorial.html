@@ -1,0 +1,6 @@
+<p class="lead">foto's van het tornooi kan je hier vinden:<p>
+<ul class="lead">
+  {% for reeks in include.datafile %}
+  <li><a href="{{ reeks.link }}">{{ reeks.naam | downcase}}</a></li>
+  {% endfor %}
+</ul>
