@@ -44,7 +44,7 @@ De derde podiumplaats ging naar Aleksander Alienkin. Behalve een remise in ronde
 
 ![foto Diederik met Niels en Mo][foto diederik]
 
-In dit selecte deelnemersveld staken toch ook enkele Dworpenaars de neus aan het venster. Diederik deed zelfs veel meer dan dat. Hij rijfde een fraaie 13de plaats binnen met 8,5/13 en overwinningen tegen de meesters Johan Goormachtigh en Arben Dardha. Dat resulteerde in een geldprijs voor het tweede beste resultaat bij de min 2.100 Elo. Bovendien mag Diederik zich een jaar lang snelschaakkampioen van Vlaams-Brabant noemen. Als dat niet mooi staat op het visitekaartje... Serge, 18de (8/13), kan eveneens op een geslaagd toernooi terugblikken. Hij won van Daniël Dardha en Pieter Claesen en remiseerde tegen Alienkin Aleksander.
+In dit selecte deelnemersveld staken toch ook enkele Dworpenaars de neus aan het venster. Diederik deed zelfs veel meer dan dat. Hij rijfde een fraaie 13de plaats binnen met 8,5/13 en 1.5/2 tegen de meesters Johan Goormachtigh en Arben Dardha. Dat resulteerde in een geldprijs voor het tweede beste resultaat bij de min 2.100 Elo. Bovendien mag Diederik zich een jaar lang snelschaakkampioen van Vlaams-Brabant noemen. Als dat niet mooi staat op het visitekaartje... Serge, 18de (8/13), kan eveneens op een geslaagd toernooi terugblikken. Hij won van Daniël Dardha en Pieter Claesen en remiseerde tegen Alienkin Aleksander.
 
 Verder op een kluitje, met 7/13, eindigden Stijn, ondergetekende, Walter en Said. Deze laatste zette met 1.574 Elo een toernooiprestatie van 1860 Elo neer! Stijn kaapte de eerste prijs in de categorie onder de 1.700 Elo weg.
 
