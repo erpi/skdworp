@@ -32,9 +32,6 @@ bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
 {% endcomment %}
 {% capture submap %}mm{{ page.jaar }}{% endcapture %}
 {% assign bestanden = site.data.mm[submap] | sort %}
-                      {% if bestanden[0][0] contains "deelnemers" %}
-                        {% assign bestanden = bestanden | shift %}
-                      {% endif %}
 <ul class="nav nav-pills">
   {% assign tabs = "" | split: "," %}
   {% if posts %}
