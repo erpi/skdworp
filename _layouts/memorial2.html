@@ -82,6 +82,8 @@ bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
   
   {% if bestand[0] contains "klassement" %}
     {% include table-memorial.html datafile=data %}
+  {% elsif bestand[0] contains "rooster" %}
+    {% include table-memorial.html datafile=data %}
   {% elsif bestand[0] contains "kampioenen" %}
     {% include table-titels.html datafile=data %}
   {% elsif bestand[0] contains "fotos" %}
