@@ -22,7 +22,7 @@ social:
   name: Dworpse Schaakkring
   links:
     - https://twitter.com/skdworp
-    - https://www.facebook.com/Dworpse-Schaakkring-1877050015844599
+    - https://www.facebook.com/skdworp
 logo: "/images/logo-dworp.png"
 #baseurl: "/skdworp" # hosting bij users.telenet.be
 baseurl: "" # hosting bij github en lokaal op 127.0.0.1:4000
