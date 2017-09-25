@@ -3,12 +3,12 @@
     "ronde": "ronde 1",
     "datum": "24-09-2017",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "432 Wetteren 2", "uit": "541 Leuze 1"},
-      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "244 Brussels 1"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 1", "uit": "228 Dworp 1"},
-      {"tr": "", "ur": "", "thuis": "436 LSV-Chesspirant 1", "uit": "114 Mechelen 1"},
-      {"tr": "", "ur": "", "thuis": "401 KGSRL 4", "uit": "174 Brasschaat 2"},
-      {"tr": "", "ur": "", "thuis": "201 CREB 2", "uit": "261 Opwijk 1"}
+      {"tr": "4", "ur": "2", "thuis": "432 Wetteren 2", "uit": "541 Leuze 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "226 Europchess 2", "uit": "244 Brussels 1"},
+      {"tr": "5.5", "ur": "0.5", "thuis": "278 Pantin 1", "uit": "228 Dworp 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "436 LSV-Chesspirant 1", "uit": "114 Mechelen 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "401 KGSRL 4", "uit": "174 Brasschaat 2"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "201 CREB 2", "uit": "261 Opwijk 1"}
     ]
   },
   {

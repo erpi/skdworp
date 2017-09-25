@@ -3,12 +3,12 @@
     "ronde": "ronde 1",
     "datum": "24-09-2017",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "961 Braine l'Alleud 2", "uit": "951 Lasne-Waterloo 2"},
-      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "952 Wavre 3"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 4", "uit": "228 Dworp 2"},
+      {"tr": "2", "ur": "2", "thuis": "961 Braine l'Alleud 2", "uit": "951 Lasne-Waterloo 2"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "226 Europchess 4", "uit": "952 Wavre 3"},
+      {"tr": "1", "ur": "3", "thuis": "278 Pantin 4", "uit": "228 Dworp 2"},
       {"tr": "", "ur": "", "thuis": "209 The Belgian CC 4", "uit": "bye"},
-      {"tr": "", "ur": "", "thuis": "229 Woluwe 2", "uit": "233 DZD Halle 1"},
-      {"tr": "", "ur": "", "thuis": "201 CREB 3", "uit": "953 Nivelles 1"}
+      {"tr": "4", "ur": "0", "thuis": "229 Woluwe 2", "uit": "233 DZD Halle 1"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "201 CREB 3", "uit": "953 Nivelles 1"}
     ]
   },
   {
