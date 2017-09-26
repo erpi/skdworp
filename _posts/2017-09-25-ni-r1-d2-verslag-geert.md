@@ -6,7 +6,7 @@ ni_ronde: 1
 title: Hop, hop, hop ploeg twee, spoel ze door ’t wc!
 author: Geert
 fotograaf: 
-date: 2017-09-25 22:00:00 +0100
+date: 2017-09-25 20:00:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->
 ---
