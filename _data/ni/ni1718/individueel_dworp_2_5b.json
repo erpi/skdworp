@@ -1,0 +1,18 @@
+[
+  {
+    "ronde": "1",
+    "datum": "24-09-2017",
+    "thuis": "278 Pantin 4",
+    "uit": "228 Dworp 1",
+    "tscore": 1,
+    "uscore": 3,
+    "tgem": 1394,
+    "ugem": 1726,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "De Vreese, Gregory", "uspeler": "Verrijken, Geert", "telo": 1564, "uelo": 1942, "tstam": 73491, "ustam": 62766},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Sofia, Tommaso", "uspeler": "Vennekens, Camiel", "telo": 1406, "uelo": 1828, "tstam": 13408, "ustam": 37168},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Diodati, Marco", "uspeler": "De Bosscher, Peter", "telo": ng, "uelo": 1789, "tstam": 15921, "ustam": 655},
+      {"tr": "1", "ur": "0", "tspeler": "Boshra, Sosanna", "uspeler": "Taleb, Mohamed", "telo": 1211, "uelo": 1345, "tstam": 16981, "ustam": 64611}
+    ]
+  },
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ronde": "1",
+    "datum": "24-09-2017",
+    "thuis": "278 Pantin 1",
+    "uit": "228 Dworp 1",
+    "tscore": 5.5,
+    "uscore": 0.5,
+    "tgem": 2108,
+    "ugem": 1939,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Collette, Benjamin", "uspeler": "Vanderwaeren, Serge", "telo": 2181, "uelo": 2172, "tstam": 65544, "ustam": 20621},
+      {"tr": "1", "ur": "0", "tspeler": "Mayr, Thomas", "uspeler": "Spaens, Kjell", "telo": 2174, "uelo": 1973, "tstam": 15582, "ustam": 29343},
+      {"tr": "1", "ur": "0", "tspeler": "Thiteca, Thierry", "uspeler": "Lot, Diederik", "telo": 2115, "uelo": 1983, "tstam": 25186, "ustam": 9954},
+      {"tr": "1", "ur": "0", "tspeler": "Robert, Pierre", "uspeler": "Denys, Frank", "telo": 2089, "uelo": 1895, "tstam": 92479, "ustam": 21881},
+      {"tr": "1", "ur": "0", "tspeler": "Demoulin, Joachim", "uspeler": "De Reymaeker, Walter", "telo": 2067, "uelo": 1882, "tstam": 72435, "ustam": 34584},
+      {"tr": "1", "ur": "0", "tspeler": "Solsky, Itzhak", "uspeler": "Van de Velde, Filip", "telo": 2022, "uelo": 1727, "tstam": 14119, "ustam": 31682}
+    ]
+  },
+]
