@@ -158,7 +158,8 @@ $(document).ready(function(){
                 left = (j == 1) ? ' class="alignleft"' : '';
                 res = (rooster[i][j] !== undefined) ? rooster[i][j] : '';
                 // the folowing line fixes "Nan" values in the table in Safari
-                if (Number.isNaN(res)) {res = '';};
+                // NaN is the only JavaScript value that is treated as unequal to itself
+                if (res !== res) {res = '';};
                 tabel += '<td' + left + '>' + res + '</td>';
             }
             tabel += '</tr>';
