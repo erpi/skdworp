@@ -28,7 +28,17 @@ layout: compress
           </h2>
           <p>{% include datum.html date=page.date %}</p>
           {% if page.tag == "ni" %}
-          <p>nationale interclubs ronde&nbsp;{{ page.ni_ronde }}<br>{{ page.ni_thuisploeg | downcase }} - {{ page.ni_uitploeg | downcase }}</p>
+          <p>nationale interclubs ronde&nbsp;{{ page.ni_ronde }}
+            {% if page.ni_d1_thuisploeg %}
+            <br>{{ page.ni_d1_thuisploeg | downcase }} - {{ page.ni_d1_uitploeg | downcase }}
+            {% endif %}
+            {% if page.ni_d2_thuisploeg %}
+            <br>{{ page.ni_d2_thuisploeg | downcase }} - {{ page.ni_d2_uitploeg | downcase }}
+            {% endif %}
+            {% if page.ni_d3_thuisploeg %}
+            <br>{{ page.ni_d3_thuisploeg | downcase }} - {{ page.ni_d3_uitploeg | downcase }}
+            {% endif %}
+          </p>
           {% endif %}
           {% if page.tag == "kk" %}
           <p>klubkampioenschap ronde&nbsp;{{ page.kk_ronde }}</p>

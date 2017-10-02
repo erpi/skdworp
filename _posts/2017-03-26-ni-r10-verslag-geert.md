@@ -1,8 +1,8 @@
 ---
 _id: 63326260-1266-11e7-9325-396539b98bf3
 tag: ni
-ni_thuisploeg: Dworp 1
-ni_uitploeg: Brussels 1
+ni_d1_thuisploeg: Dworp 1
+ni_d1_uitploeg: Brussels 1
 ni_ronde: '10'
 title: 'Carnaval overal, er staat een paard in de gang'
 author: Geert

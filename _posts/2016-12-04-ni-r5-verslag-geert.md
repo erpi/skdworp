@@ -4,8 +4,8 @@ layout: verslag
 excerpt_separator: <!--more-->
 author: Geert
 ni_ronde: 5
-ni_thuisploeg: dworp 1
-ni_uitploeg: temse 2
+ni_d1_thuisploeg: dworp 1
+ni_d1_uitploeg: temse 2
 title: "Toppie, toppie, toppie!"
 description: "Winst tegen Temse 2 zou ons een zorgeloze winterslaap garanderen. De prognose is wel dat deze clash der titaantjes alle kanten uit kan. Temse 2 en Dworp hebben net evenveel match- en bordpunten."
 stelling_fen: "r1q1r3/1p4pk/p2pP1pp/2pP2b1/8/P1B3N1/1PQ5/4RBK1 w - - 1 35"

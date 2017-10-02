@@ -1,7 +1,7 @@
 ---
 tag: ni
-ni_thuisploeg: Pantin 1
-ni_uitploeg: Dworp 1
+ni_d1_thuisploeg: Pantin 1
+ni_d1_uitploeg: Dworp 1
 ni_ronde: 1
 title: Slecht begonnen, is half gewonnen (Chinees gezegde)
 author: Geert

@@ -4,8 +4,8 @@ layout: verslag
 excerpt_separator: <!--more-->
 author: Geert
 ni_ronde: 4
-ni_thuisploeg: soignies 1
-ni_uitploeg: dworp 1
+ni_d1_thuisploeg: soignies 1
+ni_d1_uitploeg: dworp 1
 title: Met de hakken over de sloot
 description: "Soignies, laatste in de stand met nul punten, kreeg in de drie voorgaande ronden telkens een 5-1-pandoering. Zelf moeten we natuurlijk ook niet te hoog van de toren blazen met amper één op zes."
 stelling_fen: "7k/1pp1N1bp/3p2p1/p1n5/2B1p3/5R2/PP4K1/R1B1q3 w - -"

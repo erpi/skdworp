@@ -2,8 +2,8 @@
 _id: 63a066e0-0828-11e7-9207-01a5b35c40b5
 description: 'Niet minder dan definitieve zekerheid over het behoud in derde afdeling is de inzet vandaag. Eerst wel een aardig eindje autorijden naar grensgemeente Brasschaat'
 tag: ni
-ni_thuisploeg: Brasschaat 2
-ni_uitploeg: Dworp 1
+ni_d1_thuisploeg: Brasschaat 2
+ni_d1_uitploeg: Dworp 1
 ni_ronde: '9'
 kk_ronde: ''
 title: 'Vechtlust, kampzwijnen en een konijnenpootje'

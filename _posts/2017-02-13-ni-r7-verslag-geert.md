@@ -2,8 +2,8 @@
 _id: 35f60550-f22b-11e6-aa4c-d72dbee07ea5
 description: 'Bij winst in onze thuismatch tegen de Eurocraten uit Brussel is behoud in derde afdeling zo goed als verworven. Ongetwijfeld dacht de tegenstander hetzelfde.'
 tag: ni
-ni_thuisploeg: Dworp 1
-ni_uitploeg: Europchess 2
+ni_d1_thuisploeg: Dworp 1
+ni_d1_uitploeg: Europchess 2
 ni_ronde: '7'
 kk_ronde: ''
 title: Slordig smossen met kansen en nodeloos puntenverlies

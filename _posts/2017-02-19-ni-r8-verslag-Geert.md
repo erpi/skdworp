@@ -2,8 +2,8 @@
 _id: eb8215d0-f6ea-11e6-a223-49c618b6b1b6
 description: 'Na een mindere prestatie in de vorige ronde gingen we op zoek naar eerherstel. Het zou geen sinecure worden tegen het sterke Pantin dat aantrad met een ploeggemiddelde van 2082 Elo.'
 tag: ni
-ni_thuisploeg: Pantin 1
-ni_uitploeg: Dworp 1
+ni_d1_thuisploeg: Pantin 1
+ni_d1_uitploeg: Dworp 1
 ni_ronde: '8'
 kk_ronde: ''
 title: Gesneuveld op het veld van eer
