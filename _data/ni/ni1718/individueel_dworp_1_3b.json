@@ -17,4 +17,22 @@
       {"tr": "1", "ur": "0", "tspeler": "Solsky, Itzhak", "uspeler": "Van de Velde, Filip", "telo": 2022, "uelo": 1727, "tstam": 14119, "ustam": 31682}
     ]
   },
+  {
+    "ronde": "2",
+    "datum": "01-10-2017",
+    "thuis": "228 Dworp 1",
+    "uit": "436 LSV-Chesspirant 1",
+    "tscore": 3,
+    "uscore": 3,
+    "tgem": 1939,
+    "ugem": 1958,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren, Serge", "uspeler": "Van Malder, Dries", "telo": 2172, "uelo": 2013, "tstam": 20621, "ustam": 10934},
+      {"tr": "0", "ur": "1", "tspeler": "Spaens, Kjell", "uspeler": "Boudry, William", "telo": 1973, "uelo": 1989, "tstam": 29343, "ustam": 10816},
+      {"tr": "0", "ur": "1", "tspeler": "Lot, Diederik", "uspeler": "De Bock, Lennart", "telo": 1983, "uelo": 2076, "tstam": 9954, "ustam": 38253},
+      {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Verhelst, Joris", "telo": 1895, "uelo": 2065, "tstam": 21881, "ustam": 33570},
+      {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "Decruyenaere, Robbert", "telo": 1882, "uelo": 1812, "tstam": 34584, "ustam": 10967},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van de Velde, Filip", "uspeler": "Labieze, Steven", "telo": 1727, "uelo": 1790, "tstam": 31682, "ustam": 31712}
+    ]
+  }
 ]

@@ -3,16 +3,32 @@
     "ronde": "1",
     "datum": "24-09-2017",
     "thuis": "278 Pantin 4",
-    "uit": "228 Dworp 1",
+    "uit": "228 Dworp 2",
     "tscore": 1,
     "uscore": 3,
     "tgem": 1394,
     "ugem": 1726,
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "De Vreese, Gregory", "uspeler": "Verrijken, Geert", "telo": 1564, "uelo": 1942, "tstam": 73491, "ustam": 62766},
+      {"tr": "0", "ur": "1", "tspeler": "De Vreese, Gregory", "uspeler": "Verrijken, Geert", "telo": 1564, "uelo": 1942, "tstam": 73491, "ustam": 62766},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Sofia, Tommaso", "uspeler": "Vennekens, Camiel", "telo": 1406, "uelo": 1828, "tstam": 13408, "ustam": 37168},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Diodati, Marco", "uspeler": "De Bosscher, Peter", "telo": ng, "uelo": 1789, "tstam": 15921, "ustam": 655},
-      {"tr": "1", "ur": "0", "tspeler": "Boshra, Sosanna", "uspeler": "Taleb, Mohamed", "telo": 1211, "uelo": 1345, "tstam": 16981, "ustam": 64611}
+      {"tr": "0", "ur": "1", "tspeler": "Boshra, Sosanna", "uspeler": "Taleb, Mohamed", "telo": 1211, "uelo": 1345, "tstam": 16981, "ustam": 64611}
     ]
   },
+  {
+    "ronde": "2",
+    "datum": "01-10-2017",
+    "thuis": "228 Dworp 2",
+    "uit": "209 The Belgian CC 4",
+    "tscore": 3.5,
+    "uscore": 0.5,
+    "tgem": 1718,
+    "ugem": 1358,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Hendrickx, Stephane", "telo": 1942, "uelo": 1775, "tstam": 62766, "ustam": 98161},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vennekens, Camiel", "uspeler": "Smeyers, Johan", "telo": 1828, "uelo": ng, "tstam": 37168, "ustam": 17422},
+      {"tr": "1", "ur": "0", "tspeler": "Bertrand, Stijn", "uspeler": "Altinkaya, Mutlu", "telo": 1634, "uelo": 1150, "tstam": 21253, "ustam": 66991},
+      {"tr": "1", "ur": "0", "tspeler": "Baert, Yves", "uspeler": "Souweine, Edwige", "telo": 1468, "uelo": 1150, "tstam": 48721, "ustam": 15676}
+    ]
+  }
 ]
