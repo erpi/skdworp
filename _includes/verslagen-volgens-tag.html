@@ -1,5 +1,5 @@
 <p class="">schrijf je in op onze <a href="{{ "/inschrijven-mailinglijst/" | relative_url }}">mailinglijst</a></p>
-{% assign verslagen = site.posts | where:"tag",include.tag %}
+{% assign verslagen = site.posts | where:"tag",include.tag | where_exp: "post", "post.draft != true" %}
 {% for verslag in verslagen %}
   {% assign verslagtijd = verslag.date | date: '%s' | to_integer %}
   {% if verslagtijd < include.begintijd %}
