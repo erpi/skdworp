@@ -11,7 +11,6 @@ fotograaf:
 date: 2017-10-02 21:15:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->
-draft: true
 ---
 ## Vooraf
 
