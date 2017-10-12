@@ -1,10 +1,31 @@
+{% capture kk_link %}{{ "/klubkampioenschap/" | relative_url }}{% endcapture %}
+{% capture ss_link %}{{ "/snelschaak/" | relative_url }}{% endcapture %}
+{% capture op_link %}{{ "/open/" | relative_url }}{% endcapture %}
+{% capture ni_link %}{{ "/interclubs/" | relative_url }}{% endcapture %}
+{% capture mm_link %}{{ "/memorial/" | relative_url }}{% endcapture %}
+
 <div class="table-responsive">
   <table class="table">
     <tbody>
       {% for item in site.data.kalender %}
-        {% if item.dag contains include.jaar %}
-      <tr><td>{{ item.dag }}</td><td>{{ item.tornooi }}</td></tr>
+      {% if item.dag contains include.jaar %}
+      <tr>
+        <td>{{ item.dag | lower }}</td>
+        {% if item.tornooi contains 'memorial' %}
+        <td><a href={{ mm_link }}>{{ item.tornooi | lower }}</a></td>
+        {% elsif item.tornooi contains 'interclubs' %}
+        <td><a href={{ ni_link }}>{{ item.tornooi | lower }}</a></td>
+        {% elsif item.tornooi contains 'lubkampioenschap' %}
+        <td><a href={{ kk_link }}>{{ item.tornooi | lower }}</a></td>
+        {% elsif item.tornooi contains 'snelschaak' %}
+        <td><a href={{ ss_link }}>{{ item.tornooi | lower }}</a></td>
+        {% elsif item.tornooi contains 'open' %}
+        <td><a href={{ op_link }}>{{ item.tornooi | lower }}</a></td>
+        {% else %}
+        <td>{{ item.tornooi | lower }}</td>
         {% endif %}
+      </tr>
+      {% endif %}
       {% endfor %}
     </tbody>
   </table>
