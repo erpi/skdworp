@@ -1,0 +1,22 @@
+wit,zwart,wr,zr
+partij 1,,,
+Diederik Lot,Serge Vanderwaeren,0,1
+Pieter Ertveldt,Filip Van de Velde,1,0
+Bob Huysman,Yves Baert,1,0
+Niels Lerinckx,Mats Laureys,0,1
+Jannes Vandevelde,Sander Lerinckx,0,1
+Niels Palmans,bye,,
+partij 2,,,
+Serge Vanderwaeren,Pieter Ertveldt,1,0
+Mats Laureys,Niels Palmans,0,1
+Eric Cornelis,Diederik Lot,0,1
+Filip Van de Velde,Yves Baert,1,0
+Sander Lerinckx,Bob Huysman,0,1
+Niels Lerinckx,Jannes Vandevelde,1,0
+partij 3,,,
+Niels Palmans,Serge Vanderwaeren,0.5,0.5
+Bob Huysman,Pieter Ertveldt,0,1
+Diederik Lot,Mats Laureys,1,0
+Sander Lerinckx,Filip Van de Velde,0,1
+Eric Cornelis,Niels Lerinckx,1,0
+Yves Baert,Jannes Vandevelde,1,0

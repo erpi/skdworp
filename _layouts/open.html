@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-{{ content }}
-
-{% assign alletabs = "eindstand,tussenstand,ronde_12,ronde_11,ronde_10,ronde_9,ronde_8,ronde_7,ronde_6,ronde_5,ronde_4,ronde_3,ronde_2,ronde_1" %}
+{% assign alletabs = "spelregels,eindstand,tussenstand,ronde_12,ronde_11,ronde_10,ronde_9,ronde_8,ronde_7,ronde_6,ronde_5,ronde_4,ronde_3,ronde_2,ronde_1" %}
 {% assign alletabs = alletabs | split: "," %}
 
 {% capture submap %}op{{ page.beginjaar | slice: 2, 2 }}{{ page.beginjaar | plus: 1 | slice: 2, 2 }}{% endcapture %}
@@ -32,6 +30,8 @@ layout: default
   {% assign data = bestanden[tab] %}
   {% if tab contains "ronde" %}
     {% include table-open.html datafile=data %}
+  {% elsif tab contains "spelregels" %}
+    {{ content }}
   {% elsif tab contains "stand" %}
     {% include table-eindstand.html datafile=data %}
   {% endif %}
