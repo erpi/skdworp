@@ -6,6 +6,9 @@ $(document).ready(function(){
             var i, j;
             naam = naam.toLowerCase();
             i = namen.indexOf(naam);
+            if (naam == 'bye') {
+                return -1
+            }
             if (i == -1) {
                 // naam zit nog niet in de array 'namen'
                 i = namen.push(naam) - 1;
@@ -24,13 +27,16 @@ $(document).ready(function(){
             if (tds.length == 7) {
                 witIndex = indexNaam(tds.eq(1).html());
                 zwartIndex = indexNaam(tds.eq(3).html());
-                wr = parseFloat(tds.eq(4).html());
-                zr = parseFloat(tds.eq(6).html());
-                if (isFinite(wr)) {
-                    rooster[witIndex][zwartIndex] = wr;
-                }
-                if (isFinite(zr)) {
-                    rooster[zwartIndex][witIndex] = zr;
+                if (witIndex != -1 && zwartIndex != -1) {
+                    // geen uitslag met bye
+                    wr = parseFloat(tds.eq(4).html());
+                    zr = parseFloat(tds.eq(6).html());
+                    if (isFinite(wr)) {
+                        rooster[witIndex][zwartIndex] = wr;
+                    }
+                    if (isFinite(zr)) {
+                        rooster[zwartIndex][witIndex] = zr;
+                    }
                 }
             }
         });
