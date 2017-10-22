@@ -30,5 +30,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Bertrand, Stijn", "uspeler": "Altinkaya, Mutlu", "telo": 1634, "uelo": 1150, "tstam": 21253, "ustam": 66991},
       {"tr": "1", "ur": "0", "tspeler": "Baert, Yves", "uspeler": "Souweine, Edwige", "telo": 1468, "uelo": 1150, "tstam": 48721, "ustam": 15676}
     ]
+  },
+  {
+    "ronde": "3",
+    "datum": "22-10-2017",
+    "thuis": "229 Woluwe 2",
+    "uit": "228 Dworp 2",
+    "tscore": 1,
+    "uscore": 3,
+    "tgem": 1714,
+    "ugem": 1726,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Frederiksen, Jens", "uspeler": "Verrijken, Geert", "telo": 1762, "uelo": 1942, "tstam": 78697, "ustam": 62766},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Peeters, Simonne", "uspeler": "Vennekens, Camiel", "telo": 1734, "uelo": 1828, "tstam": 78697, "ustam": 37168},
+      {"tr": "0", "ur": "1", "tspeler": "Gerresch, Paul", "uspeler": "De Bosscher, Peter", "telo": 1697, "uelo": 1789, "tstam": 75141, "ustam": 655},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Rampelbergh, Wilfrid", "uspeler": "Taleb, Mohamed", "telo": 1664, "uelo": 1345, "tstam": 95826, "ustam": 64611}
+    ]
   }
 ]

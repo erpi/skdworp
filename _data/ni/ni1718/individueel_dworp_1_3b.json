@@ -34,5 +34,23 @@
       {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "Decruyenaere, Robbert", "telo": 1882, "uelo": 1812, "tstam": 34584, "ustam": 10967},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Van de Velde, Filip", "uspeler": "Labieze, Steven", "telo": 1727, "uelo": 1790, "tstam": 31682, "ustam": 31712}
     ]
+  },
+  {
+    "ronde": "3",
+    "datum": "22-10-2017",
+    "thuis": "401 KGSRL 4",
+    "uit": "228 Dworp 1",
+    "tscore": 2,
+    "uscore": 4,
+    "tgem": 1972,
+    "ugem": 1846,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lacrosse, Marc", "uspeler": "Vanderwaeren, Serge", "telo": 2195, "uelo": 2172, "tstam": 59544, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "Van De Wynkele, Rudy", "uspeler": "Spaens, Kjell", "telo": 2024, "uelo": 1973, "tstam": 9679, "ustam": 29343},
+      {"tr": "0", "ur": "1", "tspeler": "Van Leeuwen, Etienne", "uspeler": "Denys, Frank", "telo": 2023, "uelo": 1895, "tstam": 15121, "ustam": 21881},
+      {"tr": "1", "ur": "0", "tspeler": "De Saegher, Johan", "uspeler": "Van de Velde, Filip", "telo": 1932, "uelo": 1727, "tstam": 53708, "ustam": 31682},
+      {"tr": "0", "ur": "1", "tspeler": "Anderl, Christoph", "uspeler": "Bertrand, Stijn", "telo": 1892, "uelo": 1634, "tstam": 14762, "ustam": 21253},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Saegher, Victor", "uspeler": "Cornelis, Eric", "telo": 1766, "uelo": 1675, "tstam": 53678, "ustam": 76317}
+    ]
   }
 ]
