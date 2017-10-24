@@ -58,8 +58,8 @@
         "zwart": "Eddy Pletinckx"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Bernard Malfliet",
         "zwart": "Niels Palmans"
       },
@@ -70,14 +70,14 @@
         "zwart": "Geert Maeckelbergh"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Peter De Bosscher",
         "zwart": "Serge Vanderwaeren"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Eric Cornelis",
         "zwart": "Geert Verrijken"
       },
@@ -88,8 +88,8 @@
         "zwart": "Diederik Lot"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Stijn Bertrand",
         "zwart": "Yves Baert"
       }
