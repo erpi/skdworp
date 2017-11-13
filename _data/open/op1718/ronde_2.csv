@@ -1,0 +1,22 @@
+wit,zwart,wr,zr
+partij 1,,,
+Van de Velde Filip,Lot Diederik,0,1
+Ertveldt Pieter,Palmans Niels,1,0
+Spaens Kjell,De Reymaeker Walter,1,0
+Baert Yves,Beckers Stijn,1,0
+Lerinckx Niels,Lerinckx Sander,0,1
+Huyghe Felix,bye,,
+partij 2,,,
+Lot Diederik,Ertveldt Pieter,1,0
+Palmans Niels,Spaens Kjell,0,1
+Huyghe Felix,Van de Velde Filip,0,1
+De Reymaeker Walter,Lerinckx Niels,1,0
+Lerinckx Sander,Baert Yves,0,1
+Beckers Stijn,bye,,
+partij 3,,,
+Spaens Kjell,Lot Diederik,0,1
+Ertveldt Pieter,Baert Yves,1,0
+Van de Velde Filip,Palmans Niels,0.5,0.5
+Beckers Stijn,De Reymaeker Walter,0,1
+Lerinckx Sander,Huyghe Felix,1,0
+Lerinckx Niels,bye,,
