@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign alletabs = "spelregels,eindstand,tussenstand,ronde_12,ronde_11,ronde_10,ronde_9,ronde_8,ronde_7,ronde_6,ronde_5,ronde_4,ronde_3,ronde_2,ronde_1" %}
+{% assign alletabs = "eindstand,tussenstand,ronde_12,ronde_11,ronde_10,ronde_9,ronde_8,ronde_7,ronde_6,ronde_5,ronde_4,ronde_3,ronde_2,ronde_1,spelregels" %}
 {% assign alletabs = alletabs | split: "," %}
 
 {% capture submap %}op{{ page.beginjaar | slice: 2, 2 }}{{ page.beginjaar | plus: 1 | slice: 2, 2 }}{% endcapture %}
@@ -32,8 +32,13 @@ layout: default
     {% include table-open.html datafile=data %}
   {% elsif tab contains "spelregels" %}
     {{ content }}
-  {% elsif tab contains "stand" %}
+  {% elsif tab contains "eindstand" %}
     {% include table-eindstand.html datafile=data %}
+  {% elsif tab contains "tussenstand" %}
+    {% include table-op-tussenstand.html %}
+    <p>
+      <span class="dworp">winnaar(s) van de avond in blauw</span><br>
+    </p>
   {% endif %}
   {% include tab-pane-end.html %}
 {% endfor %}
