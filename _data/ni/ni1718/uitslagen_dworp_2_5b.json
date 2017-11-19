@@ -39,12 +39,12 @@
     "ronde": "ronde 4",
     "datum": "19-11-2017",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "233 DZD Halle 1", "uit": "961 Braine l'Alleud 2"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "233 DZD Halle 1", "uit": "961 Braine l'Alleud 2"},
       {"tr": "", "ur": "", "thuis": "bye", "uit": "953 Nivelles 1"},
-      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "201 CREB 3"},
-      {"tr": "", "ur": "", "thuis": "952 Wavre 3", "uit": "229 Woluwe 2"},
-      {"tr": "", "ur": "", "thuis": "951 Lasne-Waterloo 2", "uit": "209 The Belgian CC 4"},
-      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "278 Pantin 4"}
+      {"tr": "1.5", "ur": "2.5", "thuis": "228 Dworp 2", "uit": "201 CREB 3"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "952 Wavre 3", "uit": "229 Woluwe 2"},
+      {"tr": "3", "ur": "1", "thuis": "951 Lasne-Waterloo 2", "uit": "209 The Belgian CC 4"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "226 Europchess 4", "uit": "278 Pantin 4"}
     ]
   },
   {
