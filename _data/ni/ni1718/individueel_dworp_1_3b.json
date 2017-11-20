@@ -52,5 +52,23 @@
       {"tr": "0", "ur": "1", "tspeler": "Anderl, Christoph", "uspeler": "Bertrand, Stijn", "telo": 1892, "uelo": 1634, "tstam": 14762, "ustam": 21253},
       {"tr": "0.5", "ur": "0.5", "tspeler": "De Saegher, Victor", "uspeler": "Cornelis, Eric", "telo": 1766, "uelo": 1675, "tstam": 53678, "ustam": 76317}
     ]
+  },
+  {
+    "ronde": "4",
+    "datum": "19-11-2017",
+    "thuis": "228 Dworp 1",
+    "uit": "201 CREB 2",
+    "tscore": 2.5,
+    "uscore": 3.5,
+    "tgem": 1875,
+    "ugem": 1989,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren, Serge", "uspeler": "Eid, F. Yousif", "telo": 2172, "uelo": 2022, "tstam": 20621, "ustam": 12346},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Spaens, Kjell", "uspeler": "Huynh, Laurent", "telo": 1973, "uelo": 2018, "tstam": 29343, "ustam": 10726},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lot, Diederik", "uspeler": "Czuczai, Jeno", "telo": 1983, "uelo": 2013, "tstam": 9954, "ustam": 60319},
+      {"tr": "0", "ur": "1", "tspeler": "Denys, Frank", "uspeler": "Cornil, Etienne", "telo": 1895, "uelo": 1988, "tstam": 21881, "ustam": 35556},
+      {"tr": "0", "ur": "1", "tspeler": "De Reymaeker, Walter", "uspeler": "Edwards, Geraint", "telo": 1882, "uelo": 1984, "tstam": 34584, "ustam": 13049},
+      {"tr": "1", "ur": "0", "tspeler": "Taleb, Mohamed", "uspeler": "Vasile-Bonciog, Cristian", "telo": 1345, "uelo": 1907, "tstam": 64611, "ustam": 60728}
+    ]
   }
 ]

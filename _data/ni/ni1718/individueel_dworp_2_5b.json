@@ -46,5 +46,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Gerresch, Paul", "uspeler": "De Bosscher, Peter", "telo": 1697, "uelo": 1789, "tstam": 75141, "ustam": 655},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Rampelbergh, Wilfrid", "uspeler": "Taleb, Mohamed", "telo": 1664, "uelo": 1345, "tstam": 95826, "ustam": 64611}
     ]
+  },
+  {
+    "ronde": "4",
+    "datum": "19-11-2017",
+    "thuis": "228 Dworp 2",
+    "uit": "201 CREB 3",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1703,
+    "ugem": 1645,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vennekens, Camiel", "uspeler": "Ooghe, Jean-Marie", "telo": 1828, "uelo": 1818, "tstam": 37168, "ustam": 70742},
+      {"tr": "0", "ur": "1", "tspeler": "De Bosscher, Peter", "uspeler": "Raquet, Bernard", "telo": 1789, "uelo": 1721, "tstam": 655, "ustam": 96900},
+      {"tr": "0", "ur": "1", "tspeler": "Van De Velde, Filip", "uspeler": "Micciche, Ruben", "telo": 1727, "uelo": 1478, "tstam": 31682, "ustam": 14274},
+      {"tr": "1", "ur": "0", "tspeler": "Baert, Yves", "uspeler": "Van De Water, Marc", "telo": 1468, "uelo": 1564, "tstam": 48721, "ustam": 78093},
+    ]
   }
 ]
