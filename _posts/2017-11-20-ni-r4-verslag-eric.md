@@ -21,7 +21,7 @@ stelling_oplossing: >-
 date: 2017-11-19 21:30:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->
-draft: true
+draft: false
 ---
 ## Eerste ploeg
 
