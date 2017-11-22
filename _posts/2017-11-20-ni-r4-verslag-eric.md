@@ -35,7 +35,7 @@ Onze beide ploegen namen het zondag op tegen het illustere CREB uit Brussel.
 
 **_Walter_** maakte wellicht een van de grootste blunders in zijn carrière en sloeg met een loper een pion, die door een pion van de tegenstander werd teruggeslagen. Helaas was er hierna geen enkele pointe te bekennen en na enkele onbelangrijke zetten moest hij opgeven.
 
-**_Frank_** verloor door een combinatie een pion en stond met de rug tegen de muur. Toch had hij volgens Serge tot laat in de partij nog goede practische kansen op remise op basis van een sterke vrijpion op de damevleugel. Helaas liep hij in een matnet.
+**_Frank_** verloor door een combinatie een pion en stond met de rug tegen de muur. Toch had hij volgens Serge tot laat in de partij nog goede praktische kansen op remise op basis van een sterke vrijpion op de damevleugel. Helaas liep hij in een matnet.
 
 **_Diederik_** deed er vervolgens alles aan om een Stonewall opstelling van zwart nog te kraken. Hij kwam nog heel ver en bereikte een paardeindspel met 2 extra pionnen op de a en h-lijn tegen een gecentraliseerde koning. Er zat, zoals de computer bewees (2 opeenvolgende moeilijke paardzetten!) een studieachtige winst in, voor stervelingen moeilijk te zien. Spijtig na een goede partij tegen een sterke tegenstander (+2000)
 
