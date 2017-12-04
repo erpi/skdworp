@@ -15,34 +15,34 @@ stelling_uitleg: >-
   Zwart speelt Kg4? 
 stelling_oplossing: >-
   1. g3!, en promotie is niet meer te verhinderen
-date: 2017-11-19 21:30:00 +0100
+date: 2017-12-03 21:30:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->
 draft: true
 ---
 ## Vooraf
 
-De twee Dworpse ploegen stonden in de vijfde ronde van de interclub-competitie voor een moeilijke opdracht. Team 1 had de zwarte taak om tegen het sterke, voor de titel spelende, Opwijk de schade te beperken en indien mogelijk een graantje mee te pikken. Voor de tweede ploeg was het na het debacle in de vorige ronde eenvoudiger: alleen teamwinst is een optie. Wil team 2 de promotie nog in de wacht slepen dan geldt dat trouwens voor alle volgende ronden.<!--more-->
+De twee Dworpse ploegen stonden in de vijfde ronde van de interclub-competitie voor een moeilijke opdracht. Team 1 had de zware taak om tegen het sterke, voor de titel spelende, Opwijk de schade te beperken en indien mogelijk een graantje mee te pikken. Voor de tweede ploeg was het na het debacle in de vorige ronde eenvoudiger: alleen teamwinst is een optie. Wil team 2 de promotie nog in de wacht slepen dan geldt dat trouwens voor alle volgende ronden.<!--more-->
 
 ## De ontmoeting
 
-De eerste ploeg, de eer (nauwelijks) gered
+## De eerste ploeg, de eer (nauwelijks) gered
 
-Opwijk nam geen enkel risico en stelde hun sterkste ploeg tot dusver op (+2000 op bord 6). Een geval val overdreven respect of misschien iets waar we maar beter aan kunnen wennen na onze mooie resultaten tegen Gent en Chesspirant? Als we oa naar de CREB kijken afgelopen zondag zien we dat hun bord 6 tegen ons nu op bord 1 speelde!
+Opwijk nam geen enkel risico en stelde hun sterkste ploeg tot dusver op (+2000 op bord 6). Een geval val overdreven respect of misschien iets waar we maar beter aan kunnen wennen na onze mooie resultaten als degradatiekandiaat tegen Gent en Chesspirant? Als we oa naar de CREB kijken afgelopen zondag zien we dat hun bord 6 tegen ons deze zondag op bord 1 speelde!
 
-Serge was opnieuw het snelste klaar maar dit keer geen remise, Arno offerde een stuk dat Serge na zonder veel nadenken aannam (misschien was het kalf toen al verdronken) en werd nadien redelijk hard overspeelt.
+Serge was opnieuw het snelste klaar maar dit keer geen remise, Arno offerde een stuk dat Serge na zonder veel nadenken aannam (misschien was het kalf toen al verdronken) en werd nadien redelijk hard overspeeld.
 
-De andere borden hielden verdienstelijk stand. Frank had een toreneindspel met pion minder maar had volgens mij nog remise kansen terwijl Walter opnieuw een zeer mooie stelling had opgebowd en Eric en Kjell hielden gelijke trend. Diederik stond zwaar in de verdrukking maar op basis van het vervolg nog niet helemaal kansloos. Tussen vijf en zes liep het echter volledig mis met eerst Diederik die volledig begaf onder de druk van een incorrect gespeelde combinatie van zijn tegenstander (FEN 1r2n1k1/qr1b2bp/p4np1/2pPB3/2P1P1P1/1P5P/R2N2BK/Q4R2 w - - 1 30) en wit blunderde met Txa6?). 
+De andere borden hielden verdienstelijk stand. Frank had een toreneindspel met pion minder maar had volgens mij nog remise kansen terwijl Walter opnieuw een zeer mooie stelling had opgebowd en Eric en Kjell hielden gelijke trend. Diederik stond zwaar in de verdrukking maar op basis van het vervolg nog niet helemaal kansloos. Tussen vijf en zes liep het echter volledig mis met eerst Diederik die volledig begaf onder de druk van een incorrect gespeelde combinatie van zijn tegenstander (FEN 1r2n1k1/qr1b2bp/p4np1/2pPB3/2P1P1P1/1P5P/R2N2BK/Q4R2 w - - 1 30 en wit blunderde met Txa6?). Dit moet jij eigenlijk toch zien!
 
 Vervolgens Walter die nog steeds in een goede stelling zijn klok vergeet in te drukken en dit pas ziet met drie resterende minuten op de klok. Niet genoeg om de complexe stelling te kunnen houden.
 
 Ondertussen was Frank zijn toreneindspel volledig ontspoord en was de ene pion achterstand er ondertussen 3 of 4 geworden (wie telt nog op dat moment?), ook hier over en uit.
 
-Nadien moest of Kjell of Eric de eer proberen redden. Kjell kwam tegen de sterke Jonas Van Capelle in een moeilijk eindspel met 1 pion minder maar hij had wel een vrijpion. In de analyse bleek dat hij toch echt wel goede remise kansen had maar aan het bord lukte het niet. Jammer dat de goede partij en het harde werken niet beloond werden.
+Nadien was het aan Kjell of Eric om de eer te redden. Kjell kwam tegen de sterke Jonas Van Capelle in een moeilijk eindspel met 1 pion minder maar hij had wel een vrijpion. In de analyse bleek dat hij toch echt wel goede remise kansen had maar aan het bord lukte het niet. Jammer dat de goede partij en het harde werken niet beloond werden.
 
 Restte onze laatste hoop : Eric die met een mooie combinatie wist te promoveren en daardoor in een gewonnen eindspel van dame tegen toren kwam (zie stelling van de dag). Eric nam echter het zekere voor het onzekere en stelde remise voor. Het verschil tussen 0,5 of 1 op 6 maakt natuurlijk niet uit, toch leek het mij volledig uit voor de Opwijkenaar.
 
-En dan nu over naar Nijvel
+## En dan nu over naar Nijvel
 
 Een zucht van opluchting bij ondergetekende toen aan bord 1 niet de gedoodverfde 1950-plusser zat –blijkbaar door zijn eigen club kaltgestellt nadat hij in de vorige ronde de vrienden van Halle in een dronken bui een schaakklok naar het hoofd had geslingerd- maar wel een vriendelijke 1700-plusser. Deze was zo galant om zich binnen de kortste keren in een Franse partij in de pan te laten hakken. Wit leverde bijvoorbeeld al snel een pion in. In combinatie met een onderontwikkelde puinhoop de naam stelling niet waardig, zorgde dit als de wiedeweerga voor het eerste Dworpse punt. 0-1 voor de goei. 
 
@@ -54,7 +54,7 @@ Gelukkig is de buit binnen want Camiel, onze remisekoning aan het tweede bord, l
 
 ## Naspel
 
-Enkel topoptimisten hadden Dworp 1 kansen op puntjes toegedicht tegen titelkandidaat Opwijk in derde afdeling. Ondertussen staat het vlaggenschip van Dworp wel op een degradatieplaats de winterstop in met als enige lichtpunt het feit dat we reeds tegen de eerste vier in de stand hebben gespeeld. In 2018 moet dat beter, jongens. 
+Enkel topoptimisten hadden Dworp 1 kansen op puntjes toegedicht tegen titelkandidaat Opwijk in derde afdeling. Ondertussen gaat het vlaggenschip van Dworp wel op een degradatieplaats de winterstop in met als enige lichtpunt het feit dat we reeds tegen de eerste vier in de stand hebben gespeeld. In 2018 moet dat beter, jongens. 
 
 Dworp 2 deed wat ervan verwacht werd en tegen dit Nijvel was dat Elogewijs ook geen knalprestatie. Maar toch, elke match moet gespeeld worden, zo wil het cliché. En dus zijn we blij, onze titelkansen blijven gaaf. Met als eenvoudige opdracht om de volgende ronden zo verder te doen. Sterker nog, in de toekomst halen we best niet enkel alle matchpunten binnen maar ook zoveel mogelijk bordpunten. Daar zou het wel eens op aan kunnen komen. 
 
