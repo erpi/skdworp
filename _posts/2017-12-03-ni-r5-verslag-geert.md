@@ -2,8 +2,8 @@
 tag: ni
 layout: verslag
 excerpt_separator: <!--more-->
-author: Geert
-ni_ronde: 4
+author: Diederik en Geert
+ni_ronde: 5
 ni_d1_thuisploeg: soignies 1
 ni_d1_uitploeg: dworp 1
 title: Met de hakken over de sloot
