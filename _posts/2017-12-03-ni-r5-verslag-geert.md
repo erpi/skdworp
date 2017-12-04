@@ -1,40 +1,61 @@
 ---
 tag: ni
+ni_d1_thuisploeg: Opwijk 1
+ni_d1_uitploeg: Dworp 1
+ni_d2_thuisploeg: Nivelles 1
+ni_d2_uitploeg: Dworp 2
+ni_ronde: 5
+title: Met gemengde gevoelens de winterstop in
+author: Diederik en Geert
+stelling_fen: 8/p1p2p2/1p1p1P1K/5kP1/2PP1p2/2P4R/P7/4r3 w - - 0 1
+stelling_titel: Combinatie van de dag
+stelling_wit: Eric
+stelling_zwart: Dominique
+stelling_uitleg: >-
+  Zwart speelt Kg4? 
+stelling_oplossing: >-
+  1. g3!, en promotie is niet meer te verhinderen
+date: 2017-11-19 21:30:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->
-author: Diederik en Geert
-ni_ronde: 5
-ni_d1_thuisploeg: soignies 1
-ni_d1_uitploeg: dworp 1
-title: Met de hakken over de sloot
-description: "Soignies, laatste in de stand met nul punten, kreeg in de drie voorgaande ronden telkens een 5-1-pandoering. Zelf moeten we natuurlijk ook niet te hoog van de toren blazen met amper één op zes."
-stelling_fen: "7k/1pp1N1bp/3p2p1/p1n5/2B1p3/5R2/PP4K1/R1B1q3 w - -"
-stelling_titel: combinatie van de dag
-stelling_wit: geert v
-stelling_zwart: el kadi
-stelling_uitleg: "de slotstelling van geert drie zetten voor het einde. wit speelt en wint geforceerd groot materiaal en/of zet mat."
-stelling_oplossing: "1. Pxg6+! hxg6 2. Th3+ Lh6 3. Lxh6! met de matdreiging Lf8"
 draft: true
 ---
-## Voorspel
+## Vooraf
 
-Soignies, laatste in de stand met nul punten, kreeg in de drie voorgaande ronden telkens een 5-1-pandoering. Zelf moeten we natuurlijk ook niet te hoog van de toren blazen met amper één op zes. En dus was winnen cruciaal. Elo-gewijs waren we trouwens ook favoriet. Helaas, kost wat kost moeten scoren, zet ook extra druk natuurlijk.<!--more-->
+De twee Dworpse ploegen stonden in de vijfde ronde van de interclub-competitie voor een moeilijke opdracht. Team 1 had de zwarte taak om tegen het sterke, voor de titel spelende, Opwijk de schade te beperken en indien mogelijk een graantje mee te pikken. Voor de tweede ploeg was het na het debacle in de vorige ronde eenvoudiger: alleen teamwinst is een optie. Wil team 2 de promotie nog in de wacht slepen dan geldt dat trouwens voor alle volgende ronden.<!--more-->
 
 ## De ontmoeting
 
-Op bord 1 was het pleit snel beslecht. **_Serge_** stond met zwart van meet af aan goed na een blunder (dixit Serge) van zijn tegenstander. Hij had alle open lijnen, zowel voor torens als lopers en met een korte versus een lange rokade ging de aanval op de witte koning erg hard. Erop en erover. Serge kwam, zag en overwon. 0-1 voor de ‘goei’.
+De eerste ploeg, de eer (nauwelijks) gered
 
-Op het tweede punt was het langer wachten. Het kwam er, met de nodige mazzel op bord 4. Met wit kwam **_Geert V._** zwaar onder Koningsindische druk. Gelukkig wel met enige materiële compensatie. Na het nodige gerommel op het midden van het bord won zwart uiteindelijk alle materiaal terug. Toen niemand –en zeker de zwartspeler niet - het nog verwachtte, zorgde een frisse slotcombinatie toch nog voor een onverhoopt punt. 0-2 alweer voor de ‘goei’.
+Opwijk nam geen enkel risico en stelde hun sterkste ploeg tot dusver op (+2000 op bord 6). Een geval val overdreven respect of misschien iets waar we maar beter aan kunnen wennen na onze mooie resultaten tegen Gent en Chesspirant? Als we oa naar de CREB kijken afgelopen zondag zien we dat hun bord 6 tegen ons nu op bord 1 speelde!
 
-Nog anderhalf punt uit vier matchen. Dat zou moeten lukken. En toch. **_Filip_** op bord 5 was met wit in een solide partij alvast goed voor een halfje. In een damepion-opening  genoot hij met volle teugen van een sterk paard. Keerzijde was wel dat de tegenstander dat compenseerde met… een sterk paard. De partij kabbelde rustig verder zonder dat één van beide spelers veel uitgesproken kansen kreeg. Kortom, een meer dan verdiend halfje. 0,5-2,5 voor nog maar eens de ‘goei’.
+Serge was opnieuw het snelste klaar maar dit keer geen remise, Arno offerde een stuk dat Serge na zonder veel nadenken aannam (misschien was het kalf toen al verdronken) en werd nadien redelijk hard overspeelt.
 
-Tot zover het goede nieuws. Want op bord 5 had **_Walter_** met zwart in een Siciliaanse partij en in een iets te romantische bui, erg optimistisch zijn pionnen in de strijd gegooid. Hij kreeg meteen lik op stuk, de tegenstander creëerde twee vrijpionnen die enkel te stoppen waren mits het offeren van een paardje. Ondanks hardnekkig verzet en veel inzet viel het kalf niet meer te redden. 1,5-2,5 (gelukkig nog altijd) voor de ‘goei’.
+De andere borden hielden verdienstelijk stand. Frank had een toreneindspel met pion minder maar had volgens mij nog remise kansen terwijl Walter opnieuw een zeer mooie stelling had opgebowd en Eric en Kjell hielden gelijke trend. Diederik stond zwaar in de verdrukking maar op basis van het vervolg nog niet helemaal kansloos. Tussen vijf en zes liep het echter volledig mis met eerst Diederik die volledig begaf onder de druk van een incorrect gespeelde combinatie van zijn tegenstander (FEN 1r2n1k1/qr1b2bp/p4np1/2pPB3/2P1P1P1/1P5P/R2N2BK/Q4R2 w - - 1 30) en wit blunderde met Txa6?). 
 
-En toen begon het nagelbijten. **_Kjell_** op bord 2 kwam met wit schitterend uit de opening.  Het leek erop dat hij er, zoals op bord 1, op en over zou gaan. Helaas, pindakaas. Na zijn catastrofaal begin verdapperde de zwartspeler, bood taai weerstand en uiteindelijk zag Kjell zijn correct geofferde pion uit de opening niet meer terug. Wel kwam de remise nooit in gevaar (ongelijke lopers) maar iedereen was het erover eens: hier had meer in gezeten. 2-3 voor de ‘goei’.
+Vervolgens Walter die nog steeds in een goede stelling zijn klok vergeet in te drukken en dit pas ziet met drie resterende minuten op de klok. Niet genoeg om de complexe stelling te kunnen houden.
 
-En dan beten we nog veel meer en nog veel langer op onze nagels. **_Geert M._** had met zwart op bord 3 een hele partij lang een mooi gelijkopgaande stelling. Het resulteerde in een toreneindspel waarvoor het woord remise is uitgevonden. Alleen, Geert had nog maar luttele minuten op de klok. Het leek erop dat de tegenstander die tijdshandicap ten volle wou uitbuiten, hij bleef maar doorspelen. Niet ten onrechte natuurlijk, in geval van winst was het 3-3. Zover kwam het gelukkig voor ons niet. Plots stelde de Soignies-enaar (of hoe noem je een inwoner van Soignies?) zelf remise voor. Sportief! Half punt, game en match! 2,5-3,5 voor de ‘goei’. Oef, opdracht volbracht!
+Ondertussen was Frank zijn toreneindspel volledig ontspoord en was de ene pion achterstand er ondertussen 3 of 4 geworden (wie telt nog op dat moment?), ook hier over en uit.
+
+Nadien moest of Kjell of Eric de eer proberen redden. Kjell kwam tegen de sterke Jonas Van Capelle in een moeilijk eindspel met 1 pion minder maar hij had wel een vrijpion. In de analyse bleek dat hij toch echt wel goede remise kansen had maar aan het bord lukte het niet. Jammer dat de goede partij en het harde werken niet beloond werden.
+
+Restte onze laatste hoop : Eric die met een mooie combinatie wist te promoveren en daardoor in een gewonnen eindspel van dame tegen toren kwam (zie stelling van de dag). Eric nam echter het zekere voor het onzekere en stelde remise voor. Het verschil tussen 0,5 of 1 op 6 maakt natuurlijk niet uit, toch leek het mij volledig uit voor de Opwijkenaar.
+
+En dan nu over naar Nijvel
+
+Een zucht van opluchting bij ondergetekende toen aan bord 1 niet de gedoodverfde 1950-plusser zat –blijkbaar door zijn eigen club kaltgestellt nadat hij in de vorige ronde de vrienden van Halle in een dronken bui een schaakklok naar het hoofd had geslingerd- maar wel een vriendelijke 1700-plusser. Deze was zo galant om zich binnen de kortste keren in een Franse partij in de pan te laten hakken. Wit leverde bijvoorbeeld al snel een pion in. In combinatie met een onderontwikkelde puinhoop de naam stelling niet waardig, zorgde dit als de wiedeweerga voor het eerste Dworpse punt. 0-1 voor de goei. 
+
+Ook op bord 4 komt Stijn al snel beter te staan. Ook daar zorgt zijn tegenstander zelf voor. Met zwart lanceert hij in de opening een uiterst dubieus pionoffer. In snelschaak kan dat misschien punten opleveren, in een gewone partij bezorgt het wit meteen een droomstelling. Stijn laat het niet aan zijn hart komen en maakt de karwei zorgvuldig en snel af. Zwart verliest zijn spreekwoordelijke ‘broek met bretellen’. Top! Heel snel staan de goei zo al 0-2 voor.
+
+Peter aan bord 3 krijgt met zwart in een Franse partij vlug een betere stelling. Hij wint een stuk maar moet in ruil daarvoor wel enige druk op zijn koningsstelling trotseren. Zwart slaat de aanval echter probleemloos, met brio en elegant af. Bij wijze van toetje krijgt hij daarbij nog de witte dame cadeau. Top aan bord 3: game, set en match. Opdracht volbracht: 0-3 voor de goei.
+
+Gelukkig is de buit binnen want Camiel, onze remisekoning aan het tweede bord, laat zich dit keer verrassen. Of beter, hij verrast zichzelf door met wit niet voor de ruilvariant van het Frans te opteren maar zijn e-pion door te schuiven. De daardoor ontstane stelling staat echter mijlenver af van de aard van het witte beestje:  het volle punt gaat dus verloren. Mea culpa, mea maxima culpa: ik had Camiel eerder zijn tamme openingen verweten en daar wou hij wat aan doen. Sorry, stick to your own plan. Eindverdict: 1-3 voor Dworp.
 
 ## Naspel
 
-Door deze overwinning staan we nu drie punten voor de eerste degradatieplaats. Het geeft even ademruimte en dat was meer dan nodig. Zondag is het thuis tegen Temse 2 en zij hebben krek evenveel punten als wij. Als we winnen, gaan we fluitend de winterstop in. Mannen! Smeer allemaal jullie benen maar al in.
+Enkel topoptimisten hadden Dworp 1 kansen op puntjes toegedicht tegen titelkandidaat Opwijk in derde afdeling. Ondertussen staat het vlaggenschip van Dworp wel op een degradatieplaats de winterstop in met als enige lichtpunt het feit dat we reeds tegen de eerste vier in de stand hebben gespeeld. In 2018 moet dat beter, jongens. 
 
+Dworp 2 deed wat ervan verwacht werd en tegen dit Nijvel was dat Elogewijs ook geen knalprestatie. Maar toch, elke match moet gespeeld worden, zo wil het cliché. En dus zijn we blij, onze titelkansen blijven gaaf. Met als eenvoudige opdracht om de volgende ronden zo verder te doen. Sterker nog, in de toekomst halen we best niet enkel alle matchpunten binnen maar ook zoveel mogelijk bordpunten. Daar zou het wel eens op aan kunnen komen. 
+
+Aan iedereen: de beste wensen en gezond weer op in 2018 met een verslag over ronde zes van de nationale interclub-competitie.  
