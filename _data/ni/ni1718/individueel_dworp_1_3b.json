@@ -70,5 +70,23 @@
       {"tr": "0", "ur": "1", "tspeler": "De Reymaeker, Walter", "uspeler": "Edwards, Geraint", "telo": 1882, "uelo": 1984, "tstam": 34584, "ustam": 13049},
       {"tr": "1", "ur": "0", "tspeler": "Taleb, Mohamed", "uspeler": "Vasile-Bonciog, Cristian", "telo": 1345, "uelo": 1907, "tstam": 64611, "ustam": 60728}
     ]
+  },
+  {
+    "ronde": "5",
+    "datum": "03-12-2017",
+    "thuis": "261 Opwijk 1",
+    "uit": "228 Dworp 1",
+    "tscore": 5.5,
+    "uscore": 0.5,
+    "tgem": 2125,
+    "ugem": 1930,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Bomans, Arno", "uspeler": "Vanderwaeren, Serge", "telo": 2260, "uelo": 2172, "tstam": 50482, "ustam": 20621},
+      {"tr": "1", "ur": "0", "tspeler": "Van Cappellen, Jonas", "uspeler": "Spaens, Kjell", "telo": 2169, "uelo": 1973, "tstam": 1988, "ustam": 29343},
+      {"tr": "1", "ur": "0", "tspeler": "Rogiers, Jan", "uspeler": "Lot, Diederik", "telo": 2157, "uelo": 1983, "tstam": 48569, "ustam": 9954},
+      {"tr": "1", "ur": "0", "tspeler": "Van De Perre, Tom", "uspeler": "Denys, Frank", "telo": 2103, "uelo": 1895, "tstam": 1929, "ustam": 21881},
+      {"tr": "1", "ur": "0", "tspeler": "Morozova, Iuliia", "uspeler": "De Reymaeker, Walter", "telo": 2054, "uelo": 1882, "tstam": 13493, "ustam": 34584},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Versyck, Dominique", "uspeler": "Cornelis, Eric", "telo": 2006, "uelo": 1675, "tstam": 26972, "ustam": 76317}
+    ]
   }
 ]

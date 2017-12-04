@@ -51,11 +51,11 @@
     "ronde": "ronde 5",
     "datum": "03-12-2017",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "961 Braine l'Alleud 2", "uit": "278 Pantin 4"},
-      {"tr": "", "ur": "", "thuis": "209 The Belgian CC 4", "uit": "226 Europchess 4"},
-      {"tr": "", "ur": "", "thuis": "229 Woluwe 2", "uit": "951 Lasne-Waterloo 2"},
-      {"tr": "", "ur": "", "thuis": "201 CREB 3", "uit": "952 Wavre 3"},
-      {"tr": "", "ur": "", "thuis": "953 Nivelles 1", "uit": "228 Dworp 2"},
+      {"tr": "0.5", "ur": "3.5", "thuis": "961 Braine l'Alleud 2", "uit": "278 Pantin 4"},
+      {"tr": "1", "ur": "3", "thuis": "209 The Belgian CC 4", "uit": "226 Europchess 4"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "229 Woluwe 2", "uit": "951 Lasne-Waterloo 2"},
+      {"tr": "1", "ur": "3", "thuis": "201 CREB 3", "uit": "952 Wavre 3"},
+      {"tr": "1", "ur": "3", "thuis": "953 Nivelles 1", "uit": "228 Dworp 2"},
       {"tr": "", "ur": "", "thuis": "233 DZD Halle 1", "uit": "bye"}
     ]
   },

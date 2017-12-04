@@ -62,5 +62,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Van De Velde, Filip", "uspeler": "Micciche, Ruben", "telo": 1727, "uelo": 1478, "tstam": 31682, "ustam": 14274},
       {"tr": "1", "ur": "0", "tspeler": "Baert, Yves", "uspeler": "Van De Water, Marc", "telo": 1468, "uelo": 1564, "tstam": 48721, "ustam": 78093},
     ]
+  },
+  {
+    "ronde": "5",
+    "datum": "03-12-2017",
+    "thuis": "953 Nivelles 1",
+    "uit": "228 Dworp 2",
+    "tscore": 1,
+    "uscore": 3,
+    "tgem": 1586,
+    "ugem": 1798,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Colombo, Fabio", "uspeler": "Verrijken, Geert", "telo": 1735, "uelo": 1942, "tstam": 12754, "ustam": 62766},
+      {"tr": "1", "ur": "0", "tspeler": "Monnier, Samuel", "uspeler": "Vennekens, Camiel", "telo": 1653, "uelo": 1828, "tstam": 97301, "ustam": 37168},
+      {"tr": "0", "ur": "1", "tspeler": "Mouchart, Andre", "uspeler": "De Bosscher, Peter", "telo": 1484, "uelo": 1789, "tstam": 84930, "ustam": 655},
+      {"tr": "0", "ur": "1", "tspeler": "Hanut, Jean-Philippe", "uspeler": "Bertrand, Stijn", "telo": 1470, "uelo": 1634, "tstam": 98202, "ustam": 21253}
+    ]
   }
 ]
