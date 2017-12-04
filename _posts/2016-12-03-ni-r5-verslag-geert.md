@@ -1,6 +1,6 @@
----
+ ---
 tag: ni
-draft:true
+draft: true
 layout: verslag
 excerpt_separator: <!--more-->
 author: Geert
