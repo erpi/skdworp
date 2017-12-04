@@ -7,7 +7,7 @@ ni_d2_uitploeg: Dworp 2
 ni_ronde: 5
 title: Met gemengde gevoelens de winterstop in
 author: Diederik en Geert
-stelling_fen: 8/p1p2p2/1p1p1P1K/5kP1/2PP1p2/2P4R/P7/4r3 b - - 0 1
+stelling_fen: 8/p1p2p2/1p1p1P1K/6P1/2PP1pk1/2P4R/P7/4r3 w - - 0 1
 stelling_titel: Combinatie van de dag
 stelling_wit: Eric
 stelling_zwart: Dominique
