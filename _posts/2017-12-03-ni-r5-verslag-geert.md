@@ -14,7 +14,7 @@ stelling_zwart: Dominique
 stelling_uitleg: >-
   Zwart speelt Kg4? 
 stelling_oplossing: >-
-  1. g3!, en promotie is niet meer te verhinderen
+  1. g6!, en promotie is niet meer te verhinderen
 date: 2017-12-03 21:30:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->
