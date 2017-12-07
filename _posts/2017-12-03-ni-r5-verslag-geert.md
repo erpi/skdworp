@@ -18,7 +18,7 @@ stelling_oplossing: >-
 date: 2017-12-03 21:30:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->
-draft: true
+draft: false
 ---
 ## Vooraf
 
@@ -32,7 +32,7 @@ Opwijk nam geen enkel risico en stelde hun sterkste ploeg tot dusver op (+2000 o
 
 Serge was opnieuw het snelste klaar maar dit keer werd het geen remise. Arno Bomans offerde een stuk dat Serge zonder veel nadenken aannam (misschien was het kalf toen al verdronken?). Nadien werd hij redelijk hard overspeeld.
 
-De andere borden hielden verdienstelijk stand. Frank had een toreneindspel met pion minder maar had nog remisekansen, terwijl Walter opnieuw een zeer mooie stelling had opgebouwd. Ook Eric en Kjell hielden gelijke tred. Diederik stond zwaar in de verdrukking maar op basis van het vervolg nog niet helemaal kansloos. Tussen vijf en zes uur liep het echter volledig mis met eerst Diederik die volledig begaf onder de druk van een incorrect gespeelde combinatie van zijn tegenstander ([FEN 1r2n1k1/qr1b2bp/p4np1/2pPB3/2P1P1P1/1P5P/R2N2BK/Q4R2 w - - 1 30][1] en wit blunderde met Txa6?). Dit moet jij eigenlijk toch zien!
+De andere borden hielden verdienstelijk stand. Frank had een toreneindspel met pion minder maar had nog remisekansen, terwijl Walter opnieuw een zeer mooie stelling had opgebouwd. Ook Eric en Kjell hielden gelijke tred. Diederik stond zwaar in de verdrukking maar op basis van het vervolg nog niet helemaal kansloos. Tussen vijf en zes uur liep het echter volledig mis met eerst Diederik die volledig begaf onder de druk van een incorrect gespeelde combinatie van zijn tegenstander ([FEN 1r2n1k1/qr1b2b1/p4n2/2pPB1p1/2P1P1P1/1P5P/R2N2BK/Q4R2 w - - 1 30][1] en wit blunderde met Txa6?). Dit moet jij eigenlijk toch zien!
 
 Vervolgens Walter die nog steeds in een goede stelling zijn klok vergat in te drukken en dit pas zag met drie resterende minuten op de klok. Niet genoeg om de complexe stelling te kunnen houden.
 
@@ -60,4 +60,4 @@ Dworp 2 deed wat ervan verwacht werd en tegen dit Nijvel was dat Elogewijs ook g
 
 Aan iedereen: de beste wensen en gezond weer op in 2018 met een verslag over ronde zes van de nationale interclub-competitie!
 
-[1]: https://lichess.org/analysis/standard/1r2n1k1/qr1b2bp/p4np1/2pPB3/2P1P1P1/1P5P/R2N2BK/Q4R2_w_-_-_1_30
+[1]: https://lichess.org/analysis/1r2n1k1/qr1b2b1/p4n2/2pPB1p1/2P1P1P1/1P5P/R2N2BK/Q4R2_w_-_-1_30
