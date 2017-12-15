@@ -196,8 +196,8 @@
     "datum": "15-12-2017",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Diederik Lot",
         "zwart": "Kjell Spaens"
       },
@@ -208,8 +208,8 @@
         "zwart": "Yves Baert"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Serge Vanderwaeren",
         "zwart": "Stijn Bertrand"
       },
@@ -226,8 +226,8 @@
         "zwart": "Eric Cornelis"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Eddy Pletinckx",
         "zwart": "Peter De Bosscher"
       },
