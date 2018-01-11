@@ -3,16 +3,17 @@ partij 1,,,
 Palmans Niels,Lot Diederik,0,1
 Vanderwaeren Serge,Van de Velde Filip,1,0
 Ertveldt Pieter,Lerinckx Sander,1,0
-Beckers Stijn,Bultijnck Kristoff,0,1
 Baert Yves,De Bosscher Peter,0,1
+Beckers Stijn,Bultijnck Kristoff,0,1
 Huyghe Felix,Lerinckx Niels,0,1
 Vandevelde Jannes,Buggenhout Kieran,1,0
+Huysman Robert,bye,,
 partij 2,,,
 Lot Diederik,Huysman Robert,1,0
 De Bosscher Peter,Vanderwaeren Serge,0,1
 Bultijnck Kristoff,Ertveldt Pieter,1,0
-Lerinckx Niels,Van de Velde Filip,0,1
 Baert Yves,Palmans Niels,0,1
+Lerinckx Niels,Van de Velde Filip,0,1
 Buggenhout Kieran,Lerinckx Sander,0,1
 Huyghe Felix,Beckers Stijn,1,0
 Vandevelde Jannes,bye,,
@@ -20,8 +21,8 @@ partij 3,,,
 Lot Diederik,Bultijnck Kristoff,1,0
 Vanderwaeren Serge,Huysman Robert,1,0
 Ertveldt Pieter,De Bosscher Peter,0,1
-Van de Velde Filip,Vandevelde Jannes,1,0
 Lerinckx Sander,Palmans Niels,0,1
-Beckers Stijn,Lerinckx Niels,0.5,0.5
+Van de Velde Filip,Vandevelde Jannes,1,0
 Buggenhout Kieran,Huyghe Felix,0,1
+Beckers Stijn,Lerinckx Niels,0.5,0.5
 Baert Yves,bye,,
