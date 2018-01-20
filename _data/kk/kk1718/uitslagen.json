@@ -244,20 +244,20 @@
     "datum": "19-01-2018",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Kjell Spaens",
         "zwart": "Filip Van de Velde"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Peter De Bosscher",
         "zwart": "Bernard Malfliet"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Eric Cornelis",
         "zwart": "Eddy Pletinckx"
       },
@@ -268,14 +268,14 @@
         "zwart": "Niels Palmans"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Stijn Bertrand",
         "zwart": "Geert Maeckelbergh"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Yves Baert",
         "zwart": "Serge Vanderwaeren"
       },
