@@ -298,14 +298,14 @@
         "zwart": "Kjell Spaens"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Serge Vanderwaeren",
         "zwart": "Diederik Lot"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Geert Maeckelbergh",
         "zwart": "Yves Baert"
       },
@@ -322,14 +322,14 @@
         "zwart": "Walter De Reymaeker"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Bernard Malfliet",
         "zwart": "Eric Cornelis"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Filip Van de Velde",
         "zwart": "Peter De Bosscher"
       }
