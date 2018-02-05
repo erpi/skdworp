@@ -88,5 +88,23 @@
       {"tr": "1", "ur": "0", "tspeler": "Morozova, Iuliia", "uspeler": "De Reymaeker, Walter", "telo": 2054, "uelo": 1882, "tstam": 13493, "ustam": 34584},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Versyck, Dominique", "uspeler": "Cornelis, Eric", "telo": 2006, "uelo": 1675, "tstam": 26972, "ustam": 76317}
     ]
+  },
+  {
+    "ronde": "6",
+    "datum": "04-02-2018",
+    "thuis": "228 Dworp 1",
+    "uit": "174 Brasschaat 2",
+    "tscore": 3.5,
+    "uscore": 2.5,
+    "tgem": 1933,
+    "ugem": 1897,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Vanderwaeren, Serge", "uspeler": "De Weerd, Jan", "telo": 2172, "uelo": 2126, "tstam": 20621, "ustam": 21814},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Spaens, Kjell", "uspeler": "Schroer, Marcel", "telo": 1973, "uelo": 2066, "tstam": 29343, "ustam": 13488},
+      {"tr": "1", "ur": "0", "tspeler": "Lot, Diederik", "uspeler": "Wijgers, Toon", "telo": 1983, "uelo": 2050, "tstam": 9954, "ustam": 56057},
+      {"tr": "0", "ur": "1", "tspeler": "Denys, Frank", "uspeler": "Remijsen, Dave", "telo": 1895, "uelo": 1850, "tstam": 21881, "ustam": 48381},
+      {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Raats, Joppe", "telo": 1942, "uelo": 1730, "tstam": 62766, "ustam": 12445},
+      {"tr": "1", "ur": "0", "tspeler": "Bertrand, Stijn", "uspeler": "Berghs, Hilde", "telo": 1634, "uelo": 1565, "tstam": 21253, "ustam": 58424}
+    ]
   }
 ]
