@@ -24,7 +24,7 @@ Hoewel het al bij al nog vrij lang duurde, had **_Serge_** ook deze keer eerst g
 
 Het kan altijd nog erger. **_Frank_** op bord 4 krijgt met de zwarte stukken in een Bird-variant van het Spaans een goede stelling en gemakkelijk spel. Jammer genoeg overziet hij in het verre middenspel pionverlies op f6. Daarna valt de stelling niet meer te houden, de witspeler wikkelt af naar een gewonnen eindspel. 0-2 voor Brasschaat.
 
-Gelukkig wordt het niet nog droever. Integendeel, **_Kjell_** met zwart op bord 2 speelt een zeer goede partij tegen een sterke tegenstander (2100 Elo). Daarmee houdt hij het eerste halve punt in Dworp. Top maar toch nog 0,5-2,5 voor Brasschaat.
+Gelukkig wordt het niet nog droever. Integendeel, **_Kjell_** met zwart op bord 2 speelt een zeer goede partij tegen een sterke tegenstander (bijna 2100 Elo). Daarmee houdt hij het eerste halve punt in Dworp. Top maar toch nog 0,5-2,5 voor Brasschaat.
 
 Over naar bord 5 waar **_Geert_** met wit mijn debuut maakt in het eerste team. Dit seizoen toch. En dit tegen een beloftevolle Brasschaatse jeugdspeler. In een zeer orthodox damegambiet tast de zwartspeler al snel mis. Dat levert wit een gezonde pion en een goede stelling op. Even later tracht zwart uit de beknelling te geraken via een stukoffer. Een miskleun. Zeker nadat de voorsprong uitgediept wordt tot een volle toren. Nog even opletten voor een mini-nestje vrijpionnen en dan is de buit binnen. 1,5-2,5 voor Brasschaat.
 
@@ -40,11 +40,11 @@ Dan was het nog urenlang wachten op het volgende resultaat...
 
 **_Camiel_** op bord 1 met wit speelde gewoontegetrouw een rustige partij met dominantie over de c en e-lijn. Dit resulteerde uiteindelijk in een eindspel met een heel gezonde pion meer. Toen er nog een pion verloren ging, gaf tegenstander **_Sonja_** op. Zodoende hield Camiel woord: hij had zijn vriend Geert beloofd deze keer zeker geen remise te spelen. 2-0 voor de goei.
 
-**_Filip_** met wit op bord 3 had aan **_Bob_** een stugge tegenstander. Urenlang werd er gemaneuvreerd maar Filip kon vrij risicoloos op winst spelen daar zijn stukken meer activiteit uitstraalden. Vooral een heel slechte zwarte loper baarde zwart zorgen. Uiteindelijk ging Bob door zijn vlag op het moment dat wit kon gaan oogsten. 3-0 voor de goei.
+**_Filip_** met wit op bord 3 had aan **_Bob_** een stugge tegenstander. Urenlang werd er gemanoeuvreerd maar Filip kon vrij risicoloos op winst spelen daar zijn stukken meer activiteit uitstraalden. Vooral een heel slechte zwarte loper baarde zwart zorgen. Uiteindelijk ging Bob door zijn vlag op het moment dat wit kon gaan oogsten. 3-0 voor de goei.
 
 **_Peter_** met zwart op het tweede bord trof de ambitieuze **_Kristoff_**. Onze man overzag een schijnoffer op veld d5 en stond hierna urenlang tegen de muur (en verloren!). Hij zette vervolgens al zijn energie in. Met een zwarte dame op zoek naar eeuwig schaak begon wit, in tijdnood, heel risicovol te spelen en zwart won de dame op a6. Daarna promoveerde wit zijn vrijpion op b7 tot dame. Evenwel… zonder schaak. Vervolgens slaat zwart MET schaak een andere gevaarlijke vrijpion van het bord. Hiermee viel ook het doek voor zwart. Eerder had zwart ook al een paard op f8 gewonnen. Met het oog op de aarts-gevaarlijke witte vrijpionnen bleef hij wel dubieus staan. Het bewijst nogmaals dat wit werkelijk heel goed heeft gestaan.
 
-4-0 dus maar na heel wat gezwoeg! In onze humaniora in het OLV-college van Halle zat ook zo een zwoeger. Als we hem erop attent maakten dat hij het toch allemaal een beetje te serieus nam, diende hij ons gevat van repliek (heel wat rode lijnen bij de taalcorrector!): Wee èt er tmieste poente è joeng?? En gelijk had hij, het draait om de punten!
+4-0 dus maar na heel wat gezwoeg! In onze humaniora in het OLV-college van Halle zat ook zo een zwoeger. Als we hem erop attent maakten dat hij het toch allemaal een beetje te serieus nam, diende hij ons gevat van repliek (heel wat rode lijnen bij de taalcorrector!): wee èt er tmieste poente è joeng?? En gelijk had hij, het draait om de punten!
 
 ## Naspel
 
