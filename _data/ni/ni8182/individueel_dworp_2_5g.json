@@ -1,0 +1,146 @@
+[
+{
+    "ronde": "1",
+    "datum": "25-10-1981",
+    "thuis": "228 Dworp 2",
+    "uit": "432 Wetteren 2",
+    "tscore": "8",
+    "uscore": "8",
+    "tgem": "1521",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Van den Kerkhoven R", "telo": "1521", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Vanderwaeren Serge", "uspeler": "Devreese G", "telo": "ng", "uelo": "", "tstam": "20621", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "De Ceukelaire Gert", "uspeler": "Claus E", "telo": "ng", "uelo": "", "tstam": "99152", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Malfliet Bernard", "uspeler": "Van de Velde K", "telo": "ng", "uelo": "", "tstam": "31348", "ustam": ""}
+    ]
+  }, 
+ {
+    "ronde": "2",
+    "datum": "15-11-1981",
+    "thuis": "436 Lokeren 2",
+    "uit": "228 Dworp 2",
+    "tscore": "6",
+    "uscore": "10",
+    "tgem": "",
+    "ugem": "1556",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Peelman L", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1591", "tstam": "", "ustam": "19273"},
+      {"tr": "1", "ur": "3", "tspeler": "Van den Broeck J", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1521", "tstam": "", "ustam": "76317"},
+      {"tr": "1", "ur": "3", "tspeler": "Buyssens M", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "ng", "tstam": "", "ustam": "20621"},
+      {"tr": "3", "ur": "1", "tspeler": "", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "ng", "tstam": "", "ustam": "31348"}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "29-11-1981",
+    "thuis": "228 Dworp 2",
+    "uit": "410 Sint-Niklaas 2",
+    "tscore": "7",
+    "uscore": "9",
+    "tgem": "1521",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Cornelis Eric", "uspeler": "De Corte G", "telo": "1521", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Vanderwaeren Serge", "uspeler": "Beniers G", "telo": "ng", "uelo": "", "tstam": "20621", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "De Ceukelaire Gert", "uspeler": "D'Haen P", "telo": "ng", "uelo": "", "tstam": "99152", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Malfliet Bernard", "uspeler": "Ruymbeek L", "telo": "ng", "uelo": "", "tstam": "31348", "ustam": ""}
+    ]
+  },
+{
+    "ronde": "4",
+    "datum": "17-01-1982",
+    "thuis": "417 Aalst 3",
+    "uit": "228 Dworp 2",
+    "tscore": "6",
+    "uscore": "10",
+    "tgem": "",
+    "ugem": "1556",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Meyts B", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1591", "tstam": "", "ustam": "19273"},
+      {"tr": "1", "ur": "3", "tspeler": "Boterbergh Benny", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1521", "tstam": "", "ustam": "76317"},
+      {"tr": "1", "ur": "3", "tspeler": "Van Den Steen", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99152"},
+      {"tr": "3", "ur": "1", "tspeler": "Desmet T", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "ng", "tstam": "", "ustam": "31348"}
+    ]
+  },   
+{
+    "ronde": "5",
+    "datum": "31-01-1982",
+    "thuis": "228 Dworp 2",
+    "uit": "143 Temse 1",
+    "tscore": "5",
+    "uscore": "11",
+    "tgem": "1521",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Cornelis Eric", "uspeler": "Van der Meiren A", "telo": "1521", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Vanderwaeren Serge", "uspeler": "Moernout F", "telo": "1719", "uelo": "", "tstam": "20621", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Malfliet Bernard", "uspeler": "De Schepper B", "telo": "1648", "uelo": "", "tstam": "31348", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Deklerck Willy", "uspeler": "Van Geyt R", "telo": "ng", "uelo": "", "tstam": "27715", "ustam": ""}
+    ]
+  },  
+ {
+    "ronde": "6",
+    "datum": "14-02-1982",
+    "thuis": "228 Dworp 2",
+    "uit": "209 Anderlecht 4",
+    "tscore": "9",
+    "uscore": "7",
+    "tgem": "1583",
+    "ugem": "",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "Lemmens Pierre", "uspeler": "Delsuphe A", "telo": "1645", "uelo": "", "tstam": "19313", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Van Hellemont P", "telo": "1521", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Vanderwaeren Serge", "uspeler": "Marinx Tanguy", "telo": "ng", "uelo": "", "tstam": "20621", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "De Ceukelaire Gert", "uspeler": "Claesen Pieter", "telo": "ng", "uelo": "", "tstam": "99152", "ustam": ""}
+    ]
+  },
+{
+    "ronde": "7",
+    "datum": "28-02-1982",
+    "thuis": "425 Dendermonde 2",
+    "uit": "228 Dworp 2",
+    "tscore": "6",
+    "uscore": "10",
+    "tgem": "",
+    "ugem": "1586",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Den Doncker J", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1645", "tstam": "", "ustam": "19313"},
+      {"tr": "1", "ur": "3", "tspeler": "Van Nuffel M", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1591", "tstam": "", "ustam": "19273"},
+      {"tr": "3", "ur": "1", "tspeler": "Van Craen R", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1521", "tstam": "", "ustam": "76317"},
+      {"tr": "1", "ur": "3", "tspeler": "Dierickx J", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "ng", "tstam": "", "ustam": "20621"}
+    ]
+  },
+{
+    "ronde": "8",
+    "datum": "14-03-1982",
+    "thuis": "228 Dworp 2",
+    "uit": "425 Dendermonde 3",
+    "tscore": "11",
+    "uscore": "5",
+    "tgem": "1586",
+    "ugem": "",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "Lemmens Pierre", "uspeler": "Verniers", "telo": "1645", "uelo": "", "tstam": "19313", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Rosseel Gilbert", "uspeler": "Van Bellingen P", "telo": "1591", "uelo": "", "tstam": "19273", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Schelkens F", "telo": "1521", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Vanderwaeren Serge", "uspeler": "Van Steen G", "telo": "ng", "uelo": "", "tstam": "20621", "ustam": ""}
+    ]
+  },
+{
+    "ronde": "9",
+    "datum": "21-03-1982",
+    "thuis": "209 Anderlecht 5",
+    "uit": "228 Dworp 2",
+    "tscore": "7",
+    "uscore": "9",
+    "tgem": "",
+    "ugem": "1645",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "Presti G", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1645", "tstam": "", "ustam": "19313"},
+      {"tr": "2", "ur": "2", "tspeler": "Steenwerckx Remy", "uspeler": "Mertens Francois", "telo": "", "uelo": "1645", "tstam": "", "ustam": "31526"},
+      {"tr": "1", "ur": "3", "tspeler": "Vandermeersch Luk-Antoon", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "ng", "tstam": "", "ustam": "20621"},
+      {"tr": "1", "ur": "3", "tspeler": "Van Bocxlaer", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99152"}
+    ]
+  }
+]
