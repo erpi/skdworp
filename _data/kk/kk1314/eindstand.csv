@@ -1,9 +1,9 @@
-nummer,naam,1,2,3,4,5,6,7,8,totaal,stand,# te spelen
-1,Bernard Malfliet,X,0,0,0,0,0,0,0,0,0,0
-2,Alexander Debeuckelaere,2,X,0,2,0,1,2,2,9,3,0
-3,Serge Vanderwaeren,2,2,X,2,1,1.5,2,1,11.5,2,1
-4,Peter Vanpé,0,0,0,X,0,0,0,0,0,0,0
-5,Diederik Lot,2,2,1,2,X,2,2,2,13,1,0
-6,Eric Cornelis,2,1,0.5,2,0,X,2,1,8.5,4,1
-7,Robert Huysman,0,0,0,0,0,0,X,0,0,0,0
-8,Ruben Degraeve,2,0,0,2,0,0,2,X,6,5,2
+,,1,2,3,4,5,6,7,8,Totaal,Stand
+1,Diederik Lot,X,1,2,2,2,2,2,2,13,1
+2,Serge Vanderwaeren,1,X,2,1.5,2,2,2,2,12.5,2
+3,Alexander Debeuckelaere,0,0,X,1,2,2,2,2,9,3
+4,Eric Cornelis,0,0,1,X,2,2,2,2,9,4
+5,Ruben Degraeve,0,0,0,0,X,2,2,2,6,5
+6,Bob Huysman,0,0,0,0,0,X,0,0,0,0
+7,Bernard Malfliet,0,0,0,0,0,0,X,0,0,0
+8,Peter Vanpé,0,0,0,0,0,0,0,0,0,0
