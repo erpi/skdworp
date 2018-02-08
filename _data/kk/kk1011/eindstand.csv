@@ -1,10 +1,10 @@
 nummer,naam,1,2,3,4,5,8,6,7,9,10,totaal,score
 1,Serge Vanderwaeren,X,4,4,4,4,4,4,4,1,,29,7/8
-2,Diederik Lot ,1,X,4,4,4,4,1,2,4,,24,5.5/8
+2,Diederik Lot,1,X,4,4,4,4,2,1,4,,24,5.5/8
 3,Jean-Didier Kawanda,1,1,X,4,2,1,4,1,4,,18,3.5/8
-4,Bernard Malfliet ,1,1,1,X,2,2,4,4,2,(2),17,3.5/8
+4,Bernard Malfliet,1,1,1,X,2,2,4,4,2,(2),17,3.5/8
 5,Eric Cornelis ,1,1,2,2,X,4,2,1,4,,17,3.5/8
-6,Peter Vanpé,1,1,4,2,1,X,2,2,4,,17,3.5/7
+6,Peter Vanpé,1,2,4,2,1,X,2,2,4,,17,3.5/7
 7,Robert Huysman,1,4,1,1,2,2,X,4,1,,16,3/8
 8,Geert Maeckelbergh,1,2,4,1,4,2,1,X,0,(1),15,3/7
 9,Louis van Duuren ,4,1,1,2,1,0,4,0,X,,13,2.5/6
