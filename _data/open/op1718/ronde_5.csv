@@ -1,0 +1,19 @@
+wit,zwart,wr,zr
+partij 1,,,
+Vanderwaeren Serge,Ertveldt Pieter,1,0
+De Bosscher Peter,Lot Diederik,1,0
+Huyghe Felix,Cornelis Eric,0,1
+Bultijnck Kristoff,Lerinckx Sander,1,0
+Jean-Charles Michonneau,Beckers Stijn,1,0
+Lerinckx Niels,Baert Yves,0,1
+Vandevelde Jannes,Vanrossum Matthias,1,0
+partij 2,,,
+Lot Diederik,Vanderwaeren Serge,0,1
+Cornelis Eric,Ertveldt Pieter,1,0
+De Bosscher Peter,Bultijnck Kristoff,0,1
+Baert Yves,Jean-Charles Michonneau,0,1
+partij 3,,,
+Vanderwaeren Serge,Cornelis Eric,0.5,0.5
+Ertveldt Pieter,Lot Diederik,1,0
+Jean-Charles Michonneau,De Bosscher Peter,0,1
+Bultijnck Kristoff,Baert Yves,0,1
