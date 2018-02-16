@@ -16,8 +16,8 @@
         "zwart": "Walter De Reymaeker"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Diederik Lot",
         "zwart": "Eric Cornelis"
       },
@@ -52,8 +52,8 @@
     "datum": "20-10-2017",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Kjell Spaens",
         "zwart": "Eddy Pletinckx"
       },
@@ -178,8 +178,8 @@
         "zwart": "Serge Vanderwaeren"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Stijn Bertrand",
         "zwart": "Geert Verrijken"
       },
