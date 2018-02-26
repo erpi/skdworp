@@ -106,5 +106,23 @@
       {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Raats, Joppe", "telo": 1942, "uelo": 1730, "tstam": 62766, "ustam": 12445},
       {"tr": "1", "ur": "0", "tspeler": "Bertrand, Stijn", "uspeler": "Berghs, Hilde", "telo": 1634, "uelo": 1565, "tstam": 21253, "ustam": 58424}
     ]
+  },
+  {
+    "ronde": "7",
+    "datum": "25-02-2018",
+    "thuis": "114 Mechelen 1",
+    "uit": "228 Dworp 1",
+    "tscore": 3.5,
+    "uscore": 2.5,
+    "tgem": 1936,
+    "ugem": 1975,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lee, Deon", "uspeler": "Vanderwaeren, Serge", "telo": 2151, "uelo": 2172, "tstam": 10397, "ustam": 20621},
+      {"tr": "1", "ur": "0", "tspeler": "De Bock, Thijs", "uspeler": "Spaens, Kjell", "telo": 2036, "uelo": 1973, "tstam": 12997, "ustam": 29343},
+      {"tr": "0", "ur": "1", "tspeler": "Dauw, Sterre", "uspeler": "Lot, Diederik", "telo": 1983, "uelo": 1983, "tstam": 15269, "ustam": 9954},
+      {"tr": "1", "ur": "0", "tspeler": "Van Dijck, Bjarne", "uspeler": "Denys, Frank", "telo": 1859, "uelo": 1895, "tstam": 10399, "ustam": 21881},
+      {"tr": "0", "ur": "1", "tspeler": "Dom, Wim", "uspeler": "De Reymaeker, Walter", "telo": 1835, "uelo": 1882, "tstam": 5169, "ustam": 34584},
+      {"tr": "1", "ur": "0", "tspeler": "Verboven, Arnout", "uspeler": "Verrijken, Geert", "telo": 1750, "uelo": 1942, "tstam": 29840, "ustam": 62766}
+    ]
   }
 ]
