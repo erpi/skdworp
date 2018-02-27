@@ -14,7 +14,7 @@ draft: false
 
 Enkel het Dworpse topteam in afdeling 3B hoefde deze zevende ronde in actie te komen. Ploeg 2 was bye. Tegen een gelijkwaardige tegenstander speelden we tegen de Maneblussers met een duidelijke inzet. Wie aan het langste eind trekt, kan quasi op beide oren slapen. Opdracht volbracht, behoud verzekerd. Met die wetenschap in het achterhoofd trokken we naar Mechelen, supporter Eric incluis.<!--more-->
 
-## De confrontatie
+## De ontmoeting
 
 Bord 2, **_Kjell_** met wit, had het eerste gedaan. Hij nam het op tegen een jonge, stugge tegenstander die twee jaar geleden nog Belgisch kampioen min 16 jaar werd. Kjell was niet onder de indruk en overspeelde de beloftevolle jongeheer totaal. Om vervolgens… in een compleet gewonnen stelling in kortsluiting te gaan. Stukverlies en vervolgens ook nog mat waren niet te vermijden. Kjell gaf wijselijk op na het stukverlies. Een totaal onverdiende nederlaag dus en 1-0 voor de thuisploeg.
 
