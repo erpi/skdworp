@@ -74,8 +74,8 @@
     "ugem": "",
     "borden": [
       {"tr": "1", "ur": "3", "tspeler": "Cornelis Eric", "uspeler": "Van der Meiren A", "telo": "1521", "uelo": "", "tstam": "76317", "ustam": ""},
-      {"tr": "1", "ur": "3", "tspeler": "Vanderwaeren Serge", "uspeler": "Moernout F", "telo": "1719", "uelo": "", "tstam": "20621", "ustam": ""},
-      {"tr": "1", "ur": "3", "tspeler": "Malfliet Bernard", "uspeler": "De Schepper B", "telo": "1648", "uelo": "", "tstam": "31348", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Vanderwaeren Serge", "uspeler": "Moernout F", "telo": "ng", "uelo": "", "tstam": "20621", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Malfliet Bernard", "uspeler": "De Schepper B", "telo": "ng", "uelo": "", "tstam": "31348", "ustam": ""},
       {"tr": "2", "ur": "2", "tspeler": "Deklerck Willy", "uspeler": "Van Geyt R", "telo": "ng", "uelo": "", "tstam": "27715", "ustam": ""}
     ]
   },  
@@ -138,8 +138,8 @@
     "ugem": "1645",
     "borden": [
       {"tr": "3", "ur": "1", "tspeler": "Presti G", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1645", "tstam": "", "ustam": "19313"},
-      {"tr": "2", "ur": "2", "tspeler": "Steenwerckx Remy", "uspeler": "Mertens Francois", "telo": "", "uelo": "1645", "tstam": "", "ustam": "31526"},
-      {"tr": "1", "ur": "3", "tspeler": "Vandermeersch Luk-Antoon", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "ng", "tstam": "", "ustam": "20621"},
+      {"tr": "2", "ur": "2", "tspeler": "Steenwerckx Remy", "uspeler": "Mertens Franois", "telo": "", "uelo": "1645", "tstam": "96506", "ustam": "31526"},
+      {"tr": "1", "ur": "3", "tspeler": "Vandermeersch Luk-Antoon", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "ng", "tstam": "93073", "ustam": "20621"},
       {"tr": "1", "ur": "3", "tspeler": "Van Bocxlaer", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99152"}
     ]
   }
