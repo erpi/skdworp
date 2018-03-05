@@ -27,7 +27,7 @@
     "borden": [
       {"tr": "2", "ur": "2", "tspeler": "Mattheys Eddy", "uspeler": "Boers Jos", "telo": "", "uelo": "1909", "tstam": "", "ustam": "68128"},
       {"tr": "1", "ur": "3", "tspeler": "Uylenbroeck Roland", "uspeler": "Debast Patrick", "telo": "", "uelo": "1719", "tstam": "", "ustam": "76333"},
-      {"tr": "1", "ur": "3", "tspeler": "Siens Kris", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1648", "tstam": "", "ustam": "76325"},
+      {"tr": "1", "ur": "3", "tspeler": "Stiens Kris", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1648", "tstam": "", "ustam": "76325"},
       {"tr": "1", "ur": "3", "tspeler": "Huysman Robert", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1645", "tstam": "", "ustam": "19313"}
     ]
   },
@@ -59,7 +59,7 @@
     "borden": [
       {"tr": "3", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Dhaenekint R", "telo": "1719", "uelo": "", "tstam": "76333", "ustam": ""},
       {"tr": "1", "ur": "3", "tspeler": "Verbeque Roger", "uspeler": "Barzeele R", "telo": "1651", "uelo": "", "tstam": "89613", "ustam": ""},
-      {"tr": "2", "ur": "2", "tspeler": "Pletinckx Eddy", "uspeler": "Slabbinck Y", "telo": "1648", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Pletinckx Eddy", "uspeler": "Slabbinck Yves", "telo": "1648", "uelo": "", "tstam": "76325", "ustam": ""},
       {"tr": "3", "ur": "1", "tspeler": "Lemmens Pierre", "uspeler": "Vanbergen J", "telo": "1645", "uelo": "", "tstam": "19313", "ustam": ""}
     ]
   },
@@ -98,7 +98,7 @@
 {
     "ronde": "7",
     "datum": "28-02-1982",
-    "thuis": "KASK 1",
+    "thuis": "101 KASK 1",
     "uit": "228 Dworp 1",
     "tscore": "11",
     "uscore": "5",
