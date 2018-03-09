@@ -1,0 +1,22 @@
+wit,zwart,wr,zr
+partij 1,,,
+Van de Velde Filip,Cornelis Eric,1,0
+De Bosscher Peter,Ertveldt Pieter,0,1
+Huysman Robert,Bultijnck Kristoff,0,1
+Palmans Niels,Verrijken Geert,0,1
+Taleb Mohamed,Schepens Aron,1,0
+Vanderwaeren Serge,bye,,
+partij 2,,,
+Van de Velde Filip,Vanderwaeren Serge,0.5,0.5
+Lot Diederik,De Bosscher Peter,1,0
+Cornelis Eric,Palmans Niels,1,0
+Ertveldt Pieter,Bultijnck Kristoff,0,1
+Verrijken Geert,Taleb Mohamed,1,0
+Schepens Aron,Huysman Robert,0,1
+partij 3,,,
+Vanderwaeren Serge,Lot Diederik,0,1
+Ertveldt Pieter,Van de Velde Filip,0.5,0.5
+Bultijnck Kristoff,Cornelis Eric,0,1
+Palmans Niels,De Bosscher Peter,1,0
+Verrijken Geert,Schepens Aron,1,0
+Taleb Mohamed,Huysman Robert,0,1
