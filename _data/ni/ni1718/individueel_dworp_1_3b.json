@@ -124,5 +124,23 @@
       {"tr": "0", "ur": "1", "tspeler": "Dom, Wim", "uspeler": "De Reymaeker, Walter", "telo": 1835, "uelo": 1882, "tstam": 5169, "ustam": 34584},
       {"tr": "1", "ur": "0", "tspeler": "Verboven, Arnout", "uspeler": "Verrijken, Geert", "telo": 1750, "uelo": 1942, "tstam": 29840, "ustam": 62766}
     ]
+  },
+  {
+    "ronde": "8",
+    "datum": "11-03-2018",
+    "thuis": "228 Dworp 1",
+    "uit": "432 Wetteren 2",
+    "tscore": 2.5,
+    "uscore": 3.5,
+    "tgem": 1885,
+    "ugem": 1948,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Vanderwaeren, Serge", "uspeler": "Michiels, Luc", "telo": 2172, "uelo": 2053, "tstam": 20621, "ustam": 66443},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Spaens, Kjell", "uspeler": "Castelein, Dirk", "telo": 1973, "uelo": 2004, "tstam": 29343, "ustam": 72966},
+      {"tr": "0", "ur": "1", "tspeler": "Lot, Diederik", "uspeler": "Demunck, Jan", "telo": 1983, "uelo": 1920, "tstam": 9954, "ustam": 21938},
+      {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Lachaert, Tibo", "telo": 1895, "uelo": 1868, "tstam": 21881, "ustam": 11132},
+      {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Defre, Walter", "telo": 1942, "uelo": 1896, "tstam": 62766, "ustam": 41955},
+      {"tr": "0", "ur": "1", "tspeler": "Taleb, Mohamed", "uspeler": "De Muynck, Mitchell E.c.", "telo": 1345, "uelo": "ng", "tstam": 64611, "ustam": 17610}
+    ]
   }
 ]
