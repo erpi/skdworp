@@ -94,5 +94,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Van De Velde, Filip", "uspeler": "Huysman, Robert", "telo": 1727, "uelo": 1484, "tstam": 31682, "ustam": 15482},
       {"tr": "1", "ur": "0", "tspeler": "Cornelis, Eric", "uspeler": "Geerts, Mark-Johan", "telo": 1675, "uelo": "ng", "tstam": 76317, "ustam": 13175}
     ]
+  },
+  {
+    "ronde": "8",
+    "datum": "11-03-2018",
+    "thuis": "228 Dworp 2",
+    "uit": "961 Braine l'Alleud 2",
+    "tscore": 4,
+    "uscore": 0,
+    "tgem": 1755,
+    "ugem": 1378,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vennekens, Camiel", "uspeler": "Solis Calancha, Jordi", "telo": 1828, "uelo": 1548, "tstam": 37168, "ustam": 17688},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher, Peter", "uspeler": "Foissey, Thibault", "telo": 1789, "uelo": 1390, "tstam": 655, "ustam": 14211},
+      {"tr": "1", "ur": "0", "tspeler": "Van De Velde, Filip", "uspeler": "Foissey, Laurent", "telo": 1727, "uelo": 1196, "tstam": 31682, "ustam": 16138},
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis, Eric", "uspeler": "Furnelle, Julien", "telo": 1675, "uelo": "ng", "tstam": 76317, "ustam": 17673}
+    ]
   }
 ]
