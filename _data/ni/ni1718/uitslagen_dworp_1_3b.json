@@ -87,12 +87,12 @@
     "ronde": "ronde 8",
     "datum": "11-03-2018",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "432 Wetteren 2"},
-      {"tr": "", "ur": "", "thuis": "244 Brussels 1", "uit": "114 Mechelen 1"},
-      {"tr": "", "ur": "", "thuis": "541 Leuze 1", "uit": "174 Brasschaat 2"},
-      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "261 Opwijk 1"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 1", "uit": "201 CREB 2"},
-      {"tr": "", "ur": "", "thuis": "436 LSV-Chesspirant 1", "uit": "401 KGSRL 4"}
+      {"tr": "2.5", "ur": "3.5", "thuis": "228 Dworp 1", "uit": "432 Wetteren 2"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "244 Brussels 1", "uit": "114 Mechelen 1"},
+      {"tr": "3", "ur": "3", "thuis": "541 Leuze 1", "uit": "174 Brasschaat 2"},
+      {"tr": "0.5", "ur": "5.5", "thuis": "226 Europchess 2", "uit": "261 Opwijk 1"},
+      {"tr": "5.5", "ur": "0.5", "thuis": "278 Pantin 1", "uit": "201 CREB 2"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "436 LSV-Chesspirant 1", "uit": "401 KGSRL 4"}
     ]
   },
   {
