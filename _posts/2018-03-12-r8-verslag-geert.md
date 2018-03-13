@@ -16,7 +16,7 @@ stelling_oplossing: '1... Dxh3! wint met mat op de volgende zet in twee variante
 date: 2018-03-12 22:00:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->
-draft: true
+draft: false
 ---
 ## Vooraf
 
