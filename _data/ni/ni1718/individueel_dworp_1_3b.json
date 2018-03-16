@@ -68,7 +68,7 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Lot, Diederik", "uspeler": "Czuczai, Jeno", "telo": 1983, "uelo": 2013, "tstam": 9954, "ustam": 60319},
       {"tr": "0", "ur": "1", "tspeler": "Denys, Frank", "uspeler": "Cornil, Etienne", "telo": 1895, "uelo": 1988, "tstam": 21881, "ustam": 35556},
       {"tr": "0", "ur": "1", "tspeler": "De Reymaeker, Walter", "uspeler": "Edwards, Geraint", "telo": 1882, "uelo": 1984, "tstam": 34584, "ustam": 13049},
-      {"tr": "1", "ur": "0", "tspeler": "Taleb, Mohamed", "uspeler": "Vasile-Bonciog, Cristian", "telo": 1345, "uelo": 1907, "tstam": 64611, "ustam": 60728}
+      {"tr": "1", "ur": "0", "tspeler": "Taleb, Mohamad", "uspeler": "Vasile-Bonciog, Cristian", "telo": 1345, "uelo": 1907, "tstam": 64611, "ustam": 60728}
     ]
   },
   {
@@ -140,7 +140,7 @@
       {"tr": "0", "ur": "1", "tspeler": "Lot, Diederik", "uspeler": "Demunck, Jan", "telo": 1983, "uelo": 1920, "tstam": 9954, "ustam": 21938},
       {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Lachaert, Tibo", "telo": 1895, "uelo": 1868, "tstam": 21881, "ustam": 11132},
       {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Defre, Walter", "telo": 1942, "uelo": 1896, "tstam": 62766, "ustam": 41955},
-      {"tr": "0", "ur": "1", "tspeler": "Taleb, Mohamed", "uspeler": "De Muynck, Mitchell E.c.", "telo": 1345, "uelo": "ng", "tstam": 64611, "ustam": 17610}
+      {"tr": "0", "ur": "1", "tspeler": "Taleb, Mohamad", "uspeler": "De Muynck, Mitchell E.c.", "telo": 1345, "uelo": "ng", "tstam": 64611, "ustam": 17610}
     ]
   }
 ]
