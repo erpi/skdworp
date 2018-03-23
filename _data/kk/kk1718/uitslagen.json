@@ -82,8 +82,8 @@
         "zwart": "Geert Verrijken"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Walter De Reymaeker",
         "zwart": "Diederik Lot"
       },
@@ -160,8 +160,8 @@
         "zwart": "Eddy Pletinckx"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0,5",
+        "zr": "0,5",
         "wit": "Peter De Bosscher",
         "zwart": "Niels Palmans"
       },
@@ -292,8 +292,8 @@
     "datum": "02-02-2018",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Geert Verrijken",
         "zwart": "Kjell Spaens"
       },
@@ -346,8 +346,8 @@
         "zwart": "Peter De Bosscher"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0,5",
+        "zr": "0,5",
         "wit": "Eric Cornelis",
         "zwart": "Filip Van de Velde"
       },
