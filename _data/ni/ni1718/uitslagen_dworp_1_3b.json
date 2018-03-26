@@ -99,12 +99,12 @@
     "ronde": "ronde 9",
     "datum": "25-03-2018",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "432 Wetteren 2", "uit": "401 KGSRL 4"},
-      {"tr": "", "ur": "", "thuis": "201 CREB 2", "uit": "436 LSV-Chesspirant 1"},
-      {"tr": "", "ur": "", "thuis": "261 Opwijk 1", "uit": "278 Pantin 1"},
-      {"tr": "", "ur": "", "thuis": "174 Brasschaat 2", "uit": "226 Europchess 2"},
-      {"tr": "", "ur": "", "thuis": "114 Mechelen 1", "uit": "541 Leuze 1"},
-      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "244 Brussels 1"}
+      {"tr": "2.5", "ur": "3.5", "thuis": "432 Wetteren 2", "uit": "401 KGSRL 4"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "201 CREB 2", "uit": "436 LSV-Chesspirant 1"},
+      {"tr": "5", "ur": "1", "thuis": "261 Opwijk 1", "uit": "278 Pantin 1"},
+      {"tr": "3", "ur": "3", "thuis": "174 Brasschaat 2", "uit": "226 Europchess 2"},
+      {"tr": "5", "ur": "1", "thuis": "114 Mechelen 1", "uit": "541 Leuze 1"},
+      {"tr": "4", "ur": "2", "thuis": "228 Dworp 1", "uit": "244 Brussels 1"}
     ]
   },
   {

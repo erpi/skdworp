@@ -142,5 +142,23 @@
       {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Defre, Walter", "telo": 1942, "uelo": 1896, "tstam": 62766, "ustam": 41955},
       {"tr": "0", "ur": "1", "tspeler": "Taleb, Mohamad", "uspeler": "De Muynck, Mitchell E.c.", "telo": 1345, "uelo": "ng", "tstam": 64611, "ustam": 17610}
     ]
+  },
+  {
+    "ronde": "9",
+    "datum": "25-03-2018",
+    "thuis": "228 Dworp 1",
+    "uit": "244 Brussels 1",
+    "tscore": 4,
+    "uscore": 2,
+    "tgem": 1975,
+    "ugem": 1993,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren, Serge", "uspeler": "Iolis, Oleg", "telo": 2172, "uelo": 2130, "tstam": 20621, "ustam": 87921},
+      {"tr": "1", "ur": "0", "tspeler": "Spaens, Kjell", "uspeler": "Zamparo, Sergio", "telo": 1973, "uelo": 2068, "tstam": 29343, "ustam": 95052},
+      {"tr": "0", "ur": "1", "tspeler": "Lot, Diederik", "uspeler": "Tannemaat, Stephane", "telo": 1983, "uelo": 1979, "tstam": 9954, "ustam": 72516},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Denys, Frank", "uspeler": "Violini, Paolo", "telo": 1895, "uelo": 1956, "tstam": 21881, "ustam": 17708},
+      {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "D'Haijere, Arnaud", "telo": 1882, "uelo": 1936, "tstam": 34584, "ustam": 75701},
+      {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Kolp, Theo", "telo": 1942, "uelo": 1887, "tstam": 62766, "ustam": 50003}
+    ]
   }
 ]
