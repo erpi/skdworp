@@ -22,8 +22,8 @@ Ronde 5: Dworp 3: fout: '464 sint-gillis 2' niet gevonden in kruistabel (spellin
 Ronde 5: Dworp 3: waarschuwing: score tegen '464 sint-gillis 2' is niet gecontroleerd in kruistabel
 Ronde 6: Dworp 1: fout: '263 aarschot' niet gevonden in kruistabel (spelling?)
 Ronde 6: Dworp 1: waarschuwing: score tegen '263 aarschot' is niet gecontroleerd in kruistabel
-Ronde 6: Dworp 3: fout: '186 osk 6' niet gevonden in kruistabel (spelling?)
-Ronde 6: Dworp 3: waarschuwing: score tegen '186 osk 6' is niet gecontroleerd in kruistabel
+Ronde 6: Dworp 3: fout: '186 ons schaakgenoegen kempen 6' niet gevonden in kruistabel (spelling?)
+Ronde 6: Dworp 3: waarschuwing: score tegen '186 ons schaakgenoegen kempen 6' is niet gecontroleerd in kruistabel
 Ronde 7: Dworp 1: fout: '108 merksem 2' niet gevonden in kruistabel (spelling?)
 Ronde 7: Dworp 1: waarschuwing: score tegen '108 merksem 2' is niet gecontroleerd in kruistabel
 Ronde 7: Dworp 3: fout: '401 ruy lopez gent 12' niet gevonden in kruistabel (spelling?)
