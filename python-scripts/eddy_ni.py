@@ -334,7 +334,7 @@ class generator:
                                 u"kruistabel\n".format(r, p + 1, tegenstander)
                 except AttributeError:
                     self._validatie_string += \
-                        u"Ronde {0}: Dworp {1}: waarschuwing: geen ploegnaam" \
+                        u"Ronde {0}: Dworp {1}: waarschuwing: geen ploegnaam " \
                         u"gevonden\n".format(r, p + 1)
 
     def _check_individuele_scores(self):
