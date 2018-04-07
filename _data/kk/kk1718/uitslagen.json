@@ -376,8 +376,8 @@
         "zwart": "Geert Maeckelbergh"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Geert Verrijken",
         "zwart": "Serge Vanderwaeren"
       }
@@ -616,8 +616,8 @@
         "zwart": "Yves Baert"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Walter De Reymaeker",
         "zwart": "Stijn Bertrand"
       }
