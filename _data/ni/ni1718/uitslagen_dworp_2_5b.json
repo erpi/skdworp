@@ -111,11 +111,11 @@
     "ronde": "ronde 10",
     "datum": "22-04-2018",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "952 Wavre 3", "uit": "961 Braine l'Alleud 2"},
-      {"tr": "", "ur": "", "thuis": "951 Lasne-Waterloo 2", "uit": "228 Dworp 2"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "952 Wavre 3", "uit": "961 Braine l'Alleud 2"},
+      {"tr": "0", "ur": "4", "thuis": "951 Lasne-Waterloo 2", "uit": "228 Dworp 2"},
       {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "bye"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 4", "uit": "233 DZD Halle 1"},
-      {"tr": "", "ur": "", "thuis": "209 The Belgian CC 4", "uit": "953 Nivelles 1"},
+      {"tr": "2", "ur": "2", "thuis": "278 Pantin 4", "uit": "233 DZD Halle 1"},
+      {"tr": "3", "ur": "1", "thuis": "209 The Belgian CC 4", "uit": "953 Nivelles 1"},
       {"tr": "", "ur": "", "thuis": "229 Woluwe 2", "uit": "201 CREB 3"}
     ]
   },

@@ -126,5 +126,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Van De Velde, Filip", "uspeler": "Godeaux, Olivier", "telo": 1727, "uelo": 1643, "tstam": 31682, "ustam": 93157},
       {"tr": "1", "ur": "0", "tspeler": "Bertrand, Stijn", "uspeler": "Anciaux, Adrien", "telo": 1634, "uelo": "ng", "tstam": 21253, "ustam": 17648}
     ]
+  },
+  {
+    "ronde": "10",
+    "datum": "22-04-2018",
+    "thuis": "951 Lasne-Waterloo 2",
+    "uit": "228 Dworp 2",
+    "tscore": 0,
+    "uscore": 4,
+    "tgem": 1408,
+    "ugem": 1822,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Poussart, Antoine", "uspeler": "Verrijken, Geert", "telo": "ng", "uelo": 1942, "tstam": 17617, "ustam": 62766},
+      {"tr": "0", "ur": "1", "tspeler": "Artisien, Christian", "uspeler": "Vennekens, Camiel", "telo": 1539, "uelo": 1828, "tstam": 73687, "ustam": 37168},
+      {"tr": "0", "ur": "1", "tspeler": "Dumortier, Andre", "uspeler": "De Bosscher, Peter", "telo": 1470, "uelo": 1789, "tstam": 50298, "ustam": 655},
+      {"tr": "0", "ur": "1", "tspeler": "Scribe, Jean", "uspeler": "Van De Velde, Filip", "telo": 1214, "uelo": 1727, "tstam": 58173, "ustam": 31682}
+    ]
   }
 ]

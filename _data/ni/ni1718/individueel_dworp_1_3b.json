@@ -160,5 +160,23 @@
       {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "D'Haijere, Arnaud", "telo": 1882, "uelo": 1936, "tstam": 34584, "ustam": 75701},
       {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Kolp, Theo", "telo": 1942, "uelo": 1887, "tstam": 62766, "ustam": 50003}
     ]
+  },
+  {
+    "ronde": "10",
+    "datum": "22-04-2018",
+    "thuis": "541 Leuze 1",
+    "uit": "228 Dworp 1",
+    "tscore": 2.5,
+    "uscore": 3.5,
+    "tgem": 1983,
+    "ugem": 1923,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Gozzoli, Cyrille", "uspeler": "Vanderwaeren, Serge", "telo": 2156, "uelo": 2172, "tstam": 17786, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "Chauvon, Guillaume", "uspeler": "Spaens, Kjell", "telo": 1922, "uelo": 1973, "tstam": 82783, "ustam": 29343},
+      {"tr": "0", "ur": "1", "tspeler": "Verschueren, Frederic", "uspeler": "Lot, Diederik", "telo": 1922, "uelo": 1983, "tstam": 71676, "ustam": 9954},
+      {"tr": "0", "ur": "1", "tspeler": "Tissier, Jean-Paul", "uspeler": "Denys, Frank", "telo": 1916, "uelo": 1895, "tstam": 17693, "ustam": 21881},
+      {"tr": "1", "ur": "0", "tspeler": "Hias, Ludovic", "uspeler": "De Reymaeker, Walter", "telo": 1983, "uelo": 1882, "tstam": 79316, "ustam": 34584},
+      {"tr": "1", "ur": "0", "tspeler": "Decellier, Patrick", "uspeler": "Bertrand, Stijn", "telo": 1925, "uelo": 1634, "tstam": 84735, "ustam": 21253}
+    ]
   }
 ]
