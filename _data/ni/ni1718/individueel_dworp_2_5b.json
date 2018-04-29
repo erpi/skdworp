@@ -142,5 +142,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Dumortier, Andre", "uspeler": "De Bosscher, Peter", "telo": 1470, "uelo": 1789, "tstam": 50298, "ustam": 655},
       {"tr": "0", "ur": "1", "tspeler": "Scribe, Jean", "uspeler": "Van De Velde, Filip", "telo": 1214, "uelo": 1727, "tstam": 58173, "ustam": 31682}
     ]
+  },
+  {
+    "ronde": "11",
+    "datum": "29-04-2018",
+    "thuis": "228 Dworp 2",
+    "uit": "233 DZD Halle 1",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1569,
+    "ugem": 1736,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher, Peter", "uspeler": "Gkionis, Athanasios-Nekta", "telo": 1789, "uelo": 1746, "tstam": 655, "ustam": 15570},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis, Eric", "uspeler": "Abrahamsen, Jesper", "telo": 1675, "uelo": 1726, "tstam": 76317, "ustam": 94587},
+      {"tr": "0", "ur": "1", "tspeler": "Baert, Yves", "uspeler": "Serrano Samper, Sergio", "telo": 1468, "uelo": "ng", "tstam": 48721, "ustam": 50146},
+      {"tr": "0", "ur": "1", "tspeler": "Taleb, Mohamad", "uspeler": "Ouaki, Mark", "telo": 1345, "uelo": "ng", "tstam": 64611, "ustam": 18047}
+    ]
   }
 ]

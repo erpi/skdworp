@@ -178,5 +178,23 @@
       {"tr": "1", "ur": "0", "tspeler": "Hias, Ludovic", "uspeler": "De Reymaeker, Walter", "telo": 1983, "uelo": 1882, "tstam": 79316, "ustam": 34584},
       {"tr": "1", "ur": "0", "tspeler": "Decellier, Patrick", "uspeler": "Bertrand, Stijn", "telo": 1925, "uelo": 1634, "tstam": 84735, "ustam": 21253}
     ]
+  },
+  {
+    "ronde": "11",
+    "datum": "29-04-2018",
+    "thuis": "228 Dworp 1",
+    "uit": "226 Europchess 2",
+    "tscore": 2.5,
+    "uscore": 3.5,
+    "tgem": 1934,
+    "ugem": 1979,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren, Serge", "uspeler": "Hannesson, Olafur", "telo": 2172, "uelo": 2116, "tstam": 20621, "ustam": 15623},
+      {"tr": "0", "ur": "1", "tspeler": "Lot, Diederik", "uspeler": "Riksten, John", "telo": 1983, "uelo": 2047, "tstam": 9954, "ustam": 12861},
+      {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Johansson, Mattias", "telo": 1895, "uelo": 2007, "tstam": 21881, "ustam": 10684},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Reymaeker, Walter", "uspeler": "Mueller, Martin", "telo": 1882, "uelo": 2012, "tstam": 34584, "ustam": 50293},
+      {"tr": "0", "ur": "1", "tspeler": "Verrijken, Geert", "uspeler": "Parreira, Luis Miguel", "telo": 1942, "uelo": 1865, "tstam": 62766, "ustam": 12300},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van de Velde, Filip", "uspeler": "Frederiksen, Kristian Pad", "telo": 1727, "uelo": 1824, "tstam": 31682, "ustam": 60007}
+    ]
   }
 ]
