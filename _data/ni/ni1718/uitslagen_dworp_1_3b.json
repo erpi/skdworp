@@ -123,7 +123,7 @@
     "ronde": "ronde 11",
     "datum": "29-04-2018",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "201 CREB 2", "uit": "432 Wetteren 2"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "201 CREB 2", "uit": "432 Wetteren 2"},
       {"tr": "5.5", "ur": "0.5", "thuis": "261 Opwijk 1", "uit": "401 KGSRL 4"},
       {"tr": "2", "ur": "4", "thuis": "174 Brasschaat 2", "uit": "436 LSV-Chesspirant 1"},
       {"tr": "4.5", "ur": "1.5", "thuis": "114 Mechelen 1", "uit": "278 Pantin 1"},
