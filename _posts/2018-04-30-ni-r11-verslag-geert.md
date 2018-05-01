@@ -11,7 +11,7 @@ fotograaf: Diederik
 date: 2018-04-30 21:00:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->
-draft: true
+draft: false
 ---
 ## Vooraf
 
