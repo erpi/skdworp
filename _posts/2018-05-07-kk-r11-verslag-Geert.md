@@ -16,7 +16,7 @@ Met nog twee ronden voor de boeg is het hoog tijd om een stand van zaken op te m
 
 ## Leergeld
 
-In de kelder knokken verschillende deelnemers nog keihard om de zwarte piet door te schuiven en de rode lantaarn te ontlopen. Het kampioenschap van **_Filip_** en vooral van **_Eric** verloopt wat minder vlot dan gewoonlijk. **_Niels_** betaalt leergeld en **_Yves_** heeft allicht teveel nevenactiviteiten om zich voluit op het schaken te concentreren. En voor **_Bernard_** volstaat het waarschijnlijk om zijn uitgestelde partijen effectief te spelen om in de middenmoot te belanden.
+In de kelder knokken verschillende deelnemers nog keihard om de zwarte piet door te schuiven en de rode lantaarn te ontlopen. Het kampioenschap van **_Filip_** en vooral van **_Eric_** verloopt wat minder vlot dan gewoonlijk. **_Niels_** betaalt leergeld en **_Yves_** heeft allicht teveel nevenactiviteiten om zich voluit op het schaken te concentreren. En voor **_Bernard_** volstaat het waarschijnlijk om zijn uitgestelde partijen effectief te spelen om in de middenmoot te belanden.
 
 ## Revelatie
 
@@ -24,7 +24,7 @@ Dat omvangrijke peleton bestaat uit **_Peter_** , nogal wisselvallig dit jaar, *
 
 ## Mazzel
 
-Drie spelers kunnen nog aanspraak maken op de eerste plaats. De underdog is **_Serge_** (7,5/11) die het na een jarenlange dominantie lastig heeft. Intrinsiek blijft hij natuurlijk de meest getalenteerde speler maar hij speelt een wisselvallig seizoen, de ene week is de andere niet. Allicht gaat het voor de titel tussen mezelf (**_Geert V._**, 7,5/9) en **_Diederik_** (7,5/8). Tegen Eddy had ik een flinke konijnenpoot nodig en twee van de drie remises –nl. tegen Peter en Walter- waren niet erg zuiver. Diederik had naar eigen zeggen in niet minder dan vijf partijen mazzel –al is dat misschien eigen aan de speelstijl en/of te wijten aan valse bescheidenheid (nvdr. computer validatie toont -5 en slechter voor Diederik in zijn partijen tegen Serge, Walter, Stijn, Yves en Eddy, van enige valse bescheidenheid kan dus geen sprake zijn). Het programma van Diederik de komende weken is iets zwaarder dan het mijne. Waarschijnlijk valt de beslissing echter in ons onderling duel. Voor Diederik, met wit, volstaat remise. De clubkampioen van vorig jaar is dus ook deze editie duidelijk favoriet. We weten het over enkele weten....
+Drie spelers kunnen nog aanspraak maken op de eerste plaats. De underdog is **_Serge_** (7,5/11) die het na een jarenlange dominantie lastig heeft. Intrinsiek blijft hij natuurlijk de meest getalenteerde speler maar hij speelt een wisselvallig seizoen, de ene week is de andere niet. Allicht gaat het voor de titel tussen mezelf (**_Geert V._**, 7,5/9) en **_Diederik_** (7,5/8). Tegen Eddy had ik een flinke konijnenpoot nodig en twee van de drie remises –nl. tegen Peter en Walter- waren niet erg zuiver. Diederik had naar eigen zeggen in niet minder dan vijf partijen mazzel –al is dat misschien eigen aan de speelstijl en/of te wijten aan valse bescheidenheid (**_nvdr._** computer validatie toont -5 en slechter voor Diederik in zijn partijen tegen Serge, Walter, Stijn, Yves en Eddy, van enige valse bescheidenheid kan dus geen sprake zijn). Het programma van Diederik de komende weken is iets zwaarder dan het mijne. Waarschijnlijk valt de beslissing echter in ons onderling duel. Voor Diederik, met wit, volstaat remise. De clubkampioen van vorig jaar is dus ook deze editie duidelijk favoriet. We weten het over enkele weten....
 
 ## Een club die leeft
 
