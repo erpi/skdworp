@@ -34,7 +34,7 @@ In de kelder knokken verschillende deelnemers nog keihard om de zwarte piet door
 
 ## Revelatie
 
-Dat omvangrijke peleton bestaat uit **_Peter_** , nogal wisselvallig dit jaar, **_Walter_**, altijd scherp maar soms laat de concentratie het wat afweten, **_Eddy_**, begonnen als een raket maar dan teruggevallen, **_Geert M._**  –winst tegen Serge!- en Stijn. Zowel in interclub als in clubkampioenschap  is Stijn dé revelatie van het jaar, een bevestiging van vorig seizoen trouwens. Zowel positioneel als tactisch sterk heeft hij ook nog veel ruimte voor progressie. Een speler met toekomst dus. Ook in de middenmoot staat **_Kjell_**. En hoewel uitgeschakeld voor de titel dient hij waarschijnlijk enkel te spelen om hoger te eindigen.
+Dat omvangrijke peleton bestaat uit **_Peter_** , nogal wisselvallig dit jaar, **_Walter_**, altijd scherp maar soms laat de concentratie het wat afweten, **_Eddy_**, begonnen als een raket maar dan teruggevallen, **_Geert M._**  –winst tegen Serge!- en **_Stijn_** . Zowel in interclub als in clubkampioenschap  is Stijn dé revelatie van het jaar, een bevestiging van vorig seizoen trouwens. Zowel positioneel als tactisch sterk heeft hij ook nog veel ruimte voor progressie. Een speler met toekomst dus. Ook in de middenmoot staat **_Kjell_**. En hoewel uitgeschakeld voor de titel dient hij waarschijnlijk enkel te spelen om hoger te eindigen.
 
 ## Mazzel
 
