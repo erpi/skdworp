@@ -5,12 +5,11 @@ ni_d1_uitploeg: ''
 ni_ronde: ''
 title: Sterk bezet kampioenschap kan nog alle kanten uit
 author: Geert
-date: 2018-04-30 21:00:00 +0100
+date: 2018-05-07 21:00:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->
 draft: true
 ---
-
 ## voorspel
 
 Met nog twee ronden voor de boeg is het hoog tijd om een stand van zaken op te maken van het clubkampioenschap 2017-2018. Stilaan valt het belangrijkste toernooi van SK Dworp in een beslissende plooi. Al blijft het wel spannend en kan het nog alle kanten uit.\r\nDe meest pregnante vraag van het moment is: hoe staat het ermee na elf van de dertien ronden? Wel, in de rangschikking tekenen er zich grosso modo drie groepen af.
