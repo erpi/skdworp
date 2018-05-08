@@ -1,8 +1,7 @@
 ---
+description: 'Met nog twee ronden voor de boeg is het hoog tijd om een stand van zaken op te maken van het clubkampioenschap 2017-2018. Stilaan valt het belangrijkste toernooi van SK Dworp in een beslissende plooi.'
 tag: kk
-ni_d1_thuisploeg: ''
-ni_d1_uitploeg: ''
-ni_ronde: ''
+kk_ronde: '11'
 title: Sterk bezet kampioenschap kan nog alle kanten uit
 author: Geert
 date: 2018-05-07 21:00:00 +0100
@@ -12,7 +11,7 @@ draft: false
 ---
 ## voorspel
 
-Met nog twee ronden voor de boeg is het hoog tijd om een stand van zaken op te maken van het clubkampioenschap 2017-2018. Stilaan valt het belangrijkste toernooi van SK Dworp in een beslissende plooi. Al blijft het wel spannend en kan het nog alle kanten uit. De meest pregnante vraag van het moment is: hoe staat het ermee na elf van de dertien ronden? Wel, in de rangschikking tekenen er zich grosso modo drie groepen af.
+Met nog twee ronden voor de boeg is het hoog tijd om een stand van zaken op te maken van het clubkampioenschap 2017-2018. Stilaan valt het belangrijkste toernooi van SK Dworp in een beslissende plooi. Al blijft het wel spannend en kan het nog alle kanten uit. De meest pregnante vraag van het moment is: hoe staat het ermee na elf van de dertien ronden? Wel, in de rangschikking tekenen er zich grosso modo drie groepen af.<!--more-->
 
 ## Leergeld
 
@@ -20,7 +19,7 @@ In de kelder knokken verschillende deelnemers nog keihard om de zwarte piet door
 
 ## Revelatie
 
-Dat omvangrijke peleton bestaat uit **_Peter_** , nogal wisselvallig dit jaar, **_Walter_**, altijd scherp maar soms laat de concentratie het wat afweten, **_Eddy_**, begonnen als een raket maar dan teruggevallen, **_Geert M._**  –winst tegen Serge!- en **_Stijn_** . Zowel in interclub als in clubkampioenschap  is Stijn dé revelatie van het jaar, een bevestiging van vorig seizoen trouwens. Zowel positioneel als tactisch sterk heeft hij ook nog veel ruimte voor progressie. Een speler met toekomst dus. Ook in de middenmoot staat **_Kjell_**. En hoewel uitgeschakeld voor de titel dient hij waarschijnlijk enkel te spelen om hoger te eindigen.
+Dat omvangrijke peloton bestaat uit **_Peter_** , nogal wisselvallig dit jaar, **_Walter_**, altijd scherp maar soms laat de concentratie het wat afweten, **_Eddy_**, begonnen als een raket maar dan teruggevallen, **_Geert M._**  –winst tegen Serge!- en **_Stijn_** . Zowel in interclub als in clubkampioenschap  is Stijn dé revelatie van het jaar, een bevestiging van vorig seizoen trouwens. Zowel positioneel als tactisch sterk heeft hij ook nog veel ruimte voor progressie. Een speler met toekomst dus. Ook in de middenmoot staat **_Kjell_**. En hoewel uitgeschakeld voor de titel dient hij waarschijnlijk enkel te spelen om hoger te eindigen.
 
 ## Mazzel
 
