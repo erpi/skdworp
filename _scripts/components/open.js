@@ -104,25 +104,53 @@ $(document).ready(function(){
                 uitslag = rooster[rij][kolom];
                 if (isFinite(uitslag)) {uitslagen.push(uitslag);}
             }
-            if (uitslagen.length > 5) {
-                uitslagen.sort(function(a, b) {return b - a;});
-            }
+            uitslagen.sort(function(a, b) {return b - a;});
             totaal = uitslagen.slice(0, 5).reduce(
                 function(tot, res) {return tot + res;}, 0);
             rooster[rij].push(Math.round(totaal));
+            // voeg de gesorteerde uitslagen array toe aan rooster
+            // gebruiken we om de spelers te sorteren
+            rooster[rij].push(uitslagen);
         }
         rooster[0].push('totaal');
+        rooster[0].push('uitslagen');
     }
     function opSorteerRooster() {
-        var i, j, hoogsteRij, maxTotaal, totaal, tempRij;
+        var i, j, k, hoogsteRij, maxTotaal, maxUitslagen, totaal, uitslagen, beter, tempRij;
         for (i = 1; i < rooster.length; i++) {
             hoogsteRij = i;
-            maxTotaal = rooster[i].slice(-1)[0];
+            maxTotaal = rooster[i].slice(-2)[0];
+            maxUitslagen = rooster[i].slice(-1)[0];
             for (j = i + 1; j < rooster.length; j++) {
-                totaal = rooster[j].slice(-1)[0];
+                beter = false;
+                totaal = rooster[j].slice(-2)[0];
+                uitslagen = rooster[j].slice(-1)[0];
                 if (totaal > maxTotaal) {
+                    beter = true;
+                }
+                else if (totaal == maxTotaal) {
+                    // eerste scheiding: deelnemer met de meeste gespeelde avonden staat eerst
+                    if (uitslagen.length > maxUitslagen.length) {
+                        beter = true;
+                    }
+                    else if (uitslagen.length == maxUitslagen.length) {
+                        // tweede scheiding: beste rondescores vergelijken
+                        // 'uitslagen' is een gesorteerde array van groot naar klein
+                        for (k = 0; k < uitslagen.length; k++) {
+                            if (uitslagen[k] < maxUitslagen[k]) {
+                                break;
+                            }
+                            if (uitslagen[k] > maxUitslagen[k]) {
+                                beter = true;
+                                break;
+                            }
+                        }
+                    }
+                }
+                if (beter) {
                     hoogsteRij = j;
                     maxTotaal = totaal;
+                    maxUitslagen = uitslagen;
                 }
             }
             // verwissel rij 'i' met rij 'hoogsteRij' in rooster
@@ -137,14 +165,14 @@ $(document).ready(function(){
         // gebaseerd op _includes/table-eindstand.html
         var i, j, tabel, left, res;
         tabel = '<thead><tr>';
-        for (i = 0; i < rooster[0].length; i++) {
+        for (i = 0; i < rooster[0].length - 1; i++) {
             tabel += '<th>' + ((i < 2) ? '<span class="sr-only">' : '')  +
                      rooster[0][i] + ((i < 2) ? '</span>' : '' + '</th>');
         }
         tabel += '</tr></thead><tbody>';
         for (i = 1; i < rooster.length; i++) {
             tabel += '<tr' + ((rooster[i][1].indexOf('worp') != -1) ? ' class="dworp"' : '') + '>';
-            for (j = 0; j < rooster[i].length; j++) {
+            for (j = 0; j < rooster[i].length - 1; j++) {
                 left = (j == 1) ? ' class="alignleft"' : '';
                 res = (rooster[i][j] !== undefined) ? rooster[i][j] : '';
                 tabel += '<td' + left + '>' + res + '</td>';
@@ -155,15 +183,32 @@ $(document).ready(function(){
         return tabel;
     }
     function opRoosterVervolledigen() {
-        var i;
+        var i, j, verschillend, uitslagen, vorige;
         // eertste kolom met rangnummers toevoegen
         rooster[0].unshift('nummer');
         for (i = 1; i < rooster.length; i++) {
-            if (rooster[i].slice(-1)[0] != rooster[i - 1].slice(-1)[0]) {
+            if (rooster[i].slice(-2)[0] != rooster[i - 1].slice(-2)[0]) {
                 rooster[i].unshift(i);
-            } else {
-                // totaal speler is gelijk aan totaal van vorige speler
-                rooster[i].unshift('');
+            }
+            else if (rooster[i].slice(-1)[0].length != rooster[i - 1].slice(-1)[0].length) {
+                rooster[i].unshift(i);
+            }
+            else {
+                verschillend = false;
+                uitslagen = rooster[i].slice(-1)[0];
+                vorige = rooster[i - 1].slice(-1)[0];
+                for (j = 0; j < uitslagen.length; j++) {
+                    if (uitslagen[j] != vorige[j]) {
+                        verschillend = true;
+                        break;
+                    }
+                }
+                if (verschillend) {
+                    rooster[i].unshift(i);
+                } else {
+                    // totaal speler is gelijk aan totaal van vorige speler
+                    rooster[i].unshift('');
+                }
             }
         }
     }
