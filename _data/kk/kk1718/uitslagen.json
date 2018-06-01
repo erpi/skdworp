@@ -544,14 +544,14 @@
         "zwart": "Eric Cornelis"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Yves Baert",
         "zwart": "Peter De Bosscher"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Diederik Lot",
         "zwart": "Filip Van de Velde"
       },
@@ -562,8 +562,8 @@
         "zwart": "Bernard Malfliet"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Serge Vanderwaeren",
         "zwart": "Eddy Pletinckx"
       },
