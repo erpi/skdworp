@@ -1,6 +1,382 @@
 ---
-sitemap: false
+layout: inschrijven-memorial
+title: Inschrijven Memorial Patrick Debast 2018
 permalink: /mm-inschrijven/
+noindex: true
+sitemap: false
 ---
-<meta http-equiv="refresh" content="0; url={{ '/memorial'| absolute_url }}">
-<link rel="canonical" href="{{ '/memorial'| absolute_url }}"/>
+<!-- <form class="form-horizontal" method="post" 
+      id="inschrijven"
+      action="https://docs.google.com/forms/d/e/1FAIpQLSdsYfYL4W92_Xpp307FyQdCmhiepp7WtJm7bWRq6vbMVSXX_Q/formResponse"> -->
+
+<form class="form-horizontal" method="post" 
+      id="inschrijven"
+      action="https://docs.google.com/forms/d/e/1FAIpQLSebL4ffMsuqEAgcIDr4DNWFPdkJ-SloqPWv6rUthXI9V5TmBg/formResponse">
+
+  <input name="emailReceipt" value="true" type="hidden">
+  
+  <div class="form-group">
+    <div class="col-sm-offset-3 col-sm-9">
+      <p class="vet form-control-static">
+        <span style="color:#CF4A1C;">*</span>
+        verplicht veld / obligatoire / required
+      </p>
+    </div>
+  </div>
+
+  <div class="form-group required klein">
+    <label class="control-label col-sm-3" for="achternaam">achternaam:</label>
+    <div class="col-sm-9">
+      <input required class="form-control input-sm" id="achternaam" name="entry.408805176"
+             type="text" aria-describedby="help-achternaam">
+      <span id="help-achternaam" class="help-block">nom / last name</span>
+    </div>
+  </div>
+
+  <div class="form-group required klein">
+    <label class="control-label col-sm-3" for="voornaam">voornaam:</label>
+    <div class="col-sm-9">
+      <input required class="form-control input-sm" id="voornaam" name="entry.1086172822"
+             type="text" aria-describedby="help-voornaam">
+      <span id="help-voornaam" class="help-block">prénom / first name</span>
+    </div>
+  </div>
+
+  <div class="form-group required klein">
+    <label class="control-label col-sm-3" for="e-mail">e-mailadres:</label>
+    <div class="col-sm-9">
+      <input required class="form-control input-sm" id="e-mail" name="entry.1612129773"
+             type="email" aria-describedby="help-e-mail">
+      <span id="help-e-mail" class="help-block">adresse e-mail / email address</span>
+    </div>
+  </div>
+
+  <!-- <div class="form-group required klein"> -->
+  <!--   <label class="control-label col-sm-3" for="geboortejaar">geboortejaar:</label> -->
+  <!--   <div class="col-sm-4"> -->
+  <!--     <input required class="form-control input-sm" id="geboortejaar" -->
+  <!--            name="entry.2135799414" type="text" -->
+  <!--            aria-describedby="help-geboortejaar"> -->
+  <!--     <span id="help-geboortejaar" class="help-block">année de naissance / year of birth</span> -->
+  <!--   </div> -->
+  <!-- </div> -->
+    
+  <div class="form-group klein required">
+    <label class="control-label col-sm-3" for="fide_id">stamnummer fide:</label>
+    <div class="col-sm-4">
+      <input class="form-control input-sm" id="fide_id" name="entry.1072013982"
+             type="text" aria-describedby="help-fide-id">
+      <span id="help-fide-id" class="help-block">matricule fidé / fide id code</span>
+    </div>
+
+    <!-- <label class="control-label col-sm-2" for="fide_elo">fide elo:</label>
+    <div class="col-sm-3">
+      <input class="form-control input-sm" id="fide_elo" name="entry.1606057064"
+             type="text" aria-describedby="help-fide-elo">
+      <span id="help-fide-elo" class="help-block">elo fidé / fide rating</span>
+    </div> -->
+  </div>
+
+  <div class="form-group klein">
+    <label class="control-label col-sm-3" for="kbsb_id">stamnummer kbsb:</label>
+    <div class="col-sm-4">
+      <input class="form-control input-sm" id="kbsb_id" name="entry.420072020"
+             type="text" aria-describedby="help-kbsb-id">
+      <span id="help-kbsb-id" class="help-block">matricule frbe / belgian federation id</span>
+    </div>
+
+    <!-- <label class="control-label col-sm-2" for="kbsb_elo">nationale elo:</label>
+    <div class="col-sm-3">
+      <input class="form-control input-sm" id="kbsb_elo" name="entry.1868859642"
+             type="text" aria-describedby="help-kbsb-elo">
+      <span id="help-kbsb-elo" class="help-block">elo national / national rating</span>
+    </div> -->
+  </div>
+
+  
+<!--  <div class="form-group klein">
+    <label class="control-label col-sm-3" for="nationaliteit">nationaliteit:</label>
+    <div class="col-sm-4">
+      <select class="form-control input-sm" id="nationaliteit"
+              name="entry.322181207" aria-describedby="help-nationaliteit">
+        <option value="" label="onbekend"></option>
+	<option>abw</option>
+	<option>afg</option>
+	<option>ago</option>
+	<option>aia</option>
+	<option>ala</option>
+	<option>alb</option>
+	<option>and</option>
+	<option>are</option>
+	<option>arg</option>
+	<option>arm</option>
+	<option>asm</option>
+	<option>ata</option>
+	<option>atf</option>
+	<option>atg</option>
+	<option>aus</option>
+	<option>aut</option>
+	<option>aze</option>
+	<option>bdi</option>
+	<option selected>bel</option>
+	<option>ben</option>
+	<option>bes</option>
+	<option>bfa</option>
+	<option>bgd</option>
+	<option>bgr</option>
+	<option>bhr</option>
+	<option>bhs</option>
+	<option>bih</option>
+	<option>blm</option>
+	<option>blr</option>
+	<option>blz</option>
+	<option>bmu</option>
+	<option>bol</option>
+	<option>bra</option>
+	<option>brb</option>
+	<option>brn</option>
+	<option>btn</option>
+	<option>bvt</option>
+	<option>bwa</option>
+	<option>caf</option>
+	<option>can</option>
+	<option>cck</option>
+	<option>che</option>
+	<option>chl</option>
+	<option>chn</option>
+	<option>civ</option>
+	<option>cmr</option>
+	<option>cod</option>
+	<option>cog</option>
+	<option>cok</option>
+	<option>col</option>
+	<option>com</option>
+	<option>cpv</option>
+	<option>cri</option>
+	<option>cub</option>
+	<option>cuw</option>
+	<option>cxr</option>
+	<option>cym</option>
+	<option>cyp</option>
+	<option>cze</option>
+	<option>deu</option>
+	<option>dji</option>
+	<option>dma</option>
+	<option>dnk</option>
+	<option>dom</option>
+	<option>dza</option>
+	<option>ecu</option>
+	<option>egy</option>
+	<option>eri</option>
+	<option>esh</option>
+	<option>esp</option>
+	<option>est</option>
+	<option>eth</option>
+	<option>fin</option>
+	<option>fji</option>
+	<option>flk</option>
+	<option>fra</option>
+	<option>fro</option>
+	<option>fsm</option>
+	<option>gab</option>
+	<option>gbr</option>
+	<option>geo</option>
+	<option>ggy</option>
+	<option>gha</option>
+	<option>gib</option>
+	<option>gin</option>
+	<option>glp</option>
+	<option>gmb</option>
+	<option>gnb</option>
+	<option>gnq</option>
+	<option>grc</option>
+	<option>grd</option>
+	<option>grl</option>
+	<option>gtm</option>
+	<option>guf</option>
+	<option>gum</option>
+	<option>guy</option>
+	<option>hkg</option>
+	<option>hmd</option>
+	<option>hnd</option>
+	<option>hrv</option>
+	<option>hti</option>
+	<option>hun</option>
+	<option>idn</option>
+	<option>imn</option>
+	<option>ind</option>
+	<option>iot</option>
+	<option>irl</option>
+	<option>irn</option>
+	<option>irq</option>
+	<option>isl</option>
+	<option>isr</option>
+	<option>ita</option>
+	<option>jam</option>
+	<option>jey</option>
+	<option>jor</option>
+	<option>jpn</option>
+	<option>kaz</option>
+	<option>ken</option>
+	<option>kgz</option>
+	<option>khm</option>
+	<option>kir</option>
+	<option>kna</option>
+	<option>kor</option>
+	<option>kwt</option>
+	<option>lao</option>
+	<option>lbn</option>
+	<option>lbr</option>
+	<option>lby</option>
+	<option>lca</option>
+	<option>lie</option>
+	<option>lka</option>
+	<option>lso</option>
+	<option>ltu</option>
+	<option>lux</option>
+	<option>lva</option>
+	<option>mac</option>
+	<option>maf</option>
+	<option>mar</option>
+	<option>mco</option>
+	<option>mda</option>
+	<option>mdg</option>
+	<option>mdv</option>
+	<option>mex</option>
+	<option>mhl</option>
+	<option>mkd</option>
+	<option>mli</option>
+	<option>mlt</option>
+	<option>mmr</option>
+	<option>mne</option>
+	<option>mng</option>
+	<option>mnp</option>
+	<option>moz</option>
+	<option>mrt</option>
+	<option>msr</option>
+	<option>mtq</option>
+	<option>mus</option>
+	<option>mwi</option>
+	<option>mys</option>
+	<option>myt</option>
+	<option>nam</option>
+	<option>ncl</option>
+	<option>ner</option>
+	<option>nfk</option>
+	<option>nga</option>
+	<option>nic</option>
+	<option>niu</option>
+	<option>nld</option>
+	<option>nor</option>
+	<option>npl</option>
+	<option>nru</option>
+	<option>nzl</option>
+	<option>omn</option>
+	<option>pak</option>
+	<option>pan</option>
+	<option>pcn</option>
+	<option>per</option>
+	<option>phl</option>
+	<option>plw</option>
+	<option>png</option>
+	<option>pol</option>
+	<option>pri</option>
+	<option>prk</option>
+	<option>prt</option>
+	<option>pry</option>
+	<option>pse</option>
+	<option>pyf</option>
+	<option>qat</option>
+	<option>reu</option>
+	<option>rou</option>
+	<option>rus</option>
+	<option>rwa</option>
+	<option>sau</option>
+	<option>sdn</option>
+	<option>sen</option>
+	<option>sgp</option>
+	<option>sgs</option>
+	<option>shn</option>
+	<option>sjm</option>
+	<option>slb</option>
+	<option>sle</option>
+	<option>slv</option>
+	<option>smr</option>
+	<option>som</option>
+	<option>spm</option>
+	<option>srb</option>
+	<option>ssd</option>
+	<option>stp</option>
+	<option>sur</option>
+	<option>svk</option>
+	<option>svn</option>
+	<option>swe</option>
+	<option>swz</option>
+	<option>sxm</option>
+	<option>syc</option>
+	<option>syr</option>
+	<option>tca</option>
+	<option>tcd</option>
+	<option>tgo</option>
+	<option>tha</option>
+	<option>tjk</option>
+	<option>tkl</option>
+	<option>tkm</option>
+	<option>tls</option>
+	<option>ton</option>
+	<option>tto</option>
+	<option>tun</option>
+	<option>tur</option>
+	<option>tuv</option>
+	<option>twn</option>
+	<option>tza</option>
+	<option>uga</option>
+	<option>ukr</option>
+	<option>umi</option>
+	<option>ury</option>
+	<option>usa</option>
+	<option>uzb</option>
+	<option>vat</option>
+	<option>vct</option>
+	<option>ven</option>
+	<option>vgb</option>
+	<option>vir</option>
+	<option>vnm</option>
+	<option>vut</option>
+	<option>wlf</option>
+	<option>wsm</option>
+	<option>yem</option>
+	<option>zaf</option>
+	<option>zmb</option>
+	<option>zwe</option>
+      </select>
+      <span id="help-nationaliteit" class="help-block">nationalité / nationality</span>
+    </div>
+    <!-- <label class="control-label col-sm-3" for="club">club:</label> -->
+    <!-- <div class="col-sm-4"> -->
+    <!--   <input class="form-control input-sm" id="club" name="fields[club]" -->
+    <!--          type="text" aria-describedby="help-club"> -->
+    <!-- </div> -->
+      
+    <!-- <label class="control-label col-sm-2" for="titel">schaaktitel:</label>
+    <div class="col-sm-3">
+      <select class="form-control input-sm" id="titel"
+              name="entry.192472377" aria-describedby="help-titel">
+        <option value="" label="geen" selected></option>
+        <option value="fm">fm</option>
+        <option value="im">im</option>
+        <option value="gm">gm</option>
+        <option value="wfm">wfm</option>
+        <option value="wim">wim</option>
+        <option value="wgm">wgm</option>
+      </select>
+      <span id="help-titel" class="help-block">titre fidé / fide title</span>
+    </div>
+  </div> -->
+
+  <div class="form-group klein">
+    <div class="col-sm-offset-3 col-sm-9">
+      <button type="submit" class="btn btn-default">inschrijven / inscrire / subscribe</button>
+    </div>
+  </div>
+</form>
