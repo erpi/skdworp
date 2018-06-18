@@ -10,19 +10,19 @@
       {% for item in site.data.kalender %}
       {% if item.dag contains include.jaar %}
       <tr>
-        <td>{{ item.dag | lower }}</td>
+        <td>{{ item.dag | downcase }}</td>
         {% if item.tornooi contains 'memorial' %}
-        <td><a href={{ mm_link }}>{{ item.tornooi | lower }}</a></td>
+        <td><a href={{ mm_link }}>{{ item.tornooi | downcase }}</a></td>
         {% elsif item.tornooi contains 'interclubs' %}
-        <td><a href={{ ni_link }}>{{ item.tornooi | lower }}</a></td>
+        <td><a href={{ ni_link }}>{{ item.tornooi | downcase }}</a></td>
         {% elsif item.tornooi contains 'lubkampioenschap' %}
-        <td><a href={{ kk_link }}>{{ item.tornooi | lower }}</a></td>
+        <td><a href={{ kk_link }}>{{ item.tornooi | downcase }}</a></td>
         {% elsif item.tornooi contains 'snelschaak' %}
-        <td><a href={{ ss_link }}>{{ item.tornooi | lower }}</a></td>
+        <td><a href={{ ss_link }}>{{ item.tornooi | downcase }}</a></td>
         {% elsif item.tornooi contains 'open' %}
-        <td><a href={{ op_link }}>{{ item.tornooi | lower }}</a></td>
+        <td><a href={{ op_link }}>{{ item.tornooi | downcase }}</a></td>
         {% else %}
-        <td>{{ item.tornooi | lower }}</td>
+        <td>{{ item.tornooi | downcase }}</td>
         {% endif %}
       </tr>
       {% endif %}
