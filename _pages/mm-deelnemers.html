@@ -1,6 +1,49 @@
 ---
+layout: default
+title: Deelnemers Memorial 2018
 permalink: /mm-deelnemers/
+noindex: true
 sitemap: false
+club: false
 ---
-<meta http-equiv="refresh" content="0; url={{ '/memorial'| absolute_url }}">
-<link rel="canonical" href="{{ '/memorial'| absolute_url }}"/>
+{% assign deelnemers = site.data.mm.mm2018.deelnemers | sort: "elo", "first" | reverse %}
+
+<nav aria-label="terug naar info">
+  <ul class="pager">
+    <li class="previous">
+      <a href="{{ "/memorial/" | relative_url }}" style="font-size:larger;">
+        <span aria-hidden="true">&larr;</span> info pagina
+      </a>
+  </ul>
+</nav>
+
+<div class="table-responsive">
+  <table class="table table-condensed">
+    <thead>
+      <tr>
+        <th><span class="sr-only">nummer</span></th>
+        <th>naam</th>
+        <th>voornaam</th>
+        <th>titel</th>
+        <th>rating</th>
+        {% if page.club %}
+        <th>club</th>
+        {% endif %}
+      </tr>
+    </thead>
+    <tbody>
+      {% for deelnemer in deelnemers %}
+      <tr>
+        <td>{{ forloop.index }}</td>
+        <td>{{ deelnemer.achternaam | downcase}}</td>
+        <td>{{ deelnemer.voornaam | downcase}}</td>
+        <td>{{ deelnemer.titel | downcase }}</td>
+        <td>{{ deelnemer.elo }}</td>
+        {% if page.club %}
+        <td>{{ deelnemer.club | downcase }}</td>
+        {% endif %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
