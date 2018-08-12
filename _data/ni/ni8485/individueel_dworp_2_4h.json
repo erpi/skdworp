@@ -1,0 +1,146 @@
+[
+  {
+    "ronde": "1",
+    "datum": "21-10-1984",
+    "thuis": "Lokeren",
+    "uit": "228 Dworp 2",
+    "tscore": "3.5",
+    "uscore": "0.5",
+    "tgem": "",
+    "ugem": "1748",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Fre", "uspeler": "Van Nerom Luc", "telo": "", "uelo": "1751", "tstam": "", "ustam": "96246"},
+      {"tr": "1", "ur": "0", "tspeler": "Yande", "uspeler": "Debouvere Pascal", "telo": "", "uelo": "1744", "tstam": "", "ustam": "2372"},
+      {"tr": "1", "ur": "0", "tspeler": "Peelman", "uspeler": "Martinez Francis", "telo": "", "uelo": "ng", "tstam": "", "ustam": "97453"},
+      {"tr": "1", "ur": "0", "tspeler": "Daens Philippe", "uspeler": "De Smedt Jean-Pierre", "telo": "", "uelo": "ng", "tstam": "", "ustam": "33910"},
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "04-11-1984",
+    "thuis": "Sint-Niklaas",
+    "uit": "228 Dworp 2",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "",
+    "ugem": "1748",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Ruymbeek L", "uspeler": "Van Nerom Luc", "telo": "", "uelo": "1751", "tstam": "", "ustam": "96246"},
+      {"tr": "0", "ur": "1", "tspeler": "De Corte G", "uspeler": "Debouvere Pascal", "telo": "", "uelo": "1744", "tstam": "", "ustam": "2372"},
+      {"tr": "1", "ur": "0", "tspeler": "Staes H", "uspeler": "Martinez Francis", "telo": "", "uelo": "ng", "tstam": "", "ustam": "97453"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Schittekat B", "uspeler": "De Smedt Jean-Pierre", "telo": "", "uelo": "ng", "tstam": "", "ustam": "33910"},
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "18-11-1984",
+    "thuis": "228 Dworp 2",
+    "uit": "Dendermonde 2",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1748",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Van Nerom Luc", "uspeler": "Van Damme", "telo": "1751", "uelo": "", "tstam": "96246", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debouvere Pascal", "uspeler": "Van Craene", "telo": "1744", "uelo": "", "tstam": "2372", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Martinez Francis", "uspeler": "Den Doncker", "telo": "ng", "uelo": "", "tstam": "97453", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "De Smedt Jean-Pierre", "uspeler": "Van Nuffel", "telo": "ng", "uelo": "", "tstam": "33910", "ustam": ""},
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "02-12-1984",
+    "thuis": "Roque Anderlecht 7",
+    "uit": "228 Dworp 2",
+    "tscore": "4",
+    "uscore": "0",
+    "tgem": "",
+    "ugem": "1748",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Janssens Guy", "uspeler": "Van Nerom Luc", "telo": "", "uelo": "1751", "tstam": "", "ustam": "96246"},
+      {"tr": "1", "ur": "0", "tspeler": "Grede Manfred", "uspeler": "Debouvere Pascal", "telo": "", "uelo": "1744", "tstam": "", "ustam": "2372"},
+      {"tr": "1", "ur": "0", "tspeler": "Gabriellli G", "uspeler": "Martinez Francis", "telo": "", "uelo": "ng", "tstam": "", "ustam": "97453"},
+      {"tr": "1", "ur": "0", "tspeler": "Saeys Thierry", "uspeler": "De Smedt Jean-Pierre", "telo": "", "uelo": "ng", "tstam": "", "ustam": "33910"},
+    ]
+  },
+  {
+    "ronde": "5",
+    "datum": "16-12-1984",
+    "thuis": "228 Dworp 2",
+    "uit": "Beveren 1",
+    "tscore": "0",
+    "uscore": "4",
+    "tgem": "1631",
+    "ugem": "",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Taelemans Werner", "uspeler": "Schillemans", "telo": "1713", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Trompeter Hubert", "uspeler": "Stuer", "telo": "1548", "uelo": "", "tstam": "45454", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Martinez Francis", "uspeler": "Caluwe", "telo": "ng", "uelo": "", "tstam": "97453", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "De Smedt Jean-Pierre", "uspeler": "Hennissen", "telo": "ng", "uelo": "", "tstam": "33910", "ustam": ""},
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "03-02-1985",
+    "thuis": "Aalst 2",
+    "uit": "228 Dworp 2",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "",
+    "ugem": "1679",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Inze", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1818", "tstam": "", "ustam": "76317"},
+      {"tr": "1", "ur": "0", "tspeler": "Van Cotthem", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1540", "tstam": "", "ustam": "27715"},
+      {"tr": "0", "ur": "1", "tspeler": "Van Cauwenberghe", "uspeler": "Martinez Francis", "telo": "", "uelo": "ng", "tstam": "", "ustam": "97453"},
+      {"tr": "1", "ur": "0", "tspeler": "Meyts", "uspeler": "De Smedt Jean-Pierre", "telo": "", "uelo": "ng", "tstam": "", "ustam": "33910"},
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "17-02-1985",
+    "thuis": "228 Dworp 2",
+    "uit": "Anderlecht 4",
+    "tscore": "2.5",
+    "uscore": "1.5",
+    "tgem": "1642",
+    "ugem": "",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debouvere Pascal", "uspeler": "Van Dam", "telo": "1744", "uelo": "", "tstam": "2372", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Deklerck Willy", "uspeler": "Verspecht T", "telo": "1540", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Martinez Francis", "uspeler": "Presti D", "telo": "ng", "uelo": "", "tstam": "97453", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "De Smedt Jean-Pierre", "uspeler": "Gloesner", "telo": "ng", "uelo": "", "tstam": "33910", "ustam": ""},
+   ]
+  },
+  {
+    "ronde": "8",
+    "datum": "24-05-1985",
+    "thuis": "Mariakerke",
+    "uit": "228 Dworp 2",
+    "tscore": "3.5",
+    "uscore": "0.5",
+    "tgem": "",
+    "ugem": "1611",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Rottier", "uspeler": "Debouvere Pascal", "telo": "", "uelo": "1744", "tstam": "", "ustam": "2372"},
+      {"tr": "1", "ur": "0", "tspeler": "Grootaert", "uspeler": "Trompeter Hubert", "telo": "", "uelo": "1548", "tstam": "", "ustam": "45454"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Wante", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1540", "tstam": "", "ustam": "27715"},
+      {"tr": "1", "ur": "0", "tspeler": "Delannoy", "uspeler": "Martinez Francis", "telo": "", "uelo": "ng", "tstam": "", "ustam": "97453"},
+    ]
+  },
+ {
+    "ronde": "9",
+    "datum": "03-03-1985",
+    "thuis": "228 Dworp 2",
+    "uit": "Jean Jaures Gent",
+    "tscore": "1",
+    "uscore": "3",
+    "tgem": "1544",
+    "ugem": "",
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "n.m.", "uspeler": "Thijs A", "telo": "", "uelo": "", "tstam": "68128", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Trompeter Hubert", "uspeler": "Van Houlter W", "telo": "1548", "uelo": "", "tstam": "45454", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Deklerck Willy", "uspeler": "De Corte JP", "telo": "1540", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Martinez Francis", "uspeler": "Debacq J", "telo": "ng", "uelo": "", "tstam": "97453", "ustam": ""},
+    ]
+  }
+]
