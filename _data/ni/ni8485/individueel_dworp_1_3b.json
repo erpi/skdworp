@@ -1,327 +1,164 @@
 [
-
   {
-
     "ronde": "1",
-
     "datum": "21-10-1984",
-
     "thuis": "Caissa Woluwe",
-
     "uit": "228 Dworp 1",
-
     "tscore": "2.5",
-
     "uscore": "3.5",
-
     "tgem": "",
-
     "ugem": "1874",
-
     "borden": [
-
       {"tr": "1", "ur": "0", "tspeler": "Fery L", "uspeler": "Boers Jos", "telo": "", "uelo": "1979", "tstam": "", "ustam": "68128"},
-
       {"tr": "1", "ur": "0", "tspeler": "Oosterhuys", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1872", "tstam": "", "ustam": "99152"},
-
       {"tr": "0", "ur": "1", "tspeler": "Colasanti F", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1867", "tstam": "", "ustam": "76325"},
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Cludts G", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1865", "tstam": "", "ustam": "19313"},
-
       {"tr": "0", "ur": "1", "tspeler": "Dlugoszewski J", "uspeler": "Debast Patrick", "telo": "", "uelo": "1842", "tstam": "", "ustam": "76333"},
-
       {"tr": "0", "ur": "1", "tspeler": "Godeau T", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1818", "tstam": "", "ustam": "76317"}
-
     ]
-
   },
-
   {
-
     "ronde": "2",
-
     "datum": "4-11-1984",
-
     "thuis": "209 Anderlecht",
-
     "uit": "228 Dworp 1",
-
     "tscore": "3",
-
     "uscore": "3",
-
     "tgem": "",
-
     "ugem": "1874",
-
     "borden": [
-
       {"tr": "1", "ur": "0", "tspeler": "Reinitz", "uspeler": "Boers Jos", "telo": "", "uelo": "1979", "tstam": "", "ustam": "68128"},
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Penneman", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1872", "tstam": "", "ustam": "99152"},
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Pauwels", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1867", "tstam": "", "ustam": "76325"},
-
       {"tr": "1", "ur": "0", "tspeler": "Becker", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1865", "tstam": "", "ustam": "19313"},
-
       {"tr": "0", "ur": "1", "tspeler": "Guyot", "uspeler": "Debast Patrick", "telo": "", "uelo": "1842", "tstam": "", "ustam": "76333"},
-
       {"tr": "0", "ur": "1", "tspeler": "Guillaume", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1818", "tstam": "", "ustam": "76317"}
-
     ]
-
   },
-
   {
-
     "ronde": "3",
-
     "datum": "18-11-1984",
-
     "thuis": "228 Dworp 1",
-
     "uit": "501 CRE Charleroi",
-
     "tscore": "1.5",
-
     "uscore": "4.5",
-
     "tgem": "1901",
-
     "ugem": "",
-
     "borden": [
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren Serge", "uspeler": "Romanelli", "telo": "2143", "uelo": "", "tstam": "20621", "ustam": ""},
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "De Ceukelaire Gert", "uspeler": "Wauthier", "telo": "1872", "uelo": "", "tstam": "99152", "ustam": ""},
-
       {"tr": "0", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Becker J", "telo": "1867", "uelo": "", "tstam": "76325", "ustam": ""},
-
       {"tr": "0", "ur": "1", "tspeler": "Lemmens Pierre", "uspeler": "De Schrijver", "telo": "1865", "uelo": "", "tstam": "19313", "ustam": ""},
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Piacentini", "telo": "1842", "uelo": "", "tstam": "76333", "ustam": ""},
-
       {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Meuter", "telo": "1818", "uelo": "", "tstam": "76317", "ustam": ""}
-
     ]
-
   },
-
   {
-
     "ronde": "4",
-
     "datum": "02-12-1984",
-
     "thuis": "518 Soignies 1",
-
     "uit": "228 Dworp 1",
-
     "tscore": "3.5",
-
     "uscore": "2.5",
-
     "tgem": "",
-
     "ugem": "1874",
-
     "borden": [
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Poivre", "uspeler": "Boers Jos", "telo": "", "uelo": "1979", "tstam": "", "ustam": "68128"},
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Wasnaire", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1872", "tstam": "", "ustam": "99152"},
-
       {"tr": "1", "ur": "0", "tspeler": "Masute", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1867", "tstam": "", "ustam": "76325"},
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Leloutre", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1865", "tstam": "", "ustam": "19313"},
-
       {"tr": "0", "ur": "1", "tspeler": "Waterschoot T", "uspeler": "Debast Patrick", "telo": "", "uelo": "1842", "tstam": "", "ustam": "76333"},
-
       {"tr": "1", "ur": "0", "tspeler": "Leemans R", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1818", "tstam": "", "ustam": "76317"}
-
     ]
-
   },
-
   {
-
     "ronde": "5",
-
     "datum": "16-12-1984",
-
     "thuis": "228 Dworp 1",
-
     "uit": "La Venerie",
-
     "tscore": "3",
-
     "uscore": "3",
-
     "tgem": "1874",
-
     "ugem": "",
-
     "borden": [
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Boers Jos", "uspeler": "Bernard N", "telo": "1979", "uelo": "", "tstam": "68128", "ustam": ""},
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "De Ceukelaire Gert", "uspeler": "Lacroix B", "telo": "1872", "uelo": "", "tstam": "99152", "ustam": ""},
-
       {"tr": "0", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Haber Jean-Pierre", "telo": "1867", "uelo": "", "tstam": "76325", "ustam": ""},
-
       {"tr": "1", "ur": "0", "tspeler": "Lemmens Pierre", "uspeler": "Lacrosse B", "telo": "1865", "uelo": "", "tstam": "19313", "ustam": ""},
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Lacrosse M", "telo": "1842", "uelo": "", "tstam": "76333", "ustam": ""},
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Cousin JL", "telo": "1818", "uelo": "", "tstam": "76317", "ustam": ""}
-
     ]
-
   },
-
   {
-
     "ronde": "6",
-
     "datum": "03-02-1985",
-
     "thuis": "Aalst 1",
-
     "uit": "228 Dworp 1",
-
     "tscore": "3.5",
-
     "uscore": "2.5",
-
     "tgem": "",
-
     "ugem": "1928",
-
     "borden": [
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Vanhee Freddy", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2143", "tstam": "", "ustam": "20621"},
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Limbourg", "uspeler": "Boers Jos", "telo": "", "uelo": "1979", "tstam": "", "ustam": "68128"},
-
       {"tr": "0", "ur": "1", "tspeler": "De Wolf Bernard", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1872", "tstam": "", "ustam": "99152"},
-
       {"tr": "1", "ur": "0", "tspeler": "De Smet Frans", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1867", "tstam": "", "ustam": "76325"},
-
       {"tr": "1", "ur": "0", "tspeler": "Sneppe", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1865", "tstam": "", "ustam": "19313"},
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "De Mol", "uspeler": "Debast Patrick", "telo": "", "uelo": "1842", "tstam": "", "ustam": "76333"}
-
     ]
-
   },
-
   {
-
     "ronde": "7",
-
     "datum": "17-02-1985",
-
     "thuis": "228 Dworp 1",
-
     "uit": "Geraardsbergen 2",
-
     "tscore": "4.5",
-
     "uscore": "1.5",
-
     "tgem": "1874",
-
     "ugem": "",
-
     "borden": [
-
       {"tr": "1", "ur": "0", "tspeler": "Boers Jos", "uspeler": "Vandenbruane Carl", "telo": "1979", "uelo": "", "tstam": "68128", "ustam": ""},
-
       {"tr": "1", "ur": "0", "tspeler": "De Ceukelaire Gert", "uspeler": "Pauwels R", "telo": "1872", "uelo": "", "tstam": "99152", "ustam": ""},
-
-      {"tr": "1, "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Ducastel M", "telo": "1867", "uelo": "", "tstam": "76325", "ustam": ""},
-
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Ducastel M", "telo": "1867", "uelo": "", "tstam": "76325", "ustam": ""},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Lemmens Pierre", "uspeler": "Vercleyen J", "telo": "1865", "uelo": "", "tstam": "19313", "ustam": ""},
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Van Cauwenberghe M", "telo": "1842", "uelo": "", "tstam": "76333", "ustam": ""},
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Jacobs K", "telo": "1818", "uelo": "", "tstam": "76317", "ustam": ""}
-
     ]
-
   },
-
   {
-
     "ronde": "8",
-
     "datum": "24-02-1985",
-
     "thuis": "Wavre 1",
-
     "uit": "228 Dworp 1",
-
     "tscore": "5",
-
     "uscore": "1",
-
     "tgem": "",
-
     "ugem": "1809",
-
     "borden": [
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Verhaegen", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1872", "tstam": "", "ustam": "99152"},
-
       {"tr": "1", "ur": "0", "tspeler": "Anciaux", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1865", "tstam": "", "ustam": "19313"},
-
       {"tr": "1", "ur": "0", "tspeler": "Godefroit", "uspeler": "Debast Patrick", "telo": "", "uelo": "1842", "tstam": "", "ustam": "76333"},
-
       {"tr": "1", "ur": "0", "tspeler": "Perpete", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1818", "tstam": "", "ustam": "76317"},
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Zimmerman", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1744", "tstam": "", "ustam": "31348"},
-
       {"tr": "1", "ur": "0", "tspeler": "Quoisin", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1713", "tstam": "", "ustam": "2283"}
-
     ]
-
   },
-
   {
-
     "ronde": "9",
-
     "datum": "03-03-1985",
-
     "thuis": "228 Dworp 1",
-
     "uit": "CRE Bruxelles 2",
-
     "tscore": "2",
-
     "uscore": "4",
-
     "tgem": "1874",
-
     "ugem": "",
-
     "borden": [
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Boers Jos", "uspeler": "Marchal", "telo": "1979", "uelo": "", "tstam": "68128", "ustam": ""},
-
       {"tr": "0", "ur": "1", "tspeler": "De Ceukelaire Gert", "uspeler": "Piron", "telo": "1872", "uelo": "", "tstam": "99152", "ustam": ""},
-
       {"tr": "0", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Verwilghen P", "telo": "1867", "uelo": "", "tstam": "76325", "ustam": ""},
-
       {"tr": "0.5", "ur": "0.5", "tspeler": "Lemmens Pierre", "uspeler": "Demoulin", "telo": "1865", "uelo": "", "tstam": "19313", "ustam": ""},
-
       {"tr": "0", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Vannerom", "telo": "1842", "uelo": "", "tstam": "76333", "ustam": ""},
-
       {"tr": "1", "ur": "0", "tspeler": "Cornelis Eric", "uspeler": "ff", "telo": "1818", "uelo": "", "tstam": "76317", "ustam": ""}
-
     ]
-
   }
-
 ]
