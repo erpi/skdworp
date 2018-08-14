@@ -1,0 +1,98 @@
+[
+  {
+    "ronde": "1",
+    "datum": "20-10-1985",
+    "thuis": "228 Dworp 3",
+    "uit": "Ruisbroek 1",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1598",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Van Nerom Luc", "uspeler": "Mattheys Eddy", "telo": "1741", "uelo": "", "tstam": "96246", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Debouvere Pascal", "uspeler": "Uylenbroeck Roland", "telo": "1717", "uelo": "", "tstam": "2372", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Martinez Francis", "uspeler": "Stiens Kris", "telo": "1619", "uelo": "", "tstam": "97453", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "De Smedt Jean-Pierre", "uspeler": "Thiteca Thierry", "telo": "1316", "uelo": "", "tstam": "33910", "ustam": ""},
+     ]
+  },
+  {
+    "ronde": "2",
+    "datum": "17-11-1985",
+    "thuis": "Ruisbroek 2",
+    "uit": "228 Dworp 3",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "",
+    "ugem": "1598",
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Meugens Eric", "uspeler": "Van Nerom Luc", "telo": "", "uelo": "1741", "tstam": "", "ustam": "96246"},
+      {"tr": "0", "ur": "1", "tspeler": "Huysman Bob", "uspeler": "Debouvere Pascal", "telo": "", "uelo": "1717", "tstam": "", "ustam": "2372"},
+      {"tr": "1", "ur": "0", "tspeler": "Steenhoudt Jan", "uspeler": "Martinez Francis", "telo": "", "uelo": "1619", "tstam": "", "ustam": "97453"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Taillieu", "uspeler": "De Smedt Jean-Pierre", "telo": "", "uelo": "1316", "tstam": "", "ustam": "33910"},
+   ]
+  },
+  {
+    "ronde": "3",
+    "datum": "01-12-1985",
+    "thuis": "228 Dworp 3",
+    "uit": "Machelen 2",
+    "tscore": "2",
+    "uscore": "2",
+    "tgem": "1598",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Van Nerom Luc", "uspeler": "Vermeir", "telo": "1741", "uelo": "", "tstam": "96246", "ustam": ""},
+      {"tr": "1", "ur": "0", "tspeler": "Debouvere Pascal", "uspeler": "Jacobs", "telo": "1717", "uelo": "", "tstam": "2372", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Martinez Francis", "uspeler": "De Witte", "telo": "1619", "uelo": "", "tstam": "97453", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "De Smedt Jean-Pierre", "uspeler": "Baert", "telo": "1316", "uelo": "", "tstam": "33910", "ustam": ""},
+     ]
+  },
+  {
+    "ronde": "4",
+    "datum": "15-12-1985",
+    "thuis": "Tervuren",
+    "uit": "228 Dworp 3",
+    "tscore": "4",
+    "uscore": "0",
+    "tgem": "",
+    "ugem": "1598",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Smekens Willy", "uspeler": "Van Nerom Luc", "telo": "", "uelo": "1741", "tstam": "", "ustam": "96246"},
+      {"tr": "1", "ur": "0", "tspeler": "Moens Andre", "uspeler": "Debouvere Pascal", "telo": "", "uelo": "1717", "tstam": "", "ustam": "2372"},
+      {"tr": "1", "ur": "0", "tspeler": "Hernalsteen Johan", "uspeler": "Martinez Francis", "telo": "", "uelo": "1619", "tstam": "", "ustam": "97453"},
+      {"tr": "1", "ur": "0", "tspeler": "Vandendael Alfons", "uspeler": "De Smedt Jean-Pierre", "telo": "", "uelo": "1316", "tstam": "", "ustam": "33910"},
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "16-02-1986",
+    "thuis": "228 Dworp 3",
+    "uit": "Leuven 4",
+    "tscore": "1.5",
+    "uscore": "2.5",
+    "tgem": "1591",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Van Nerom Luc", "uspeler": "Houdart P", "telo": "1741", "uelo": "", "tstam": "96246", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Debouvere Pascal", "uspeler": "Bossuyt Koen", "telo": "1717", "uelo": "", "tstam": "2371", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Smedt Jean-Pierre", "uspeler": "Kaye Kris", "telo": "1316", "uelo": "", "tstam": "33910", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "Derdelinckx Lydia", "uspeler": "Truyens Aime", "telo": "ng", "uelo": "", "tstam": "n.m.", "ustam": ""},
+     ]
+  },
+  {
+    "ronde": "9",
+    "datum": "16-03-1986",
+    "thuis": "Opwijk 2",
+    "uit": "228 Dworp 3",
+    "tscore": "4",
+    "uscore": "0",
+    "tgem": "",
+    "ugem": "1598",
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Valcke Rudy", "uspeler": "Van Nerom Luc", "telo": "", "uelo": "1741", "tstam": "", "ustam": "96246"},
+      {"tr": "1", "ur": "0", "tspeler": "Deboeck Pierre", "uspeler": "Debouvere Pascal", "telo": "", "uelo": "1717", "tstam": "", "ustam": "2372"},
+      {"tr": "1", "ur": "0", "tspeler": "Hermans", "uspeler": "Martinez Francis", "telo": "", "uelo": "1619", "tstam": "", "ustam": "97453"},
+      {"tr": "1", "ur": "0", "tspeler": "Janssens", "uspeler": "De Smedt Jean-Pierre", "telo": "", "uelo": "1316", "tstam": "", "ustam": "33910"},
+     ]
+  }
+]
