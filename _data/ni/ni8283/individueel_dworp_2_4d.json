@@ -1,0 +1,146 @@
+[
+{
+    "ronde": "1",
+    "datum": "17-10-1982",
+    "thuis": "228 Dworp 2",
+    "uit": "243 Leuven 2",
+    "tscore": "5",
+    "uscore": "11",
+    "tgem": "1587",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Pletinckx Eddy", "uspeler": "Vandenbempt Paul", "telo": "1648", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Rosseel Gilbert", "uspeler": "Thora Jacky", "telo": "1591", "uelo": "", "tstam": "19273", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Cornelis Eric", "uspeler": "Van Hal Jacques", "telo": "1521", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Malfliet Bernard", "uspeler": "Beynens", "telo": "ng", "uelo": "", "tstam": "31348", "ustam": ""}
+    ]
+  }, 
+ {
+    "ronde": "2",
+    "datum": "21-11-1982",
+    "thuis": "Amay 2",
+    "uit": "228 Dworp 2",
+    "tscore": "7",
+    "uscore": "9",
+    "tgem": "",
+    "ugem": "1585",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Bernard J", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1648", "tstam": "", "ustam": "66325"},
+      {"tr": "2", "ur": "2", "tspeler": "Pirotte Th", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1521", "tstam": "", "ustam": "76317"},
+      {"tr": "3", "ur": "1", "tspeler": "Teyskens J", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "ng", "tstam": "", "ustam": "31348"},
+      {"tr": "1", "ur": "3", "tspeler": "Musique S", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "ng", "tstam": "", "ustam": "98918"}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "5-12-1982",
+    "thuis": "228 Dworp 2",
+    "uit": "244 Thibaut 3",
+    "tscore": "12",
+    "uscore": "4",
+    "tgem": "1607",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "Verbeque Roger", "uspeler": "Bluns", "telo": "1651", "uelo": "", "tstam": "89613", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Achen D", "telo": "1648", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Orfila", "telo": "1521", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Deneyer Hugo", "uspeler": "Verschoren", "telo": "ng", "uelo": "", "tstam": "98918", "ustam": ""}
+    ]
+  },   
+{
+    "ronde": "4",
+    "datum": "19-12-1982",
+    "thuis": "228 Dworp 2",
+    "uit": "Tervuren",
+    "tscore": "7",
+    "uscore": "9",
+    "tgem": "1585",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Pletinckx Eddy", "uspeler": "Marchal", "telo": "1648", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Cornelis Eric", "uspeler": "Moens Andre", "telo": "1521", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Malfliet Bernard", "uspeler": "Smekens Willy", "telo": "ng", "uelo": "", "tstam": "31348", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Debouvere Pascal", "uspeler": "Hernalsteen Johan", "telo": "ng", "uelo": "", "tstam": "2372", "ustam": ""}
+    ]
+  },
+{
+    "ronde": "5",
+    "datum": "16-01-1983",
+    "thuis": "Machelen",
+    "uit": "228 Dworp 2",
+    "tscore": "6",
+    "uscore": "10",
+    "tgem": "",
+    "ugem": "1585",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "Verbist Albert", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1648", "tstam": "", "ustam": "76325"},
+      {"tr": "2", "ur": "2", "tspeler": "Vande Venne Fred", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1521", "tstam": "", "ustam": "76317"},
+      {"tr": "1", "ur": "3", "tspeler": "Rottier Philippe", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "ng", "tstam": "", "ustam": "31348"},
+      {"tr": "1", "ur": "3", "tspeler": "Vandermeiren", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "ng", "tstam": "", "ustam": "98918`"}
+    ]
+  },
+{
+    "ronde": "6",
+    "datum": "30-01-1983",
+    "thuis": "228 Dworp 1",
+    "uit": "Zaventem",
+    "tscore": "6",
+    "uscore": "10",
+    "tgem": "",
+    "ugem": "1585",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Pletinckx Eddy", "uspeler": "Bever Jurgen", "telo": "1648", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Cornelis Eric", "uspeler": "De Hondt Paul", "telo": "1521", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Malfliet Bernard", "uspeler": "Dierick Willy", "telo": "ng", "uelo": "", "tstam": "31348", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "De Temmerman Lieve", "uspeler": "Devroe Jan", "telo": "ng", "uelo": "", "tstam": "n.m.", "ustam": ""}
+    ]
+  },
+{
+    "ronde": "7",
+    "datum": "13-02-1983",
+    "thuis": "245 Queen Caïssa Brussels 3",
+    "uit": "228 Dworp 2",
+    "tscore": "10",
+    "uscore": "6",
+    "tgem": "1605",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Denys Frank", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1648", "tstam": "", "ustam": "76325"},
+      {"tr": "3", "ur": "1", "tspeler": "Kesteloot Eddy", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1645", "tstam": "", "ustam": "2283"},
+      {"tr": "3", "ur": "1", "tspeler": "Lombart Phlippe", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1521", "tstam": "", "ustam": "76317"},
+      {"tr": "3", "ur": "1", "tspeler": "Gielen R", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "ng", "tstam": "", "ustam": "98918"}
+    ]
+  },  
+  {
+    "ronde": "8",
+    "datum": "27-02-1983",
+    "thuis": "228 Dworp 2",
+    "uit": "Le Mat 5",
+    "tscore": "9",
+    "uscore": "7",
+    "tgem": "1605",
+    "ugem": "",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "Pletinckx Eddy", "uspeler": "Penneman F", "telo": "1648", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Reinitz A", "telo": "1521", "uelo": "", "tstam": "76317", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Taelemans Werner", "uspeler": "Guillaume P", "telo": "1645", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Malfliet Bernard", "uspeler": "Colin JF", "telo": "ng", "uelo": "", "tstam": "31348", "ustam": ""}
+    ]
+  },
+{
+    "ronde": "9",
+    "datum": "13-03-1983",
+    "thuis": "Echiquier Anderlecht 1",
+    "uit": "228 Dworp 2",
+    "tscore": "8",
+    "uscore": "8",
+    "tgem": "",
+    "ugem": "1648",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Guyot", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1648", "tstam": "", "ustam": "76325"},
+      {"tr": "2", "ur": "2", "tspeler": "Pauwels", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "ng", "tstam": "", "ustam": "31348"},
+      {"tr": "3", "ur": "1", "tspeler": "Vanhorenbeke", "uspeler": "Lejeune Guy", "telo": "", "uelo": "ng", "tstam": "", "ustam": "70572"},
+      {"tr": "2", "ur": "2", "tspeler": "Moreno", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "ng", "tstam": "", "ustam": "98918"}
+    ]
+  }
+]
