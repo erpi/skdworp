@@ -1,0 +1,146 @@
+[
+{
+    "ronde": "1",
+    "datum": "17-10-1982",
+    "thuis": "216 Waterloo 2",
+    "uit": "228 Dworp 3",
+    "tscore": "5",
+    "uscore": "11",
+    "tgem": "1395",
+    "ugem": "",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "Wollansky", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99152"},
+      {"tr": "1", "ur": "3", "tspeler": "Deineko", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1645", "tstam": "", "ustam": "2283"},
+      {"tr": "1", "ur": "3", "tspeler": "Bastogne", "uspeler": "Trompeter Hubert", "telo": "", "uelo": "1145", "tstam": "", "ustam": "45454"},
+      {"tr": "1", "ur": "2", "tspeler": "Cornil", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "ng", "tstam": "", "ustam": "98918"}
+    ]
+  }, 
+ {
+    "ronde": "2",
+    "datum": "21-11-1982",
+    "thuis": "244 Thibaut 4",
+    "uit": "228 Dworp 3",
+    "tscore": "7",
+    "uscore": "9",
+    "tgem": "",
+    "ugem": "1395",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Careme", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99152"},
+      {"tr": "2", "ur": "2", "tspeler": "Tuss", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1645", "tstam": "", "ustam": "2283"},
+      {"tr": "3", "ur": "1", "tspeler": "Mercer", "uspeler": "Trompeter Hubert", "telo": "", "uelo": "1145", "tstam": "", "ustam": "45454"},
+      {"tr": "1", "ur": "3", "tspeler": "Verschoren", "uspeler": "Lejeune Guy", "telo": "", "uelo": "ng", "tstam": "", "ustam": "70572"}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "5-12-1982",
+    "thuis": "228 Dworp 3",
+    "uit": "229 Caissa Woluwe 3",
+    "tscore": "8",
+    "uscore": "8",
+    "tgem": "1395",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "De Ceukelaire Gert", "uspeler": "Van Melsen", "telo": "ng", "uelo": "", "tstam": "99152", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Taelemans Werner", "uspeler": "Cuchet", "telo": "1645", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Trompeter Hubert", "uspeler": "Steurs", "telo": "1145", "uelo": "", "tstam": "45454", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Lejeune Guy", "uspeler": "Cockaerts", "telo": "ng", "uelo": "", "tstam": "70572", "ustam": ""}
+    ]
+  },   
+{
+    "ronde": "4",
+    "datum": "19-12-1982",
+    "thuis": "Echiquier Anderlecht 4",
+    "uit": "228 Dworp 2",
+    "tscore": "9",
+    "uscore": "7",
+    "tgem": "1395",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Janssens Guy", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99152"},
+      {"tr": "3", "ur": "1", "tspeler": "Vereerthbruggen Walter", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1645", "tstam": "", "ustam": "2283"},
+      {"tr": "2", "ur": "2", "tspeler": "Saeys T", "uspeler": "Trompeter Hubert", "telo": "", "uelo": "1145", "tstam": "", "ustam": "45454"},
+      {"tr": "3", "ur": "1", "tspeler": "Moreno", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "ng", "tstam": "", "ustam": "98918"}
+    ]
+  },
+{
+    "ronde": "5",
+    "datum": "16-01-1983",
+    "thuis": "228 Dworp 2",
+    "uit": "Flenu 1",
+    "tscore": "8",
+    "uscore": "8",
+    "tgem": "1645",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "De Ceukelaire Gert", "uspeler": "Mailleux G", "telo": "ng", "uelo": "", "tstam": "99152", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Taelemans Werner", "uspeler": "Munaretti Ph", "telo": "1645", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Lejeune Guy", "uspeler": "Haelewijck M", "telo": "ng", "uelo": "", "tstam": "70572", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Debouvere Pascal", "uspeler": "Munaretti JP", "telo": "ng", "uelo": "", "tstam": "2372", "ustam": ""}
+    ]
+  },
+{
+    "ronde": "6",
+    "datum": "30-01-1983",
+    "thuis": "Flenu 2",
+    "uit": "228 Dworp 3",
+    "tscore": "7",
+    "uscore": "9",
+    "tgem": "",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Maugini G", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99152"},
+      {"tr": "1", "ur": "3", "tspeler": "Rupi A", "uspeler": "Lejeune Guy", "telo": "", "uelo": "ng", "tstam": "", "ustam": "70572"},
+      {"tr": "3", "ur": "1", "tspeler": "Pisone M", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "ng", "tstam": "", "ustam": "98918"},
+      {"tr": "2", "ur": "2", "tspeler": "Vandurme P", "uspeler": "Debouvere Pascal", "telo": "", "uelo": "ng", "tstam": "", "ustam": "2372"}
+    ]
+  },
+{
+    "ronde": "7",
+    "datum": "13-02-1983",
+    "thuis": "228 Dworp 3",
+    "uit": "Ath 2",
+    "tscore": "11",
+    "uscore": "5",
+    "tgem": "",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "De Ceukelaire Gert", "uspeler": "Tournois J", "telo": "ng", "uelo": "", "tstam": "99152", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Lejeune Guy", "uspeler": "Villet M", "telo": "ng", "uelo": "", "tstam": "70572", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Deklerck Willy", "uspeler": "Dejardin R", "telo": "ng", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Debouvere Pascal", "uspeler": "Dejardin P", "telo": "ng", "uelo": "", "tstam": "2372", "ustam": ""}
+    ]
+  },  
+  {
+    "ronde": "8",
+    "datum": "27-02-1983",
+    "thuis": "Doornik",
+    "uit": "228 Dworp 3",
+    "tscore": "9",
+    "uscore": "7",
+    "tgem": "",
+    "ugem": "",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "Dusart", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99152"},
+      {"tr": "2", "ur": "2", "tspeler": "Legrand", "uspeler": "Lejeune Guy", "telo": "", "uelo": "ng", "tstam": "", "ustam": "70572"},
+      {"tr": "3", "ur": "1", "tspeler": "Van Meenen", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "ng", "tstam": "", "ustam": "98918"},
+      {"tr": "2", "ur": "2", "tspeler": "Dubois", "uspeler": "Debouvere Pascal", "telo": "", "uelo": "ng", "tstam": "", "ustam": "2372"}
+    ]
+  },
+{
+    "ronde": "9",
+    "datum": "13-03-1983",
+    "thuis": "228 Dworp 2",
+    "uit": "Binche",
+    "tscore": "9",
+    "uscore": "7",
+    "tgem": "",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "3", "tspeler": "De Ceukelaire Gert", "uspeler": "Bara L", "telo": "ng", "uelo": "", "tstam": "99152", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Deklerck Willy", "uspeler": "Sterck R", "telo": "ng", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Debouvere Pascal", "uspeler": "Bara M of Ph", "telo": "ng", "uelo": "", "tstam": "2372", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Denayer William", "uspeler": "Dumont P", "telo": "ng", "uelo": "", "tstam": "98925", "ustam": ""}
+    ]
+  }
+]
