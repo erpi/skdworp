@@ -1,0 +1,146 @@
+[
+  {
+    "ronde": "1",
+    "datum": "23-10-1983",
+    "thuis": "501 CRE Charleroi 1",
+    "uit": "228 Dworp 2",
+    "tscore": "9",
+    "uscore": "7",
+    "tgem": "",
+    "ugem": "1746",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "Blavier Christian", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1833", "tstam": "", "ustam": "76317"},
+      {"tr": "1", "ur": "3", "tspeler": "Leonard", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1789", "tstam": "96506", "ustam": "2283"},
+      {"tr": "3", "ur": "1", "tspeler": "Gregorio", "uspeler": "Debouvere Pascal", "telo": "", "uelo": "1708", "tstam": "", "ustam": "2372"},
+      {"tr": "3", "ur": "1", "tspeler": "Cappucci", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "1655", "tstam": "", "ustam": "98918"}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "06-11-1983",
+    "thuis": "228 Dworp 2",
+    "uit": "Carnieres",
+    "tscore": "5",
+    "uscore": "11",
+    "tgem": "1732",
+    "ugem": "",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "Taelemans Werner", "uspeler": "n.m.", "telo": "1789", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Djuh Wasil", "uspeler": "n.m.", "telo": "1776", "uelo": "", "tstam": "19402", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Debouvere Pascal", "uspeler": "n.m.", "telo": "1708", "uelo": "", "tstam": "2372", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Deneyer Hugo", "uspeler": "n.m.", "telo": "1655", "uelo": "", "tstam": "98918", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "20-11-1983",
+    "thuis": "Thibaut 2",
+    "uit": "228 Dworp 2",
+    "tscore": "7",
+    "uscore": "9",
+    "tgem": "",
+    "ugem": "1666",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "n.m.", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1789", "tstam": "", "ustam": "2283"},
+      {"tr": "1", "ur": "3", "tspeler": "n.m.", "uspeler": "Debouvere Pascal", "telo": "", "uelo": "1708", "tstam": "", "ustam": "2372"},
+      {"tr": "2", "ur": "2", "tspeler": "n.m.", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "1655", "tstam": "", "ustam": "98918"},
+      {"tr": "2", "ur": "2", "tspeler": "n.m.", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1510", "tstam": "", "ustam": "27715"}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "04-12-1983",
+    "thuis": "Caissa Anderlecht 3",
+    "uit": "228 Dworp 2",
+    "tscore": "9",
+    "uscore": "7",
+    "tgem": "1763",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "Dini Stephane", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1833", "tstam": "", "ustam": "76317"},
+      {"tr": "2", "ur": "2", "tspeler": "Gabrielli", "uspeler": "Djuh Wasil", "telo": "", "uelo": "1776", "tstam": "", "ustam": "19402"},
+      {"tr": "1", "ur": "3", "tspeler": "Janssens", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1789", "tstam": "", "ustam": "2283"},
+      {"tr": "3", "ur": "1", "tspeler": "Saeys T", "uspeler": "Deneyer Hugo, "telo": "", "uelo": "1655", "tstam": "", "ustam": "98918"}
+    ]
+ },
+  {
+    "ronde": "5",
+    "datum": "08-01-1984",
+    "thuis": "228 Dworp 2",
+    "uit": "Mons 1",
+    "tscore": "11",
+    "uscore": "5",
+    "tgem": "1758",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "Rosseel Gilbert", "uspeler": "n.m.", "telo": "1813", "uelo": "", "tstam": "19372", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Taelemans Werner", "uspeler": "n.m.", "telo": "1789", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Djuh Wasil", "uspeler": "n.m.", "telo": "1776", "uelo": "", "tstam": "19402", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Deneyer Hugo", "uspeler": "n.m.", "telo": "1655", "uelo": "", "tstam": "98918", "ustam": ""}
+    ]
+  },
+   {
+    "ronde": "6",
+    "datum": "22-01-1984",
+    "thuis": "Ruisbroek 1",
+    "uit": "228 Dworp 2",
+    "tscore": "8",
+    "uscore": "8",
+    "tgem": "",
+    "ugem": "1756",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "Mattheys Eddy", "uspeler": "Debast Patrick", "telo": "", "uelo": "1824", "tstam": "", "ustam": "76333"},
+      {"tr": "2", "ur": "2", "tspeler": "Uylenbroek Roland", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1789", "tstam": "", "ustam": "2283"},
+      {"tr": "3", "ur": "1", "tspeler": "Stiens Kris", "uspeler": "Djuh Wasil", "telo": "", "uelo": "1776", "tstam": "", "ustam": "19402"},
+      {"tr": "1", "ur": "3", "tspeler": "Verboomen", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1633", "tstam": "", "ustam": "31348"}
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "05-02-1984",
+    "thuis": "228 Dworp 2",
+    "uit": "Waterloo 2",
+    "tscore": "9",
+    "uscore": "7",
+    "tgem": "1770",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "n.m.", "telo": "1824", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Rosseel Gilbert", "uspeler": "n.m.", "telo": "1813", "uelo": "", "tstam": "19372", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Taelemans Werner", "uspeler": "n.m.", "telo": "1789", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Deneyer Hugo", "uspeler": "n.m.", "telo": "1655", "uelo": "", "tstam": "98918", "ustam": ""}
+    ]
+  },
+   {
+    "ronde": "8",
+    "datum": "19-02-1984",
+    "thuis": "Flenu 1",
+    "uit": "228 Dworp 2",
+    "tscore": "9",
+    "uscore": "7",
+    "tgem": "",
+    "ugem": "1770",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "n.m.", "uspeler": "Debast Patrick", "telo": "", "uelo": "1824", "tstam": "", "ustam": "76333"},
+      {"tr": "1", "ur": "3", "tspeler": "n.m.", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1813", "tstam": "", "ustam": "19372"},
+      {"tr": "3", "ur": "1", "tspeler": "n.m.", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1789", "tstam": "", "ustam": "2283"},
+      {"tr": "3", "ur": "1", "tspeler": "n.m.", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "98918", "tstam": "", "ustam": "98918"}
+    ]
+  },
+   {
+    "ronde": "9",
+    "datum": "11-03-1984",
+    "thuis": "228 Dworp 2",
+    "uit": "Soignies 2",
+    "tscore": "5",
+    "uscore": "11",
+    "tgem": "1733",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Taelemans Werner", "uspeler": "n.m.", "telo": "1789", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Djuh Wasil", "uspeler": "n.m.", "telo": "1776", "uelo": "", "tstam": "19402", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Malfliet Bernard", "uspeler": "Coppens Jean", "telo": "1633", "uelo": "", "tstam": "31348", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Van Nerom Luc", "uspeler": "n.m.", "telo": "ng", "uelo": "", "tstam": "96246", "ustam": ""}
+    ]
+  }
+]
