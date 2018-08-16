@@ -24,9 +24,8 @@ social:
     - https://twitter.com/skdworp
     - https://www.facebook.com/skdworp
 logo: "/images/logo-dworp.png"
-#baseurl: "/skdworp" # hosting bij users.telenet.be
-baseurl: "" # hosting bij github en lokaal op 127.0.0.1:4000
-url: "http://www.skdworp.be"
+baseurl: ""
+url: "https://www.skdworp.be"
 clicky: true
 permalink: pretty
 # Build settings
