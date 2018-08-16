@@ -1,0 +1,146 @@
+[
+  {
+    "ronde": "1",
+    "datum": "23-10-1983",
+    "thuis": "228 Dworp 3",
+    "uit": "245 Caissa Anderlecht 6",
+    "tscore": "6",
+    "uscore": "10",
+    "tgem": "1643",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "Djuh Wasil", "uspeler": "n.m.", "telo": "1776", "uelo": "", "tstam": "19402", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Deklerck Willy", "uspeler": "n.m.", "telo": "1510", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Remory Freddy", "uspeler": "n.m.", "telo": "ng", "uelo": "", "tstam": "n.m.", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Denayer Franics", "uspeler": "n.m.", "telo": "ng", "uelo": "", "tstam": "n.m.", "ustam": ""},
+   ]
+  },
+  {
+    "ronde": "2",
+    "datum": "06-11-1983",
+    "thuis": "Caissa Woluwe",
+    "uit": "228 Dworp 3",
+    "tscore": "8",
+    "uscore": "8",
+    "tgem": "",
+    "ugem": "1510",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "n.m.", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1510", "tstam": "", "ustam": "27715"},
+      {"tr": "1", "ur": "3", "tspeler": "n.m.", "uspeler": "Remory Freddy", "telo": "", "uelo": "ng", "tstam": "", "ustam": "n.m."},
+      {"tr": "3", "ur": "1", "tspeler": "n.m.", "uspeler": "Denayer Francis", "telo": "", "uelo": "ng", "tstam": "", "ustam": "n.m."},
+      {"tr": "3", "ur": "1", "tspeler": "n.m.", "uspeler": "De Langhe Olaf", "telo": "", "uelo": "ng", "tstam": "", "ustam": "n.m."},
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "20-11-1983",
+    "thuis": "228 Dworp 3",
+    "uit": "Mons 2",
+    "tscore": "8",
+    "uscore": "8",
+    "tgem": "1705",
+    "ugem": "",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "Djuh Wasil", "uspeler": "n.m.", "telo": "1776", "uelo": "", "tstam": "19402", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Malfliet Bernard", "uspeler": "n.m.", "telo": "1633", "uelo": "", "tstam": "31348", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Remory Freddy", "uspeler": "n.m.", "telo": "ng", "uelo": "", "tstam": "n.m.", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Denayer Francis", "uspeler": "n.m.", "telo": "ng", "uelo": "", "tstam": "n.m.", "ustam": ""},
+     ]
+  },
+  {
+    "ronde": "4",
+    "datum": "4-12-1983",
+    "thuis": "La Louviere",
+    "uit": "228 Dworp 3",
+    "tscore": "9",
+    "uscore": "7",
+    "tgem": "",
+    "ugem": "1510",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "n.m.", "uspeler": "Van Nerom Luc", "telo": "", "uelo": "ng", "tstam": "", "ustam": "96246"},
+      {"tr": "2", "ur": "2", "tspeler": "n.m.", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1510", "tstam": "", "ustam": "27715"},
+      {"tr": "3", "ur": "1", "tspeler": "n.m.", "uspeler": "Remory Freddy", "telo": "", "uelo": "ng", "tstam": "", "ustam": "n.m."},
+      {"tr": "1", "ur": "3", "tspeler": "n.m.", "uspeler": "Denayer Francis", "telo": "", "uelo": "ng", "tstam": "", "ustam": "n.m."},
+      ]
+  },
+  {
+    "ronde": "5",
+    "datum": "08-01-1984",
+    "thuis": "228 Dworp 3",
+    "uit": "Tournai",
+    "tscore": "7",
+    "uscore": "9",
+    "tgem": "1535",
+    "ugem": "",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "Debouvere Pascal", "uspeler": "n.m.", "telo": "1708", "uelo": "", "tstam": "2372", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Deklerck Willy", "uspeler": "n.m.", "telo": "1510", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Denayer William", "uspeler": "n.m.", "telo": "1388", "uelo": "", "tstam": "98925", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Denayer Francis", "uspeler": "n.m.", "telo": "ng", "uelo": "", "tstam": "n.m.", "ustam": ""},
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "22-01-1984",
+    "thuis": "Ruisbroek 2",
+    "uit": "228 Dworp 3",
+    "tscore": "9",
+    "uscore": "7",
+    "tgem": "",
+    "ugem": "1624",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Huysman Bob", "uspeler": "Debouvere Pascal", "telo": "", "uelo": "1708", "tstam": "", "ustam": "2372"},
+      {"tr": "2", "ur": "2", "tspeler": "Meugens", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "1655", "tstam": "", "ustam": "98918"},
+      {"tr": "3", "ur": "1", "tspeler": "Matthys", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1510", "tstam": "", "ustam": "27715"},
+      {"tr": "3", "ur": "1", "tspeler": "Devos", "uspeler": "Remory Freddy", "telo": "", "uelo": "ng", "tstam": "", "ustam": "n.m."},
+    ]
+  },
+  {
+    "ronde": "7",
+    "datum": "05-02-1984",
+    "thuis": "228 Dworp 3",
+    "uit": "Flenu 2",
+    "tscore": "6",
+    "uscore": "10",
+    "tgem": "1510",
+    "ugem": "",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "Deklerck Willy", "uspeler": "n.m.", "telo": "1510", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Remory Freddy", "uspeler": "n.m.", "telo": "ng", "uelo": "", "tstam": "n.m.", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Denayer Francis", "uspeler": "n.m.", "telo": "ng", "uelo": "", "tstam": "n.m.", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Grandjean Luc", "uspeler": "n.m.", "telo": "ng", "uelo": "", "tstam": "98291", "ustam": ""},
+      ]
+  },
+  {
+    "ronde": "8",
+    "datum": "19-02-1984",
+    "thuis": "Nivelles 2",
+    "uit": "228 Dworp 3",
+    "tscore": "6",
+    "uscore": "10",
+    "tgem": "",
+    "ugem": "1671",
+    "borden": [
+      {"tr": "2", "ur": "2", "tspeler": "n.m.", "uspeler": "Debouvere Pascal", "telo": "", "uelo": "1708", "tstam": "", "ustam": "2372"},
+      {"tr": "1", "ur": "3", "tspeler": "n.m.", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1633", "tstam": "", "ustam": "31348"},
+      {"tr": "1", "ur": "3", "tspeler": "n.m.", "uspeler": "Remory Freddy", "telo": "", "uelo": "ng", "tstam": "", "ustam": "n.m."},
+      {"tr": "2", "ur": "2", "tspeler": "n.m.", "uspeler": "Denayer Francis", "telo": "", "uelo": "ng", "tstam": "", "ustam": "n.m."},
+    ]
+  },
+  {
+    "ronde": "9",
+    "datum": "11-03-1984",
+    "thuis": "228 Dworp 3",
+    "uit": "Thibaut 3",
+    "tscore": "4",
+    "uscore": "12",
+    "tgem": "1583",
+    "ugem": "",
+    "borden": [
+      {"tr": "1", "ur": "3", "tspeler": "Deneyer Hugo", "uspeler": "n.m.", "telo": "1655", "uelo": "", "tstam": "98918", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Deklerck Willy", "uspeler": "n.m.", "telo": "1510", "uelo": "", "tstam": "27715", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Malfliet Koen", "uspeler": "n.m.", "telo": "ng", "uelo": "", "tstam": "64327", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Denayer Francis", "uspeler": "n.m.", "telo": "", "uelo": "", "tstam": "n.m.", "ustam": ""},
+     ]
+  }
+]
