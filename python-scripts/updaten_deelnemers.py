@@ -579,7 +579,7 @@ class speler(object):
         self.titel = sp.titel
         self.land = sp.land
         self.svb = sp.svb
-        self.elo_ksbsb = sp.elo_kbsb
+        self.elo_kbsb = sp.elo_kbsb
         self.elo_fide = sp.elo_fide
         self.elo_blitz = sp.elo_blitz
 
