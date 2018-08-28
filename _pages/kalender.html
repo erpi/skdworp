@@ -1,32 +1,30 @@
 ---
 layout: pills
-title: kalender 2018
-description: Dworpse Schaakkring. Agenda 2018.
+title: kalender
+description: Dworpse Schaakkring. Agenda 2018-2019.
 permalink: /kalender/
 jaar1: "2018"
 jaar2: "2019"
 tabs:
   - 2018
-# - 2019
+  - 2019
   - externe kalenders
-last_modified_at: 2018-08-25
+last_modified_at: 2018-08-28
 ---
 {% assign tab = page.tabs[0] %}
 {% include tab-pane-start.html href=tab aktief=true %}
 {% include table-kalender.html jaar=page.jaar1 %}
 {% include tab-pane-end.html %}
 
-{% comment %}
 {% assign tab = page.tabs[1] %}
 {% include tab-pane-start.html href=tab aktief=false %}
 {% include table-kalender.html jaar=page.jaar2 %}
 {% include tab-pane-end.html %}
-{% endcomment %}
 
-{% comment %}
 {% assign tab = page.tabs[2] %}
-{% endcomment %}
+{% comment %}
 {% assign tab = page.tabs[1] %}
+{% endcomment %}
 {% include tab-pane-start.html href=tab aktief=false %}
 <h3>goede kalenders om het schaakgebeuren in belgië en omstreken te volgen</h3>
 <ul>
