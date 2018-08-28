@@ -1,7 +1,7 @@
 ---
 layout: compress
 description: "Welkom op de website van onze schaakclub. De roots van de club liggen in Dworp, schaken doen we tegenwoordig in Halle."
-last_modified_at: 2017-10-11
+last_modified_at: 2018-08-28
 hoofdpagina: true
 ---
 {% capture kk_link %}{{ "/klubkampioenschap/" | relative_url }}{% endcapture %}
@@ -20,6 +20,8 @@ hoofdpagina: true
     {% include head.html %}
     <!--  inline css: optimalisatie voor 'google speed insights' -->
     <style>{% include homepage.min.css %}</style>
+    <!-- the following extra css for OpenStreetMap kills the purpose of inlining css... -->
+    <link href="{{"/assets/css/leaflet-1.3.4.min.css" | relative_url }}" rel="stylesheet">
   </head>
   <body data-spy="scroll" data-target=".navbar" data-offset="50">
     <a href="#top" class="sr-only sr-only-focusable">￼doorgaan naar hoofdinhoud</a>
@@ -79,22 +81,13 @@ hoofdpagina: true
         <h2>lokatie</h2>
         <hr class="section-hr">
         <div class="row">
-          <div class="col-xs-12 col-sm-6">
-            <div class="gm-image" id="start65"></div>
-            <p class="lead">clubavonden hebben 's vrijdags plaats in een lokaal van</p>
+          <div class="col-xs-12">
+            <div class="osm-image" id="start65"></div>
+            <p class="lead">zowel clubavonden 's vrijdags als de nationale interclubs 's zondag vinden plaats in</p>
             <address class="lead">
               <strong>turncentrum start65</strong><br>
               oct. de kerchove d’exaerdestraat 214<br>
               1501 buizingen<br>
-            </address>
-          </div>
-          <div class="col-xs-12 col-sm-6">
-            <div class="gm-image" id="greunenhond"></div>
-            <p class="lead">de wedstrijden van de interclubs spelen we 's zondags in</p>
-            <address class="lead">
-              <strong>café greunenhond</strong><br>
-              vorstsesteenweg 154<br>
-              1601 ruisbroek<br>
             </address>
           </div>
         </div>
@@ -127,6 +120,5 @@ hoofdpagina: true
 
     {% include footer.html %}
     <script src="{{"/scripts/homepage.min.js" | relative_url }}"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHphI5tNhhW0hImFMhl-NAkiiq5M8Q1tw&callback=googleMapsInitialize" async defer></script>
   </body>
 </html>
