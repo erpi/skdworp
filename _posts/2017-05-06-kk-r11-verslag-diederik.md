@@ -51,8 +51,8 @@ Wanneer we naar de tussenstand kijken zien we dat er nog veel mogelijk is, een k
 
 ![hypothetische eindstand met 5 winnaars die eindigen met 7.5 uit 11][eindstand]
 
-[foto 1]: {{ "/images/kk1617/r11_foto_serge.jpg" | absolute_url }}
-[foto 2]: {{ "/images/kk1617/r11_foto_peter.jpg" | absolute_url }}
-[foto 3]: {{ "/images/kk1617/r11_foto_yves.jpg" | absolute_url }}
-[foto 4]: {{ "/images/kk1617/r11_foto_bernard.jpg" | absolute_url }}
-[eindstand]: {{ "/images/kk1617/r11_uitslag_hypo.png" | absolute_url }}
+[foto 1]: {{ "/assets/images/kk1617/r11_foto_serge.jpg" | absolute_url }}
+[foto 2]: {{ "/assets/images/kk1617/r11_foto_peter.jpg" | absolute_url }}
+[foto 3]: {{ "/assets/images/kk1617/r11_foto_yves.jpg" | absolute_url }}
+[foto 4]: {{ "/assets/images/kk1617/r11_foto_bernard.jpg" | absolute_url }}
+[eindstand]: {{ "/assets/images/kk1617/r11_uitslag_hypo.png" | absolute_url }}

@@ -45,6 +45,6 @@ Tot slot speelt **_Geert M._** op bord 2 met wit een dijk van een partij tegen e
 
 Er zijn zo van die dagen. Wetteren was vandaag Elo-gewijs één van de betere teams uit de afdeling. Welnu, ze raakten geen hout... Eerlijk is eerlijk: eigenlijk had het deze keer 1-5 voor ons moeten zijn. Vrijwel op elk bord liepen we er los over. En zo kunnen we dit seizoen waardig besluiten met een mooie overwinning en een zevende plaats in de rangschikking. Mits wat geconcentreerder spelen en wat meer Diederik eindigen we volgend jaar zeker nog een paar plaatsjes hoger. Iedereen bedankt, het was een fijn seizoen. Op naar IC 2017-2018!
 
-[foto 1]: {{ "/images/ni1617/r11_geert_foto_1.jpg" | absolute_url }}
-[foto 2]: {{ "/images/ni1617/r11_geert_foto_2.jpg" | absolute_url }}
-[foto 3]: {{ "/images/ni1617/r11_geert_foto_3.jpg" | absolute_url }}
+[foto 1]: {{ "/assets/images/ni1617/r11_geert_foto_1.jpg" | absolute_url }}
+[foto 2]: {{ "/assets/images/ni1617/r11_geert_foto_2.jpg" | absolute_url }}
+[foto 3]: {{ "/assets/images/ni1617/r11_geert_foto_3.jpg" | absolute_url }}

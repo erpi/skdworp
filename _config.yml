@@ -23,7 +23,7 @@ social:
   links:
     - https://twitter.com/skdworp
     - https://www.facebook.com/skdworp
-logo: "/images/logo-dworp.png"
+logo: "/assets/images/logo-dworp.png"
 baseurl: ""
 url: "https://www.skdworp.be"
 clicky: true
