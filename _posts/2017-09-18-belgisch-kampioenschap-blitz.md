@@ -7,7 +7,7 @@ fotograaf: Pieter
 layout: verslag
 excerpt_separator: <!--more-->
 image:
-  path: '/assets/images/1718/memorial/hautot.jpg'
+  path: '/assets/images/1718/mm/hautot.jpg'
 draft: false
 ---
 **Met een halfje voor op Elo-favoriet GM Alexandre Dgebuadze won Stéphane Hautot afgelopen zaterdag de vierde Memorial Debast, oftewel het Belgisch kampioenschap snelschaken.  Diederik was de lokale held en mag zich met zijn knappe 13de plaats champ van Vlaams-Brabant noemen. Een dikke pluim ook voor catering, organisatie en toernooileiding. Top Dworp!**<!--more-->
@@ -26,7 +26,7 @@ Voor de eerste editie van de Memorial in 2014 daagden 13 spelers op. Een jaar la
 
 ## Kwaliteit
 
-Niet alleen was er veel volk komen opdagen, ook de kwaliteit tekende present. Het Elo-vlaggenschip en de enige grootmeester in het gezelschap is de tot Belg genaturaliseerde Alexandre Dgebuadze. 
+Niet alleen was er veel volk komen opdagen, ook de kwaliteit tekende present. Het Elo-vlaggenschip en de enige grootmeester in het gezelschap is de tot Belg genaturaliseerde Alexandre Dgebuadze.
 
 ![foto Alexandre][foto dgebuadze]
 
@@ -58,12 +58,12 @@ Wie nog **meer foto's** wil bekijken: op [Facebook][2] of via [Google Foto's][1]
 
 De **eindstand** en **uitslagen** van het tornooi vind je [hier][3].
 
-[foto dgebuadze]: {{ "/assets/images/1718/memorial/dgebuadze.jpg" | absolute_url }}
-[foto hautot]: {{ "/assets/images/1718/memorial/hautot.jpg" | absolute_url }}
-[foto alienkin]: {{ "/assets/images/1718/memorial/alienkin.jpg" | absolute_url }}
-[foto diederik]: {{ "/assets/images/1718/memorial/diederik.jpg" | absolute_url }}
-[foto stijn]: {{ "/assets/images/1718/memorial/stijn.jpg" | absolute_url }}
-[foto tent]: {{ "/assets/images/1718/memorial/tent.jpg" | absolute_url }}
+[foto dgebuadze]: {{ "/assets/images/1718/mm/dgebuadze.jpg" | absolute_url }}
+[foto hautot]: {{ "/assets/images/1718/mm/hautot.jpg" | absolute_url }}
+[foto alienkin]: {{ "/assets/images/1718/mm/alienkin.jpg" | absolute_url }}
+[foto diederik]: {{ "/assets/images/1718/mm/diederik.jpg" | absolute_url }}
+[foto stijn]: {{ "/assets/images/1718/mm/stijn.jpg" | absolute_url }}
+[foto tent]: {{ "/assets/images/1718/mm/tent.jpg" | absolute_url }}
 [1]: https://photos.app.goo.gl/pAQAwdNFfAvWga1v2
 [2]: https://www.facebook.com/media/set/?set=a.1941555796060687.1073741830.1877050015844599&type=1&l=ca48fc1cac
 [3]: {{ "/memorial" | absolute_url }}

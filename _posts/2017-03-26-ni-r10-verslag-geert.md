@@ -49,8 +49,8 @@ Eruit komen doet die winst helaas niet. Op bord 6 belandt **_Peter_** na een Hol
 
 Op een bepaald moment zat de 1-5 erin. Voor de tegenstanders wel te verstaan. Brussels staat dan wel laatste in de stand, echt slecht spelen doen ze zeker niet. Dworp liet zich in dit carnavalweekend wel van zijn sportiefste kant zien. Naast het bord, de klokken van de laatkomers werden niet in gang gezet. En op het bord: kolder in de kop en een paard in de gang. Van de ultieme blamage, verliezen, bleven we nipt gespaard. En gelukkig hadden we het behoud al in de vorige ronde veilig gesteld.
 
-[foto 1]: {{ "/assets/images/ni1617/r10_geert_foto_1.jpg" | absolute_url }}
-[foto 2]: {{ "/assets/images/ni1617/r10_geert_foto_2.jpg" | absolute_url }}
-[foto 3]: {{ "/assets/images/ni1617/r10_geert_foto_3.jpg" | absolute_url }}
-[foto 4]: {{ "/assets/images/ni1617/r10_geert_foto_4.jpg" | absolute_url }}
-[foto 5]: {{ "/assets/images/ni1617/r10_geert_foto_5.jpg" | absolute_url }}
+[foto 1]: {{ "/assets/images/1617/ni/r10_geert_foto_1.jpg" | absolute_url }}
+[foto 2]: {{ "/assets/images/1617/ni/r10_geert_foto_2.jpg" | absolute_url }}
+[foto 3]: {{ "/assets/images/1617/ni/r10_geert_foto_3.jpg" | absolute_url }}
+[foto 4]: {{ "/assets/images/1617/ni/r10_geert_foto_4.jpg" | absolute_url }}
+[foto 5]: {{ "/assets/images/1617/ni/r10_geert_foto_5.jpg" | absolute_url }}

@@ -19,7 +19,6 @@ layout: verslag
 noindex: true
 sitemap: false
 image:
-  path: '/assets/images/walter_charleroi.jpg'
 excerpt_separator: <!--more-->
 ---
 Naar goede gewoonte waren er deze zomer tal van onze leden actief op verschillende grote en kleinere tornooien, tijd voor een kort verslagje dus.<!--more-->
@@ -38,4 +37,4 @@ In Charleroi was er ook een snelschaaktornooi waar ik aan deelnam. Het tempo was
 
 Als laatste tornooi deze zomer was er het open van Geraardsbergen met opnieuw een blitz tornooi in de marge. Aan het hoofdtornooi doen traditiegetrouw Eddy, Frank, Bob en Serge mee terwijl de blitz al jaren het domein is van Eric, Bernard, Serge en mezelf. Bernard kon er jammer genoeg niet bij zijn dit jaar en we vergeten de blitz liefst heel snel wegens de vrij povere scores (5.5/9 voor Serge en 4/9 voor Eric en mezelf), behalve dan dat het gezellig was en we wat reclame hebben kunnen maken voor de Memorial Debast. In het open tornooi waren vooral Frank en Serge op dreef. Serge speelde ei zo na de perfecte Manhattan Dodge maar slaagde er niet in zijn laatste ronde te winnen en liet zo de 2de plaats verloren gaan. Frank speelde van in het begin een sterk tornooi met mooie resultaten tegen +2000 spelers. Hij haalde in de laatste ronde remise tegen Schalckx (FM) en klokte, net als Serge, af op 6 punten. De laatste partijen van beide spelers waren trouwens [live te volgen online](http://madcuzbad.com/live/) (je hebt wel flash nodig om de partijen te kunnen zien en naspelen).
 
-[Walter]: {{ "/assets/images/walter_charleroi.jpg" | absolute_url }}
+[Walter]: {{ "/assets/images/1617/walter_charleroi.jpg" | absolute_url }}
