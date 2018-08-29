@@ -33,9 +33,11 @@ layout: default
   {% elsif tab contains "spelregels" %}
     {{ content }}
   {% elsif tab contains "eindstand" %}
-    {% include table-eindstand.html datafile=data %}
+    {% include table-op-eindstand.html datafile=data %}
   {% elsif tab contains "tussenstand" %}
     {% include table-op-tussenstand.html %}
+  {% endif %}
+  {% if tab contains "stand" %}
     <p>
       <span class="dworp">winnaar(s) van de avond in blauw</span><br>
     </p>
