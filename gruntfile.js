@@ -151,7 +151,7 @@ module.exports = function(grunt) {
     sassdir: '_sass/',
     builddir: 'build-grunt/',
     jekyllbuilddir: '_site/',
-    styledir: 'styles/',
+    styledir: 'assets/css/',
     includedir: '_includes/',
     navbar: navbar,
     navchess: navchess,
