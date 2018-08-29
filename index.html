@@ -1,7 +1,7 @@
 ---
 layout: compress
 description: "Welkom op de website van onze schaakclub. De roots van de club liggen in Dworp, schaken doen we tegenwoordig in Halle."
-last_modified_at: 2018-08-28
+last_modified_at: 2018-08-30
 hoofdpagina: true
 ---
 {% capture kk_link %}{{ "/klubkampioenschap/" | relative_url }}{% endcapture %}
@@ -18,9 +18,7 @@ hoofdpagina: true
 <html lang="nl-BE">
   <head>
     {% include head.html %}
-    <!--  inline css: optimalisatie voor 'google speed insights' -->
-    <style>{% include homepage.min.css %}</style>
-    <!-- the following extra css for OpenStreetMap kills the purpose of inlining css... -->
+    <link href="{{"/assets/css/homepage.min.css" | relative_url }}" rel="stylesheet">
     <link href="{{"/assets/css/leaflet-1.3.4.min.css" | relative_url }}" rel="stylesheet">
   </head>
   <body data-spy="scroll" data-target=".navbar" data-offset="50">

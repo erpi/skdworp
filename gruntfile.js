@@ -68,16 +68,8 @@ module.exports = function(grunt) {
           expand: true,
           nonull: true,
           cwd: '<%= builddir %>',
-          src: ['*.min.css', '!homepage*'],
+          src: '*.min.css',
           dest: '<%= styledir %>',
-        },
-        // kopieer inline css voor homepage naar _include directory van jekyll
-        {
-          expand: true,
-          nonull: true,
-          cwd: '<%= builddir %>',
-          src: 'homepage.min.css',
-          dest: '<%= includedir %>',
         }]
       },
     },
