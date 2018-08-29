@@ -1,0 +1,134 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "30-09-2018",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 1", "uit": "514 Fontaine 3"},
+      {"tr": "", "ur": "", "thuis": "174 Brasschaat 4", "uit": "114 Mechelen 2"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "244 Brussels 1"},
+      {"tr": "", "ur": "", "thuis": "521 Tournai 1", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "229 Woluwe 1", "uit": "417 Aalst 1"},
+      {"tr": "", "ur": "", "thuis": "278 Pantin 1", "uit": "462 Zottegem 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "07-10-2018",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "462 Zottegem 3", "uit": "548 Caissa Europe 1"},
+      {"tr": "", "ur": "", "thuis": "417 Aalst 1", "uit": "278 Pantin 1"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "229 Woluwe 1"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels 1", "uit": "521 Tournai 1"},
+      {"tr": "", "ur": "", "thuis": "114 Mechelen 2", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "514 Fontaine 3", "uit": "174 Brasschaat 4"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "28-10-2018",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 1", "uit": "174 Brasschaat 4"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "514 Fontaine 3"},
+      {"tr": "", "ur": "", "thuis": "521 Tournai 1", "uit": "114 Mechelen 2"},
+      {"tr": "", "ur": "", "thuis": "229 Woluwe 1", "uit": "244 Brussels 1"},
+      {"tr": "", "ur": "", "thuis": "278 Pantin 1", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "462 Zottegem 3", "uit": "417 Aalst 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "18-11-2018",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "417 Aalst 1", "uit": "548 Caissa Europe 1"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "462 Zottegem 3"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels 1", "uit": "278 Pantin 1"},
+      {"tr": "", "ur": "", "thuis": "114 Mechelen 2", "uit": "229 Woluwe 1"},
+      {"tr": "", "ur": "", "thuis": "514 Fontaine 3", "uit": "521 Tournai 1"},
+      {"tr": "", "ur": "", "thuis": "174 Brasschaat 4", "uit": "228 Dworp 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "02-12-2018",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 1", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "521 Tournai 1", "uit": "174 Brasschaat 4"},
+      {"tr": "", "ur": "", "thuis": "229 Woluwe 1", "uit": "514 Fontaine 3"},
+      {"tr": "", "ur": "", "thuis": "278 Pantin 1", "uit": "114 Mechelen 2"},
+      {"tr": "", "ur": "", "thuis": "462 Zottegem 3", "uit": "244 Brussels 1"},
+      {"tr": "", "ur": "", "thuis": "417 Aalst 1", "uit": "226 Europchess 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "03-02-2019",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "548 Caissa Europe 1"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels 1", "uit": "417 Aalst 1"},
+      {"tr": "", "ur": "", "thuis": "114 Mechelen 2", "uit": "462 Zottegem 3"},
+      {"tr": "", "ur": "", "thuis": "514 Fontaine 3", "uit": "278 Pantin 1"},
+      {"tr": "", "ur": "", "thuis": "174 Brasschaat 4", "uit": "229 Woluwe 1"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "521 Tournai 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "10-02-2019",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 1", "uit": "521 Tournai 1"},
+      {"tr": "", "ur": "", "thuis": "229 Woluwe 1", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "278 Pantin 1", "uit": "174 Brasschaat 4"},
+      {"tr": "", "ur": "", "thuis": "462 Zottegem 3", "uit": "514 Fontaine 3"},
+      {"tr": "", "ur": "", "thuis": "417 Aalst 1", "uit": "114 Mechelen 2"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "244 Brussels 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "24-02-2019",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "244 Brussels 1", "uit": "548 Caissa Europe 1"},
+      {"tr": "", "ur": "", "thuis": "114 Mechelen 2", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "514 Fontaine 3", "uit": "417 Aalst 1"},
+      {"tr": "", "ur": "", "thuis": "174 Brasschaat 4", "uit": "462 Zottegem 3"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "278 Pantin 1"},
+      {"tr": "", "ur": "", "thuis": "521 Tournai 1", "uit": "229 Woluwe 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "17-03-2019",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 1", "uit": "229 Woluwe 1"},
+      {"tr": "", "ur": "", "thuis": "278 Pantin 1", "uit": "521 Tournai 1"},
+      {"tr": "", "ur": "", "thuis": "462 Zottegem 3", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "417 Aalst 1", "uit": "174 Brasschaat 4"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "514 Fontaine 3"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels 1", "uit": "114 Mechelen 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "31-03-2019",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "114 Mechelen 2", "uit": "548 Caissa Europe 1"},
+      {"tr": "", "ur": "", "thuis": "514 Fontaine 3", "uit": "244 Brussels 1"},
+      {"tr": "", "ur": "", "thuis": "174 Brasschaat 4", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "417 Aalst 1"},
+      {"tr": "", "ur": "", "thuis": "521 Tournai 1", "uit": "462 Zottegem 3"},
+      {"tr": "", "ur": "", "thuis": "229 Woluwe 1", "uit": "278 Pantin 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "28-04/2019",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "278 Pantin 1", "uit": "548 Caissa Europe 1"},
+      {"tr": "", "ur": "", "thuis": "462 Zottegem 3", "uit": "229 Woluwe 1"},
+      {"tr": "", "ur": "", "thuis": "417 Aalst 1", "uit": "521 Tournai 1"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels 1", "uit": "174 Brasschaat 4"},
+      {"tr": "", "ur": "", "thuis": "114 Mechelen 2", "uit": "514 Fontaine 3"}
+    ]
+  }
+]

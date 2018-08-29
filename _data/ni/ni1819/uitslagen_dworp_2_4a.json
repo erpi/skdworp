@@ -1,0 +1,134 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "30-09-2018",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "607 KSK Rochade 3", "uit": "511 EDC 1"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "548 Caissa Europe 2"},
+      {"tr": "", "ur": "", "thuis": "541 Leuze 1", "uit": "525 Anderlues 1"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "952 Wavre 2"},
+      {"tr": "", "ur": "", "thuis": "961 Braine l'Alleud 1", "uit": "901 Namur 3"},
+      {"tr": "", "ur": "", "thuis": "501 CREC 3", "uit": "909 Philippeville 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "07-10-2018",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "607 KSK Rochade 3"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "501 CREC 3"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 2", "uit": "961 Braine l'Alleud 1"},
+      {"tr": "", "ur": "", "thuis": "525 Anderlues 1", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 2", "uit": "541 Leuze 1"},
+      {"tr": "", "ur": "", "thuis": "511 EDC 1", "uit": "228 Dworp 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "28-10-2018",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "607 KSK Rochade 3", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "541 Leuze 1", "uit": "511 EDC 1"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "548 Caissa Europe 2"},
+      {"tr": "", "ur": "", "thuis": "961 Braine l'Alleud 1", "uit": "525 Anderlues 1"},
+      {"tr": "", "ur": "", "thuis": "501 CREC 3", "uit": "952 Wavre 2"},
+      {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "901 Namur 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "18-11-2018",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "607 KSK Rochade 3"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 2", "uit": "909 Philippeville 1"},
+      {"tr": "", "ur": "", "thuis": "525 Anderlues 1", "uit": "501 CREC 3"},
+      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 2", "uit": "961 Braine l'Alleud 1"},
+      {"tr": "", "ur": "", "thuis": "511 EDC 1", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "541 Leuze 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "02-12-2018",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "607 KSK Rochade 3", "uit": "541 Leuze 1"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "961 Braine l'Alleud 1", "uit": "511 EDC 1"},
+      {"tr": "", "ur": "", "thuis": "501 CREC 3", "uit": "548 Caissa Europe 2"},
+      {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "525 Anderlues 1"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "952 Wavre 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "03-02-2019",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "952 Wavre 2", "uit": "607 KSK Rochade 3"},
+      {"tr": "", "ur": "", "thuis": "525 Anderlues 1", "uit": "901 Namur 3"},
+      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 2", "uit": "909 Philippeville 1"},
+      {"tr": "", "ur": "", "thuis": "511 EDC 1", "uit": "501 CREC 3"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "961 Braine l'Alleud 1"},
+      {"tr": "", "ur": "", "thuis": "541 Leuze 1", "uit": "239 Boitsfort 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "10-02-2019",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "607 KSK Rochade 3", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "961 Braine l'Alleud 1", "uit": "541 Leuze 1"},
+      {"tr": "", "ur": "", "thuis": "501 CREC 3", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "511 EDC 1"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "548 Caissa Europe 2"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 2", "uit": "525 Anderlues 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "24-02-2019",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "525 Anderlues 1", "uit": "607 KSK Rochade 3"},
+      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 2", "uit": "952 Wavre 2"},
+      {"tr": "", "ur": "", "thuis": "511 EDC 1", "uit": "901 Namur 3"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "909 Philippeville 1"},
+      {"tr": "", "ur": "", "thuis": "541 Leuze 1", "uit": "501 CREC 3"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "961 Braine l'Alleud 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "17-03-2019",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "607 KSK Rochade 3", "uit": "961 Braine l'Alleud 1"},
+      {"tr": "", "ur": "", "thuis": "501 CREC 3", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "541 Leuze 1"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 2", "uit": "511 EDC 1"},
+      {"tr": "", "ur": "", "thuis": "525 Anderlues 1", "uit": "548 Caissa Europe 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "31-03-2019",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 2", "uit": "607 KSK Rochade 3"},
+      {"tr": "", "ur": "", "thuis": "511 EDC 1", "uit": "525 Anderlues 1"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "952 Wavre 2"},
+      {"tr": "", "ur": "", "thuis": "541 Leuze 1", "uit": "901 Namur 3"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "909 Philippeville 1"},
+      {"tr": "", "ur": "", "thuis": "961 Braine l'Alleud 1", "uit": "501 CREC 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "28-04/2019",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "501 CREC 3", "uit": "607 KSK Rochade 3"},
+      {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "961 Braine l'Alleud 1"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 2", "uit": "541 Leuze 1"},
+      {"tr": "", "ur": "", "thuis": "525 Anderlues 1", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 2", "uit": "511 EDC 1"}
+    ]
+  }
+]
