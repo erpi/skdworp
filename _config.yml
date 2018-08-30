@@ -26,6 +26,7 @@ social:
 logo: "/assets/images/logo-dworp.png"
 baseurl: ""
 url: "https://www.skdworp.be"
+analytics: true
 clicky: true
 permalink: pretty
 # Build settings
