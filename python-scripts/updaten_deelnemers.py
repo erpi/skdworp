@@ -660,14 +660,14 @@ class speler(object):
         elif self.elo_fide:
             return (self.elo_fide, 'fide')
         else:
-            return (self.elo_kbsb, 'kbsb')
+            return (self.elo_kbsb, 'nationaal')
 
     @elo.setter
     def elo(self, value):
         if isinstance(value[1], basestring):
             soort = value[1].lower()
         try:
-            if soort == 'kbsb':
+            if soort == 'nationaal':
                 self.elo_kbsb = value[0]
             elif soort == 'fide':
                 self.elo_fide = value[0]
