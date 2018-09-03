@@ -50,7 +50,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
-paginate: 3
+paginate: 5
 paginate_path: "/journaal/pagina:num/"
 compress_html:
   clippings: all
