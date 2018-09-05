@@ -133,3 +133,7 @@ defaults:
       layout: snelschaak
       noindex: true
       sitemap: false
+  - scope:
+      path: "assets/**/*.pdf"
+    values:
+      sitemap: false
