@@ -5,7 +5,7 @@ description: Tornooiarchief van de Dworpse Schaakkring.
 permalink: /archief/
 last_modified_at: 2017-03-15
 ---
-### [palmares van de club]({{ "/palmares/" | relative_url }})
+### [erelijst van de club]({{ "/erelijst/" | relative_url }})
 
 ## klubkampioenschap
 

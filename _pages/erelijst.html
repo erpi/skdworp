@@ -1,0 +1,27 @@
+---
+layout: default
+title: Erelijst
+permalink: /erelijst/
+last_modified_at: 2018-09-07
+---
+<p class="lead">winnaars sinds 1971 van clubkampioenschap, snelschaak, open tornooi en prijs van de inzet</p>
+<div class="table-responsive">
+<table class="table table-condensed table-eindstand">
+  <thead>
+    <tr>
+      {% for kolom in site.data.erelijst[0] %}
+      <th>{{ kolom[0] | downcase }}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for persoon in site.data.erelijst reversed %}
+    <tr>
+      {% for kolom in persoon %}
+      <td>{{ kolom[1] | downcase }}</td>
+      {% endfor %}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+</div>

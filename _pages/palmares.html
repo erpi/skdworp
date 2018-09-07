@@ -1,27 +1,6 @@
 ---
-layout: default
-title: Palmares van de club
-description: Dworpse Schaakkring. Winnaars van clubkampioenschap, snelschaak, open tornooi en prijs van de inzet sinds 1971.
 permalink: /palmares/
-last_modified_at: 2018-09-07
+sitemap: false
 ---
-<div class="table-responsive">
-<table class="table table-condensed table-eindstand">
-  <thead>
-    <tr>
-      {% for kolom in site.data.palmares[0] %}
-      <th>{{ kolom[0] | downcase }}</th>
-      {% endfor %}
-    </tr>
-  </thead>
-  <tbody>
-    {% for persoon in site.data.palmares reversed %}
-    <tr>
-      {% for kolom in persoon %}
-      <td>{{ kolom[1] | downcase }}</td>
-      {% endfor %}
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
-</div>
+<meta http-equiv="refresh" content="0; url={{ '/erelijst'| absolute_url }}">
+<link rel="canonical" href="{{ '/erelijst'| absolute_url }}"/>
