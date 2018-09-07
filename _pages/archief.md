@@ -3,10 +3,8 @@ layout: default
 title: Tornooiarchief
 description: Tornooiarchief van de Dworpse Schaakkring.
 permalink: /archief/
-last_modified_at: 2017-03-15
+last_modified_at: 2018-09-07
 ---
-### [erelijst van de club]({{ "/erelijst/" | relative_url }})
-
 ## klubkampioenschap
 
 {% assign archief_kk = site.klubkampioenschap | sort: "beginjaar" | pop %}
