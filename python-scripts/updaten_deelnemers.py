@@ -380,7 +380,7 @@ class spreadsheet(object):
             sp.elo = (dlnr.get('elo'), dlnr.get('elo soort', ''))
             if sp.nieuw:
                 # een nieuwe inschrijving in de spreadsheet
-                self.rij_formatteren(row)
+                # self.rij_formatteren(row)
                 # er zijn 3 goede scenario's:
                 # 1. een juist fide id zonder een kbsb stamnummer
                 # 2. een juist fide id met het bijhorende juiste kbsb stamnr
@@ -439,11 +439,6 @@ class spreadsheet(object):
         """
         # door een bug in pygsheets 1.1.4 kunnen we enkel lege cellen formatteren
         # achtergrond
-        for kolom in [
-                'achternaam', 'voornaam', 'fide_id', 'stamnr', 'aanwezig',
-                'betaald', 'bedrag', 'jaar', 'titel', 'elo', 'elo soort',
-                'clubnr', 'svb', 'land']:
-            pass
         # # licht paarse achtergrond
         # cell = self.__wks.cell((rij, self._kolomnummers['Tijdstempel']))
         # cell.color = (0xd9/255, 0xd2/255, 0xe9/255, 0)
