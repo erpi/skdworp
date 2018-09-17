@@ -14,7 +14,7 @@ import time
 # gedefiniëerde bestandsnamen in constanten-module
 from constanten import log_bestand, service_creds_bestand, csv_bestand
 from constanten import sqlite_db_bestand, git_ssh_identity_bestand
-from constanten import git_dir, spreadsheet_key
+from constanten import git_dir, spreadsheet_key, zwarte_lijst
 # Change the current working directory.
 # When run from the scheduler, the cwd is /root but we don't have read
 # permission for that folder. If we don't change it, python exits with an
@@ -584,8 +584,11 @@ class speler(object):
         self.elo_blitz = sp.elo_blitz
 
     def vervolledigen(self, sp):
+        # vervelend geval?
+        if self.fide_id in zwarte_lijst:
+            self.auto_afwezig()
         # controleer correctheid van de spelersnaam
-        if self.naam.lower() == sp.naam.lower():
+        elif self.naam.lower() == sp.naam.lower():
             # alles correct, dus we kunnen aanwezigheid op 'ja' zetten
             self.auto_aanwezig()
         else:
@@ -597,6 +600,10 @@ class speler(object):
     def auto_aanwezig(self):
         if not self.aanwezig:
             self.aanwezig = 'ja (auto)'
+
+    def auto_afwezig(self):
+        if not self.aanwezig:
+            self.aanwezig = 'nee (auto)'
 
     def fout_met_de_stamnummers(self):
         if not self.aanwezig:
