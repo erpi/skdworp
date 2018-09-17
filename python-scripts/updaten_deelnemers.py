@@ -380,7 +380,7 @@ class spreadsheet(object):
             sp.elo = (dlnr.get('elo'), dlnr.get('elo soort', ''))
             if sp.nieuw:
                 # een nieuwe inschrijving in de spreadsheet
-                self.rij_formateren(row)
+                self.rij_formatteren(row)
                 # er zijn 3 goede scenario's:
                 # 1. een juist fide id zonder een kbsb stamnummer
                 # 2. een juist fide id met het bijhorende juiste kbsb stamnr
@@ -434,10 +434,10 @@ class spreadsheet(object):
                 sp.updaten(sp_db)
                 self.rij_updaten(row, sp, dlnr)
 
-    def rij_formateren(self, rij):
+    def rij_formatteren(self, rij):
         """past achtergrond en horizontale alignment aan van de rij
         """
-        # door een bug in pygsheets 1.1.4 kunnen we enkel lege cellen formateren
+        # door een bug in pygsheets 1.1.4 kunnen we enkel lege cellen formatteren
         # achtergrond
         for kolom in [
                 'achternaam', 'voornaam', 'fide_id', 'stamnr', 'aanwezig',
