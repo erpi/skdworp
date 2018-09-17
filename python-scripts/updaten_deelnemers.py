@@ -551,6 +551,7 @@ class speler(object):
                  jaar=None,
                  titel='',
                  land='',
+                 federatie='',
                  elo_kbsb=0,
                  elo_fide=0,
                  elo_blitz=0,
@@ -565,6 +566,7 @@ class speler(object):
         self.jaar = jaar
         self.titel = titel
         self.land = land
+        self.federatie = federatie
         self.elo_kbsb = elo_kbsb
         self.elo_fide = elo_fide
         self.elo_blitz = elo_blitz
@@ -578,6 +580,7 @@ class speler(object):
         self.jaar = sp.jaar
         self.titel = sp.titel
         self.land = sp.land
+        self.federatie = sp.federatie
         self.svb = sp.svb
         self.elo_kbsb = sp.elo_kbsb
         self.elo_fide = sp.elo_fide
@@ -641,8 +644,11 @@ class speler(object):
 
     @property
     def svb(self):
-        # TODO: wat met Brusselse leden van de VSF?
+        # Leden van clubs in Vlaans-Brabant zijn lid van SVB
         if self.clubnr in (228, 230, 231, 233, 234, 235, 240, 260, 261):
+            return 'ja'
+        # Leden van Brusselse clubs aangesloten bij VSF zijn lid van SVB
+        elif self.clubnr in (201, 204, 207, 209, 226, 229, 239, 244, 278, 289) and self.federatie == 'V':
             return 'ja'
         elif self._svb:
             return self._svb
@@ -819,10 +825,10 @@ class spelers_db(object):
 
     def __data_kbsb_speler(self, stam):
         self.__cursor.execute(
-            '''SELECT nom_prenom, club, date_naiss, elo_calcul, titre, natfide
+            '''SELECT nom_prenom, club, date_naiss, elo_calcul, titre, natfide, federation
             FROM {0} WHERE matricule=?'''.format(self._tb_kbsb), (stam, ))
         (self.__speler.naam, clubnr, datum, elo_kbsb, self.__speler.titel,
-         self.__speler.land) = self.__cursor.fetchone()
+         self.__speler.land, self.__speler.federatie) = self.__cursor.fetchone()
         # clubnr kan de waarde 0 hebben, elo_kbsb kan 0 of None zijn.
         # Omzetten naar integer.
         self.__speler.clubnr = int(clubnr)
