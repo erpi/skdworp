@@ -10,11 +10,12 @@ import sys
 import sqlite3
 import pygsheets  # versie 1.1.4 nodig, nieuwer zal niet werken
 import inspect
+import io
 import time
 # gedefiniëerde bestandsnamen in constanten-module
 from constanten import log_bestand, service_creds_bestand, csv_bestand
-from constanten import sqlite_db_bestand, git_ssh_identity_bestand
-from constanten import git_dir, spreadsheet_key, zwarte_lijst
+from constanten import swar_bestand, sqlite_db_bestand, git_ssh_identity_bestand
+from constanten import git_dir, spreadsheet_key, zwarte_lijst, swar_hoofding
 # Change the current working directory.
 # When run from the scheduler, the cwd is /root but we don't have read
 # permission for that folder. If we don't change it, python exits with an
@@ -536,6 +537,55 @@ class spreadsheet(object):
                     ]
                     writer.writerow(deelnemer)
 
+    def maak_csv_bestanden_met_deelnemers(self, bestand_website, bestand_swar):
+        """creëert 2 csv-bestanden (het tweede eerder een soort van ini). 
+        Het eerste voor de website met naam, titel, elo en clubnaam van elke 
+        aanwezige deelnemer. Het tweede voor het paringsprogramma SWAR met een 
+        lijst van deelnemers in chronologische volgorde van inschrijving.
+        """
+        f_web = open(bestand_website, 'w')
+        writer = csv.writer(f_web)
+        f_swar = io.open(bestand_swar, 'w', encoding='iso8859_15', newline='\r\n')
+        # hoofding bestanden schrijven
+        print('1')
+        writer.writerow(['achternaam', 'voornaam', 'titel', 'elo', 'club'])
+        print('2')
+        f_swar.write(swar_hoofding)
+        print('3')
+        # in volgende 2 sets houden we fide id's en stamnummers van de
+        # deelnemers bij, zodanig dat een deelnemer maximaal 1 keer in
+        # de bestanden kan komen
+        fide_ids = set()
+        stamnummers = set()
+        # itereren over alle rijen in de spreadsheet
+        deelnemers = self.__wks.get_all_records()
+        for deelnemer in deelnemers:
+            fid = deelnemer.get('fide_id')
+            stam = deelnemer.get('stamnr')
+            if (deelnemer.get('aanwezig') in ('ja', 'ja (auto)')
+                    and fid not in fide_ids and stam not in stamnummers):
+                if fid:  # geen lege of null-waarden toevoegen
+                    fide_ids.add(fid)
+                if stam:
+                    stamnummers.add(stam)
+                deelnemer = [
+                    unicode(k).encode('utf-8') for k in [
+                        deelnemer.get('achternaam', ''),
+                        deelnemer.get('voornaam', ''),
+                        deelnemer.get('titel', ''),
+                        deelnemer.get('elo'),
+                        clubnamen.get(deelnemer.get('clubnr'), '')
+                    ]
+                ]
+                writer.writerow(deelnemer)
+                if stam:
+                    f_swar.writelines([unicode(stam), u'\n'])
+                elif fid:
+                    f_swar.writelines([unicode(fid), u'\n'])
+        # afronden
+        f_web.close()
+        f_swar.close()
+
 
 class speler(object):
     def __init__(self,
@@ -845,7 +895,7 @@ def main():
         #     # git pull
         #     repo.remotes.origin.pull()
         #     # csv-bestand schrijven
-        #     sp.maak_csv_bestand_met_deelnemers(csv_bestand)
+        #     sp.maak_csv_bestanden_met_deelnemers(csv_bestand, swar_bestand)
         #     # git commit/push indien er iets veranderd is
         #     if repo.is_dirty():
         #         logger.info(repo.git.diff(unified=0))
