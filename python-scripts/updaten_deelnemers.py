@@ -636,7 +636,7 @@ class speler(object):
         if self.fide_id in zwarte_lijst:
             self.auto_afwezig()
         # controleer correctheid van de spelersnaam
-        elif self.naam.lower() == sp.naam.lower():
+        elif self.naam.strip().lower() == sp.naam.strip().lower():
             # alles correct, dus we kunnen aanwezigheid op 'ja' zetten
             self.auto_aanwezig()
         else:
