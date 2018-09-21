@@ -16,6 +16,7 @@ import time
 from constanten import log_bestand, service_creds_bestand, csv_bestand
 from constanten import swar_bestand, sqlite_db_bestand, git_ssh_identity_bestand
 from constanten import git_dir, spreadsheet_key, zwarte_lijst, swar_hoofding
+from constanten import maximum_deelnemers
 # Change the current working directory.
 # When run from the scheduler, the cwd is /root but we don't have read
 # permission for that folder. If we don't change it, python exits with an
@@ -547,11 +548,8 @@ class spreadsheet(object):
         writer = csv.writer(f_web)
         f_swar = io.open(bestand_swar, 'w', encoding='iso8859_15', newline='\r\n')
         # hoofding bestanden schrijven
-        print('1')
         writer.writerow(['achternaam', 'voornaam', 'titel', 'elo', 'club'])
-        print('2')
         f_swar.write(swar_hoofding)
-        print('3')
         # in volgende 2 sets houden we fide id's en stamnummers van de
         # deelnemers bij, zodanig dat een deelnemer maximaal 1 keer in
         # de bestanden kan komen
@@ -559,11 +557,14 @@ class spreadsheet(object):
         stamnummers = set()
         # itereren over alle rijen in de spreadsheet
         deelnemers = self.__wks.get_all_records()
+        i = 0
         for deelnemer in deelnemers:
             fid = deelnemer.get('fide_id')
             stam = deelnemer.get('stamnr')
             if (deelnemer.get('aanwezig') in ('ja', 'ja (auto)')
+                and i < maximum_deelnemers
                     and fid not in fide_ids and stam not in stamnummers):
+                i = i + 1
                 if fid:  # geen lege of null-waarden toevoegen
                     fide_ids.add(fid)
                 if stam:
