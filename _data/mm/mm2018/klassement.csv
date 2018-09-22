@@ -11,7 +11,7 @@ nummer,naam,rating,titel,f/m,club,nat,ptn,perf,res,kah,buch
 10,Dauw Sterre,1984,,M,Mechelen,BEL,9.0,2257,,26,103.5
 11,Verbist Julien,2049,,M,Woluwé,BEL,9.0,2086,,26,96.0
 12,Dardha Daniel,2321,FM,M,Hoboken,BEL,9.0,2321,,25,
-13,Soubirou Oriane,2068,,V,Boitsfort,FRA,8.5,2209,,25,105.0
+13,Soubirou Oriane,2068,,F,Boitsfort,FRA,8.5,2209,,25,105.0
 14,Cools Gorik,2276,FM,M,Hoboken,BEL,8.5,2134,,25,97.5
 ,Decrop Benjamin,2199,,M,KOSK Oostende,BEL,8.5,2103,,25,97.5
 16,Roos Adrian,2285,FM,M,Zottegem,BEL,8.5,2321,,24,115.5
@@ -33,7 +33,7 @@ nummer,naam,rating,titel,f/m,club,nat,ptn,perf,res,kah,buch
 32,Macai Ioan,1902,,M,Wavre,BEL,8.0,2099,,23,93.0
 33,Zelbel Patrick,2443,IM,M,KSK47 Eynatten,GER,8.0,2299,,22,110.5
 34,Dardha Arben,2168,FM,M,Hoboken,BEL,8.0,2064,,22,101.0
-35,Vanhuyse Nele,2062,WFM,V,Zottegem,BEL,7.5,2025,,22,95.0
+35,Vanhuyse Nele,2062,WFM,F,Zottegem,BEL,7.5,2025,,22,95.0
 36,Guion Geoffrey,2014,,M,Namur-Echecs,BEL,7.5,1987,,22,93.5
 ,Roels Frederik,2043,,M,KGSRL Gent,BEL,7.5,1938,,22,93.5
 38,Verheyen Olivier,1749,,M,Overpelt,BEL,7.5,2013,,22,92.5
@@ -52,14 +52,14 @@ nummer,naam,rating,titel,f/m,club,nat,ptn,perf,res,kah,buch
 51,Denys Frank,1876,,M,Dworp,BEL,7.0,1935,,21,89.5
 52,Verstraeten Jan,1922,,M,Zottegem,BEL,7.0,1873,,21,87.0
 53,Dekker Marvin,1894,,M,,AHO,7.0,1839,,21,84.5
-54,Musabayeva Diana,1441,,V,Mercatel,BEL,7.0,1733,,21,81.5
+54,Musabayeva Diana,1441,,F,Mercatel,BEL,7.0,1733,,21,81.5
 55,De Reymaeker Walter,1901,,M,Dworp,BEL,7.0,1734,,21,79.5
 56,Abidin Aysajan,1432,,M,Leuven Centraal,BEL,7.0,1649,,21,74.5
 57,Versyck Dominique,2026,,M,Opwijk,BEL,7.0,1941,,20,96.5
 58,Grigoriou Emmanouil,1922,,M,Woluwé,BEL,7.0,2004,,20,96.0
 59,Minet Julien,1898,,M,Tournai,BEL,7.0,2008,,20,88.0
 60,Korte Markus,1981,,M,,GER,7.0,1882,,20,87.5
-61,Gulieva Karina,1429,,V,Hoboken,RUS,7.0,1724,,20,81.0
+61,Gulieva Karina,1429,,F,Hoboken,RUS,7.0,1724,,20,81.0
 62,Van Bunderen Gert,1890,,M,Hoboken,BEL,7.0,1688,,20,69.0
 63,De Villers Mourad,2060,,M,Boitsfort,BEL,6.5,1889,,19,93.0
 64,Kegels Kristof,1865,,M,KGSRL Gent,BEL,6.5,1855,,19,82.5
@@ -89,7 +89,7 @@ nummer,naam,rating,titel,f/m,club,nat,ptn,perf,res,kah,buch
 88,De Blende Nando,1842,,M,Dendermonde,BEL,6.0,1794,,17,82.0
 89,Heldenbergh Nils,1631,,M,CRELEL Liège,BEL,6.0,1728,,17,81.0
 90,Chopin Christian,1679,,M,Tournai,FRA,6.0,1612,,17,78.0
-91,Dgebuadze Marie,1811,,V,KGSRL Gent,BEL,6.0,1762,,16,
+91,Dgebuadze Marie,1811,,F,KGSRL Gent,BEL,6.0,1762,,16,
 92,Beukema Constantijn,1557,,M,Brasschaat,BEL,5.5,1722,,16,87.5
 93,Vervaet Bart,1700,,M,Leuven Centraal,BEL,5.5,1704,,16,84.0
 94,Remue Jan,0,,M,Gentbrugge,BEL,5.5,1460,,16,75.5
@@ -118,14 +118,14 @@ nummer,naam,rating,titel,f/m,club,nat,ptn,perf,res,kah,buch
 117,Govoreanu Matei,1058,,M,Westerlo,BEL,4.5,1174,,12,
 118,Lehaire Philippe,1148,,M,Geraardsbergen,BEL,4.0,1140,,12,63.5
 119,Lerinckx Sander,0,,M,Dworp,BEL,4.0,1333,,12,60.0
-120,Pauwels Fien,0,,V,Dendermonde,BEL,4.0,1043,,12,58.5
+120,Pauwels Fien,0,,F,Dendermonde,BEL,4.0,1043,,12,58.5
 ,Steynen Christophe,1293,,M,Dworp,BEL,4.0,1170,,12,58.5
 122,Alves Renato,0,,M,Dendermonde,BEL,4.0,1153,,12,56.5
 123,Oloeriu Cezar,0,,M,KGSRL Gent,ROM,4.0,870,,12,53.5
-124,Souweine Edwige,1028,,V,Anderlecht,BEL,4.0,912,,12,52.0
+124,Souweine Edwige,1028,,F,Anderlecht,BEL,4.0,912,,12,52.0
 125,Palazoski Elvir,1525,,M,Excelsior,BEL,4.0,1387,,11,69.0
 126,Celiktas Ayhan,0,,M,KASK,BEL,4.0,1122,,11,64.5
-127,Van Der Voorde Sonja,1425,,V,Halle,BEL,4.0,1170,,11,60.5
+127,Van Der Voorde Sonja,1425,,F,Halle,BEL,4.0,1170,,11,60.5
 128,Nica Radu-Catalin,1453,,M,Excelsior,BEL,3.5,1317,,10,
 129,Van De Craen Piet,1602,,M,Brussels Chess Club,BEL,3.5,1271,,8,
 130,Vanrossum Matthias,0,,M,Dworp,BEL,2.5,719,,,
