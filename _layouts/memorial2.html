@@ -15,8 +15,10 @@ een seizoen start en eindigt op 1 september
 {% assign posts = false %}
 {% assign verslagen = site.posts | where:"tag","mm" %}
 {% for verslag in verslagen reversed %}
-  {% assign posttijd = verslag.date | date: '%s' | to_integer %}
-  {% if posttijd > eindtijd %}
+{% assign posttijd = verslag.date | date: '%s' | to_integer %}
+  {% if verslag.draft %}
+    {% break %}
+  {% elsif posttijd > eindtijd %}
     {% break %}
   {% elsif posttijd < begintijd %}
     {% continue %}
