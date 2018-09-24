@@ -58,7 +58,7 @@ Nog te vermelden valt dat ondergetekende, Frank en Walter net boven de helft (7/
 
 Hoewel de Fide er blijkbaar alles aan doet om het arbiters en tornooi-organisatoren zo moeilijk mogelijk te maken, hadden onze Dworpenaren onder leiding van Bernard en Pieter de zaakjes strak in handen. Mooi!
 
-Hetzelfde kan gezegd worden van de ravitaillering. Chips, warme en koude dranken, kleine versnaperingen, lokale en andere bieren gingen vlot van de hand. De regie van de bar was topklasse. 
+Hetzelfde kan gezegd worden van de ravitaillering waar het lot ons gunstig gezind was. Chips, warme en koude dranken, kleine versnaperingen, lokale en andere bieren gingen vlot van de hand. Vooral de chocoladewafels waren populair. De regie van de bar onder leiding van Hedwig, Adelheid en Gudrun was dan ook topklasse.
 
 ![foto medewerkers bar][foto 6]
 
