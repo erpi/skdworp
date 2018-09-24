@@ -66,4 +66,4 @@ De **eindstand** en **uitslagen** van het tornooi vind je [hier][3].
 [foto tent]: {{ "/assets/images/1718/mm/tent.jpg" | absolute_url }}
 [1]: https://photos.app.goo.gl/pAQAwdNFfAvWga1v2
 [2]: https://www.facebook.com/media/set/?set=a.1941555796060687.1073741830.1877050015844599&type=1&l=ca48fc1cac
-[3]: {{ "/memorial" | absolute_url }}
+[3]: {{ "/memorial-2017" | absolute_url }}
