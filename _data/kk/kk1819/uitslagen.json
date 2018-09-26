@@ -1,0 +1,626 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "05-10-2018",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Kristoff Bultinck"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonje Van Der Voorde",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Robert Huysman",
+        "zwart": "Niels Palmans"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Walter De Reymaeker",
+        "zwart": "Stijn Bertrand"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yves Baert",
+        "zwart": "Serge Vanderwaeren"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "19-10-2018",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Stijn Bertrand",
+        "zwart": "Yves Baert"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Walter De Reymaeker"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Robert Huysman"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Sonje Van Der Voorde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Kristoff Bultinck",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Eddy Pletinckx"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "16-11-2018",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonje Van Der Voorde",
+        "zwart": "Kristoff Bultinck"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Robert Huysman",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Walter De Reymaeker",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yves Baert",
+        "zwart": "Niels Palmans"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Stijn Bertrand"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "07-12-2018",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Stijn Bertrand"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Yves Baert"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Walter De Reymaeker"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Kristoff Bultinck",
+        "zwart": "Robert Huysman"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Sonje Van Der Voorde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Diederik Lot"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "21-12-2018",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonje Van Der Voorde",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Robert Huysman",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Walter De Reymaeker",
+        "zwart": "Kristoff Bultinck"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yves Baert",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Stijn Bertrand",
+        "zwart": "Niels Palmans"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "18-01-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Niels Palmans"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Stijn Bertrand"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Kristoff Bultinck",
+        "zwart": "Yves Baert"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Walter De Reymaeker"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Robert Huysman"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Sonje Van Der Voorde"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "01-02-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonje Van Der Voorde",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Robert Huysman",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Walter De Reymaeker",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yves Baert",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Kristoff Bultinck"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Stijn Bertrand",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Peter De Bosscher"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "15-02-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Niels Palmans"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Kristoff Bultinck",
+        "zwart": "Stijn Bertrand"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Yves Baert"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Walter De Reymaeker"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonje Van Der Voorde",
+        "zwart": "Robert Huysman"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "15-03-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Robert Huysman",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Walter De Reymaeker",
+        "zwart": "Sonje Van Der Voorde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yves Baert",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Stijn Bertrand",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Kristoff Bultinck"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Eric Cornelis"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "05-04-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Kristoff Bultinck",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Niels Palmans"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Stijn Bertrand"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonje Van Der Voorde",
+        "zwart": "Yves Baert"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Robert Huysman",
+        "zwart": "Walter De Reymaeker"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "19-04-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Walter De Reymaeker",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yves Baert",
+        "zwart": "Robert Huysman"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Sonje Van Der Voorde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Stijn Bertrand",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Kristoff Bultinck"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 12",
+    "datum": "03-05-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Kristoff Bultinck"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Niels Palmans"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonje Van Der Voorde",
+        "zwart": "Stijn Bertrand"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Robert Huysman",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Walter De Reymaeker",
+        "zwart": "Yves Baert"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 13",
+    "datum": "07-06-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yves Baert",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Walter De Reymaeker"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Stijn Bertrand",
+        "zwart": "Robert Huysman"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Sonje Van Der Voorde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Kristoff Bultinck",
+        "zwart": "Geert Verrijken"
+      }
+    ]
+  }
+]
