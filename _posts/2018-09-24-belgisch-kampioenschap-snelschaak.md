@@ -48,7 +48,7 @@ En hoe deden onze eigen tenoren het in dit selecte gezelschap? Zonder meer goed.
 
 ![foto Serge][foto 5]
 
-Het blijft in de familie. Hij neemt immers beide titels over van clubgenoot Diederik (1988) die met 8/13 en een tornooiprestatie van 2096 Elo evenzeer op een geslaagd tornooi kan terugblikken. Onder meer maakte hij Gorik Cools vakkundig af.
+Het blijft in de familie. Hij neemt immers beide titels over van clubgenoot Diederik (1988) die met 8/13 en een tornooiprestatie van 2096 Elo evenzeer op een geslaagd tornooi kan terugblikken. Diederik was onder meer trots op zijn gewonnen partij tegen Gorik Cools.
 
 De nummer drie van Dworp in dit tornooi is Tom Van Hoofstat met 7,5/13. Voor de meeste Dworpenaars is Tom niet meer dan een naam op de Elolijst. Hij heeft dan ook al 13 jaar geen stuk meer aangeraakt. Dit Belgische blitz-kampioenschap was zijn debuut voor Dworp na lange jaren stilliggen. We keken er met zijn allen (enfin ik toch) reikhalzend naar uit… Temeer daar hij nog steeds de trotse bezitter is van 2195 Elootjes. Alle begin is moeilijk (0/2) maar uiteindelijk trok Tom toch goed zijn streng. En ja, klasse drijft boven natuurlijk. Hopelijk heeft hij de smaak opnieuw te pakken en zien we hem snel weer.
 
