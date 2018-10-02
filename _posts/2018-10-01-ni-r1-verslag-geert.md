@@ -12,6 +12,8 @@ author: Geert,Diederik
 fotograaf: 
 date: 2018-10-01 21:30:00 +0100
 layout: verslag
+image:
+  path: 'assets/images/logo-dworp.png'
 excerpt_separator: <!--more-->
 ---
 ## Vooraf
