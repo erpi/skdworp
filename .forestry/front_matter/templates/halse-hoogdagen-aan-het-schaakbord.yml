@@ -1,0 +1,81 @@
+---
+label: Halse hoogdagen aan het schaakbord
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: tag
+  label: Tag
+  type: tag_list
+  hidden: false
+  default: ''
+- name: ni_d1_thuisploeg
+  label: Ni d1 thuisploeg
+  type: text
+  hidden: false
+  default: ''
+- name: ni_d1_uitploeg
+  label: Ni d1 uitploeg
+  type: text
+  hidden: false
+  default: ''
+- name: ni_ronde
+  label: Ni ronde
+  type: text
+  hidden: false
+  default: ''
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: excerpt_separator
+  label: Excerpt separator
+  type: text
+  hidden: false
+  default: ''
+- name: ni_d2_thuisploeg
+  label: Ni d2 thuisploeg
+  type: text
+  hidden: false
+  default: ''
+- name: ni_d2_uitploeg
+  label: Ni d2 uitploeg
+  type: text
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: field_group
+  fields:
+  - name: path
+    label: Path
+    type: file
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: ni_d3_thuisploeg
+  label: Ni d3 thuisploeg
+  type: text
+  hidden: false
+  default: ''
+- name: ni_d3_uitploeg
+  label: Ni d3 uitploeg
+  type: text
+  hidden: false
+  default: ''
