@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: _pages
+  label: _pages
+  create: all
+  match: "**/*"
+- type: directory
   path: _elo
   label: Elo
   create: all
