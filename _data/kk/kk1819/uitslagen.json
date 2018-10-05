@@ -10,8 +10,8 @@
         "zwart": "Bye"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Eddy Pletinckx",
         "zwart": "Kristoff Bultinck"
       },
@@ -22,26 +22,26 @@
         "zwart": "Eric Cornelis"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Sonja Van Der Voorde",
         "zwart": "Peter De Bosscher"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0,5",
+        "zr": "0,5",
         "wit": "Robert Huysman",
         "zwart": "Niels Palmans"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Walter De Reymaeker",
         "zwart": "Stijn Bertrand"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Yves Baert",
         "zwart": "Serge Vanderwaeren"
       }
