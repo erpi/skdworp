@@ -1,0 +1,130 @@
+---
+label: interclubs uit
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Titel van het verslag
+  type: text
+  hidden: false
+  default: ''
+  config:
+    required: true
+- name: author
+  label: Voornaam auteur
+  type: text
+  hidden: false
+  default: ''
+  description: 'Indien meerdere auteurs: scheiden met een komma (zonder spaties)'
+  config:
+    required: true
+- type: text
+  name: fotograaf
+  label: Voornaam fotograaf
+  description: 'Indien meerdere fotografen: scheiden met een komma (zonder spaties)'
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: verslag
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Datum en uur verslag
+  config:
+    required: true
+    date_format: DD/MM/YYYY
+    time_format: HH:mm
+    display_utc: false
+  default: ''
+  description: 'uur afronden naar beneden: bv. 21:00 indien 21:47'
+- type: text
+  name: tag
+  label: tag
+  hidden: true
+  config:
+    required: true
+  default: ni
+- name: ni_ronde
+  label: Ni ronde
+  type: text
+  hidden: false
+  default: ''
+  config:
+    required: true
+  description: van 1 tot 11
+- name: ni_d1_thuisploeg
+  label: 'Ploeg 1: naam thuisploeg'
+  type: text
+  hidden: false
+  default: ''
+  config:
+    required: true
+- name: ni_d2_thuisploeg
+  label: 'Ploeg 2: naam thuisploeg'
+  type: text
+  hidden: false
+  default: ''
+  config:
+    required: true
+- name: ni_d3_thuisploeg
+  label: 'Ploeg 3: naam thuisploeg'
+  type: text
+  hidden: false
+  default: ''
+  config:
+    required: true
+- name: ni_d1_uitploeg
+  label: 'Ploeg 1: naam bezoekers'
+  type: text
+  hidden: false
+  default: Dworp 1
+  config:
+    required: true
+- name: ni_d2_uitploeg
+  label: 'Ploeg 2: naam bezoekers'
+  type: text
+  hidden: false
+  default: Dworp 2
+  config:
+    required: true
+- name: ni_d3_uitploeg
+  label: 'Ploeg 3: naam bezoekers'
+  type: text
+  hidden: false
+  default: Dworp 3
+  config:
+    required: true
+- name: excerpt_separator
+  label: Excerpt separator
+  type: text
+  hidden: true
+  default: "<!--more-->"
+  config:
+    required: true
+- type: text
+  name: stelling_fen
+  description: bijvoorbeeld '3n2k1/p5p1/5p2/2R4p/8/P3rP2/5NPP/6K1 b - -'
+  label: FEN-notatie van de stelling (indien er een is...)
+- type: text
+  name: stelling_titel
+  description: bv. 'Combinatie van de dag'
+  label: Stelling titel
+- type: text
+  name: stelling_wit
+  description: achternaam indien geen speler van Dworp, bv. 'Peeters'
+  label: Stelling naam witspeler
+- type: text
+  name: stelling_zwart
+  description: voornaam indien speler van Dworp, bv. 'Serge'
+  label: Stelling naam zwartspeler
+- type: text
+  name: stelling_uitleg
+  description: 'een woordje uitleg over de stelling. bijvoorbeeld: ''halverwege de
+    partij werd een mooie mat over het hoofd gezien, zwart speelt en wint'''
+  label: Stelling uitleg
+- type: text
+  name: stelling_oplossing
+  label: Stelling oplossing
+  description: bv. '1...Te1+ en wit gaat mat achter de piketjes'
