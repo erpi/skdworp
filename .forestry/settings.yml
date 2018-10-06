@@ -9,7 +9,7 @@ sections:
   label: Data
   create: all
   match: "**/*"
-  new_doc_ext: ".csv"
+  new_doc_ext: csv
 - type: directory
   path: _pages
   label: _pages
