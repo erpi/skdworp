@@ -5,6 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: _data
+  label: Data
+  create: all
+  match: "**/*"
+  new_doc_ext: ".csv"
+- type: directory
   path: _pages
   label: _pages
   create: all
