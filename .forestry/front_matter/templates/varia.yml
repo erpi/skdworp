@@ -1,5 +1,5 @@
 ---
-label: interclubs uit
+label: klubkampioenschap
 hide_body: false
 is_partial: false
 fields:
@@ -45,57 +45,7 @@ fields:
   hidden: true
   config:
     required: true
-  default: ni
-- name: ni_ronde
-  label: Ni ronde
-  type: text
-  hidden: false
-  default: ''
-  config:
-    required: true
-  description: van 1 tot 11
-- name: ni_d1_thuisploeg
-  label: 'Ploeg 1: naam thuisploeg'
-  type: text
-  hidden: false
-  default: ''
-  config:
-    required: true
-- name: ni_d2_thuisploeg
-  label: 'Ploeg 2: naam thuisploeg'
-  type: text
-  hidden: false
-  default: ''
-  config:
-    required: true
-- name: ni_d3_thuisploeg
-  label: 'Ploeg 3: naam thuisploeg'
-  type: text
-  hidden: false
-  default: ''
-  config:
-    required: true
-- name: ni_d1_uitploeg
-  label: 'Ploeg 1: naam bezoekers'
-  type: text
-  hidden: false
-  default: Dworp 1
-  config:
-    required: true
-- name: ni_d2_uitploeg
-  label: 'Ploeg 2: naam bezoekers'
-  type: text
-  hidden: false
-  default: Dworp 2
-  config:
-    required: true
-- name: ni_d3_uitploeg
-  label: 'Ploeg 3: naam bezoekers'
-  type: text
-  hidden: false
-  default: Dworp 3
-  config:
-    required: true
+  default: varia
 - name: excerpt_separator
   label: Excerpt separator
   type: text
