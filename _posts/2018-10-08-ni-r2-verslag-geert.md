@@ -46,7 +46,7 @@ Op het vierde bord vecht **Walter** met wit in een Hollands Leningrad opening vo
 
 Over naar bord zes waar een talentvolle **Stijn** met de witte stukken een heel verdienstelijke partij speelde. Pionverlies wordt gecompenseerd door het loperpaar.  Helaas net niet genoeg. Stijn haalt nog alles uit de kast om de partij remise te houden maar uiteindelijk ondergaat hij de wet van de sterkste en moet hij de duimen leggen. De Maneblussers milderen. 2-3, nog steeds voor de goei.
 
-En dan is er **Frank** op bord 5 met zwart. Hij is als laatste bezig en weert zich als een duivel in een wijwatervat. Met twee pionnen tegen een stuk en na vijf uur spelen, fluit ook de vermoeidheid een deuntje mee natuurlijk. Zwart overziet in een zeer ingewikkeld eindspel helaas een winstcombinatie. Jammer maar het was een mooi gevecht en een boeiende  partij. De nul op het request zorgt voor een evenwichtige eindstand. 3-3 voor de goei!
+En dan is er **Frank** op bord 5 met zwart. Hij is als laatste bezig en weert zich als een duivel in een wijwatervat. Met twee pionnen tegen een stuk en na vijf uur spelen, fluit ook de vermoeidheid een deuntje mee natuurlijk. Zwart overziet in een zeer ingewikkeld eindspel helaas 47... c3! –de perfecte uitweg naar op zijn minst gelijkspel. Jammer maar het was een mooi slopend gevecht en een boeiende partij. De nul op het request zorgt voor een evenwichtige eindstand. 3-3 voor de goei!
 
 ## Op papier veel sterker Dworp 2 heeft berenpoot nodig
 
