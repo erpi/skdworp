@@ -20,6 +20,14 @@ feed: true
     {% assign tag =  post.tag %}
   {% endif %}
 
+  {% assign medewerkers = post.author | append: "," | append: post.fotograaf | split: "," %}
+  {% assign temp_werkers = '' | split: '' %}
+  {% for persoon in medewerkers %}
+    {% assign medewerker = persoon | strip | downcase %}
+    {% assign temp_werkers = temp_werkers | push: medewerker %}
+  {% endfor %}
+  {% assign medewerkers = temp_werkers | uniq | join: "," %}
+
   <article>
     <div style="padding:10px 30px 0px;">
     <header>
@@ -30,8 +38,7 @@ feed: true
     <footer>
       <p class="lead">
         <span class="fa fa-user" aria-hidden="true"></span>
-        {{ post.author | downcase }}{% if post.fotograaf and post.fotograaf != post.author %},{{ post.fotograaf | downcase }}{% endif %}
-        &nbsp; <span class="fa fa-tag" aria-hidden="true"></span>
+	{{ medewerkers }}&nbsp; <span class="fa fa-tag" aria-hidden="true"></span>
         {{ tag }}&nbsp; <span class="fa fa-clock-o" aria-hidden="true"></span>
         <time datetime="{{ post.date | date_to_xmlschema }}">{% include datum.html date=post.date %}</time></p>
     </footer>
