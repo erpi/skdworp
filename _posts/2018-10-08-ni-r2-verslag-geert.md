@@ -26,9 +26,9 @@ draft: false
 ---
 ## Vooraf
 
-Dworp zendt zijn zonen uit. Dat valt zelfs letterlijk te nemen. Want de opstellers van de kalender hebben ons echt niet in de watten gelegd. In ronde 2 moest er een ploeg naar Vlaanderen, een team naar Wallonië en eentje naar Brussel. Faut le faire.
+Dworp zendt zijn zonen uit. Dat valt zelfs letterlijk te nemen. Want de opstellers van de kalender hebben ons echt niet in de watten gelegd. In ronde 2 moest er een ploeg naar Vlaanderen, een team naar Wallonië en eentje naar Brussel. Faut le faire.<!--more-->
 
-Voor alle Dworpenaars geldt: falen is nog niet fataal. En dus kon iedereen fris van de lever aan de slag. Vorig jaar was Mechelen net een halfje te sterk voor Dworp 1. Zes op revanche beluste topschakers zakten dan ook af naar de stad van de Maneblussers. Terwijl voor team 2 EDC –ergens in Henegouwen- op papier een hapje was. Al vallen bedrijfsongevallen natuurlijk nooit uit te sluiten. Met het derde team in Brussel tegen CREB 3 kon het dan weer alle kanten uit.<!--more-->
+Voor alle Dworpenaars geldt: falen is nog niet fataal. En dus kon iedereen fris van de lever aan de slag. Vorig jaar was Mechelen net een halfje te sterk voor Dworp 1. Zes op revanche beluste topschakers zakten dan ook af naar de stad van de Maneblussers. Terwijl voor team 2 EDC –ergens in Henegouwen- op papier een hapje was. Al vallen bedrijfsongevallen natuurlijk nooit uit te sluiten. Met het derde team in Brussel tegen CREB 3 kon het dan weer alle kanten uit.
 
 ## Dworpse topborden halen verschroeiend uit
 
