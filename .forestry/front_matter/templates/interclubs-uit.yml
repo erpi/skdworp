@@ -129,9 +129,18 @@ fields:
   label: Stelling oplossing
   description: bv. '1...Te1+ en wit gaat mat achter de piketjes'
 - type: boolean
-  name: draft
+  name: draft1
   hidden: true
-  label: draft
+  label: klad
   default: true
+- type: text
+  name: draft
+  label: draft
+  config:
+    required: true
+  hidden: true
+  default: 'true'
+  description: verander 'true' in 'false' als het publiek het verslag mag vinden (=
+    publiceren)
 pages:
 - _posts/2018-10-08-ni-r2-verslag-geert.md
