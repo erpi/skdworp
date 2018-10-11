@@ -26,6 +26,7 @@ social:
 logo: "/assets/images/logo-dworp.png"
 baseurl: ""
 url: "https://www.skdworp.be"
+repository: "erpi/skdworp"
 analytics: true
 clicky: true
 permalink: pretty
