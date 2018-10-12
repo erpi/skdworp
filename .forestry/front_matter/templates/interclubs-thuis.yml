@@ -133,3 +133,5 @@ fields:
   hidden: true
   label: draft
   default: true
+pages:
+- _posts/test-2.md
