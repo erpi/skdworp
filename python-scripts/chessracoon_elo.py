@@ -33,7 +33,8 @@ if __name__ == "__main__":
         help="geef ook output in de console")
     args = parser.parse_args()
 
-    for jaar in range(1989, 2017):
+    for jaar in range(2018, 2019):
+    #for jaar in range(1989, 2017):
         for maand in ("01", "04", "07", "10"):
             # 2 publicaties per jaar vanaf juli 1990
             # 4 publicaties per jaar vanaf oktober 2013
