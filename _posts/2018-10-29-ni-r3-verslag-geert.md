@@ -21,7 +21,7 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 image:
   path: 'assets/images/1819/ni/r3_d3_niels_sander_niels.jpg'
-draft: true
+draft: false
 ---
 ## Vooraf
 
@@ -35,6 +35,8 @@ Met een Elo-gemiddelde van 2.115 voor Fontaine 3 tegenover 1.986 voor het toptea
 
 Op bord 3 had Kjell met wit als eerste gedaan. Zonder echt in de problemen te komen en met secuur spel stelde hij in een gelijke stelling remise voor. Dat werd aanvaard door zijn tegenstander (2.100 Elo). 0,5-0,5
 
+![foto 5 van de 6 tegenstanders][foto 2]
+
 Op bord 2 speelde Tom een complexe variant met zwart. Hij moest diep in zijn geheugen graven om zich de theorie te herinneren. Dat lukte goed en het was zelfs wit die waarschijnlijk als eerste in de fout ging. Daarna had Tom geen problemen. Helaas nadien ging er toch ineens iets verkeerd. Tom moest ‘all-in’ gaan. Het leek optisch op een mooie aanval maar het draaide op niets uit met materiaalverlies tot gevolg. Over en out.
 
 Of in Toms eigen prachtige proza: “Ik voel mij slecht! Zo slecht als iemand die voor het eerst in 13 jaar een schaakpartij verliest. Ik kwam nochtans zonder blauwe ogen of plaaster uit de opening. Volgens het scherpe oog van Serge zelfs meer dan tien zetten goeie theorie. Dan optimistisch willen doorbreken, te veel in mijn voordeel gerekend en tegen een tactische verdediging gebotst. Drie pionnen voor een toren was te weinig. Nog wat tijdnood bovenop en inpakken op zet 37. Bah, 2.200ers in derde klasse, er moest een wet tegen zijn. In mijn geheugen was deze Fabrice een ambetantere gast dan de sympathieke mens van vandaag. Of zat de uitslag er voor iets tussen? Nog twee weken om het te verwerken, of om weer voor een jaar of tien te stoppen...” Hoe dan ook: 0,5-1,5
@@ -42,6 +44,8 @@ Of in Toms eigen prachtige proza: “Ik voel mij slecht! Zo slecht als iemand di
 Over naar bord 5 waar Frank met wit min of meer hetzelfde deed als Kjell. Een solide remise die wel iets meer zetten vroeg. Geen van beide partijen lijkt ooit in gevaar te zijn geweest. Mooi resultaat van Frank tegen een plus 2.000-speler. Ook hier Frank zelf aan het woord: “de remisegrens werd nooit overschreden denk ik. Hoewel zwart toch een tikkeltje beter uit de opening kwam in een weinig gespeeld systeem (vroege dameruil) tegen mijn c3-variant van het Siciliaans. Aan de stand verandert er niets: 1-2.
 
 Op bord 6 speelde Filip met zwart een goede partij. Hij kwam degelijk uit de opening maar kreeg uiteindelijk druk tegen zijn koning. Tactisch overzag Filip iets (Dxg6 en hij kon niet terugslaan met zijn f-pion wegens penning) en daarna was er geen lieve moederen meer aan. 1-3
+
+![foto Serge, Tom, Kjell][foto 1]
 
 Tegen zijn gewoonte in had bord 1, Serge met wit, niet als eerste gedaan. Integendeel hij heeft 86 zetten gevochten voor remise en uiteindelijk haalde hij het halve punt ook binnen. Volgens Serge kon zijn tegenstander tot tweemaal toe een stuk winnen maar hij zag het niet. Wel stond serge plots een kwaliteit achter. Vreemd genoeg kan hij de stelling desondanks houden. Zijn tegenstander probeerde nog zeer lang maar moest uiteindelijk toch in remise berusten. Een zeer knappe prestatie tegen een tegenstander van 2.300 Elo. 1,5-3,5.
 
@@ -79,8 +83,8 @@ Het was onze beste (zon)dag niet afgelopen weekend. Weliswaar zijn er nogal wat 
 
 Tot slot nog dit. Het is nog vroeg in het seizoen, te vroeg om ons al zorgen te maken over het klassement. Maar beter vroeger dan later komt er toch best brood op de plank. Met andere woorden, de twee eerste ploegen zullen toch eens moeten gaan winnen. Liefst zo snel mogelijk natuurlijk. Afspraak binnen veertien dagen?
 
-[foto 1]: {{ "/assets/images/1819/ni/r3_d1_.jpg" | absolute_url }}
-[foto 2]: {{ "/assets/images/1819/ni/r3_d1_.jpg" | absolute_url }}
+[foto 1]: {{ "/assets/images/1819/ni/r3_d1_fontaine.jpg" | absolute_url }}
+[foto 2]: {{ "/assets/images/1819/ni/r3_d1_serge_tom_kjell.jpg" | absolute_url }}
 [foto 3]: {{ "/assets/images/1819/ni/r3_d2_clubhuis.jpg" | absolute_url }}
 [foto 4]: {{ "/assets/images/1819/ni/r3_d2_familie_2.jpg" | absolute_url }}
 [foto 5]: {{ "/assets/images/1819/ni/r3_d3_niels_sander_niels.jpg" | absolute_url }}
