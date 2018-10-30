@@ -25,7 +25,7 @@ Op bord 2, **_Diederik_** met zwart, ging het eveneens bliksemsnel. In een varia
 
 Vervolgens gaat er geruime tijd over alvorens **_Filip_** op bord 6 met zwart voor Dworp het tweede halfje van deze ontmoeting binnenhaalt. In een Bogo-Indische partij staat Filip geruime tijd slecht. Ook op dit bord verbruikt de Eurocraat gul tijd. Daarvan maakt Filip gebruik om uit de omknelling te geraken en een halfje te scoren. 1-2 achter.
 
-!\[foto van Filip met op de achtergrond Walter, Frank en Geert\]\[foto filip\]
+![foto van Filip met op de achtergrond Walter, Frank en Geert][foto filip]
 
 Op bord 6 win ik (**_Geert_**) met wit na een onorthodoxe behandeling van de opening door de zwartspeler een kwaliteit. Dit moet wel gewonnen zijn maar het blijft beestig ingewikkeld. In een woud van varianten verlies ik stilaan de trappers. Zwart slaagt erin zijn paarden op sterke velden te poseren en na nog enkele mindere witte zetten overspeelt de Europchess-speler mijn stelling totaal. Ja, 1-3 voor Europchess, hun redding is nabij.
 
@@ -35,13 +35,13 @@ Helaas staat **_Walter_** met zwart op bord 4 minder, wellicht verloren. Het bli
 
 ## Voorjaarsblues in vijfde afdeling
 
-!\[foto van Eric en Peter\]\[foto eric\]
+![foto van Eric en Peter][foto eric]
 
 Een onuitgegeven bezetting van het tweede team zorgt voor een tweede nederlaag in vijfde. Nochtans begint het goed want **_Eric_** op bord 2 haalt met zwart probleemloos remise tegen een sterkere tegenstander. 0,5-0,5.
 
 Daarna is het de beurt aan **_Mo_** die met zwart op bord 4 op zijn onnavolgbaar optimistische manier stukken offert en daarvoor helaas onvoldoende compensatie binnenhaalt. En dus geraakte het fiere winnende Dworpse team uit 5B in de problemen. 0,5-1,5 achter.
 
-!\[foto van Mo en Yves\]\[foto yves\]
+![foto van Mo en Yves][foto yves]
 
 Gelukkig maakt **_Peter_** met wit een sterk debuut op het eerste bord. Hij laat al snel van de tegenstander geen spaander heel. Zo slaagt onze man erin de stand opnieuw gelijk te trekken. 1,5-1,5.
 
@@ -51,6 +51,6 @@ Ons lot, althans toch in deze ronde, ligt in handen van **_Yves_** met wit op bo
 
 Tja… Slechts twee volle punten op tien partijen. Dat is niet om over naar huis te schrijven. Maar goed, er waren nogal wat verzachtende omstandigheden. Met de motivatie zat het duidelijk niet snor en bovendien stond de cava koud –bedankt bestuur! Het feestje werd alvast niet naar de haaien geholpen door een hardnekkig doorspelend bord zoals wel eens pleegt te gebeuren. De resultaten van de dag zorgden echter niet bepaald voor een geweldig uitgelaten stemming. We voelden onze kwetsbaarheid. Gelukkig smaakte de drank naar meer. Ad fundum commilitones! En tot fleus!
 
-\[foto filip\]: {{ "/assets/images/1718/ni/r11_foto_filip.jpg" | absolute_url }}
-\[foto eric\]: {{ "/assets/images/1718/ni/r11_foto_eric_peter.jpg" | absolute_url }}
-\[foto yves\]: {{ "/assets/images/1718/ni/r11_foto_yves_mo.jpg" | absolute_url }}
+[foto filip]: {{ "/assets/images/1718/ni/r11_foto_filip.jpg" | absolute_url }}
+[foto eric]: {{ "/assets/images/1718/ni/r11_foto_eric_peter.jpg" | absolute_url }}
+[foto yves]: {{ "/assets/images/1718/ni/r11_foto_yves_mo.jpg" | absolute_url }}
