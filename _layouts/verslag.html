@@ -44,6 +44,11 @@ layout: compress
           <p>klubkampioenschap ronde&nbsp;{{ page.kk_ronde }}</p>
           {% endif %}
           {{ content }}
+	  {% if page.tag == "ni" %}
+	  <p>
+	    <a href="{{ "interclubs" | absolute_url }}">uitslagen en standen interclubs</a>
+	  </p>  
+	  {% endif %}
           {% if page.stelling_fen and page.stelling_fen != "" %}
           <h2>{{ page.stelling_titel | downcase }}</h2>
             <div class="row">
@@ -61,6 +66,7 @@ layout: compress
                 <p><a href="https://nl.lichess.org/analysis/_{{ page.stelling_fen | replace: " ", "_"}}" target="_blank">lichess.org analyse bord</a><p>
               </div>
             </div>
+
           {% endif %}
         </div>
       </section>
@@ -80,5 +86,6 @@ layout: compress
       });
       </script>
     {% endif %}
+
   </body>
 </html>
