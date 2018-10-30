@@ -6,7 +6,6 @@ ni_d1_uitploeg: Fontaine 3
 ni_d2_uitploeg: Dworp 2
 ni_d3_uitploeg: Dworp 3
 excerpt_separator: "<!--more-->"
-draft1: true
 date: 2018-10-29 21:00:00 +0100
 author: Geert,Diederik,Tom,Frank
 fotograaf: Geert,Diederik,Yves
@@ -20,6 +19,8 @@ stelling_wit: ''
 stelling_zwart: ''
 stelling_uitleg: ''
 stelling_oplossing: ''
+image:
+  path: 'assets/images/1819/ni/r3_d3_niels_sander_niels.jpg'
 draft: true
 ---
 ## Vooraf
@@ -46,7 +47,9 @@ Tegen zijn gewoonte in had bord 1, Serge met wit, niet als eerste gedaan. Intege
 
 Diederik op bord 4 had als laatste gedaan. Zijn commentaar: “Ik stond eigenlijk de hele de partij wat onder druk maar mijn tegenstander had hevige tijdnood. Daardoor overzag hij –en ik ook trouwens- eenvoudige damewinst. Nadien weigerde ik veel te optimistisch zetherhaling en verloor de partij met een slechte loper tegen een goed paard. Een verdiende overwinning van mijn tegenstander over het gehele verloop van de partij. Al mag ik die zetherhaling natuurlijk nooit weigeren.” Eindstand 1,5-4,5
 
-## ‘Die Familien Roessler’ is ons net te sterk af
+## ‘Die Familie Rößler’ is ons net te sterk af
+
+![ingang clubhuis Rochade][foto 3]
 
 Ploeg 2 was in het verre Eupen als geheel zeker niet kansloos tegen Rochade 3 dat met een Elo-gemiddelde van 1.866 wat sterker was dan Dworp 2 (1.797). Dat gemiddelde verborg echter enorme verschillen. Te noteren valt ook dat we tegen vader, moeder en de twee zonen Roessler speelden. Een sympathiek familieschaakje als het ware.
 
@@ -54,18 +57,32 @@ Camiel op bord 2 had deze keer als eerste gedaan. Met wit speelde hij erg solide
 
 Minder vriendelijk –althans toch achter het bord, voor het overige en in de analyse een aardige man- was mijn tegenstander op bord 1. Om niet te zeggen dat ik met zwart na een minder goede zet met huid en haar werd opgepeuzeld. Lang heeft het niet geduurd. Of om een zekere Tom te parafraseren: “Bah, 2.195 Elo in vierde klasse, er moest een wet tegen zijn.” 1,5-0,5
 
+![de hele familie op een rij][foto 4]
+
 Wat wel betekende dat Peter en Eric minstens 1,5 punt moesten scoren om nog een gelijkspel uit de brand te slepen. Gezien de Elo-verhoudingen was dat niet onmogelijk. Het verhaal van beide partijen is trouwens onlosmakelijk verbonden. Eric op bord 4 stond met wit goed tot gewonnen. In tijdnood overzag hij echter verschillende winnende voortzettingen. Ondertussen had Peter op bord 3 met zwart –wonder, o wonder- meer tijd dan zijn tegenstander. Hoewel ingewikkeld leken beide kemphanen op remise af te stevenen. Maar vermits zijn kleine broertje op bord 4 hopeloos stond speelde deze Roessler –overigens de lokale clubkampioen- toch door. Uiteindelijk sloeg Eric zijn aanval echter niet door en verloor hij. Tegelijk gaf ook bord 3 op want in tijdnood en in zijn drang om te winnen had Peter hem stilaan zijn broek en bretellen afhandig gemaakt. Zo belanden we meteen in de eindstand: 2,5-1,5. Jammer er had een gelijkspel of zelfs meer in gezeten.
 
 ## Jeugd betaalt leergeld
 
 Tot slot zijn we aanbeland bij Dworp 3 dat deze ronde net over de taalgrens wipte en in het naburige Braine l’Alleud op zoek ging naar punten. En voor het eerst ook met twee jeugdspelers, met name de broertjes Lerinckx. Elogewijs is de thuisploeg wel favoriet (een gemiddelde van 1.328 Elo versus 1.274 voor Dworp). 
 
+![foto Niels junior, Sander en Niels senior][foto 5]
+
 Yves op bord 1 met zwart maakt vlot remise, weliswaar tegen een speler met bijna honderd Elo minder. Dan deed Niels P. het een stuk beter. Hij wint en wordt daarmee met een uitstekende 3 op 3 niet alleen topscorer van ploeg 3 maar ook van alle Dworpse teams. Knap gedaan en houden zo. Op naar de 11/11!
 
 Jammer genoeg konden de Lerinckx-brothers het niet houden tegen sterkere tegenstanders. Eerst gaat Niels voor de bijl en, ook al vecht hij als een (Vlaamse) leeuw, vervolgens ook Sander. En zo verliest Dworp 3 nipt met 2,5-1,5.
+
+![foto 4 lege borden met de koningen in het midden geplaatst][foto 6]
 
 ## Naspel
 
 Het was onze beste (zon)dag niet afgelopen weekend. Weliswaar zijn er nogal wat verzachtende omstandigheden. Om te beginnen speelden alle drie onze ploegen tegen Elogewijs sterkere tegenstanders. En hoe je het ook draait of keert: Elo’s geven de krachtverhoudingen zeer behoorlijk weer. Voor ploeg 2 is de afstand misschien ook nog een excuus. Hoewel, Camiel rijfde een vlotte remise binnen ondanks het feit dat hij aan het stuur zat. Een lichtpuntje ook zijn een aantal solide remises en winstpartijen tegen sterke tegenstanders. En nog. Nieuw, nieuw, nieuw! We gaan proberen zoveel mogelijk partijen in Lichess te steken. Zo kan iedereen ze naspelen en commentaar leveren.
 
 Tot slot nog dit. Het is nog vroeg in het seizoen, te vroeg om ons al zorgen te maken over het klassement. Maar beter vroeger dan later komt er toch best brood op de plank. Met andere woorden, de twee eerste ploegen zullen toch eens moeten gaan winnen. Liefst zo snel mogelijk natuurlijk. Afspraak binnen veertien dagen?
+
+[foto 1]: {{ "/assets/images/1819/ni/r3_d1_.jpg" | absolute_url }}
+[foto 2]: {{ "/assets/images/1819/ni/r3_d1_.jpg" | absolute_url }}
+[foto 3]: {{ "/assets/images/1819/ni/r3_d2_clubhuis.jpg" | absolute_url }}
+[foto 4]: {{ "/assets/images/1819/ni/r3_d2_familie_2.jpg" | absolute_url }}
+[foto 5]: {{ "/assets/images/1819/ni/r3_d3_niels_sander_niels.jpg" | absolute_url }}
+[foto 6]: {{ "/assets/images/1819/ni/r3_d3_resultaat.jpg" | absolute_url }}
+
