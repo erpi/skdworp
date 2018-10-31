@@ -43,7 +43,7 @@ Of in Toms eigen prachtige proza: “Ik voel mij slecht! Zo slecht als iemand di
 
 Over naar bord 5 waar Frank met wit min of meer hetzelfde deed als Kjell. Een solide remise die wel iets meer zetten vroeg. Geen van beide partijen lijkt ooit in gevaar te zijn geweest. Mooi resultaat van Frank tegen een plus 2.000-speler. Ook hier Frank zelf aan het woord: “de remisegrens werd nooit overschreden denk ik. Hoewel zwart toch een tikkeltje beter uit de opening kwam in een weinig gespeeld systeem (vroege dameruil) tegen mijn c3-variant van het Siciliaans. Aan de stand verandert er niets: 1-2.
 
-Op bord 6 speelde Filip met zwart een goede partij. Hij kwam degelijk uit de opening maar kreeg uiteindelijk druk tegen zijn koning. Tactisch overzag Filip iets (Dxg6 en hij kon niet terugslaan met zijn f-pion wegens penning) en daarna was er geen lieve moederen meer aan. 1-3
+Op bord 6 speelde Filip met zwart een goede partij. Hij kwam degelijk uit de opening maar kreeg uiteindelijk druk tegen zijn koning. Filip overzag Dg6. Tegen die zet viel nog prima te verdedigen, tegen de nauwkeurige aanvalszetten daarna helaas niet meer en was er geen lieve moederen meer aan. 1-3
 
 ![foto Serge, Tom, Kjell][foto 1]
 
