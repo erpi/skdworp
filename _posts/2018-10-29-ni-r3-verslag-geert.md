@@ -55,15 +55,15 @@ Diederik op bord 4 had als laatste gedaan. Zijn commentaar: “Ik stond eigenlij
 
 ![ingang clubhuis Rochade][foto 3]
 
-Ploeg 2 was in het verre Eupen als geheel zeker niet kansloos tegen Rochade 3 dat met een Elo-gemiddelde van 1.866 wat sterker was dan Dworp 2 (1.797). Dat gemiddelde verborg echter enorme verschillen. Te noteren valt ook dat we tegen vader, moeder en de twee zonen Roessler speelden. Een sympathiek familieschaakje als het ware.
+Ploeg 2 was in het verre Eupen als geheel zeker niet kansloos tegen Rochade 3 dat met een Elo-gemiddelde van 1.866 wat sterker was dan Dworp 2 (1.797). Dat gemiddelde verborg echter enorme verschillen. Te noteren valt ook dat we tegen vader, moeder en de twee zonen Rößler speelden. Een sympathiek familieschaakje als het ware.
 
-Camiel op bord 2 had deze keer als eerste gedaan. Met wit speelde hij erg solide. Blijkbaar had hij zijn wilde haren uit de twee vorige ronden thuis gelaten want als een echte gentleman kwam hij na niet te lange tijd remise overeen met moeder Roessler. 0,5-0,5
+Camiel op bord 2 had deze keer als eerste gedaan. Met wit speelde hij erg solide. Blijkbaar had hij zijn wilde haren uit de twee vorige ronden thuis gelaten want als een echte gentleman kwam hij na niet te lange tijd remise overeen met moeder Rößler. 0,5-0,5
 
 Minder vriendelijk –althans toch achter het bord, voor het overige en in de analyse een aardige man- was mijn tegenstander op bord 1. Om niet te zeggen dat ik met zwart na een minder goede zet met huid en haar werd opgepeuzeld. Lang heeft het niet geduurd. Of om een zekere Tom te parafraseren: “Bah, 2.195 Elo in vierde klasse, er moest een wet tegen zijn.” 1,5-0,5
 
 ![de hele familie op een rij][foto 4]
 
-Wat wel betekende dat Peter en Eric minstens 1,5 punt moesten scoren om nog een gelijkspel uit de brand te slepen. Gezien de Elo-verhoudingen was dat niet onmogelijk. Het verhaal van beide partijen is trouwens onlosmakelijk verbonden. Eric op bord 4 stond met wit goed tot gewonnen. In tijdnood overzag hij echter verschillende winnende voortzettingen. Ondertussen had Peter op bord 3 met zwart –wonder, o wonder- meer tijd dan zijn tegenstander. Hoewel ingewikkeld leken beide kemphanen op remise af te stevenen. Maar vermits zijn kleine broertje op bord 4 hopeloos stond speelde deze Roessler –overigens de lokale clubkampioen- toch door. Uiteindelijk sloeg Eric zijn aanval echter niet door en verloor hij. Tegelijk gaf ook bord 3 op want in tijdnood en in zijn drang om te winnen had Peter hem stilaan zijn broek en bretellen afhandig gemaakt. Zo belanden we meteen in de eindstand: 2,5-1,5. Jammer er had een gelijkspel of zelfs meer in gezeten.
+Wat wel betekende dat Peter en Eric minstens 1,5 punt moesten scoren om nog een gelijkspel uit de brand te slepen. Gezien de Elo-verhoudingen was dat niet onmogelijk. Het verhaal van beide partijen is trouwens onlosmakelijk verbonden. Eric op bord 4 stond met wit goed tot gewonnen. In tijdnood overzag hij echter verschillende winnende voortzettingen. Ondertussen had Peter op bord 3 met zwart –wonder, o wonder- meer tijd dan zijn tegenstander. Hoewel ingewikkeld leken beide kemphanen op remise af te stevenen. Maar vermits zijn kleine broertje op bord 4 hopeloos stond speelde deze Rößler –overigens de lokale clubkampioen- toch door. Uiteindelijk sloeg Eric zijn aanval echter niet door en verloor hij. Tegelijk gaf ook bord 3 op want in tijdnood en in zijn drang om te winnen had Peter hem stilaan zijn broek en bretellen afhandig gemaakt. Zo belanden we meteen in de eindstand: 2,5-1,5. Jammer er had een gelijkspel of zelfs meer in gezeten.
 
 ## Jeugd betaalt leergeld
 
