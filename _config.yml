@@ -27,7 +27,7 @@ logo: "/assets/images/logo-dworp.png"
 baseurl: ""
 url: "https://www.skdworp.be"
 repository: "erpi/skdworp"
-analytics: true
+analytics: false
 clicky: true
 permalink: pretty
 # Build settings
