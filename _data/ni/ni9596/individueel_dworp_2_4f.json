@@ -137,10 +137,10 @@
     "tgem": "1865",
     "ugem": "1808",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Levers Thierry", "uspeler": "Pletinckx Eddy", "telo": "1979", "uelo": "1897", "tstam": "63134", "ustam": "76325"},
-      {"tr": "1", "ur": "0", "tspeler": "Audin Thierry", "uspeler": "Maeckelbergh Geert", "telo": "1871", "uelo": "1859", "tstam": "81949", "ustam": "43419"},
-      {"tr": "1", "ur": "0", "tspeler": "Canneel Daniel", "uspeler": "De Bosscher Peter", "telo": "1786", "uelo": "1845", "tstam": "50113", "ustam": "655"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Canneel Michel", "uspeler": "Deklerck Willy", "telo": "1822", "uelo": "1629", "tstam": "49034", "ustam": "27715"}
+      {"tr": "1", "ur": "0", "tspeler": "Levers Thierry", "uspeler": "Pletinckx Eddy", "telo": "1979", "uelo": "1905", "tstam": "63134", "ustam": "76325"},
+      {"tr": "1", "ur": "0", "tspeler": "Audin Thierry", "uspeler": "Maeckelbergh Geert", "telo": "1871", "uelo": "1881", "tstam": "81949", "ustam": "43419"},
+      {"tr": "1", "ur": "0", "tspeler": "Canneel Daniel", "uspeler": "De Bosscher Peter", "telo": "1786", "uelo": "1779", "tstam": "50113", "ustam": "655"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Canneel Michel", "uspeler": "Deklerck Willy", "telo": "1822", "uelo": "1667", "tstam": "49034", "ustam": "27715"}
     ]
   },
   {
@@ -153,9 +153,9 @@
     "tgem": "1781",
     "ugem": "2015",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Demunck Jan", "telo": "1868", "uelo": "2125", "tstam": "76333", "ustam": "21938"},
-      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Desaegher Johan", "telo": "1845", "uelo": "2016", "tstam": "655", "ustam": "21717"},
-      {"tr": "0", "ur": "1", "tspeler": "Deklerck Willy", "uspeler": "Defre Walter", "telo": "1629", "uelo": "1983", "tstam": "27715", "ustam": "41955"},
+      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Demunck Jan", "telo": "1873", "uelo": "2125", "tstam": "76333", "ustam": "21938"},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Desaegher Johan", "telo": "1779", "uelo": "2016", "tstam": "655", "ustam": "21717"},
+      {"tr": "0", "ur": "1", "tspeler": "Deklerck Willy", "uspeler": "Defre Walter", "telo": "1667", "uelo": "1983", "tstam": "27715", "ustam": "41955"},
       {"tr": "0", "ur": "1", "tspeler": "Rousseau Frederik", "uspeler": "Peelman Lieven", "telo": "ng", "uelo": "1935", "tstam": "12769", "ustam": "89265"}
     ]
   },
@@ -169,10 +169,10 @@
     "tgem": "1836",
     "ugem": "1798",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Rogiers Jan", "uspeler": "Verstreken Erik", "telo": "2106", "uelo": "1849", "tstam": "48569", "ustam": "9270"},
-      {"tr": "1", "ur": "0", "tspeler": "Verhasselt Kris", "uspeler": "Debast Patrick", "telo": "1823", "uelo": "1868", "tstam": "34151", "ustam": "76333"},
-      {"tr": "1", "ur": "0", "tspeler": "Valcke Rudy", "uspeler": "De Bosscher Peter", "telo": "1716", "uelo": "1845", "tstam": "14419", "ustam": "655"},
-      {"tr": "1", "ur": "0", "tspeler": "De Bie Gert", "uspeler": "Deklerck Willy", "telo": "1697", "uelo": "1629", "tstam": "26581", "ustam": "27715"}
+      {"tr": "1", "ur": "0", "tspeler": "Rogiers Jan", "uspeler": "Verstreken Erik", "telo": "2106", "uelo": "1887", "tstam": "48569", "ustam": "9270"},
+      {"tr": "1", "ur": "0", "tspeler": "Verhasselt Kris", "uspeler": "Debast Patrick", "telo": "1823", "uelo": "1873", "tstam": "34151", "ustam": "76333"},
+      {"tr": "1", "ur": "0", "tspeler": "Valcke Rudy", "uspeler": "De Bosscher Peter", "telo": "1716", "uelo": "1779", "tstam": "14419", "ustam": "655"},
+      {"tr": "1", "ur": "0", "tspeler": "De Bie Gert", "uspeler": "Deklerck Willy", "telo": "1697", "uelo": "1667", "tstam": "26581", "ustam": "27715"}
     ]
   }
 ]
