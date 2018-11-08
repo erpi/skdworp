@@ -45,7 +45,7 @@
     "tgem": "2064",
     "ugem": "1967",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "Jaques Robrecht", "telo": "2299", "uelo": "1937", "tstam": "20621", "ustam": "51136"},
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "Jacques Robrecht", "telo": "2299", "uelo": "1937", "tstam": "20621", "ustam": "51136"},
       {"tr": "1", "ur": "0", "tspeler": "Van Mechelen Jan", "uspeler": "Van Praag Bart", "telo": "2283", "uelo": "1954", "tstam": "14354", "ustam": "17256"},
       {"tr": "0", "ur": "1", "tspeler": "Claes Raf", "uspeler": "Pelemans Joris", "telo": "2172", "uelo": "2002", "tstam": "38954", "ustam": "39543"},
       {"tr": "1", "ur": "0", "tspeler": "Heynen Koen", "uspeler": "Slootmaekers Romain", "telo": "2065", "uelo": "1992", "tstam": "27413", "ustam": "8613"},
@@ -147,7 +147,7 @@
     "ronde": "9",
     "datum": "",
     "thuis": "228 Dworp 1",
-    "uit": "KGSRL Gent 4",
+    "uit": "Ruy Lopez Gent 4",
     "tscore": "",
     "uscore": "",
     "tgem": "2004",
