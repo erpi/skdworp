@@ -41,10 +41,10 @@
     "tgem": "",
     "ugem": "1732",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Cludts", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1837", "tstam": "", "ustam": "76325"},
-      {"tr": "1", "ur": "0", "tspeler": "Cockaerts", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1786", "tstam": "", "ustam": "31526"},
-      {"tr": "0", "ur": "1", "tspeler": "Van Gelder", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1758", "tstam": "", "ustam": "76317"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Laemont", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1545", "tstam": "", "ustam": "76333"}
+      {"tr": "0", "ur": "1", "tspeler": "Cludts", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1837", "tstam": "", "ustam": "31348"},
+      {"tr": "1", "ur": "0", "tspeler": "Cockaerts", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1786", "tstam": "", "ustam": "2283"},
+      {"tr": "0", "ur": "1", "tspeler": "Van Gelder", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1758", "tstam": "", "ustam": "76325"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Laemont", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1545", "tstam": "", "ustam": "27715"}
     ]
   },
   {
@@ -131,7 +131,7 @@
     "ronde": "9",
     "datum": "16-03-1986",
     "thuis": "228 Dworp 2",
-    "uit": "209 SK Anderlecht",
+    "uit": "209 SK Anderlecht 5",
     "tscore": "4",
     "uscore": "0",
     "tgem": "1797",
