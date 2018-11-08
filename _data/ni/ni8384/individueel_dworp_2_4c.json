@@ -19,13 +19,13 @@
     "ronde": "2",
     "datum": "06-11-1983",
     "thuis": "228 Dworp 2",
-    "uit": "Carnieres",
+    "uit": "Carnières",
     "tscore": "5",
     "uscore": "11",
     "tgem": "1732",
     "ugem": "",
     "borden": [
-      {"tr": "2", "ur": "2", "tspeler": "Taelemans Werner", "uspeler": "n.m.", "telo": "1789", "uelo": "", "tstam": "2283", "ustam": ""},
+      {"tr": "2", "ur": "2", "tspeler": "Taelemans Werner", "uspeler": "Josse", "telo": "1789", "uelo": "", "tstam": "2283", "ustam": ""},
       {"tr": "1", "ur": "3", "tspeler": "Djuh Wasil", "uspeler": "n.m.", "telo": "1776", "uelo": "", "tstam": "19402", "ustam": ""},
       {"tr": "1", "ur": "3", "tspeler": "Debouvere Pascal", "uspeler": "n.m.", "telo": "1708", "uelo": "", "tstam": "2372", "ustam": ""},
       {"tr": "1", "ur": "3", "tspeler": "Deneyer Hugo", "uspeler": "n.m.", "telo": "1655", "uelo": "", "tstam": "98918", "ustam": ""}
@@ -54,8 +54,8 @@
     "uit": "228 Dworp 2",
     "tscore": "9",
     "uscore": "7",
-    "tgem": "1763",
-    "ugem": "",
+    "tgem": "",
+    "ugem": "1763",
     "borden": [
       {"tr": "3", "ur": "1", "tspeler": "Dini Stephane", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1833", "tstam": "", "ustam": "76317"},
       {"tr": "2", "ur": "2", "tspeler": "Gabrielli", "uspeler": "Djuh Wasil", "telo": "", "uelo": "1776", "tstam": "", "ustam": "19402"},
@@ -124,7 +124,7 @@
       {"tr": "2", "ur": "2", "tspeler": "n.m.", "uspeler": "Debast Patrick", "telo": "", "uelo": "1824", "tstam": "", "ustam": "76333"},
       {"tr": "1", "ur": "3", "tspeler": "n.m.", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1813", "tstam": "", "ustam": "19372"},
       {"tr": "3", "ur": "1", "tspeler": "n.m.", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1789", "tstam": "", "ustam": "2283"},
-      {"tr": "3", "ur": "1", "tspeler": "n.m.", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "98918", "tstam": "", "ustam": "98918"}
+      {"tr": "3", "ur": "1", "tspeler": "n.m.", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "1655", "tstam": "", "ustam": "98918"}
     ]
   },
    {
