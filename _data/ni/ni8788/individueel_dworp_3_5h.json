@@ -9,7 +9,7 @@
     "tgem": "",
     "ugem": "1786",
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Hock Diego", "uspeler": "Djuh", "telo": "", "uelo": "1826", "tstam": "83089", "ustam": "19402"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Hock Diego", "uspeler": "Djuh Wasile", "telo": "", "uelo": "1826", "tstam": "83089", "ustam": "19402"},
       {"tr": "1", "ur": "0", "tspeler": "Ben Mahmoud Mahmoud", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1746", "tstam": "72761", "ustam": "27715"},
       {"tr": "1", "ur": "0", "tspeler": "De Meester David", "uspeler": "Dewilde Eric", "telo": "", "uelo": "ng", "tstam": "90417", "ustam": "43401"},
       {"tr": "1", "ur": "0", "tspeler": "De Man Paul", "uspeler": "Neven Pascal", "telo": "", "uelo": "ng", "tstam": "53813", "ustam": "43427"}
@@ -27,7 +27,7 @@
     "borden": [
       {"tr": "0", "ur": "1", "tspeler": "Deklerck Willy", "uspeler": "Mattheys Eddy", "telo": "1746", "uelo": "", "tstam": "27715", "ustam": "87912"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "De Smedt Jean Pierre", "uspeler": "Meugens Eric", "telo": "1686", "uelo": "", "tstam": "33910", "ustam": "4472"},
-      {"tr": "0", "ur": "1", "tspeler": "Dewilde Eric", "uspeler": "Uylenroeck Roland", "telo": "ng", "uelo": "", "tstam": "43401", "ustam": "65935"},
+      {"tr": "0", "ur": "1", "tspeler": "Dewilde Eric", "uspeler": "Uylenbroeck Roland", "telo": "ng", "uelo": "", "tstam": "43401", "ustam": "65935"},
       {"tr": "0", "ur": "1", "tspeler": "Neven Pascal", "uspeler": "Toujour Andr\u00e9", "telo": "ng", "uelo": "", "tstam": "43427", "ustam": "9989"}
     ]
   },
@@ -100,15 +100,15 @@
     "datum": "20-03-1988",
     "thuis": "280 Chess Club 1",
     "uit": "228 Dworp 3",
-    "tscore": "",
-    "uscore": "",
+    "tscore": "0",
+    "uscore": "4",
     "tgem": "",
     "ugem": "1694",
     "borden": [
-      {"tr": "", "ur": "", "tspeler": "NN", "uspeler": "Verstreken Erik", "telo": "", "uelo": "1772", "tstam": "", "ustam": "9270"},
-      {"tr": "", "ur": "", "tspeler": "NN", "uspeler": "Malfliet Koen", "telo": "", "uelo": "1616", "tstam": "", "ustam": "64327"},
-      {"tr": "", "ur": "", "tspeler": "NN", "uspeler": "Dewilde Eric", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43401"},
-      {"tr": "", "ur": "", "tspeler": "NN", "uspeler": "Neven Pascal", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43427"}
+      {"tr": "0", "ur": "1", "tspeler": "NN", "uspeler": "Verstreken Erik", "telo": "", "uelo": "1772", "tstam": "", "ustam": "9270"},
+      {"tr": "0", "ur": "1", "tspeler": "NN", "uspeler": "Malfliet Koen", "telo": "", "uelo": "1616", "tstam": "", "ustam": "64327"},
+      {"tr": "0", "ur": "1", "tspeler": "NN", "uspeler": "Dewilde Eric", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43401"},
+      {"tr": "0", "ur": "1", "tspeler": "NN", "uspeler": "Neven Pascal", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43427"}
     ]
   }
 ]
