@@ -6,13 +6,13 @@
     "uit": "228 Dworp 3",
     "tscore": "5",
     "uscore": "11",
-    "tgem": "1395",
-    "ugem": "",
+    "tgem": "",
+    "ugem": "1395",
     "borden": [
       {"tr": "2", "ur": "2", "tspeler": "Wollansky", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99152"},
       {"tr": "1", "ur": "3", "tspeler": "Deineko", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1645", "tstam": "", "ustam": "2283"},
       {"tr": "1", "ur": "3", "tspeler": "Bastogne", "uspeler": "Trompeter Hubert", "telo": "", "uelo": "1145", "tstam": "", "ustam": "45454"},
-      {"tr": "1", "ur": "2", "tspeler": "Cornil", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "ng", "tstam": "", "ustam": "98918"}
+      {"tr": "1", "ur": "3", "tspeler": "Cornil", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "ng", "tstam": "", "ustam": "98918"}
     ]
   }, 
  {
@@ -25,7 +25,7 @@
     "tgem": "",
     "ugem": "1395",
     "borden": [
-      {"tr": "1", "ur": "3", "tspeler": "Careme", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99152"},
+      {"tr": "1", "ur": "3", "tspeler": "Carême", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99152"},
       {"tr": "2", "ur": "2", "tspeler": "Tuss", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1645", "tstam": "", "ustam": "2283"},
       {"tr": "3", "ur": "1", "tspeler": "Mercer", "uspeler": "Trompeter Hubert", "telo": "", "uelo": "1145", "tstam": "", "ustam": "45454"},
       {"tr": "1", "ur": "3", "tspeler": "Verschoren", "uspeler": "Lejeune Guy", "telo": "", "uelo": "ng", "tstam": "", "ustam": "70572"}
@@ -54,8 +54,8 @@
     "uit": "228 Dworp 3",
     "tscore": "9",
     "uscore": "7",
-    "tgem": "1395",
-    "ugem": "",
+    "tgem": "",
+    "ugem": "1395",
     "borden": [
       {"tr": "1", "ur": "3", "tspeler": "Janssens Guy", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99152"},
       {"tr": "3", "ur": "1", "tspeler": "Vereerthbruggen Walter", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1645", "tstam": "", "ustam": "2283"},
