@@ -105,7 +105,7 @@
     "tgem": "1828",
     "ugem": "1779",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "0", "ur": "1", "tspeler": "(forfait)", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1958", "tstam": "", "ustam": "2283"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Masure Luc", "uspeler": "Cornelis Eric", "telo": "1888", "uelo": "1891", "tstam": "59811", "ustam": "76317"},
       {"tr": "1", "ur": "0", "tspeler": "Knudde Francis", "uspeler": "Deklerck Willy", "telo": "1812", "uelo": "1667", "tstam": "71081", "ustam": "27715"},
       {"tr": "1", "ur": "0", "tspeler": "Verbeque Roger", "uspeler": "van Duuren Louis", "telo": "1785", "uelo": "ng", "tstam": "89613", "ustam": "26816"}
@@ -137,10 +137,10 @@
     "tgem": "1740",
     "ugem": "1868",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Vandervorst Marc", "uspeler": "Taelemans Werner", "telo": "1824", "uelo": "2006", "tstam": "71099", "ustam": "2283"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Pitropakis Kyriakos", "uspeler": "Cornelis Eric", "telo": "1684", "uelo": "1843", "tstam": "43605", "ustam": "76317"},
-      {"tr": "1", "ur": "0", "tspeler": "Degrave Geoffrey", "uspeler": "Maeckelbergh Mieke", "telo": "1735", "uelo": "1843", "tstam": "81388", "ustam": "353"},
-      {"tr": "0", "ur": "1", "tspeler": "Noe Philippe", "uspeler": "van Duuren Louis", "telo": "1715", "uelo": "1781", "tstam": "93122", "ustam": "26816"}
+      {"tr": "1", "ur": "0", "tspeler": "Vandervorst Marc", "uspeler": "Taelemans Werner", "telo": "1824", "uelo": "1958", "tstam": "71099", "ustam": "2283"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Pitropakis Kyriakos", "uspeler": "Cornelis Eric", "telo": "1684", "uelo": "1891", "tstam": "43605", "ustam": "76317"},
+      {"tr": "1", "ur": "0", "tspeler": "Degrave Geoffrey", "uspeler": "Maeckelbergh Mieke", "telo": "1735", "uelo": "1876", "tstam": "81388", "ustam": "353"},
+      {"tr": "0", "ur": "1", "tspeler": "Noe Philippe", "uspeler": "van Duuren Louis", "telo": "1715", "uelo": "ng", "tstam": "93122", "ustam": "26816"}
     ]
   },
   {
@@ -153,26 +153,26 @@
     "tgem": "1826",
     "ugem": "1770",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Taelemans Werner", "uspeler": "Vandecasteele Louis", "telo": "2006", "uelo": "1936", "tstam": "2283", "ustam": "73504"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Decellier Patrick", "telo": "1843", "uelo": "1773", "tstam": "76317", "ustam": "84735"},
-      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "Serifi Bafkar", "telo": "1843", "uelo": "1691", "tstam": "353", "ustam": "49336"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Van der Voorde Sonja", "uspeler": "Gosseye Christophe", "telo": "1613", "uelo": "1678", "tstam": "43346", "ustam": "74161"}
+      {"tr": "0", "ur": "1", "tspeler": "Taelemans Werner", "uspeler": "Vandecasteele Louis", "telo": "1958", "uelo": "1936", "tstam": "2283", "ustam": "73504"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Decellier Patrick", "telo": "1891", "uelo": "1773", "tstam": "76317", "ustam": "84735"},
+      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "Serifi Bafkar", "telo": "1876", "uelo": "1691", "tstam": "353", "ustam": "49336"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van der Voorde Sonja", "uspeler": "Gosseye Christophe", "telo": "1587", "uelo": "1678", "tstam": "43346", "ustam": "74161"}
     ]
   },
   {
     "ronde": "11",
     "datum": "17-03-1996",
-    "thuis": "526 Montagnards 2",
+    "thuis": "526 Montigny 2",
     "uit": "228 Dworp 1",
     "tscore": "0",
     "uscore": "4",
     "tgem": "1694",
     "ugem": "1843",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Courbot Luc", "uspeler": "Cornelis Eric", "telo": "1717", "uelo": "1843", "tstam": "68667", "ustam": "76317"},
-      {"tr": "0", "ur": "1", "tspeler": "Courbot Jean-Luc", "uspeler": "Maeckelbergh Mieke", "telo": "1671", "uelo": "1843", "tstam": "64441", "ustam": "353"},
-      {"tr": "0", "ur": "1", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
+      {"tr": "0", "ur": "1", "tspeler": "(forfait)", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1958", "tstam": "", "ustam": "2283"},
+      {"tr": "0", "ur": "1", "tspeler": "Courbot Luc", "uspeler": "Cornelis Eric", "telo": "1717", "uelo": "1891", "tstam": "68667", "ustam": "76317"},
+      {"tr": "0", "ur": "1", "tspeler": "Courbot Jean-Luc", "uspeler": "Maeckelbergh Mieke", "telo": "1671", "uelo": "1876", "tstam": "64441", "ustam": "353"},
+      {"tr": "0", "ur": "1", "tspeler": "(forfait)", "uspeler": "Van Duuren Louis", "telo": "", "uelo": "ng", "tstam": "", "ustam": "26816"}
     ]
   }
 ]
