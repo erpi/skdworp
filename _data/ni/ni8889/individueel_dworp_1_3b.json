@@ -64,7 +64,7 @@
     "ugem": "1920",
     "borden": [
       {"tr": "0", "ur": "1", "tspeler": "Anciaux", "uspeler": "Taelemans Werner", "telo": "", "uelo": "2004", "tstam": "", "ustam": "2283"},
-      {"tr": "1", "ur": "0", "tspeler": "Gdefroit", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "1989", "tstam": "", "ustam": "31526"},
+      {"tr": "1", "ur": "0", "tspeler": "Godefroit", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "1989", "tstam": "", "ustam": "31526"},
       {"tr": "1", "ur": "0", "tspeler": "Bauduin", "uspeler": "Debast Patrick", "telo": "", "uelo": "1955", "tstam": "", "ustam": "76333"},
       {"tr": "0", "ur": "1", "tspeler": "De Donder", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1913", "tstam": "", "ustam": "19313"},
       {"tr": "1", "ur": "0", "tspeler": "Perpete Raymond", "uspeler": "Van Nerom Luc", "telo": "", "uelo": "1910", "tstam": "", "ustam": "96246"},
@@ -75,7 +75,7 @@
     "ronde": "5",
     "datum": "22-01-1989",
     "thuis": "Dworp 1",
-    "uit": "Anderlecht 3",
+    "uit": "SK Anderlecht 3",
     "tscore": "0.5",
     "uscore": "5.5",
     "tgem": "1938",
