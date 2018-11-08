@@ -9,9 +9,9 @@
     "tgem": "1923",
     "ugem": "",
     "borden": [
-      {"tr": "3", "ur": "1", "tspeler": "Vanderwaeren Serfe", "uspeler": "Cnudde R", "telo": "2099", "uelo": "", "tstam": "20621", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Vanderwaeren Serge", "uspeler": "Cnudde R", "telo": "2099", "uelo": "", "tstam": "20621", "ustam": ""},
       {"tr": "1", "ur": "3", "tspeler": "Boers Jos", "uspeler": "Thierens C", "telo": "2033", "uelo": "", "tstam": "68128", "ustam": ""},
-      {"tr": "3", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Mertens Francois", "telo": "1895", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Mertens Francois", "telo": "1895", "uelo": "", "tstam": "76325", "ustam": "31526"},
       {"tr": "3", "ur": "1", "tspeler": "De Ceukelaire Gert", "uspeler": "Desmet Karl", "telo": "1872", "uelo": "", "tstam": "99152", "ustam": ""},
       {"tr": "3", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Denis J", "telo": "1824", "uelo": "", "tstam": "76333", "ustam": ""},
       {"tr": "3", "ur": "1", "tspeler": "Rosseel Gilbert", "uspeler": "Christiaens M", "telo": "1813", "uelo": "", "tstam": "19273", "ustam": ""}
@@ -29,9 +29,9 @@
     "borden": [
       {"tr": "2", "ur": "2", "tspeler": "n.m.", "uspeler": "Boers Jos", "telo": "", "uelo": "2033", "tstam": "", "ustam": "68128"},
       {"tr": "2", "ur": "2", "tspeler": "Lejeune A", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1895", "tstam": "", "ustam": "76325"},
-      {"tr": "1", "ur": "1", "tspeler": "n.m.", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1872", "tstam": "", "ustam": "99152"},
+      {"tr": "3", "ur": "1", "tspeler": "n.m.", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1872", "tstam": "", "ustam": "99152"},
       {"tr": "2", "ur": "2", "tspeler": "n.m.", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1848", "tstam": "", "ustam": "19313"},
-      {"tr": "3", "ur": "3", "tspeler": "n.m.", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1833", "tstam": "", "ustam": "76317"},
+      {"tr": "1", "ur": "3", "tspeler": "n.m.", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1833", "tstam": "", "ustam": "76317"},
       {"tr": "2", "ur": "2", "tspeler": "n.m.", "uspeler": "Debast Patrick", "telo": "", "uelo": "1824", "tstam": "", "ustam": "76333"}
     ]
   },
@@ -47,7 +47,7 @@
     "borden": [
       {"tr": "2", "ur": "2", "tspeler": "Boers Jos", "uspeler": "Delannoy", "telo": "2033", "uelo": "", "tstam": "68128", "ustam": ""},
       {"tr": "2", "ur": "2", "tspeler": "Pletinckx Eddy", "uspeler": "Kesteloot Eddy", "telo": "1895", "uelo": "", "tstam": "76325", "ustam": ""},
-      {"tr": "1", "ur": "3", "tspeler": "De Ceukelaire Gert", "uspeler": "Wasmair", "telo": "1872", "uelo": "", "tstam": "99152", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "De Ceukelaire Gert", "uspeler": "Wasnair", "telo": "1872", "uelo": "", "tstam": "99152", "ustam": ""},
       {"tr": "1", "ur": "3", "tspeler": "Lemmens Pierre", "uspeler": "Van Cauteren", "telo": "1848", "uelo": "", "tstam": "19313", "ustam": ""},
       {"tr": "2", "ur": "2", "tspeler": "Cornelis Eric", "uspeler": "Van Horenbeke", "telo": "1833", "uelo": "", "tstam": "76317", "ustam": ""},
       {"tr": "2", "ur": "2", "tspeler": "Debast Patrick", "uspeler": "Denys Frank", "telo": "1824", "uelo": "", "tstam": "76333", "ustam": "21881"}
