@@ -137,7 +137,7 @@
     "tgem": "1754",
     "ugem": "1829",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Rampelbergh Wilfrid", "uspeler": "Malfliet Bernard", "telo": "1833", "uelo": "1897", "tstam": "95826", "ustam": "31348"},
+      {"tr": "1", "ur": "0", "tspeler": "Rampelbergh Wilfried", "uspeler": "Malfliet Bernard", "telo": "1833", "uelo": "1897", "tstam": "95826", "ustam": "31348"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Gustin Peter", "uspeler": "Debast Patrick", "telo": "1733", "uelo": "1884", "tstam": "27812", "ustam": "76333"},
       {"tr": "1", "ur": "0", "tspeler": "Gallone David", "uspeler": "Cornelis Eric", "telo": "1746", "uelo": "1829", "tstam": "69175", "ustam": "76317"},
       {"tr": "0", "ur": "1", "tspeler": "Godeaux Bernard", "uspeler": "Lot Diederik", "telo": "1704", "uelo": "1707", "tstam": "93203", "ustam": "9954"}
@@ -162,7 +162,7 @@
   {
     "ronde": "11",
     "datum": "15-03-1998",
-    "thuis": "209 Anderlecht 3",
+    "thuis": "209 SK Anderlecht 3",
     "uit": "228 Dworp 1",
     "tscore": "3",
     "uscore": "1",
