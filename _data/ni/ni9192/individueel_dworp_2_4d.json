@@ -2,7 +2,7 @@
   {
     "ronde": "1",
     "datum": "06-10-1991",
-    "thuis": "Anderlecht 5",
+    "thuis": "SK Anderlecht 5",
     "uit": "228 Dworp 2",
     "tscore": "0",
     "uscore": "4",
@@ -10,7 +10,7 @@
     "ugem": "2031",
     "borden": [
       {"tr": "0", "ur": "1", "tspeler": "De Waele L", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2300", "tstam": "", "ustam": "20621"},
-      {"tr": "0", "ur": "1", "tspeler": "Huyghend Dirk", "uspeler": "Debast Patrick", "telo": "", "uelo": "1956", "tstam": "", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Huyghens Dirk", "uspeler": "Debast Patrick", "telo": "", "uelo": "1956", "tstam": "", "ustam": "76333"},
       {"tr": "0", "ur": "1", "tspeler": "Marcus P", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1941", "tstam": "", "ustam": "353"},
       {"tr": "0", "ur": "1", "tspeler": "Briers G", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1925", "tstam": "", "ustam": "31348"}
     ]
