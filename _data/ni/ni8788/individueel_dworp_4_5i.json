@@ -100,15 +100,15 @@
     "datum": "20-03-1988",
     "thuis": "280 Chess Club 2",
     "uit": "228 Dworp 4",
-    "tscore": "",
-    "uscore": "",
+    "tscore": "1",
+    "uscore": "3",
     "tgem": "",
     "ugem": "1870",
     "borden": [
-      {"tr": "", "ur": "", "tspeler": "NN", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1889", "tstam": "", "ustam": "31348"},
-      {"tr": "", "ur": "", "tspeler": "NN", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1874", "tstam": "", "ustam": "76317"},
-      {"tr": "", "ur": "", "tspeler": "NN", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1848", "tstam": "", "ustam": "353"},
-      {"tr": "", "ur": "", "tspeler": "NN", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43419"}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "NN", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1889", "tstam": "", "ustam": "31348"},
+      {"tr": "0", "ur": "1", "tspeler": "NN", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1874", "tstam": "", "ustam": "76317"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "NN", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1848", "tstam": "", "ustam": "353"},
+      {"tr": "0", "ur": "1", "tspeler": "NN", "uspeler": "Maeckelbergh Geert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43419"}
     ]
   }
 ]
