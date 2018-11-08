@@ -137,10 +137,10 @@
     "tgem": "1553",
     "ugem": "1668",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Grauwels Peter", "uspeler": "Lemmens Pierre", "telo": "1582", "uelo": "1744", "tstam": "84107", "ustam": "43419"},
-      {"tr": "0", "ur": "1", "tspeler": "Garzotti Paolo", "uspeler": "Lot Diederik", "telo": "1628", "uelo": "1634", "tstam": "88072", "ustam": "9954"},
-      {"tr": "1", "ur": "0", "tspeler": "Bouselmati Youssef", "uspeler": "Vanp\u00e9 Peter", "telo": "1601", "uelo": "1679", "tstam": "73423", "ustam": "4014"},
-      {"tr": "0", "ur": "1", "tspeler": "De Praetere Paul", "uspeler": "Van der Voorde Sonja", "telo": "1400", "uelo": "1613", "tstam": "71439", "ustam": "43346"}
+      {"tr": "0", "ur": "1", "tspeler": "Grauwels Peter", "uspeler": "Lemmens Pierre", "telo": "1582", "uelo": "1742", "tstam": "84107", "ustam": "43419"},
+      {"tr": "0", "ur": "1", "tspeler": "Garzotti Paolo", "uspeler": "Lot Diederik", "telo": "1628", "uelo": "1673", "tstam": "88072", "ustam": "9954"},
+      {"tr": "1", "ur": "0", "tspeler": "Bouselmati Youssef", "uspeler": "Vanp\u00e9 Peter", "telo": "1601", "uelo": "1550", "tstam": "73423", "ustam": "4014"},
+      {"tr": "0", "ur": "1", "tspeler": "De Praetere Paul", "uspeler": "Van der Voorde Sonja", "telo": "1400", "uelo": "1587", "tstam": "71439", "ustam": "43346"}
     ]
   },
   {
@@ -153,10 +153,10 @@
     "tgem": "1733",
     "ugem": "1796",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "De Smedt Jean-Pierre", "uspeler": "Domus Oswald", "telo": "1728", "uelo": "1917", "tstam": "33910", "ustam": "1767"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Lemmens Pierre", "uspeler": "Lejeune Guy", "telo": "1744", "uelo": "1802", "tstam": "43419", "ustam": "70572"},
-      {"tr": "0", "ur": "1", "tspeler": "Vanp\u00e9 Peter", "uspeler": "Uylenbroeck Roland", "telo": "1679", "uelo": "1808", "tstam": "4014", "ustam": "65935"},
-      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "Huysman Robert", "telo": "1781", "uelo": "1658", "tstam": "26816", "ustam": "15482"}
+      {"tr": "1", "ur": "0", "tspeler": "De Smedt Jean-Pierre", "uspeler": "Domus Oswald", "telo": "1765", "uelo": "1917", "tstam": "33910", "ustam": "1767"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lemmens Pierre", "uspeler": "Lejeune Guy", "telo": "1742", "uelo": "1802", "tstam": "43419", "ustam": "70572"},
+      {"tr": "0", "ur": "1", "tspeler": "Vanp\u00e9 Peter", "uspeler": "Uylenbroeck Roland", "telo": "1550", "uelo": "1808", "tstam": "4014", "ustam": "65935"},
+      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "Huysman Robert", "telo": "ng", "uelo": "1658", "tstam": "26816", "ustam": "15482"}
     ]
   },
   {
@@ -169,10 +169,10 @@
     "tgem": "1431",
     "ugem": "1680",
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "De Coninck Chris", "uspeler": "De Smedt Jean-Pierre", "telo": "1626", "uelo": "1728", "tstam": "48194", "ustam": "33910"},
-      {"tr": "0", "ur": "1", "tspeler": "Debontridder Godfried", "uspeler": "Lemmens Pierre", "telo": "1555", "uelo": "1744", "tstam": "27791", "ustam": "43419"},
-      {"tr": "0", "ur": "1", "tspeler": "De Block Gert", "uspeler": "Lot Diederik", "telo": "1399", "uelo": "1634", "tstam": "12670", "ustam": "9954"},
-      {"tr": "1", "ur": "0", "tspeler": "Victor Oscar", "uspeler": "Van der Voorde Sonja", "telo": "1145", "uelo": "1613", "tstam": "26484", "ustam": "43346"}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Coninck Chris", "uspeler": "De Smedt Jean-Pierre", "telo": "1626", "uelo": "1765", "tstam": "48194", "ustam": "33910"},
+      {"tr": "0", "ur": "1", "tspeler": "Debontridder Godfried", "uspeler": "Lemmens Pierre", "telo": "1555", "uelo": "1742", "tstam": "27791", "ustam": "43419"},
+      {"tr": "0", "ur": "1", "tspeler": "De Block Gert", "uspeler": "Lot Diederik", "telo": "1399", "uelo": "1673", "tstam": "12670", "ustam": "9954"},
+      {"tr": "1", "ur": "0", "tspeler": "Victor Oscar", "uspeler": "Van der Voorde Sonja", "telo": "1145", "uelo": "1587", "tstam": "26484", "ustam": "43346"}
     ]
   }
 ]
