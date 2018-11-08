@@ -121,10 +121,10 @@
     "tgem": "1731",
     "ugem": "1808",
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh Mieke", "uspeler": "Verstraeten Jan", "telo": "1868", "uelo": "1945", "tstam": "353", "ustam": "33316"},
-      {"tr": "0", "ur": "1", "tspeler": "Malfliet Bernard", "uspeler": "De Pauw Freddy", "telo": "1791", "uelo": "1839", "tstam": "31348", "ustam": "13650"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Ertveldt Pieter", "uspeler": "Wille Richard", "telo": "1753", "uelo": "1739", "tstam": "48097", "ustam": "5029"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Dekoster Pascal", "uspeler": "Van Damme Patrick", "telo": "1511", "uelo": "1709", "tstam": "54658", "ustam": "10626"}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh Mieke", "uspeler": "Verstraeten Jan", "telo": "1858", "uelo": "1945", "tstam": "353", "ustam": "33316"},
+      {"tr": "0", "ur": "1", "tspeler": "Malfliet Bernard", "uspeler": "De Pauw Freddy", "telo": "1809", "uelo": "1839", "tstam": "31348", "ustam": "13650"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Ertveldt Pieter", "uspeler": "Wille Richard", "telo": "1711", "uelo": "1739", "tstam": "48097", "ustam": "5029"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Dekoster Pascal", "uspeler": "Van Damme Patrick", "telo": "1478", "uelo": "1709", "tstam": "54658", "ustam": "10626"}
     ]
   },
   {
@@ -137,10 +137,10 @@
     "tgem": "2039",
     "ugem": "1730",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Schittekat Bart", "uspeler": "Malfliet Bernard", "telo": "2172", "uelo": "1791", "tstam": "30970", "ustam": "31348"},
+      {"tr": "1", "ur": "0", "tspeler": "Schittekat Bart", "uspeler": "Malfliet Bernard", "telo": "2172", "uelo": "1809", "tstam": "30970", "ustam": "31348"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Hanssen Ronny", "uspeler": "Lemmens Pierre", "telo": "2051", "uelo": "1798", "tstam": "57151", "ustam": "19313"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Beniers Giovanni", "uspeler": "Ertveldt Pieter", "telo": "1989", "uelo": "1753", "tstam": "73172", "ustam": "48097"},
-      {"tr": "1", "ur": "0", "tspeler": "De Rijcke Timothy", "uspeler": "Van der Voorde Sonja", "telo": "1943", "uelo": "1579", "tstam": "24694", "ustam": "43346"}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Beniers Giovanni", "uspeler": "Ertveldt Pieter", "telo": "1989", "uelo": "1711", "tstam": "73172", "ustam": "48097"},
+      {"tr": "1", "ur": "0", "tspeler": "De Rijcke Timothy", "uspeler": "Van der Voorde Sonja", "telo": "1943", "uelo": "1572", "tstam": "24694", "ustam": "43346"}
     ]
   },
   {
@@ -153,26 +153,26 @@
     "tgem": "1678",
     "ugem": "1745",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Mieke", "uspeler": "Van Bunderen Gert", "telo": "1868", "uelo": "2021", "tstam": "353", "ustam": "18686"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Ertveldt Pieter", "uspeler": "Liekens Ronny", "telo": "1753", "uelo": "1768", "tstam": "48097", "ustam": "54267"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Van der Voorde Sonja", "uspeler": "Huysmans Pierre", "telo": "1579", "uelo": "1671", "tstam": "43346", "ustam": "11592"},
-      {"tr": "0", "ur": "1", "tspeler": "Dekoster Pascal", "uspeler": "Bogaerts Guido", "telo": "1511", "uelo": "1518", "tstam": "54658", "ustam": "10901"}
+      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Mieke", "uspeler": "Van Bunderen Gert", "telo": "1858", "uelo": "2021", "tstam": "353", "ustam": "18686"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Ertveldt Pieter", "uspeler": "Liekens Ronny", "telo": "1711", "uelo": "1768", "tstam": "48097", "ustam": "54267"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van der Voorde Sonja", "uspeler": "Huysmans Pierre", "telo": "1572", "uelo": "1671", "tstam": "43346", "ustam": "11592"},
+      {"tr": "0", "ur": "1", "tspeler": "Dekoster Pascal", "uspeler": "Bogaerts Guido", "telo": "1478", "uelo": "1518", "tstam": "54658", "ustam": "10901"}
     ]
   },
   {
     "ronde": "11",
     "datum": "10-03-2002",
-    "thuis": "401 KGSRL Gent 7",
+    "thuis": "401 Ruy Lopez Gent 7",
     "uit": "228 Dworp 3",
     "tscore": "2.5",
     "uscore": "1.5",
     "tgem": "1724",
     "ugem": "1752",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Speybroeck Eric", "uspeler": "Maeckelbergh Mieke", "telo": "1938", "uelo": "1868", "tstam": "27502", "ustam": "353"},
+      {"tr": "1", "ur": "0", "tspeler": "Speybroeck Eric", "uspeler": "Maeckelbergh Mieke", "telo": "1938", "uelo": "1858", "tstam": "27502", "ustam": "353"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Gregoir Dirk", "uspeler": "Malfliet Bernard", "telo": "1757", "uelo": "1809", "tstam": "24180", "ustam": "31348"},
-      {"tr": "0", "ur": "1", "tspeler": "De Korte Luc", "uspeler": "Ertveldt Pieter", "telo": "1615", "uelo": "1753", "tstam": "39624", "ustam": "48097"},
-      {"tr": "1", "ur": "0", "tspeler": "Schutyser Dirk", "uspeler": "Van Der Voorde Sonja", "telo": "1586", "uelo": "1579", "tstam": "32336", "ustam": "43346"}
+      {"tr": "0", "ur": "1", "tspeler": "De Korte Luc", "uspeler": "Ertveldt Pieter", "telo": "1615", "uelo": "1711", "tstam": "39624", "ustam": "48097"},
+      {"tr": "1", "ur": "0", "tspeler": "Schutyser Dirk", "uspeler": "Van Der Voorde Sonja", "telo": "1586", "uelo": "1572", "tstam": "32336", "ustam": "43346"}
     ]
   }
 ]
