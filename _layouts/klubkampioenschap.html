@@ -76,6 +76,11 @@ bv. "2016" als waarde voor beginjaar geeft als waarde voor submap "kk1617"
     {% include table-eindstand.html datafile=data %}
   {% elsif bestand[0] contains "tussenstand" %}
     {% include table-tussenstand.html id="kk-01" %}
+  {% elsif bestand[0] contains "xtra" %}
+    <p>extra vrijdagen (zonder clubactiviteit)<br>
+      ideaal om uitgestelde partijen in te halen, of om partijen vooraf te spelen
+    </p>
+    {% include table-kk-extra-dagen.html datafile=data %}
   {% endif %}
 
   {% include tab-pane-end.html %}

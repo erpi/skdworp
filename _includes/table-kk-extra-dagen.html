@@ -1,0 +1,11 @@
+<div class="table-responsive">
+  <table class="table">
+    <tbody>
+      {% for item in include.datafile %}
+      <tr>
+         <td>{{ item.dag | downcase }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
