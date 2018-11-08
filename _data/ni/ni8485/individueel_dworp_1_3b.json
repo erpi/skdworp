@@ -2,7 +2,7 @@
   {
     "ronde": "1",
     "datum": "21-10-1984",
-    "thuis": "Caissa Woluwe",
+    "thuis": "Woluwe",
     "uit": "228 Dworp 1",
     "tscore": "2.5",
     "uscore": "3.5",
@@ -20,7 +20,7 @@
   {
     "ronde": "2",
     "datum": "4-11-1984",
-    "thuis": "209 Anderlecht",
+    "thuis": "Roque 6",
     "uit": "228 Dworp 1",
     "tscore": "3",
     "uscore": "3",
@@ -65,7 +65,7 @@
     "borden": [
       {"tr": "0.5", "ur": "0.5", "tspeler": "Poivre", "uspeler": "Boers Jos", "telo": "", "uelo": "1979", "tstam": "", "ustam": "68128"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Wasnaire", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "1872", "tstam": "", "ustam": "99152"},
-      {"tr": "1", "ur": "0", "tspeler": "Masute", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1867", "tstam": "", "ustam": "76325"},
+      {"tr": "1", "ur": "0", "tspeler": "Masure Luc", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1867", "tstam": "", "ustam": "76325"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Leloutre", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1865", "tstam": "", "ustam": "19313"},
       {"tr": "0", "ur": "1", "tspeler": "Waterschoot T", "uspeler": "Debast Patrick", "telo": "", "uelo": "1842", "tstam": "", "ustam": "76333"},
       {"tr": "1", "ur": "0", "tspeler": "Leemans R", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1818", "tstam": "", "ustam": "76317"}
