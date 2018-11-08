@@ -95,15 +95,15 @@
     "datum": "",
     "thuis": "228 Dworp 2",
     "uit": "Brussels 5",
-    "tscore": "",
-    "uscore": "",
+    "tscore": 1"",
+    "uscore": "3",
     "tgem": "1649",
     "ugem": "1736",
     "borden": [
-      {"tr": "", "ur": "", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Dembour Luc", "telo": "1879", "uelo": "1782", "tstam": "31526", "ustam": "96717"},
-      {"tr": "", "ur": "", "tspeler": "Debast Patrick", "uspeler": "Mondele Mathieu", "telo": "1816", "uelo": "1778", "tstam": "76333", "ustam": "75736"},
-      {"tr": "", "ur": "", "tspeler": "van Duuren Louis", "uspeler": "Van Loo Georges", "telo": "1752", "uelo": "1732", "tstam": "26816", "ustam": "52094"},
-      {"tr": "", "ur": "", "tspeler": "Van Cutsem Jan", "uspeler": "Lefevre Stephane", "telo": "1150", "uelo": "1651", "tstam": "10618", "ustam": "72362"}
+      {"tr": "0", "ur": "1", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Dembour Luc", "telo": "1879", "uelo": "1782", "tstam": "31526", "ustam": "96717"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Mondele Mathieu", "telo": "1816", "uelo": "1778", "tstam": "76333", "ustam": "75736"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "van Duuren Louis", "uspeler": "Van Loo Georges", "telo": "1752", "uelo": "1732", "tstam": "26816", "ustam": "52094"},
+      {"tr": "0", "ur": "1", "tspeler": "Van Cutsem Jan", "uspeler": "Lefevre Stephane", "telo": "1150", "uelo": "1651", "tstam": "10618", "ustam": "72362"}
     ]
   },
   {
@@ -127,15 +127,15 @@
     "datum": "",
     "thuis": "228 Dworp 2",
     "uit": "Borgerhout 8",
-    "tscore": "",
-    "uscore": "",
+    "tscore": "2",
+    "uscore": "2",
     "tgem": "1730",
     "ugem": "1678",
     "borden": [
-      {"tr": "", "ur": "", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "D'Haluin Wim", "telo": "1879", "uelo": "1839", "tstam": "31526", "ustam": "36684"},
-      {"tr": "", "ur": "", "tspeler": "Cornelis Eric", "uspeler": "Cankja Ylli", "telo": "1754", "uelo": "1794", "tstam": "76317", "ustam": "41271"},
-      {"tr": "", "ur": "", "tspeler": "Dekoster Pascal", "uspeler": "Adriaense Rob", "telo": "1674", "uelo": "1514", "tstam": "54658", "ustam": "41122"},
-      {"tr": "", "ur": "", "tspeler": "Verschoren Fran\u00e7ois", "uspeler": "Lambertz Philippe", "telo": "1611", "uelo": "1563", "tstam": "41688", "ustam": "20702"}
+      {"tr": "0", "ur": "1", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "D'Haluin Wim", "telo": "1879", "uelo": "1839", "tstam": "31526", "ustam": "36684"},
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis Eric", "uspeler": "Cankja Ylli", "telo": "1754", "uelo": "1794", "tstam": "76317", "ustam": "41271"},
+      {"tr": "0", "ur": "1", "tspeler": "Dekoster Pascal", "uspeler": "Adriaense Rob", "telo": "1674", "uelo": "1514", "tstam": "54658", "ustam": "41122"},
+      {"tr": "1", "ur": "0", "tspeler": "Verschoren Fran\u00e7ois", "uspeler": "Lambertz Philippe", "telo": "1611", "uelo": "1563", "tstam": "41688", "ustam": "20702"}
     ]
   },
   {
