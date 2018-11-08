@@ -121,26 +121,26 @@
     "tgem": "1880",
     "ugem": "1886",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Motte Jan", "telo": "1985", "uelo": "1953", "tstam": "31526", "ustam": "32794"},
-      {"tr": "1", "ur": "0", "tspeler": "Verstreken Erik", "uspeler": "Vercleyen Julien", "telo": "1870", "uelo": "1887", "tstam": "9270", "ustam": "81515"},
-      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Geert", "uspeler": "Lallemand Paul", "telo": "1895", "uelo": "1818", "tstam": "43419", "ustam": "61476"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher Peter", "uspeler": "Van Hauwe Hendrik", "telo": "1768", "uelo": "ng", "tstam": "655", "ustam": "6301"}
+      {"tr": "1", "ur": "0", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Motte Jan", "telo": "2013", "uelo": "1953", "tstam": "31526", "ustam": "32794"},
+      {"tr": "1", "ur": "0", "tspeler": "Verstreken Erik", "uspeler": "Vercleyen Julien", "telo": "1895", "uelo": "1887", "tstam": "9270", "ustam": "81515"},
+      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Geert", "uspeler": "Lallemand Paul", "telo": "1743", "uelo": "1818", "tstam": "43419", "ustam": "61476"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher Peter", "uspeler": "Van Hauwe Hendrik", "telo": "1743", "uelo": "ng", "tstam": "655", "ustam": "6301"}
     ]
   },
   {
     "ronde": "9",
     "datum": "19-02-1995",
-    "thuis": "402 Jean Jaures Gent 3",
+    "thuis": "402 Jean Jaurès Gent 3",
     "uit": "228 Dworp 2",
     "tscore": "3",
     "uscore": "1",
     "tgem": "1897",
     "ugem": "1830",
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Heyman Paul", "uspeler": "Mertens Fran\u00e7ois", "telo": "1925", "uelo": "1985", "tstam": "31666", "ustam": "31526"},
-      {"tr": "1", "ur": "0", "tspeler": "Colders Frans", "uspeler": "Maeckelbergh Geert", "telo": "1926", "uelo": "1895", "tstam": "17060", "ustam": "43419"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Debacq Jacques", "uspeler": "De Bosscher Peter", "telo": "1870", "uelo": "1768", "tstam": "17035", "ustam": "655"},
-      {"tr": "1", "ur": "0", "tspeler": "Derijcke Julien", "uspeler": "Deklerck Willy", "telo": "1868", "uelo": "1671", "tstam": "23949", "ustam": "27715"}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Heyman Paul", "uspeler": "Mertens Fran\u00e7ois", "telo": "1925", "uelo": "2013", "tstam": "31666", "ustam": "31526"},
+      {"tr": "1", "ur": "0", "tspeler": "Colders Frans", "uspeler": "Maeckelbergh Geert", "telo": "1926", "uelo": "1743", "tstam": "17060", "ustam": "43419"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debacq Jacques", "uspeler": "De Bosscher Peter", "telo": "1870", "uelo": "1743", "tstam": "17035", "ustam": "655"},
+      {"tr": "1", "ur": "0", "tspeler": "Derijcke Julien", "uspeler": "Deklerck Willy", "telo": "1868", "uelo": "1731", "tstam": "23949", "ustam": "27715"}
     ]
   },
   {
@@ -153,10 +153,10 @@
     "tgem": "1822",
     "ugem": "1761",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Rogiers Jan", "telo": "1985", "uelo": "2094", "tstam": "31526", "ustam": "48569"},
-      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Bosschem Marc", "telo": "1862", "uelo": "1842", "tstam": "76333", "ustam": "34126"},
-      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Valcke Rudy", "telo": "1768", "uelo": "1757", "tstam": "655", "ustam": "14419"},
-      {"tr": "0", "ur": "1", "tspeler": "Deklerck Willy", "uspeler": "De Block Gert", "telo": "1671", "uelo": "1351", "tstam": "27715", "ustam": "12670"}
+      {"tr": "1", "ur": "0", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Rogiers Jan", "telo": "2013", "uelo": "2094", "tstam": "31526", "ustam": "48569"},
+      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Bosschem Marc", "telo": "1859", "uelo": "1842", "tstam": "76333", "ustam": "34126"},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Valcke Rudy", "telo": "1743", "uelo": "1757", "tstam": "655", "ustam": "14419"},
+      {"tr": "0", "ur": "1", "tspeler": "Deklerck Willy", "uspeler": "De Block Gert", "telo": "1731", "uelo": "1351", "tstam": "27715", "ustam": "12670"}
     ]
   },
   {
@@ -169,10 +169,10 @@
     "tgem": "1691",
     "ugem": "1831",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "De Vleeschauwer Raoul", "uspeler": "Mertens Fran\u00e7ois", "telo": "1917", "uelo": "1985", "tstam": "21920", "ustam": "31526"},
-      {"tr": "0", "ur": "1", "tspeler": "De Vriendt P", "uspeler": "Debast Patrick", "telo": "", "uelo": "1862", "tstam": "", "ustam": "76333"},
-      {"tr": "1", "ur": "0", "tspeler": "De Ridder Michael", "uspeler": "De Bosscher Peter", "telo": "1670", "uelo": "1768", "tstam": "41777", "ustam": "655"},
-      {"tr": "0", "ur": "1", "tspeler": "Van Herck Jeroen", "uspeler": "De Smedt Jean-Pierre", "telo": "1486", "uelo": "1708", "tstam": "36005", "ustam": "33910"}
+      {"tr": "0", "ur": "1", "tspeler": "De Vleeschauwer Raoul", "uspeler": "Mertens Fran\u00e7ois", "telo": "1917", "uelo": "2013", "tstam": "21920", "ustam": "31526"},
+      {"tr": "0", "ur": "1", "tspeler": "De Vriendt P", "uspeler": "Debast Patrick", "telo": "", "uelo": "1859", "tstam": "", "ustam": "76333"},
+      {"tr": "1", "ur": "0", "tspeler": "De Ridder Michael", "uspeler": "De Bosscher Peter", "telo": "1670", "uelo": "1743", "tstam": "41777", "ustam": "655"},
+      {"tr": "0", "ur": "1", "tspeler": "Van Herck Jeroen", "uspeler": "De Smedt Jean-Pierre", "telo": "1486", "uelo": "1702", "tstam": "36005", "ustam": "33910"}
     ]
   }
 ]
