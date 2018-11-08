@@ -18,7 +18,7 @@
   {
     "ronde": "2",
     "datum": "28-10-2001",
-    "thuis": "209 Anderlecht 3",
+    "thuis": "209 SK Anderlecht 3",
     "uit": "228 Dworp 2",
     "tscore": "2",
     "uscore": "2",
@@ -99,7 +99,7 @@
     "ronde": "7",
     "datum": "20-01-2002",
     "thuis": "228 Dworp 2",
-    "uit": "244 WTCC Ukkel 3",
+    "uit": "244 WTCC Uccle 3",
     "tscore": "2",
     "uscore": "2",
     "tgem": "1661",
@@ -121,10 +121,10 @@
     "tgem": "1905",
     "ugem": "1644",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Grillmaier Philippe", "uspeler": "Lot Diederik", "telo": "1933", "uelo": "1834", "tstam": "29301", "ustam": "9954"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Vausort Andr\u00e9", "uspeler": "Vanp\u00e9 Peter", "telo": "1912", "uelo": "1628", "tstam": "9563", "ustam": "10157"},
-      {"tr": "1", "ur": "0", "tspeler": "Lheureux Benoit", "uspeler": "De Bosscher Peter", "telo": "1881", "uelo": "1765", "tstam": "81302", "ustam": "655"},
-      {"tr": "1", "ur": "0", "tspeler": "Wettach Alain", "uspeler": "Puttemans Patrick", "telo": "1894", "uelo": "1347", "tstam": "63797", "ustam": "28681"}
+      {"tr": "1", "ur": "0", "tspeler": "Grillmaier Philippe", "uspeler": "Lot Diederik", "telo": "1933", "uelo": "1832", "tstam": "29301", "ustam": "9954"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vausort Andr\u00e9", "uspeler": "Vanp\u00e9 Peter", "telo": "1912", "uelo": "1703", "tstam": "9563", "ustam": "10157"},
+      {"tr": "1", "ur": "0", "tspeler": "Lheureux Benoit", "uspeler": "De Bosscher Peter", "telo": "1881", "uelo": "1775", "tstam": "81302", "ustam": "655"},
+      {"tr": "1", "ur": "0", "tspeler": "Wettach Alain", "uspeler": "Puttemans Patrick", "telo": "1894", "uelo": "1333", "tstam": "63797", "ustam": "28681"}
     ]
   },
   {
@@ -137,10 +137,10 @@
     "tgem": "1763",
     "ugem": "1622",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Lot Diederik", "uspeler": "Dembour Luc", "telo": "1834", "uelo": "1731", "tstam": "9954", "ustam": "96717"},
-      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Remon Serge", "telo": "1826", "uelo": "1697", "tstam": "65325", "ustam": "68764"},
-      {"tr": "1", "ur": "0", "tspeler": "Vanp\u00e9 Peter", "uspeler": "Delpierre Oscar", "telo": "1628", "uelo": "1613", "tstam": "10157", "ustam": "79855"},
-      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Jassem Philippe", "telo": "1765", "uelo": "1446", "tstam": "655", "ustam": "91073"}
+      {"tr": "1", "ur": "0", "tspeler": "Lot Diederik", "uspeler": "Dembour Luc", "telo": "1832", "uelo": "1731", "tstam": "9954", "ustam": "96717"},
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Remon Serge", "telo": "1832", "uelo": "1697", "tstam": "65325", "ustam": "68764"},
+      {"tr": "1", "ur": "0", "tspeler": "Vanp\u00e9 Peter", "uspeler": "Delpierre Oscar", "telo": "1703", "uelo": "1613", "tstam": "10157", "ustam": "79855"},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Jassem Philippe", "telo": "1775", "uelo": "1446", "tstam": "655", "ustam": "91073"}
     ]
   },
   {
@@ -153,10 +153,10 @@
     "tgem": "1642",
     "ugem": "1782",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Burnay Gerard", "telo": "1826", "uelo": "1905", "tstam": "65325", "ustam": "92452"},
-      {"tr": "1", "ur": "0", "tspeler": "Vanp\u00e9 Peter", "uspeler": "Piron Jean-Marie", "telo": "1628", "uelo": "1888", "tstam": "10157", "ustam": "65722"},
-      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Laios Steve", "telo": "1765", "uelo": "1734", "tstam": "655", "ustam": "55760"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Puttemans Patrick", "uspeler": "Vandenplas Gerard", "telo": "1347", "uelo": "1602", "tstam": "28681", "ustam": "94625"}
+      {"tr": "0", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Burnay Gerard", "telo": "1832", "uelo": "1905", "tstam": "65325", "ustam": "92452"},
+      {"tr": "1", "ur": "0", "tspeler": "Vanp\u00e9 Peter", "uspeler": "Piron Jean-Marie", "telo": "1703", "uelo": "1888", "tstam": "10157", "ustam": "65722"},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Laios Steve", "telo": "1775", "uelo": "1734", "tstam": "655", "ustam": "55760"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Puttemans Patrick", "uspeler": "Vandenplas Gerard", "telo": "1333", "uelo": "1602", "tstam": "28681", "ustam": "94625"}
     ]
   },
   {
@@ -169,10 +169,10 @@
     "tgem": "1563",
     "ugem": "1649",
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Dubuisson Raymond", "uspeler": "Lot Diederik", "telo": "1785", "uelo": "1834", "tstam": "78301", "ustam": "9954"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Dubuisson Raymond", "uspeler": "Lot Diederik", "telo": "1785", "uelo": "1832", "tstam": "78301", "ustam": "9954"},
       {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "Krasucki Youri", "uspeler": "De Bosscher Peter", "telo": "1343", "uelo": "1765", "tstam": "88323", "ustam": "655"},
-      {"tr": "1", "ur": "0", "tspeler": "Beliy Nikita", "uspeler": "Puttemans Patrick", "telo": "1561", "uelo": "1347", "tstam": "80632", "ustam": "28681"}
+      {"tr": "0", "ur": "1", "tspeler": "Krasucki Youri", "uspeler": "De Bosscher Peter", "telo": "1343", "uelo": "1775", "tstam": "88323", "ustam": "655"},
+      {"tr": "1", "ur": "0", "tspeler": "Beliy Nikita", "uspeler": "Puttemans Patrick", "telo": "1561", "uelo": "1333", "tstam": "80632", "ustam": "28681"}
     ]
   }
 ]
