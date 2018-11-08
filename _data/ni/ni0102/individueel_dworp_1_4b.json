@@ -121,10 +121,10 @@
     "tgem": "1860",
     "ugem": "1657",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Geert", "uspeler": "Verlinden Patrick ", "telo": "1913", "uelo": "1774", "tstam": "43419", "ustam": "54917"},
-      {"tr": "0", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Verbruggen Jos\u00e9", "telo": "1877", "uelo": "1622", "tstam": "76333", "ustam": "23604"},
-      {"tr": "0", "ur": "1", "tspeler": "van Duuren Louis", "uspeler": "Schepers Koen", "telo": "1817", "uelo": "1666", "tstam": "26816", "ustam": "19496"},
-      {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Morote Patrick", "telo": "1834", "uelo": "1565", "tstam": "76317", "ustam": "57860"}
+      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Geert", "uspeler": "Verlinden Patrick ", "telo": "1920", "uelo": "1774", "tstam": "43419", "ustam": "54917"},
+      {"tr": "0", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Verbruggen Jos\u00e9", "telo": "1893", "uelo": "1622", "tstam": "76333", "ustam": "23604"},
+      {"tr": "0", "ur": "1", "tspeler": "van Duuren Louis", "uspeler": "Schepers Koen", "telo": "1831", "uelo": "1666", "tstam": "26816", "ustam": "19496"},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Morote Patrick", "telo": "1814", "uelo": "1565", "tstam": "76317", "ustam": "57860"}
     ]
   },
   {
@@ -137,10 +137,10 @@
     "tgem": "1829",
     "ugem": "1743",
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Todts Benny", "uspeler": "Maeckelbergh Geert", "telo": "1894", "uelo": "1913", "tstam": "54101", "ustam": "43419"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Verbeeren Peter", "uspeler": "Debast Patrick", "telo": "1842", "uelo": "1877", "tstam": "26611", "ustam": "76333"},
-      {"tr": "1", "ur": "0", "tspeler": "Weyers Wim", "uspeler": "Cornelis Eric", "telo": "1816", "uelo": "1834", "tstam": "55573", "ustam": "76317"},
-      {"tr": "1", "ur": "0", "tspeler": "Van der Straeten Lieven", "uspeler": "Puttemans Patrick", "telo": "1764", "uelo": "1347", "tstam": "24171", "ustam": "28681"}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Todts Benny", "uspeler": "Maeckelbergh Geert", "telo": "1894", "uelo": "1920", "tstam": "54101", "ustam": "43419"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verbeeren Peter", "uspeler": "Debast Patrick", "telo": "1842", "uelo": "1893", "tstam": "26611", "ustam": "76333"},
+      {"tr": "1", "ur": "0", "tspeler": "Weyers Wim", "uspeler": "Cornelis Eric", "telo": "1816", "uelo": "1814", "tstam": "55573", "ustam": "76317"},
+      {"tr": "1", "ur": "0", "tspeler": "Van der Straeten Lieven", "uspeler": "Puttemans Patrick", "telo": "1764", "uelo": "1333", "tstam": "24171", "ustam": "28681"}
     ]
   },
   {
@@ -153,10 +153,10 @@
     "tgem": "1860",
     "ugem": "1868",
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh Geert", "uspeler": "De Hert Robert", "telo": "1913", "uelo": "1981", "tstam": "43419", "ustam": "4626"},
-      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Lauwers Luc", "telo": "1877", "uelo": "1870", "tstam": "76333", "ustam": "28312"},
-      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "Benoy Jacobus", "telo": "1817", "uelo": "1855", "tstam": "26816", "ustam": "7471"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Van Habberney Guy", "telo": "1834", "uelo": "1767", "tstam": "76317", "ustam": "22446"}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh Geert", "uspeler": "De Hert Robert", "telo": "1920", "uelo": "1981", "tstam": "43419", "ustam": "4626"},
+      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "Lauwers Luc", "telo": "1893", "uelo": "1870", "tstam": "76333", "ustam": "28312"},
+      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "Benoy Jacobus", "telo": "1831", "uelo": "1855", "tstam": "26816", "ustam": "7471"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Van Habberney Guy", "telo": "1814", "uelo": "1767", "tstam": "76317", "ustam": "22446"}
     ]
   },
   {
@@ -169,10 +169,10 @@
     "tgem": "1964",
     "ugem": "1760",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Helsen Steff", "uspeler": "Debast Patrick", "telo": "2003", "uelo": "1877", "tstam": "26786", "ustam": "76333"},
-      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "van Duuren Louis", "telo": "2003", "uelo": "1817", "tstam": "2283", "ustam": "26816"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Vandenbempt Paul", "uspeler": "Cornelis Eric", "telo": "1909", "uelo": "1834", "tstam": "73113", "ustam": "76317"},
-      {"tr": "1", "ur": "0", "tspeler": "Slootmaekers Romain", "uspeler": "Dekoster Pascal", "telo": "1939", "uelo": "1511", "tstam": "8613", "ustam": "54658"}
+      {"tr": "1", "ur": "0", "tspeler": "Helsen Steff", "uspeler": "Debast Patrick", "telo": "2003", "uelo": "1893", "tstam": "26786", "ustam": "76333"},
+      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "van Duuren Louis", "telo": "2003", "uelo": "1831", "tstam": "2283", "ustam": "26816"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vandenbempt Paul", "uspeler": "Cornelis Eric", "telo": "1909", "uelo": "1814", "tstam": "73113", "ustam": "76317"},
+      {"tr": "1", "ur": "0", "tspeler": "Slootmaekers Romain", "uspeler": "Dekoster Pascal", "telo": "1939", "uelo": "1478", "tstam": "8613", "ustam": "54658"}
     ]
   }
 ]
