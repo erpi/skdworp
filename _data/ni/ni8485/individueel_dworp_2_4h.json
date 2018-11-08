@@ -50,7 +50,7 @@
   {
     "ronde": "4",
     "datum": "02-12-1984",
-    "thuis": "Roque Anderlecht 7",
+    "thuis": "Roque 7",
     "uit": "228 Dworp 2",
     "tscore": "4",
     "uscore": "0",
@@ -99,7 +99,7 @@
     "ronde": "7",
     "datum": "17-02-1985",
     "thuis": "228 Dworp 2",
-    "uit": "Anderlecht 4",
+    "uit": "SK Anderlecht 4",
     "tscore": "2.5",
     "uscore": "1.5",
     "tgem": "1642",
@@ -137,7 +137,7 @@
     "tgem": "1544",
     "ugem": "",
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "n.m.", "uspeler": "Thijs A", "telo": "", "uelo": "", "tstam": "68128", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "n.m.", "uspeler": "Thijs A", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
       {"tr": "0", "ur": "1", "tspeler": "Trompeter Hubert", "uspeler": "Van Houlter W", "telo": "1548", "uelo": "", "tstam": "45454", "ustam": ""},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Deklerck Willy", "uspeler": "De Corte JP", "telo": "1540", "uelo": "", "tstam": "27715", "ustam": ""},
       {"tr": "0", "ur": "1", "tspeler": "Martinez Francis", "uspeler": "Debacq J", "telo": "ng", "uelo": "", "tstam": "97453", "ustam": ""},
