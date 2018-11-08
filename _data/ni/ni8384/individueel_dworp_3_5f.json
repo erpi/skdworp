@@ -3,7 +3,7 @@
     "ronde": "1",
     "datum": "23-10-1983",
     "thuis": "228 Dworp 3",
-    "uit": "245 Caissa Anderlecht 6",
+    "uit": "245 Caïssa Anderlecht 6",
     "tscore": "6",
     "uscore": "10",
     "tgem": "1643",
@@ -12,13 +12,13 @@
       {"tr": "3", "ur": "1", "tspeler": "Djuh Wasil", "uspeler": "n.m.", "telo": "1776", "uelo": "", "tstam": "19402", "ustam": ""},
       {"tr": "1", "ur": "3", "tspeler": "Deklerck Willy", "uspeler": "n.m.", "telo": "1510", "uelo": "", "tstam": "27715", "ustam": ""},
       {"tr": "1", "ur": "3", "tspeler": "Remory Freddy", "uspeler": "n.m.", "telo": "ng", "uelo": "", "tstam": "n.m.", "ustam": ""},
-      {"tr": "1", "ur": "3", "tspeler": "Denayer Franics", "uspeler": "n.m.", "telo": "ng", "uelo": "", "tstam": "n.m.", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Denayer Francis", "uspeler": "n.m.", "telo": "ng", "uelo": "", "tstam": "n.m.", "ustam": ""},
    ]
   },
   {
     "ronde": "2",
     "datum": "06-11-1983",
-    "thuis": "Caissa Woluwe",
+    "thuis": "Woluwe",
     "uit": "228 Dworp 3",
     "tscore": "8",
     "uscore": "8",
@@ -140,7 +140,7 @@
       {"tr": "1", "ur": "3", "tspeler": "Deneyer Hugo", "uspeler": "n.m.", "telo": "1655", "uelo": "", "tstam": "98918", "ustam": ""},
       {"tr": "1", "ur": "3", "tspeler": "Deklerck Willy", "uspeler": "n.m.", "telo": "1510", "uelo": "", "tstam": "27715", "ustam": ""},
       {"tr": "1", "ur": "3", "tspeler": "Malfliet Koen", "uspeler": "n.m.", "telo": "ng", "uelo": "", "tstam": "64327", "ustam": ""},
-      {"tr": "1", "ur": "3", "tspeler": "Denayer Francis", "uspeler": "n.m.", "telo": "", "uelo": "", "tstam": "n.m.", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Denayer Francis", "uspeler": "n.m.", "telo": "ng", "uelo": "", "tstam": "n.m.", "ustam": ""},
      ]
   }
 ]
