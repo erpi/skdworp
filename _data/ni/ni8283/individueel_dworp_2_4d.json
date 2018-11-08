@@ -3,7 +3,7 @@
     "ronde": "1",
     "datum": "17-10-1982",
     "thuis": "228 Dworp 2",
-    "uit": "243 Leuven 2",
+    "uit": "243 LV Leuven 2",
     "tscore": "5",
     "uscore": "11",
     "tgem": "1587",
@@ -25,7 +25,7 @@
     "tgem": "",
     "ugem": "1585",
     "borden": [
-      {"tr": "1", "ur": "3", "tspeler": "Bernard J", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1648", "tstam": "", "ustam": "66325"},
+      {"tr": "1", "ur": "3", "tspeler": "Bernard J", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1648", "tstam": "", "ustam": "76325"},
       {"tr": "2", "ur": "2", "tspeler": "Pirotte Th", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1521", "tstam": "", "ustam": "76317"},
       {"tr": "3", "ur": "1", "tspeler": "Teyskens J", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "ng", "tstam": "", "ustam": "31348"},
       {"tr": "1", "ur": "3", "tspeler": "Musique S", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "ng", "tstam": "", "ustam": "98918"}
@@ -86,8 +86,8 @@
     "uit": "Zaventem",
     "tscore": "6",
     "uscore": "10",
-    "tgem": "",
-    "ugem": "1585",
+    "tgem": "1585",
+    "ugem": "",
     "borden": [
       {"tr": "1", "ur": "3", "tspeler": "Pletinckx Eddy", "uspeler": "Bever Jurgen", "telo": "1648", "uelo": "", "tstam": "76325", "ustam": ""},
       {"tr": "1", "ur": "3", "tspeler": "Cornelis Eric", "uspeler": "De Hondt Paul", "telo": "1521", "uelo": "", "tstam": "76317", "ustam": ""},
@@ -102,12 +102,12 @@
     "uit": "228 Dworp 2",
     "tscore": "10",
     "uscore": "6",
-    "tgem": "1605",
-    "ugem": "",
+    "tgem": "",
+    "ugem": "1605",
     "borden": [
-      {"tr": "1", "ur": "3", "tspeler": "Denys Frank", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1648", "tstam": "", "ustam": "76325"},
+      {"tr": "1", "ur": "3", "tspeler": "Denys Frank", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1648", "tstam": "21881", "ustam": "76325"},
       {"tr": "3", "ur": "1", "tspeler": "Kesteloot Eddy", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1645", "tstam": "", "ustam": "2283"},
-      {"tr": "3", "ur": "1", "tspeler": "Lombart Phlippe", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1521", "tstam": "", "ustam": "76317"},
+      {"tr": "3", "ur": "1", "tspeler": "Lombart Philippe", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1521", "tstam": "", "ustam": "76317"},
       {"tr": "3", "ur": "1", "tspeler": "Gielen R", "uspeler": "Deneyer Hugo", "telo": "", "uelo": "ng", "tstam": "", "ustam": "98918"}
     ]
   },  
