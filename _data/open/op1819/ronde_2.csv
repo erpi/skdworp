@@ -1,0 +1,38 @@
+wit,zwart,wr,zr
+partij 1,,,
+De Bosscher Peter,Bultijnck Kristoff,1,0
+Vanrossum Matthias,Vanderwaeren Serge,0,1
+Lerinckx Niels,Ertveldt Pieter,0,1
+Vandevelde Jannes,Beckers Stijn,0,1
+Huyghe Felix,Lerinckx Sander,1,0
+partij 2,,,
+Lot Diederik,Bultijnck Kristoff,1,0
+Ertveldt Pieter,De Bosscher Peter,0,1
+Vanderwaeren Serge,Lerinckx Niels,1,0
+Cornelis Eric,Vandevelde Jannes,1,0
+Beckers Stijn,Huyghe Felix,1,0
+Lerinckx Sander,Vanrossum Matthias,1,0
+partij 3,,,
+De Bosscher Peter,Lot Diederik,0,1
+Ertveldt Pieter,Vanderwaeren Serge,0,1
+Vandevelde Jannes,Van de Velde Filip,0,1
+Bultijnck Kristoff,Beckers Stijn,1,0
+Cornelis Eric,Lerinckx Sander,1,0
+Lerinckx Niels,Huyghe Felix,0,1
+Vanrossum Matthias,bye,,
+partij 4,,,
+Lot Diederik,Vanderwaeren Serge,0.5,0.5
+Bultijnck Kristoff,Ertveldt Pieter,0.5,0.5
+Van de Velde Filip,Beckers Stijn,1,0
+Huyghe Felix,Cornelis Eric,0,1
+Lerinckx Sander,Vandevelde Jannes,0,1
+Vanrossum Matthias,Lerinckx Niels,1,0
+De Bosscher Peter,bye,,
+partij 5,,,
+Lot Diederik,Ertveldt Pieter,0,1
+Van de Velde Filip,De Bosscher Peter,1,0
+Vanderwaeren Serge,Bultijnck Kristoff,1,0
+Beckers Stijn,Cornelis Eric,0,1
+Huyghe Felix,Vanrossum Matthias,0,1
+Lerinckx Niels,Vandevelde Jannes,1,0
+Lerinckx Sander,bye,,
