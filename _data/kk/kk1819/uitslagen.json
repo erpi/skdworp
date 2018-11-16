@@ -106,20 +106,20 @@
         "zwart": "Bye"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0"
+        "zr": "1",
         "wit": "Diederik Lot",
         "zwart": "Geert Verrijken"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Sonja Van Der Voorde",
         "zwart": "Kristoff Bultijnck"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0"
+        "zr": "1",
         "wit": "Robert Huysman",
         "zwart": "Eric Cornelis"
       },
@@ -136,8 +136,8 @@
         "zwart": "Niels Palmans"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0,5",
+        "zr": "0,5",
         "wit": "Serge Vanderwaeren",
         "zwart": "Stijn Bertrand"
       }
