@@ -39,12 +39,12 @@
     "ronde": "ronde 4",
     "datum": "18-11-2018",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "607 KSK Rochade 3"},
-      {"tr": "", "ur": "", "thuis": "952 Wavre 2", "uit": "909 Philippeville 1"},
-      {"tr": "", "ur": "", "thuis": "525 Anderlues 1", "uit": "501 CREC 3"},
-      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 2", "uit": "961 Braine l'Alleud 1"},
-      {"tr": "", "ur": "", "thuis": "511 EDC 1", "uit": "239 Boitsfort 2"},
-      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "541 Leuze 1"}
+      {"tr": "0.5", "ur": "3.5", "thuis": "901 Namur 3", "uit": "607 KSK Rochade 3"},
+      {"tr": "1", "ur": "3", "thuis": "952 Wavre 2", "uit": "909 Philippeville 1"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "525 Anderlues 1", "uit": "501 CREC 3"},
+      {"tr": "1", "ur": "3", "thuis": "548 Caissa Europe 2", "uit": "961 Braine l'Alleud 1"},
+      {"tr": "0.5", "ur": "3.5", "thuis": "511 EDC 1", "uit": "239 Boitsfort 2"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "228 Dworp 2", "uit": "541 Leuze 1"}
     ]
   },
   {
