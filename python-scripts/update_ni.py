@@ -7,7 +7,7 @@ if sys.version_info[0] != 2 or sys.version_info[1] < 7:
              ".".join(str(x) for x in sys.version_info))
 
 # openpyxl needs jdcal
-from openpyxl import load_workbook
+#from openpyxl import load_workbook
 from collections import OrderedDict
 from zipfile import ZipFile
 import argparse
@@ -24,30 +24,30 @@ import urllib2
 club = 'dworp'
 clubnummer = 228
 # huidig seizoen
-seizoen = "ni1617"
+seizoen = "ni1819"
 # ploegen = (1,) indien 1 ploeg in de interclubs
 # ploegen = (1, 2) indien 2 ploegen in de interclubs
 # ploegen = (1, 2, 3) indien 3 ploegen in de interclubs
-ploegen = (1,)
+ploegen = (1, 2, 3)
 # url voor locatie bestanden kbsb
-url_locatie = 'http://www.frbe-kbsb.be/sites/manager/ICN/16-17/'
+url_locatie = 'http://www.frbe-kbsb.be/sites/manager/ICN/18-19/'
 # dbase-bestand van kbsb (zit in zip-file)
 zip_input = 'Datas.zip'
-dbf_input = 'Part24L.DBF'
+dbf_input = 'Datas/Part24L.DBF'
 # dictionary om scores uit dbase-bestand om te zetten in getallen
 score = {'0': 0, '0F': 0, '1': 1, '1F': 1, '0.5': 0.5}
 # excel-bestand van kbsb
-xls_input = 'NationaalInterclub2016-2017_Uitslagen.xlsm'
+xls_input = 'NationaalInterclub2018-2019_Uitslagen.xlsm'
 # worksheets in excel-bestand
 ws_ronden = ('R1', 'R2', 'R3', 'R4', 'R5', 'R6',
              'R7', 'R8', 'R9', 'R10', 'R11')
 # cellen in excel-bestand, wijzigt elk seizoen indien reeks waarin
 # ploegen spelen, wijzigt. Eerste veld is steeds voor Dworp 1, tweede
 # voor Dworp 2, lege string indien geen Dworp 2
-cell_ranking_begin = ('A62', '')
-cell_ranking_eind = ('Q74', '')
-cell_uitslag_begin = ('G16', '')
-cell_uitslag_eind = ('K21', '')
+cell_ranking_begin = ('A92', 'A107', 'A392')
+cell_ranking_eind = ('Q104', 'Q119', 'Q404')
+cell_uitslag_begin = ('A24', 'G24', 'M72')
+cell_uitslag_eind = ('E29', 'K29', 'Q77')
 cell_datum = ('H5', '')
 # ni_dir is de directory voor alle data van seizoen
 cur_dir = os.path.abspath(os.curdir)
