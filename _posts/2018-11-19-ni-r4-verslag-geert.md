@@ -21,7 +21,7 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 image:
   path: 'assets/images/1819/ni/r4_d1_kjell.jpg'
-draft: true
+draft: false
 
 ---
 ## Vooraf
