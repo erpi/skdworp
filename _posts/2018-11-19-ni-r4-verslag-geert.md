@@ -28,7 +28,7 @@ draft: false
 
 Alweer de vierde interclub-ronde van het seizoen 2018-2019. Time flies. En stilaan moeten we aan de puntjes beginnen denken om het jaar met een gerust gemoed en ongeschonden door te komen. De eerste ploeg, op zijn paasbest, zakte af naar Brasschaat. De tegenstander, het vierde team van de lokale kring, werd vooraf getaxeerd als haalbaar.
 
-Voor team 2, thuis tegen de leiders uit Leuze, lagen de kaarten minder gunstig. Al kunnen we de puntjes goed gebruiken, in principe zijn we kansloos. En team 3 tenslotte had een derby tegen de buren uit Halle op de agenda. Met aan beide kanten een halve ploeg jeugdspelers, kon het alle kanten uit. Interessante potjes schaak op zondagnamiddag in het verschiet dus…
+Voor team 2, thuis tegen de leiders uit Leuze, lagen de kaarten minder gunstig. Al kunnen we de puntjes goed gebruiken, in principe zijn we kansloos. En team 3 tenslotte had een derby tegen de buren uit Halle op de agenda. Met aan beide kanten een halve ploeg jeugdspelers, kon het alle kanten uit. Interessante potjes schaak op zondagnamiddag in het verschiet dus…<!--more-->
 
 ## Een puntje hier, een pintje daar en klaar is Kees
 
