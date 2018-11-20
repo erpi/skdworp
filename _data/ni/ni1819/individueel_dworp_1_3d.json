@@ -1,0 +1,56 @@
+[
+  {
+    "ronde": "1",
+    "datum": "30-09-2018",
+    "thuis": "228 Dworp 1",
+    "uit": "244 Brussels 1",
+    "tscore": 3.0,
+    "uscore": 3.0,
+    "tgem": 2017,
+    "ugem": 2024,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Vanderwaeren, Serge", "uspeler": "Iolis, Oleg", "telo": 2124, "uelo": 2152, "tstam": 20621, "ustam": 87921},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Hoofstat, Tom", "uspeler": "Kolp, Theo", "telo": 2104, "uelo": 2005, "tstam": 42706, "ustam": 50003},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Spaens, Kjell", "uspeler": "D'Haijere, Arnaud", "telo": 1982, "uelo": 1973, "tstam": 29343, "ustam": 75701},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lot, Diederik", "uspeler": "Sunnerberg, Constantin", "telo": 2018, "uelo": 2022, "tstam": 9954, "ustam": 74349},
+      {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "Grodent, Gerald", "telo": 1963, "uelo": 2015, "tstam": 34584, "ustam": 40924},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Denys, Frank", "uspeler": "Tannemaat, Stephane", "telo": 1911, "uelo": 1975, "tstam": 21881, "ustam": 72516}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "07-10-2018",
+    "thuis": "114 Mechelen 2",
+    "uit": "228 Dworp 1",
+    "tscore": 3.0,
+    "uscore": 3.0,
+    "tgem": 1981,
+    "ugem": 1974,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Gooris, Jan", "uspeler": "Vanderwaeren, Serge", "telo": 2117, "uelo": 2124, "tstam": 36323, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "Decoster, Sam", "uspeler": "Van Hoofstat, Tom", "telo": 2063, "uelo": 2104, "tstam": 29424, "ustam": 42706},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Vlaenderen, Koen", "uspeler": "Spaens, Kjell", "telo": 2021, "uelo": 1982, "tstam": 82031, "ustam": 29343},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Pelgrims, Jan", "uspeler": "De Reymaeker, Walter", "telo": 1921, "uelo": 1963, "tstam": 32212, "ustam": 34584},
+      {"tr": "1", "ur": "0", "tspeler": "Cliteur, Olaf", "uspeler": "Denys, Frank", "telo": 1916, "uelo": 1911, "tstam": 29912, "ustam": 21881},
+      {"tr": "1", "ur": "0", "tspeler": "Cornille, Yves", "uspeler": "Bertrand, Stijn", "telo": 1849, "uelo": 1757, "tstam": 11319, "ustam": 21253}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "28-10-2018",
+    "thuis": "228 Dworp 1",
+    "uit": "514 Fontaine 3",
+    "tscore": 1.5,
+    "uscore": 4.5,
+    "tgem": 1976,
+    "ugem": 2114,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren, Serge", "uspeler": "Herman, Jean", "telo": 2124, "uelo": 2281, "tstam": 20621, "ustam": 73296},
+      {"tr": "0", "ur": "1", "tspeler": "Van Hoofstat, Tom", "uspeler": "Wantiez, Fabrice", "telo": 2104, "uelo": 2232, "tstam": 42706, "ustam": 70823},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Spaens, Kjell", "uspeler": "Pierard, Florian", "telo": 1982, "uelo": 2098, "tstam": 29343, "ustam": 89711},
+      {"tr": "0", "ur": "1", "tspeler": "Lot, Diederik", "uspeler": "Kieffer, Christian", "telo": 2018, "uelo": 2094, "tstam": 9954, "ustam": 87122},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Denys, Frank", "uspeler": "Di Cosmo, Jonathan", "telo": 1911, "uelo": 2018, "tstam": 21881, "ustam": 90981},
+      {"tr": "0", "ur": "1", "tspeler": "Van De Velde, Filip", "uspeler": "Graeber, Ivo", "telo": 1718, "uelo": 1958, "tstam": 31682, "ustam": 13638}
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "ronde": "1",
+    "datum": "30-09-2018",
+    "thuis": "228 Dworp 2",
+    "uit": "548 Caissa Europe 2",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1828,
+    "ugem": 1685,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verrijken, Geert", "uspeler": "Marchal, Laurent", "telo": 1965, "uelo": 1842, "tstam": 62766, "ustam": 60517},
+      {"tr": "0", "ur": "1", "tspeler": "Vennekens, Camiel", "uspeler": "Akuatse, Angel Kaleb", "telo": 1788, "uelo": 1766, "tstam": 37168, "ustam": 13468},
+      {"tr": "0", "ur": "1", "tspeler": "De Bosscher, Peter", "uspeler": "De Le Court, Lucas", "telo": 1803, "uelo": 1718, "tstam": 655, "ustam": 60726},
+      {"tr": "1", "ur": "0", "tspeler": "Bertrand, Stijn", "uspeler": "Marchal, Anais", "telo": 1757, "uelo": 1414, "tstam": 21253, "ustam": 12610}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "07-10-2018",
+    "thuis": "511 EDC 1",
+    "uit": "228 Dworp 2",
+    "tscore": 1,
+    "uscore": 3,
+    "tgem": 1503,
+    "ugem": 1819,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Maltier, Benjamin", "uspeler": "Verrijken, Geert", "telo": 1653, "uelo": 1965, "tstam": 17296, "ustam": 62766},
+      {"tr": "1", "ur": "0", "tspeler": "Sahakyan, Andranik", "uspeler": "Vennekens, Camiel", "telo": 1609, "uelo": 1788, "tstam": 14337, "ustam": 37168},
+      {"tr": "0", "ur": "1", "tspeler": "Di Pronio, Mario", "uspeler": "De Bosscher, Peter", "telo": 1468, "uelo": 1803, "tstam": 14304, "ustam": 655},
+      {"tr": "0", "ur": "1", "tspeler": "Drappa, Francesco", "uspeler": "Van De Velde, Filip", "telo": 1282, "uelo": 1718, "tstam": 14298, "ustam": 31682}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "28-10-2018",
+    "thuis": "607 KSK Rochade 3",
+    "uit": "228 Dworp 2",
+    "tscore": 2.5,
+    "uscore": 1.5,
+    "tgem": 1866,
+    "ugem": 1801,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Roessler, Eckhard", "uspeler": "Verrijken, Geert", "telo": 2195, "uelo": 1965, "tstam": 25909, "ustam": 62766},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Sproten, Martina", "uspeler": "Vennekens, Camiel", "telo": 1852, "uelo": 1788, "tstam": 94081, "ustam": 37168},
+      {"tr": "0", "ur": "1", "tspeler": "Roessler, Nicolas", "uspeler": "De Bosscher, Peter", "telo": 1840, "uelo": 1803, "tstam": 10653, "ustam": 655},
+      {"tr": "1", "ur": "0", "tspeler": "Roessler, Christian", "uspeler": "Cornelis, Eric", "telo": 1575, "uelo": 1646, "tstam": 10659, "ustam": 76317}
+    ]
+  }
+]

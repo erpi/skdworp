@@ -1,0 +1,50 @@
+[
+  {
+    "ronde": "1",
+    "datum": "30-09-2018",
+    "thuis": "228 Dworp 3",
+    "uit": "114 Mechelen 9",
+    "tscore": 2,
+    "uscore": 2,
+    "tgem": 1579,
+    "ugem": 1339,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Van De Velde, Filip", "uspeler": "Cuyx, Tomas", "telo": 1718, "uelo": 1523, "tstam": 31682, "ustam": 13921},
+      {"tr": "1", "ur": "0", "tspeler": "Baert, Yves", "uspeler": "Vranckx, Jonas", "telo": 1473, "uelo": 1365, "tstam": 48721, "ustam": 16085},
+      {"tr": "1", "ur": "0", "tspeler": "Palmans, Niels", "uspeler": "Wibowo, Ruben", "telo": 1545, "uelo": 1272, "tstam": 17733, "ustam": 15305},
+      {"tr": "0", "ur": "1", "tspeler": "Laureys, Mats", "uspeler": "Knockaert, Milo", "telo": 0, "uelo": 1197, "tstam": 12750, "ustam": 14651}
+    ]
+  },
+  {
+    "ronde": "2",
+    "datum": "07-10-2018",
+    "thuis": "201 CREB 3",
+    "uit": "228 Dworp 3",
+    "tscore": 2,
+    "uscore": 2,
+    "tgem": 1556,
+    "ugem": 1595,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Lhoir, Thierry", "uspeler": "Malfliet, Bernard", "telo": 1616, "uelo": 1716, "tstam": 83879, "ustam": 31348},
+      {"tr": "1", "ur": "0", "tspeler": "Oliphant, Tim", "uspeler": "Cornelis, Eric", "telo": 1576, "uelo": 1646, "tstam": 12390, "ustam": 76317},
+      {"tr": "1", "ur": "0", "tspeler": "Micciche, Ruben", "uspeler": "Baert, Yves", "telo": 1570, "uelo": 1473, "tstam": 14274, "ustam": 48721},
+      {"tr": "0", "ur": "1", "tspeler": "Voloaca, George", "uspeler": "Palmans, Niels", "telo": 1463, "uelo": 1545, "tstam": 15627, "ustam": 17733}
+    ]
+  },
+  {
+    "ronde": "3",
+    "datum": "28-10-2018",
+    "thuis": "961 Braine l'Alleud 3",
+    "uit": "228 Dworp 3",
+    "tscore": 2.5,
+    "uscore": 1.5,
+    "tgem": 1320,
+    "ugem": 1509,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Foissey, Thibault", "uspeler": "Baert, Yves", "telo": 1418, "uelo": 1473, "tstam": 14211, "ustam": 48721},
+      {"tr": "0", "ur": "1", "tspeler": "Wery, Arthur", "uspeler": "Palmans, Niels", "telo": 1390, "uelo": 1545, "tstam": 13645, "ustam": 17733},
+      {"tr": "1", "ur": "0", "tspeler": "Wery, Laurent", "uspeler": "Lerinckx, Sander", "telo": 1273, "uelo": 0, "tstam": 14814, "ustam": 12702},
+      {"tr": "1", "ur": "0", "tspeler": "Foissey, Laurent", "uspeler": "Lerinckx, Niels", "telo": 1197, "uelo": 0, "tstam": 16138, "ustam": 12699}
+    ]
+  }
+]
