@@ -52,5 +52,23 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Denys, Frank", "uspeler": "Di Cosmo, Jonathan", "telo": 1911, "uelo": 2018, "tstam": 21881, "ustam": 90981},
       {"tr": "0", "ur": "1", "tspeler": "Van De Velde, Filip", "uspeler": "Graeber, Ivo", "telo": 1718, "uelo": 1958, "tstam": 31682, "ustam": 13638}
     ]
+  },
+  {
+    "ronde": "4",
+    "datum": "18-11-2018",
+    "thuis": "174 Brasschaat 4",
+    "uit": "228 Dworp 1",
+    "tscore": 3.0,
+    "uscore": 3.0,
+    "tgem": 1989,
+    "ugem": 2017,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Hawinkel, Stijn", "uspeler": "Vanderwaeren, Serge", "telo": 2135, "uelo": 2124, "tstam": 11513, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Kalle, Erwin", "uspeler": "Van Hoofstat, Tom", "telo": 2002, "uelo": 2104, "tstam": 12885, "ustam": 42706},
+      {"tr": "0", "ur": "1", "tspeler": "De Smedt, Mark", "uspeler": "Spaens, Kjell", "telo": 1964, "uelo": 1982, "tstam": 28240, "ustam": 29343},
+      {"tr": "1", "ur": "0", "tspeler": "Osinga, Angelique", "uspeler": "Lot, Diederik", "telo": 1937, "uelo": 2018, "tstam": 12370, "ustam": 9954},
+      {"tr": "1", "ur": "0", "tspeler": "De Hert, Oliver", "uspeler": "De Reymaeker, Walter", "telo": 1953, "uelo": 1963, "tstam": 51195, "ustam": 34584},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Hopman-Been, Rob", "uspeler": "Denys, Frank", "telo": 1943, "uelo": 1911, "tstam": 15747, "ustam": 21881}
+    ]
   }
 ]

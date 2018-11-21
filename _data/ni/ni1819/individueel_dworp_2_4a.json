@@ -46,5 +46,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Roessler, Nicolas", "uspeler": "De Bosscher, Peter", "telo": 1840, "uelo": 1803, "tstam": 10653, "ustam": 655},
       {"tr": "1", "ur": "0", "tspeler": "Roessler, Christian", "uspeler": "Cornelis, Eric", "telo": 1575, "uelo": 1646, "tstam": 10659, "ustam": 76317}
     ]
+  },
+  {
+    "ronde": "4",
+    "datum": "18-11-2018",
+    "thuis": "228 Dworp 2",
+    "uit": "541 Leuze 1",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1828,
+    "ugem": 1924,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Chauvon, Guillaume", "telo": 1965, "uelo": 1999, "tstam": 62766, "ustam": 82783},
+      {"tr": "0", "ur": "1", "tspeler": "Vennekens, Camiel", "uspeler": "Hias, Ludovic", "telo": 1788, "uelo": 2025, "tstam": 37168, "ustam": 79316},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher, Peter", "uspeler": "Baguet, Frederic", "telo": 1803, "uelo": 1879, "tstam": 655, "ustam": 93335},
+      {"tr": "0", "ur": "1", "tspeler": "Bertrand, Stijn", "uspeler": "Knudde, Francis", "telo": 1757, "uelo": 1793, "tstam": 21253, "ustam": 71081}
+    ]
   }
 ]

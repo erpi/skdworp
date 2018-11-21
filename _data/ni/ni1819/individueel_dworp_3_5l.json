@@ -46,5 +46,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Wery, Laurent", "uspeler": "Lerinckx, Sander", "telo": 1273, "uelo": 0, "tstam": 14814, "ustam": 12702},
       {"tr": "1", "ur": "0", "tspeler": "Foissey, Laurent", "uspeler": "Lerinckx, Niels", "telo": 1197, "uelo": 0, "tstam": 16138, "ustam": 12699}
     ]
+  },
+  {
+    "ronde": "4",
+    "datum": "18-11-2018",
+    "thuis": "228 Dworp 3",
+    "uit": "233 DZD Halle 1",
+    "tscore": 3,
+    "uscore": 1,
+    "tgem": 1560,
+    "ugem": 1409,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis, Eric", "uspeler": "Van Haesendonck, Robbe", "telo": 1646, "uelo": 1409, "tstam": 76317, "ustam": 16425},
+      {"tr": "1", "ur": "0", "tspeler": "Baert, Yves", "uspeler": "Geerts, Mark-Johan", "telo": 1473, "uelo": 0, "tstam": 48721, "ustam": 13175},
+      {"tr": "0", "ur": "1", "tspeler": "Beckers, Stijn", "uspeler": "Schepens, Aron", "telo": 0, "uelo": 0, "tstam": 17472, "ustam": 19643},
+      {"tr": "1", "ur": "0", "tspeler": "Laureys, Mats", "uspeler": "Van Overstraeten, Frank", "telo": 0, "uelo": 0, "tstam": 12750, "ustam": 19645}
+    ]
   }
 ]
