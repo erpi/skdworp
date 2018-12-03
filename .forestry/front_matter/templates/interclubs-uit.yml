@@ -143,5 +143,6 @@ fields:
   description: verander 'true' in 'false' als het publiek het verslag mag vinden (=
     publiceren)
 pages:
-- _posts/test.md
 - _posts/2018-10-08-ni-r2-verslag-geert.md
+- _posts/test.md
+- _posts/zon-blauwe-hemel-en-een-donderwolkje.md

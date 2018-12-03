@@ -134,5 +134,4 @@ fields:
   label: draft
   default: true
 pages:
-- _posts/brains-are-the-new-sixpack.md
 - _posts/test-2.md
