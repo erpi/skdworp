@@ -22,7 +22,7 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 image:
   path: 'assets/images/1819/ni/r5_apres_ski.jpg'
-draft: true
+draft: false
 ---
 ## Vooraf
 
@@ -52,13 +52,16 @@ Kjell met zwart op bord 3 had het niet onder de markt tegen de voormalige Belgis
 
 Wel, waar zullen we ons praatje beginnen? Bosvoorde speelde voor de gelegenheid in Ukkel. Dus ver moesten we (Camiel uitgezonderd) niet rijden. Tot zover het goede nieuws. Want met 2177, 2156 en 1920 Elo op de eerste drie borden was ons lot eigenlijk al bij voorbaat bezegeld. Enkel Stijn op bord 4 had een gelijkwaardige tegenstander. En de reden waarom we met een beestenploeg te maken kregen, lag bij het eerste team van Bosvoorde. Dat vocht in eerste afdeling namelijk een degradatieduel uit en had daarvoor al zijn grote kanonnen –genre GM Luc Winants, Elo 2500- opgetrommeld. Met als onrechtstreeks gevolg dat we in vierde het kanonnenvlees van dienst waren.
 
-![Wat ruggen van Dworp 2][foto 2]
-
 Als ik het goed gezien heb vanuit mijn hoekje –met enkel zicht op een zwarte muur- had Stijn met wit op bord 4 eerst gedaan. Een sensationeel partijtje schaak. De thuisspeler offerde een stuk en stond daarna torenhoog gewonnen. Stijn moest dame tegen toren geven om de stelling min of meer te houden. Het daarop volgende eindspel van dame tegen toren en stuk verzandde uiteindelijk in remise. Oef! Door het oog van de naald. Dat geeft de brave burger een beetje moed. 0,5-0,5 voor de goei.
 
-En ja, daar is het ook bij gebleven. Peter op bord 3 met zwart deed erg zijn best, kreeg ook een redelijke stelling waarin hij echter had moeten blijven aanvallen in plaats van de dame terug te trekken. Het leven is aan de durvers en (naar het schijnt ook aan de rappen) dames terugtrekken, lijkt me sowieso nooit een goed idee. Het punt zal dus voor een andere keer zijn. 1,5-0,5 voor de thuisploeg.
+![Foto "angstige" Peter][foto 2]
+
+
+En ja, daar is het ook bij gebleven. Peter op bord 3 met zwart deed erg zijn best, kreeg ook een redelijke stelling waarin hij echter had moeten blijven aanvallen in plaats van de dame terug te trekken. Het leven is aan de durvers (naar het schijnt ook aan de rappen) en dames terugtrekken, lijkt me sowieso nooit een goed idee. Het punt zal dus voor een andere keer zijn. 1,5-0,5 voor de thuisploeg.
 
 Vervolgens was het de beurt aan Camiel op bord 2 met wit. Langzaamaan is de goede vorm aan het terugkomen want onze vriend uit Boom wikkelde netjes af naar een eindspel. Zijn pionnenstructuur was weliswaar compleet naar de haaien maar misschien was deze stelling toch wel houdbaar –aldus mijn, toegegeven, zeer oppervlakkige analyse. In het praktische spel en tegen een meneer met 351 Elo meer (!) lukte het evenwel niet. 2,5-0,5 en het kalf is al verdronken.
+
+![Foto Geert met zijn 2 paarden][foto 3]
 
 De enige partij waarvan ik iets gezien heb –maar afgaande op de uitslag duidelijk niet genoeg - was die van mezelf op bord 1 met zwart. Kort na de opening slaagde de Bosvoordenaar erin een kwaliteit te winnen –half geofferd, half geblunderd. Maar daarna, ha daarna. Zwart kon na moeizaam manoeuvreren beide paarden op zeer sterke velden tegenover de witte koningsstelling positioneren. Een koning op de tocht ook. En wit had tot overmaat van ramp nog een slechte loper. Ja, ik zag het weer zitten. Evenwel, voor wie het niet wist –of het niet wil geloven, zoals ik- er is echt een hemelsbreed verschil tussen een speler met 2000 en iemand van bijna 2200 Elo. Wit verdedigde secuur en in wederzijdse vliegende tijdnood tastte ik even mis. Meteen cash betaald, zo werd net na tijdcontrole troosteloos duidelijk. Met opgeheven hoofd onderuit en het zware verdict luidt 3,5-0,5 verlies.
 
@@ -66,7 +69,7 @@ De enige partij waarvan ik iets gezien heb –maar afgaande op de uitslag duidel
 
 De collega’s van team 3 speelden net zoals ploeg 2 in Het Huys, Vlaams cultureel centrum in Ukkel. Het enige Vlaamse aan dit hele huis is waarschijnlijk het geld dat erin gepompt wordt. Dat is echter een ander verhaal en geschoren worden we toch. Net zoals ploeg 2 moest team 3 een sterk Bosvoords varkentje wassen dat gemiddeld meer dan 100 Elo zwaarder was. Vooral onze twee jeugdspelers op borden 3 en 4 stonden voor een loodzware opgave. Vooraan was er meer evenwicht.
 
-![Foto met Mats, Felix, Niels en Yves][foto 3]
+![Foto met Mats, Felix, Niels en Yves][foto 4]
 
 Felix op bord 3 stond met zwart al vrij snel een toren achter. Een vrij troosteloze stelling waarin hij noodgedwongen de pijp aan maarten moest geven. Toch goed geprobeerd en een volgende keer beter. Meteen 1-0 voor Bosvoorde.
 
@@ -80,7 +83,7 @@ De eer wordt gelukkig gered door vlaggenschip Yves op bord 1 met zwart. Het lijk
 
 Beginnen we met het goede nieuws. Ons topteam kan in het ruime pak onbezorgd de winterstop in. Hopelijk trekken we nu lessen uit de akkefietjes van vorig jaar. Toen was het na een goed seizoenbegin toch nog bibberen tot in de voorlaatste ronde. Zaak is om nu, eens de lange en koude winter voorbij, snel nog enkele puntjes te pakken. Pas op die voorwaarde kunnen we onze kleinkinderen later wilde verhalen vertellen over dat onbezorgde seizoen 2018-2019.
 
-![Après-ski][foto 4]
+![Après-ski][foto 5]
 
 “Het is in ieder geval aangenamer om de week te beginnen en een samenvatting te schrijven na winst dan na verlies”, analyseert Diederik. En of hij gelijk heeft! En zo zitten we meteen bij ons zorgenkindje, team 2. Zorgen, ja maar vooral ook omdat de tegenstand in een sowieso al sterke reeks telkens en telkens weer met de strafste ploeg uitpakt. Ploeg 2 heeft het dan ook niet onder de markt. Opmerkelijk toch dat deze IC-ronde Bosvoorde in vierde afdeling sterker was dan Caïssa Europe in derde. Hoe dan ook, we zullen het ermee moeten doen. Maar de sfeer is goed en we blijven gaan. Peter, Camiel & Stijn, read my lips: ooit worden moed en volharding beloond.
 
@@ -89,6 +92,7 @@ Team drie tot slot situeert zich ondertussen onderaan de middenmoot in het klass
 En tot slot: wie zondags niet meespeelt in de interclubcompetitie heeft dik ongelijk. Natuurlijk in de eerste plaats omwille van het schaken. Maar daarna is er uiteraard de après-ski. Zo was het ook afgelopen zondag fijn verbroederen onder clubgenoten. Waarbij de winnaars de verliezers troosten. Omgekeerd gebeurt ook. Die arme bloedjes van ploeg één zaten immers helemaal in zak en as. Een halve zondag overleven op -zegge en schrijven- twee Leffe's. Twee hé. Met zes man hé. Faut le faire. En ze zijn er nog in geslaagd ook. Heel straf!
 
 [foto 1]: {{ "assets/images/1819/ni/r5_d1_kjell_walter_frank.jpg" | absolute_url }}
-[foto 2]: {{ "assets/images/1819/ni/r5_d2.jpg" | absolute_url }}
-[foto 3]: {{ "assets/images/1819/ni/r5_d3_mats_felix.jpg" | absolute_url }}
-[foto 4]: {{ "assets/images/1819/ni/r5_apres_ski.jpg" | absolute_url }}
+[foto 2]: {{ "assets/images/1819/ni/r5_d2_peter.jpg" | absolute_url }}
+[foto 3]: {{ "assets/images/1819/ni/r5_d2_geert.jpg" | absolute_url }}
+[foto 4]: {{ "assets/images/1819/ni/r5_d3_mats_felix.jpg" | absolute_url }}
+[foto 5]: {{ "assets/images/1819/ni/r5_apres_ski.jpg" | absolute_url }}
