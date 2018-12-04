@@ -62,5 +62,21 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher, Peter", "uspeler": "Baguet, Frederic", "telo": 1803, "uelo": 1879, "tstam": 655, "ustam": 93335},
       {"tr": "0", "ur": "1", "tspeler": "Bertrand, Stijn", "uspeler": "Knudde, Francis", "telo": 1757, "uelo": 1793, "tstam": 21253, "ustam": 71081}
     ]
+  },
+  {
+    "ronde": "5",
+    "datum": "02-12-2018",
+    "thuis": "239 Boitsfort 2",
+    "uit": "228 Dworp 2",
+    "tscore": 3.5,
+    "uscore": 0.5,
+    "tgem": 2003,
+    "ugem": 1828,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Lacroix, Bruno", "uspeler": "Verrijken, Geert", "telo": 2177, "uelo": 1965, "tstam": 97721, "ustam": 62766},
+      {"tr": "1", "ur": "0", "tspeler": "De Villers, Mourad", "uspeler": "Vennekens, Camiel", "telo": 2156, "uelo": 1788, "tstam": 74365, "ustam": 37168},
+      {"tr": "1", "ur": "0", "tspeler": "Jayes, Thomas William", "uspeler": "De Bosscher, Peter", "telo": 1920, "uelo": 1803, "tstam": 12767, "ustam": 655},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Silovy, Alain", "uspeler": "Bertrand, Stijn", "telo": 1757, "uelo": 1757, "tstam": 87823, "ustam": 21253}
+    ]
   }
 ]

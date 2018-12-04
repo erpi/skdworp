@@ -70,5 +70,23 @@
       {"tr": "1", "ur": "0", "tspeler": "De Hert, Oliver", "uspeler": "De Reymaeker, Walter", "telo": 1953, "uelo": 1963, "tstam": 51195, "ustam": 34584},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Hopman-Been, Rob", "uspeler": "Denys, Frank", "telo": 1943, "uelo": 1911, "tstam": 15747, "ustam": 21881}
     ]
+  },
+  {
+    "ronde": "5",
+    "datum": "02-12-2018",
+    "thuis": "548 Caissa Europe 1",
+    "uit": "228 Dworp 1",
+    "tscore": 1.5,
+    "uscore": 4.5,
+    "tgem": 1867,
+    "ugem": 2017,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Semlali, Hassan", "uspeler": "Vanderwaeren, Serge", "telo": 2051, "uelo": 2124, "tstam": 63291, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Bouzidi, Mohamed", "uspeler": "Van Hoofstat, Tom", "telo": 1893, "uelo": 2104, "tstam": 12794, "ustam": 42706},
+      {"tr": "0", "ur": "1", "tspeler": "Marchal, Laurent", "uspeler": "Spaens, Kjell", "telo": 1842, "uelo": 1982, "tstam": 60517, "ustam": 29343},
+      {"tr": "0", "ur": "1", "tspeler": "Avilov, Igor", "uspeler": "Lot, Diederik", "telo": 1876, "uelo": 2018, "tstam": 60408, "ustam": 9954},
+      {"tr": "0", "ur": "1", "tspeler": "Marchal, Patrice", "uspeler": "De Reymaeker, Walter", "telo": 1821, "uelo": 1963, "tstam": 76601, "ustam": 34584},
+      {"tr": "1", "ur": "0", "tspeler": "De Le Court, Lucas", "uspeler": "Denys, Frank", "telo": 1718, "uelo": 1911, "tstam": 60726, "ustam": 21881}
+    ]
   }
 ]
