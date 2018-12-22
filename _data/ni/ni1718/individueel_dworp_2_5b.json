@@ -95,6 +95,22 @@
       {"tr": "1", "ur": "0", "tspeler": "Cornelis, Eric", "uspeler": "Geerts, Mark-Johan", "telo": 1675, "uelo": "ng", "tstam": 76317, "ustam": 13175}
     ]
   },
+    {
+    "ronde": "7",
+    "datum": "25-02-2018",
+    "thuis": "228 Dworp 2",
+    "uit": "bye",
+    "tscore": "",
+    "uscore": "",
+    "tgem": "",
+    "ugem": "",
+    "borden": [
+      {"tr": "", "ur": "0", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "", "ur": "0", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "", "ur": "0", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "", "ur": "0", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
+    ]
+  },
   {
     "ronde": "8",
     "datum": "11-03-2018",
