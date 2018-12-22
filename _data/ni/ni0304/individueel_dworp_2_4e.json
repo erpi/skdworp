@@ -119,12 +119,12 @@
     "tscore": "4",
     "uscore": "0",
     "tgem": "1865",
-    "ugem": "1706",
+    "ugem": "1717",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Samray Thomas", "uspeler": "Debast Patrick", "telo": "1942", "uelo": "1828", "tstam": "89681", "ustam": "76333"},
-      {"tr": "1", "ur": "0", "tspeler": "Desinte David", "uspeler": "Mertens Fran\u00e7ois", "telo": "1858", "uelo": "1858", "tstam": "66800", "ustam": "31526"},
-      {"tr": "1", "ur": "0", "tspeler": "Baguet Fr\u00e9d\u00e9ric", "uspeler": "van Duuren Louis", "telo": "1860", "uelo": "1735", "tstam": "93335", "ustam": "26816"},
-      {"tr": "1", "ur": "0", "tspeler": "Fostiez Pascal", "uspeler": "Puttemans Patrick", "telo": "1798", "uelo": "1402", "tstam": "93360", "ustam": "28681"}
+      {"tr": "1", "ur": "0", "tspeler": "Samray Thomas", "uspeler": "Debast Patrick", "telo": "1942", "uelo": "1862", "tstam": "89681", "ustam": "76333"},
+      {"tr": "1", "ur": "0", "tspeler": "Desinte David", "uspeler": "Mertens Fran\u00e7ois", "telo": "1858", "uelo": "1857", "tstam": "66800", "ustam": "31526"},
+      {"tr": "1", "ur": "0", "tspeler": "Baguet Fr\u00e9d\u00e9ric", "uspeler": "van Duuren Louis", "telo": "1860", "uelo": "1758", "tstam": "93335", "ustam": "26816"},
+      {"tr": "1", "ur": "0", "tspeler": "Fostiez Pascal", "uspeler": "Puttemans Patrick", "telo": "1798", "uelo": "1390", "tstam": "93360", "ustam": "28681"}
     ]
   },
   {
@@ -134,13 +134,13 @@
     "uit": "272 Tib\u00e9checs 1",
     "tscore": "0.5",
     "uscore": "3.5",
-    "tgem": "1700",
+    "tgem": "1715",
     "ugem": "1946",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Nolf St\u00e9phane", "telo": "1828", "uelo": "2038", "tstam": "76333", "ustam": "81698"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh Mieke", "uspeler": "Rauta Nicolas", "telo": "1836", "uelo": "1931", "tstam": "353", "ustam": "68497"},
-      {"tr": "0", "ur": "1", "tspeler": "van Duuren Louis", "uspeler": "Couillard Marc", "telo": "1735", "uelo": "1955", "tstam": "26816", "ustam": "42307"},
-      {"tr": "0", "ur": "1", "tspeler": "Puttemans Patrick", "uspeler": "Vanderhelstraete Luc", "telo": "1402", "uelo": "1861", "tstam": "28681", "ustam": "65293"}
+      {"tr": "0", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Nolf St\u00e9phane", "telo": "1862", "uelo": "2038", "tstam": "76333", "ustam": "81698"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh Mieke", "uspeler": "Rauta Nicolas", "telo": "1849", "uelo": "1931", "tstam": "353", "ustam": "68497"},
+      {"tr": "0", "ur": "1", "tspeler": "van Duuren Louis", "uspeler": "Couillard Marc", "telo": "1758", "uelo": "1955", "tstam": "26816", "ustam": "42307"},
+      {"tr": "0", "ur": "1", "tspeler": "Puttemans Patrick", "uspeler": "Vanderhelstraete Luc", "telo": "1390", "uelo": "1861", "tstam": "28681", "ustam": "65293"}
     ]
   },
   {
@@ -150,13 +150,13 @@
     "uit": "501 CRE Charleroi 3",
     "tscore": "3",
     "uscore": "1",
-    "tgem": "1658",
+    "tgem": "1714",
     "ugem": "1803",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh Mieke", "uspeler": "Van Cauwenbergh Philippe", "telo": "1836", "uelo": "1753", "tstam": "353", "ustam": "60569"},
-      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "Krasucki Youri", "telo": "1735", "uelo": "1846", "tstam": "26816", "ustam": "88323"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Puttemans Patrick", "uspeler": "Hanset Marc", "telo": "1402", "uelo": "1810", "tstam": "28681", "ustam": "66311"}
+      {"tr": "1", "ur": "0", "tspeler": "Mertens François", "uspeler": "Léonard Fabrice", "telo": "1857", "uelo": "1996", "tstam": "31526", "ustam": ""},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Maeckelbergh Mieke", "uspeler": "Van Cauwenbergh Philippe", "telo": "1849", "uelo": "1753", "tstam": "353", "ustam": "60569"},
+      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "Krasucki Youri", "telo": "1758", "uelo": "1846", "tstam": "26816", "ustam": "88323"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Puttemans Patrick", "uspeler": "Hanset Marc", "telo": "1390", "uelo": "1810", "tstam": "28681", "ustam": "66311"}
     ]
   },
   {
@@ -167,12 +167,12 @@
     "tscore": "2",
     "uscore": "2",
     "tgem": "1729",
-    "ugem": "1700",
+    "ugem": "1715",
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Verhasselt Kris", "uspeler": "Debast Patrick", "telo": "1856", "uelo": "1828", "tstam": "34151", "ustam": "76333"},
-      {"tr": "0", "ur": "1", "tspeler": "Vanherck Jeroen", "uspeler": "Maeckelbergh Mieke", "telo": "1759", "uelo": "1836", "tstam": "36005", "ustam": "353"},
-      {"tr": "1", "ur": "0", "tspeler": "De Wael Karel", "uspeler": "van Duuren Louis", "telo": "1699", "uelo": "1735", "tstam": "6203", "ustam": "26816"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Michiels Koen", "uspeler": "Puttemans Patrick", "telo": "1601", "uelo": "1402", "tstam": "17175", "ustam": "28681"}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verhasselt Kris", "uspeler": "Debast Patrick", "telo": "1856", "uelo": "1862", "tstam": "34151", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Vanherck Jeroen", "uspeler": "Maeckelbergh Mieke", "telo": "1759", "uelo": "1849", "tstam": "36005", "ustam": "353"},
+      {"tr": "1", "ur": "0", "tspeler": "De Wael Karel", "uspeler": "van Duuren Louis", "telo": "1699", "uelo": "1758", "tstam": "6203", "ustam": "26816"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Michiels Koen", "uspeler": "Puttemans Patrick", "telo": "1601", "uelo": "1390", "tstam": "17175", "ustam": "28681"}
     ]
   }
 ]
