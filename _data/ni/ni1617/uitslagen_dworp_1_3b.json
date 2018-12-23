@@ -6,7 +6,7 @@
       {"tr": "3", "ur": "3", "thuis": "174 brasschaat 2", "uit": "143 temse 2"},
       {"tr": "5", "ur": "1", "thuis": "952 wavre 1", "uit": "518 soignies 1"},
       {"tr": "4", "ur": "2", "thuis": "226 europchess 2", "uit": "541 leuze 1"},
-      {"tr": "2.5", "ur": "3.5", "thuis": "278 pantin 1", "uit": "401 kgsrl 4"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "278 pantin 1", "uit": "401 kgs Ruy Lopez 4"},
       {"tr": "1.5", "ur": "4.5", "thuis": "228 dworp 1", "uit": "261 opwijk 1"},
       {"tr": "2", "ur": "4", "thuis": "244 brussels 1", "uit": "432 wetteren 2"}
     ]
@@ -17,7 +17,7 @@
     "uitslagen": [
       {"tr": "4", "ur": "2", "thuis": "432 wetteren 2", "uit": "174 brasschaat 2"},
       {"tr": "5", "ur": "1", "thuis": "261 opwijk 1", "uit": "244 brussels 1"},
-      {"tr": "3", "ur": "3", "thuis": "401 kgsrl 4", "uit": "228 dworp 1"},
+      {"tr": "3", "ur": "3", "thuis": "401 kgs Ruy Lopez 4", "uit": "228 dworp 1"},
       {"tr": "3", "ur": "3", "thuis": "541 leuze 1", "uit": "278 pantin 1"},
       {"tr": "1", "ur": "5", "thuis": "518 soignies 1", "uit": "226 europchess 2"},
       {"tr": "0", "ur": "6", "thuis": "143 temse 2", "uit": "952 wavre 1"}
@@ -31,7 +31,7 @@
       {"tr": "0.5", "ur": "5.5", "thuis": "226 europchess 2", "uit": "143 temse 2"},
       {"tr": "5", "ur": "1", "thuis": "278 pantin 1", "uit": "518 soignies 1"},
       {"tr": "2.5", "ur": "3.5", "thuis": "228 dworp 1", "uit": "541 leuze 1"},
-      {"tr": "2", "ur": "4", "thuis": "244 brussels 1", "uit": "401 kgsrl 4"},
+      {"tr": "2", "ur": "4", "thuis": "244 brussels 1", "uit": "401 kgs Ruy Lopez 4"},
       {"tr": "1.5", "ur": "4.5", "thuis": "432 wetteren 2", "uit": "261 opwijk 1"}
     ]
   },
@@ -40,7 +40,7 @@
     "datum": "27-11-2016",
     "uitslagen": [
       {"tr": "4.5", "ur": "1.5", "thuis": "261 opwijk 1", "uit": "174 brasschaat 2"},
-      {"tr": "4.5", "ur": "1.5", "thuis": "401 kgsrl 4", "uit": "432 wetteren 2"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "401 kgs Ruy Lopez 4", "uit": "432 wetteren 2"},
       {"tr": "3.5", "ur": "2.5", "thuis": "541 leuze 1", "uit": "244 brussels 1"},
       {"tr": "2.5", "ur": "3.5", "thuis": "518 soignies 1", "uit": "228 dworp 1"},
       {"tr": "2", "ur": "4", "thuis": "143 temse 2", "uit": "278 pantin 1"},
@@ -56,14 +56,14 @@
       {"tr": "4", "ur": "2", "thuis": "228 dworp 1", "uit": "143 temse 2"},
       {"tr": "3", "ur": "3", "thuis": "244 brussels 1", "uit": "518 soignies 1"},
       {"tr": "3", "ur": "3", "thuis": "432 wetteren 2", "uit": "541 leuze 1"},
-      {"tr": "4", "ur": "2", "thuis": "261 opwijk 1", "uit": "401 kgsrl 4"}
+      {"tr": "4", "ur": "2", "thuis": "261 opwijk 1", "uit": "401 kgs Ruy Lopez 4"}
     ]
   },
   {
     "ronde": "ronde 6",
     "datum": "29-01-2017",
     "uitslagen": [
-      {"tr": "4", "ur": "2", "thuis": "401 kgsrl 4", "uit": "174 brasschaat 2"},
+      {"tr": "4", "ur": "2", "thuis": "401 kgs Ruy Lopez 4", "uit": "174 brasschaat 2"},
       {"tr": "1.5", "ur": "4.5", "thuis": "541 leuze 1", "uit": "261 opwijk 1"},
       {"tr": "4", "ur": "2", "thuis": "518 soignies 1", "uit": "432 wetteren 2"},
       {"tr": "4.5", "ur": "1.5", "thuis": "143 temse 2", "uit": "244 brussels 1"},
@@ -80,7 +80,7 @@
       {"tr": "1", "ur": "5", "thuis": "244 brussels 1", "uit": "952 wavre 1"},
       {"tr": "3.5", "ur": "2.5", "thuis": "432 wetteren 2", "uit": "143 temse 2"},
       {"tr": "4.5", "ur": "1.5", "thuis": "261 opwijk 1", "uit": "518 soignies 1"},
-      {"tr": "0", "ur": "6", "thuis": "401 kgsrl 4", "uit": "541 leuze 1"}
+      {"tr": "0", "ur": "6", "thuis": "401 kgs Ruy Lopez 4", "uit": "541 leuze 1"}
     ]
   },
   {
@@ -88,7 +88,7 @@
     "datum": "19-02-2017",
     "uitslagen": [
       {"tr": "4", "ur": "2", "thuis": "541 leuze 1", "uit": "174 brasschaat 2"},
-      {"tr": "0.5", "ur": "5.5", "thuis": "518 soignies 1", "uit": "401 kgsrl 4"},
+      {"tr": "0.5", "ur": "5.5", "thuis": "518 soignies 1", "uit": "401 kgs Ruy Lopez 4"},
       {"tr": "2.5", "ur": "3.5", "thuis": "143 temse 2", "uit": "261 opwijk 1"},
       {"tr": "4.5", "ur": "1.5", "thuis": "952 wavre 1", "uit": "432 wetteren 2"},
       {"tr": "4", "ur": "2", "thuis": "226 europchess 2", "uit": "244 brussels 1"},
@@ -103,7 +103,7 @@
       {"tr": "1.5", "ur": "4.5", "thuis": "244 brussels 1", "uit": "278 pantin 1"},
       {"tr": "2.5", "ur": "3.5", "thuis": "432 wetteren 2", "uit": "226 europchess 2"},
       {"tr": "2.5", "ur": "3.5", "thuis": "261 opwijk 1", "uit": "952 wavre 1"},
-      {"tr": "3", "ur": "3", "thuis": "401 kgsrl 4", "uit": "143 temse 2"},
+      {"tr": "3", "ur": "3", "thuis": "401 kgs Ruy Lopez 4", "uit": "143 temse 2"},
       {"tr": "3", "ur": "3", "thuis": "541 leuze 1", "uit": "518 soignies 1"}
     ]
   },
@@ -113,7 +113,7 @@
     "uitslagen": [
       {"tr": "2.5", "ur": "3.5", "thuis": "518 soignies 1", "uit": "174 brasschaat 2"},
       {"tr": "3", "ur": "3", "thuis": "143 temse 2", "uit": "541 leuze 1"},
-      {"tr": "4", "ur": "2", "thuis": "952 wavre 1", "uit": "401 kgsrl 4"},
+      {"tr": "4", "ur": "2", "thuis": "952 wavre 1", "uit": "401 kgs Ruy Lopez 4"},
       {"tr": "2.5", "ur": "3.5", "thuis": "226 europchess 2", "uit": "261 opwijk 1"},
       {"tr": "4", "ur": "2", "thuis": "278 pantin 1", "uit": "432 wetteren 2"},
       {"tr": "3", "ur": "3", "thuis": "228 dworp 1", "uit": "244 brussels 1"}
@@ -126,7 +126,7 @@
       {"tr": "2.5", "ur": "3.5", "thuis": "244 brussels 1", "uit": "174 brasschaat 2"},
       {"tr": "2", "ur": "4", "thuis": "432 wetteren 2", "uit": "228 dworp 1"},
       {"tr": "4", "ur": "2", "thuis": "261 opwijk 1", "uit": "278 pantin 1"},
-      {"tr": "2.5", "ur": "3.5", "thuis": "401 kgsrl 4", "uit": "226 europchess 2"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "401 kgs Ruy Lopez 4", "uit": "226 europchess 2"},
       {"tr": "2.5", "ur": "3.5", "thuis": "541 leuze 1", "uit": "952 wavre 1"},
       {"tr": "2.5", "ur": "3.5", "thuis": "518 soignies 1", "uit": "143 temse 2"}
     ]
