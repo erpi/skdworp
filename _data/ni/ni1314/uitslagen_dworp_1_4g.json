@@ -7,7 +7,7 @@
       {"tr": "11", "ur": "5", "thuis": "514 fontaine 4", "uit": "521 tournai 1"},
       {"tr": "7", "ur": "9", "thuis": "618 amay 3", "uit": "909 philippeville 1"},
       {"tr": "6", "ur": "10", "thuis": "953 nivelles 1", "uit": "518 soignies 1"},
-      {"tr": "9", "ur": "7", "thuis": "538 fleurus 2", "uit": "601 crelel 4"},
+      {"tr": "9", "ur": "7", "thuis": "538 fleurus 2", "uit": "601 crele liège 4"},
       {"tr": "9", "ur": "7", "thuis": "548 caissa europe 2", "uit": "952 wavre 2"}
     ]
   },
@@ -16,7 +16,7 @@
     "datum": "29-09-2013",
     "uitslagen": [
       {"tr": "8", "ur": "8", "thuis": "952 wavre 2", "uit": "810 marche 1"},
-      {"tr": "6", "ur": "10", "thuis": "601 crelel 4", "uit": "548 caissa europe 2"},
+      {"tr": "6", "ur": "10", "thuis": "601 crele liège 4", "uit": "548 caissa europe 2"},
       {"tr": "12", "ur": "4", "thuis": "518 soignies 1", "uit": "538 fleurus 2"},
       {"tr": "10", "ur": "6", "thuis": "909 philippeville 1", "uit": "953 nivelles 1"},
       {"tr": "7", "ur": "9", "thuis": "521 tournai 1", "uit": "618 amay 3"},
@@ -32,14 +32,14 @@
       {"tr": "9", "ur": "7", "thuis": "953 nivelles 1", "uit": "521 tournai 1"},
       {"tr": "8", "ur": "8", "thuis": "538 fleurus 2", "uit": "909 philippeville 1"},
       {"tr": "8", "ur": "8", "thuis": "548 caissa europe 2", "uit": "518 soignies 1"},
-      {"tr": "9", "ur": "7", "thuis": "952 wavre 2", "uit": "601 crelel 4"}
+      {"tr": "9", "ur": "7", "thuis": "952 wavre 2", "uit": "601 crele liège 4"}
     ]
   },
   {
     "ronde": "ronde 4",
     "datum": "17-11-2013",
     "uitslagen": [
-      {"tr": "6", "ur": "10", "thuis": "601 crelel 4", "uit": "810 marche 1"},
+      {"tr": "6", "ur": "10", "thuis": "601 crele liège 4", "uit": "810 marche 1"},
       {"tr": "5", "ur": "11", "thuis": "518 soignies 1", "uit": "952 wavre 2"},
       {"tr": "7", "ur": "9", "thuis": "909 philippeville 1", "uit": "548 caissa europe 2"},
       {"tr": "10", "ur": "6", "thuis": "521 tournai 1", "uit": "538 fleurus 2"},
@@ -56,7 +56,7 @@
       {"tr": "8", "ur": "8", "thuis": "538 fleurus 2", "uit": "228 dworp 1"},
       {"tr": "12", "ur": "4", "thuis": "548 caissa europe 2", "uit": "521 tournai 1"},
       {"tr": "8", "ur": "8", "thuis": "952 wavre 2", "uit": "909 philippeville 1"},
-      {"tr": "6", "ur": "10", "thuis": "601 crelel 4", "uit": "518 soignies 1"}
+      {"tr": "6", "ur": "10", "thuis": "601 crele liège 4", "uit": "518 soignies 1"}
     ]
   },
   {
@@ -64,7 +64,7 @@
     "datum": "15-12-2013",
     "uitslagen": [
       {"tr": "9", "ur": "7", "thuis": "518 soignies 1", "uit": "810 marche 1"},
-      {"tr": "8", "ur": "8", "thuis": "909 philippeville 1", "uit": "601 crelel 4"},
+      {"tr": "8", "ur": "8", "thuis": "909 philippeville 1", "uit": "601 crele liège 4"},
       {"tr": "8", "ur": "8", "thuis": "521 tournai 1", "uit": "952 wavre 2"},
       {"tr": "6", "ur": "10", "thuis": "228 dworp 1", "uit": "548 caissa europe 2"},
       {"tr": "6", "ur": "10", "thuis": "514 fontaine 4", "uit": "538 fleurus 2"},
@@ -79,7 +79,7 @@
       {"tr": "9", "ur": "7", "thuis": "538 fleurus 2", "uit": "618 amay 3"},
       {"tr": "10", "ur": "6", "thuis": "548 caissa europe 2", "uit": "514 fontaine 4"},
       {"tr": "6", "ur": "10", "thuis": "952 wavre 2", "uit": "228 dworp 1"},
-      {"tr": "5", "ur": "11", "thuis": "601 crelel 4", "uit": "521 tournai 1"},
+      {"tr": "5", "ur": "11", "thuis": "601 crele liège 4", "uit": "521 tournai 1"},
       {"tr": "10", "ur": "6", "thuis": "518 soignies 1", "uit": "909 philippeville 1"}
     ]
   },
@@ -89,7 +89,7 @@
     "uitslagen": [
       {"tr": "10", "ur": "6", "thuis": "909 philippeville 1", "uit": "810 marche 1"},
       {"tr": "6", "ur": "10", "thuis": "521 tournai 1", "uit": "518 soignies 1"},
-      {"tr": "8", "ur": "8", "thuis": "228 dworp 1", "uit": "601 crelel 4"},
+      {"tr": "8", "ur": "8", "thuis": "228 dworp 1", "uit": "601 crele liège 4"},
       {"tr": "8", "ur": "8", "thuis": "514 fontaine 4", "uit": "952 wavre 2"},
       {"tr": "7", "ur": "9", "thuis": "618 amay 3", "uit": "548 caissa europe 2"},
       {"tr": "4", "ur": "12", "thuis": "953 nivelles 1", "uit": "538 fleurus 2"}
@@ -102,7 +102,7 @@
       {"tr": "10", "ur": "6", "thuis": "810 marche 1", "uit": "538 fleurus 2"},
       {"tr": "9", "ur": "7", "thuis": "548 caissa europe 2", "uit": "953 nivelles 1"},
       {"tr": "9", "ur": "7", "thuis": "952 wavre 2", "uit": "618 amay 3"},
-      {"tr": "9", "ur": "7", "thuis": "601 crelel 4", "uit": "514 fontaine 4"},
+      {"tr": "9", "ur": "7", "thuis": "601 crele liège 4", "uit": "514 fontaine 4"},
       {"tr": "9", "ur": "7", "thuis": "518 soignies 1", "uit": "228 dworp 1"},
       {"tr": "6", "ur": "10", "thuis": "909 philippeville 1", "uit": "521 tournai 1"}
     ]
@@ -114,7 +114,7 @@
       {"tr": "9", "ur": "7", "thuis": "521 tournai 1", "uit": "810 marche 1"},
       {"tr": "9", "ur": "7", "thuis": "228 dworp 1", "uit": "909 philippeville 1"},
       {"tr": "8", "ur": "8", "thuis": "514 fontaine 4", "uit": "518 soignies 1"},
-      {"tr": "8", "ur": "8", "thuis": "618 amay 3", "uit": "601 crelel 4"},
+      {"tr": "8", "ur": "8", "thuis": "618 amay 3", "uit": "601 crele liège 4"},
       {"tr": "7", "ur": "9", "thuis": "953 nivelles 1", "uit": "952 wavre 2"},
       {"tr": "6", "ur": "10", "thuis": "538 fleurus 2", "uit": "548 caissa europe 2"}
     ]
@@ -125,7 +125,7 @@
     "uitslagen": [
       {"tr": "6", "ur": "10", "thuis": "548 caissa europe 2", "uit": "810 marche 1"},
       {"tr": "12", "ur": "4", "thuis": "952 wavre 2", "uit": "538 fleurus 2"},
-      {"tr": "12", "ur": "4", "thuis": "601 crelel 4", "uit": "953 nivelles 1"},
+      {"tr": "12", "ur": "4", "thuis": "601 crele liège 4", "uit": "953 nivelles 1"},
       {"tr": "9", "ur": "7", "thuis": "518 soignies 1", "uit": "618 amay 3"},
       {"tr": "8", "ur": "8", "thuis": "909 philippeville 1", "uit": "514 fontaine 4"},
       {"tr": "6", "ur": "10", "thuis": "521 tournai 1", "uit": "228 dworp 1"}
