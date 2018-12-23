@@ -3,65 +3,65 @@
     "ronde": "ronde 1",
     "datum": "26-09-2010",
     "uitslagen": [
-      {"tr": "6", "ur": "10", "thuis": "207 2 fous diog\u00e8ne 2", "uit": "204 excelsior 2"},
+      {"tr": "6", "ur": "10", "thuis": "207 Les Deux Fous du Diogène", "uit": "204 excelsior 2"},
       {"tr": "4", "ur": "12", "thuis": "114 mechelen 4", "uit": "228 dworp 2"},
-      {"tr": "8", "ur": "8", "thuis": "239 boitsfort 4", "uit": "244 brussels cc 4"},
-      {"tr": "11", "ur": "5", "thuis": "229 woluwe 3", "uit": "230 leuven 6"},
-      {"tr": "10", "ur": "6", "thuis": "132 oude god 5", "uit": "260 humbeek 4"}
+      {"tr": "8", "ur": "8", "thuis": "239 boitsfort 4", "uit": "244 brussels chess club 4"},
+      {"tr": "11", "ur": "5", "thuis": "229 woluwe 3", "uit": "230 leuven centraal 6"},
+      {"tr": "10", "ur": "6", "thuis": "132 oude god mortsel 5", "uit": "260 humbeek 4"}
     ]
   },
   {
     "ronde": "ronde 2",
     "datum": "10-10-2010",
     "uitslagen": [
-      {"tr": "9", "ur": "7", "thuis": "230 leuven 6", "uit": "132 oude god 5"},
-      {"tr": "12", "ur": "4", "thuis": "244 brussels cc 4", "uit": "229 woluwe 3"},
+      {"tr": "9", "ur": "7", "thuis": "230 leuven centraal 6", "uit": "132 oude god mortsel 5"},
+      {"tr": "12", "ur": "4", "thuis": "244 brussels chess club 4", "uit": "229 woluwe 3"},
       {"tr": "8", "ur": "8", "thuis": "228 dworp 2", "uit": "239 boitsfort 4"},
       {"tr": "8", "ur": "8", "thuis": "204 excelsior 2", "uit": "114 mechelen 4"},
-      {"tr": "10", "ur": "6", "thuis": "231 dt leuven 1", "uit": "207 2 fous diog\u00e8ne 2"}
+      {"tr": "10", "ur": "6", "thuis": "231 dolle toren leuven 1", "uit": "207 Les Deux Fous du Diogène 2"}
     ]
   },
   {
     "ronde": "ronde 3",
     "datum": "07-11-2010",
     "uitslagen": [
-      {"tr": "7", "ur": "9", "thuis": "114 mechelen 4", "uit": "231 dt leuven 1"},
+      {"tr": "7", "ur": "9", "thuis": "114 mechelen 4", "uit": "231 dolle toren leuven 1"},
       {"tr": "7", "ur": "9", "thuis": "239 boitsfort 4", "uit": "204 excelsior 2"},
       {"tr": "6", "ur": "10", "thuis": "229 woluwe 3", "uit": "228 dworp 2"},
-      {"tr": "5", "ur": "11", "thuis": "132 oude god 5", "uit": "244 brussels cc 4"},
-      {"tr": "7", "ur": "9", "thuis": "260 humbeek 4", "uit": "230 leuven 6"}
+      {"tr": "5", "ur": "11", "thuis": "132 oude god mortsel 5", "uit": "244 brussels chess club 4"},
+      {"tr": "7", "ur": "9", "thuis": "260 humbeek 4", "uit": "230 leuven centraal 6"}
     ]
   },
   {
     "ronde": "ronde 4",
     "datum": "21-11-2010",
     "uitslagen": [
-      {"tr": "8", "ur": "8", "thuis": "244 brussels cc 4", "uit": "260 humbeek 4"},
-      {"tr": "10", "ur": "6", "thuis": "228 dworp 2", "uit": "132 oude god 5"},
+      {"tr": "8", "ur": "8", "thuis": "244 brussels chess club 4", "uit": "260 humbeek 4"},
+      {"tr": "10", "ur": "6", "thuis": "228 dworp 2", "uit": "132 oude god mortsel 5"},
       {"tr": "10", "ur": "6", "thuis": "204 excelsior 2", "uit": "229 woluwe 3"},
-      {"tr": "9", "ur": "5", "thuis": "231 dt leuven 1", "uit": "239 boitsfort 4"},
-      {"tr": "5", "ur": "11", "thuis": "207 2 fous diog\u00e8ne 2", "uit": "114 mechelen 4"}
+      {"tr": "9", "ur": "5", "thuis": "231 dolle toren leuven 1", "uit": "239 boitsfort 4"},
+      {"tr": "5", "ur": "11", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "114 mechelen 4"}
     ]
   },
   {
     "ronde": "ronde 5",
     "datum": "05-12-2010",
     "uitslagen": [
-      {"tr": "12", "ur": "3", "thuis": "239 boitsfort 4", "uit": "207 2 fous diog\u00e8ne 2"},
-      {"tr": "8", "ur": "8", "thuis": "229 woluwe 3", "uit": "231 dt leuven 1"},
-      {"tr": "7", "ur": "9", "thuis": "132 oude god 5", "uit": "204 excelsior 2"},
+      {"tr": "12", "ur": "3", "thuis": "239 boitsfort 4", "uit": "207 Les Deux Fous du Diogène 2"},
+      {"tr": "8", "ur": "8", "thuis": "229 woluwe 3", "uit": "231 dolle toren leuven 1"},
+      {"tr": "7", "ur": "9", "thuis": "132 oude god mortsel 5", "uit": "204 excelsior 2"},
       {"tr": "3", "ur": "12", "thuis": "260 humbeek 4", "uit": "228 dworp 2"},
-      {"tr": "4", "ur": "12", "thuis": "230 leuven 6", "uit": "244 brussels cc 4"}
+      {"tr": "4", "ur": "12", "thuis": "230 leuven centraal 6", "uit": "244 brussels chess club 4"}
     ]
   },
   {
     "ronde": "ronde 6",
     "datum": "09-01-2011",
     "uitslagen": [
-      {"tr": "12", "ur": "4", "thuis": "228 dworp 2", "uit": "230 leuven 6"},
+      {"tr": "12", "ur": "4", "thuis": "228 dworp 2", "uit": "230 leuven centraal 6"},
       {"tr": "9", "ur": "7", "thuis": "204 excelsior 2", "uit": "260 humbeek 4"},
-      {"tr": "10", "ur": "6", "thuis": "231 dt leuven 1", "uit": "132 oude god 5"},
-      {"tr": "8", "ur": "8", "thuis": "207 2 fous diog\u00e8ne 2", "uit": "229 woluwe 3"},
+      {"tr": "10", "ur": "6", "thuis": "231 dolle toren leuven 1", "uit": "132 oude god mortsel 5"},
+      {"tr": "8", "ur": "8", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "229 woluwe 3"},
       {"tr": "6", "ur": "10", "thuis": "114 mechelen 4", "uit": "239 boitsfort 4"}
     ]
   },
@@ -70,20 +70,20 @@
     "datum": "23-01-2011",
     "uitslagen": [
       {"tr": "12", "ur": "4", "thuis": "229 woluwe 3", "uit": "114 mechelen 4"},
-      {"tr": "12", "ur": "4", "thuis": "132 oude god 5", "uit": "207 2 fous diog\u00e8ne 2"},
-      {"tr": "5", "ur": "11", "thuis": "260 humbeek 4", "uit": "231 dt leuven 1"},
-      {"tr": "6", "ur": "10", "thuis": "230 leuven 6", "uit": "204 excelsior 2"},
-      {"tr": "7", "ur": "9", "thuis": "244 brussels cc 4", "uit": "228 dworp 2"}
+      {"tr": "12", "ur": "4", "thuis": "132 oude god mortsel 5", "uit": "207 Les Deux Fous du Diogène 2"},
+      {"tr": "5", "ur": "11", "thuis": "260 humbeek 4", "uit": "231 dolle toren leuven 1"},
+      {"tr": "6", "ur": "10", "thuis": "230 leuven centraal 6", "uit": "204 excelsior 2"},
+      {"tr": "7", "ur": "9", "thuis": "244 brussels chess club 4", "uit": "228 dworp 2"}
     ]
   },
   {
     "ronde": "ronde 8",
     "datum": "06-02-2011",
     "uitslagen": [
-      {"tr": "10", "ur": "6", "thuis": "204 excelsior 2", "uit": "244 brussels cc 4"},
-      {"tr": "9", "ur": "7", "thuis": "231 dt leuven 1", "uit": "230 leuven 6"},
-      {"tr": "5", "ur": "10", "thuis": "207 2 fous diog\u00e8ne 2", "uit": "260 humbeek 4"},
-      {"tr": "8", "ur": "8", "thuis": "114 mechelen 4", "uit": "132 oude god 5"},
+      {"tr": "10", "ur": "6", "thuis": "204 excelsior 2", "uit": "244 brussels chess club 4"},
+      {"tr": "9", "ur": "7", "thuis": "231 dolle toren leuven 1", "uit": "230 leuven centraal 6"},
+      {"tr": "5", "ur": "10", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "260 humbeek 4"},
+      {"tr": "8", "ur": "8", "thuis": "114 mechelen 4", "uit": "132 oude god mortsel 5"},
       {"tr": "6", "ur": "10", "thuis": "239 boitsfort 4", "uit": "229 woluwe 3"}
     ]
   },
@@ -91,10 +91,10 @@
     "ronde": "ronde 9",
     "datum": "27-02-2011",
     "uitslagen": [
-      {"tr": "8", "ur": "8", "thuis": "132 oude god 5", "uit": "239 boitsfort 4"},
+      {"tr": "8", "ur": "8", "thuis": "132 oude god mortsel 5", "uit": "239 boitsfort 4"},
       {"tr": "7", "ur": "9", "thuis": "260 humbeek 4", "uit": "114 mechelen 4"},
-      {"tr": "10", "ur": "5", "thuis": "230 leuven 6", "uit": "207 2 fous diog\u00e8ne 2"},
-      {"tr": "10", "ur": "6", "thuis": "244 brussels cc 4", "uit": "231 dt leuven 1"},
+      {"tr": "10", "ur": "5", "thuis": "230 leuven centraal 6", "uit": "207 Les Deux Fous du Diogène 2"},
+      {"tr": "10", "ur": "6", "thuis": "244 brussels chess club 4", "uit": "231 dolle toren leuven 1"},
       {"tr": "9", "ur": "7", "thuis": "228 dworp 2", "uit": "204 excelsior 2"}
     ]
   },
@@ -102,11 +102,11 @@
     "ronde": "ronde 10",
     "datum": "20-03-2011",
     "uitslagen": [
-      {"tr": "6", "ur": "10", "thuis": "231 dt leuven 1", "uit": "228 dworp 2"},
-      {"tr": "5", "ur": "11", "thuis": "207 2 fous diog\u00e8ne 2", "uit": "244 brussels cc 4"},
-      {"tr": "12", "ur": "4", "thuis": "114 mechelen 4", "uit": "230 leuven 6"},
+      {"tr": "6", "ur": "10", "thuis": "231 dolle toren leuven 1", "uit": "228 dworp 2"},
+      {"tr": "5", "ur": "11", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "244 brussels chess club 4"},
+      {"tr": "12", "ur": "4", "thuis": "114 mechelen 4", "uit": "230 leuven centraal 6"},
       {"tr": "9", "ur": "7", "thuis": "239 boitsfort 4", "uit": "260 humbeek 4"},
-      {"tr": "7", "ur": "9", "thuis": "229 woluwe 3", "uit": "132 oude god 5"}
+      {"tr": "7", "ur": "9", "thuis": "229 woluwe 3", "uit": "132 oude god mortsel 5"}
     ]
   },
   {
@@ -114,10 +114,10 @@
     "datum": "27-03-2011",
     "uitslagen": [
       {"tr": "5", "ur": "11", "thuis": "260 humbeek 4", "uit": "229 woluwe 3"},
-      {"tr": "8", "ur": "6", "thuis": "230 leuven 6", "uit": "239 boitsfort 4"},
-      {"tr": "5", "ur": "10", "thuis": "244 brussels cc 4", "uit": "114 mechelen 4"},
-      {"tr": "12", "ur": "4", "thuis": "228 dworp 2", "uit": "207 2 fous diog\u00e8ne 2"},
-      {"tr": "8", "ur": "8", "thuis": "204 excelsior 2", "uit": "231 dt leuven 1"}
+      {"tr": "8", "ur": "6", "thuis": "230 leuven centraal 6", "uit": "239 boitsfort 4"},
+      {"tr": "5", "ur": "10", "thuis": "244 brussels chess club 4", "uit": "114 mechelen 4"},
+      {"tr": "12", "ur": "4", "thuis": "228 dworp 2", "uit": "207 Les Deux Fous du Diogène 2"},
+      {"tr": "8", "ur": "8", "thuis": "204 excelsior 2", "uit": "231 dolle toren leuven 1"}
     ]
   }
 ]
