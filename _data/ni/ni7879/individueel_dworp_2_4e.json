@@ -1,6 +1,17 @@
 [
   {
     "ronde": "1",
+    "datum": "22-10-1978",
+    "thuis": "228 Dworp 2",
+    "uit": "bye",
+    "tscore": "",
+    "uscore": "",
+    "tgem": "",
+    "ugem": "",
+    "borden": []
+  },
+  {
+    "ronde": "2",
     "datum": "05-11-1978",
     "thuis": "228 Dworp 2",
     "uit": "418 Geraardsbergen 2",
@@ -16,7 +27,7 @@
     ]
   },
   {
-    "ronde": "2",
+    "ronde": "3",
     "datum": "19-11-1978",
     "thuis": "401 KGSRL Gent 5",
     "uit": "228 Dworp 2",
@@ -32,23 +43,23 @@
     ]
   },
   {
-    "ronde": "3",
+    "ronde": "4",
     "datum": "03-12-1978",
     "thuis": "228 Dworp 2",
     "uit": "402 Jean Jaur\u00e8s Gent 5",
     "tscore": "7",
     "uscore": "9",
-    "tgem": "1192",
+    "tgem": "1210",
     "ugem": "",
     "borden": [
       {"tr": "1", "ur": "3", "tspeler": "Pletinckx Eddy", "uspeler": "Clayssens J", "telo": "1317", "uelo": "", "tstam": "76325", "ustam": ""},
       {"tr": "2", "ur": "2", "tspeler": "Debast Patrick", "uspeler": "De Corte L", "telo": "1177", "uelo": "", "tstam": "76333", "ustam": ""},
       {"tr": "3", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Daese R", "telo": "1136", "uelo": "", "tstam": "76317", "ustam": ""},
-      {"tr": "1", "ur": "3", "tspeler": "Vandermeersch Luc", "uspeler": "Tackels A", "telo": "1136", "uelo": "", "tstam": "93073", "ustam": ""}
+      {"tr": "1", "ur": "3", "tspeler": "Vandermeersch Luc", "uspeler": "Tackels A", "telo": "ng", "uelo": "", "tstam": "93073", "ustam": ""}
     ]
   },
   {
-    "ronde": "4",
+    "ronde": "5",
     "datum": "07-01-1979",
     "thuis": "438 Deinze 1",
     "uit": "228 Dworp 2",
@@ -64,7 +75,7 @@
     ]
   },
   {
-    "ronde": "5",
+    "ronde": "6",
     "datum": "28-01-1979",
     "thuis": "425 Dendermonde 3",
     "uit": "228 Dworp 2",
@@ -80,7 +91,7 @@
     ]
   },
   {
-    "ronde": "6",
+    "ronde": "7",
     "datum": "11-02-1979",
     "thuis": "228 Dworp 2",
     "uit": "Post Gent 1",
@@ -96,7 +107,7 @@
     ]
   },
   {
-    "ronde": "7",
+    "ronde": "8",
     "datum": "25-02-1979",
     "thuis": "240 Machelen 2",
     "uit": "228 Dworp 2",
@@ -112,7 +123,7 @@
     ]
   },
   {
-    "ronde": "8",
+    "ronde": "9",
     "datum": "04-03-1979",
     "thuis": "228 Dworp 2",
     "uit": "249 Ruisbroek 1",
@@ -128,7 +139,7 @@
     ]
   },
   {
-    "ronde": "9",
+    "ronde": "10",
     "datum": "11-03-1979",
     "thuis": "228 Dworp 2",
     "uit": "417 Aalst 2",
@@ -144,19 +155,19 @@
     ]
   },
   {
-    "ronde": "10",
+    "ronde": "11",
     "datum": "25-03-1979",
     "thuis": "436 Lokeren 2",
     "uit": "228 Dworp 2",
     "tscore": "11",
     "uscore": "5",
     "tgem": "",
-    "ugem": "1193",
+    "ugem": "1212",
     "borden": [
       {"tr": "2", "ur": "2", "tspeler": "Defr\u00e9 W", "uspeler": "Brancart Marc", "telo": "", "uelo": "1328", "tstam": "", "ustam": "nm"},
       {"tr": "3", "ur": "1", "tspeler": "Deprez F", "uspeler": "Maton Gedeon", "telo": "", "uelo": "1173", "tstam": "", "ustam": "nm"},
       {"tr": "3", "ur": "1", "tspeler": "Vernimmen F", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1136", "tstam": "", "ustam": "76317"},
-      {"tr": "3", "ur": "1", "tspeler": "Zaman R", "uspeler": "Vandermeersch Luc", "telo": "", "uelo": "1136", "tstam": "", "ustam": "93073"}
+      {"tr": "3", "ur": "1", "tspeler": "Zaman R", "uspeler": "Vandermeersch Luc", "telo": "", "uelo": "ng", "tstam": "", "ustam": "93073"}
     ]
   }
 ]

@@ -1,11 +1,3 @@
-Ronde 1: Dworp 1: Bord 1: fout: som van bordscore niet gelijk aan 1
-Ronde 1: Dworp 1: Bord 2: fout: som van bordscore niet gelijk aan 1
-Ronde 1: Dworp 1: Bord 3: fout: som van bordscore niet gelijk aan 1
-Ronde 1: Dworp 1: Bord 4: fout: som van bordscore niet gelijk aan 1
-Ronde 1: Dworp 2: Bord 1: fout: som van bordscore niet gelijk aan 1
-Ronde 1: Dworp 2: Bord 2: fout: som van bordscore niet gelijk aan 1
-Ronde 1: Dworp 2: Bord 3: fout: som van bordscore niet gelijk aan 1
-Ronde 1: Dworp 2: Bord 4: fout: som van bordscore niet gelijk aan 1
 Ronde 2: Dworp 1: Bord 1: fout: som van bordscore niet gelijk aan 1
 Ronde 2: Dworp 1: Bord 2: fout: som van bordscore niet gelijk aan 1
 Ronde 2: Dworp 1: Bord 3: fout: som van bordscore niet gelijk aan 1
@@ -78,5 +70,15 @@ Ronde 10: Dworp 2: Bord 1: fout: som van bordscore niet gelijk aan 1
 Ronde 10: Dworp 2: Bord 2: fout: som van bordscore niet gelijk aan 1
 Ronde 10: Dworp 2: Bord 3: fout: som van bordscore niet gelijk aan 1
 Ronde 10: Dworp 2: Bord 4: fout: som van bordscore niet gelijk aan 1
-Ronde 11: Dworp 1: waarschuwing: geen ploegnaamgevonden
-Ronde 11: Dworp 2: waarschuwing: geen ploegnaamgevonden
+Ronde 11: Dworp 1: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 11: Dworp 1: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 11: Dworp 1: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 11: Dworp 1: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 11: Dworp 2: Bord 1: fout: som van bordscore niet gelijk aan 1
+Ronde 11: Dworp 2: Bord 2: fout: som van bordscore niet gelijk aan 1
+Ronde 11: Dworp 2: Bord 3: fout: som van bordscore niet gelijk aan 1
+Ronde 11: Dworp 2: Bord 4: fout: som van bordscore niet gelijk aan 1
+Ronde 1: Dworp 1: fout: 'bye' niet gevonden in kruistabel (spelling?)
+Ronde 1: Dworp 1: waarschuwing: score tegen 'bye' is niet gecontroleerd in kruistabel
+Ronde 1: Dworp 2: fout: 'bye' niet gevonden in kruistabel (spelling?)
+Ronde 1: Dworp 2: waarschuwing: score tegen 'bye' is niet gecontroleerd in kruistabel
