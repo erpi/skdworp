@@ -1,0 +1,41 @@
+wit,zwart,wr,zr
+partij 1,,,
+Vanderwaeren Serge,De Bosscher Peter,1,0
+Lot Diederik,Van de Velde Filip,0.5,0.5
+Verrijken Geert,Ertveldt Pieter,1,0
+Vanrossum Matthias,Bultijnck Kristoff,0,1
+Lerinckx Sander,Pletinckx Eddy,0,1
+Cornelis Eric,Lerinckx Niels,0,1
+Huysman Robert,Vandevelde Jannes,1,0
+partij 2,,,
+Vanderwaeren Serge,Verrijken Geert,0.5,0.5
+De Bosscher Peter,Cornelis Eric,0,1
+Vanrossum Matthias,Lot Diederik,0,1
+Van de Velde Filip,Ertveldt Pieter,0.5,0.5
+Pletinckx Eddy,Bultijnck Kristoff,1,0
+Lerinckx Niels,Huysman Robert,0,1
+Vandevelde Jannes,Lerinckx Sander,0,1
+partij 3,,,
+Ertveldt Pieter,Vanderwaeren Serge,0,1
+Van de Velde Filip,De Bosscher Peter,0.5,0.5
+Lot Diederik,Verrijken Geert,0,1
+Bultijnck Kristoff,Cornelis Eric,0,1
+Pletinckx Eddy,Vanrossum Matthias,1,0
+Lerinckx Sander,Huysman Robert,0,1
+Lerinckx Niels,Vandevelde Jannes,1,0
+partij 4,,,
+De Bosscher Peter,Vanderwaeren Serge,0.5,0.5
+Cornelis Eric,Lot Diederik,0,1
+Verrijken Geert,Van de Velde Filip,0.5,0.5
+Bultijnck Kristoff,Lerinckx Sander,1,0
+Huysman Robert,Ertveldt Pieter,1,0
+Vandevelde Jannes,Pletinckx Eddy,0,1
+Vanrossum Matthias,Lerinckx Niels,1,0
+partij 5,,,
+Vanderwaeren Serge,Bultijnck Kristoff,1,0
+Verrijken Geert,De Bosscher Peter,1,0
+Lot Diederik,Pletinckx Eddy,0,1
+Cornelis Eric,Van de Velde Filip,0,1
+Ertveldt Pieter,Lerinckx Niels,1,0
+Huysman Robert,Vanrossum Matthias,1,0
+Lerinckx Sander,Vandevelde Jannes,1,0
