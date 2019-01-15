@@ -13,7 +13,7 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 image:
   path: 'assets/images/1819/jannes_landegem.jpg'
-draft: fase
+draft: false
 ---
 Het was een tijdje geleden, maar zaterdag lukte het eindelijk om nog eens met een Dworpse delegatie naar een jeugdtornooi te gaan. Niels, Sander, Mathias en Jannes tekenden present in Landegem.
 
