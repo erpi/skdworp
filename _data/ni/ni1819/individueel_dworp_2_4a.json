@@ -78,5 +78,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Jayes, Thomas William", "uspeler": "De Bosscher, Peter", "telo": 1920, "uelo": 1803, "tstam": 12767, "ustam": 655},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Silovy, Alain", "uspeler": "Bertrand, Stijn", "telo": 1757, "uelo": 1757, "tstam": 87823, "ustam": 21253}
     ]
+  },
+  {
+    "ronde": "6",
+    "datum": "03-02-2019",
+    "thuis": "228 Dworp 2",
+    "uit": "961 Braine l'Alleud 1",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1811,
+    "ugem": 1943,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verrijken, Geert", "uspeler": "Degembe, Pierre", "telo": 1965, "uelo": 1985, "tstam": 62766, "ustam": 95478},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher, Peter", "uspeler": "Dethy, David", "telo": 1803, "uelo": 2000, "tstam": 655, "ustam": 86282},
+      {"tr": "0", "ur": "1", "tspeler": "Bertrand, Stijn", "uspeler": "Mataigne, Jean-Michel", "telo": 1757, "uelo": 1949, "tstam": 21253, "ustam": 13541},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van De Velde, Filip", "uspeler": "Andre, Renaud", "telo": 1718, "uelo": 1839, "tstam": 31682, "ustam": 66028}
+    ]
   }
 ]

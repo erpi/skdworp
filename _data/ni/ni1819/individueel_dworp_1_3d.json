@@ -88,5 +88,23 @@
       {"tr": "0", "ur": "1", "tspeler": "Marchal, Patrice", "uspeler": "De Reymaeker, Walter", "telo": 1821, "uelo": 1963, "tstam": 76601, "ustam": 34584},
       {"tr": "1", "ur": "0", "tspeler": "De Le Court, Lucas", "uspeler": "Denys, Frank", "telo": 1718, "uelo": 1911, "tstam": 60726, "ustam": 21881}
     ]
+  },
+  {
+    "ronde": "6",
+    "datum": "03-02-2019",
+    "thuis": "228 Dworp 1",
+    "uit": "521 Tournai 1",
+    "tscore": 5.0,
+    "uscore": 1.0,
+    "tgem": 2017,
+    "ugem": 1909,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren, Serge", "uspeler": "Stevens, Christian", "telo": 2124, "uelo": 2072, "tstam": 20621, "ustam": 19840},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Hoofstat, Tom", "uspeler": "Boudrenghien, Francois", "telo": 2104, "uelo": 1952, "tstam": 42706, "ustam": 12315},
+      {"tr": "1", "ur": "0", "tspeler": "Spaens, Kjell", "uspeler": "Naudin, Yvan", "telo": 1982, "uelo": 1938, "tstam": 29343, "ustam": 17696},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lot, Diederik", "uspeler": "Minet, Julien", "telo": 2018, "uelo": 1947, "tstam": 9954, "ustam": 74926},
+      {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "Drossart, Jonathan", "telo": 1963, "uelo": 1825, "tstam": 34584, "ustam": 71137},
+      {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Heynen, Martin", "telo": 1911, "uelo": 1722, "tstam": 21881, "ustam": 98118}
+    ]
   }
 ]
