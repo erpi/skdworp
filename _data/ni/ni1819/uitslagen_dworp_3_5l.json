@@ -63,12 +63,12 @@
     "ronde": "ronde 6",
     "datum": "03-02-2019",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "952 Wavre 4", "uit": "961 Braine l'Alleud 3"},
-      {"tr": "", "ur": "", "thuis": "244 Brussels 6", "uit": "226 Europchess 4"},
-      {"tr": "", "ur": "", "thuis": "114 Mechelen 9", "uit": "207 2 Fous Diog\u00e8ne 2"},
-      {"tr": "", "ur": "", "thuis": "201 CREB 3", "uit": "278 Pantin 6"},
-      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "229 Woluwe 2"},
-      {"tr": "", "ur": "", "thuis": "233 DZD Halle 1", "uit": "239 Boitsfort 5"}
+      {"tr": "2", "ur": "2", "thuis": "952 Wavre 4", "uit": "961 Braine l'Alleud 3"},
+      {"tr": "1", "ur": "3", "thuis": "244 Brussels 6", "uit": "226 Europchess 4"},
+      {"tr": "2", "ur": "2", "thuis": "114 Mechelen 9", "uit": "207 2 Fous Diog\u00e8ne 2"},
+      {"tr": "3", "ur": "1", "thuis": "201 CREB 3", "uit": "278 Pantin 6"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "228 Dworp 3", "uit": "229 Woluwe 2"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "233 DZD Halle 1", "uit": "239 Boitsfort 5"}
     ]
   },
   {
