@@ -18,7 +18,7 @@ stelling_wit: ''
 stelling_zwart: ''
 stelling_uitleg: ''
 stelling_oplossing: ''
-draft: true
+draft: false
 
 ---
 ## Vooraf
