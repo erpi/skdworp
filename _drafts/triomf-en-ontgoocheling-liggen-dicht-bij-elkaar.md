@@ -20,13 +20,14 @@ stelling_wit: ''
 stelling_zwart: ''
 stelling_uitleg: ''
 stelling_oplossing: ''
+draft: ''
 
 ---
 **Vooraf**
 
-Nadat Dworp 1 zich vorige week moeiteloos had ontdaan van het degradatiespook, kreeg ons topteam zondag de kans om naar de hogere regionen op te klimmen. We traden immers aan tegen de voorlaatste in de stand. Woluwe 1 wist tot nu toe nog slechts één puntje te sprokkelen. Maar al bij al is het toch niet zo’n zwakke ploeg.
+Nadat Dworp 1 zich vorige week moeiteloos had ontdaan van het degradatiespook, kreeg ons topteam zondag de kans om naar de hogere regionen op te klimmen. We traden immers aan tegen de voorlaatste in de stand. Woluwe 1 wist tot nu toe nog slechts één puntje te halen. Maar al bij al is het toch niet zo’n zwakke ploeg.
 
-Ondertussen stond Dworp 2 voor een zware opgave. Om onze kansen op behoud gaaf te houden, moesten er tegen Charleroi puntjes gesprokkeld worden. Geen gemakkelijke klus zonder Geert op bord 1. Loodzwaar was tot slot ook de karwei van Dworp 3 dat het opnam tegen Pantin, de leider uit de reeks.
+Ondertussen stond Dworp 2 voor een zware opgave. Om onze kansen op behoud gaaf te houden, moesten er tegen Charleroi punten gesprokkeld worden. Geen gemakkelijke klus zonder Geert op bord 1. Loodzwaar was tot slot ook de karwei van Dworp 3 dat het opnam tegen Pantin, de leider uit de reeks.
 
 **Woluwe met rustige vastheid in de pan gehakt**
 
@@ -46,7 +47,7 @@ Over naar Walter die op bord 5 met zwart in zijn typische stijl een pion offerde
 
 Op bord 1 speelde Camiel een rustig partij waarmee hij vrij eenvoudig remise haalde. Zo toonde hij zich een waardige vervanger van Geert. “Trouwens”, aldus Camiel, “Na de partij vertelde mijn tegenstrever dat hij zich uitgebreid had voorbereid op Frans tegen een zogenaamde Geert .. Hahaha. Moest hij het toch wel doen tegen een zekere Camiel. Het werd een slaapverwekkende partij, mijn stijl dus. Met name: c4 tegen c5 waarna een vrij symmetrische stelling ontstaat. “Zulke partijen”, legt Camiel uit, “speelde ik vroeger tijdens mijn middagpauze honderden malen. De kans op remise is 95%. Tenzij één van de partijen op winst tracht te spelen en daardoor verliest. 0,5-0,5 voor de goei dus.
 
-Op bord 2 toverde Peter met wit een zeer interessante open (e4-e5 , Pf3-De7) opening tevoorschijn. Met na een tiental zetten honderden “vallekes”. Op het moment dat zwart tegen wil en dank een volle kwaliteit moet offeren laat Peter een mooi paard instaan. Aai, aai, driemaal aaiaai. Wit schrikt zo erg dat hij spontaan remise aanbiedt. Niks daarvan, zegt Peter waarna hij zijn konijnenpoot bovenhaalt. Vandaag koos hij niet voor een normaal konijn maar voor de beroemde Vlaamse reus –ik (Camiel nvdr) heb er bij hem ineens vier besteld voor de volgende ronden. Een paar zetten later schudt de Karolinger vertwijfeld met het hoofd. Hij zag het ook: binnen de vier zetten verliest hij een volle loper. Het grappige (toch voor Dworp) is dat er niks maar dan ook niks tegen te doen is. Met de glimlacht op zijn gezicht speelde Peter de rest van de partij dan ook netjes uit. Zoveel is duidelijk: momenteel is Peter de man in topvorm. En dus staat Dworp op voorspong. 0,5-1,5 voor de goei.
+Op bord 2 toverde Peter met wit een zeer interessante open (e4-e5 , Pf3-De7) opening tevoorschijn. Met na een tiental zetten honderden “vallekes”. Op het moment dat zwart tegen wil en dank een volle kwaliteit moet offeren laat Peter een mooi paard instaan. Aai, aai, driemaal aaiaai. Wit schrikt zo erg dat hij spontaan remise aanbiedt. Niks daarvan, zegt Peter waarna hij zijn konijnenpoot bovenhaalt. Vandaag koos hij niet voor een normaal konijn maar voor de beroemde Vlaamse reus –ik (Camiel nvdr) heb er bij hem ineens vier besteld voor de volgende ronden. Een paar zetten later schudt de Karolinger vertwijfeld met het hoofd. Hij zag het ook: binnen de vier zetten verliest hij een volle loper. Het grappige (toch voor Dworp) is dat er niks maar dan ook niks tegen te doen is. Met de glimlacht op zijn gezicht speelde Peter de rest van de partij dan ook netjes uit. Zoveel is duidelijk: momenteel is Peter de man in topvorm. En dus staat Dworp op voorsprong. 0,5-1,5 voor de goei.
 
 Zonder twijfel bracht Stijn op bord 3 met zwart het boeiendste spektakel van de namiddag. Al vrij snel rokeerde hij kort terwijl de Karolinger zijn koning in het midden hield. Pas veel later in de partij rokeerde wit lang. Waar het hier om ging, valt makkelijk te raden: een aanval op een tegengesteld gerokeerde koning. Waarbij Stijns tegenstander toch wel een overduidelijk overwicht had. “Op een bepaald moment,” aldus Camiel, “durfde ik niet meer te kijken. In een onbewaakt moment zag ik dan toch dat Stijn mogelijk nog wat tegenkansen had. Jammer genoeg overzag hij kort daarna een mat in twee.” Al strijdend ten onder, zo noemen ze dat. Toch een mooie knokmatch. Terug gelijk en dus 1,5-1,5 voor de goei.
 
@@ -58,7 +59,7 @@ Pantin 6 staat aan de leiding in de vijfde afdeling L en dat was er duidelijk aa
 
 **Naspel**
 
-Dworp 1 komt stillaan in hogere sferen terecht. In grote mate is dit te danken aan de versterking van Tom op bord 2. Daarnaast zijn er natuurlijk ook de goede resultaten van Kjell, Serge, en eigenlijk de hele ploeg. Dat we wellicht ook wel in de zwakste reeks van derde klasse spelen, hoeven we niet te vermelden. Zo voortdoen, betekent alleszins dat we hoog kunnen eindigen.
+Dworp 1 komt stilaan in hogere sferen terecht. In grote mate is dit te danken aan de versterking van Tom op bord 2. Daarnaast zijn er natuurlijk ook de goede resultaten van Kjell, Serge, en eigenlijk de hele ploeg. Dat we wellicht ook wel in de zwakste reeks van derde klasse spelen, hoeven we niet te vermelden. Zo voortdoen, betekent alleszins dat we hoog kunnen eindigen.
 
 Ondanks de afwezigheid van Geert haalde Dworp 2 nog het broodnodige matchpunt binnen. Toch hadden we, gezien de Elo van de tegenstand, meer verwacht van deze ronde. Gelukkig blijft alles mogelijk en hebben we het nog in eigen handen. De match tegen Namen, voorlaatste in de stand, is daarbij cruciaal. Die moeten we ten koste van alles winnen. Probleem is dat Namen met een eenmalig zeer versterkt team kan opkomen. We zullen zien. In afwachting kunnen we hopelijk hier en daar nog wat extra puntjes sprokkelen. Dan komt het nog wel in orde in de –waarschijnlijk- sterkste reeks in vierde!
 
