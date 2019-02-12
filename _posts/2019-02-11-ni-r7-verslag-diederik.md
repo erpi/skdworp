@@ -13,15 +13,15 @@ ni_ronde: 7
 ni_d1_thuisploeg: Woluwe 1
 ni_d2_thuisploeg: CREC 3
 ni_d3_thuisploeg: Pantin 6
-stelling_fen: '3r1k2/2R1bpp1/4p1r1/p3Pn2/3P1P2/Pq3Q2/1P2B1pP/2BR2K1 b - - 0 1'
+stelling_fen: '3r1k2/1R2bpp1/1q2p1r1/p3Pn2/3P1P2/P4Q2/1P2B1pP/2BR2K1 b - - 0 1'
 stelling_titel: 'Desperado Walter'
 stelling_wit: 'Van Melsen'
 stelling_zwart: 'Walter'
-stelling_uitleg: 'walter speelde hier Db3-b6, waarop wit de dame volledig insloot met Tc7-b7. of niet?'
-stelling_oplossing: ''
+stelling_uitleg: 'de tegenstander van walter heeft net Tc7-b7 gespeeld en hoopt een dikke vis te vangen: zwart verliest zijn dame, of niet?'
+stelling_oplossing: 'wat gebeurde was 1... Pxd4!! 2. Txb6 Pxf3+ 3. Kf2 waarna het snel uit was door torenruil en promotie van de g-pion! de strafste verdediging voor wit na 1... Pxd4 moet ongetwijfeld zijn 2. Txd4 Dxd4+ 3. Le3 Lc5! 4. Tb3! Dd2!! 5. Lxc5+ Kg8 en wit kan de dreiging De1+ niet meer behoorlijk pareren!'
 image:
   path: 'assets/images/1819/ni/r7_d3_niels_matthias_mats.jpg'
-draft: true
+draft: false
 
 ---
 ## Vooraf
@@ -34,13 +34,13 @@ Ondertussen stond Dworp 2 voor een zware opgave. Om onze kansen op behoud gaaf t
 
 Serge had met zwart op bord één als eerste gedaan. Hij won wel een pion in het middenspel maar de actieve dame van de witspeler was te sterk en zorgde voor meer dan voldoende compensatie. Remise was dus een logische uitslag. 0,5-0,5 voor de goei
 
-Diederik op bord 4 met zwart kreeg een tegenstander voorgeschoteld die al na tien zetten remise voorstelde. “Eerst weigerde ik,” legt Diederik uit, “om het kort daarna maar zelf opnieuw voor te stellen. Vooral omdat Frank reeds gewonnen stond en mijn stelling al bij al toch niet al te schitterend was.” Kortom, 1-1 voor de goei.
+Diederik op bord 4 met wit kreeg een tegenstander voorgeschoteld die al na tien zetten remise voorstelde. “Eerst weigerde ik,” legt Diederik uit, “om het kort daarna maar zelf opnieuw voor te stellen. Vooral omdat Frank reeds gewonnen stond en mijn stelling al bij al toch niet al te schitterend was.” Kortom, 1-1 voor de goei.
 
-De derde partij die deze zondag snel gedaan was, was die van Tom op bord 2 met zwart. Tegen een Slav probeerde Tom vruchteloos tegenspel te kweken. Ook hier remise, een slap begin. 1,5-1,5 voor de goei.
+De derde partij die deze zondag snel gedaan was, was die van Tom op bord 2 met wit. Tegen de Slavische verdediging probeerde Tom vruchteloos spel te kweken. Ook hier remise, een slap begin. 1,5-1,5 voor de goei.
 
-De andere Dworpenaren speelden geïnspireerder. Het eerste volle punt kon Kjell op bord 3 met wit op zijn conto schrijven. Hij pakte het positioneel weer zeer sterk aan, met een sterk paard tegen een zwakke loper en een dame die infiltreerde in de vijandelijke stelling. Ineens was het met een mat in één over en out voor de Woluwenaar. Zeer knap! We nemen voorsprong: 1,5-2,5 voor de goei.
+De andere Dworpenaren speelden geïnspireerder. Het eerste volle punt kon Kjell op bord 3 met zwart op zijn conto schrijven. Hij pakte het positioneel weer zeer sterk aan, met een sterk paard tegen een zwakke loper en een dame die infiltreerde in de vijandelijke stelling. Ineens was het met een mat in één over en out voor de Woluwenaar. Zeer knap! We nemen voorsprong: 1,5-2,5 voor de goei.
 
-En dus kon de winst ons bijna niet meer ontglippen. Zoals reeds aangehaald stond Frank op bord 6 met zwart weer zeer snel gewonnen. Net zoals vorige zondag. Na minder dan tien zetten blunderde zijn tegenstander een pion weg na een schijnoffer op f7. Misschien nog erger was de ingesloten toren op h8. De Woluwenaar vocht nog lang tegen de bierkaai maar Frank maakte het vakkundig af! De buit is binnen: 1,5-3,5 voor de goei.
+En dus kon de winst ons bijna niet meer ontglippen. Zoals reeds aangehaald stond Frank op bord 6 met wit weer zeer snel gewonnen. Net zoals vorige zondag. Na minder dan tien zetten blunderde zijn tegenstander een pion weg na een schijnoffer op f7. Misschien nog erger was de ingesloten toren op h8. De Woluwenaar vocht nog lang tegen de bierkaai maar Frank maakte het vakkundig af! De buit is binnen: 1,5-3,5 voor de goei.
 
 Over naar Walter die op bord 5 met zwart in zijn typische stijl een pion offerde voor actief spel en een koningsaanval. Dat resulteerde in een bijzonder complexe stelling waar niemand nog het bos door de bomen zag, inclusief de twee spelers aan het bord. Het leek erop dat de tegenstander van Walter erin slaagde diens dame in te sluiten. Walter bracht echter redding met een verschroeiende desperado. Zonder twijfel de combinatie van de dag, misschien wel van het jaar (zie stelling onderaan). Eindstand: 1,5-4,5 voor de goei.
 
@@ -48,7 +48,7 @@ Over naar Walter die op bord 5 met zwart in zijn typische stijl een pion offerde
 
 Op bord 1 speelde Camiel een rustig partij waarmee hij vrij eenvoudig remise haalde. Zo toonde hij zich een waardige vervanger van Geert. “Trouwens”, aldus Camiel, “Na de partij vertelde mijn tegenstrever dat hij zich uitgebreid had voorbereid op Frans tegen een zogenaamde Geert... Hahaha. Moest hij het toch wel doen tegen een zekere Camiel. Het werd een slaapverwekkende partij, mijn stijl dus. Met name: c4 tegen c5 waarna een vrij symmetrische stelling ontstaat. “Zulke partijen”, legt Camiel uit, “speelde ik vroeger tijdens mijn middagpauze honderden malen. De kans op remise is 95%. Tenzij één van de partijen op winst tracht te spelen en daardoor verliest." 0,5-0,5 voor de goei dus.
 
-Op bord 2 toverde Peter met wit een zeer interessante open (1. e4 e5 2. Pf3 De7) opening tevoorschijn. Met na een tiental zetten honderden “vallekes”. Op het moment dat zwart tegen wil en dank een volle kwaliteit moet offeren laat Peter een mooi paard instaan. Aai, aai, driemaal aaiaai. Wit schrikt zo erg dat hij spontaan remise aanbiedt. Niks daarvan, zegt Peter waarna hij zijn konijnenpoot bovenhaalt. Vandaag koos hij niet voor een normaal konijn maar voor de beroemde Vlaamse reus –ik (Camiel nvdr) heb er bij hem ineens vier besteld voor de volgende ronden. Een paar zetten later schudt de Karolinger vertwijfeld met het hoofd. Hij zag het ook: binnen de vier zetten verliest hij een volle loper. Het grappige (toch voor Dworp) is dat er niks maar dan ook niks tegen te doen is. Met de glimlacht op zijn gezicht speelde Peter de rest van de partij dan ook netjes uit. Zoveel is duidelijk: momenteel is Peter de man in topvorm. En dus staat Dworp op voorsprong. 0,5-1,5 voor de goei.
+Op bord 2 toverde de tegenstander van Peter een zeer interessante open (1. e4 e5 2. Pf3 De7) opening tevoorschijn. Met na een tiental zetten honderden “vallekes”. Op het moment dat zwart tegen wil en dank een volle kwaliteit moet offeren laat Peter een mooi paard instaan. Aai, aai, driemaal aaiaai. Zwart schrikt zo erg dat hij spontaan remise aanbiedt. Niks daarvan, zegt Peter waarna hij zijn konijnenpoot bovenhaalt. Vandaag koos hij niet voor een normaal konijn maar voor de beroemde Vlaamse reus –ik (Camiel nvdr) heb er bij hem ineens vier besteld voor de volgende ronden. Een paar zetten later schudt de Karolinger vertwijfeld met het hoofd. Hij zag het ook: binnen de vier zetten verliest hij een volle loper. Het grappige (toch voor Dworp) is dat er niks maar dan ook niks tegen te doen is. Met de glimlacht op zijn gezicht speelde Peter de rest van de partij dan ook netjes uit. Zoveel is duidelijk: momenteel is Peter de man in topvorm. En dus staat Dworp op voorsprong. 0,5-1,5 voor de goei.
 
 Zonder twijfel bracht Stijn op bord 3 met zwart het boeiendste spektakel van de namiddag. Al vrij snel rokeerde hij kort terwijl de Karolinger zijn koning in het midden hield. Pas veel later in de partij rokeerde wit lang. Waar het hier om ging, valt makkelijk te raden: een aanval op een tegengesteld gerokeerde koning. Waarbij Stijns tegenstander toch wel een overduidelijk overwicht had. “Op een bepaald moment,” aldus Camiel, “durfde ik niet meer te kijken. In een onbewaakt moment zag ik dan toch dat Stijn mogelijk nog wat tegenkansen had. Jammer genoeg overzag hij kort daarna een mat in twee.” Al strijdend ten onder, zo noemen ze dat. Toch een mooie knokmatch. Terug gelijk en dus 1,5-1,5 voor de goei.
 
