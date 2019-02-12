@@ -94,5 +94,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Bertrand, Stijn", "uspeler": "Mataigne, Jean-Michel", "telo": 1757, "uelo": 1949, "tstam": 21253, "ustam": 13541},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Van De Velde, Filip", "uspeler": "Andre, Renaud", "telo": 1718, "uelo": 1839, "tstam": 31682, "ustam": 66028}
     ]
+  },
+  {
+    "ronde": "7",
+    "datum": "10-02-2019",
+    "thuis": "501 CREC 3",
+    "uit": "228 Dworp 2",
+    "tscore": 2.0,
+    "uscore": 2.0,
+    "tgem": 1679,
+    "ugem": 1767,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Delescaille, Laurent", "uspeler": "Vennekens, Camiel", "telo": 1798, "uelo": 1788, "tstam": 10554, "ustam": 37168},
+      {"tr": "0", "ur": "1", "tspeler": "Werner, Guy", "uspeler": "De Bosscher, Peter", "telo": 1694, "uelo": 1803, "tstam": 81728, "ustam": 655},
+      {"tr": "1", "ur": "0", "tspeler": "Keiser, Marc", "uspeler": "Bertrand, Stijn", "telo": 1655, "uelo": 1757, "tstam": 88951, "ustam": 21253},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Auquier, Yvan", "uspeler": "Van De Velde, Filip", "telo": 1568, "uelo": 1718, "tstam": 80195, "ustam": 31682}
+    ]
   }
 ]

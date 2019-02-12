@@ -106,5 +106,23 @@
       {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "Drossart, Jonathan", "telo": 1963, "uelo": 1825, "tstam": 34584, "ustam": 71137},
       {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Heynen, Martin", "telo": 1911, "uelo": 1722, "tstam": 21881, "ustam": 98118}
     ]
+  },
+  {
+    "ronde": "7",
+    "datum": "10-02-2019",
+    "thuis": "229 Woluwe 1",
+    "uit": "228 Dworp 1",
+    "tscore": 1.5,
+    "uscore": 4.5,
+    "tgem": 1893,
+    "ugem": 2017,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Nolf, Stephane", "uspeler": "Vanderwaeren, Serge", "telo": 2033, "uelo": 2124, "tstam": 81698, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verbist, Julien", "uspeler": "Van Hoofstat, Tom", "telo": 1986, "uelo": 2104, "tstam": 10563, "ustam": 42706},
+      {"tr": "0", "ur": "1", "tspeler": "Rauta, Nicolas", "uspeler": "Spaens, Kjell", "telo": 1922, "uelo": 1982, "tstam": 68497, "ustam": 29343},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Haber, Jean-Pierre", "uspeler": "Lot, Diederik", "telo": 1951, "uelo": 2018, "tstam": 22578, "ustam": 9954},
+      {"tr": "0", "ur": "1", "tspeler": "Van Melsen, Raymond", "uspeler": "De Reymaeker, Walter", "telo": 1799, "uelo": 1963, "tstam": 28207, "ustam": 34584},
+      {"tr": "0", "ur": "1", "tspeler": "Gerresch, Paul", "uspeler": "Denys, Frank", "telo": 1666, "uelo": 1911, "tstam": 75141, "ustam": 21881}
+    ]
   }
 ]

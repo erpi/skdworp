@@ -94,5 +94,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Baert, Yves", "uspeler": "Willems, Yvetta", "telo": 1473, "uelo": 1305, "tstam": 48721, "ustam": 76236},
       {"tr": "1", "ur": "0", "tspeler": "Palmans, Niels", "uspeler": "Lenaertz, David", "telo": 1545, "uelo": 1288, "tstam": 17733, "ustam": 17436}
     ]
+  },
+  {
+    "ronde": "7",
+    "datum": "10-02-2019",
+    "thuis": "278 Pantin 6",
+    "uit": "228 Dworp 3",
+    "tscore": 4,
+    "uscore": 0,
+    "tgem": 1777,
+    "ugem": 1509,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Cousin, Emmanuel", "uspeler": "Baert, Yves", "telo": 1794, "uelo": 1473, "tstam": 19393, "ustam": 48721},
+      {"tr": "1", "ur": "0", "tspeler": "Pauckstadt, Andreas", "uspeler": "Palmans, Niels", "telo": 1759, "uelo": 1545, "tstam": 19581, "ustam": 17733},
+      {"tr": "1", "ur": "0", "tspeler": "Santos Martins, Junior", "uspeler": "Vanrossum, Matthias", "telo": 0, "uelo": 0, "tstam": 16821, "ustam": 17614},
+      {"tr": "1", "ur": "0", "tspeler": "De Paepe, Simon", "uspeler": "Laureys, Mats", "telo": 0, "uelo": 0, "tstam": 19737, "ustam": 12750}
+    ]
   }
 ]
