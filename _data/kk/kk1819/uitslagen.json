@@ -202,14 +202,14 @@
         "zwart": "Bye"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Sonja Van Der Voorde",
         "zwart": "Eddy Pletinckx"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Robert Huysman",
         "zwart": "Geert Verrijken"
       },
@@ -322,8 +322,8 @@
         "zwart": "Kristoff Bultijnck"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Stijn Bertrand",
         "zwart": "Eric Cornelis"
       },
