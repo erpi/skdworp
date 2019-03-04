@@ -31,7 +31,7 @@ Het moet gezegd, onze eerste stappers deden het heel goed. Charlotte won meteen 
 
 ![Foto Lexie en Helena][foto 2]
  
-_Lexie – Helena in hun onderlinge strijd voor de tweede plaats in hun reeks._
+_Lexie en Helena in onderlinge strijd voor de tweede plaats in hun reeks_
 
 ## Stap 2
 
