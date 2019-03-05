@@ -13,7 +13,7 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 image:
   path: 'assets/images/1819/groep_landegem.jpg'
-draft: true
+draft: false
 ---
 Gisteren traden we aan op het debutantentornooi van Chesspirant te Lokeren met maar liefst 10 spelers: Nathan, Lexie, Charlotte, Helena, Jannes, Matthias, Sander, Niels, Mats en ikzelf. Als begeleiders tekenden Christophe, een iets minder bekend lid van onze club, en mijn zus Hedwig present.<!--more-->
 
