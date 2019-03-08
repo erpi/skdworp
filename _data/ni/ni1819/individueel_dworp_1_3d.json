@@ -124,5 +124,23 @@
       {"tr": "0", "ur": "1", "tspeler": "Van Melsen, Raymond", "uspeler": "De Reymaeker, Walter", "telo": 1799, "uelo": 1963, "tstam": 28207, "ustam": 34584},
       {"tr": "0", "ur": "1", "tspeler": "Gerresch, Paul", "uspeler": "Denys, Frank", "telo": 1666, "uelo": 1911, "tstam": 75141, "ustam": 21881}
     ]
+  },
+  {
+    "ronde": "8",
+    "datum": "24-02-2019",
+    "thuis": "228 Dworp 1",
+    "uit": "278 Pantin 1",
+    "tscore": 2.5,
+    "uscore": 3.5,
+    "tgem": 1976,
+    "ugem": 2026,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren, Serge", "uspeler": "Collette, Benjamin", "telo": 2124, "uelo": 2182, "tstam": 20621, "ustam": 65544},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Hoofstat, Tom", "uspeler": "Robert, Pierre", "telo": 2104, "uelo": 2091, "tstam": 42706, "ustam": 92479},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Spaens, Kjell", "uspeler": "Demoulin, Joachim", "telo": 1982, "uelo": 2044, "tstam": 29343, "ustam": 72435},
+      {"tr": "0", "ur": "1", "tspeler": "Lot, Diederik", "uspeler": "Solsky, Itzhak", "telo": 2018, "uelo": 2020, "tstam": 9954, "ustam": 14119},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Denys, Frank", "uspeler": "Vanmuylder, Dany", "telo": 1911, "uelo": 1926, "tstam": 21881, "ustam": 85375},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van De Velde, Filip", "uspeler": "Onrubia-Aviles, Carlos", "telo": 1718, "uelo": 1892, "tstam": 31682, "ustam": 85103}
+    ]
   }
 ]

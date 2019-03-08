@@ -110,5 +110,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Keiser, Marc", "uspeler": "Bertrand, Stijn", "telo": 1655, "uelo": 1757, "tstam": 88951, "ustam": 21253},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Auquier, Yvan", "uspeler": "Van De Velde, Filip", "telo": 1568, "uelo": 1718, "tstam": 80195, "ustam": 31682}
     ]
+  },
+  {
+    "ronde": "8",
+    "datum": "24-02-2019",
+    "thuis": "228 Dworp 2",
+    "uit": "909 Philippeville 1",
+    "tscore": 1.0,
+    "uscore": 3.0,
+    "tgem": 1828,
+    "ugem": 1780,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Verrijken, Geert", "uspeler": "Dessomme, Francois", "telo": 1965, "uelo": 1990, "tstam": 62766, "ustam": 74063},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vennekens, Camiel", "uspeler": "Wautelet, Patrick", "telo": 1788, "uelo": 1819, "tstam": 37168, "ustam": 71978},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher, Peter", "uspeler": "Albert, Julien", "telo": 1803, "uelo": 1701, "tstam": 655, "ustam": 77381},
+      {"tr": "0", "ur": "1", "tspeler": "Bertrand, Stijn", "uspeler": "Godart, Clara", "telo": 1757, "uelo": 1610, "tstam": 21253, "ustam": 10297}
+    ]
   }
 ]

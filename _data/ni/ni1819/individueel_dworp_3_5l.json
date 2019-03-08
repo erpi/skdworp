@@ -110,5 +110,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Santos Martins, Junior", "uspeler": "Vanrossum, Matthias", "telo": 0, "uelo": 0, "tstam": 16821, "ustam": 17614},
       {"tr": "1", "ur": "0", "tspeler": "De Paepe, Simon", "uspeler": "Laureys, Mats", "telo": 0, "uelo": 0, "tstam": 19737, "ustam": 12750}
     ]
+  },
+  {
+    "ronde": "8",
+    "datum": "24-02-2019",
+    "thuis": "228 Dworp 3",
+    "uit": "207 2 Fous Diog\u00e8ne 2",
+    "tscore": 0.5,
+    "uscore": 3.5,
+    "tgem": 1509,
+    "ugem": 1462,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Baert, Yves", "uspeler": "Kuy, Yannick", "telo": 1473, "uelo": 1600, "tstam": 48721, "ustam": 16387},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Palmans, Niels", "uspeler": "Castiau, Julien", "telo": 1545, "uelo": 1502, "tstam": 17733, "ustam": 55549},
+      {"tr": "0", "ur": "1", "tspeler": "Lerinckx, Sander", "uspeler": "Wolff, Oren", "telo": 0, "uelo": 0, "tstam": 12702, "ustam": 19619},
+      {"tr": "0", "ur": "1", "tspeler": "Lerinckx, Niels", "uspeler": "Onckelet, Alain", "telo": 0, "uelo": 1283, "tstam": 12699, "ustam": 10756}
+    ]
   }
 ]

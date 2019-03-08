@@ -87,12 +87,12 @@
     "ronde": "ronde 8",
     "datum": "24-02-2019",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "244 Brussels 1", "uit": "548 Caissa Europe 1"},
-      {"tr": "", "ur": "", "thuis": "114 Mechelen 2", "uit": "226 Europchess 2"},
-      {"tr": "", "ur": "", "thuis": "514 Fontaine 3", "uit": "417 Aalst 1"},
-      {"tr": "", "ur": "", "thuis": "174 Brasschaat 4", "uit": "462 Zottegem 3"},
-      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "278 Pantin 1"},
-      {"tr": "", "ur": "", "thuis": "521 Tournai 1", "uit": "229 Woluwe 1"}
+      {"tr": "5", "ur": "1", "thuis": "244 Brussels 1", "uit": "548 Caissa Europe 1"},
+      {"tr": "3", "ur": "3", "thuis": "114 Mechelen 2", "uit": "226 Europchess 2"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "514 Fontaine 3", "uit": "417 Aalst 1"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "174 Brasschaat 4", "uit": "462 Zottegem 3"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "228 Dworp 1", "uit": "278 Pantin 1"},
+      {"tr": "3", "ur": "3", "thuis": "521 Tournai 1", "uit": "229 Woluwe 1"}
     ]
   },
   {
