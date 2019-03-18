@@ -1,7 +1,6 @@
 ---
 label: interclubs uit
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Titel van het verslag
@@ -143,5 +142,6 @@ fields:
   description: verander 'true' in 'false' als het publiek het verslag mag vinden (=
     publiceren)
 pages:
+- _posts/hoger-nog-hoger-en-helaas-ook-lager-nog-lager.md
 - _posts/test.md
 - _posts/2018-10-08-ni-r2-verslag-geert.md

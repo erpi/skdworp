@@ -1,7 +1,6 @@
 ---
 label: interclubs thuis
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Titel van het verslag
@@ -134,5 +133,4 @@ fields:
   label: draft
   default: true
 pages:
-- _posts/geen-enkel-winstpunt-op-14-partijen-balen-als-een-stekker.md
 - _posts/test-2.md

@@ -1,7 +1,6 @@
 ---
 label: klubkampioenschap
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Titel van het verslag
