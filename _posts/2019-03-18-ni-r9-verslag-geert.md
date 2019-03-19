@@ -5,9 +5,9 @@ ni_d1_uitploeg: Dworp 1
 ni_d2_uitploeg: Dworp 2
 ni_d3_uitploeg: Dworp 3
 excerpt_separator: "<!--more-->"
-draft: true
+draft: false
 title: "Hoger, nog hoger en helaas ook lager, nog lager"
-author: Geert,Eric,Tom
+author: Geert,Eric,Tom,Yves
 fotograaf: Walter,Yves,Geert
 date: 2019-03-17 00:00:00 +0100
 ni_ronde: 9
@@ -29,7 +29,7 @@ Ons vlaggenschip in derde afdeling speelde zondag tegen de Zottegemse typeploeg 
 
 Team 2 moest het opnemen tegen een collega degradatiekandidaat. Het uur van de waarheid is aangebroken. Winnen is een must.
 
-![Bort Geert met de zwarte koning in het midden][foto 2]
+![Bord van Geert met de zwarte koning in het midden][foto 2]
 
 En de derde ploeg met twee jeugdspelers kon heel wat ervaring opdoen tegen Europchess, een sterke tegenstander.<!--more-->
 
@@ -45,7 +45,7 @@ Kjell met zwart op het derde bord speelde zoals gewoonlijk dit seizoen met veel 
 
 Walter op bord 4 met wit kreeg zoals gebruikelijk een hyperscherpe partij met aan alle kanten hangende stukken. Uiteindelijk had onze man het toch weer allemaal beter gezien dan de tegenstander. Finaal verloor zwart have en goed door een penning op de onderste rij. Ook Walter is in uitstekende vorm! De buit is al binnen. 1,5- 3,5 voor de goei.
 
-![Frank in aktie][foto 1]
+![Frank in actie][foto 1]
 
 Frank op bord 4 tenslotte speelde bijna de hele partij lang een dubbel toreneindspel met vrijwel alle pionnen op het bord. Toen er een toren afging probeerde wit het nog op de koningsvleugel, zwart counterde aan de andere kant. Het was remise en het bleef remise. 2-4 gewonnen! En elf matchpunten uit negen ontmoetingen. Goed gedaan, mannen!
 
@@ -65,21 +65,21 @@ Helaas, Camiel op bord 2 met wit speelde tegen een oude vos die wel vele haren m
 
 En zo rustte al onze hoop op de frêle schouders van Peter. Hij was zich van het belang van zijn partij maar al te goed bewust en verdedigde zich op bord 3 met zwart in een Hollandse partij erg goed. Superingewikkeld, tot de tijdnoodfase bleven zowat alle pionnen en stukken op het bord staan. Peter stond wat ingedrukt maar zeker verdedigbaar en de witspeler mocht van zijn kant ook wel uitkijken voor de counter. Dit was geen gelopen match. Helaas, in opperste tijdnood zo rond zet 37, blunderde Peter een cruciale pion weg. Meteen was er geen houden meer aan, de witte stukken drongen langs alle kanten de zwarte stelling binnen. Het heeft niet mogen zijn, het verhaal van het hele seizoen: net niet. 2,5-1,5 verloren. Vijfde afdeling wenkt.
 
-## Goed geprobeerd, tegenstand te sterk
+## Dapper ten onder gegaan
 
 ![Foto Jannes][foto 5]
 
-Onze derde ploeg ging op bezoek bij Europchess 4 met aanzienlijke Elo’s voor vijfde afdeling, gaande van een plus 1.800-er en drie maal een plus 1.700-er. Ze staan dan ook derde in de stand en hebben nog een waterkansje op promotie. Dworp 3 bracht naast twee gevestigde waarden ook twee jeugdspelers in stelling. Eén daarvan, Jannes had met wit op bord vier zijn dagje niet. Hij moest al vrij snel inbinden. 1-0 voor Europchess.
+Onze derde ploeg ging op bezoek bij Europchess 4 met aanzienlijke Elo’s voor vijfde afdeling, gaande van een plus 1.800-er en drie maal een plus 1.700-er. Ze staan dan ook derde in de stand en hebben nog een waterkansje op promotie. Dworp 3 bracht naast twee gevestigde waarden ook twee jeugdspelers in stelling. Eén daarvan, Jannes die voor het eerst naar een IC-wedstrijd trok, werd in zijn eerste partij snel overklast en mocht na enkele tientallen minuten al naar de analysezaal waar zijn tegenstander hem nog wat uitlegde hoe hij zijn spel kon verbeteren. 1-0 voor Europchess.
 
-Felix daarentegen had duidelijk zijn dagje wel. Op bord drie kon hij het lang ongeveer gelijk houden. Hij nam er ook dan ook zijn tijd voor maar uiteindelijk volgde dan toch een fout. Jammer. 2-0 achter
+Felix daarentegen had duidelijk zijn dagje wel en deed het een pak beter. Hij nam zijn tijd en de partij ging zeer gelijk op. Jammer voor hem verloor hij een pion en werd het positioneel niet beter. Jammer. 2-0 achter
 
 ![Foto Felix][foto 6]
 
-En ja, ook de niet-jeugdspelers hadden het niet onder de markt. Yves bezweek eveneens met zwart op bord 1 uiteindelijk tegen de plus 1.800 speler. 3-0
+En ja, ook de niet-jeugdspelers hadden het niet onder de markt. Yves bezweek eveneens met zwart op bord 1 tegen de plus 1.800 speler. Een opening die scheef ging met enorme druk van de tegenstander die er echter door stevig blocagewerk niet doorkwam. Uiteindelijk dwong tijdnood en vermoeidheid Yves tot een overgave. 3-0
 
-Gelukkig werd de eer uiteindelijk nog gered. Tegen de er als een filosoof uitziende Jesper Abrahamsen (vind ik, Eric, althans) bereikte Niels met wit evenals ikzelf vorig jaar remise. Niet minder dan 5,5 uit 8 nu voor Niels. Hij moest alleen buigen voor de vermoedelijke kampioen, Pantin. Dat zijn mooie resultaten!
+Gelukkig werd de eer uiteindelijk nog gered. Tegen de er als een filosoof uitziende, volgens Eric althans, Jesper Abrahamsen bereikte Niels met wit evenals Eric vorig jaar remise. Het was een evenwichtige partij en de meeste stukken werden gelijk afgewikkeld. Dit leidde tot een stelling waar beide partijen niet het risico wilden lopen om met een verliespunt naar huis te gaan en remise werd na bijna 4 uur spelen overeengekomen. Proficiat om tegen een hoger geklasseerde speler toch nog een half punt uit de brand te spelen! Rots in de branding voor Dworp 3: niet minder dan 5,5 uit 8 nu voor Niels. Hij moest alleen buigen voor de vermoedelijke kampioen, Pantin. Dat zijn mooie resultaten!
 
-De IC-ontmoeting draaide wel uit op een logische 3,5-0,5 overwinning voor Europchess.
+De IC-ontmoeting draaide wel uit op een logische 3,5-0,5 overwinning voor Europchess. Het lijkt op papier dan misschien een zware score, het blijft een mooie ervaring voor de spelers van ploeg 3 tegen een minder haalbare kaart.
 
 ## Naspel
 
