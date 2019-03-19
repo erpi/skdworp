@@ -20,12 +20,16 @@ stelling_wit: ''
 stelling_zwart: ''
 stelling_uitleg: ''
 stelling_oplossing: ''
+image:
+  path: 'assets/images/1819/ni/r9_d2_bord_geert.jpg'
 ---
 ## Vooraf
 
 Ons vlaggenschip in derde afdeling speelde zondag tegen de Zottegemse typeploeg uit de eerste rondes. Dat wil zeggen dat Dworp op de eerste vijf borden 100 à 150 Elo sterker is. De uitzondering op de regel is bord 6, met een bijna 200 Elo straffere Zottegemmenaar. 
 
 Team 2 moest het opnemen tegen een collega degradatiekandidaat. Het uur van de waarheid is aangebroken. Winnen is een must.
+
+![Bort Geert met de zwarte koning in het midden][foto 2]
 
 En de derde ploeg met twee jeugdspelers kon heel wat ervaring opdoen tegen Europchess, een sterke tegenstander.<!--more-->
 
@@ -41,6 +45,8 @@ Kjell met zwart op het derde bord speelde zoals gewoonlijk dit seizoen met veel 
 
 Walter op bord 4 met wit kreeg zoals gebruikelijk een hyperscherpe partij met aan alle kanten hangende stukken. Uiteindelijk had onze man het toch weer allemaal beter gezien dan de tegenstander. Finaal verloor zwart have en goed door een penning op de onderste rij. Ook Walter is in uitstekende vorm! De buit is al binnen. 1,5- 3,5 voor de goei.
 
+![Frank in aktie][foto 1]
+
 Frank op bord 4 tenslotte speelde bijna de hele partij lang een dubbel toreneindspel met vrijwel alle pionnen op het bord. Toen er een toren afging probeerde wit het nog op de koningsvleugel, zwart counterde aan de andere kant. Het was remise en het bleef remise. 2-4 gewonnen! En elf matchpunten uit negen ontmoetingen. Goed gedaan, mannen!
 
 ## Dworp 2 redt het helaas niet tegen een versterkt Namen
@@ -49,21 +55,25 @@ Aangekomen in Namen trokken ‘wijle van Dwoerp 2’ even wit weg toen we de Elo
 
 En toch, om 15 uur hing zijn scalp al aan mijn riem. Met wit speelde de Namurois een dubieuze opening waarop ik dubieus reageerde en hij nog eens dom repliceerde. De dans der kemels, quoi. Resultaat: ik had een kwaliteit en pion meer terwijl de witte koning ook nog eens in het midden van het bord stond en van geen hout meer pijlen wist te maken. De power van de grijze golf. Er zijn zo van die dagen (helaas steeds minder) en onverhoopt 0-1 voor de goei. We leven op hoop.
 
+![Foto Filip][foto 4]
+
 Daarna was het de beurt aan Filip die met wit de hele partij lang het beste van het spel had. Een positioneel getint spel dat goede tactische kansen bood. Filip koos echter eieren voor zijn geld en zijn remise-aanbod werd allicht dankbaar aangenomen door de Naamse tegenstander. 0,5-1,5 voor de goei. Alles lijkt mogelijk want zeg nu zelf: nog een halfje uit twee partijen, dat moet toch kunnen.
 
 Helaas, Camiel op bord 2 met wit speelde tegen een oude vos die wel vele haren maar niet zijn streken kwijt was. Van in de opening stond onze man moeilijk met pionverlies tot gevolg. Even leek het op een eindspel met ongelijke lopers uit te draaien maar zover liet de Namurois het niet komen. Na dubbele torenruil was het over en uit voor Camiel. Namen maakt gelijk 1,5-1,5.
+
+![Foto Peter en Caniel][foto 3]
 
 En zo rustte al onze hoop op de frêle schouders van Peter. Hij was zich van het belang van zijn partij maar al te goed bewust en verdedigde zich op bord 3 met zwart in een Hollandse partij erg goed. Superingewikkeld, tot de tijdnoodfase bleven zowat alle pionnen en stukken op het bord staan. Peter stond wat ingedrukt maar zeker verdedigbaar en de witspeler mocht van zijn kant ook wel uitkijken voor de counter. Dit was geen gelopen match. Helaas, in opperste tijdnood zo rond zet 37, blunderde Peter een cruciale pion weg. Meteen was er geen houden meer aan, de witte stukken drongen langs alle kanten de zwarte stelling binnen. Het heeft niet mogen zijn, het verhaal van het hele seizoen: net niet. 2,5-1,5 verloren. Vijfde afdeling wenkt.
 
 ## Goed geprobeerd, tegenstand te sterk
 
-![Foto Jannes][foto 2]
+![Foto Jannes][foto 5]
 
 Onze derde ploeg ging op bezoek bij Europchess 4 met aanzienlijke Elo’s voor vijfde afdeling, gaande van een plus 1.800-er en drie maal een plus 1.700-er. Ze staan dan ook derde in de stand en hebben nog een waterkansje op promotie. Dworp 3 bracht naast twee gevestigde waarden ook twee jeugdspelers in stelling. Eén daarvan, Jannes had met wit op bord vier zijn dagje niet. Hij moest al vrij snel inbinden. 1-0 voor Europchess.
 
 Felix daarentegen had duidelijk zijn dagje wel. Op bord drie kon hij het lang ongeveer gelijk houden. Hij nam er ook dan ook zijn tijd voor maar uiteindelijk volgde dan toch een fout. Jammer. 2-0 achter
 
-![Foto Felix][foto 1]
+![Foto Felix][foto 6]
 
 En ja, ook de niet-jeugdspelers hadden het niet onder de markt. Yves bezweek eveneens met zwart op bord 1 uiteindelijk tegen de plus 1.800 speler. 3-0
 
@@ -79,5 +89,9 @@ Treurnis alom daarentegen bij ploeg 2. We zijn zeker niet de tweede zwakste uit 
 
 Voor team 3 is deelnemen belangrijker dan winnen. Bij uitbreiding geldt dat natuurlijk voor alle ploegen. De jeugdspelers maken van de gelegenheid gretig gebruik om ervaring op te doen. Competitie in interclubverband is toch nog wat anders dan gewoon wat schaken onder vrienden. Op termijn plukken we er alleen maar de vruchten van.
 
-[foto 1]: {{ "assets/images/1819/ni/r9_d3_felix.jpg" | absolute_url }}
-[foto 2]: {{ "assets/images/1819/ni/r9_d3_jannes.jpg" | absolute_url }}
+[foto 1]: {{ "assets/images/1819/ni/r9_d1_frank.jpg" | absolute_url }}
+[foto 2]: {{ "assets/images/1819/ni/r9_d2_bord_geert.jpg" | absolute_url }}
+[foto 3]: {{ "assets/images/1819/ni/r9_d2_peter_camiel.jpg" | absolute_url }}
+[foto 4]: {{ "assets/images/1819/ni/r9_d2_filip.jpg" | absolute_url }}
+[foto 5]: {{ "assets/images/1819/ni/r9_d3_jannes.jpg" | absolute_url }}
+[foto 6]: {{ "assets/images/1819/ni/r9_d3_felix.jpg" | absolute_url }}
