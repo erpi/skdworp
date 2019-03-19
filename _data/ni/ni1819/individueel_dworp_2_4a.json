@@ -126,5 +126,21 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher, Peter", "uspeler": "Albert, Julien", "telo": 1803, "uelo": 1701, "tstam": 655, "ustam": 77381},
       {"tr": "0", "ur": "1", "tspeler": "Bertrand, Stijn", "uspeler": "Godart, Clara", "telo": 1757, "uelo": 1610, "tstam": 21253, "ustam": 10297}
     ]
+  },
+  {
+    "ronde": "9",
+    "datum": "17-03-2019",
+    "thuis": "901 Namur 3",
+    "uit": "228 Dworp 2",
+    "tscore": 2.5,
+    "uscore": 1.5,
+    "tgem": 1923,
+    "ugem": 1819,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Guion, Geoffrey", "uspeler": "Verrijken, Geert", "telo": 1980, "uelo": 1965, "tstam": 81604, "ustam": 62766},
+      {"tr": "1", "ur": "0", "tspeler": "Piron, Didier", "uspeler": "Vennekens, Camiel", "telo": 1987, "uelo": 1788, "tstam": 81361, "ustam": 37168},
+      {"tr": "1", "ur": "0", "tspeler": "Damlakhi, Mahmoud", "uspeler": "De Bosscher, Peter", "telo": 1845, "uelo": 1803, "tstam": 17189, "ustam": 655},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Pacolet, Fabrice", "uspeler": "Van De Velde, Filip", "telo": 1878, "uelo": 1718, "tstam": 90964, "ustam": 31682}
+    ]
   }
 ]

@@ -142,5 +142,23 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Denys, Frank", "uspeler": "Vanmuylder, Dany", "telo": 1911, "uelo": 1926, "tstam": 21881, "ustam": 85375},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Van De Velde, Filip", "uspeler": "Onrubia-Aviles, Carlos", "telo": 1718, "uelo": 1892, "tstam": 31682, "ustam": 85103}
     ]
+  },
+  {
+    "ronde": "9",
+    "datum": "17-03-2019",
+    "thuis": "462 Zottegem 3",
+    "uit": "228 Dworp 1",
+    "tscore": 2.0,
+    "uscore": 4.0,
+    "tgem": 1886,
+    "ugem": 1955,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Mannaert, Erwin", "uspeler": "Vanderwaeren, Serge", "telo": 1963, "uelo": 2124, "tstam": 16144, "ustam": 20621},
+      {"tr": "1", "ur": "0", "tspeler": "De Weird, Matthias", "uspeler": "Van Hoofstat, Tom", "telo": 1958, "uelo": 2104, "tstam": 25933, "ustam": 42706},
+      {"tr": "0", "ur": "1", "tspeler": "Verstraeten, Jan", "uspeler": "Spaens, Kjell", "telo": 1947, "uelo": 1982, "tstam": 33316, "ustam": 29343},
+      {"tr": "0", "ur": "1", "tspeler": "Van Puyvelde, Stijn", "uspeler": "De Reymaeker, Walter", "telo": 1828, "uelo": 1963, "tstam": 6246, "ustam": 34584},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Parys, Nikita", "uspeler": "Denys, Frank", "telo": 1790, "uelo": 1911, "tstam": 10045, "ustam": 21881},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Roos, Frank", "uspeler": "Cornelis, Eric", "telo": 1831, "uelo": 1646, "tstam": 5355, "ustam": 76317}
+    ]
   }
 ]

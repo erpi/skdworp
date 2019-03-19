@@ -126,5 +126,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Lerinckx, Sander", "uspeler": "Wolff, Oren", "telo": 0, "uelo": 0, "tstam": 12702, "ustam": 19619},
       {"tr": "0", "ur": "1", "tspeler": "Lerinckx, Niels", "uspeler": "Onckelet, Alain", "telo": 0, "uelo": 1283, "tstam": 12699, "ustam": 10756}
     ]
+  },
+  {
+    "ronde": "9",
+    "datum": "17-03-2019",
+    "thuis": "226 Europchess 4",
+    "uit": "228 Dworp 3",
+    "tscore": 3.5,
+    "uscore": 0.5,
+    "tgem": 1741,
+    "ugem": 1509,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Ranucci, Marcello", "uspeler": "Baert, Yves", "telo": 1803, "uelo": 1473, "tstam": 12821, "ustam": 48721},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Abrahamsen, Jesper", "uspeler": "Palmans, Niels", "telo": 1716, "uelo": 1545, "tstam": 94587, "ustam": 17733},
+      {"tr": "1", "ur": "0", "tspeler": "Schroeder, Helge", "uspeler": "Huyghe, Felix", "telo": 1770, "uelo": 0, "tstam": 19690, "ustam": 17486},
+      {"tr": "1", "ur": "0", "tspeler": "Gkionis, Athanasios-Nekta", "uspeler": "Vandevelde, Jannes", "telo": 1676, "uelo": 0, "tstam": 15570, "ustam": 19931}
+    ]
   }
 ]
