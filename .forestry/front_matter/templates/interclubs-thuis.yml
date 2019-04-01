@@ -133,4 +133,5 @@ fields:
   label: draft
   default: true
 pages:
+- _posts/hoop-op-brons-en-behoud-groeit-weer-na-puike-prestaties.md
 - _posts/test-2.md
