@@ -142,5 +142,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Damlakhi, Mahmoud", "uspeler": "De Bosscher, Peter", "telo": 1845, "uelo": 1803, "tstam": 17189, "ustam": 655},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Pacolet, Fabrice", "uspeler": "Van De Velde, Filip", "telo": 1878, "uelo": 1718, "tstam": 90964, "ustam": 31682}
     ]
+  },
+  {
+    "ronde": "10",
+    "datum": "31-03-2019",
+    "thuis": "228 Dworp 2",
+    "uit": "952 Wavre 2",
+    "tscore": 2.5,
+    "uscore": 1.5,
+    "tgem": 1819,
+    "ugem": 1865,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Macai, Ioan", "telo": 1965, "uelo": 1945, "tstam": 62766, "ustam": 92312},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vennekens, Camiel", "uspeler": "Thibaut, Stephane", "telo": 1788, "uelo": 1938, "tstam": 37168, "ustam": 60442},
+      {"tr": "0", "ur": "1", "tspeler": "De Bosscher, Peter", "uspeler": "Bouchat, Xavier", "telo": 1803, "uelo": 1922, "tstam": 655, "ustam": 70602},
+      {"tr": "1", "ur": "0", "tspeler": "Van De Velde, Filip", "uspeler": "Meunier, Willy", "telo": 1718, "uelo": 1655, "tstam": 31682, "ustam": 1279}
+    ]
   }
 ]

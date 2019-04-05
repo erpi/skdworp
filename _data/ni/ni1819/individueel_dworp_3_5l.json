@@ -142,5 +142,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Schroeder, Helge", "uspeler": "Huyghe, Felix", "telo": 1770, "uelo": 0, "tstam": 19690, "ustam": 17486},
       {"tr": "1", "ur": "0", "tspeler": "Gkionis, Athanasios-Nekta", "uspeler": "Vandevelde, Jannes", "telo": 1676, "uelo": 0, "tstam": 15570, "ustam": 19931}
     ]
+  },
+  {
+    "ronde": "10",
+    "datum": "31-03-2019",
+    "thuis": "228 Dworp 3",
+    "uit": "952 Wavre 4",
+    "tscore": 1,
+    "uscore": 3,
+    "tgem": 1545,
+    "ugem": 1526,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Palmans, Niels", "uspeler": "Coutton, Vincent", "telo": 1545, "uelo": 1680, "tstam": 17733, "ustam": 19813},
+      {"tr": "0", "ur": "1", "tspeler": "Vanrossum, Matthias", "uspeler": "Artisien, Christian", "telo": 0, "uelo": 1494, "tstam": 17614, "ustam": 73687},
+      {"tr": "1", "ur": "0", "tspeler": "Huyghe, Felix", "uspeler": "Dumortier, Andre", "telo": 0, "uelo": 1403, "tstam": 17486, "ustam": 50298},
+      {"tr": "0", "ur": "1", "tspeler": "Laureys, Mats", "uspeler": "Coutton, Maxence", "telo": 0, "uelo": 0, "tstam": 12750, "ustam": 18798}
+    ]
   }
 ]

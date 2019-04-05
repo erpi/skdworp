@@ -160,5 +160,23 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Van Parys, Nikita", "uspeler": "Denys, Frank", "telo": 1790, "uelo": 1911, "tstam": 10045, "ustam": 21881},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Roos, Frank", "uspeler": "Cornelis, Eric", "telo": 1831, "uelo": 1646, "tstam": 5355, "ustam": 76317}
     ]
+  },
+  {
+    "ronde": "10",
+    "datum": "31-03-2019",
+    "thuis": "228 Dworp 1",
+    "uit": "417 Aalst 1",
+    "tscore": 3.5,
+    "uscore": 2.5,
+    "tgem": 1973,
+    "ugem": 1866,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren, Serge", "uspeler": "Vermeiren, Bart", "telo": 2124, "uelo": 1982, "tstam": 20621, "ustam": 54542},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Hoofstat, Tom", "uspeler": "Willockx, Ritsaart", "telo": 2104, "uelo": 1925, "tstam": 42706, "ustam": 32913},
+      {"tr": "0", "ur": "1", "tspeler": "Spaens, Kjell", "uspeler": "Vanhee, Freddy", "telo": 1982, "uelo": 1883, "tstam": 29343, "ustam": 9725},
+      {"tr": "0", "ur": "1", "tspeler": "Lot, Diederik", "uspeler": "Heymans, Berwout", "telo": 2018, "uelo": 1783, "tstam": 9954, "ustam": 17261},
+      {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "Van Den Eede, Gerrit", "telo": 1963, "uelo": 1825, "tstam": 34584, "ustam": 36013},
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis, Eric", "uspeler": "De Smet, Frans", "telo": 1646, "uelo": 1799, "tstam": 76317, "ustam": 34011}
+    ]
   }
 ]
