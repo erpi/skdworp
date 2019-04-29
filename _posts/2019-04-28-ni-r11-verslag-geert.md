@@ -5,10 +5,9 @@ ni_d1_uitploeg: Dworp 1
 ni_d2_uitploeg: Dworp 2
 ni_d3_uitploeg: Dworp 3
 excerpt_separator: "<!--more-->"
-draft1: true
 title: Valse noten om af te sluiten & team 2 terug naar af
 author: Eric,Geert
-fotograaf: Yves,Tom
+fotograaf: Tom
 date: 2019-04-28 00:00:00 +0200
 ni_ronde: 11
 ni_d1_thuisploeg: Europchess 2
@@ -20,16 +19,16 @@ stelling_wit: ''
 stelling_zwart: ''
 stelling_uitleg: ''
 stelling_oplossing: ''
-draft: ''
+draft: true
 
 ---
-**Vooraf**
+## Vooraf
 
-Team 1 kon na een vrij zorgeloos seizoen het orgelpunt plaatsen. Mits winst tegen de rechtstreekse tegenstander van vandaag, Europchess, bemachtigen onze topspelers nog een mooie vierde plek in het klassement. Wel geen gemakkelijke opdracht. Voor de tweede ploeg is het pompen of verzuipen. Winnen is een must en dan nog hangen we af van het resultaat van Charleroi tegen Eupen. Het derde team tenslotte kan er als vanouds op los freewheelen.
+Team 1 kon na een vrij zorgeloos seizoen het orgelpunt plaatsen. Mits winst tegen de rechtstreekse tegenstander van vandaag, Europchess, bemachtigen onze topspelers nog een mooie vierde plek in het klassement. Wel geen gemakkelijke opdracht. Voor de tweede ploeg is het pompen of verzuipen. Winnen is een must en dan nog hangen we af van het resultaat van Charleroi tegen Eupen. Het derde team tenslotte kan er als vanouds op los freewheelen.<!--more-->
 
-**Verzwakte 1ste ploeg eindigt op een fijne 5de plek**
+## Verzwakte 1ste ploeg eindigt op een fijne 5de plek
 
-Europchess is zeker geen hapje, zelfs op bord vijf wachtte de Brusselse ploeg ons nog op met een plus 2.000 ELO. Tom was als eerst klaar en haalde met wit een correcte remise binnen op bord twee. De partij stond gelijk. Tom moet er na 15 jaar afwezigheid nog wat "inkomen", maar bewees reeds zijn waarde voor de club. 0,5-0,5 voor de goei
+Europchess is zeker geen hapje, zelfs op bord vijf wachtte de Brusselse ploeg ons nog op met een plus 2.000 ELO. Tom was als eerst klaar en haalde met wit een correcte remise binnen op bord twee. De partij stond gelijk. Tom moet er na 15 jaar afwezigheid nog wat "inkomen", maar bewees reeds zijn waarde voor de club. 0,5-0,5 voor de goei.
 
 Serge op één haalde voordeel met zwart, maar ruilde verkeerdelijk de dames in plaats van met de dame een pion op a2 te slaan. Dat zou de winst hebben opgeleverd. Nu resteerde een enkel toreneindspel met witte pionnen op a2, b2 en c2 en een zwarte dubbelpion op de h-lijn. Het zag er niet goed uit maar daar Serge zijn pion, ondersteund door de koning en een toren op de tweede rij, sneller was, rijfde hij nog een comfortabele remise binnen. Computeranalyses bevestigden dit ook. Onze man stond nooit verloren. 1-1 voor de goei.
 
@@ -41,7 +40,7 @@ Stijn op bord 5 met zwart weerde zich als een duiveltje in een wijwatervat tegen
 
 De held van de dag was Diederik met zwart op 3. Urenlang hield hij stand in een eindspel met een sterk paard voor de tegenstander tegen een slechte loper. De computer zag het wel heel somber in... Beiden haalden een ‘nieuwe’ dame en Diederik bleef maar doorvechten met een paard minder. De zwarte dame achtervolgde wit en toen deze een pionnetje op de h-lijn verorberde, kwam zijn koning er zowaar niet meer uit en moest wit zetherhaling toestaan. Diederik had ondertussen ook wel tegenspel verkregen met een pion op de zesde rij ondersteund door de koning. Een magistrale verdediging van Diederik dus en een verdiende remise in 85 zetten. Dat spoelde de teleurstelling na het verlies in 144 zetten van ronde 10 wat weg. Eindstand 4-2 en Dworp 1 vijfde in het eindklassement.
 
-**Dworp 2 en het jammerlijke verhaal van net niet**
+## Dworp 2 en het jammerlijke verhaal van net niet
 
 Winnen moesten wij en CREC 3 diende het loodje te leggen tegen Eupen. Dat was het scenario om het behoud in vierde te verzekeren. Bernard was zo vriendelijk om bij de rechtstreekse concurrent te gaan spioneren zodat we in real time op de hoogte bleven van de gebeurtenissen. Anderlues was het plaatsje waar ons/mijn drama zich voltrok.
 
@@ -53,15 +52,15 @@ Helemaal zeker ben ik niet maar de volgende partij die beëindigd werd, was verm
 
 Vervolgens speelt Filip op bord 4 met wit remise. Excuus maar op bord 1 zat ik op dit moment in dusdanig slechte papieren dat ik ook van deze partij de ballen gezien heb. 1-2 voor de goei, we spelen volgend jaar nog steeds in vierde.
 
-Onvervalst drama helaas op bord 1. Gelukkig –achteraf bekeken eerder helaas- moest ik (Geert) met zwart niet tegen IM Michel Jadoul (Elo 2350) maar tegen een 1800-er. Moet kunnen. Welnu, het kon niet. Deze tegenstander leek ook wel een IM. De waarheid is waarschijnlijk dat ik zelf op flanellen benen rondliep. Geen fluit gezien zondag. Zenuwen, jongens... Mannen maken plannen en dat van mij was dit keer een verkeerd plan. Eer ik dat had ingezien en moeizaam probeerde mijn stukken naar betere velden te laveren, was het te laat. Ik kon geen kant meer uit, stukverlies viel niet te vermijden. En toen effe informeren bij de ploeggenoten. Jawel… 2-2. Op dit moment liggen we eruit. Het nagelbijten kan beginnen.
+Onvervalst drama helaas op bord 1. Gelukkig –achteraf bekeken eerder helaas- moest ik (Geert) met zwart niet tegen IM Michel Jadoul (Elo 2350) maar tegen een 1800-er. Moet kunnen. Welnu, het kon niet. Deze tegenstander leek ook wel een IM. De waarheid is waarschijnlijk dat ik zelf op flanellen benen rondliep. Geen fluit gezien zondag. Zenuwen, jongens... Mannen maken plannen en dat van mij was dit keer een verkeerd plan. Eer ik dat had ingezien en moeizaam probeerde mijn stukken naar betere velden te laveren, was het te laat. Ik kon geen kant meer uit, stukverlies viel niet te vermijden. En toen effe informeren bij de ploeggenoten. Jawel... 2-2. Op dit moment liggen we eruit. Het nagelbijten kan beginnen.
 
 Intermezzo 2. Een onvervalste thriller. “Geen idee hoe dit gaat aflopen,” dixit Bernard vanuit Charleroi. Nog steeds 1-1 “We duimen en bibberen”, aldus Peter. En even later: “Bord 1 van Eupen heeft een driedubbele vrijpion gearrangeerd. Zou moeten winnen”, een WhatsApp-bericht van Bernard. “Maar bord 4 staat op explosie.” En dan: 1-2 voor Eupen. Nog een remise en het is Charleroi dat degradeert. Helaas diene van Eupen op bord 4 “is wel aan het afzien.” En even later: “Stukverlies. ’t Zal 2-2 worden, denk ik”. En inderdaad: Charleroi-Eupen 2-2. Charleroi blijft in vierde, Dworp 2 zakt. Diepe, Vlaamse treurnis in een vervallen école des devoirs in het Waalse gat van Pluto, ook wel Anderlues genaamd. 11de op 12, het behoud op een haartje, half puntje, na gemist. Ter illustratie: als er met bord- in plaats van matchpunten werd geteld zouden we achtste geëindigd zijn…
 
-**Seizoentje leergeld betalen en ervaring opdoen**
+## Seizoentje leergeld betalen en ervaring opdoen
 
-Ondertussen is het bij het derde team knokken geblazen tegen een sterke tegenstander, Brussels 6. Een mooi resultaat op bord 1 waar Yves met zwart een tegenstander met 134 ELO meer in de pan hakt. Daarmee is de eer gered want noch Niels, noch Sander, noch Niels L. kunnen stunten deze keer. Maar de spirit zit goed, zoals bijgaande foto bewijst. Eindresultaat: 3-1 en 6 matchpunten gehaald. Toch knap van onze jeugdspelers die hun vrije zondagnamiddag opofferen om een schaakje te slaan.
+Ondertussen is het bij het derde team knokken geblazen tegen een sterke tegenstander, Brussels 6. Een mooi resultaat op bord 1 waar Yves met zwart een tegenstander met 134 ELO meer in de pan hakt. Daarmee is de eer gered want noch Niels, noch Sander, noch Niels L. kunnen stunten deze keer. Maar de spirit zit goed! Eindresultaat: 3-1 en 6 matchpunten gehaald. Toch knap van onze jeugdspelers die hun vrije zondagnamiddag opofferen om een schaakje te slaan.
 
-**Naspel**
+## Naspel
 
 En zo is het doek gevallen over het interclubseizoen 2018-2019. De eerste ploeg speelde in een zwakkere reeks dan de voorbije jaren en deed het toch wel erg goed. Team 1 is maar twee matchpunten verwijderd van de derde plaats en we noteren zeer sterke individuele prestaties van drie spelers: Serge met 8 uit 11, Kjell met 7 uit 10 en Walter met 7 uit 9. Bedankt ook aan de anderen die er een fijn en zorgeloos seizoen van maakten.
 
