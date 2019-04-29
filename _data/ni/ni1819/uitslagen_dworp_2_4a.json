@@ -121,14 +121,14 @@
   },
   {
     "ronde": "ronde 11",
-    "datum": "28-04/2019",
+    "datum": "28-04-2019",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "501 CREC 3", "uit": "607 KSK Rochade 3"},
-      {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "961 Braine l'Alleud 1"},
-      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "239 Boitsfort 2"},
-      {"tr": "", "ur": "", "thuis": "952 Wavre 2", "uit": "541 Leuze 1"},
-      {"tr": "", "ur": "", "thuis": "525 Anderlues 1", "uit": "228 Dworp 2"},
-      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 2", "uit": "511 EDC 1"}
+      {"tr": "2", "ur": "2", "thuis": "501 CREC 3", "uit": "607 KSK Rochade 3"},
+      {"tr": "1", "ur": "3", "thuis": "909 Philippeville 1", "uit": "961 Braine l'Alleud 1"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "901 Namur 3", "uit": "239 Boitsfort 2"},
+      {"tr": "0", "ur": "4", "thuis": "952 Wavre 2", "uit": "541 Leuze 1"},
+      {"tr": "2", "ur": "2", "thuis": "525 Anderlues 1", "uit": "228 Dworp 2"},
+      {"tr": "2", "ur": "2", "thuis": "548 Caissa Europe 2", "uit": "511 EDC 1"}
     ]
   }
 ]

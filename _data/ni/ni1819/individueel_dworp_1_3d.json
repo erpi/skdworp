@@ -178,5 +178,23 @@
       {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "Van Den Eede, Gerrit", "telo": 1963, "uelo": 1825, "tstam": 34584, "ustam": 36013},
       {"tr": "1", "ur": "0", "tspeler": "Cornelis, Eric", "uspeler": "De Smet, Frans", "telo": 1646, "uelo": 1799, "tstam": 76317, "ustam": 34011}
     ]
+  },
+  {
+    "ronde": "11",
+    "datum": "28-04-2019",
+    "thuis": "226 Europchess 2",
+    "uit": "228 Dworp 1",
+    "tscore": 4.0,
+    "uscore": 2.0,
+    "tgem": 2008,
+    "ugem": 1935,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Moles Palleja, Pere", "uspeler": "Vanderwaeren, Serge", "telo": 2109, "uelo": 2124, "tstam": 10739, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Riksten, John", "uspeler": "Van Hoofstat, Tom", "telo": 2054, "uelo": 2104, "tstam": 12861, "ustam": 42706},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Mueller, Martin", "uspeler": "Lot, Diederik", "telo": 2078, "uelo": 2018, "tstam": 50293, "ustam": 9954},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Johansson, Mattias", "uspeler": "De Reymaeker, Walter", "telo": 2000, "uelo": 1963, "tstam": 10684, "ustam": 34584},
+      {"tr": "1", "ur": "0", "tspeler": "Pozimski, Szymon", "uspeler": "Bertrand, Stijn", "telo": 2000, "uelo": 1757, "tstam": 18072, "ustam": 21253},
+      {"tr": "1", "ur": "0", "tspeler": "Frederiksen, Kristian Pad", "uspeler": "Cornelis, Eric", "telo": 1808, "uelo": 1646, "tstam": 60007, "ustam": 76317}
+    ]
   }
 ]

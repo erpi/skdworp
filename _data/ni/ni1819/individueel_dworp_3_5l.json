@@ -158,5 +158,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Huyghe, Felix", "uspeler": "Dumortier, Andre", "telo": 0, "uelo": 1403, "tstam": 17486, "ustam": 50298},
       {"tr": "0", "ur": "1", "tspeler": "Laureys, Mats", "uspeler": "Coutton, Maxence", "telo": 0, "uelo": 0, "tstam": 12750, "ustam": 18798}
     ]
+  },
+  {
+    "ronde": "11",
+    "datum": "28-04-2019",
+    "thuis": "244 Brussels 6",
+    "uit": "228 Dworp 3",
+    "tscore": 3,
+    "uscore": 1,
+    "tgem": 1500,
+    "ugem": 1509,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Yoro, Samuel", "uspeler": "Baert, Yves", "telo": 1586, "uelo": 1473, "tstam": 13368, "ustam": 48721},
+      {"tr": "1", "ur": "0", "tspeler": "Faybish, Benjamin", "uspeler": "Palmans, Niels", "telo": 1620, "uelo": 1545, "tstam": 12007, "ustam": 17733},
+      {"tr": "1", "ur": "0", "tspeler": "Grobli-Casimir, Davy", "uspeler": "Lerinckx, Sander", "telo": 1496, "uelo": 0, "tstam": 14712, "ustam": 12702},
+      {"tr": "1", "ur": "0", "tspeler": "Hossain, Issa Anirban", "uspeler": "Lerinckx, Niels", "telo": 1298, "uelo": 0, "tstam": 15147, "ustam": 12699}
+    ]
   }
 ]
