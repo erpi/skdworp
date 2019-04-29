@@ -8,7 +8,7 @@ excerpt_separator: "<!--more-->"
 title: Valse noten om af te sluiten & team 2 terug naar af
 author: Eric,Geert
 fotograaf: Tom
-date: 2019-04-28 00:00:00 +0200
+date: 2019-04-28 21:00:00 +0200
 ni_ronde: 11
 ni_d1_thuisploeg: Europchess 2
 ni_d2_thuisploeg: Anderlues 1
