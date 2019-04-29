@@ -20,13 +20,16 @@ stelling_zwart: ''
 stelling_uitleg: ''
 stelling_oplossing: ''
 draft: true
-
+image:
+  path: 'assets/images/1819/ni/r11_d1_diederik_walter_stijn_eric.jpg'
 ---
 ## Vooraf
 
 Team 1 kon na een vrij zorgeloos seizoen het orgelpunt plaatsen. Mits winst tegen de rechtstreekse tegenstander van vandaag, Europchess, bemachtigen onze topspelers nog een mooie vierde plek in het klassement. Wel geen gemakkelijke opdracht. Voor de tweede ploeg is het pompen of verzuipen. Winnen is een must en dan nog hangen we af van het resultaat van Charleroi tegen Eupen. Het derde team tenslotte kan er als vanouds op los freewheelen.<!--more-->
 
 ## Verzwakte 1ste ploeg eindigt op een fijne 5de plek
+
+![foto van Diederik, Walter, Stijn en Eric in opperste concentratie][foto 1]
 
 Europchess is zeker geen hapje, zelfs op bord vijf wachtte de Brusselse ploeg ons nog op met een plus 2.000 ELO. Tom was als eerst klaar en haalde met wit een correcte remise binnen op bord twee. De partij stond gelijk. Tom moet er na 15 jaar afwezigheid nog wat "inkomen", maar bewees reeds zijn waarde voor de club. 0,5-0,5 voor de goei.
 
@@ -67,3 +70,5 @@ En zo is het doek gevallen over het interclubseizoen 2018-2019. De eerste ploeg 
 De degradatie van ploeg 2 maakt de IC-puzzel er voor volgend seizoen niet gemakkelijker op. Het was een seizoen van tegenslagen, zware tegenstanders en wat minder presterende spelers. Feit is dat we nooit ‘onzen draai’ vonden en vanaf ronde 1 in degradatiegevaar verkeerden. Straf want op papier hadden we toch minstens recht op middenmoot. En dan nu even tijd om wonden te likken en gekneusde ego’s op te kalefateren. Maar goed, crisissen zijn uitdagingen. In september 2019 vliegen we er weer met frisse moed in.
 
 Team 3 deed wat het moest doen, met name jeugdspelers geflankeerd door volwassenen de gelegenheid geven om ervaring op te doen in een harde competitie –wat de IC toch wel is. Daarvoor wordt leergeld betaald maar dat is niet anders. De weg naar de top is een highway to hell. En dan nu een zomer lang de batterijen opladen. Iedereen van hoog tot laag: van harte bedankt. See you next year.
+
+[foto 1]: {{ "assets/images/1819/ni/r11_d1_diederik_walter_stijn_eric.jpg" | absolute_url }}
