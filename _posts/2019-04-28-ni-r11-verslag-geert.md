@@ -19,7 +19,7 @@ stelling_wit: ''
 stelling_zwart: ''
 stelling_uitleg: ''
 stelling_oplossing: ''
-draft: true
+draft: false
 image:
   path: 'assets/images/1819/ni/r11_d1_diederik_walter_stijn_eric.jpg'
 ---
