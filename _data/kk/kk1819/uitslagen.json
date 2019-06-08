@@ -604,8 +604,8 @@
         "zwart": "Sonja Van Der Voorde"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Peter De Bosscher",
         "zwart": "Diederik Lot"
       },
@@ -616,8 +616,8 @@
         "zwart": "Eddy Pletinckx"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Kristoff Bultijnck",
         "zwart": "Geert Verrijken"
       }
