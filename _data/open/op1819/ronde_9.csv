@@ -1,0 +1,36 @@
+wit,zwart,wr,zr
+partij 1,,,
+Beckers Stijn,Vanderwaeren Serge,0,1
+Ertveldt Pieter,Lerinckx Niels,1,0
+Huyghe Felix,Bultijnck Kristoff,0,1
+Lerinckx Sander,Huysman Robert,0.5,0.5
+Vandevelde Jannes,Vanrossum Matthias,0,1
+partij 2,,,
+Ertveldt Pieter,Vanderwaeren Serge,0.5,0.5
+Huysman Robert,Bultijnck Kristoff,0,1
+Lerinckx Sander,Beckers Stijn,1,0
+Lerinckx Niels,Vanrossum Matthias,1,0
+Vandevelde Jannes,Huyghe Felix,1,0
+Verrijken Geert,bye,,
+partij 3,,,
+Vanderwaeren Serge,Verrijken Geert,0,1
+Beckers Stijn,Lot Diederik,0,1
+Bultijnck Kristoff,Ertveldt Pieter,0,1
+Huyghe Felix,Jean-Guy,0,1
+Lerinckx Niels,Vandevelde Jannes,1,0
+Vanrossum Matthias,Lerinckx Sander,0,1
+Huysman Robert,bye,,
+partij 4,,,
+Vanderwaeren Serge,Huysman Robert,1,0
+Verrijken Geert,Ertveldt Pieter,1,0
+Bultijnck Kristoff,Lerinckx Niels,1,0
+Jean-Guy,Vandevelde Jannes,1,0
+Beckers Stijn,Vanrossum Matthias,1,0
+Lerinckx Sander,Huyghe Felix,1,0
+partij 5,,,
+Lot Diederik,Vanderwaeren Serge,1,0
+Verrijken Geert,Beckers Stijn,1,0
+Ertveldt Pieter,Huysman Robert,1,0
+Lerinckx Niels,Jean-Guy,0,1
+Vanrossum Matthias,Huyghe Felix,0,1
+Vandevelde Jannes,Lerinckx Sander,0,1
