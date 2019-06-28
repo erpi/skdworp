@@ -130,8 +130,8 @@
         "zwart": "Peter De Bosscher"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Yves Baert",
         "zwart": "Niels Palmans"
       },
@@ -592,8 +592,8 @@
         "zwart": "Walter De Reymaeker"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Stijn Bertrand",
         "zwart": "Robert Huysman"
       },
