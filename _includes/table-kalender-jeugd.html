@@ -1,0 +1,12 @@
+<div class="table-responsive">
+  <table class="table">
+    <tbody>
+      {% for item in site.data.kalender_jeugd %}
+      <tr>
+        <td>{{ item.dag | downcase }}</td>
+        <td>{{ item.tornooi | downcase }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
