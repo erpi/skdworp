@@ -70,8 +70,22 @@ if __name__ == "__main__":
                         else:
                             naam = board['uspeler']
                             resultaat = board['ur']
-                        resultaat = int(float(resultaat) * 2 + 1)
-                        if naam in spelers_dict:
+                        try:
+                            resultaat = int(float(resultaat) * 2 + 1)
+                        except ValueError:
+                            print(('ValueError: ronde:{0}, naam:{1}, res:{2}'
+                            ).format(ronde, naam, resultaat))
+                        # avec petit 'd' gevallen
+                        naam = naam.replace('Van De Velde', 'Van de Velde')
+                        naam = naam.replace('Van Duuren', 'van Duuren')
+                        try:
+                            achternaam, voornaam = naam.strip().split(', ')
+                            naam = u'{0} {1}'.format(voornaam, achternaam)
+                        except ValueError:
+                            pass
+                        if 'bye' in naam.lower():
+                            pass
+                        elif naam in spelers_dict:
                             # bestaande speler
                             spelers_dict[naam][ronde] = resultaat
                         else:
@@ -87,12 +101,7 @@ if __name__ == "__main__":
         # transformeer spelers dictionary in list
         spelers_list = []
         for naam, uitslag in spelers_dict.items():
-            achternaam, voornaam = naam.split(', ')
-            naam = u'{0} {1}'.format(voornaam, achternaam)
-            # avec petit 'd' gevallen
-            naam = naam.replace('Van De Velde', 'Van de Velde')
-            naam = naam.replace('Van Duuren', 'van Duuren')
-            spelers_list.append([naam] + uitslag[1:12] + [uitslag[0]])
+             spelers_list.append([naam] + uitslag[1:12] + [uitslag[0]])
 
         # sorteer spelers lijst
         spelers_list = sort(spelers_list)
