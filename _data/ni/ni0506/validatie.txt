@@ -1,6 +1,3 @@
+Ronde 6: Dworp 1: fout: som thuisscores '2.5' niet gelijk aan totaal '3.5'
+Ronde 7: Dworp 1: fout: som uitscores '3.5' niet gelijk aan totaal '4.5'
 Ronde 3: Dworp 2: waarschuwing: score tegen '(bye)' niet ingevuld in kruistabel
-Ronde 6: Dworp 1: fout: score tegen 'cre bruxelles 2' niet identiek aan score in kruistabel
-Ronde 7: Dworp 1: fout: score tegen 'brussels 2' niet identiek aan score in kruistabel
-Ronde 7: Dworp 2: fout: score tegen 'brussels 5' niet identiek aan score in kruistabel
-Ronde 9: Dworp 1: fout: score tegen 'kgsrl gent 4' niet identiek aan score in kruistabel
-Ronde 9: Dworp 2: fout: score tegen 'borgerhout 8' niet identiek aan score in kruistabel
