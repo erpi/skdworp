@@ -64,13 +64,15 @@ if __name__ == "__main__":
                 for round in j:
                     ronde = int(round['ronde'])
                     for board in round['borden']:
-                        if 'Dworp' in round['thuis']:
+                        if 'dworp' in round['thuis']:
                             naam = board['tspeler']
                             resultaat = board['tr']
                         else:
                             naam = board['uspeler']
                             resultaat = board['ur']
                         try:
+                            # verwijder eerst forfait markeringen
+                            resultaat = resultaat.lower().replace('f', '')
                             resultaat = int(float(resultaat) * 2 + 1)
                         except ValueError:
                             print(('ValueError: ronde:{0}, naam:{1}, res:{2}'
