@@ -1,10 +1,10 @@
-Nr,Naam,1,2,3,4,5,6,7,8,9,10,totaal,stand,perc
+nr,naam,1,2,3,4,5,6,7,8,9,10,totaal,stand,perc
 1,Diederik Lot,X,1,0,1,1,1,1,1,1,1,8,1,88.89%
 2,Geert Verrijken,0,X,1,1,1,1,1,1,1,1,8,1,88.89%
 3,Serge Vanderwaeren,1,0,X,0.5,0.5,0,1,1,0.5,1,5.5,3,61.11%
 4,Alex Vonck,0,0,0.5,X,1,1,1,0,1,1,5.5,3,61.11%
-5,Jean Guy,0,0,0.5,0,X,1,1,1,1,1,5.5,3,61.11%
-6,Peter Debosscher,0,0,1,0,0,X,1,0,1,1,4,6,44.44%
+5,Jean-Guy,0,0,0.5,0,X,1,1,1,1,1,5.5,3,61.11%
+6,Peter De Bosscher,0,0,1,0,0,X,1,0,1,1,4,6,44.44%
 7,Jannes Vandevelde,0,0,0,0,0,0,X,1,1,1,3,7,33.33%
 8,Kristoff Bultijnck,0,0,0,1,0,1,0,X,0,1,3,7,33.33%
 9,Stijn Beckers,0,0,0.5,0,0,0,0,1,X,0,1.5,9,16.67%
