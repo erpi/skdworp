@@ -64,28 +64,36 @@ if __name__ == "__main__":
                 for round in j:
                     ronde = int(round['ronde'])
                     for board in round['borden']:
-                        if 'dworp' in round['thuis']:
+                        if 'dworp' in round['thuis'].lower():
                             naam = board['tspeler']
                             resultaat = board['tr']
                         else:
                             naam = board['uspeler']
                             resultaat = board['ur']
+                        resultaat = resultaat.lower()
                         try:
-                            # verwijder eerst forfait markeringen
-                            resultaat = resultaat.lower().replace('f', '')
+                            # behandel eerst forfait markeringen
+                            if 'f' in resultaat:
+                                if '5' in resultaat or '1' in resultaat:
+                                    # winst (of remise)
+                                    resultaat = resultaat.replace('f', '')
+                                else:
+                                    # verlies met ff
+                                    resultaat = u'-0.5'
                             resultaat = int(float(resultaat) * 2 + 1)
                         except ValueError:
                             print(('ValueError: ronde:{0}, naam:{1}, res:{2}'
                             ).format(ronde, naam, resultaat))
+                        naam = naam.strip().title().encode('utf-8')
                         # avec petit 'd' gevallen
                         naam = naam.replace('Van De Velde', 'Van de Velde')
                         naam = naam.replace('Van Duuren', 'van Duuren')
                         try:
-                            achternaam, voornaam = naam.strip().split(', ')
+                            achternaam, voornaam = naam.split(', ')
                             naam = u'{0} {1}'.format(voornaam, achternaam)
                         except ValueError:
                             pass
-                        if 'bye' in naam.lower():
+                        if 'bye' in naam.lower() or 'forfait' in naam.lower():
                             pass
                         elif naam in spelers_dict:
                             # bestaande speler
