@@ -105,10 +105,10 @@
     "tgem": "1553",
     "ugem": "1506",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Debacker Yves", "uspeler": "De Bosscher Peter", "telo": "1721", "uelo": "1727", "tstam": "90212", "ustam": "655"},
+      {"tr": "0", "ur": "1", "tspeler": "Debacker Yves", "uspeler": "De Bosscher Peter", "telo": "1721", "uelo": "1727", "tstam": "90212", "ustam": "655"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Amali Belgacem", "uspeler": "Van der Voorde Sonja", "telo": "1616", "uelo": "1611", "tstam": "70106", "ustam": "43346"},
       {"tr": "1", "ur": "0", "tspeler": "Thomas Thierry", "uspeler": "Dekoster Pascal", "telo": "1542", "uelo": "1452", "tstam": "69914", "ustam": "54658"},
-      {"tr": "0", "ur": "1", "tspeler": "Azzoug Samir", "uspeler": "Heremans Gersende", "telo": "1331", "uelo": "1234", "tstam": "77275", "ustam": "2259"}
+      {"tr": "1", "ur": "0", "tspeler": "Azzoug Samir", "uspeler": "Heremans Gersende", "telo": "1331", "uelo": "1234", "tstam": "77275", "ustam": "2259"}
     ]
   },
   {
