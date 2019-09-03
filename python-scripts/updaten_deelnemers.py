@@ -9,20 +9,22 @@ import logging
 import sys
 import sqlite3
 import pygsheets  # versie 1.1.4 nodig, nieuwer zal niet werken
+from pygsheets.custom_types import HorizontalAlignment
 import inspect
 import io
 import time
 # gedefiniëerde bestandsnamen in constanten-module
 from constanten import log_bestand, service_creds_bestand, csv_bestand
-from constanten import swar_bestand, sqlite_db_bestand, git_ssh_identity_bestand
+from constanten import swar_bestand, fide_db_bestand, git_ssh_identity_bestand
 from constanten import git_dir, spreadsheet_key, zwarte_lijst, swar_hoofding
-from constanten import maximum_deelnemers
+from constanten import u20_jaar, maximum_deelnemers, kbsb_db_bestand
 # Change the current working directory.
 # When run from the scheduler, the cwd is /root but we don't have read
 # permission for that folder. If we don't change it, python exits with an
 # OSError when we import Git. (Synology NAS)
-# import os
-# os.chdir(home_dir)
+import os
+from constanten import home_dir
+os.chdir(home_dir)
 from git import Repo, Git
 
 # script geschreven voor Python versie 2.7
@@ -33,6 +35,7 @@ if sys.version_info[0] != 2 or sys.version_info[1] < 7:
 # clubnummers met bijhorende clubnamen, gebaseerd op swar.ini
 clubnamen = {
     101: u"KASK",
+    102: u"De Wissel Veerle",
     108: u"Merksem",
     109: u"Borgerhout",
     114: u"Mechelen",
@@ -192,7 +195,7 @@ clubnamen = {
     532: u"Lobbes",
     533: u"Lessines",
     537: u"Quiévrain",
-    538: u"Fleurus",
+    538: u"Gilly",
     539: u"Sud-Hainaut",
     540: u"Le Gazomat Gilly",
     541: u"Leuze-en-Hainaut",
@@ -203,7 +206,7 @@ clubnamen = {
     548: u"Caissa Europe",
     549: u"St.-Ghislain",
     550: u"Enquelinnes",
-    551: u"HCC",
+    551: u"HCC Jurbise",
     552: u"L'Échiquier Rebecquois",
     569: u"Chess Club Zen",
     590: u"Chess School Saint-Ghislain",
@@ -214,7 +217,7 @@ clubnamen = {
     609: u"Anthisnes",
     613: u"Flémalle",
     616: u"Esneux",
-    618: u"Amay",
+    618: u"Échiquier Mosan",
     619: u"Welkenraedt",
     621: u"Ans-Loncin",
     622: u"Herve",
@@ -261,6 +264,8 @@ clubnamen = {
     738: u"Het Front Hasselt",
     739: u"Ambiorix Tongeren",
     740: u"Tongeren",
+    741: u"Bilzen",
+    749: u"Munsterbilzen",
     750: u"De Zandkorrel Hechtel",
     751: u"SLim Houthalen-Oost",
     752: u"SLim Tongeren",
@@ -284,6 +289,8 @@ clubnamen = {
     770: u"J.F. Kennedy Maastricht",
     771: u"Scharn Maastricht",
     772: u"Stedelijke Humaniora Dilsen",
+    773: u"'t Piepelke Bilzen",
+    774: u"PMD Diepenbeek",
     801: u"Nassogne",
     807: u"Trois Frontières",
     809: u"Bertrix",
@@ -335,22 +342,21 @@ class spreadsheet(object):
         We checken ook of de kolommen vd spreadsheet nog de juiste hoofding
         hebben en/of aanwezig zijn.
         """
-        self.__client = pygsheets.authorize(service_file=credentials)
+        self.__client = pygsheets.authorize(service_account_file=credentials)
         self.__spreadsheet = self.__client.open_by_key(key)
         self.__wks = self.__spreadsheet.sheet1
         self.__db = db
         # we maken een dictionary met het kolomnummer voor elke kolomnaam
         self._kolomnummers = {}
-        # 'include_empty' moet in nieuwere versie van pygsheets vervangen
-        # worden door 'include_tailing_empty'
         for nummer, naam in enumerate(
-                self.__wks.get_row(1, include_empty=False), start=1):
+                self.__wks.get_row(1, include_tailing_empty=False), start=1):
             self._kolomnummers[naam] = nummer
         # controleren of alle kolommen aanwezig zijn in de spreadsheet
         for kolom in [
                 'achternaam', 'voornaam', 'fide_id', 'stamnr', 'aanwezig',
                 'betaald', 'bedrag', 'jaar', 'titel', 'elo', 'elo soort',
-                'clubnr', 'svb', 'land', 'e-mailadres', 'Tijdstempel'
+                'clubnr', 'svb', 'nat', 'nat_fide', 'e-mailadres', 'Tijdstempel',
+                'cat', 'u16', 'vrouw'
         ]:
             try:
                 self._kolomnummers[kolom]
@@ -377,12 +383,13 @@ class spreadsheet(object):
                 jaar=dlnr.get('jaar'),
                 titel=dlnr.get('titel', ''),
                 clubnr=dlnr.get('clubnr'),
-                svb=dlnr.get('svb', ''),
-                land=dlnr.get('land', ''))
+                nat=dlnr.get('nat', ''),
+                nat_fide=dlnr.get('nat_fide', ''),
+                vrouw=dlnr.get('vrouw', ''))
             sp.elo = (dlnr.get('elo'), dlnr.get('elo soort', ''))
-            if sp.nieuw:
+            if sp.is_nieuw:
                 # een nieuwe inschrijving in de spreadsheet
-                # self.rij_formatteren(row)
+                self.rij_layouten(row)
                 # er zijn 3 goede scenario's:
                 # 1. een juist fide id zonder een kbsb stamnummer
                 # 2. een juist fide id met het bijhorende juiste kbsb stamnr
@@ -394,18 +401,18 @@ class spreadsheet(object):
                         # het kan uiteraard ook een buitenlander zijn
                         sp.stamnr = self.__db.get_stamnummer(sp.fide_id)
                         sp_db = self.__db.get_speler(sp.fide_id, sp.stamnr)
-                        sp.vervolledigen(sp_db)
+                        sp.updaten(sp_db)
                         self.rij_updaten(row, sp, dlnr)
                     elif self.__db.get_fide_id(sp.stamnr) == sp.fide_id:
                         # scenario 2
                         # stamnummer en fide id komen overeen
                         sp_db = self.__db.get_speler(sp.fide_id, sp.stamnr)
-                        sp.vervolledigen(sp_db)
+                        sp.updaten(sp_db)
                         self.rij_updaten(row, sp, dlnr)
                     else:
                         # fide id en stamnummer komen niet overeen
-                        sp.fout_met_de_stamnummers()
-                        self.aanwezig_updaten(row, sp)
+                        sp.auto_afwezig('nummers?')
+                        self.cell_aanwezig_updaten(row, sp)
                 elif (sp.fide_id == 0) and self.__db.geldig_kbsb_stamnummer(
                         sp.stamnr):
                     # scenario 3
@@ -415,14 +422,14 @@ class spreadsheet(object):
                     if not sp.fide_id:
                         # controleren of de speler wel actief is bij de kbsb
                         if not self.__db.actief_kbsb_stamnummer(sp.stamnr):
-                            sp.niet_actief()
+                            sp.auto_afwezig('geen lid kbsb')
                     sp_db = self.__db.get_speler(sp.fide_id, sp.stamnr)
-                    sp.vervolledigen(sp_db)
+                    sp.updaten(sp_db)
                     self.rij_updaten(row, sp, dlnr)
                 else:
                     # fide id en/of stamnummer is waardeloos
-                    sp.fout_met_de_stamnummers()
-                    self.aanwezig_updaten(row, sp)
+                    sp.auto_afwezig('nummers?')
+                    self.cell_aanwezig_updaten(row, sp)
             else:
                 # een oude inschrijving in de spreadsheet
                 # enkel eventueel gewijzigde gegevens updaten
@@ -433,76 +440,76 @@ class spreadsheet(object):
                     # misschien ondertussen toch aangesloten bij de kbsb?
                     sp.stamnr = self.__db.get_stamnummer(sp.fide_id)
                 sp_db = self.__db.get_speler(sp.fide_id, sp.stamnr)
-                sp.updaten(sp_db)
-                self.rij_updaten(row, sp, dlnr)
+                if sp_db:
+                    sp.updaten(sp_db)
+                    self.rij_updaten(row, sp, dlnr)
 
-    def rij_formatteren(self, rij):
+    def rij_layouten(self, rij):
         """past achtergrond en horizontale alignment aan van de rij
         """
-        # door een bug in pygsheets 1.1.4 kunnen we enkel lege cellen formatteren
-        # achtergrond
-        # # licht paarse achtergrond
-        # cell = self.__wks.cell((rij, self._kolomnummers['Tijdstempel']))
-        # cell.color = (0xd9/255, 0xd2/255, 0xe9/255, 0)
-        # time.sleep(2)
-        # # licht gele achtergrond
-        # for k in ['achternaam', 'voornaam', 'e-mailadres', 'fide_id', 'stamnr']:
-        #     cell = self.__wks.cell((rij, self._kolomnummers[k]))
-        #     cell.color = (0xff/255, 0xf2/255, 0xcc/255, 0)
-        #     time.sleep(2)
-        # # licht groene achtergrond
-        # for k in ['aanwezig', 'betaald']:
-        #     cell = self.__wks.cell((rij, self._kolomnummers[k]))
-        #     cell.color = (0xd9/255, 0xea/255, 0xd3/255, 0)
-        #     time.sleep(2)
+        # deze methode kan ongetwijfeld op veel betere wijze geschreven worden
+        # licht paarse achtergrond
+        cell = self.__wks.cell((rij, self._kolomnummers['Tijdstempel']))
+        cell.color = (0xd9/255, 0xd2/255, 0xe9/255, 0)
+        time.sleep(2)
+        # licht gele achtergrond
+        for k in ['achternaam', 'voornaam', 'e-mailadres', 'fide_id', 'stamnr']:
+            cell = self.__wks.cell((rij, self._kolomnummers[k]))
+            cell.color = (0xff/255, 0xf2/255, 0xcc/255, 0)
+            time.sleep(2)
+        # licht groene achtergrond
+        for k in ['aanwezig', 'betaald']:
+            cell = self.__wks.cell((rij, self._kolomnummers[k]))
+            cell.color = (0xd9/255, 0xea/255, 0xd3/255, 0)
+            time.sleep(2)
         # licht blauwe achtergrond
-        for k in ['bedrag', 'jaar', 'titel', 'elo', 'elo soort', 'clubnr', 'svb', 'land']:
+        for k in ['bedrag', 'jaar', 'titel', 'elo', 'elo soort', 'clubnr',
+                  'svb', 'nat', 'nat_fide', 'cat', 'u16', 'vrouw']:
             cell = self.__wks.cell((rij, self._kolomnummers[k]))
             cell.color = (0xcf/255, 0xe2/255, 0xf3/255, 0)
             time.sleep(2)
         # horizontale alignment
         # rechts
-        # cell = self.__wks.cell((rij, self._kolomnummers['Tijdstempel']))
-        # cell.set_text_alignment('RIGHT')
-        # # midden
-        # for k in ['fide_id', 'stamnr', 'aanwezig', 'betaald', 'bedrag', 'jaar',
-        #           'titel', 'elo', 'elo soort', 'clubnr', 'svb', 'land']:
-        for k in ['bedrag', 'jaar',
-                  'titel', 'elo', 'elo soort', 'clubnr', 'svb', 'land']:
+        #cell = self.__wks.cell((rij, self._kolomnummers['Tijdstempel']))
+        #cell.horizontal_alignment = HorizontalAlignment.RIGHT
+        # midden
+        for k in ['fide_id', 'stamnr', 'aanwezig', 'betaald', 'bedrag', 'jaar',
+                  'titel', 'elo', 'elo soort', 'clubnr', 'svb', 'nat',
+                  'nat_fide', 'cat', 'u16', 'vrouw'
+        ]:
             cell = self.__wks.cell((rij, self._kolomnummers[k]))
             cell.fetch()
             time.sleep(2)
-            cell.set_text_alignment('CENTER')
+            cell.horizontal_alignment = HorizontalAlignment.CENTER
             time.sleep(2)
 
-    def aanwezig_updaten(self, rij, speler):
+    def cell_aanwezig_updaten(self, rij, speler):
         """Updatet enkel de cell 'aanwezig' in een rij.
         """
-        self.__wks.update_cell((rij, self._kolomnummers['aanwezig']),
+        self.__wks.update_value((rij, self._kolomnummers['aanwezig']),
                                speler.aanwezig)
         time.sleep(2)
 
     def rij_updaten(self, rij, speler, dlnr):
         """Updatet de cellen 'fide_id', 'stamnr', 'aanwezig', 'betaald',
-        'bedrag', 'jaar', 'titel', 'clubnr', 'svb', 'land' in een rij indien
-        'speler' nieuwere waarden heeft.
+        'bedrag', 'jaar', 'titel', 'clubnr', 'svb', 'nat', 'nat_fide', 'cat', 
+        'u16', 'vrouw' in een rij indien 'speler' nieuwere waarden heeft.
         """
         # speler.__dict__ bevat niet de properties zoals 'aanwezig'
         # vandaar dat we getmembers gebruiken
         speler = dict(inspect.getmembers(speler))
         for k in [
                 'fide_id', 'stamnr', 'aanwezig', 'betaald', 'bedrag', 'jaar',
-                'titel', 'clubnr', 'svb', 'land'
+                'titel', 'clubnr', 'svb', 'nat', 'nat_fide', 'cat', 'u16', 'vrouw'
         ]:
             if speler[k] != dlnr.get(k):
-                # self.__wks.update_value( bij nieuwere pygsheets
-                self.__wks.update_cell((rij, self._kolomnummers[k]), speler[k])
+                self.__wks.update_value((rij, self._kolomnummers[k]), speler[k])
                 # google spreadsheets hebben last van lees/schrijf quota
                 time.sleep(2)
         # elo en elo soort apart
         for e, k in zip(speler['elo'], ('elo', 'elo soort')):
             if e != dlnr.get(k):
-                self.__wks.update_cell((rij, self._kolomnummers[k]), e)
+                self.__wks.update_value((rij, self._kolomnummers[k]), e)
                 time.sleep(2)
 
     def maak_csv_bestand_met_deelnemers(self, bestand):
@@ -596,12 +603,13 @@ class speler(object):
                  clubnr=None,
                  jaar=None,
                  titel='',
-                 land='',
+                 nat='',
+                 nat_fide='',
                  federatie='',
                  elo_kbsb=0,
                  elo_fide=0,
                  elo_blitz=0,
-                 svb='',
+                 vrouw='',
                  betaald='',
                  aanwezig='',
                  bedrag=None):
@@ -611,31 +619,22 @@ class speler(object):
         self.clubnr = clubnr
         self.jaar = jaar
         self.titel = titel
-        self.land = land
+        self.nat = nat
+        self.nat_fide = nat_fide
         self.federatie = federatie
         self.elo_kbsb = elo_kbsb
         self.elo_fide = elo_fide
         self.elo_blitz = elo_blitz
-        self.svb = svb
+        self.vrouw = vrouw
         self.betaald = betaald
         self.aanwezig = aanwezig
         self.bedrag = bedrag
 
     def updaten(self, sp):
-        self.clubnr = sp.clubnr
-        self.jaar = sp.jaar
-        self.titel = sp.titel
-        self.land = sp.land
-        self.federatie = sp.federatie
-        self.svb = sp.svb
-        self.elo_kbsb = sp.elo_kbsb
-        self.elo_fide = sp.elo_fide
-        self.elo_blitz = sp.elo_blitz
-
-    def vervolledigen(self, sp):
+        # op aanwezig/afwezig zetten
         # vervelend geval?
         if self.fide_id in zwarte_lijst:
-            self.auto_afwezig()
+            self.auto_afwezig('zwarte lijst')
         # controleer correctheid van de spelersnaam
         elif self.naam.strip().lower() == sp.naam.strip().lower():
             # alles correct, dus we kunnen aanwezigheid op 'ja' zetten
@@ -643,28 +642,27 @@ class speler(object):
         else:
             # misschien indicatie spelersnaam komt niet overeen met fide id
             # en/of stamnummer. Of gewoon een spellingsfout?
-            self.foute_naam()
-        self.updaten(sp)
+            self.auto_afwezig('naam?')
+
+        # waarden kopiëren
+        self.clubnr = sp.clubnr
+        self.jaar = sp.jaar
+        self.titel = sp.titel
+        self.nat = sp.nat
+        self.nat_fide = sp.nat_fide
+        self.federatie = sp.federatie
+        self.vrouw = sp.vrouw
+        self.elo_kbsb = sp.elo_kbsb
+        self.elo_fide = sp.elo_fide
+        self.elo_blitz = sp.elo_blitz
 
     def auto_aanwezig(self):
         if not self.aanwezig:
             self.aanwezig = 'ja (auto)'
 
-    def auto_afwezig(self):
+    def auto_afwezig(self, reden):
         if not self.aanwezig:
-            self.aanwezig = 'nee (auto)'
-
-    def fout_met_de_stamnummers(self):
-        if not self.aanwezig:
-            self.aanwezig = 'fout?'
-
-    def foute_naam(self):
-        if not self.aanwezig:
-            self.aanwezig = 'naam?'
-
-    def niet_actief(self):
-        if not self.aanwezig:
-            self.aanwezig = 'actief?'
+            self.aanwezig = 'nee ({0})'.format(reden)
 
     @property
     def aanwezig(self):
@@ -682,10 +680,10 @@ class speler(object):
             self._aanwezig = value
 
     @property
-    def nieuw(self):
+    def is_nieuw(self):
         return not any([
-            self.jaar, self.clubnr, self.titel, self.land, self._svb,
-            self.elo_kbsb, self.elo_fide, self.elo_blitz
+            self.jaar, self.clubnr, self.titel, self.nat, self.nat_fide,
+            self.elo_kbsb, self.elo_fide, self.elo_blitz, self.vrouw
         ])
 
     @property
@@ -696,21 +694,8 @@ class speler(object):
         # Leden van Brusselse clubs aangesloten bij VSF zijn lid van SVB
         elif self.clubnr in (201, 204, 207, 209, 226, 229, 239, 244, 278, 289) and self.federatie == 'V':
             return 'ja'
-        elif self._svb:
-            return self._svb
         else:
-            return 'nee'
-
-    @svb.setter
-    def svb(self, value):
-        if isinstance(value, basestring):
-            value = value.lower()
-        if value in ('ja', 'j', 'yes', 'y'):
-            self._svb = 'ja'
-        elif value in ('nee', 'n', 'no'):
-            self._svb = 'nee'
-        else:
-            self._svb = value
+            return ''
 
     @property
     def elo(self):
@@ -741,7 +726,7 @@ class speler(object):
             return self._bedrag
         elif self.titel in ['GM', 'IM', 'WGM']:
             return 0
-        elif (self.titel in ['FM', 'WIM']) or (self.jaar in range(1998, 2025)):
+        elif (self.titel in ['FM', 'WIM']) or (self.jaar in range(u20_jaar, 2025)):
             return 5
         else:
             return 10
@@ -774,55 +759,101 @@ class speler(object):
     def clubnaam(self):
         return clubnamen.get(self.clubnr, '')
 
+    @property
+    def cat(self):
+        elo = self.elo[0]
+        if elo < 1400:
+            return -1400
+        elif elo < 1600:
+            return -1600
+        elif elo < 1800:
+            return -1800
+        elif elo < 2000:
+            return -2000
+        elif elo < 2200:
+            return -2200
+        else:
+            return ''
 
+    @property
+    def u16(self):
+        if self.jaar in range(u20_jaar + 4, 2025):
+            return 'ja'
+        else:
+            return ''
+
+    @property
+    def vrouw(self):
+        return self._vrouw
+
+    @vrouw.setter
+    def vrouw(self, value):
+        if isinstance(value, basestring):
+            value = value.lower()
+        if value in ('ja', 'f'):
+            self._vrouw = 'ja'
+        else:
+            self._vrouw = ''
+        
+    
 class spelers_db(object):
-    def __init__(self, name):
-        self._tb_kbsb = 'spelers_kbsb'
-        self._tb_fide = 'spelers_fide'
-        self.__connection = sqlite3.connect(name)
-        self.__cursor = self.__connection.cursor()
+    def __init__(self, kbsb_db, fide_db):
+        self.__connection_kbsb = sqlite3.connect(kbsb_db)
+        self.__cursor_kbsb = self.__connection_kbsb.cursor()
+        self.__connection_fide = sqlite3.connect(fide_db)
+        self.__cursor_fide = self.__connection_fide.cursor()
 
     def close(self):
-        self.__cursor.close()
-        self.__connection.close()
-
+        self.__cursor_kbsb.close()
+        self.__connection_kbsb.close()
+        self.__cursor_fide.close()
+        self.__connection_fide.close()
+        
     def geldige_fide_id(self, fid):
         """
         Geeft de waarde "True" terug als de "fide id" voorkomt in de fide-db,
         "False" indien niet.
         """
-        self.__cursor.execute(
-            'SELECT * FROM {0} WHERE id_number=?'.format(self._tb_fide),
+        if not fid:
+            return False
+        self.__cursor_fide.execute(
+            'SELECT * FROM fide WHERE IdNumber=?',
             (fid, ))
-        return bool(self.__cursor.fetchall())
+        return bool(self.__cursor_fide.fetchall())
 
     def geldig_kbsb_stamnummer(self, stam):
         """Geeft de waarde "True" terug als het stamnummer voorkomt in de kbsb db,
         "False" indien niet.
         """
-        self.__cursor.execute(
-            'SELECT * FROM {0} WHERE matricule=?'.format(
-                self._tb_kbsb), (stam, ))
-        return bool(self.__cursor.fetchall())
+        if not stam:
+            return False
+        self.__cursor_kbsb.execute(
+            'SELECT * FROM players WHERE IdNumber=?',
+            (stam, ))
+        return bool(self.__cursor_kbsb.fetchall())
 
     def actief_kbsb_stamnummer(self, stam):
         """Geeft "True" indien de speler momenteel is aangesloten bij de kbsb,
         "False" indien het een oude speler betreft of een nieuwe jeugdspeler.
         """
-        self.__cursor.execute(
-            'SELECT * FROM {0} WHERE matricule=? and suppress=0'.format(
-                self._tb_kbsb), (stam, ))
-        return bool(self.__cursor.fetchall())
+        if not stam:
+            return False
+        self.__cursor_kbsb.execute(
+            'SELECT * FROM players WHERE IdNumber=? and Affiliated=1',
+            (stam, ))
+        return bool(self.__cursor_kbsb.fetchall())
 
     def get_fide_id(self, stam):
         """Geeft de "fide id" terug die hoort bij een kbsb-stamnummer.
         "None" indien die kbsb-speler geen "fide id" heeft.
         """
-        self.__cursor.execute(
-            'SELECT fide FROM {0} WHERE matricule=?'.format(self._tb_kbsb),
+        if not stam:
+            return None
+        self.__cursor_kbsb.execute(
+            'SELECT FideId FROM players WHERE IdNumber=?',
             (stam, ))
         try:
-            return int(self.__cursor.fetchone()[0])
+            return int(self.__cursor_kbsb.fetchone()[0])
         except:
             return None
 
@@ -830,11 +861,13 @@ class spelers_db(object):
         """Geeft het stamnummer van de kbsb-speler met een bepaalde "fide id",
         "None" indien geen enkele kbsb-speler die "fide id" heeft.
         """
-        self.__cursor.execute(
-            'SELECT matricule FROM {0} WHERE fide=?'.format(self._tb_kbsb),
+        if not fid:
+            return None
+        self.__cursor_kbsb.execute(
+            'SELECT IdNumber FROM players WHERE FideId=?',
             (fid, ))
         try:
-            return int(self.__cursor.fetchone()[0])
+            return int(self.__cursor_kbsb.fetchone()[0])
         except:
             return None
 
@@ -858,11 +891,13 @@ class spelers_db(object):
             return None
 
     def __data_fide_speler(self, fid):
-        self.__cursor.execute(
-            '''SELECT name, birthday, elo, b_elo, title, country
-            FROM {0} WHERE id_number=?'''.format(self._tb_fide), (fid, ))
+        self.__cursor_fide.execute(
+            '''SELECT Name, BDay, SRtng, BRtng, Tit, Fed, Sex 
+            FROM fide WHERE IdNumber=?''',
+            (fid, ))
         (self.__speler.naam, datum, elo_fide, elo_blitz, self.__speler.titel,
-         self.__speler.land) = self.__cursor.fetchone()
+         self.__speler.nat_fide, self.__speler.vrouw
+        ) = self.__cursor_fide.fetchone()
         # elo waardes kunnen 0 of None zijn. Zet deze om naar integers.
         self.__speler.elo_fide = int(elo_fide or 0)
         self.__speler.elo_blitz = int(elo_blitz or 0)
@@ -870,11 +905,12 @@ class spelers_db(object):
         self.__speler.jaar = int(datum[:4])
 
     def __data_kbsb_speler(self, stam):
-        self.__cursor.execute(
-            '''SELECT nom_prenom, club, date_naiss, elo_calcul, titre, natfide, federation
-            FROM {0} WHERE matricule=?'''.format(self._tb_kbsb), (stam, ))
-        (self.__speler.naam, clubnr, datum, elo_kbsb, self.__speler.titel,
-         self.__speler.land, self.__speler.federatie) = self.__cursor.fetchone()
+        self.__cursor_kbsb.execute(
+            '''SELECT Name, Club, Birthday, Elo, NatPlayer, NatFideSign, Fed, Sex
+            FROM players WHERE IdNumber=?''', (stam, ))
+        (self.__speler.naam, clubnr, datum, elo_kbsb, self.__speler.nat,
+         self.__speler.nat_fide, self.__speler.federatie, self.__speler.vrouw
+        ) = self.__cursor_kbsb.fetchone()
         # clubnr kan de waarde 0 hebben, elo_kbsb kan 0 of None zijn.
         # Omzetten naar integer.
         self.__speler.clubnr = int(clubnr)
@@ -886,23 +922,24 @@ class spelers_db(object):
 def main():
     try:
         logger.info('start sync')
-        db = spelers_db(sqlite_db_bestand)
+        db = spelers_db(kbsb_db_bestand, fide_db_bestand)
         sp = spreadsheet(spreadsheet_key, service_creds_bestand, db)
         # data in Google Spreadsheet aanvullen
         sp.deelnemers_vervolledigen()
-        # repo = Repo(git_dir)
-        # git_ssh_cmd = 'ssh -i {0}'.format(git_ssh_identity_bestand)
-        # with Git().custom_environment(GIT_SSH_COMMAND=git_ssh_cmd):
-        #     # git pull
-        #     repo.remotes.origin.pull()
-        #     # csv-bestand schrijven
-        #     sp.maak_csv_bestanden_met_deelnemers(csv_bestand, swar_bestand)
-        #     # git commit/push indien er iets veranderd is
-        #     if repo.is_dirty():
-        #         logger.info(repo.git.diff(unified=0))
-        #         repo.git.add('_data/mm/mm2018/deelnemers.csv')
-        #         repo.git.commit(m='automatische update deelnemers memorial')
-        #         repo.remotes.origin.push()
+        repo = Repo(git_dir)
+        git_ssh_cmd = 'ssh -i {0}'.format(git_ssh_identity_bestand)
+        with Git().custom_environment(GIT_SSH_COMMAND=git_ssh_cmd):
+            # git pull
+            repo.remotes.origin.pull()
+            # csv-bestand schrijven
+            sp.maak_csv_bestanden_met_deelnemers(csv_bestand, swar_bestand)
+            # git commit/push indien er iets veranderd is
+            if repo.is_dirty():
+                logger.info(repo.git.diff(unified=0))
+                repo.git.add('_data/mm/mm2019/deelnemers.csv')
+                repo.git.add('_data/mm/mm2019/swar_import.csv')
+                repo.git.commit(m='automatische update deelnemers memorial')
+                repo.remotes.origin.push()
 
         db.close()
         logger.info('stop sync')
