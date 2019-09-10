@@ -4,21 +4,21 @@ layout: verslag
 tag: varia
 excerpt_separator: "<!--more-->"
 date: 2019-09-09 10:00:00 +0100
-author: Geert, Eric
+author: Geert, Eric, Diederik
 fotograaf: Pieter
-stelling_fen: ''
-stelling_titel: ''
-stelling_wit: ''
-stelling_zwart: ''
-stelling_uitleg: ''
-stelling_oplossing: ''
+stelling_fen: 'k4r2/pb2q3/1p1QP3/2P5/P2P1p2/R5pp/3N2P1/6K1 b - - 0 1'
+stelling_titel: 'het bos en de bomen'
+stelling_wit: 'Halfaoui'
+stelling_zwart: 'Diederik'
+stelling_uitleg: 'In mijn partij van de 7de ronde speelde ik tegen de top seed van de B-reeks. Een Fransman met net geen 2000 FIDE, geen jeugdspeler deze keer. Ik wist al van de vorige ronde dat hij zeer positioneel speelde. Dus probeerde ik niet zonder enig risico de stelling uit evenwicht te halen. Na ongeveer 4 uur spel kwam er onderstaande rijke en complexe stelling op het bord. Wit speelde juist Dd6 na een half uur nadenken. De stelling was boven mijn petje en na ook meer dan een half uur rekenen zag ik door de bomen het bos niet meer. Ik verloor enkele zetten later. Vind jij de winst wel? Meerdere oplossingen bestaan, 1 variant steekt er wel bovenuit.'
+stelling_oplossing: '1... Dxd6! 2. cxd6 Lxg2 3. e7 Th8! {dreigt mat in 2} 4. Ta1 f3! {dreigt mat in 1} 5. Pxf3 Lxf3 6. Kf1 h2 7. Ke1 h1=D+ 8. Kd2 Dxa1'
 image:
   path: 'assets/images/1819/geert.jpg'
 draft: true
 ---
 **Het nieuwe schaakseizoen staat weer voor de deur en SK Dworp zet op alle vlakken zijn beste beentje voor. Er is de organisatie van het Belgisch kampioenschap snelschaak, we hebben jeugdspelers bij de vleet, een clubkampioenschap om duimen en vingers bij af te likken en, last but not least, vier ambitieuze IC-teams. Die staan klaar om in een nagelnieuw interclub-lokaal de tegenstand in de pan te hakken.**<!--more-->
 
-First things first. Chronologisch komt eerst de algemene vergadering op 13 september. Sowieso is de AV al belangrijk genoeg om bij te wonen (gratis consumpties!). Daar komt dit jaar bij dat de vergadering plaats heeft in het nagelnieuwe interclublokaal in Essenbeek - café ’t Oud Kasteel, Kasteelstraat 96. Allen daarheen!
+First things first. Chronologisch komt eerst de algemene vergadering op vrijdag 13 september. Sowieso is de AV al belangrijk genoeg om bij te wonen (gratis consommaties!). Daar komt dit jaar bij dat de vergadering plaats heeft in het nagelnieuwe interclublokaal in Essenbeek - café ’t Oud Kasteel, Kasteelstraat 96. Allen daarheen!
 
 ## Memorial Debast
 
@@ -46,7 +46,7 @@ Het is immers wel degelijk de bedoeling dat team 2 -na het debacle en de degrada
  
 ## Geert clubkampioen 2019!
 
-Om te eindigen blikken we nog even terug op het voorbij clubkampioenschap. Hieronder brengt Eric een samenvatting van het parcours van Geert, leidend naar een verdiend clubkampioenschap.
+We blikken ook nog even terug op het voorbije clubkampioenschap. Hieronder brengt Eric een samenvatting van het parcours van Geert, leidend naar een verdiend clubkampioenschap.
 
 ![foto uit de oude doos van Geert][foto 1]
 
@@ -105,6 +105,12 @@ Kristoff mismeesterde de Cambridge-Springs variant van het damegambiet helemaal 
 ### Eindstand: Geert 10.5 uit 12, Diederik en Peter 9.5, Serge 8.
 
 Geert speelde zeker het sterkst (wel af en toe een konijnenpoot). Diederik kende een minder kampioenschap, Peter deed het uitstekend. Onze sterkste speler Serge stelde, na zware bridge-namiddagen, andermaal teleur.
+
+## Schaakzomer
+
+Om te eindigen nog een beknopt verslag van Diederik over de voorbije zomermaanden.
+
+Naar goede gewoonte waren enkele Dworpenaren ook actief tijdens de zomer. Tom speelde mee in Brasschaat, Eddy in Geraardsbergen en Walter en ikzelf traden aan in de B-reeks van Charleroi. Ook op het snelschaaktornooi van Geraardsbergen waren we goed vertegenwoordigd met Peter, Eric en Kjell.  Die zomertornooien zijn leuk, maar allesbehalve evident wegens de dominantie van de jeugd. Die heeft heel veel tijd om tijdens de lange vakantie gehakt te maken van de vermoeide veertiger/vijftiger die een weekje van zijn verlof zit op te offeren. Dit resulteerde in bedenkelijke resultaten van zowat iedereen. Hopelijk werpt het wel zijn vruchten af voor het komende jaar.
 
 [foto 1]: {{ "assets/images/1819/geert.jpg" | absolute_url }}
 
