@@ -14,7 +14,7 @@ stelling_uitleg: 'In mijn partij van de 7de ronde speelde ik tegen de top seed v
 stelling_oplossing: '1... Dxd6! 2. cxd6 Lxg2 3. e7 Th8! {dreigt mat in 2} 4. Ta1 f3! {dreigt mat in 1} 5. Pxf3 Lxf3 6. Kf1 h2 7. Ke1 h1=D+ 8. Kd2 Dxa1'
 image:
   path: 'assets/images/1819/geert.jpg'
-draft: true
+draft: false
 ---
 **Het nieuwe schaakseizoen staat weer voor de deur en SK Dworp zet op alle vlakken zijn beste beentje voor. Er is de organisatie van het Belgisch kampioenschap snelschaak, we hebben jeugdspelers bij de vleet, een clubkampioenschap om duimen en vingers bij af te likken en, last but not least, vier ambitieuze IC-teams. Die staan klaar om in een nagelnieuw interclub-lokaal de tegenstand in de pan te hakken.**<!--more-->
 
@@ -38,9 +38,9 @@ Een fijn voornemen dat er meteen toe leidt dat het clubkampioenschap zal betwist
 
 De laatste zondag van september beginnen we ook weer aan het nieuwe IC-seizoen. En SK Dworp zet zijn beste beentje voor. We schreven niet minder dan vier ploegen in. Met ambitie. Eerste doelstelling is uiteraard om het eerste team in derde afdeling te houden. Met degradatiespoken houden we hoegenaamd geen rekening, maar beter doen dan de schitterende vijfde plaats van vorig seizoen wordt moeilijk.
 
-Hoewel... Wie de moeite doet om er de Elo-lijst van SK Dworp op na te slaan, ziet dat voor het eerst sinds mensenheugenis niet ‘onze’ Serge de ranking aanvoert maar wel ene Sadikhov, een heuse onvervalste Azerbeidzjaanse grootmeester met 2500 Elootjes. Diederik did it again! Sadikhov fungeert op de Elo-lijst, net zoals Maarten Rademakers (Elo 2056), Eddy Banks en nog enkele anderen als spookspelers. Zo kan er met de wel actieve eigen spelers tussen de teams ‘geschoven’ worden.
+Hoewel... Wie de moeite doet om er de Elo-lijst van SK Dworp op na te slaan, ziet dat voor het eerst sinds mensenheugenis niet ‘onze’ Serge de ranking aanvoert maar wel ene Sadikhov, een heuse onvervalste Azerbeidzjaanse grootmeester met 2500 Elootjes. Diederik did it again! Met Sadikhov op de lijst wordt het tevens gemakkelijker om te schuiven met actieve spelers tussen de teams.
 
-Het is immers wel degelijk de bedoeling dat team 2 -na het debacle en de degradatie uit vierde vorig jaar- binnen de kortste keren opnieuw promoveert. Bovendien kunnen we met Sam (jawel, broer van...) en Gaston als nieuwe versterking wellicht ook dromen van nog een team dat in vijfde voor de titel kan spelen. Eerst zien en dan geloven, zei de blinde...
+Het is immers wel degelijk de bedoeling dat team 2 -na het debacle en de degradatie uit vierde vorig jaar- binnen de kortste keren opnieuw promoveert. Bovendien kunnen we met Sam (jawel, broer van Tom) en Gaston als nieuwe versterking wellicht ook dromen van nog een team dat in vijfde voor de titel kan spelen. Eerst zien en dan geloven, zei de blinde...
 
  Ook de twee andere teams, met vooral jeugdspelers, kunnen misschien voor verrassingen zorgen. Laten we het hopen.
  
@@ -72,7 +72,7 @@ Een lange partij, met heel veel stukken op het bord. Na lang laveren (niks doen,
 
 ### Ronde 6:  Geert - Walter
 
-Geert heeft het tegen Walter traditioneel moeilijk. Deze speelt openingen die Geert niet goed begrijpt. Hij werd niet weggeblazen en dacht zelfs een pionnetje te verschalken. Walter had verder gezien en won een stuk tegen een vrijpion, die echter niet al te sterk hoefde te worden. Alleen mocht zwart de dames niet ruilen. Dat deed hij overigens wel op de 39e zet. Een straffe blunder op dit niveau. De pion promoveerde en voor Geert meteen een grote stap richting titel!
+Geert heeft het tegen Walter traditioneel moeilijk. Deze speelt openingen die Geert niet goed begrijpt. Geert werd niet weggeblazen en dacht zelfs een pionnetje te verschalken. Walter had verder gezien en won een stuk tegen een vrijpion, die echter niet al te sterk hoefde te worden. Alleen mocht zwart de dames niet ruilen. Dat deed hij overigens wel op de 39e zet. Een straffe blunder op dit niveau. De pion promoveerde en voor Geert meteen een grote stap richting titel!
 
 ### Ronde 7: Yves - Geert
 
