@@ -1,0 +1,163 @@
+nummer,titel,naam,rating,v/m,club,nat,ptn,perf,res,kash,buch
+1,IM,Cekro Ekrem,2371,M,Fontaine-L'Eveque,BEL,12.0,2654,,0,
+2,GM,Munoz Miguel,2611,M,,ESP,11.0,2619,,0,
+3,GM,Dgebuadze Alexandre,2466,M,Wirtzfeld,BEL,10.0,2465,1.0,0,
+4,IM,Hautot Stephane,2352,M,Wirtzfeld,BEL,10.0,2412,,0,
+5,IM,Sukander Irene,2271,V,,INA,9.5,2390,,28,113.0
+6,FM,Dardha Daniel,2472,M,Hoboken,BEL,9.5,2414,,28,112.0
+7,FM,Lenaerts Lennert,2298,M,Genk,BEL,9.5,2364,,28,111.0
+8,FM,De Strycker Nathan,2172,M,TSMechelen,BEL,9.0,2215,,27,104.0
+9,,Dauw Sterre,2076,M,Mechelen,BEL,9.0,2242,,27,101.0
+10,,Van Kessel Wessel,2097,M,Lommel,BEL,9.0,2160,,27,100.0
+11,FM,Hamblok Roel,2224,M,Overpelt,BEL,9.0,2133,,27,97.0
+12,FM,Baselmans Luuk,1969,M,Brasschaat,NED,9.0,2201,,26,102.0
+13,FM,Roofthoofd Marcel,2062,M,Mechelen,BEL,9.0,2178,,26,100.5
+14,,De Villers Mourad,2086,M,Boitsfort,BEL,8.5,2181,,25,105.0
+15,,Decrop Benjamin,2173,M,KOSK Oostende,BEL,8.5,2115,,25,102.0
+16,,Draidi Ahmed,1974,M,Anderlecht,BEL,8.5,2157,,25,99.5
+17,FM,Fayard Alain,2223,M,CREC Charleroi,FRA,8.5,2126,,25,98.0
+18,,Hoffmann Max,2133,M,Wirtzfeld,GER,8.5,2085,,25,95.5
+19,,Lacroix Bruno,2143,M,Boitsfort,BEL,8.5,2043,,25,93.0
+20,,Huynh Laurent,2194,M,CREB Bruxelles,BEL,8.5,2142,,24,100.0
+21,,Roos David,2029,M,Zottegem,BEL,8.5,2035,,24,91.0
+22,,Soubirou Oriane,2119,V,Boitsfort,FRA,8.5,2162,,23,
+23,,Verheyen Olivier,1887,M,Overpelt,BEL,8.5,2122,,22,
+24,IM,Alienkin Aleksander,2407,M,Ans-Loncin,RUS,8.0,2221,,24,108.0
+25,,Versyck Dominique,1998,M,Opwijk,BEL,8.0,2066,,24,100.5
+26,IM,Miulescu Gabriel,1905,M,Wavre,ROU,8.0,1930,,24,93.0
+27,FM,Decoster Frederic,2294,M,Oostkamp,BEL,8.0,2225,,23,111.0
+28,FM,Cools Gorik,2228,M,Boitsfort,BEL,8.0,2166,,23,109.0
+29,,Depauw Christian,2090,M,Wavre,BEL,8.0,2051,,23,102.5
+30,,Barbier Wim,2084,M,Temse,BEL,8.0,2040,,23,99.0
+31,,Baselmans Sam,2076,M,Brasschaat,NED,8.0,2105,,23,99.0
+32,,Kegels Kristof,1858,M,KGSRL Gent,BEL,8.0,2051,,23,95.5
+33,,Van Hoofstat Tom,2119,M,Dworp,BEL,8.0,1957,,23,95.0
+34,,De Reese Elias,1776,M,KGSRL Gent,BEL,8.0,1958,,23,94.0
+35,FM,Roos Adrian,2302,M,Zottegem,BEL,8.0,2170,,22,107.0
+36,,Van Vliet Dennis,2135,M,Wachtebeke,BEL,8.0,2054,,22,100.5
+37,,Spaens Kjell,1990,M,Dworp,BEL,8.0,1971,,22,97.0
+38,,Moerman Thomas,1943,M,Wetteren,BEL,8.0,1896,,22,94.0
+39,FM,Grochal Joey,2268,M,Wachtebeke,NED,7.5,2163,,22,104.5
+40,,Clark-Foulquier Stephen,2123,M,Europchess,ENG,7.5,2021,,22,96.5
+41,,Van Dijck Bjarne,2083,M,Mechelen,BEL,7.5,1963,,22,94.0
+42,,Harutyunyan Axel,1990,M,SCRR (Brussel),BEL,7.5,1956,,22,94.0
+43,,Van De Velde Filip,1753,M,Dworp,BEL,7.5,1995,,22,91.0
+44,,Minet Julien,1929,M,Tournai,BEL,7.5,1946,,22,90.5
+45,,Zamparo Sergio,2018,M,Brussels Chess Club,BEL,7.5,1868,,22,90.0
+46,WF,Fischer Julie,2029,V,Le Pantin,FRA,7.5,1919,,22,89.0
+47,,Boshra Abanoub,1748,M,Le Pantin,EGY,7.5,1935,,22,88.5
+48,FM,Vanderwaeren Serge,2115,M,Dworp,BEL,7.5,1926,,22,88.0
+49,,Dreelinck Adriaan,1711,M,Geraardsbergen,BEL,7.5,1839,,22,86.0
+50,,Denys Frank,1897,M,Dworp,BEL,7.5,1831,,22,84.5
+51,,Vos Rik,1850,M,Le Pantin,NED,7.5,1844,,22,82.0
+52,,Devolder Dieter,2049,M,Waregem,BEL,7.5,2087,,21,100.0
+53,,Faybish Nimrod,1984,M,Anderlecht,BEL,7.5,2040,,21,93.5
+54,,Romero Reinaldo Herrera,1897,M,Wetteren,BEL,7.5,1876,,21,84.0
+55,,De Jongh Saul,1849,M,,NED,7.5,1932,,21,83.0
+56,,Dutre Wonder,1293,M,MSV,BEL,7.0,1672,,21,96.5
+57,,Ouaki Mark,1855,M,Europchess,FRA,7.0,2009,,21,95.0
+58,,Boodts Jeroen,1781,M,Dendermonde,BEL,7.0,1747,,21,87.0
+59,,Korte Markus,1933,M,,GER,7.0,1883,,21,86.5
+60,,Dekker Marvin,1893,M,,AHO,7.0,1808,,21,86.0
+61,,Vasile-Bonciog Cristian,1889,M,CREB Bruxelles,BEL,7.0,1826,,21,84.0
+62,,De Reymaeker Walter,1864,M,Dworp,BEL,7.0,1749,,21,81.0
+63,,Barbier Astrid,1792,V,Temse,BEL,7.0,1761,,21,80.0
+64,,Parreira Luis Miguel,1802,M,Europchess,POR,7.0,1686,,21,78.5
+65,,Bachir John,1684,M,2 Fous Diogene,BEL,7.0,1795,,21,76.0
+66,,Schrevens Simon,1471,M,Hoboken,BEL,7.0,1694,,21,73.5
+67,,Van Bunderen Gert,1781,M,Hoboken,BEL,7.0,1676,,21,72.0
+68,FM,Dardha Arben,2201,M,Hoboken,BEL,7.0,2185,,20,103.5
+69,CM,Maddens Martijn,2067,M,Roeselare,BEL,7.0,2033,,20,98.5
+70,,Anciaux Adrien,1523,M,Wavre,BEL,7.0,1887,,20,94.0
+71,,Vintioen Ben,1885,M,Wetteren,BEL,7.0,1952,,20,88.5
+72,,Schoofs Maxim,1646,M,Lier,BEL,7.0,1847,,20,87.0
+73,,Iolis Oleg,2043,M,Brussels Chess Club,BEL,6.5,2116,,19,100.0
+74,,Lane Samuel,2041,M,Le Pantin,GBR,6.5,1898,,19,98.0
+75,,Lot Diederik,1946,M,Dworp,BEL,6.5,1943,,19,96.0
+76,,Moreels Yves,2067,M,Lasne-Waterloo,BEL,6.5,1879,,19,95.5
+77,WF,Vanhuyse Nele,2048,V,Zottegem,BEL,6.5,1973,,19,95.0
+78,,Aglave Arnaud,2072,M,Schaakhuis Leuven,BEL,6.5,1829,,19,89.0
+79,,Cornil Etienne,1835,M,CREB Bruxelles,BEL,6.5,1868,,19,89.0
+80,,Aguilar Adriano,1771,M,2 Fous Diogene,BEL,6.5,1746,,19,89.0
+81,,Yoro Samuel,1629,M,Brussels Chess Club,BEL,6.5,1830,,19,89.0
+82,,Detienne Stephane,1807,M,Wavre,BEL,6.5,1828,,19,88.5
+83,,Poelman Geoffrey,1916,M,Zottegem,BEL,6.5,1864,,19,87.5
+84,,D'Haenens Leon,1582,M,LSV-Chesspirant,BEL,6.5,1818,,19,87.0
+85,,Van De Putte Ben,1743,M,Deinze,BEL,6.5,1767,,19,85.0
+86,,Drossart Jonathan,1719,M,Tournai,BEL,6.5,1816,,19,83.5
+87,,Verrijken Geert,1940,M,Dworp,BEL,6.5,1754,,19,81.5
+88,,Taleb Mohamad,1427,M,Dworp,BEL,6.5,1735,,19,81.5
+89,,Bauwens Steven,1771,M,Artevelde,BEL,6.5,1714,,19,80.5
+90,,Micciche Ruben,1507,M,CREB Bruxelles,BEL,6.5,1692,,19,80.5
+91,,Willockx Ritsaart,1888,M,Aalst,BEL,6.5,1670,,19,75.0
+92,,Vervaet Bart,1693,M,Leuven Centraal,BEL,6.0,1789,,18,88.5
+93,,Macai Ioan,1960,M,Wavre,BEL,6.0,1757,,18,87.0
+94,,Bertram Johannes,1774,M,Europchess,GER,6.0,1779,,18,86.0
+95,,Wlogalski Olivier,1846,M,CRELEL Liege,BEL,6.0,1753,,18,84.5
+96,,Herrygers Rik,1629,M,CRELEL Liege,BEL,6.0,1684,,18,84.5
+97,,Raptis Filippos,0,M,2 Fous Diogene,BEL,6.0,1756,,18,82.0
+98,,Mabille Natacha,1731,V,Brussels Chess Club,BEL,6.0,1666,,18,81.5
+99,,Silvain Thierry,1709,M,Tournai,FRA,6.0,1632,,18,81.0
+100,,Govoreanu Matei,1087,M,Westerlo,BEL,6.0,1408,,18,80.0
+101,,Beukema Constantijn,1598,M,Brasschaat,BEL,6.0,1685,,18,79.0
+102,,Desinte David,1779,M,CREC Charleroi,BEL,6.0,1598,,18,77.5
+103,,Swaidan Ali,1477,M,,FRA,6.0,1552,,18,73.5
+104,,Bultijnck Kristoff,1536,M,Halle,BEL,6.0,1419,,18,71.0
+105,,Faybish Benjamin,1543,M,Anderlecht,BEL,6.0,1557,,18,69.5
+106,,Palstermans Koen,1489,M,Mechelen,BEL,6.0,1569,,18,68.5
+107,,Musabayeva Diana,1532,V,Mercatel,BEL,6.0,1769,,17,85.0
+108,,Dreelinck Jacob,1638,M,Geraardsbergen,BEL,6.0,1641,,17,77.0
+109,,De Witte Stein,1756,M,Leuven Centraal,BEL,5.5,1693,,16,91.5
+110,,Kuy Yannick,1655,M,2 Fous Diogene,FRA,5.5,1855,,16,91.5
+111,,De Baets Keano,1697,M,Artevelde,BEL,5.5,1835,,16,91.0
+112,,Anciaux Marc,2000,M,Wavre,BEL,5.5,1628,,16,83.5
+113,,Van Wijnendaele Jovanni,1671,M,Aalst,BEL,5.5,1734,,16,82.5
+114,,Van Puyvelde Stijn,1727,M,Zottegem,BEL,5.5,1588,,16,81.5
+115,,Polin Giulia,1812,V,Le Pantin,ITA,5.5,1692,,16,81.0
+116,,De Bosscher Peter,1698,M,Dworp,BEL,5.5,1606,,16,81.0
+117,,Wouters Maarten,1782,M,Leuven Centraal,BEL,5.5,1650,,16,74.5
+118,,De Vet Sylvin,1565,M,Westerlo,BEL,5.5,1514,,16,73.5
+119,,Skowron Jean-Pol,1622,M,Tournai,BEL,5.5,1507,,16,72.0
+120,,Bontemps Cedric,1435,M,2 Fous Diogene,BEL,5.5,1564,,16,69.0
+121,,Van Droogenbroeck Mats,1226,M,Kapelle-op-den-Bos,BEL,5.5,1458,,16,69.0
+122,,De Meyere Dirk,1553,M,S.K. Gazel,BEL,5.5,1379,,16,66.5
+123,,Abubakirov Khumid,1667,M,Rochade Eupen,BEL,5.0,1700,,15,83.5
+124,,De Baets Branko,1634,M,Artevelde,BEL,5.0,1616,,15,81.0
+125,,Aguilar Luciano,1701,M,2 Fous Diogene,BEL,5.0,1581,,15,78.0
+126,,Peers Wim,1660,M,Leuven Centraal,BEL,5.0,1506,,15,75.0
+127,,Debeuckelaere Alexander,1678,M,Dworp,BEL,5.0,1463,,15,73.5
+128,,Oostenbach Ronny,1503,M,Landen,NED,5.0,1455,,15,73.5
+129,,Vanden Broeck Jan,1977,M,Le Pantin,BEL,5.0,1607,,15,73.0
+130,,Burssens Maya,1054,V,Mercatel,BEL,5.0,1312,,15,71.5
+131,,Boustany Georges,1466,M,SCRR (Brussel),BEL,5.0,1478,,15,71.0
+132,,Teichner Roberto,1323,M,Europchess,ITA,5.0,1403,,15,66.5
+133,,Smeyers Johan,1368,M,Anderlecht,BEL,5.0,1324,,15,63.0
+134,,Degraeve Ruben,1612,M,Dworp,BEL,5.0,1647,,14,80.0
+135,,Abidin Aysajan,1684,M,Leuven Centraal,BEL,5.0,1476,,14,69.5
+136,,Heyerick Anton,1548,M,Aalter,BEL,5.0,1420,,14,65.0
+137,,Pouliart Sander,1241,M,Mechelen,BEL,5.0,1431,,14,64.0
+138,,Aishajiang Ehsan,1213,M,Leuven Centraal,SWE,5.0,1306,,14,62.5
+139,,Bes Nikolaas,1710,M,Lier,BEL,4.5,1512,,13,79.0
+140,,Cornelis Eric,1659,M,Dworp,BEL,4.5,1396,,13,70.5
+141,,Silantev Ilia,1322,M,Dolle Toren Leuven,RUS,4.5,1412,,13,70.0
+142,,Camus Harold,1642,M,KASK,FRA,4.5,1322,,13,68.5
+143,,Pouleyn Floris,1458,M,KGSRL Gent,BEL,4.5,1398,,13,68.0
+144,,Hashemi Oshank,0,M,Dworp,NED,4.5,1362,,13,66.5
+145,,Decraene Lotus,1113,V,Waregem,BEL,4.5,1259,,13,59.0
+146,,Fernandez Derlis,0,M,KBSK Brugge,BEL,4.0,1386,,12,65.0
+147,,Haverbeke Jean-Pierre,1476,M,Deinze,BEL,4.0,1292,,12,62.5
+148,,Laureys Mats,1218,M,Dworp,BEL,4.0,1246,,12,62.5
+149,,Huysman Robert,1408,M,Halle,BEL,4.0,1280,,12,60.5
+150,,Brys Yves,1323,M,Dendermonde,BEL,4.0,1229,,12,58.5
+151,,Huyghe Felix,0,M,Dworp,BEL,4.0,1232,,12,55.5
+152,,Van Overstraeten Frank,1286,M,Halle,BEL,4.0,1186,,12,54.5
+153,,Palmans Niels,1528,M,Dworp,BEL,4.0,1428,,11,
+154,,Lerinckx Sander,1321,M,Dworp,BEL,3.5,1281,,10,63.0
+155,,Decraene Merlijn,1262,M,Waregem,BEL,3.5,1150,,10,62.0
+156,,Beckers Stijn,0,M,Dworp,BEL,3.5,1162,,10,56.0
+157,,Moheeb Maha,0,V,Le Pantin,EGY,3.0,1241,,9,64.0
+158,,Vandevelde Jannes,1130,M,Dworp,BEL,3.0,1143,,9,63.5
+159,,Lerinckx Niels,1349,M,Dworp,BEL,3.0,1135,,9,61.0
+160,,Vanrossum Matthias,1103,M,Dworp,BEL,3.0,1089,,9,59.0
+161,,Van Der Voorde Sonja,1408,V,Halle,BEL,2.5,1137,,0,
+162,,Souweine Edwige,1091,V,Anderlecht,BEL,2.0, 837,,0,
