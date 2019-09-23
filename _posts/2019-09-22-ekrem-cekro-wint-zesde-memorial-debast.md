@@ -56,6 +56,8 @@ Eerste Dworpenaar werd evenwel Tom van Hoofstat (2119) met 8 op 13 (tpr 1957). T
 
 Tot slot een dikke dank u wel aan iedereen die zich heeft ingespannen om deze zesde memorial Debast inderdaad memorabel te maken en een topdag voor 162 schakers. Drie pakkerds –smak, smak, smak!- gaan in de eerste plaats naar de bar. Niet naar de tooghangers ervoor maar naar de mensen die voor de zoveelste maal op rij het beste van zichzelf gaven om iedereen van een natje en een droogje te voorzien. Ook een dikke dank aan het Provinciaal Domein van Huizingen voor het ter beschikking stellen van de infrastructuur. En natuurlijk eveneens ‘gracias’ aan het bestuur en de leden die alweer een vlekkeloze prestatie op vlak van tornooi-organisatie afleverden. Een groepsgebeuren en om niemand te vergeten: geen namen. En allemaal vrijwillig en gratis natuurlijk.
 
+![foto 6][foto 6]
+
 Fijn, fijn, fijn. Morgen gezond weer op en reikhalzen naar de zevende editie van de Memorial Debast. Tot volgend jaar!
 
 _[de [volledige eindstand][1] van het tornooi kan u [hier][1] vinden]_
