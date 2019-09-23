@@ -1,0 +1,134 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "29-09-2019",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "244 Brussels 6", "uit": "548 Caissa Europe 4"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 7", "uit": "233 DZD Halle 2"},
+      {"tr": "", "ur": "", "thuis": "525 Anderlues 3", "uit": "228 Dworp 4"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "953 Nivelles 1"},
+      {"tr": "", "ur": "", "thuis": "278 Pantin 7", "uit": "114 Mechelen 9"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 6", "uit": "551 Jurbise 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "13-10-2019",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "551 Jurbise 2", "uit": "244 Brussels 6"},
+      {"tr": "", "ur": "", "thuis": "114 Mechelen 9", "uit": "952 Wavre 6"},
+      {"tr": "", "ur": "", "thuis": "953 Nivelles 1", "uit": "278 Pantin 7"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 4", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "525 Anderlues 3"},
+      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 4", "uit": "901 Namur 7"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "20-10-2019",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "244 Brussels 6", "uit": "901 Namur 7"},
+      {"tr": "", "ur": "", "thuis": "525 Anderlues 3", "uit": "548 Caissa Europe 4"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "233 DZD Halle 2"},
+      {"tr": "", "ur": "", "thuis": "278 Pantin 7", "uit": "228 Dworp 4"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 6", "uit": "953 Nivelles 1"},
+      {"tr": "", "ur": "", "thuis": "551 Jurbise 2", "uit": "114 Mechelen 9"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "17-11-2019",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "114 Mechelen 9", "uit": "244 Brussels 6"},
+      {"tr": "", "ur": "", "thuis": "953 Nivelles 1", "uit": "551 Jurbise 2"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 4", "uit": "952 Wavre 6"},
+      {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "278 Pantin 7"},
+      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 4", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 7", "uit": "525 Anderlues 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "01-12-2018",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "244 Brussels 6", "uit": "525 Anderlues 3"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "901 Namur 7"},
+      {"tr": "", "ur": "", "thuis": "278 Pantin 7", "uit": "548 Caissa Europe 4"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 6", "uit": "233 DZD Halle 2"},
+      {"tr": "", "ur": "", "thuis": "551 Jurbise 2", "uit": "228 Dworp 4"},
+      {"tr": "", "ur": "", "thuis": "114 Mechelen 9", "uit": "953 Nivelles 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "19-01-2020",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "953 Nivelles 1", "uit": "244 Brussels 6"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 4", "uit": "114 Mechelen 9"},
+      {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "551 Jurbise 2"},
+      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 4", "uit": "952 Wavre 6"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 7", "uit": "278 Pantin 7"},
+      {"tr": "", "ur": "", "thuis": "525 Anderlues 3", "uit": "Bye"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "02-02-2020",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "244 Brussels 6", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "278 Pantin 7", "uit": "525 Anderlues 3"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 6", "uit": "901 Namur 7"},
+      {"tr": "", "ur": "", "thuis": "551 Jurbise 2", "uit": "548 Caissa Europe 4"},
+      {"tr": "", "ur": "", "thuis": "114 Mechelen 9", "uit": "233 DZD Halle 2"},
+      {"tr": "", "ur": "", "thuis": "953 Nivelles 1", "uit": "228 Dworp 4"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "16-02-2020",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 4", "uit": "244 Brussels 6"},
+      {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "953 Nivelles 1"},
+      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 4", "uit": "114 Mechelen 9"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 7", "uit": "551 Jurbise 2"},
+      {"tr": "", "ur": "", "thuis": "525 Anderlues 3", "uit": "952 Wavre 6"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "278 Pantin 7"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "08-03-2020",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "244 Brussels 6", "uit": "278 Pantin 7"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 6", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "551 Jurbise 2", "uit": "525 Anderlues 3"},
+      {"tr": "", "ur": "", "thuis": "114 Mechelen 9", "uit": "901 Namur 7"},
+      {"tr": "", "ur": "", "thuis": "953 Nivelles 1", "uit": "548 Caissa Europe 4"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 4", "uit": "233 DZD Halle 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "15-03-2020",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "244 Brussels 6"},
+      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 4", "uit": "228 Dworp 4"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 7", "uit": "953 Nivelles 1"},
+      {"tr": "", "ur": "", "thuis": "525 Anderlues 3", "uit": "114 Mechelen 9"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "551 Jurbise 2"},
+      {"tr": "", "ur": "", "thuis": "278 Pantin 7", "uit": "952 Wavre 6"}
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "29-03-2020",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "952 Wavre 6", "uit": "244 Brussels 6"},
+      {"tr": "", "ur": "", "thuis": "551 Jurbise 2", "uit": "278 Pantin 7"},
+      {"tr": "", "ur": "", "thuis": "114 Mechelen 9", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "953 Nivelles 1", "uit": "525 Anderlues 3"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 4", "uit": "901 Namur 7"},
+      {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "548 Caissa Europe 4"}
+    ]
+  }
+]
