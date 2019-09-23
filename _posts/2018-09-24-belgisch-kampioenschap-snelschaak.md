@@ -76,4 +76,4 @@ _[de [volledige eindstand][1] van het tornooi kan u [hier][1] vinden]_
 [foto 5]: {{ "/assets/images/1819/mm/memorial_debast_5.jpg" | absolute_url }}
 [foto 6]: {{ "/assets/images/1819/mm/memorial_debast_6.jpg" | absolute_url }}
 
-[1]: {{ "/memorial" | absolute_url }}
+[1]: {{ "/memorial-2018" | absolute_url }}
