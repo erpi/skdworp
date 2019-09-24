@@ -2,15 +2,15 @@
 description: Niet de gedoodverfde favoriet, de Spaanse grootmeester Miguel Muñoz (blitz-Elo 2611!) maar oude krijger Ekrem Cekro (2371) won afgelopen zaterdag de zesde editie van de Memorial Debast.
 tag: mm
 title: Ekrem Cekro wint verrassend zesde Memorial Debast
-author: Geert Verrijken
-fotograaf: Yves,Walter,Eddy
+author: Geert
+fotograaf: Yves,Eddy,Walter
 layout: verslag
 excerpt_separator: <!--more-->
 image:
   path: 'assets/images/1920/mm/memorial_debast_1.jpg'
-draft: true
+draft: false
 ---
-**Niet de gedoodverfde favoriet, de Spaanse grootmeester Miguel Muñoz Pantoja (blitz-Elo 2611!) maar oude krijger Ekrem Cekro (2371) won afgelopen zaterdag de zesde editie van de Memorial Debast. Hij mag zich een jaar lang Belgisch blitzkampioen noemen. Een schitterende prestatie op een supermooie schaakdag. Astrid Barbier haalde het bij de vrouwen.**<!--more-->
+**Niet de gedoodverfde favoriet, de Peruviaans Spaanse grootmeester Miguel Muñoz Pantoja (blitz-Elo 2611!) maar oude krijger Ekrem Cekro (2371) won afgelopen zaterdag de zesde editie van de Memorial Debast. Hij mag zich een jaar lang Belgisch blitzkampioen noemen. Een schitterende prestatie op een supermooie schaakdag. Astrid Barbier haalde het bij de vrouwen.**<!--more-->
 
 ![foto 1][foto 1]
 
@@ -18,7 +18,7 @@ Op 21 september organiseerde onze onvolprezen schaakclub SK Dworp voor de zesde 
 
 ## Groene omgeving
 
-162 deelnemers daagden er voor deze editie op en dat waren er alweer dertig meer dan vorig jaar. De mond-tot-mondreclame doet ongetwijfeld zijn werk. Want naast de vlekkeloze organisatie is er natuurlijk ook de idyllische locatie. Bij goed weer –en dat was het op deze eerste herfstdag- kan onze succesformule niet stuk. Met name is dat een ruime tent waar het goed schaken is gekoppeld aan een heerlijk groene omgeving. Daar is het dan weer goed verpozen tussen de rondes in.
+162 deelnemers daagden er voor deze editie op en dat waren er alweer dertig meer dan vorig jaar. De mond-tot-mondreclame doet ongetwijfeld zijn werk. Want naast de vlekkeloze organisatie is er natuurlijk ook de idyllische locatie. Bij goed weer –en dat was het op deze eerste herfstdag- kan onze succesformule niet stuk. Met name is dat een ruime tent waar het goed schaken is gekoppeld aan een heerlijk groene omgeving waar het aangenaam is om te verpozen tussen de rondes in.
 
 Niet alleen qua aantal deelnemers sneuvelde alweer een record, ook de kwaliteit ging een versnelling hoger. Hadden we in 2018 17 spelers met een titel te gast dan waren het er dit jaar niet minder dan 23: twee grootmeesters, vijf IM’s, dertien FM’s, twee vrouwelijke meesters en één kandidaat meester. Ongeveer een kwart van het deelnemersveld had meer dan 2.000 (blitz-)Elo. Ook even vermelden dat er liefst 21 Dworpenaren, waaronder heel wat jeugdspelers, deelnamen.
 
@@ -46,11 +46,11 @@ Geen koe zo bont of er is wel een vlekje op. Op de tornooidag werd Oriane Soubir
 
 Het Dworpse schaakleven floreert als nooit tevoren. Het bewijs daarvan is dat er, zoals al eerder aangehaald, niet minder dan 21 –vooral – jonge lokale helden deelnamen. Dworp gaf ook zijn visitekaartje af: deze club staat zijn mannetje.
 
-Ere wie ere toekomt, met een performance van 1995 en 7,5/13 had Filip Van de Velde (1753) een superdag. Hij scoorde flink boven zijn Elo en mag zich dan ook verdiend een jaar lang blitz-kampioen <1800 van Vlaams-Brabant noemen.
+Ere wie ere toekomt, met een performance van 1995 en 7,5/13 had Filip (1753) een superdag. Hij scoorde flink boven zijn Elo en mag zich dan ook verdiend een jaar lang blitz-kampioen <1800 van Vlaams-Brabant noemen. Eerste Dworpenaar werd evenwel Tom (2119) met 8 op 13 (tpr 1957). Tom is als de wijn, hij wordt beter met de jaren –een halfje meer dan een jaar eerder. Goed voor de titel van provinciaal kampioen in de categorie <2200.
 
 ![foto 5][foto 5]
 
-Eerste Dworpenaar werd evenwel Tom Van Hoofstat (2119) met 8 op 13 (tpr 1957). Tom is als de wijn, hij wordt beter met de jaren –een halfje meer dan een jaar eerder. Goed voor de titel van provinciaal kampioen in de categorie <2200. In de laatste ronde deelde hij de punten met Kjell Spaens (1990) die eveneens 8/13 haalde en de nieuwe numero uno van de provincie is bij <2000 (tpr 1971). Verder haalden Serge Vanderwaeren en Frank Denys 7,5/13 en Walter De Reymaeker 7/13. Diederik Lot, Mo Taleb en ondergetekende moesten het stellen met de helft van de punten. Nochtans vertrok Diederik met 3,5/4 en overwinningen op onder meer Gorik Cools en Dennis Van Vliet (2135) en remise tegen Laurent Huynh (2194) als een trein. Daarna was het mooie liedje evenwel uit. Bij de jeugdspelers scoorden Mats Laureys en Felix Huyghe een fijne 4/13.
+In de laatste ronde deelde hij de punten met Kjell (1990) die eveneens 8/13 haalde en de nieuwe numero uno van de provincie is bij <2000 (tpr 1971). Verder haalden Serge en Frank 7,5/13, en Walter 7/13. Diederik, Mo en ondergetekende moesten het stellen met de helft van de punten. Nochtans vertrok Diederik met 3,5/4 en overwinningen op onder meer Gorik Cools en Dennis Van Vliet (2135) en remise tegen Laurent Huynh (2194) als een speer. Daarna was het mooie liedje evenwel uit. Bij de jeugdspelers scoorden Mats en Felix een fijne 4/13.
 
 ## Merci, merci, driewerf merci!
 
