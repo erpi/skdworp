@@ -34,7 +34,7 @@ Zo ging de zege verrassend naar de 69-jarige veteraan Ekrem Cekro. Hij verloor w
 
 ## Irene Sukander
 
-Tweevoudig winnaar van de Memorial Debast, Stéphane Hautot, kon in dit selecte gezelschap geen verlengstuk breien aan zijn huzarenstukje van de vorige jaren. Met 10/13 haalde hij desondanks samen met Alexandre Dgebuadze een gedeelde –fraaie- derde plaats. Hij verloor van Muñoz, Dgebuadze en Cekro maar won bijvoorbeeld wel van David Roos (2302). De andere nummer drie, Dgebuadze, miste zoals wel vaker, wat scherpte om echt mee te doen voor de hoogste trofee. Hij remiseerde tegen Lenaerts en Cools en verloor van Daniël Dardha en de vrouwelijke IM Irene Sukander. Deze laatste haalde met 9,5/13 een gedeelde vijfde plaats met onder meer een overwinning op Dgebuadze. Goed voor een tornooiprestatie van 2390 Elo!
+Tweevoudig winnaar van de Memorial Debast, Stéphane Hautot, kon in dit selecte gezelschap geen verlengstuk breien aan zijn huzarenstukje van de vorige jaren. Met 10/13 haalde hij desondanks samen met Alexandre Dgebuadze een gedeelde –fraaie- derde plaats. Hij verloor van Muñoz, Dgebuadze en Cekro maar won bijvoorbeeld wel van Adrian Roos (2302). De andere nummer drie, Dgebuadze, miste zoals wel vaker, wat scherpte om echt mee te doen voor de hoogste trofee. Hij remiseerde tegen Lenaerts en Cools en verloor van Daniël Dardha en de vrouwelijke IM Irene Sukander. Deze laatste haalde met 9,5/13 een gedeelde vijfde plaats met onder meer een overwinning op Dgebuadze. Goed voor een tornooiprestatie van 2390 Elo!
 
 ![foto 4][foto 4]
 
