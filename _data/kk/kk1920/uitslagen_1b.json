@@ -1,0 +1,212 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "04-10-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Lerinckx",
+        "zwart": "Tom Van Hoofstat"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Kristoff Bultijnck",
+        "zwart": "Walter De Reymaeker"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "18-10-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Walter De Reymaeker"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Tom Van Hoofstat",
+        "zwart": "Kristoff Bultijnck"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Niels Lerinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Jannes Vandevelde"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "15-11-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Lerinckx",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Kristoff Bultijnck",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Walter De Reymaeker",
+        "zwart": "Tom Van Hoofstat"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "22-11-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Tom Van Hoofstat"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Walter De Reymaeker"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Kristoff Bultijnck"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Niels Lerinckx"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "06-12-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Lerinckx",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Kristoff Bultijnck",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Walter De Reymaeker",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Tom Van Hoofstat",
+        "zwart": "Mats Laureys"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "20-12-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Tom Van Hoofstat"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Walter De Reymaeker"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Lerinckx",
+        "zwart": "Kristoff Bultijnck"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "17-01-2020",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Kristoff Bultijnck",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Walter De Reymaeker",
+        "zwart": "Niels Lerinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Tom Van Hoofstat",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Eric Cornelis"
+      }
+    ]
+  }
+]

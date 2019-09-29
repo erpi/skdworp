@@ -1,0 +1,212 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "04-10-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Stijn Beckers",
+        "zwart": "Matthias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Geert Verrijken"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "18-10-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Niels Palmans"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Matthias Vanrossum",
+        "zwart": "Sonja Van Der Voorde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Stijn Beckers"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "15-11-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Stijn Beckers",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Matthias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Serge Vanderwaeren"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "22-11-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Matthias Vanrossum",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Niels Palmans"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Stijn Beckers",
+        "zwart": "Sonja Van Der Voorde"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "06-12-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Stijn Beckers"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Matthias Vanrossum"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "20-12-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Matthias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Stijn Beckers",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Niels Palmans"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "17-01-2020",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Sonja Van Der Voorde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Stijn Beckers"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Matthias Vanrossum",
+        "zwart": "Peter De Bosscher"
+      }
+    ]
+  }
+]
