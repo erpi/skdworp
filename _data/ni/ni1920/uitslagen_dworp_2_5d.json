@@ -3,12 +3,12 @@
     "ronde": "ronde 1",
     "datum": "29-09-2019",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "229 Woluwe 2", "uit": "230 Leuven 5"},
-      {"tr": "", "ur": "", "thuis": "952 Wavre 4", "uit": "207 2 Fous Diogene 2"},
-      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "228 Dworp 2"},
-      {"tr": "", "ur": "", "thuis": "201 CREB 3", "uit": "114 Mechelen 6"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 5", "uit": "961 Braine 2"},
-      {"tr": "", "ur": "", "thuis": "244 Brussels 4", "uit": "239 Boitsfort 5"}
+      {"tr": "4", "ur": "0", "thuis": "229 Woluwe 2", "uit": "230 Leuven 5"},
+      {"tr": "2", "ur": "2", "thuis": "952 Wavre 4", "uit": "207 2 Fous Diogene 2"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "226 Europchess 4", "uit": "228 Dworp 2"},
+      {"tr": "2", "ur": "2", "thuis": "201 CREB 3", "uit": "114 Mechelen 6"},
+      {"tr": "3", "ur": "1", "thuis": "278 Pantin 5", "uit": "961 Braine 2"},
+      {"tr": "2", "ur": "2", "thuis": "244 Brussels 4", "uit": "239 Boitsfort 5"}
     ]
   },
   {

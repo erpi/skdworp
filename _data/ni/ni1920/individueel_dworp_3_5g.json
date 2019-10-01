@@ -1,0 +1,18 @@
+[
+  {
+    "ronde": "1",
+    "datum": "29-09-2019",
+    "thuis": "226 EUROPCHESS 5",
+    "uit": "228 DWORP 3",
+    "tscore": 1.0,
+    "uscore": 3.0,
+    "tgem": 1609,
+    "ugem": 1663,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Abrahamsen, Jesper", "uspeler": "Boutchon, Gaston", "telo": 1722, "uelo": 1868, "tstam": 94587, "ustam": 28606},
+      {"tr": "0", "ur": "1", "tspeler": "Prylinski, Robert", "uspeler": "Van Hoofstat, Sam", "telo": 1592, "uelo": 1866, "tstam": 17455, "ustam": 39101},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Serrano Samper, Sergio", "uspeler": "Taleb, Mohamad", "telo": 1513, "uelo": 1427, "tstam": 50146, "ustam": 64611},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Pereiro, Jorge", "uspeler": "Baert, Yves", "telo": 0, "uelo": 1490, "tstam": 21451, "ustam": 48721}
+    ]
+  }
+]

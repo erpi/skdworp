@@ -1,0 +1,20 @@
+[
+  {
+    "ronde": "1",
+    "datum": "29-09-2019",
+    "thuis": "226 EUROPCHESS 2",
+    "uit": "228 DWORP 1",
+    "tscore": 4.0,
+    "uscore": 2.0,
+    "tgem": 2031,
+    "ugem": 2008,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Perez De Aranda A., Leona", "uspeler": "Vanderwaeren, Serge", "telo": 2119, "uelo": 2110, "tstam": 17595, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Hannesson, Olafur", "uspeler": "Van Hoofstat, Tom", "telo": 2101, "uelo": 2082, "tstam": 15623, "ustam": 42706},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Mueller, Martin", "uspeler": "Spaens, Kjell", "telo": 2049, "uelo": 2019, "tstam": 50293, "ustam": 29343},
+      {"tr": "1", "ur": "0", "tspeler": "Johansson, Mattias", "uspeler": "Lot, Diederik", "telo": 2042, "uelo": 2007, "tstam": 10684, "ustam": 9954},
+      {"tr": "1", "ur": "0", "tspeler": "Ouaki, Mark", "uspeler": "De Reymaeker, Walter", "telo": 1870, "uelo": 1929, "tstam": 18047, "ustam": 34584},
+      {"tr": "0", "ur": "1", "tspeler": "Pozimski, Szymon", "uspeler": "Denys, Frank", "telo": 2005, "uelo": 1903, "tstam": 18072, "ustam": 21881}
+    ]
+  }
+]

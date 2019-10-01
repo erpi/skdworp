@@ -1,0 +1,18 @@
+[
+  {
+    "ronde": "1",
+    "datum": "29-09-2019",
+    "thuis": "226 EUROPCHESS 4",
+    "uit": "228 DWORP 2",
+    "tscore": 3.5,
+    "uscore": 0.5,
+    "tgem": 1801,
+    "ugem": 1644,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Bertram, Johannes", "uspeler": "Van De Velde, Filip", "telo": 1912, "uelo": 1723, "tstam": 60503, "ustam": 31682},
+      {"tr": "1", "ur": "0", "tspeler": "Frederiksen, Kristian Pad", "uspeler": "Palmans, Niels", "telo": 1822, "uelo": 1565, "tstam": 60007, "ustam": 17733},
+      {"tr": "1", "ur": "0", "tspeler": "Klymonchuk, Viktor", "uspeler": "Lerinckx, Niels", "telo": 1738, "uelo": 0, "tstam": 21453, "ustam": 12699},
+      {"tr": "1", "ur": "0", "tspeler": "Peyrebrune, Julien", "uspeler": "Vandevelde, Jannes", "telo": 1730, "uelo": 0, "tstam": 16660, "ustam": 19931}
+    ]
+  }
+]

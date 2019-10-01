@@ -1,0 +1,18 @@
+[
+  {
+    "ronde": "1",
+    "datum": "29-09-2019",
+    "thuis": "525 ANDERLUES 3",
+    "uit": "228 DWORP 4",
+    "tscore": 0,
+    "uscore": 4,
+    "tgem": 1180,
+    "ugem": 1830,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Wuillaume, Nathan", "uspeler": "Verrijken, Geert", "telo": 1266, "uelo": 1989, "tstam": 18828, "ustam": 62766},
+      {"tr": "0", "ur": "1", "tspeler": "Navez, Antoine", "uspeler": "De Bosscher, Peter", "telo": 1150, "uelo": 1836, "tstam": 15981, "ustam": 655},
+      {"tr": "0", "ur": "1", "tspeler": "Saclsmolder, John", "uspeler": "Vennekens, Camiel", "telo": 1150, "uelo": 1773, "tstam": 16127, "ustam": 37168},
+      {"tr": "0", "ur": "1", "tspeler": "De Nys, Noa", "uspeler": "Malfliet, Bernard", "telo": 1152, "uelo": 1722, "tstam": 17171, "ustam": 31348}
+    ]
+  }
+]
