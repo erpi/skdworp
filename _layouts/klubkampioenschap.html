@@ -70,12 +70,15 @@ bv. "2016" als waarde voor beginjaar geeft als waarde voor submap "kk1617"
   {% endif %}
 
   {% assign data = bestand[1] %}
+  {% assign reeks = bestand[0] | slice: -2,2 %}
+  {% assign id1 = "uitslag-" | append: reeks  %}
+  {% assign id2 = "kk-" | append: reeks  %}
   {% if bestand[0] contains "uitslagen" %}
-    {% include table-klubkampioenschap.html datafile=data jaar="" id="uitslag-01" %}
+    {% include table-klubkampioenschap.html datafile=data jaar="" id=id1 %}
   {% elsif bestand[0] contains "eindstand" %}
     {% include table-eindstand.html datafile=data %}
   {% elsif bestand[0] contains "tussenstand" %}
-    {% include table-tussenstand.html id="kk-01" %}
+    {% include table-tussenstand.html id=id2 %}
   {% elsif bestand[0] contains "xtra" %}
     <p>extra vrijdagen (zonder clubactiviteit)<br>
       ideaal om uitgestelde partijen in te halen, of om partijen vooraf te spelen
