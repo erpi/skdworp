@@ -1,10 +1,15 @@
 ---
 layout: default
 ---
-{{ content }}
+{% comment %}
+we definiëren een array met alle mogelijke bestandsnamen
+de volgorde in deze array bepaalt de volgorde van de tabs op de webpagina
+{% endcomment %}
+{% assign allebestandsnamen = "eindstand,tussenstand,uitslagen,eindstand_a,eindstand_b,eindstand_c,eindstand_d,tussenstand_a,tussenstand_b,tussenstand_c,tussenstand_d,uitslagen_a,uitslagen_b,uitslagen_c,uitslagen_d,eindstand_eind_a,eindstand_eind_b,eindstand_eind_c,eindstand_eind_d,uitslagen_eind_a,uitslagen_eind_b,uitslagen_eind_c,uitslagen_eind_d,eindstand_voor_a,eindstand_voor_b,eindstand_voor_c,eindstand_voor_d,uitslagen_voor_a,uitslagen_voor_b,uitslagen_voor_c, uitslagen_voor_d" %}
+{% assign allebestandsnamen = allebestandsnamen | split: "," %}
 
 {% comment %}
-we onderzoeken eerst of er kk-verslagen zijn voor het betreffende seizoen.
+we onderzoeken of er kk-verslagen zijn voor het betreffende seizoen.
 indien wel, dan wordt de variabele "posts" op "true" gezet.
 een seizoen start en eindigt op 1 september
 {% endcomment %}
@@ -26,64 +31,89 @@ een seizoen start en eindigt op 1 september
   {% endif %}
 {% endfor %}
 
+
 {% comment %}
 maak een variabele "submap" om de juiste kk map te zoeken in de directory _data/kk/
 bv. "2016" als waarde voor beginjaar geeft als waarde voor submap "kk1617"
 {% endcomment %}
 {% capture submap %}kk{{ page.beginjaar | slice: 2, 2 }}{{ page.beginjaar | plus: 1 | slice: 2, 2 }}{% endcapture %}
-{% assign bestanden = site.data.kk[submap] | sort %}
+
+{% assign bestanden = site.data.kk[submap] %}
+
 <ul class="nav nav-pills">
-  {% if posts %}
+{% assign tabs = "" | split: "," %}
+{% assign eerste = true %}
+
+{% if posts %}
   {% comment %}
   een extra tabblad "verslagen" maken
   {% endcomment %}
+  {% assign tabs = tabs | push: "verslagen" %}
   <li class="active">
     <a data-toggle="pill" href="#verslagen">verslagen</a>
   </li>
-  {% endif %}
-  {% comment %}
-  we maken de namen voor de overige tabs op basis van de bestandsnamen in de data directory
-  {% endcomment %}
-  {% for bestand in bestanden %}
-  {% assign tab = bestand[0] %}
-  <li{% if posts == false and forloop.first %} class="active"{% endif %}>
-    <a data-toggle="pill" href="#{{ tab }}">{{ tab }}</a>
-  </li>
-  {% endfor %}
-</ul>
-<div class="tab-content">
-{% if posts %}
-  {% include tab-pane-start.html href='verslagen' aktief=true %}
-  {% include verslagen-volgens-tag.html begintijd=begintijd eindtijd=eindtijd tag="kk" %}
-  {% include tab-pane-end.html %}
+  {% assign eerste = false %}
 {% endif %}
 
-{% for bestand in bestanden %}
+{% comment %}
+we itereren over alle mogelijke bestandsnamen en voegen een pill toe indien het bestand bestaat
+de bestandsnaam, waarvan alle underscores door spaces vervangen worden, wordt ook toegevoegd
+aan de array "tabs"  
+{% endcomment %}
+{% for tab in allebestandsnamen %}
+  {% if bestanden[tab] %}
+    {% assign tabs = tabs | push: tab %}
+    <li{% if eerste %} class="active"{% endif %}>
+      <a data-toggle="pill" href="#{{ tab }}">{{ tab | replace: "_"," " }}</a>
+    </li>
+    {% assign eerste = false %}
+  {% endif %}
+{% endfor %}
 
-  {% assign tab = bestand[0] %}
-  {% if posts %}
-    {% include tab-pane-start.html href=tab aktief=false %}
-  {% elsif forloop.first %}
+{% if content.size > 0 %}
+  {% comment %}
+  een extra tabblad "spelregels" op het einde toevoegen
+  {% endcomment %}
+  {% assign tabs = tabs | push: "spelregels" %}
+  <li{% if eerste %} class="active"{% endif %}>
+    <a data-toggle="pill" href="#spelregels">spelregels</a>
+  </li>
+  {% assign eerste = false %}
+{% endif %}
+</ul>
+
+<div class="tab-content">
+{% for tab in tabs %}
+  {% if forloop.first %}
     {% include tab-pane-start.html href=tab aktief=true %}
   {% else %}
     {% include tab-pane-start.html href=tab aktief=false %}
   {% endif %}
 
-  {% assign data = bestand[1] %}
-  {% assign reeks = bestand[0] | slice: -2,2 %}
-  {% assign id1 = "uitslag-" | append: reeks  %}
-  {% assign id2 = "kk-" | append: reeks  %}
-  {% if bestand[0] contains "uitslagen" %}
+  {% assign data = bestanden[tab] %}
+
+  {% if tab contains "verslagen" %}
+    {% include verslagen-volgens-tag.html begintijd=begintijd eindtijd=eindtijd tag="kk" %}
+  {% elsif tab contains "uitslagen" %}
+    {% if tab.size == 11 %}
+      {% assign reeks = tab | slice: -1,1 %}
+      {% assign id1 = "uitslag-1" | append: reeks %}
+    {% else %}
+      {% assign id1 = "uitslag-10" %}
+    {% endif %}
     {% include table-klubkampioenschap.html datafile=data jaar="" id=id1 %}
-  {% elsif bestand[0] contains "eindstand" %}
+  {% elsif tab contains "eindstand" %}
     {% include table-eindstand.html datafile=data %}
-  {% elsif bestand[0] contains "tussenstand" %}
+  {% elsif tab contains "tussenstand" %}
+    {% if tab.size == 13 %}
+      {% assign reeks = tab | slice: -1,1 %}
+      {% assign id2 = "kk-1" | append: reeks %}
+    {% else %}
+      {% assign id2 = "kk-10" %}
+    {% endif %}
     {% include table-tussenstand.html id=id2 %}
-  {% elsif bestand[0] contains "xtra" %}
-    <p>extra vrijdagen (zonder clubactiviteit)<br>
-      ideaal om uitgestelde partijen in te halen, of om partijen vooraf te spelen
-    </p>
-    {% include table-kk-extra-dagen.html datafile=data %}
+  {% elsif tab contains "spelregels" %}
+    {{ content }}
   {% endif %}
 
   {% include tab-pane-end.html %}
