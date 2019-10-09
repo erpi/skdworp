@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign alletabs = "eindstand,tussenstand,ronde_12,ronde_11,ronde_10,ronde_9,ronde_8,ronde_7,ronde_6,ronde_5,ronde_4,ronde_3,ronde_2,ronde_1,spelregels" %}
+{% assign alletabs = "eindstand,tussenstand,ronde_12,ronde_11,ronde_10,ronde_9,ronde_8,ronde_7,ronde_6,ronde_5,ronde_4,ronde_3,ronde_2,ronde_1" %}
 {% assign alletabs = alletabs | split: "," %}
 
 {% capture submap %}op{{ page.beginjaar | slice: 2, 2 }}{{ page.beginjaar | plus: 1 | slice: 2, 2 }}{% endcapture %}
@@ -19,7 +19,19 @@ layout: default
     {% assign eerste = false %}
   {% endif %}
 {% endfor %}
+
+{% if content.size > 0 %}
+  {% comment %}
+  een extra tabblad "spelregels" op het einde toevoegen
+  {% endcomment %}
+  {% assign tabs = tabs | push: "spelregels" %}
+  <li{% if eerste %} class="active"{% endif %}>
+    <a data-toggle="pill" href="#spelregels">spelregels</a>
+  </li>
+  {% assign eerste = false %}
+{% endif %}
 </ul>
+
 <div class="tab-content">
 {% for tab in tabs %}
   {% if forloop.first %}
@@ -31,7 +43,7 @@ layout: default
   {% if tab contains "ronde" %}
     {% include table-open.html datafile=data %}
   {% elsif tab contains "spelregels" %}
-    {{ content }}
+    {{ content | downcase }}
   {% elsif tab contains "eindstand" %}
     {% include table-op-eindstand.html datafile=data %}
   {% elsif tab contains "tussenstand" %}
