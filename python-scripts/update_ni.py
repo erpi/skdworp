@@ -24,20 +24,20 @@ import urllib2
 club = 'dworp'
 clubnummer = 228
 # huidig seizoen
-seizoen = "ni1819"
+seizoen = "ni1920"
 # ploegen = (1,) indien 1 ploeg in de interclubs
 # ploegen = (1, 2) indien 2 ploegen in de interclubs
 # ploegen = (1, 2, 3) indien 3 ploegen in de interclubs
-ploegen = (1, 2, 3)
+ploegen = (1, 2, 3, 4)
 # url voor locatie bestanden kbsb
-url_locatie = 'http://www.frbe-kbsb.be/sites/manager/ICN/18-19/'
+url_locatie = 'http://www.frbe-kbsb.be/sites/manager/ICN/19-20/'
 # dbase-bestand van kbsb (zit in zip-file)
 zip_input = 'Datas.zip'
 dbf_input = 'Datas/Part24L.DBF'
 # dictionary om scores uit dbase-bestand om te zetten in getallen
 score = {'0': 0, '0F': 0, '1': 1, '1F': 1, '0.5': 0.5}
 # excel-bestand van kbsb
-xls_input = 'NationaalInterclub2018-2019_Uitslagen.xlsm'
+xls_input = 'NationaalInterclub2019-2020_Uitslagen.xlsm'
 # worksheets in excel-bestand
 ws_ronden = ('R1', 'R2', 'R3', 'R4', 'R5', 'R6',
              'R7', 'R8', 'R9', 'R10', 'R11')
