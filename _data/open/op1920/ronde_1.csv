@@ -1,0 +1,45 @@
+wit,zwart,wr,zr
+partij 1,,,
+Serge Vanderwaeren,Kjell Spaens,1,0
+Walter De Reymaeker,Peter De Bosscher,1,0
+Pieter Ertveldt,Eddy Pletinckx,1,0
+Kristoff Bultijnck,Sander Lerinckx,1,0
+Stijn Beckers,Frank Van Overstraeten,1,0
+Niels Lerinckx,Felix Huyghe,1,0
+Jannes Vandevelde,Jonathan De Bosscher,1,0
+partij 2,,,
+Walter De Reymaeker,Serge Vanderwaeren,0.5,0.5
+Kjell Spaens,Jannes Vandevelde,1,0
+Peter De Bosscher,Eddy Pletinckx,0,1
+Kristoff Bultijnck,Pieter Ertveldt,0,1
+Sander Lerinckx,Frank Van Overstraeten,0,1
+Niels Lerinckx,Stijn Beckers,0,1
+Felix Huyghe,Jonathan De Bosscher,1,0
+Eric Cornelis,bye,,
+partij 3,,,
+Pieter Ertveldt,Stijn Beckers,1,0
+Serge Vanderwaeren,Kristoff Bultijnck,1,0
+Diederik Lot,Peter De Bosscher,1,0
+Kjell Spaens,Walter De Reymaeker,1,0
+Eric Cornelis,Felix Huyghe,1,0
+Eddy Pletinckx,Niels Lerinckx,1,0
+Jonathan De Bosscher,Sander Lerinckx,0,1
+Frank Van Overstraeten,Jannes Vandevelde,0.5,0.5
+partij 4,,,
+Serge Vanderwaeren,Pieter Ertveldt,1,0
+Stijn Beckers,Kjell Spaens,0,1
+Eddy Pletinckx,Eric Cornelis,0,1
+Frank Van Overstraeten,Walter De Reymaeker,0,1
+Jannes Vandevelde,Niels Lerinckx,1,0
+Felix Huyghe,Diederik Lot,0,1
+Jonathan De Bosscher,Kristoff Bultijnck,0,1
+Peter De Bosscher,Sander Lerinckx,1,0
+partij 5,,,
+Kjell Spaens,Serge Vanderwaeren,1,0
+Pieter Ertveldt,Eric Cornelis,1,0
+Walter De Reymaeker,Jannes Vandevelde,1,0
+Stijn Beckers,Eddy Pletinckx,0,1
+Kristoff Bultijnck,Diederik Lot,0,1
+Niels Lerinckx,Frank Van Overstraeten,0,1
+Sander Lerinckx,Felix Huyghe,0,1
+Peter De Bosscher,Jonathan De Bosscher,1,0
