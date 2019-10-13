@@ -74,6 +74,11 @@ fields:
   default: ''
   config:
     required: true
+- name: ni_d4_thuisploeg
+  type: text
+  config:
+    required: true
+  label: 'Ploeg 4: naam thuisploeg'
 - name: ni_d1_uitploeg
   label: 'Ploeg 1: naam bezoekers'
   type: text
@@ -95,6 +100,12 @@ fields:
   default: Dworp 3
   config:
     required: true
+- name: ni_d4_uitploeg
+  type: text
+  config:
+    required: true
+  label: 'Ploeg 4: naam bezoekers'
+  default: Dworp 4
 - name: excerpt_separator
   label: Excerpt separator
   type: text
