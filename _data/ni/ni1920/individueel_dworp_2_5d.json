@@ -14,5 +14,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Klymonchuk, Viktor", "uspeler": "Lerinckx, Niels", "telo": 1738, "uelo": 0, "tstam": 21453, "ustam": 12699},
       {"tr": "1", "ur": "0", "tspeler": "Peyrebrune, Julien", "uspeler": "Vandevelde, Jannes", "telo": 1730, "uelo": 0, "tstam": 16660, "ustam": 19931}
     ]
+  },
+  {
+    "ronde": "2",
+    "datum": "13-10-2019",
+    "thuis": "228 DWORP 2",
+    "uit": "201 CREB 3",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1646,
+    "ugem": 1541,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Bertrand, Stijn", "uspeler": "Aul, Dominik", "telo": 1726, "uelo": 1697, "tstam": 21253, "ustam": 21029},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Palmans, Niels", "uspeler": "Lhoir, Thierry", "telo": 1565, "uelo": 1614, "tstam": 17733, "ustam": 83879},
+      {"tr": "0", "ur": "1", "tspeler": "Huyghe, Felix", "uspeler": "Oliphant, Tim", "telo": 0, "uelo": 1555, "tstam": 17486, "ustam": 12390},
+      {"tr": "0", "ur": "1", "tspeler": "Beckers, Stijn", "uspeler": "Mc Hale, Andre", "telo": 0, "uelo": 1299, "tstam": 17472, "ustam": 61778}
+    ]
   }
 ]

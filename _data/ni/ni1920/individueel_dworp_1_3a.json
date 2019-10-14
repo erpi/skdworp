@@ -16,5 +16,23 @@
       {"tr": "1", "ur": "0", "tspeler": "Ouaki, Mark", "uspeler": "De Reymaeker, Walter", "telo": 1870, "uelo": 1929, "tstam": 18047, "ustam": 34584},
       {"tr": "0", "ur": "1", "tspeler": "Pozimski, Szymon", "uspeler": "Denys, Frank", "telo": 2005, "uelo": 1903, "tstam": 18072, "ustam": 21881}
     ]
+  },
+  {
+    "ronde": "2",
+    "datum": "13-10-2019",
+    "thuis": "228 DWORP 1",
+    "uit": "952 WAVRE 1",
+    "tscore": 2.5,
+    "uscore": 3.5,
+    "tgem": 2023,
+    "ugem": 2064,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren, Serge", "uspeler": "Anciaux, Marc", "telo": 2110, "uelo": 2130, "tstam": 20621, "ustam": 92894},
+      {"tr": "0", "ur": "1", "tspeler": "Van Hoofstat, Tom", "uspeler": "Wettach, Michel", "telo": 2082, "uelo": 2092, "tstam": 42706, "ustam": 62286},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Spaens, Kjell", "uspeler": "Depauw, Christian", "telo": 2019, "uelo": 2089, "tstam": 29343, "ustam": 79294},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verrijken, Geert", "uspeler": "Hawia, Thierry", "telo": 1989, "uelo": 2005, "tstam": 62766, "ustam": 46710},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lot, Diederik", "uspeler": "Verhaegen, Albert", "telo": 2007, "uelo": 2050, "tstam": 9954, "ustam": 1473},
+      {"tr": "0", "ur": "1", "tspeler": "De Reymaeker, Walter", "uspeler": "Miulescu, Gabriel", "telo": 1929, "uelo": 2020, "tstam": 34584, "ustam": 19476}
+    ]
   }
 ]

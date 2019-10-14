@@ -14,5 +14,21 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Serrano Samper, Sergio", "uspeler": "Taleb, Mohamad", "telo": 1513, "uelo": 1427, "tstam": 50146, "ustam": 64611},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Pereiro, Jorge", "uspeler": "Baert, Yves", "telo": 0, "uelo": 1490, "tstam": 21451, "ustam": 48721}
     ]
+  },
+  {
+    "ronde": "2",
+    "datum": "13-10-2019",
+    "thuis": "228 DWORP 3",
+    "uit": "204 EXCELSIOR 1",
+    "tscore": 4,
+    "uscore": 0,
+    "tgem": 1749,
+    "ugem": 1483,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Boutchon, Gaston", "uspeler": "Palazoski, Elvir", "telo": 1868, "uelo": 1622, "tstam": 28606, "ustam": 14766},
+      {"tr": "1", "ur": "0", "tspeler": "Van Hoofstat, Sam", "uspeler": "Burnay, Gerard", "telo": 1866, "uelo": 1637, "tstam": 39101, "ustam": 92452},
+      {"tr": "1", "ur": "0", "tspeler": "Vennekens, Camiel", "uspeler": "Azzoug, Samir", "telo": 1773, "uelo": 1402, "tstam": 37168, "ustam": 77275},
+      {"tr": "1", "ur": "0", "tspeler": "Baert, Yves", "uspeler": "Maury, Etienne", "telo": 1490, "uelo": 1271, "tstam": 48721, "ustam": 20535}
+    ]
   }
 ]
