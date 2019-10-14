@@ -6,8 +6,6 @@ if sys.version_info[0] != 2 or sys.version_info[1] < 7:
     sys.exit("This script requires Python version 2.7; you're runnning " +
              ".".join(str(x) for x in sys.version_info))
 
-# openpyxl needs jdcal
-#from openpyxl import load_workbook
 from collections import OrderedDict
 from zipfile import ZipFile
 import argparse
@@ -29,6 +27,8 @@ seizoen = "ni1920"
 # ploegen = (1, 2) indien 2 ploegen in de interclubs
 # ploegen = (1, 2, 3) indien 3 ploegen in de interclubs
 ploegen = (1, 2, 3, 4)
+# reeksnamen
+reeksnamen = ('3a', '5d', '5g', '5i')
 # url voor locatie bestanden kbsb
 url_locatie = 'http://www.frbe-kbsb.be/sites/manager/ICN/19-20/'
 # dbase-bestand van kbsb (zit in zip-file)
@@ -44,11 +44,11 @@ ws_ronden = ('R1', 'R2', 'R3', 'R4', 'R5', 'R6',
 # cellen in excel-bestand, wijzigt elk seizoen indien reeks waarin
 # ploegen spelen, wijzigt. Eerste veld is steeds voor Dworp 1, tweede
 # voor Dworp 2, lege string indien geen Dworp 2
-cell_ranking_begin = ('A92', 'A107', 'A392')
-cell_ranking_eind = ('Q104', 'Q119', 'Q404')
-cell_uitslag_begin = ('A24', 'G24', 'M72')
-cell_uitslag_eind = ('E29', 'K29', 'Q77')
-cell_datum = ('H5', '')
+cell_ranking_begin = ('A47', 'A272', 'A317', 'A347')
+cell_ranking_eind = ('Q59', 'Q284', 'Q329', 'Q359')
+cell_uitslag_begin = ('A16', 'A56', 'A64', 'M64')
+cell_uitslag_eind = ('E21', 'E61', 'E69', 'Q69')
+cell_datum = 'H5'
 # ni_dir is de directory voor alle data van seizoen
 cur_dir = os.path.abspath(os.curdir)
 ni_dir = os.path.join(cur_dir, "..", "_data", "ni", seizoen)
@@ -73,6 +73,15 @@ log_locatie = "/var/log"
 lib_locate = "/var/lib/update_ni"
 log_file = 'update_ni.log'
 
+verbeter_team_namen = [
+    ('Dzd', 'DZD'),
+    ('Kgsrl', 'KGSRL'),
+    ('Creb', 'CREB'),
+    ('Tsm', 'TSM'),
+    ('O/D', 'o/d'),
+    ('000 Bye 5I', 'Bye'),
+    ]
+
 
 def maak_csv_ranking(verbose=False):
     wb = load_workbook(xls_input, data_only=True)
@@ -92,7 +101,7 @@ def maak_csv_ranking(verbose=False):
             string_list.append(l)
         # schrijf csv-bestand
         bestandsnaam = os.path.join(
-            ni_dir, 'tussenstand_{0}_{1}.csv'.format(club, ploeg))
+            ni_dir, 'tussenstand_{0}_{1}_{2}.csv'.format(club, ploeg, reeksnamen[i]))
         logger.debug(string_list)
         backup_vorig_bestand(bestandsnaam)
         with open(bestandsnaam, 'wb') as csvfile:
@@ -107,17 +116,20 @@ def maak_json_ploeg_uitslagen(verbose=False):
         for n, worksheet in enumerate(ws_ronden):
             ws = wb[worksheet]
             try:
-                datum = ws[cell_datum[i]].value.strftime('%d-%m-%Y')
+                datum = ws[cell_datum].value.strftime('%d-%m-%Y')
             except:
                 # hack voor 11de ronde
-                datum = ws[cell_datum[i]].value[:10].replace('/', '-')
+                datum = ws[cell_datum].value[:10].replace('/', '-')
             ronde = OrderedDict(
                 [("ronde", "ronde %d" % (n + 1,)), ("datum", datum)])
             matches = []
             cell_range = ws[cell_uitslag_begin[i]:cell_uitslag_eind[i]]
             for row in cell_range:
-                team1 = row[0].value.lower()
-                team2 = row[1].value.lower()
+                team1 = row[0].value.title()
+                team2 = row[1].value.title()
+                for k, v in verbeter_team_namen:
+                    team1 = team1.replace(k, v)
+                    team2 = team2.replace(k, v)
                 if row[2].value is not None:
                     team1_res = str(row[2].value)
                 else:
@@ -145,7 +157,7 @@ def maak_json_ploeg_uitslagen(verbose=False):
         logger.debug(json_string)
         # schrijf json-bestand
         bestandsnaam = os.path.join(
-            ni_dir, 'uitslagen_{0}_{1}.json'.format(club, ploeg))
+            ni_dir, 'uitslagen_{0}_{1}_{2}.json'.format(club, ploeg, reeksnamen[i]))
         backup_vorig_bestand(bestandsnaam)
         with open(bestandsnaam, 'w') as f:
             f.write(json_string)
@@ -264,9 +276,10 @@ def maak_json_individuele_uitslagen(verbose=False):
         json_string = p.sub(r'\1\2 \3 \4 \5 \6 \7 \8 \9\10', json_string)
         logger.debug(json_string)
         # write json string to file
+        i = int(team.split()[-1]) - 1
         bestandsnaam = os.path.join(
-            ni_dir, 'individueel_{0}.json'.format(
-                team.lower().replace(' ', '_')))
+            ni_dir, 'individueel_{0}_{1}.json'.format(
+                team.lower().replace(' ', '_'), reeksnamen[i]))
         backup_vorig_bestand(bestandsnaam)
         with open(bestandsnaam, 'w') as f:
             f.write(json_string)
@@ -379,10 +392,12 @@ if __name__ == "__main__":
     args = parser.parse_args()
     logger = start_logging(args.verbose)
     if args.ploegen or args.alles:
+        # openpyxl needs jdcal
+        from openpyxl import load_workbook
         try:
             download_nieuwe_versie_bestand(xls_input, args.verbose)
             if os.path.isfile(xls_input):
-                maak_csv_ranking(args.verbose)
+                #maak_csv_ranking(args.verbose)
                 maak_json_ploeg_uitslagen(args.verbose)
         finally:
             try:
