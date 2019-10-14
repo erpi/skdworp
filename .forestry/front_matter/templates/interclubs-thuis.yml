@@ -144,4 +144,5 @@ fields:
   label: draft
   default: true
 pages:
+- _posts/het-werkt-niet-of-toch.md
 - _posts/test-2.md
