@@ -6,7 +6,7 @@ ni_d2_thuisploeg: Dworp 2
 ni_d3_thuisploeg: Dworp 3
 excerpt_separator: "<!--more-->"
 title: 'Geen enkel winstpunt op 14 partijen: balen als een stekker'
-author: Diederik,Geert,Camiel, Tom
+auteur: Diederik,Geert,Camiel, Tom
 fotograaf: Yves
 date: 2019-02-25 00:00:00 +0100
 ni_ronde: 8

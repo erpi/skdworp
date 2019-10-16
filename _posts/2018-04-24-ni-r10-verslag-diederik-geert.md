@@ -6,7 +6,7 @@ ni_d2_thuisploeg: Lasne-Waterloo 2
 ni_d2_uitploeg: Dworp 2
 ni_ronde: 10
 title: 'Klasse, karakter, kennis, kunde &amp; konijnenpoot: Dworp in actie'
-author: Diederik,Eric,Geert
+auteur: Diederik,Eric,Geert
 stelling_fen: '8/5p2/3bp1p1/3k2P1/1p1P1P2/p2KP3/8/2N5 b - - 0 1'
 stelling_titel: 
 stelling_wit: Verschueren

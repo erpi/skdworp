@@ -5,7 +5,7 @@ ni_d1_thuisploeg: Wetteren 2
 ni_d1_uitploeg: Dworp 1
 ni_ronde: '11'
 title: Onverwacht vlotte overwinning sluit zorgeloos seizoen af
-author: Geert
+auteur: Geert
 fotograaf: Diederik
 stelling_fen: ''
 stelling_titel: ''

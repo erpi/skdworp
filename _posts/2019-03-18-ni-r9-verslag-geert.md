@@ -7,7 +7,7 @@ ni_d3_uitploeg: Dworp 3
 excerpt_separator: "<!--more-->"
 draft: false
 title: "Hoger, nog hoger en helaas ook lager, nog lager"
-author: Geert,Eric,Tom,Yves
+auteur: Geert,Eric,Tom,Yves
 fotograaf: Walter,Yves,Geert
 date: 2019-03-17 00:00:00 +0100
 ni_ronde: 9

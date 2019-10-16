@@ -6,7 +6,7 @@ ni_d2_uitploeg: Dworp 2
 ni_d3_uitploeg: Dworp 3
 excerpt_separator: "<!--more-->"
 title: Valse noten om af te sluiten & team 2 terug naar af
-author: Eric,Geert
+auteur: Eric,Geert
 fotograaf: Tom
 date: 2019-04-28 21:00:00 +0200
 ni_ronde: 11

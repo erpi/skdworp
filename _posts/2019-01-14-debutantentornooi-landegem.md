@@ -4,7 +4,7 @@ layout: verslag
 tag: varia
 excerpt_separator: "<!--more-->"
 date: 2019-01-14 20:00:00 +0100
-author: Diederik
+auteur: Diederik
 stelling_fen: ''
 stelling_titel: ''
 stelling_wit: ''

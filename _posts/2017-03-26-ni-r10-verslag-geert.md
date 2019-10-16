@@ -5,7 +5,7 @@ ni_d1_thuisploeg: Dworp 1
 ni_d1_uitploeg: Brussels 1
 ni_ronde: '10'
 title: 'Carnaval overal, er staat een paard in de gang'
-author: Geert
+auteur: Geert
 fotograaf: Diederik
 stelling_fen: ''
 stelling_titel: ''

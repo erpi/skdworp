@@ -8,7 +8,7 @@ ni_d3_thuisploeg: Dworp 3
 ni_d3_uitploeg: Mechelen 9
 ni_ronde: 1
 title: "Halse hoogdagen aan het schaakbord"
-author: Geert,Diederik
+auteur: Geert,Diederik
 fotograaf: 
 date: 2018-10-01 21:30:00 +0100
 layout: verslag

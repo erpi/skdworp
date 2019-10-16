@@ -8,7 +8,7 @@ ni_d3_uitploeg: Dworp 3
 excerpt_separator: "<!--more-->"
 draft1: true
 date: 2018-12-03 20:00:50 +0100
-author: Diederik,Geert
+auteur: Diederik,Geert
 fotograaf: Diederik,Peter,Geert,Yves
 ni_ronde: 5
 ni_d1_thuisploeg: Caissa Europe 1

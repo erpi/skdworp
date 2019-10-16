@@ -4,7 +4,7 @@ ni_d2_thuisploeg: Pantin 4
 ni_d2_uitploeg: Dworp 2
 ni_ronde: 1
 title: Hop, hop, hop ploeg twee, spoel ze door ’t wc!
-author: Geert
+auteur: Geert
 fotograaf:
 date: 2017-09-25 20:00:00 +0100
 layout: verslag

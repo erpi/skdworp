@@ -7,7 +7,7 @@ ni_d2_uitploeg: Dworp 2
 ni_d3_uitploeg: Dworp 3
 excerpt_separator: "<!--more-->"
 date: 2018-10-08 00:00:00 +0000
-author: Geert,Eric,Tom,Walter
+auteur: Geert,Eric,Tom,Walter
 fotograaf: Yves,Walter,Geert
 ni_ronde: 2
 ni_d1_thuisploeg: Mechelen 2

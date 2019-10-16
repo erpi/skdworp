@@ -6,7 +6,7 @@ ni_d2_thuisploeg: Woluwe 2
 ni_d2_uitploeg: Dworp 2
 ni_ronde: 3
 title: "Met de V van Victorie : de tegenstand (hahaha) in de pan gehakt"
-author: Eric,Geert
+auteur: Eric,Geert
 fotograaf: 
 date: 2017-10-23 21:30:00 +0100
 layout: verslag

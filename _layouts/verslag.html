@@ -21,8 +21,8 @@ layout: compress
           <div class="grijs">
             {% include social.html %}
           </div>
-          <h2>door {{ page.author | replace: ',', ', ' | downcase}}
-          {% if page.fotograaf and page.fotograaf != page.author %}
+          <h2>door {{ page.auteur | replace: ',', ', ' | downcase}}
+          {% if page.fotograaf and page.fotograaf != page.auteur %}
           <small> (foto's {{ page.fotograaf | replace: ',', ', ' | downcase }})</small>
           {% endif %}
           </h2>

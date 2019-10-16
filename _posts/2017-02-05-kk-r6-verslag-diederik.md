@@ -3,7 +3,7 @@ description: 'In ronde 6 van het klubkampioenschap speelde 10 man en ook al sta 
 tag: kk
 kk_ronde: '6'
 title: 'Zwaargewicht'
-author: Diederik
+auteur: Diederik
 fotograaf: Diederik
 stelling_fen: ''
 stelling_titel: ''

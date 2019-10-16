@@ -2,7 +2,7 @@
 description: In Huizingen wist Internationaal Meester Stéphane Hautot voor de tweede opeenvolgende keer de titel van Belgisch blitz-kampioen in de wacht te slepen.
 tag: mm
 title: Internationaal Meester Stéphane Hautot ook in 2018 Belgisch blitz-kampioen
-author: Geert
+auteur: Geert
 fotograaf: Yves,Walter
 layout: verslag
 excerpt_separator: <!--more-->

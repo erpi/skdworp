@@ -20,7 +20,7 @@ feed: true
     {% assign tag =  post.tag %}
   {% endif %}
 
-  {% assign medewerkers = post.author | append: "," | append: post.fotograaf | split: "," %}
+  {% assign medewerkers = post.auteur | append: "," | append: post.fotograaf | split: "," %}
   {% assign temp_werkers = '' | split: '' %}
   {% for persoon in medewerkers %}
     {% assign medewerker = persoon | strip | downcase %}

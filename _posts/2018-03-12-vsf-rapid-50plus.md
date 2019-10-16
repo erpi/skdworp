@@ -2,7 +2,7 @@
 _id: 56310360-082e-11e7-9207-01a5b35c40b5
 tag: varia
 title: Krasse knarren laten het afweten, Roofthoofd wint op 1 been
-author: Geert
+auteur: Geert
 date: '2018-03-12T20:30:00.000Z'
 layout: verslag
 excerpt_separator: <!--more-->

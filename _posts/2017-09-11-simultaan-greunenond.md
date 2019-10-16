@@ -3,7 +3,7 @@ _id: b6d09090-9727-11e7-95a2-43a227ec48a6
 description: Afgelopen zaterdag 9 september hadden we de eer om voor het eerst voet aan grond te zetten in ons nieuwe interclublokaal De Greunenond.
 tag: varia
 title: Gemoedelijk & gezellig simultaanschaken in De Greunenond
-author: Geert
+auteur: Geert
 fotograaf: Julien
 date: '2017-09-11T19:30:48.880Z'
 layout: verslag

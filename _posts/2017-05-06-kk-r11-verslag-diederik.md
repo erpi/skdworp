@@ -3,7 +3,7 @@ description: De laatste ronde van het KK weeral, maar het blijft spannend daar e
 tag: kk
 kk_ronde: '11'
 title: 'Geert neemt de leiding na verrassende laatste ronde'
-author: Diederik
+auteur: Diederik
 fotograaf: Diederik
 stelling_fen: '2R5/3r1k1p/p2p1p2/1p5P/1n3B2/1P6/1r4P1/4R1K1 w - -'
 stelling_titel: 'Wit speelt en geeft mat in enkele zetten'

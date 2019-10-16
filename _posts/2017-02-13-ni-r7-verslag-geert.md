@@ -7,7 +7,7 @@ ni_d1_uitploeg: Europchess 2
 ni_ronde: '7'
 kk_ronde: ''
 title: Slordig smossen met kansen en nodeloos puntenverlies
-author: Geert
+auteur: Geert
 stelling_fen: r4rk1/2p2ppp/p1n1p3/1P6/1n1PQ1bq/1B4N1/1PP2PPP/RN2K2R b KQ
 stelling_titel: Subliem uitbuiten van kleine zwaktes
 stelling_wit: Johansson

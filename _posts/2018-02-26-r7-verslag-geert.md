@@ -4,7 +4,7 @@ ni_d1_thuisploeg: Mechelen 1
 ni_d1_uitploeg: Dworp 1
 ni_ronde: 7
 title: De parabel van het beste paard en de haver
-author: Diederik,Geert
+auteur: Diederik,Geert
 date: 2018-02-26 22:00:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->

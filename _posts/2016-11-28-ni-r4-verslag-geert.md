@@ -2,7 +2,7 @@
 tag: ni
 layout: verslag
 excerpt_separator: <!--more-->
-author: Geert
+auteur: Geert
 ni_ronde: 4
 ni_d1_thuisploeg: soignies 1
 ni_d1_uitploeg: dworp 1

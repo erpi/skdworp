@@ -7,7 +7,7 @@ ni_d1_uitploeg: Dworp 1
 ni_ronde: '8'
 kk_ronde: ''
 title: Gesneuveld op het veld van eer
-author: Geert
+auteur: Geert
 stelling_fen: 4k1r1/ppq2p2/1b2pp2/3p3p/2P1r3/1PQ2NP1/1P3P1P/3R1RK1 w-
 stelling_titel: Open lijnen en sterke torens
 stelling_wit: Vanobbergh

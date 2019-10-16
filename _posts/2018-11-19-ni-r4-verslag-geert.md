@@ -7,7 +7,7 @@ ni_d2_thuisploeg: Dworp 2
 ni_d3_thuisploeg: Dworp 3
 excerpt_separator: "<!--more-->"
 date: 2018-11-19 20:04
-author: Diederik,Tom,Eric,Geert
+auteur: Diederik,Tom,Eric,Geert
 fotograaf: Diederik
 ni_ronde: 4
 ni_d1_uitploeg: Dworp 1

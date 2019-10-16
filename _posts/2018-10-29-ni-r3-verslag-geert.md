@@ -7,7 +7,7 @@ ni_d2_uitploeg: Dworp 2
 ni_d3_uitploeg: Dworp 3
 excerpt_separator: "<!--more-->"
 date: 2018-10-29 21:00:00 +0100
-author: Geert,Diederik,Tom,Frank
+auteur: Geert,Diederik,Tom,Frank
 fotograaf: Geert,Diederik,Yves
 ni_ronde: 3
 ni_d1_thuisploeg: Dworp 1

@@ -6,7 +6,7 @@ ni_d2_thuisploeg: Dworp 2
 ni_d2_uitploeg: DZD Halle 1
 ni_ronde: 6
 title: "Dworp op strooptocht: kampfschweinen met een konijnenpoot"
-author: Eric,Geert
+auteur: Eric,Geert
 date: 2018-02-05 22:00:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->

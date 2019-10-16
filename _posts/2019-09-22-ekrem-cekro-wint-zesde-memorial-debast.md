@@ -2,7 +2,7 @@
 description: Niet de gedoodverfde favoriet, de Spaanse grootmeester Miguel Muñoz (blitz-Elo 2611!) maar oude krijger Ekrem Cekro (2371) won afgelopen zaterdag de zesde editie van de Memorial Debast.
 tag: mm
 title: Ekrem Cekro wint verrassend zesde Memorial Debast
-author: Geert
+auteur: Geert
 fotograaf: Yves,Eddy,Walter
 layout: verslag
 excerpt_separator: <!--more-->

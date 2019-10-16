@@ -7,7 +7,7 @@ ni_d3_thuisploeg: Dworp 3
 ni_d4_thuisploeg: Dworp 4
 excerpt_separator: "<!--more-->"
 title: Schaken in Essenbeek, het voelt aan als thuiskomen
-author: Geert,Gaston
+auteur: Geert,Gaston
 fotograaf: Yves
 date: 2019-10-14 21:00:00 +0200
 ni_ronde: "2"

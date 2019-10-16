@@ -4,7 +4,7 @@ layout: verslag
 tag: varia
 excerpt_separator: "<!--more-->"
 date: 2019-09-09 10:00:00 +0100
-author: Geert, Eric, Diederik
+auteur: Geert, Eric, Diederik
 fotograaf: Pieter
 stelling_fen: 'k4r2/pb2q3/1p1QP3/2P5/P2P1p2/R5pp/3N2P1/6K1 b - - 0 1'
 stelling_titel: 'het bos en de bomen'

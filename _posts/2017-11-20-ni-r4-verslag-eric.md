@@ -6,7 +6,7 @@ ni_d2_thuisploeg: Dworp 2
 ni_d2_uitploeg: CREB 3
 ni_ronde: 4
 title: Zwarte zondag
-author: Eric
+auteur: Eric
 stelling_fen: 2k5/8/1P6/1PP1p3/4P1pp/4Kp2/5P1P/8 w - -
 stelling_titel: Combinatie van de dag
 stelling_wit: Vasile-Bonciog

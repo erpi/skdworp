@@ -6,7 +6,7 @@ ni_d2_thuisploeg: Dworp 2
 ni_d2_uitploeg: Braine l’Alleud 2
 ni_ronde: 8
 title: Tussen mes en keel. Treurnis en euforie in de Greunenond
-author: Diederik,Eric,Geert
+auteur: Diederik,Eric,Geert
 stelling_fen: '2q3rk/4pp2/3p3b/p2Q3B/Pp5N/7P/1P2RPPK/2r5 b - - 0 1'
 stelling_titel: Het gemiste dameoffer
 stelling_wit: Furnelle

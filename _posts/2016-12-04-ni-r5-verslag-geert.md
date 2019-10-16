@@ -2,7 +2,7 @@
 tag: ni
 layout: verslag
 excerpt_separator: <!--more-->
-author: Geert
+auteur: Geert
 ni_ronde: 5
 ni_d1_thuisploeg: dworp 1
 ni_d1_uitploeg: temse 2

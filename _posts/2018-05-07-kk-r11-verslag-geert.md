@@ -3,7 +3,7 @@ description: 'Met nog twee ronden voor de boeg is het hoog tijd om een stand van
 tag: kk
 kk_ronde: '11'
 title: Sterk bezet kampioenschap kan nog alle kanten uit
-author: Geert
+auteur: Geert
 date: 2018-05-07 21:00:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->

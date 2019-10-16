@@ -7,7 +7,7 @@ ni_d3_uitploeg: Dworp 3
 ni_d4_uitploeg: Dworp 4
 excerpt_separator: "<!--more-->"
 title: 'Hoogtes en laagtes kenmerken seizoenbegin'
-author: Geert,Gaston,Filip,Tom,Walter,Frank
+auteur: Geert,Gaston,Filip,Tom,Walter,Frank
 date: 2019-09-30 00:00:00 +0200
 ni_ronde: "1"
 ni_d1_thuisploeg: Europchess 2

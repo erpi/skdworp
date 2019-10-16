@@ -6,7 +6,7 @@ ni_d1_thuisploeg: Wavre 1
 ni_d1_uitploeg: Dworp 1
 ni_ronde: '6'
 title: 'Hard gevochten, broek net iets tekort'
-author: Geert
+auteur: Geert
 stelling_fen: 'r3k2r/pp1b2pp/1qnbpn2/3p2B1/3P4/2NB1N2/PP3PPP/R2Q1RK1 b - -'
 stelling_titel: 'Een fraai offer van de dame'
 stelling_wit: 'Anciaux'

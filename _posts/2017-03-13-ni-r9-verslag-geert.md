@@ -7,7 +7,7 @@ ni_d1_uitploeg: Dworp 1
 ni_ronde: '9'
 kk_ronde: ''
 title: 'Vechtlust, kampzwijnen en een konijnenpootje'
-author: Geert
+auteur: Geert
 stelling_fen: 8/3B4/pp6/2b2pp1/P1K2k1p/5P1P/8/8 b - - 0 39
 stelling_titel: 'Het konijnenpootje'
 stelling_wit: Diederik

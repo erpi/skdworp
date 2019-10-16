@@ -6,7 +6,7 @@ ni_d2_thuisploeg: Dworp 2
 ni_d3_thuisploeg: Dworp 3
 excerpt_separator: "<!--more-->"
 title: 'Hoogdagen in Dworp: zeven winstpunten, zes remises en amper één nul'
-author: Diederik,Geert
+auteur: Diederik,Geert
 date: 2019-02-04 20:00:00 +0100
 ni_ronde: 6
 ni_d1_uitploeg: Tournai 1

@@ -6,7 +6,7 @@ ni_d2_thuisploeg: Nivelles 1
 ni_d2_uitploeg: Dworp 2
 ni_ronde: 5
 title: Met gemengde gevoelens de winterstop in
-author: Diederik,Geert
+auteur: Diederik,Geert
 stelling_fen: 8/p1p2p2/1p1p1P1K/6P1/2PP1pk1/2P4R/P7/4r3 w - - 0 1
 stelling_titel: Combinatie van de dag
 stelling_wit: Eric

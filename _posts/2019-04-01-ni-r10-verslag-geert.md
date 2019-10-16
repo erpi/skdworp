@@ -6,7 +6,7 @@ ni_d2_thuisploeg: Dworp 2
 ni_d3_thuisploeg: Dworp 3
 excerpt_separator: "<!--more-->"
 title: "Hoop op brons en behoud groeit weer na puike prestaties"
-author: Eric,Geert
+auteur: Eric,Geert
 date: 2019-04-01 00:00:00 +0200
 ni_ronde: 10
 ni_d1_uitploeg: Aalst 1

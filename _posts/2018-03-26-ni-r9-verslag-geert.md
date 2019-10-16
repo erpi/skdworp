@@ -6,7 +6,7 @@ ni_d2_thuisploeg: Dworp 2
 ni_d2_uitploeg: Wavre 3
 ni_ronde: 9
 title: "’t Is moeilijk bescheiden te blijven, wanneer je zo goed bent als wij. Jaja."
-author: Eric,Geert
+auteur: Eric,Geert
 stelling_fen: '2krr3/ppp3pp/2n2b2/3q2N1/4p3/8/PPPBQPPP/3RR1K1 b - - 0 1'
 stelling_titel: Het enigmatisch zetje
 stelling_wit: Zamparo

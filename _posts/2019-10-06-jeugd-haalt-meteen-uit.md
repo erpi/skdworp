@@ -3,7 +3,7 @@ description: 'Vrijdag startte het clubkampioenschap. Dit jaar hebben we maar lie
 tag: kk
 kk_ronde: '1'
 title: Jeugd haalt meteen uit
-author: Diederik
+auteur: Diederik
 date: 2019-10-06 21:00:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->
