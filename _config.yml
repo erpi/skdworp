@@ -16,14 +16,19 @@
 title: Dworpse Schaakkring
 author: Dworpse Schaakkring
 email: info@skdworp.be
-# twitter:
-#   username: skdworp
+twitter:
+  username: skdworp
+  card: summary_large_image
+facebook:
+  admins: "730802366,1119831715"
 social:
   name: Dworpse Schaakkring
   links:
     - https://twitter.com/skdworp
     - https://www.facebook.com/skdworp
 logo: "/assets/images/logo-dworp.png"
+# volgende lijn voor het instellen van og:locale meta data in de header
+lang: nl_BE
 baseurl: ""
 url: "https://www.skdworp.be"
 repository: "erpi/skdworp"
