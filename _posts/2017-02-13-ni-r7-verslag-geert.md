@@ -1,5 +1,4 @@
 ---
-_id: 35f60550-f22b-11e6-aa4c-d72dbee07ea5
 description: 'Bij winst in onze thuismatch tegen de Eurocraten uit Brussel is behoud in derde afdeling zo goed als verworven. Ongetwijfeld dacht de tegenstander hetzelfde.'
 tag: ni
 ni_d1_thuisploeg: Dworp 1

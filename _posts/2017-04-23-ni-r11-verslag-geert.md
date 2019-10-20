@@ -1,5 +1,4 @@
 ---
-_id: 614d2e00-2867-11e7-8592-dd4afdea08e8
 tag: ni
 ni_d1_thuisploeg: Wetteren 2
 ni_d1_uitploeg: Dworp 1

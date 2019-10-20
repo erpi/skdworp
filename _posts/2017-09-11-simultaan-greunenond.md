@@ -1,5 +1,4 @@
 ---
-_id: b6d09090-9727-11e7-95a2-43a227ec48a6
 description: Afgelopen zaterdag 9 september hadden we de eer om voor het eerst voet aan grond te zetten in ons nieuwe interclublokaal De Greunenond.
 tag: varia
 title: Gemoedelijk & gezellig simultaanschaken in De Greunenond
@@ -36,7 +35,7 @@ Na afloop waren de mannen van de Greunenond tevreden en wij ook. Dit bleek een u
 
 Een datum die je zeker in je agenda moet plaatsen is zaterdag 7 oktober. De Greunenond organiseert dan zijn jaarlijkse **mosselkermis** waar we natuurlijk graag talrijk aanwezig willen zijn. We krijgen hun lokaal immers gratis ter beschikking.
 
-Voor wie er geen genoeg van krijgt: 
+Voor wie er geen genoeg van krijgt:
 * [de internetkrant van Sint-Pieters-Leeuw postte de dag zelf nog een verslagje][1].
 * [bekijk alle foto's gemaakt door Julien Steens][2]
 

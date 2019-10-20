@@ -1,5 +1,4 @@
 ---
-_id: 56310360-082e-11e7-9207-01a5b35c40b5
 tag: varia
 title: Johan Goormachtigh en Marcel Van Herck winnen krasse knarren tornooi
 auteur: Geert
