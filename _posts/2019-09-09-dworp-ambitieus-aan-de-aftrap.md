@@ -2,7 +2,6 @@
 title: Dworp ambitieus aan de aftrap van een nieuw seizoen
 layout: verslag
 tag: varia
-excerpt_separator: "<!--more-->"
 date: 2019-09-09 10:00:00 +0100
 auteur: Geert, Eric, Diederik
 fotograaf: Pieter

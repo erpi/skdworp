@@ -15,7 +15,6 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 date: '2017-03-26T20:54:22.296Z'
 layout: verslag
-excerpt_separator: <!--more-->
 draft: false
 ---
 ## Vooraf

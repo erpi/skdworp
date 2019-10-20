@@ -12,7 +12,6 @@ stelling_zwart: 'Walter'
 stelling_uitleg: 'de stelling is niet exact juist, maar het matbeeld klopt wel'
 stelling_oplossing: 'Lh6!'
 layout: verslag
-excerpt_separator: <!--more-->
 draft: false
 ---
 De laatste ronde van het KK weeral, maar het blijft spannend daar er nog een hele hoop inhaalpartijen te spelen zijn en de eindstand dus pas over enkele weken gekend zal zijn.<!--more-->

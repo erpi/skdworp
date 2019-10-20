@@ -37,7 +37,6 @@ posts:
   # to be used directly (e.g. a string, number or array)
   generatedFields:
     layout: verslag
-    excerpt_separator: <!--more-->
     draft: true
 
   # Whether entries need to be appproved before they are published to the main

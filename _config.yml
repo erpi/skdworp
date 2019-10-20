@@ -95,7 +95,6 @@ defaults:
       type: posts
     values:
       layout: verslag
-      excerpt_separator: "<!--more-->"
       draft: true
       image:
         path: "assets/images/fb/fb_post_2.jpg"

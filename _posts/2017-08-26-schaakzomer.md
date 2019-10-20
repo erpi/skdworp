@@ -18,7 +18,6 @@ layout: verslag
 noindex: true
 sitemap: false
 image:
-excerpt_separator: <!--more-->
 draft: false
 ---
 Naar goede gewoonte waren er deze zomer tal van onze leden actief op verschillende grote en kleinere tornooien, tijd voor een kort verslagje dus.<!--more-->

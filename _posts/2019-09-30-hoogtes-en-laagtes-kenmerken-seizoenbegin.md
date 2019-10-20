@@ -5,7 +5,6 @@ ni_d1_uitploeg: Dworp 1
 ni_d2_uitploeg: Dworp 2
 ni_d3_uitploeg: Dworp 3
 ni_d4_uitploeg: Dworp 4
-excerpt_separator: "<!--more-->"
 title: 'Hoogtes en laagtes kenmerken seizoenbegin'
 auteur: Geert,Gaston,Filip,Tom,Walter,Frank
 description: "Een nagelnieuw interclubseizoen en een ambitieus Dworp dat niet minder dan vier ploegen aan de start brengt. Zowel Dworp 3, versterkt met de nieuwkomers Sam en Gaston, als Dworp 4 –gedegradeerd uit vierde- maken in vijfde een stevige kans op promotie."

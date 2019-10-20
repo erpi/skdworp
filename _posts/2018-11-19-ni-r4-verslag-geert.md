@@ -5,7 +5,6 @@ tag: ni
 ni_d1_thuisploeg: Brasschaat 4
 ni_d2_thuisploeg: Dworp 2
 ni_d3_thuisploeg: Dworp 3
-excerpt_separator: "<!--more-->"
 date: 2018-11-19 20:04
 auteur: Diederik,Tom,Eric,Geert
 fotograaf: Diederik
@@ -23,7 +22,6 @@ stelling_oplossing: ''
 image:
   path: 'assets/images/1819/ni/r4_d1_kjell.jpg'
 draft: false
-
 ---
 ## Vooraf
 

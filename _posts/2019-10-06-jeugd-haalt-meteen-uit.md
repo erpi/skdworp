@@ -6,7 +6,6 @@ title: Jeugd haalt meteen uit
 auteur: Diederik
 date: 2019-10-06 21:00:00 +0100
 layout: verslag
-excerpt_separator: <!--more-->
 image:
   path: 'assets/images/1920/kk/rv1_stelling_mats_1.jpg'
 draft: false

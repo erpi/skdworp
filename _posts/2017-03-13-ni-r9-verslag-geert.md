@@ -27,7 +27,6 @@ stelling_uitleg: >-
   zwarte koning af. promotie is nu onvermijdbaar. 1-0
 date: '2017-03-13T20:05:23.061Z'
 layout: verslag
-excerpt_separator: <!--more-->
 draft: false
 ---
 ## Vooraf

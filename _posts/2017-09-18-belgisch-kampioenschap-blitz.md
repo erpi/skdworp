@@ -5,7 +5,6 @@ title: Stéphane Hautot wint vlekkeloos georganiseerd Belgisch blitz-kampioensch
 auteur: Geert
 fotograaf: Pieter
 layout: verslag
-excerpt_separator: <!--more-->
 image:
   path: '/assets/images/1718/mm/hautot.jpg'
 draft: false

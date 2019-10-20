@@ -11,7 +11,6 @@ description: "Voor het eerst tekenen beide Dworpse teams present in De Gruenenon
 fotograaf:
 date: 2017-10-02 21:15:00 +0100
 layout: verslag
-excerpt_separator: <!--more-->
 draft: false
 ---
 ## Vooraf

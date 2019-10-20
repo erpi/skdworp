@@ -4,7 +4,6 @@ tag: ni
 ni_d1_uitploeg: Dworp 1
 ni_d2_uitploeg: Dworp 2
 ni_d3_uitploeg: Dworp 3
-excerpt_separator: "<!--more-->"
 draft: false
 title: "Hoger, nog hoger en helaas ook lager, nog lager"
 auteur: Geert,Eric,Tom,Yves

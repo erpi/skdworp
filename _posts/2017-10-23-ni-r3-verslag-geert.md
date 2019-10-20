@@ -11,7 +11,6 @@ description: "Onze twee ploegen stonden afgelopen zondag voor een lastige verpla
 fotograaf:
 date: 2017-10-23 21:30:00 +0100
 layout: verslag
-excerpt_separator: <!--more-->
 draft: false
 ---
 ## Vooraf

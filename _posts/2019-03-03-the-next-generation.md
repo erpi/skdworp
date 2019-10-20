@@ -2,7 +2,6 @@
 title: 'The next generation'
 layout: verslag
 tag: varia
-excerpt_separator: "<!--more-->"
 date: 2019-03-03 20:00:00 +0100
 auteur: Diederik
 description: "Gisteren traden we aan op het debutantentornooi van Chesspirant te Lokeren met maar liefst 10 spelers: Nathan, Lexie, Charlotte, Helena, Jannes, Matthias, Sander, Niels, Mats en ikzelf."

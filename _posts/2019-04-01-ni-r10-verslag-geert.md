@@ -4,7 +4,6 @@ tag: ni
 ni_d1_thuisploeg: Dworp 1
 ni_d2_thuisploeg: Dworp 2
 ni_d3_thuisploeg: Dworp 3
-excerpt_separator: "<!--more-->"
 title: "Hoop op brons en behoud groeit weer na puike prestaties"
 auteur: Eric,Geert
 description: "De focus lag deze ronde op team 2 dat nu echt wel de allerlaatste strohalm moet grijpen. Afhankelijk van de opstelling van Wavre 2 zou dat moeten kunnen."

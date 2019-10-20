@@ -5,7 +5,6 @@ title: Internationaal Meester Stéphane Hautot ook in 2018 Belgisch blitz-kampio
 auteur: Geert
 fotograaf: Yves,Walter
 layout: verslag
-excerpt_separator: <!--more-->
 image:
   path: 'assets/images/1819/mm/memorial_debast_1.jpg'
 draft: false

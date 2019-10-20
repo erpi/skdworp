@@ -4,7 +4,6 @@ tag: ni
 ni_d1_uitploeg: Dworp 1
 ni_d2_uitploeg: Dworp 2
 ni_d3_uitploeg: Dworp 3
-excerpt_separator: "<!--more-->"
 title: Triomf en ontgoocheling liggen dicht bij elkaar
 auteur: Diederik,Camiel,Geert
 fotograaf: Eric,Yves,Peter

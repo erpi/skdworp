@@ -5,7 +5,6 @@ ni_d1_thuisploeg: Dworp 1
 ni_d2_thuisploeg: Dworp 2
 ni_d3_thuisploeg: Dworp 3
 ni_d4_thuisploeg: Dworp 4
-excerpt_separator: "<!--more-->"
 title: Schaken in Essenbeek, het voelt aan als thuiskomen
 auteur: Geert,Gaston
 fotograaf: Yves

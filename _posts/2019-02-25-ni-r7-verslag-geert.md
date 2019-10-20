@@ -4,7 +4,6 @@ tag: ni
 ni_d1_thuisploeg: Dworp 1
 ni_d2_thuisploeg: Dworp 2
 ni_d3_thuisploeg: Dworp 3
-excerpt_separator: "<!--more-->"
 title: 'Geen enkel winstpunt op 14 partijen: balen als een stekker'
 auteur: Diederik,Geert,Camiel, Tom
 fotograaf: Yves

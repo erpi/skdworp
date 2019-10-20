@@ -5,7 +5,6 @@ tag: ni
 ni_d1_uitploeg: Fontaine 3
 ni_d2_uitploeg: Dworp 2
 ni_d3_uitploeg: Dworp 3
-excerpt_separator: "<!--more-->"
 date: 2018-10-29 21:00:00 +0100
 auteur: Geert,Diederik,Tom,Frank
 fotograaf: Geert,Diederik,Yves

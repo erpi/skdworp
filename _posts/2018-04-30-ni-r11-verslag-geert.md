@@ -11,7 +11,6 @@ description: "Zeer relax gingen de twee Dworpse teams afgelopen zondag in de Gre
 fotograaf: Diederik
 date: 2018-04-30 20:00:00 +0000
 layout: verslag
-excerpt_separator: "<!--more-->"
 draft: false
 ---
 ## Vooraf

@@ -9,7 +9,6 @@ description: "Een nieuw seizoentje interclub en dit keer met twee teams. De taak
 fotograaf:
 date: 2017-09-25 21:00:00 +0100
 layout: verslag
-excerpt_separator: <!--more-->
 draft: false
 ---
 ## Vooraf
