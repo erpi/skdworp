@@ -21,13 +21,6 @@ fields:
   name: fotograaf
   label: Voornaam fotograaf
   description: 'Indien meerdere fotografen: scheiden met een komma (zonder spaties)'
-- name: layout
-  label: Layout
-  type: text
-  hidden: true
-  default: verslag
-  config:
-    required: true
 - type: datetime
   name: date
   label: Datum en uur verslag
@@ -53,13 +46,6 @@ fields:
   config:
     required: true
   description: van 1 tot ...
-- name: excerpt_separator
-  label: Excerpt separator
-  type: text
-  hidden: true
-  default: "<!--more-->"
-  config:
-    required: true
 - type: text
   name: stelling_fen
   description: bijvoorbeeld '3n2k1/p5p1/5p2/2R4p/8/P3rP2/5NPP/6K1 b - -'
@@ -85,8 +71,3 @@ fields:
   name: stelling_oplossing
   label: Stelling oplossing
   description: bv. '1...Te1+ en wit gaat mat achter de piketjes'
-- type: boolean
-  name: draft
-  hidden: true
-  label: draft
-  default: true
