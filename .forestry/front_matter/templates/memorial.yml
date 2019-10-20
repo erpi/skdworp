@@ -9,7 +9,7 @@ fields:
   default: ''
   config:
     required: true
-- name: author
+- name: auteur
   label: Voornaam auteur
   type: text
   hidden: false
