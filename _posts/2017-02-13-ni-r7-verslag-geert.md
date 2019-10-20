@@ -20,6 +20,7 @@ date: '2017-02-13T20:30:08.842Z'
 timestamp: 1487017808
 layout: verslag
 excerpt_separator: <!--more-->
+draft: false
 ---
 ## Voorspel
 

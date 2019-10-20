@@ -17,6 +17,7 @@ Lf4+ en eeuwig schaak (na 5... Le5+ 6. Dh4 Txh4+ 7. Lxh4 staat zwart waarschijnl
 date: '2017-01-29T20:48:06.462Z'
 layout: verslag
 excerpt_separator: <!--more-->
+draft: false
 ---
 ## Voorspel
 

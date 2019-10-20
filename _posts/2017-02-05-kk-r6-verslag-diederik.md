@@ -13,6 +13,7 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 layout: verslag
 excerpt_separator: <!--more-->
+draft: false
 ---
 In ronde 6 van het klubkampioenschap speelde vrijdag 10 man. Ook al sta ik niet gekend om mijn vlotte schrijfstijl, ik wil toch proberen om deze historische avond met een klein verslagje te eren.<!--more-->
 

@@ -5,10 +5,11 @@ ni_d1_uitploeg: Dworp 1
 ni_ronde: 1
 title: Slecht begonnen, is half gewonnen (Chinees gezegde)
 auteur: Geert
-fotograaf: 
+fotograaf:
 date: 2017-09-25 21:00:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->
+draft: false
 ---
 ## Vooraf
 

@@ -9,6 +9,7 @@ fotograaf:
 date: 2017-09-25 20:00:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->
+draft: false
 ---
 ## Vooraf
 

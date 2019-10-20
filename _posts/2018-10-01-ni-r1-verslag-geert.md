@@ -9,12 +9,13 @@ ni_d3_uitploeg: Mechelen 9
 ni_ronde: 1
 title: "Halse hoogdagen aan het schaakbord"
 auteur: Geert,Diederik
-fotograaf: 
+fotograaf:
 date: 2018-10-01 21:30:00 +0100
 layout: verslag
 image:
   path: 'assets/images/logo-dworp.png'
 excerpt_separator: <!--more-->
+draft: false
 ---
 ## Vooraf
 
@@ -22,7 +23,7 @@ De koude dagen komen eraan en dus trekt het interclub-circus zich weer op gang. 
 
 En we gaan er voor. De prognoses zijn gunstig. Onze 14 spelers hebben voldoende schaakbagage in huis om een rustig seizoen af te werken. Dat geldt ook voor de drie Dworpse debutanten: Tom, Niels en jeugdspeler Mats. Deze eerste ronde trokken ze trouwens aardig hun streng. Zo liet Niels het eerste punt voor Dworp in het nieuwe seizoen optekenen.
 
-En, niet onbelangrijk tot slot, voor onze zondagse knokpartijen op de 64 velden kunnen we rekenen op ons eigen vertrouwde stekje. We spelen in Start 65. 
+En, niet onbelangrijk tot slot, voor onze zondagse knokpartijen op de 64 velden kunnen we rekenen op ons eigen vertrouwde stekje. We spelen in Start 65.
 
 ## Beter een half ei dan een lege dop
 
@@ -32,7 +33,7 @@ Op bord 2 debuteert **Tom** bij Dworp na dertien jaar stil liggen (of is het sti
 
 Met wit bekwam derde bord **Kjell** al snel een veelbelovende stelling. Zijn aanval was sterk maar sloeg toch net niet door. Daarvoor rekende zwart op een gelukje in de stelling. Dame tegen toren en loper volstond net niet om het volle punt binnen te halen. Nog steeds 1-2 achter.
 
-**Diederik** op bord vier met zwart speelde naar eigen zeggen misschien wat onnauwkeurig in de opening. “Ik had druk tegen maar slaagde erin secuur te verdedigen. Eerst weigerde ik nog remise maar stelde het dan maar opnieuw zelf voor. De partij kon wel nog alle kanten uit.” Geen stap verder dus. Nog steeds 1,5-2,5 achter. 
+**Diederik** op bord vier met zwart speelde naar eigen zeggen misschien wat onnauwkeurig in de opening. “Ik had druk tegen maar slaagde erin secuur te verdedigen. Eerst weigerde ik nog remise maar stelde het dan maar opnieuw zelf voor. De partij kon wel nog alle kanten uit.” Geen stap verder dus. Nog steeds 1,5-2,5 achter.
 
 Ook **Frank** met wit op bord vijf slaagde er niet in de gelijkmaker binnen te trappen.  Hij won weliswaar een pion en stond daardoor beter tot gewonnen. Helaas verdedigde Frank te passief. Daardoor moest ook hij berusten in remise. 2-3 voor Brussels.
 

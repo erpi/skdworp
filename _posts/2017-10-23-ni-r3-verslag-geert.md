@@ -7,10 +7,11 @@ ni_d2_uitploeg: Dworp 2
 ni_ronde: 3
 title: "Met de V van Victorie : de tegenstand (hahaha) in de pan gehakt"
 auteur: Eric,Geert
-fotograaf: 
+fotograaf:
 date: 2017-10-23 21:30:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->
+draft: false
 ---
 ## Vooraf
 
@@ -19,20 +20,20 @@ Onze twee ploegen stonden afgelopen zondag voor een lastige verplaatsing. Het ee
 ## De ontmoeting
 
 First things first: team 1.
- 
+
 **Filip** op bord 4 liet in de opening een paardoffer op e4 annex dameschaak op h4 toe. Volgens Serge was het offer twijfelachtig maar wit diende dan wel Kd2 en niet Ke2 te spelen. Hij ging er te vuur en te zwaard af in een twaalftal zetten. Gesterkt door het Chinese gezegde: “slecht begonnen, is half gewonnen” (zie verslag ronde 1) toog Filip alsnog blijmoedig naar huis. 1-0 voor Gent.
- 
+
 Op het laatste bord weigerde **Eric** met wit een Benoni of Benko met e3, kreeg een rustige partij met wat initiatief en speelde op de 19de zet een kleine plusremise. De enige kalme partij van de namiddag. 1,5-0,5 voor KGSRL.
- 
+
 Inmiddels nam **Kjell** op bord 2 revanche voor de vorige ronden. Met wit kreeg hij al snel het initiatief en na f5! zag het er somber uit voor zwart. In een koningsaanval werd de Gentenaar onder de voet gelopen. Een scheve situatie recht getrokken. De stand is opnieuw gelijk: 1,5-1,5.
- 
+
 **Frank** met zwart op bord 3 stond onder druk. Gelukkig slaagde zijn tegenstander er niet in de druk te behouden. Hij verloor een pion, later nog een tweede, en tot slot nog een stuk. Zo is het eenvoudig. We nemen voorsprong: 1,5-2,5 voor ons.
- 
+
 Ons topbord **Serge** is dit jaar opvallend strijdlustig. Hij offerde met zwart een pion (thuis bekeken) en later nog een tweede. Duidelijk was wel dat hij er één van ging terugwinnen. Daarna stond de witspeler onder zware druk. In de tijdnood van de tegenstander begon ook Serge snel te spelen. Verlies van een vol stuk was daarvan het gevolg. Uiteindelijk werden het drie stukken en pion tegen twee stukken en twee
 pionnen voor onze man. Dat is moeilijk te winnen, en Lacrosse slaagde er dan ook niet in. Ondanks stukverlies toch nog een redelijk comfortabele remise. Het toont aan dat Serge goed moet gestaan hebben.  2-3 voor ons.
 
 Vijfde bord **Stijn** ontkwam in de openingsfase niet aan zware positionele druk. Hij verdedigde zich echter behoorlijk, zocht en vond tegenspel. Toch had zijn tegenstander nog een winnende batterij met dame en loper. In tijdnood zag hij dat gelukkig niet. Stijn bekroonde dan maar zijn aanval met een dameoffer. Zonder meer een heroïsche prestatie en een optreden dat er mag zijn in de eerste ploeg. 2-4 voor de goei!
- 
+
 Van team één in Gent naar team twee in Sint-Lambrechts-Woluwe.
 
 En in het Brusselse werd er stevig gebikkeld, de tegenstander verdedigde zich naar best vermogen. **Peter** op bord 3 was het eerst klaar. De overwinning kwam nooit in gevaar, hij won al snel twee pionnen en zette dat voordeel keurig om in een mooie overwinning. 0-1 voor ons.

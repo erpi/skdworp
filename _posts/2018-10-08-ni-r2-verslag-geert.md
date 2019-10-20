@@ -22,7 +22,6 @@ stelling_oplossing: ''
 image:
   path: 'assets/images/1819/ni/r2_foto_stijn.jpg'
 draft: false
-
 ---
 ## Vooraf
 

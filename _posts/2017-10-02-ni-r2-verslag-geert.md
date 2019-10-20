@@ -7,10 +7,11 @@ ni_d2_uitploeg: The Belgian CC 4
 ni_ronde: 2
 title: "Debuteren op onverwacht vruchtbare grond: De Gruenenond"
 auteur: Geert
-fotograaf: 
+fotograaf:
 date: 2017-10-02 21:15:00 +0100
 layout: verslag
 excerpt_separator: <!--more-->
+draft: false
 ---
 ## Vooraf
 
