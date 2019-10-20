@@ -8,7 +8,6 @@ auteur: Geert
 description: "Voor de vier spelers van het gloednieuwe tweede team is de opdracht simpel: elke ronde winnen en kampioen spelen. Daarvoor werd ondergetekende gedetacheerd naar vijfde afdeling en voor minder gaan we ook niet."
 fotograaf:
 date: 2017-09-25 20:00:00 +0100
-layout: verslag
 draft: false
 ---
 ## Vooraf

@@ -17,7 +17,6 @@ stelling_uitleg: >-
 stelling_oplossing: 1... Pxd4?! 2. Dxd4? Tad8! en wit verliest de dame wegens de matdreiging op d1
 date: '2017-02-13T20:30:08.842Z'
 timestamp: 1487017808
-layout: verslag
 draft: false
 ---
 ## Voorspel

@@ -1,5 +1,4 @@
 ---
-layout: verslag
 tag: ni
 ni_d1_thuisploeg: Dworp 1
 ni_d2_thuisploeg: Dworp 2

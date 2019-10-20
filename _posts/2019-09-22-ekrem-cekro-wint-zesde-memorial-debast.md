@@ -4,7 +4,6 @@ tag: mm
 title: Ekrem Cekro wint verrassend zesde Memorial Debast
 auteur: Geert
 fotograaf: Yves,Eddy,Walter
-layout: verslag
 image:
   path: 'assets/images/1920/mm/memorial_debast_1.jpg'
 draft: false

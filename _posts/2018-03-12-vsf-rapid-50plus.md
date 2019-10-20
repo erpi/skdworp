@@ -4,7 +4,6 @@ title: Krasse knarren laten het afweten, Roofthoofd wint op 1 been
 auteur: Geert
 description: "Dag op dag een jaar na het eerste tornooi had op 4 maart jongstleden het tweede officiële rapidkampioenschap voor 50-plussers van de Vlaamse Schaakfederatie plaats. Net zoals vorige keer was de organisatie ook dit jaar in handen van SK Het Witte Paard uit Kapelle-op-den-Bos."
 date: '2018-03-12T20:30:00.000Z'
-layout: verslag
 draft: false
 ---
 Dag op dag een jaar na het [eerste tornooi][1] had op 4 maart jongstleden het tweede officiële rapidkampioenschap voor 50-plussers van de Vlaamse Schaakfederatie plaats. Net zoals vorige keer was de organisatie ook dit jaar in handen van SK Het Witte Paard uit Kapelle-op-den-Bos –lees: in handen van Hugo Van Steenwinckel. In tegenstelling tot de eerste editie was de opkomst deze keer, zowel kwantitatief als kwalitatief maar een mager beestje. Geen Goormachtigh, geen Sadkowski of Marcel Van Herck. Slechts één 2200-plusser tekende aanwezig, met name Marcel Roofthoofd (Elo 2238). Gespeeld werd er in twee reeksen.<!--more-->

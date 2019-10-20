@@ -15,7 +15,6 @@ stelling_zwart: Kjell
 stelling_uitleg: 'droogstoppel stockfish gaat hier het liefst voor een pionnetje met 1... Dxa2 of 1... Lxb2. kjells zet -ook meer dan goedgekeurd door stockfish- is veel esthetischer en geeft bovendien goede kansen in het eindspel.'
 stelling_oplossing: '1... e3! en wit heeft niet beter dan 2.Lxe3 Txe3! 3.Txd5 Txe2 4.Txd8+ Lxd8 5.Txe2 Lxg5 waarna hij enkel een witte toren overhoudt tegenover een zwarte loper en paard'
 date: 2018-03-26 22:00:00 +0100
-layout: verslag
 draft: false
 ---
 ## Vooraf

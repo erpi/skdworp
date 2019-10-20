@@ -1,6 +1,5 @@
 ---
 tag: ni
-layout: verslag
 auteur: Geert
 ni_ronde: 5
 ni_d1_thuisploeg: dworp 1

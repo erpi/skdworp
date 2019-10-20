@@ -26,7 +26,6 @@ stelling_uitleg: >-
   48. Lc8! opnieuw de enige zet! de loper neemt het broodnodige veld b7 van de
   zwarte koning af. promotie is nu onvermijdbaar. 1-0
 date: '2017-03-13T20:05:23.061Z'
-layout: verslag
 draft: false
 ---
 ## Vooraf

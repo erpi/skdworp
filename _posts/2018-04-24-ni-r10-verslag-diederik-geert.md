@@ -15,7 +15,6 @@ stelling_zwart: Diederik
 stelling_uitleg: 'Zwart staat ogenschijnlijk volledig gewonnen met twee verbonden vrijpionnen. Echter, door de positie van het paard en de centrale koning is het niet helemaal duidelijk hoe het verder moet.'
 stelling_oplossing: '1... b3! zwart moet zijn pluspion teruggeven om na 2.Pxb3 op te volgen met 2... a2 en 3... La3 waarna wit ofwel zijn paard verliest of moet toestaan dat de zwarte koning infiltreert.'
 date: 2018-04-24 20:00:00 +0100
-layout: verslag
 draft: false
 ---
 ## Vooraf

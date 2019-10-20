@@ -5,7 +5,6 @@ kk_ronde: '11'
 title: Sterk bezet kampioenschap kan nog alle kanten uit
 auteur: Geert
 date: 2018-05-07 21:00:00 +0100
-layout: verslag
 draft: false
 ---
 ## voorspel

@@ -1,6 +1,5 @@
 ---
 title: "Brains are the new six-pack"
-layout: verslag
 tag: ni
 ni_d1_thuisploeg: Brasschaat 4
 ni_d2_thuisploeg: Dworp 2

@@ -1,6 +1,5 @@
 ---
 title: 'The next generation'
-layout: verslag
 tag: varia
 date: 2019-03-03 20:00:00 +0100
 auteur: Diederik

@@ -5,7 +5,6 @@ title: Gemoedelijk & gezellig simultaanschaken in De Greunenond
 auteur: Geert
 fotograaf: Julien
 date: '2017-09-11T19:30:48.880Z'
-layout: verslag
 image:
   path: '/assets/images/1718/simultaan_greunenond_diederik.jpg'
 draft: false

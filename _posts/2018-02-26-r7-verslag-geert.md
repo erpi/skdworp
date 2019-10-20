@@ -7,7 +7,6 @@ title: De parabel van het beste paard en de haver
 auteur: Diederik,Geert
 description: "Enkel het Dworpse topteam in afdeling 3B hoefde deze zevende ronde in actie te komen. Ploeg 2 was bye. Tegen een gelijkwaardige tegenstander speelden we tegen de Maneblussers met een duidelijke inzet."
 date: 2018-02-26 22:00:00 +0100
-layout: verslag
 draft: false
 ---
 ## Vooraf

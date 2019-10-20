@@ -20,7 +20,6 @@ stelling_oplossing: >-
   1. h3??, immers, na 1... gxh3 2. Kxf3 Kb7!! komt wit in zetdwang en is promotie
   van de zwarte h-pion niet meer te verhinderen!
 date: 2017-11-19 21:30:00 +0100
-layout: verslag
 draft: false
 ---
 ## Eerste ploeg

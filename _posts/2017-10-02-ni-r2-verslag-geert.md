@@ -10,7 +10,6 @@ auteur: Geert
 description: "Voor het eerst tekenen beide Dworpse teams present in De Gruenenond, ons nieuwe interclublokaal. Gezellig en met net ruimte genoeg om 20 mensen te herbergen."
 fotograaf:
 date: 2017-10-02 21:15:00 +0100
-layout: verslag
 draft: false
 ---
 ## Vooraf

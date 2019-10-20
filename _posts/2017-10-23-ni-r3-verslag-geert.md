@@ -10,7 +10,6 @@ auteur: Eric,Geert
 description: "Onze twee ploegen stonden afgelopen zondag voor een lastige verplaatsing. Het eerste team ging bij de sterkste schaakclub van het land, de Koninklijke Gentse, op zoek naar de broodnodige puntjes."
 fotograaf:
 date: 2017-10-23 21:30:00 +0100
-layout: verslag
 draft: false
 ---
 ## Vooraf

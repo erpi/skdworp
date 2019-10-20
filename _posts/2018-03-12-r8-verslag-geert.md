@@ -15,7 +15,6 @@ stelling_zwart: Eric
 stelling_uitleg: 'Hier de positie waar Eric verder ging met 1... Dc4 om uiteindelijk het eindspel te winnen. Zwart kan echter winnen met een mooie zet.'
 stelling_oplossing: '1... Dxh3! wint met mat op de volgende zet in twee varianten: een torenmat of een lopermat. Op Tc1+ op de vorige zet geeft de computer nog alle mogelijke stukken weg (mat in 5) maar met dezelfde slotcombinatie.'
 date: 2018-03-12 22:00:00 +0100
-layout: verslag
 draft: false
 ---
 ## Vooraf

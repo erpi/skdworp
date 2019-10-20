@@ -1,6 +1,5 @@
 ---
 title: Dworpse resultaten gaan crescendo, tegenstand bijna gevierendeeld
-layout: verslag
 tag: ni
 ni_d1_uitploeg: Dworp 1
 ni_d2_uitploeg: Dworp 2

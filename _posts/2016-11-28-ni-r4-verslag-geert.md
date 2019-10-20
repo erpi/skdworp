@@ -1,6 +1,5 @@
 ---
 tag: ni
-layout: verslag
 auteur: Geert
 ni_ronde: 4
 ni_d1_thuisploeg: soignies 1

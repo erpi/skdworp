@@ -1,6 +1,5 @@
 ---
 title: Dworpenaren ondergaan wet van de sterkste
-layout: verslag
 tag: ni
 ni_d1_uitploeg: Fontaine 3
 ni_d2_uitploeg: Dworp 2

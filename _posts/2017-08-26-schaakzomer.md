@@ -14,7 +14,6 @@ stelling_oplossing: >-
   Th4! en de pion promoveert na het slagen van de toren. Wel nog remise wegens de
   sterkte van de 2 pionnen
 date: '2017-08-26T19:14:53.719Z'
-layout: verslag
 noindex: true
 sitemap: false
 image:
