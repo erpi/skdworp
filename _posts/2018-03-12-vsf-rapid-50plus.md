@@ -2,6 +2,7 @@
 tag: varia
 title: Krasse knarren laten het afweten, Roofthoofd wint op 1 been
 auteur: Geert
+description: "Dag op dag een jaar na het eerste tornooi had op 4 maart jongstleden het tweede officiële rapidkampioenschap voor 50-plussers van de Vlaamse Schaakfederatie plaats. Net zoals vorige keer was de organisatie ook dit jaar in handen van SK Het Witte Paard uit Kapelle-op-den-Bos."
 date: '2018-03-12T20:30:00.000Z'
 layout: verslag
 excerpt_separator: <!--more-->

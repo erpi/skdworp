@@ -9,6 +9,7 @@ ni_d3_uitploeg: Mechelen 9
 ni_ronde: 1
 title: "Halse hoogdagen aan het schaakbord"
 auteur: Geert,Diederik
+description: "De koude dagen komen eraan en dus trekt het interclub-circus zich weer op gang. Met ploegen in derde, vierde en vijfde afdeling is SK Dworp in goeden doen. Een record breken we evenwel niet."
 fotograaf:
 date: 2018-10-01 21:30:00 +0100
 layout: verslag

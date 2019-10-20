@@ -8,6 +8,7 @@ excerpt_separator: "<!--more-->"
 title: Valse noten om af te sluiten & team 2 terug naar af
 auteur: Eric,Geert
 fotograaf: Tom
+description: "Team 1 kon na een vrij zorgeloos seizoen het orgelpunt plaatsen. Mits winst tegen de rechtstreekse tegenstander van vandaag, Europchess, bemachtigen onze topspelers nog een mooie vierde plek in het klassement."
 date: 2019-04-28 21:00:00 +0200
 ni_ronde: 11
 ni_d1_thuisploeg: Europchess 2

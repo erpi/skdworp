@@ -1,5 +1,5 @@
 ---
-description: In Huizingen wist Internationaal Meester Stéphane Hautot voor de tweede opeenvolgende keer de titel van Belgisch blitz-kampioen in de wacht te slepen.
+description: "In Huizingen wist Internationaal Meester Stéphane Hautot voor de tweede opeenvolgende keer de titel van Belgisch blitz-kampioen in de wacht te slepen."
 tag: mm
 title: Internationaal Meester Stéphane Hautot ook in 2018 Belgisch blitz-kampioen
 auteur: Geert
@@ -62,7 +62,7 @@ Hetzelfde kan gezegd worden van de ravitaillering waar het lot ons gunstig gezin
 
 ![foto medewerkers bar][foto 6]
 
-Een woordje van dank voor de provincie Vlaams-Brabant is hier evenzeer op zijn plaats. Ook dit jaar stelde men weer een fijne tent ter beschikking in het mooie decor van het provinciaal domein van Huizingen. En al zaten de weergoden wat minder mee dan bij vorige edities dan nog blijft dit een prachtige en unieke locatie voor een schaaktornooi. 
+Een woordje van dank voor de provincie Vlaams-Brabant is hier evenzeer op zijn plaats. Ook dit jaar stelde men weer een fijne tent ter beschikking in het mooie decor van het provinciaal domein van Huizingen. En al zaten de weergoden wat minder mee dan bij vorige edities dan nog blijft dit een prachtige en unieke locatie voor een schaaktornooi.
 
 Tot slot nog dit. ‘Ne zanger is ne groep’ aldus de onvolprezen helaas overleden Antwerpse volkszanger Wannes Van de Velde. Dat geldt natuurlijk ook voor organisatie en tornooileiding. Dit is teamwork. Een tornooi kan maar slagen dankzij een legertje hier niet bij naam genoemde harde werkers achter de schermen. Allemaal droegen ze hun steentje bij om de Memorial Debast succesvol te laten verlopen. Vele malen dank daarvoor, het is mooi geweest. Tot volgend jaar!
 

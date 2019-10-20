@@ -6,6 +6,7 @@ ni_ronde: '10'
 title: 'Carnaval overal, er staat een paard in de gang'
 auteur: Geert
 fotograaf: Diederik
+description: "Mits winst in deze ronde had de tegenstander van vandaag nog een waterkansje op behoud. Van onze kant konden wij er, bevrijd van alle degradatiedemonen, vrijuit tegenaan gaan. De juiste ingrediënten dus voor een ontspannen pot zondagnamiddagschaak."
 stelling_fen: ''
 stelling_titel: ''
 stelling_wit: ''

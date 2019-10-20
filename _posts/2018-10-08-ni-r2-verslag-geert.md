@@ -9,6 +9,7 @@ excerpt_separator: "<!--more-->"
 date: 2018-10-08 00:00:00 +0000
 auteur: Geert,Eric,Tom,Walter
 fotograaf: Yves,Walter,Geert
+description: "Dworp zendt zijn zonen uit. Dat valt zelfs letterlijk te nemen. Want de opstellers van de kalender hebben ons echt niet in de watten gelegd. In ronde 2 moest er een ploeg naar Vlaanderen, een team naar Wallonië en eentje naar Brussel."
 ni_ronde: 2
 ni_d1_thuisploeg: Mechelen 2
 ni_d2_thuisploeg: EDC 1

@@ -6,6 +6,7 @@ excerpt_separator: "<!--more-->"
 date: 2019-09-09 10:00:00 +0100
 auteur: Geert, Eric, Diederik
 fotograaf: Pieter
+description: "Het nieuwe schaakseizoen staat weer voor de deur en SK Dworp zet op alle vlakken zijn beste beentje voor. Er is de organisatie van het Belgisch kampioenschap snelschaak, we hebben jeugdspelers bij de vleet, een clubkampioenschap om duimen en vingers bij af te likken."
 stelling_fen: 'k4r2/pb2q3/1p1QP3/2P5/P2P1p2/R5pp/3N2P1/6K1 b - - 0 1'
 stelling_titel: 'het bos en de bomen'
 stelling_wit: 'Halfaoui'
@@ -30,7 +31,7 @@ Vorig jaar namen er 132 schakers deel. Vraag is of we dit jaar nog beter doen. V
 
 ## Clubkampioenschap 2019-2020
 
-Het clubleven in onze Dworpse schaakkring in Halle floreert alvast als nooit tevoren. Een hele rist jeugdspelers dient zich aan. De meesten hebben er ook genoeg van om enkel in het voorprogramma van de vrijdagse schaakavonden mee te draaien. Terecht hebben ze de ambitie om zich te meten met de volwassenen en dus deel te nemen aan het clubkampioenschap. 
+Het clubleven in onze Dworpse schaakkring in Halle floreert alvast als nooit tevoren. Een hele rist jeugdspelers dient zich aan. De meesten hebben er ook genoeg van om enkel in het voorprogramma van de vrijdagse schaakavonden mee te draaien. Terecht hebben ze de ambitie om zich te meten met de volwassenen en dus deel te nemen aan het clubkampioenschap.
 
 Een fijn voornemen dat er meteen toe leidt dat het clubkampioenschap zal betwist worden door een recordaantal van circa twintig spelers. Benieuwd hoever de youngsters springen en hoeveel volwassenen ze aan hun zegekar gaan binden. Hoe dan ook is het voor hen een unieke gelegenheid om ervaring op te doen.
 
@@ -43,7 +44,7 @@ Hoewel... Wie de moeite doet om er de Elo-lijst van SK Dworp op na te slaan, zie
 Het is immers wel degelijk de bedoeling dat team 2 -na het debacle en de degradatie uit vierde vorig jaar- binnen de kortste keren opnieuw promoveert. Bovendien kunnen we met Sam (jawel, broer van Tom) en Gaston als nieuwe versterking wellicht ook dromen van nog een team dat in vijfde voor de titel kan spelen. Eerst zien en dan geloven, zei de blinde...
 
  Ook de twee andere teams, met vooral jeugdspelers, kunnen misschien voor verrassingen zorgen. Laten we het hopen.
- 
+
 ## Geert clubkampioen 2019!
 
 We blikken ook nog even terug op het voorbije clubkampioenschap. Hieronder brengt Eric een samenvatting van het parcours van Geert, leidend naar een verdiend clubkampioenschap.
@@ -113,5 +114,3 @@ Om te eindigen nog een beknopt verslag van Diederik over de voorbije zomermaande
 Naar goede gewoonte waren enkele Dworpenaren ook actief tijdens de zomer. Tom speelde mee in Brasschaat, Eddy in Geraardsbergen en Walter en ikzelf traden aan in de B-reeks van Charleroi. Ook op het snelschaaktornooi van Geraardsbergen waren we goed vertegenwoordigd met Peter, Eric en Kjell.  Die zomertornooien zijn leuk, maar allesbehalve evident wegens de dominantie van de jeugd. Die heeft heel veel tijd om tijdens de lange vakantie gehakt te maken van de vermoeide veertiger/vijftiger die een weekje van zijn verlof zit op te offeren. Dit resulteerde in bedenkelijke resultaten van zowat iedereen. Hopelijk werpt het wel zijn vruchten af voor het komende jaar.
 
 [foto 1]: {{ "assets/images/1819/geert.jpg" | absolute_url }}
-
-

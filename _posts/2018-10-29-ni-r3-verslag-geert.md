@@ -9,6 +9,7 @@ excerpt_separator: "<!--more-->"
 date: 2018-10-29 21:00:00 +0100
 auteur: Geert,Diederik,Tom,Frank
 fotograaf: Geert,Diederik,Yves
+description: "Tot voor deze ronde hadden de Dworpse teams redelijke prestaties afgeleverd. Niet schitterend maar zeker ook niet slecht. Van ronde 3 hoopten alle spelers –denk ik toch- dat hij snel voorbij zou zijn."
 ni_ronde: 3
 ni_d1_thuisploeg: Dworp 1
 ni_d2_thuisploeg: KSK Rochade 3
@@ -27,11 +28,11 @@ draft: false
 
 Tot voor deze ronde hadden de Dworpse teams redelijke prestaties afgeleverd. Niet schitterend maar zeker ook niet slecht. Van ronde 3 hoopten alle spelers –denk ik toch- dat hij snel voorbij zou zijn. Niet alleen omdat de twee eerste teams het tegen erg sterke tegenstanders moesten opnemen. Ook omdat de tweede ploeg een verre en vermoeiende verplaatsing -naar Eupen god betere het- diende te maken.<!--more-->
 
-Twee lichtpuntjes toch. Ten eerste leven we natuurlijk in een barre, boze wereld waarin het recht van de sterkste geldt. Verrassingen zijn echter nooit helemaal uitgesloten. En ten tweede, ook mooi, traden in de derde ploeg voor het eerst twee jeugdspelers aan. En wie de jeugd heeft, heeft de toekomst. 
+Twee lichtpuntjes toch. Ten eerste leven we natuurlijk in een barre, boze wereld waarin het recht van de sterkste geldt. Verrassingen zijn echter nooit helemaal uitgesloten. En ten tweede, ook mooi, traden in de derde ploeg voor het eerst twee jeugdspelers aan. En wie de jeugd heeft, heeft de toekomst.
 
 ## Met opgeheven hoofd de boot in
 
-Met een Elo-gemiddelde van 2.115 voor Fontaine 3 tegenover 1.986 voor het topteam van Dworp is het duidelijk dat de Henegouwenaren huizenhoog favoriet waren. Dat bleek ook, al waren onze remises wel van goudwaarde. 
+Met een Elo-gemiddelde van 2.115 voor Fontaine 3 tegenover 1.986 voor het topteam van Dworp is het duidelijk dat de Henegouwenaren huizenhoog favoriet waren. Dat bleek ook, al waren onze remises wel van goudwaarde.
 
 Op bord 3 had Kjell met wit als eerste gedaan. Zonder echt in de problemen te komen en met secuur spel stelde hij in een gelijke stelling remise voor. Dat werd aanvaard door zijn tegenstander (2.100 Elo). 0,5-0,5
 
@@ -67,7 +68,7 @@ Wat wel betekende dat Peter en Eric minstens 1,5 punt moesten scoren om nog een 
 
 ## Jeugd betaalt leergeld
 
-Tot slot zijn we aanbeland bij Dworp 3 dat deze ronde net over de taalgrens wipte en in het naburige Braine l’Alleud op zoek ging naar punten. En voor het eerst ook met twee jeugdspelers, met name de broertjes Lerinckx. Elogewijs is de thuisploeg wel favoriet (een gemiddelde van 1.328 Elo versus 1.274 voor Dworp). 
+Tot slot zijn we aanbeland bij Dworp 3 dat deze ronde net over de taalgrens wipte en in het naburige Braine l’Alleud op zoek ging naar punten. En voor het eerst ook met twee jeugdspelers, met name de broertjes Lerinckx. Elogewijs is de thuisploeg wel favoriet (een gemiddelde van 1.328 Elo versus 1.274 voor Dworp).
 
 ![foto Niels junior, Sander en Niels senior][foto 5]
 
@@ -89,4 +90,3 @@ Tot slot nog dit. Het is nog vroeg in het seizoen, te vroeg om ons al zorgen te 
 [foto 4]: {{ "/assets/images/1819/ni/r3_d2_familie_2.jpg" | absolute_url }}
 [foto 5]: {{ "/assets/images/1819/ni/r3_d3_niels_sander_niels.jpg" | absolute_url }}
 [foto 6]: {{ "/assets/images/1819/ni/r3_d3_resultaat.jpg" | absolute_url }}
-

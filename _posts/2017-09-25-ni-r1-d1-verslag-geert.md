@@ -5,6 +5,7 @@ ni_d1_uitploeg: Dworp 1
 ni_ronde: 1
 title: Slecht begonnen, is half gewonnen (Chinees gezegde)
 auteur: Geert
+description: "Een nieuw seizoentje interclub en dit keer met twee teams. De taakverdeling is duidelijk: de eerste ploeg zorgeloos in derde houden en promotie in vijfde met het nieuwe kwartet."
 fotograaf:
 date: 2017-09-25 21:00:00 +0100
 layout: verslag

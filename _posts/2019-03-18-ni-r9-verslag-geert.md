@@ -9,6 +9,7 @@ draft: false
 title: "Hoger, nog hoger en helaas ook lager, nog lager"
 auteur: Geert,Eric,Tom,Yves
 fotograaf: Walter,Yves,Geert
+description: "Ons vlaggenschip in derde afdeling speelde zondag tegen de Zottegemse typeploeg uit de eerste rondes. Dat wil zeggen dat Dworp op de eerste vijf borden 100 à 150 Elo sterker is."
 date: 2019-03-17 00:00:00 +0100
 ni_ronde: 9
 ni_d1_thuisploeg: Zottegem 3
@@ -25,7 +26,7 @@ image:
 ---
 ## Vooraf
 
-Ons vlaggenschip in derde afdeling speelde zondag tegen de Zottegemse typeploeg uit de eerste rondes. Dat wil zeggen dat Dworp op de eerste vijf borden 100 à 150 Elo sterker is. De uitzondering op de regel is bord 6, met een bijna 200 Elo straffere Zottegemmenaar. 
+Ons vlaggenschip in derde afdeling speelde zondag tegen de Zottegemse typeploeg uit de eerste rondes. Dat wil zeggen dat Dworp op de eerste vijf borden 100 à 150 Elo sterker is. De uitzondering op de regel is bord 6, met een bijna 200 Elo straffere Zottegemmenaar.
 
 Team 2 moest het opnemen tegen een collega degradatiekandidaat. Het uur van de waarheid is aangebroken. Winnen is een must.
 

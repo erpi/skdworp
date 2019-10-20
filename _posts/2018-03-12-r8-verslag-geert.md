@@ -7,6 +7,7 @@ ni_d2_uitploeg: Braine l’Alleud 2
 ni_ronde: 8
 title: Tussen mes en keel. Treurnis en euforie in de Greunenond
 auteur: Diederik,Eric,Geert
+description: "Nog eens een match in de Greunenond, thuisvoordeel dus. Het voelt trouwens aan alsof we hier al eeuwen spelen. Er staat wel een en ander op het spel."
 stelling_fen: '2q3rk/4pp2/3p3b/p2Q3B/Pp5N/7P/1P2RPPK/2r5 b - - 0 1'
 stelling_titel: Het gemiste dameoffer
 stelling_wit: Furnelle
@@ -53,4 +54,3 @@ Op bord 2 bedient **_Peter_** zich met zwart van ongeveer dezelfde strategie. Hi
 Ja, blij kunnen we niet zijn met het resultaat van Dworp 1. Na de nipte en onverdiende nederlaag in Mechelen, lopen we tegen een tweede verlies aan tegen een min of meer gelijkwaardige tegenstander, Wetteren. Geknokt hebben we, vooral Diederik. Daar ligt het dus niet aan. Maar het wordt nu wel superlinke soep. Het zal zeer, zeer spannend worden. De individuele uitslagen van deze ronde tonen aan dat onze collega’s degradatiekandidaten Brussels, Europchess en Leuze zich versterken. Volgende ronde is tegen Brussels, het belooft alvast een zenuwslopende ontmoeting te worden.
 
 Opdracht volbracht ondertussen voor Dworp 2. We staan nu stevig aan de leiding met gelijke matchpunten en een half bordpunt meer dan de tweede. Die tweede heeft wel een match meer gespeeld dan wij! De nummers 3 en 4 volgen op twee matchpunten met 3,5 en 5 bordpunten minder. Tegen de tweede, Europchess, spelen we nog in de slotronde.
-

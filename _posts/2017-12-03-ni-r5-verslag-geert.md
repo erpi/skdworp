@@ -7,6 +7,7 @@ ni_d2_uitploeg: Dworp 2
 ni_ronde: 5
 title: Met gemengde gevoelens de winterstop in
 auteur: Diederik,Geert
+description: "De twee Dworpse ploegen stonden in de vijfde ronde van de interclub-competitie voor een moeilijke opdracht. Team 1 had de zware taak om tegen het sterke, voor de titel spelende, Opwijk de schade te beperken en indien mogelijk een graantje mee te pikken."
 stelling_fen: 8/p1p2p2/1p1p1P1K/6P1/2PP1pk1/2P4R/P7/4r3 w - - 0 1
 stelling_titel: Combinatie van de dag
 stelling_wit: Eric
@@ -44,7 +45,7 @@ Restte onze laatste hoop: Eric die met een mooie combinatie wist te promoveren e
 
 ### En dan nu over naar Nijvel
 
-Een zucht van opluchting bij ondergetekende toen aan bord 1 niet de gedoodverfde 1950-plusser zat –blijkbaar door zijn eigen club kaltgesteld nadat hij in de vorige ronde de vrienden van Halle in een dronken bui een schaakklok naar het hoofd had geslingerd- maar wel een vriendelijke 1700-plusser. Deze was zo galant om zich binnen de kortste keren in een Franse partij in de pan te laten hakken. Wit leverde bijvoorbeeld al snel een pion in. In combinatie met een onderontwikkelde puinhoop de naam stelling niet waardig, zorgde dit als de wiedeweerga voor het eerste Dworpse punt. 0-1 voor de goei. 
+Een zucht van opluchting bij ondergetekende toen aan bord 1 niet de gedoodverfde 1950-plusser zat –blijkbaar door zijn eigen club kaltgesteld nadat hij in de vorige ronde de vrienden van Halle in een dronken bui een schaakklok naar het hoofd had geslingerd- maar wel een vriendelijke 1700-plusser. Deze was zo galant om zich binnen de kortste keren in een Franse partij in de pan te laten hakken. Wit leverde bijvoorbeeld al snel een pion in. In combinatie met een onderontwikkelde puinhoop de naam stelling niet waardig, zorgde dit als de wiedeweerga voor het eerste Dworpse punt. 0-1 voor de goei.
 
 Ook op bord 4 komt Stijn al snel beter te staan. Ook daar zorgt zijn tegenstander zelf voor. Met zwart lanceert hij in de opening een uiterst dubieus pionoffer. In snelschaak kan dat misschien punten opleveren, in een gewone partij bezorgt het wit meteen een droomstelling. Stijn laat het niet aan zijn hart komen en maakt de karwei zorgvuldig en snel af. Zwart verliest zijn spreekwoordelijke ‘broek met bretellen’. Top! Heel snel staan de goei zo al 0-2 voor.
 
@@ -54,9 +55,9 @@ Gelukkig is de buit binnen want Camiel, onze remisekoning aan het tweede bord, l
 
 ## Naspel
 
-Enkel topoptimisten hadden Dworp 1 kansen op puntjes toegedicht tegen titelkandidaat Opwijk in derde afdeling. Ondertussen gaat het vlaggenschip van Dworp wel op een degradatieplaats de winterstop in met als enige lichtpunt het feit dat we reeds tegen de eerste vier in de stand hebben gespeeld. In 2018 moet dat beter, jongens. 
+Enkel topoptimisten hadden Dworp 1 kansen op puntjes toegedicht tegen titelkandidaat Opwijk in derde afdeling. Ondertussen gaat het vlaggenschip van Dworp wel op een degradatieplaats de winterstop in met als enige lichtpunt het feit dat we reeds tegen de eerste vier in de stand hebben gespeeld. In 2018 moet dat beter, jongens.
 
-Dworp 2 deed wat ervan verwacht werd en tegen dit Nijvel was dat Elogewijs ook geen knalprestatie. Maar toch, elke match moet gespeeld worden, zo wil het cliché. En dus zijn we blij, onze titelkansen blijven gaaf. Met als eenvoudige opdracht om de volgende ronden zo verder te doen. Sterker nog, in de toekomst halen we best niet enkel alle matchpunten binnen maar ook zoveel mogelijk bordpunten. Daar zou het wel eens op aan kunnen komen. 
+Dworp 2 deed wat ervan verwacht werd en tegen dit Nijvel was dat Elogewijs ook geen knalprestatie. Maar toch, elke match moet gespeeld worden, zo wil het cliché. En dus zijn we blij, onze titelkansen blijven gaaf. Met als eenvoudige opdracht om de volgende ronden zo verder te doen. Sterker nog, in de toekomst halen we best niet enkel alle matchpunten binnen maar ook zoveel mogelijk bordpunten. Daar zou het wel eens op aan kunnen komen.
 
 Aan iedereen: de beste wensen en gezond weer op in 2018 met een verslag over ronde zes van de nationale interclub-competitie!
 

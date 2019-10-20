@@ -9,6 +9,7 @@ excerpt_separator: "<!--more-->"
 title: Schaken in Essenbeek, het voelt aan als thuiskomen
 auteur: Geert,Gaston
 fotograaf: Yves
+description: "Eerste thuisronde in de interclubs 2019-2020 en meteen konden we erin vliegen in een nagelnieuw lokaal in Essenbeek. Qua zaal en locatie gewoon perfect en dat gaan de tegenstanders in de toekomst geweten hebben."
 date: 2019-10-14 21:00:00 +0200
 ni_ronde: "2"
 ni_d1_uitploeg: Wavre 1

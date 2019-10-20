@@ -5,6 +5,7 @@ tag: varia
 excerpt_separator: "<!--more-->"
 date: 2019-01-14 20:00:00 +0100
 auteur: Diederik
+description: "Het was een tijdje geleden, maar zaterdag lukte het eindelijk om nog eens met een Dworpse delegatie naar een jeugdtornooi te gaan. Niels, Sander, Mathias en Jannes tekenden present in Landegem."
 stelling_fen: ''
 stelling_titel: ''
 stelling_wit: ''

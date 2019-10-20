@@ -7,6 +7,7 @@ ni_d3_thuisploeg: Dworp 3
 excerpt_separator: "<!--more-->"
 title: "Hoop op brons en behoud groeit weer na puike prestaties"
 auteur: Eric,Geert
+description: "De focus lag deze ronde op team 2 dat nu echt wel de allerlaatste strohalm moet grijpen. Afhankelijk van de opstelling van Wavre 2 zou dat moeten kunnen."
 date: 2019-04-01 00:00:00 +0200
 ni_ronde: 10
 ni_d1_uitploeg: Aalst 1
@@ -36,7 +37,7 @@ Walter met wit op 3 had naar goede gewoonte een spannende partij met toch behoor
 
 Dan was het de beurt aan Eric met zwart op 6. Hij speelde een Scandinavische partij met de modevariant 3...Dd6. Echt niet goed en Eric kampte al snel met ontwikkelingsachterstand. Hij weefde nog enkele trucs in de stelling waardoor wit nog wat moest oppassen... Toen deze trucs op zet 30 met een stuk minder waren uitgewerkt ging wit op de 32ste zet door zijn vlag. Hij dacht 42 zetten te hebben gespeeld. Door deze fortuinlijke zege was de match al binnen. De goei staan immers 3,5-0,5 voor.
 
-Een moment van bezinning. De overblijvende twee partijen, van Kjell en Diederik, leken op remise af te stevenen. 
+Een moment van bezinning. De overblijvende twee partijen, van Kjell en Diederik, leken op remise af te stevenen.
 
 Kjell met wit op 3 wikkelde af naar een eindspel met ongelijke lopers. Daarin dacht hij op de damevleugel een vrijpion te kunnen creëren. De zwarte vrijpion op de koningsvleugel bleek echter sterker en meteen was de eerste nederlaag van het seizoen voor sterkhouder Kjell een feit. 3,5-1,5.
 

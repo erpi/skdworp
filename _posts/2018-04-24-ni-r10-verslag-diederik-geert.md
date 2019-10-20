@@ -7,8 +7,9 @@ ni_d2_uitploeg: Dworp 2
 ni_ronde: 10
 title: 'Klasse, karakter, kennis, kunde &amp; konijnenpoot: Dworp in actie'
 auteur: Diederik,Eric,Geert
+description: "De zenuwen stonden strak gespannen bij de zes Dworpse gladiatoren van het eerste team. En met reden. Het ging immers tegen Leuze, laatste in de stand. Winst betekende het behoud in derde afdeling, gelijkspel impliceerde suspense en nog meer zenuwen in de laatste ronde."
 stelling_fen: '8/5p2/3bp1p1/3k2P1/1p1P1P2/p2KP3/8/2N5 b - - 0 1'
-stelling_titel: 
+stelling_titel:
 stelling_wit: Verschueren
 stelling_zwart: Diederik
 stelling_uitleg: 'Zwart staat ogenschijnlijk volledig gewonnen met twee verbonden vrijpionnen. Echter, door de positie van het paard en de centrale koning is het niet helemaal duidelijk hoe het verder moet.'
@@ -27,15 +28,15 @@ Dan had het tweede team het gemakkelijker. Zelfs onverwacht verlies kon nog rech
 ## Dworp 1 redt zich in derde!
 
 **_Serge_** op bord 1 met zwart speelde zoals gewoonlijk (te) snel tegen een sterke tegenstander (+2200 Elo). Daardoor kwam hij ook iets minder te staan. Een juist getimede remise aanbod werd aanvaard door de witspeler. De Leuzenaar had voor 19 zetten ook nog maar tien minuten op de klok. 0,5-0,5 voor Dworp.
- 
+
 De andere partijen duurden wel wat langer. Het bijhorende nagelbijten was navenant. De tegenstander van **_Diederik_** begon de partij op bord 3 zeer aanvallend en agressief met in een Grünfeld h4 op de vijfde zet. Dat is een zijvariant die onder andere ook Topalov al speelde. De juiste voortzetting voor zwart kon Diederik zich niet echt goed herinneren. Het gevolg was een open h-lijn die –dankzij de loper op g7- gelukkig vrij ongevaarlijk was. Op het juiste moment counteren was de boodschap om met een pion meer in een gunstig, maar toch nog verrassend moeilijk te winnen, eindspel te verzeilen (zie diagram). Dworp staat voor! 0,5-1,5
- 
+
 De tegenstander van **_Kjell_**, met wit op bord 2, kon in het middenspel een kwaliteit tegen pion winnen. Verrassend genoeg ging hij er niet op in uit vrees voor complicaties. Het alternatief voor de Leuzenaar was echter nog slechter. Iets later verloor hij immers een pion, weliswaar in een eindspel met ongelijke lopers. Het stond desondanks eerder gunstig voor Kjell. In combinatie met het binnendringen van de koning en de creatie van extra vrijpionnen bleek de stelling niet meer te houden voor zwart. We staan op een zucht van het behoud. 0,5-2,5 voor Dworp.
- 
+
 Over naar bord 6 waar **_Stijn_** met wit lange tijd gelijk stond en op een bepaald moment zelfs beter met een pion extra in een zeer positionele partij. In 'Zeitnot' reageerde Stijn slecht op een -misschien wel twijfelachtige- tactische wending van zijn tegenstander. Uit armoede offerde onze man dan maar een stuk tegen twee pionnen. Helaas bleek dat uiteindelijk niet genoeg voor remise. Stijn moest de vlag strijken. Het blijft spannend. 1,5-2,5 voor Dworp.
- 
+
 Het spelverloop was in het begin vergelijkbaar bij **_Frank_** op bord 4 met wit. Hij kwam zeer mooi uit de opening maar zijn tegenstander kraakte niet. Waarschijnlijk was de stelling ongeveer gelijk. Ondertussen verbruikte de Leuzenaar wel ontzettend veel tijd. Dit buitte Frank mooi uit met een prachtige pluspion tot gevolg. Hij verzaakte niet om het helemaal af te maken met een mooi schijnoffer: de witte dame slaan kon niet op straffe van mat. Dat bracht tijdelijk nog een tweede pion op, een uiterst belangrijke pion dan nog op d6. Het resulterende dame-eindspel was totaal gewonnen en het werd dan ook vakkundig afgemaakt door Frank die dit jaar een zeer geslaagd seizoen afwerkt. Een diepe zucht van opluchting ging door de Dworpse rangen, het behoud is verzekerd. 1,5-3,5 voor de goei.
- 
+
 Vreemd genoeg speelde **_Walter_** met zwart op bord 5 tegen de tweede hoogste in Elo (2020). Het was een verdienstelijke partij maar een passieve stelling gecombineerd met grote tijdnood deed Walter uiteindelijk de das om. Voor het eindresultaat maakte dit gelukkig geen verschil meer uit. 2.5-3,5 voor Dworp.
 
 ## Team 2, mooi (hm) en meedogenloos: het Waterloo van Waterloo
@@ -50,4 +51,4 @@ Voor de kers op de taart en om de overwinning wat meer glans te geven, hadden we
 
 ## Naspel
 
-Al een ronde voor het einde kunnen we de champagne ontkurken. De Dworpse strategie voor dit IC-seizoen –behoud van team 1 in derde en promotie naar vierde van team 2- heeft verrassend vlot gewerkt. Klasse, karakter, kennis, kunde & konijnenpoot: hoera, hoera, driewerf hoera! Nu eerst vieren, met name na de laatste IC-ronde op 29 april vanaf 18 uur in de Greunenond. Iedereen welkom tot in de vroege uurtjes... En vervolgens is het weer hard werken geblazen om het IC-seizoen 2018-2019 voor te bereiden. Nog even een overbodige elfde ronde afwerken en Kees is klaar voor dit seizoen. Alvast een dikke dank en proficiat voor spelers, begeleiders en sympathisanten: winnen doen we samen. Het is mooi geweest. 
+Al een ronde voor het einde kunnen we de champagne ontkurken. De Dworpse strategie voor dit IC-seizoen –behoud van team 1 in derde en promotie naar vierde van team 2- heeft verrassend vlot gewerkt. Klasse, karakter, kennis, kunde & konijnenpoot: hoera, hoera, driewerf hoera! Nu eerst vieren, met name na de laatste IC-ronde op 29 april vanaf 18 uur in de Greunenond. Iedereen welkom tot in de vroege uurtjes... En vervolgens is het weer hard werken geblazen om het IC-seizoen 2018-2019 voor te bereiden. Nog even een overbodige elfde ronde afwerken en Kees is klaar voor dit seizoen. Alvast een dikke dank en proficiat voor spelers, begeleiders en sympathisanten: winnen doen we samen. Het is mooi geweest.

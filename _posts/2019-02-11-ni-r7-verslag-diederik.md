@@ -8,6 +8,7 @@ excerpt_separator: "<!--more-->"
 title: Triomf en ontgoocheling liggen dicht bij elkaar
 auteur: Diederik,Camiel,Geert
 fotograaf: Eric,Yves,Peter
+description: "Nadat Dworp 1 zich vorige week moeiteloos had ontdaan van het degradatiespook, kreeg ons topteam zondag de kans om naar de hogere regionen op te klimmen."
 date: 2019-02-10 00:00:00 +0100
 ni_ronde: 7
 ni_d1_thuisploeg: Woluwe 1
@@ -22,7 +23,6 @@ stelling_oplossing: 'wat gebeurde was 1... Pxd4!! 2. Txb6 Pxf3+ 3. Kf2 waarna he
 image:
   path: 'assets/images/1819/ni/r7_d3_niels_matthias_mats.jpg'
 draft: false
-
 ---
 ## Vooraf
 

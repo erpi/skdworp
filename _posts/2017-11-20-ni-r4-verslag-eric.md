@@ -7,6 +7,7 @@ ni_d2_uitploeg: CREB 3
 ni_ronde: 4
 title: Zwarte zondag
 auteur: Eric
+description: "Onze beide ploegen namen het zondag op tegen het illustere CREB uit Brussel."
 stelling_fen: 2k5/8/1P6/1PP1p3/4P1pp/4Kp2/5P1P/8 w - -
 stelling_titel: Combinatie van de dag
 stelling_wit: Vasile-Bonciog
@@ -49,7 +50,7 @@ Resultaat: 2.5-3.5 verloren.
 
 **_Filip_** met wit op drie tegen de jonge Ruben Micciche (wordt binnen 10 dagen 10 jaar, +1530 elo) kwam behoorlijk te staan, maar verloor later in de partij een kwaliteit en gaf verrassend onmiddellijk op. Er stond echt nog wel genoeg materiaal op het bord om verder te spelen. Door op te geven heeft nog nooit iemand gewonnen, Filip!
 
-**_Camiel_** speelde tegen de geroutineerde Jean-Marie Ooghe en verloor in het late middenspel een pion, met uiteindelijk elk nog een toren. Op basis van een gecentraliseerde koning hield hij uiteindelijk nog comfortabel remise. 
+**_Camiel_** speelde tegen de geroutineerde Jean-Marie Ooghe en verloor in het late middenspel een pion, met uiteindelijk elk nog een toren. Op basis van een gecentraliseerde koning hield hij uiteindelijk nog comfortabel remise.
 
 Resultaat: 1,5-2.5 verloren.
 

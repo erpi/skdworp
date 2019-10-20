@@ -8,6 +8,7 @@ ni_d4_uitploeg: Dworp 4
 excerpt_separator: "<!--more-->"
 title: 'Hoogtes en laagtes kenmerken seizoenbegin'
 auteur: Geert,Gaston,Filip,Tom,Walter,Frank
+description: "Een nagelnieuw interclubseizoen en een ambitieus Dworp dat niet minder dan vier ploegen aan de start brengt. Zowel Dworp 3, versterkt met de nieuwkomers Sam en Gaston, als Dworp 4 –gedegradeerd uit vierde- maken in vijfde een stevige kans op promotie."
 date: 2019-09-30 00:00:00 +0200
 ni_ronde: "1"
 ni_d1_thuisploeg: Europchess 2

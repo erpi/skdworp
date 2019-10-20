@@ -7,6 +7,7 @@ ni_d2_uitploeg: Wavre 3
 ni_ronde: 9
 title: "’t Is moeilijk bescheiden te blijven, wanneer je zo goed bent als wij. Jaja."
 auteur: Eric,Geert
+description: "Nadat we in de vorige ronden tegen Mechelen en Wetteren nipt tekort schoten, wist de eerste ploeg zondag wat hen te doen stond. Enkel een overwinning laat toe het degradatiespook –weg vies beest!- van ons af te schudden en weer vrijer te ademen."
 stelling_fen: '2krr3/ppp3pp/2n2b2/3q2N1/4p3/8/PPPBQPPP/3RR1K1 b - - 0 1'
 stelling_titel: Het enigmatisch zetje
 stelling_wit: Zamparo
@@ -54,6 +55,6 @@ Op bord 3 wint **_Filip_** in de beslissende partij met wit reeds in de openings
 
 ## Naspel
 
-Oeftie, we made it. Eindelijk zagen we zondag het echte Dworp aan het werk. Awfully big marines, oftewel een ploeg in battle dress. Over onze lijken! Dat loont maar we zijn er nog niet. Nog steeds staan we  onderaan de rangschikking met een rits ploegen op een kluitje. Volgende ronde tegen de laatste in de stand, Leuze. Bij winst zijn we zeker van behoud, bij gelijkspel brengen we het scenario in stelling voor een ware thriller in de laatste ronde. Laten we dat maar vermijden. Verlies tegen Leuze? No way, José. Over onze lijken en dan nog pas al ze dood zijn. 
+Oeftie, we made it. Eindelijk zagen we zondag het echte Dworp aan het werk. Awfully big marines, oftewel een ploeg in battle dress. Over onze lijken! Dat loont maar we zijn er nog niet. Nog steeds staan we  onderaan de rangschikking met een rits ploegen op een kluitje. Volgende ronde tegen de laatste in de stand, Leuze. Bij winst zijn we zeker van behoud, bij gelijkspel brengen we het scenario in stelling voor een ware thriller in de laatste ronde. Laten we dat maar vermijden. Verlies tegen Leuze? No way, José. Over onze lijken en dan nog pas al ze dood zijn.
 
 Dworp 2 deed eveneens een goede zaak. Onze opponent in de laatste ronde, Europchess, kwam tegen De Zwarte Dame niet verder dan 2-2 -bedankt, vrienden!. Dat betekent dat ze bij een Dworpse overwinning in ronde tien niets meer tegen ons te winnen hebben. Ze staan dan drie matchpunten achter. De twee andere opponenten, CREB en Nijvel, wonnen wel maar blijven twee matchpunten (en respectievelijk 3,5 en 4,5 bordpunten) achter. Volgende ronde trekken wij naar Lasne-Waterloo, dat tegen de drie voorgenoemde ploegen maar 1,5 op 12 wist te scoren. Misschien zijn we na ronde 10 dus al mathematisch zeker van promotie. Champagne!

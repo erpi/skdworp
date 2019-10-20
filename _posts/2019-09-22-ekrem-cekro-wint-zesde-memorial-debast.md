@@ -1,5 +1,5 @@
 ---
-description: Niet de gedoodverfde favoriet, de Spaanse grootmeester Miguel Muñoz (blitz-Elo 2611!) maar oude krijger Ekrem Cekro (2371) won afgelopen zaterdag de zesde editie van de Memorial Debast.
+description: "Niet de gedoodverfde favoriet, de Spaanse grootmeester Miguel Muñoz (blitz-Elo 2611!) maar oude krijger Ekrem Cekro (2371) won afgelopen zaterdag de zesde editie van de Memorial Debast."
 tag: mm
 title: Ekrem Cekro wint verrassend zesde Memorial Debast
 auteur: Geert
@@ -26,7 +26,7 @@ Niet alleen qua aantal deelnemers sneuvelde alweer een record, ook de kwaliteit 
 
 ## Muñoz versus Cekro
 
-Qua Elo stak de Spaanse GM Miguel Muñoz er met kop en schouders bovenuit. De race leek ook al heel snel gelopen, Muñoz startte als een trein: 8 uit 8. Daaronder zeges tegen Ekrem Cekro (2371) en Daniël (2472) en Ben Dardha (2201). In ronde 9 volgde echter een verrassende nederlaag tegen Lennert Lenaerts (2298). Al leek dat in eerste instantie niet meer dan een arbeidsongevalletje want Muñoz stoomde door naar 11 op 12. Hij overwon de vrouwelijke meester Irene Sukander (2271) en IM Aleksander Alienkin (2407). Helaas voor hem zat het venijn in de staart. In de 13de en laatste ronde stond het titanenduel tegen collega-grootmeester Alexandre Dgebuadze (2466) op het menu. De Spanjaard verloor en mocht meteen de tornooi-overwinning op zijn buik schrijven. 
+Qua Elo stak de Spaanse GM Miguel Muñoz er met kop en schouders bovenuit. De race leek ook al heel snel gelopen, Muñoz startte als een trein: 8 uit 8. Daaronder zeges tegen Ekrem Cekro (2371) en Daniël (2472) en Ben Dardha (2201). In ronde 9 volgde echter een verrassende nederlaag tegen Lennert Lenaerts (2298). Al leek dat in eerste instantie niet meer dan een arbeidsongevalletje want Muñoz stoomde door naar 11 op 12. Hij overwon de vrouwelijke meester Irene Sukander (2271) en IM Aleksander Alienkin (2407). Helaas voor hem zat het venijn in de staart. In de 13de en laatste ronde stond het titanenduel tegen collega-grootmeester Alexandre Dgebuadze (2466) op het menu. De Spanjaard verloor en mocht meteen de tornooi-overwinning op zijn buik schrijven.
 
 ![foto 3][foto 3]
 

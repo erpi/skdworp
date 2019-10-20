@@ -8,6 +8,7 @@ excerpt_separator: "<!--more-->"
 title: 'Geen enkel winstpunt op 14 partijen: balen als een stekker'
 auteur: Diederik,Geert,Camiel, Tom
 fotograaf: Yves
+description: "Een zware karwei deze zondag. Om te beginnen voor het eerste team van Dworp dat met Pantin een tegenstander partij geeft die volop wil winnen wegens nog in the running voor promotie."
 date: 2019-02-25 00:00:00 +0100
 ni_ronde: 8
 ni_d1_uitploeg: Pantin 1
