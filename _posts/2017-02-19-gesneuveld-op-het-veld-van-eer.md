@@ -23,6 +23,7 @@ stelling_oplossing: >-
 date: '2017-02-19T21:32:31.992Z'
 timestamp: 1487539951
 draft: false
+last_modified_at: 2019-10-20
 ---
 ## Vooraf
 

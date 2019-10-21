@@ -11,6 +11,7 @@ auteur: Eric,Geert
 description: "Een thuismatch, niet in de Greunenond wel in de thuishaven van de Zwarte Dame in Halle (dank!). Voor de eerste ploeg was tegen het sterke Brasschaat 2 elk puntje mooi meegenomen. Het is immers linke soep daar onderaan afdeling 3B."
 date: 2018-02-05 22:00:00 +0100
 draft: false
+last_modified_at: 2019-10-20
 ---
 ## Vooraf
 

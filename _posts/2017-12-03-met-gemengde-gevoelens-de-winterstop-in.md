@@ -19,6 +19,7 @@ stelling_oplossing: >-
   1. g6! en promotie is niet meer te verhinderen
 date: 2017-12-03 21:30:00 +0100
 draft: false
+last_modified_at: 2019-10-20
 ---
 ## Vooraf
 

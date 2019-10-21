@@ -14,6 +14,7 @@ stelling_zwart: el kadi
 stelling_uitleg: "de slotstelling van geert drie zetten voor het einde. wit speelt en wint geforceerd groot materiaal en/of zet mat."
 stelling_oplossing: "1. Pxg6+! hxg6 2. Th3+ Lh6 3. Lxh6! met de matdreiging Lf8"
 draft: false
+last_modified_at: 2019-10-20
 ---
 ## Voorspel
 

@@ -22,6 +22,7 @@ stelling_oplossing: 'Frank reageerde gevat met een doorbraak in het centrum: 27.
 image:
   path: 'assets/images/1920/ni/r1_apres_schaak_1.jpg'
 draft: false
+last_modified_at: 2019-10-20
 ---
 ## Vooraf
 

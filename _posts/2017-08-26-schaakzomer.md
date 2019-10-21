@@ -18,6 +18,7 @@ noindex: true
 sitemap: false
 image:
 draft: false
+last_modified_at: 2019-10-20
 ---
 Naar goede gewoonte waren er deze zomer tal van onze leden actief op verschillende grote en kleinere tornooien, tijd voor een kort verslagje dus.<!--more-->
 

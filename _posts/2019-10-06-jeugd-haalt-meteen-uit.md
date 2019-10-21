@@ -8,6 +8,7 @@ date: 2019-10-06 21:00:00 +0100
 image:
   path: 'assets/images/1920/kk/rv1_stelling_mats_1.jpg'
 draft: false
+last_modified_at: 2019-10-20
 ---
 Vrijdag startte het clubkampioenschap. Dit jaar hebben we maar liefst eenentwintig deelnemers die in drie reeksen spelen. Zeven jeugdspelers meten zich voor de eerste keer met de rest van de club.<!--more-->
 

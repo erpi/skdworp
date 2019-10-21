@@ -22,6 +22,7 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 image:
   path: 'assets/images/1819/ni/r9_d2_bord_geert.jpg'
+last_modified_at: 2019-10-20
 ---
 ## Vooraf
 

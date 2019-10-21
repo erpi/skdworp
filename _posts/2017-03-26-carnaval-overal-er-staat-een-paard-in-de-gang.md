@@ -16,6 +16,7 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 date: '2017-03-26T20:54:22.296Z'
 draft: false
+last_modified_at: 2019-10-20
 ---
 ## Vooraf
 

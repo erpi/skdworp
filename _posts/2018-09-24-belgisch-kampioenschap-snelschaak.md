@@ -7,6 +7,7 @@ fotograaf: Yves,Walter
 image:
   path: 'assets/images/1819/mm/memorial_debast_1.jpg'
 draft: false
+last_modified_at: 2019-10-20
 ---
 **Elke schaker weet dat winst en verlies in partijtjes van vijf minuten dicht bij elkaar liggen. De factor geluk valt niet helemaal weg te cijferen. Die wetenschap geeft de prestatie van IM Stéphane Hautot (blitz-Elo 2342) nog meer glans. In Huizingen wist hij voor de tweede opeenvolgende keer de titel van Belgisch blitz-kampioen in de wacht te slepen.**<!--more-->
 

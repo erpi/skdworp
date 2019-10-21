@@ -7,6 +7,7 @@ title: Sterk bezet kampioenschap kan nog alle kanten uit
 auteur: Geert
 date: 2018-05-07 21:00:00 +0100
 draft: false
+last_modified_at: 2019-10-20
 ---
 ## voorspel
 

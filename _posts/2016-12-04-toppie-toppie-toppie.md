@@ -14,6 +14,7 @@ stelling_zwart: van laeken
 stelling_uitleg: "jammer genoeg is de stelling niet op het bord gekomen, maar serge hoopte wel op Kh7 van zijn tegenstander. zwart koos voor een minder mooi einde dat eveneens 2 zetten later uit was. opgave: wit speelt en zet mat."
 stelling_oplossing: "35.Dxg6+! Kxg6 36.Ld3#"
 draft: false
+last_modified_at: 2019-10-20
 ---
 ## Voorspel
 

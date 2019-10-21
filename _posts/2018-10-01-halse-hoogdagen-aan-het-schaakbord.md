@@ -16,6 +16,7 @@ date: 2018-10-01 21:30:00 +0100
 image:
   path: 'assets/images/logo-dworp.png'
 draft: false
+last_modified_at: 2019-10-20
 ---
 ## Vooraf
 

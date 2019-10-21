@@ -10,6 +10,7 @@ description: "Voor de vier spelers van het gloednieuwe tweede team is de opdrach
 fotograaf:
 date: 2017-09-25 20:00:00 +0100
 draft: false
+last_modified_at: 2019-10-20
 ---
 ## Vooraf
 

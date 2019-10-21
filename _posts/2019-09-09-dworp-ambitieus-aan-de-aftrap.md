@@ -14,6 +14,7 @@ stelling_oplossing: '1... Dxd6! 2. cxd6 Lxg2 3. e7 Th8! {dreigt mat in 2} 4. Ta1
 image:
   path: 'assets/images/1819/geert.jpg'
 draft: false
+last_modified_at: 2019-10-20
 ---
 **Het nieuwe schaakseizoen staat weer voor de deur en SK Dworp zet op alle vlakken zijn beste beentje voor. Er is de organisatie van het Belgisch kampioenschap snelschaak, we hebben jeugdspelers bij de vleet, een clubkampioenschap om duimen en vingers bij af te likken en, last but not least, vier ambitieuze IC-teams. Die staan klaar om in een nagelnieuw interclub-lokaal de tegenstand in de pan te hakken.**<!--more-->
 

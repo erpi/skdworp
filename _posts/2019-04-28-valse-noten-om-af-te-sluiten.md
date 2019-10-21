@@ -22,6 +22,7 @@ stelling_oplossing: ''
 draft: false
 image:
   path: 'assets/images/1819/ni/r11_d1_diederik_walter_stijn_eric.jpg'
+last_modified_at: 2019-10-20
 ---
 ## Vooraf
 

@@ -12,6 +12,7 @@ description: "Onze twee ploegen stonden afgelopen zondag voor een lastige verpla
 fotograaf:
 date: 2017-10-23 21:30:00 +0100
 draft: false
+last_modified_at: 2019-10-20
 ---
 ## Vooraf
 

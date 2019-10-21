@@ -19,6 +19,7 @@ stelling_oplossing: 1... Pxd4?! 2. Dxd4? Tad8! en wit verliest de dame wegens de
 date: '2017-02-13T20:30:08.842Z'
 timestamp: 1487017808
 draft: false
+last_modified_at: 2019-10-20
 ---
 ## Voorspel
 

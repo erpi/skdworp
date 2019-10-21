@@ -22,6 +22,7 @@ stelling_oplossing: >-
   van de zwarte h-pion niet meer te verhinderen!
 date: 2017-11-19 21:30:00 +0100
 draft: false
+last_modified_at: 2019-10-20
 ---
 ## Eerste ploeg
 

@@ -13,6 +13,7 @@ stelling_zwart: ''
 stelling_uitleg: ''
 stelling_oplossing: ''
 draft: false
+last_modified_at: 2019-10-20
 ---
 In ronde 6 van het klubkampioenschap speelde vrijdag 10 man. Ook al sta ik niet gekend om mijn vlotte schrijfstijl, ik wil toch proberen om deze historische avond met een klein verslagje te eren.<!--more-->
 

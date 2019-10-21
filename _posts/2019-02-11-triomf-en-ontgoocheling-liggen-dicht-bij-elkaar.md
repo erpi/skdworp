@@ -22,6 +22,7 @@ stelling_oplossing: 'wat gebeurde was 1... Pxd4!! 2. Txb6 Pxf3+ 3. Kf2 waarna he
 image:
   path: 'assets/images/1819/ni/r7_d3_niels_matthias_mats.jpg'
 draft: false
+last_modified_at: 2019-10-20
 ---
 ## Vooraf
 

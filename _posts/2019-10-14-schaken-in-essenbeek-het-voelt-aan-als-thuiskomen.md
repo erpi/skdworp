@@ -23,6 +23,7 @@ stelling_oplossing: ''
 image:
   path: 'assets/images/1920/ni/r2_lokaal.jpg'
 draft: false
+last_modified_at: 2019-10-20
 ---
 ## Vooraf
 
