@@ -4,10 +4,10 @@ ni_d1_uitploeg: Dworp 1
 ni_d2_uitploeg: Dworp 2
 ni_d3_uitploeg: Dworp 3
 ni_d4_uitploeg: Dworp 4
-title: "Pantin zien, afzien, knokken en half tevreden huiswaarts keren"
+title: Pantin zien, afzien, knokken en half tevreden huiswaarts keren
 auteur: Geert,Diederik,Yves,Gaston
 fotograaf: Yves
-date: 2019-10-21 22:00:00 +0200
+date: 2019-10-21T20:00:00.000+00:00
 ni_ronde: "3"
 ni_d1_thuisploeg: Pantin 1
 ni_d2_thuisploeg: Pantin 5
@@ -19,10 +19,11 @@ stelling_wit: ''
 stelling_zwart: ''
 stelling_uitleg: ''
 stelling_oplossing: ''
-description: "Onze vier teams maakten afgelopen zondag een gezamenlijk tripje naar Pantin. De club speelde niet op zijn normale locatie maar in een gemeenteschool."
+description: Onze vier teams maakten afgelopen zondag een gezamenlijk tripje naar
+  Pantin. De club speelde niet op zijn normale locatie maar in een gemeenteschool.
 image:
-  path: "assets/images/1920/ni/r3_d2_niels_1_fb.jpg"
-draft: false
+  path: assets/images/1920/ni/r3_d2_niels_1_fb.jpg
+
 ---
 ## Vooraf
   
@@ -44,7 +45,7 @@ Dat ik niet veel gezien heb, kwam doordat ik mijn handen vol had aan Fischer. Al
   
 Kjell op bord 3 met zwart speelde –zoals eigenlijk elke ronde- zeer degelijk. Hij kwam nooit in gevaar en kon dus ook een half punt mee naar huis nemen. Ook hierop kan ik weinig commentaar geven wegens niets gezien. Toch nog steeds gelijk, een stunt lijkt in de maak: 2,5-2,5 voor de goei.
   
-Helaas, na de uitstekende partij in de vorige ronde, voltrok zich een drama op het laatste bord waar Frank met zwart een speler met ruim 100 Elo meer partij gaf. Heel, heel lang bleef het gelijk opgaan. Slechts in de slotfase overzag Frank iets waardoor hij in een dame-eindspel met twee pionnen verzeilde. Dat viel niet meer te redden. Geknokt voor wat we waard waren maar het harde verdict luidt dat we ook na drie ronden punten- en troosteloos op de laatste plaats staan. 3,5-2,5 voor Pantin.
+Helaas, na de uitstekende partij in de vorige ronde, voltrok zich een drama op het laatste bord waar Frank met zwart een speler met ruim 100 Elo meer partij gaf. Heel, heel lang bleef het gelijk opgaan. Slechts in de slotfase overzag Frank iets waardoor hij in een dame-eindspel met twee pionnen minder verzeilde. Dat viel niet meer te redden. Geknokt voor wat we waard waren maar het harde verdict luidt dat we ook na drie ronden punten- en troosteloos op de laatste plaats staan. 3,5-2,5 voor Pantin.
   
 ## Pantin 5 overklast Dworp 2 in derby
 
@@ -64,7 +65,7 @@ Ook bij Sander op bord 4 ging de partij gelijk op, eveneens een toreneindspel. E
 
 ![foto Stijn en Filip met op de achtergrond Bernard en Eric][foto 3]
   
-Dworp 4 komt met een reserve ploeg opzetten in Brussel omdat Sam het nodig vond om het afgelopen weekend te huwen, Mo absoluut met vakantie wou en Yves een werkactiviteit had –maar desondanks toch meespeelde in team 2 (zie hoger). Komen we aan bij Pantin en ja hoor, die hadden hun ploeg aanzienlijk versterkt met 2 +1800den... Maar dan kennen ze Dworp nog niet!
+Dworp 3 komt met een reserve ploeg opzetten in Brussel omdat Sam het nodig vond om het afgelopen weekend te huwen, Mo absoluut met vakantie wou en Yves een werkactiviteit had –maar desondanks toch meespeelde in team 2 (zie hoger). Komen we aan bij Pantin en ja hoor, die hadden hun ploeg aanzienlijk versterkt met 2 +1800den... Maar dan kennen ze Dworp nog niet!
   
 Als eerste was Stijn op bord 2 met wit klaar. Hij kwam goed uit de opening, zette zijn tegenstrever de hele partij onder druk en bouwde zijn voordeel verder uit. De zwartspeler kwam steeds slechter weg en gaf onder druk en in tijdnood uiteindelijk een stuk weg. Zeer solide gespeeld. Blokjes vakkundig terug het doosje in en 0-1 voor de goei.
   
@@ -96,7 +97,7 @@ De remise van Eric laat zich begrijpen omdat Peter in een complexe, onduidelijke
   
 ## Achteraf
   
-Al bij al keerden we zondagavond tevreden Halle –of beter- Essenbeek-waarts. Het komt niet tot uiting in de cijfers maar zelfs Dworp 2 was lang niet kansloos. En ons eerste team had toch lange tijd uitzicht op een puntje. Het heeft niet mogen zijn. Voor de gemoedsrust van de spelers had het anders wel een goede zaak geweest.  Geteisterd door afzeggingen en –god betere het, een huwelijk! –mogen Dworp 3 en 4 hun twee pollekes kussen dat ze de volle buit mee naar huis namen. Wat een tornooileider lijden kan maar mogelijk was dit voor de promotie van minstens één team een cruciale zondag. Gelieve op dit élan voort te doen, dank u. Afspraak over enkele weken voor nieuwe avonturen.
+Al bij al keerden we zondagavond half tevreden Halle –of beter- Essenbeek-waarts. Het komt niet tot uiting in de cijfers maar zelfs Dworp 2 was lang niet kansloos. En ons eerste team had toch lange tijd uitzicht op een puntje. Het heeft niet mogen zijn. Voor de gemoedsrust van de spelers had het anders wel een goede zaak geweest.  Geteisterd door afzeggingen en –god betere het, een huwelijk! –mogen Dworp 3 en 4 hun twee pollekes kussen dat ze de volle buit mee naar huis namen. Wat een tornooileider lijden kan maar mogelijk was dit voor de promotie van minstens één team een cruciale zondag. Gelieve op dit élan voort te doen, dank u. Afspraak over enkele weken voor nieuwe avonturen.
 
 [foto 1]: {{ "/assets/images/1920/ni/r3_binnenplaats_school.jpg" | absolute_url }}
 [foto 2]: {{ "/assets/images/1920/ni/r3_d2_niels_1.jpg" | absolute_url }}
