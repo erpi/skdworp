@@ -22,6 +22,7 @@ stelling_oplossing: ''
 description: "Onze vier teams maakten afgelopen zondag een gezamenlijk tripje naar Pantin. De club speelde niet op zijn normale locatie maar in een gemeenteschool."
 image:
   path: "assets/images/1920/ni/r3_d2_niels_1_fb.jpg"
+draft: false
 ---
 ## Vooraf
   
