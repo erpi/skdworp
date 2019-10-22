@@ -4,8 +4,8 @@ ni_d1_uitploeg: Dworp 1
 ni_d2_uitploeg: Dworp 2
 ni_d3_uitploeg: Dworp 3
 ni_d4_uitploeg: Dworp 4
-title: Gezamenlijke trip in Pantin
-auteur: Geert,Yves,Gaston
+title: "Pantin zien, afzien, knokken en half tevreden huiswaarts keren"
+auteur: Geert,Diederik,Yves,Gaston
 fotograaf: Yves
 date: 2019-10-21 22:00:00 +0200
 ni_ronde: "3"
@@ -22,6 +22,7 @@ stelling_oplossing: ''
 description: "Onze vier teams maakten afgelopen zondag een gezamenlijk tripje naar Pantin. De club speelde niet op zijn normale locatie maar in een gemeenteschool."
 image:
   path: "assets/images/1920/ni/r3_d2_niels_1_fb.jpg"
+draft: false
 ---
 ## Vooraf
   
@@ -31,7 +32,7 @@ Onze vier teams maakten afgelopen zondag een gezamenlijk tripje naar Pantin. De 
   
 ![foto van de lange binnenhal met speeltafels][foto 1]
   
-Tegen Pantin leden we de vorige jaren altijd zware nederlagen. Twee jaar geleden een pak voor de broek, 0,5 uit 6 en verleden jaar 1,5 uit 6. Ook dit jaar was de thuisploeg ijzersterk (Elo-gemiddelde 2115 versus 2030 voor ons). Maar goed, het cliché wil dat elke match moet gespeeld worden. En al meteen gaan liggen bloeden omdat de tegenstander toevallig wat meer Elootjes heeft, dient ook nergens voor.
+Tegen Pantin leden we de vorige jaren altijd zware nederlagen. Twee jaar geleden een pak voor de broek, 0,5 uit 6 en verleden jaar 1,5 uit 6. Ook dit jaar was de thuisploeg ijzersterk (Elo-gemiddelde 2105 versus 2020 voor ons). Maar goed, het cliché wil dat elke match moet gespeeld worden. En al meteen gaan liggen bloeden omdat de tegenstander toevallig wat meer Elootjes heeft, dient ook nergens voor.
 
 Serge traditiegetrouw op 1, met zwart, had -eveneens klassiek- als eerste gedaan. Hij kwam goed uit de opening maar uiteindelijk was de stelling gelijk en dus nam Serge het remisevoorstel snel aan. Gelijke tred: 0,5-0,5 voor de goei.
    
@@ -75,9 +76,7 @@ Op het vierde bord zat Ruben die met wit debuteerde in de IC voor Dworp.  Aanvan
 
 De langste partij van de dag werd op bord 3 door Filip met zwart gespeeld. Onder druk verloor hij een pion maar de stelling was verre van gespeeld. Na een zeer sterk eindspel kwam hij steeds beter te staan. Spijtig genoeg net niet voldoende om te winnen maar zijn remise verdient alle respect en daarmee is hij ook de matchwinnaar. 1,5-2,5 voor de goei.
   
-We mogen meer dan tevreden zijn. Hierbij mijn (= Gaston) dank aan de invallers die erg hun best deden tegen een overmacht zoals Pantin. We hebben eruit gehaald wat erin zat. Om eerlijk te zijn: met onze typeploeg zou ik tevreden geweest zijn met 2-2. Lang leve de invallers!
-  
-Tot slot toch even melden dat dit lokaal, stoelen, sanitaire voorziening en tafels ruim onder de norm waren om van een interclubwaardig lokaal te spreken. Hier met zeven ploegen spelen is absoluut ‘not done’. En volgende match geven we er weer een lap op!
+We mogen meer dan tevreden zijn. Hierbij mijn (= Gaston) dank aan de invallers die erg hun best deden tegen een overmacht zoals Pantin. We hebben eruit gehaald wat erin zat. Om eerlijk te zijn: met onze typeploeg zou ik tevreden geweest zijn met 2-2. Lang leve de invallers! Tot slot toch even melden dat dit lokaal, stoelen, sanitaire voorziening en tafels ruim onder de norm waren om van een interclubwaardig lokaal te spreken. Hier met zeven ploegen spelen is absoluut ‘not done’. En volgende match geven we er weer een lap op!
 
 ![foto tafel Filip en tafels rondom (extreem vogelperspectief)][foto 5]
 
