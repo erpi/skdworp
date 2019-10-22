@@ -27,12 +27,12 @@
     "ronde": "ronde 3",
     "datum": "20-10-2019",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "166 TSM Mechelen 3", "uit": "260 Kapelle o/d Bos 2"},
-      {"tr": "", "ur": "", "thuis": "226 Europchess 5", "uit": "207 2 Fous Diogene 3"},
-      {"tr": "", "ur": "", "thuis": "204 Excelsior 1", "uit": "233 DZD Halle 1"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 6", "uit": "228 Dworp 3"},
-      {"tr": "", "ur": "", "thuis": "244 Brussels 5", "uit": "401 KGSRL 13"},
-      {"tr": "", "ur": "", "thuis": "952 Wavre 5", "uit": "114 Mechelen 7"}
+      {"tr": "2.5", "ur": "1.5", "thuis": "166 TSM Mechelen 3", "uit": "260 Kapelle o/d Bos 2"},
+      {"tr": "4", "ur": "0", "thuis": "226 Europchess 5", "uit": "207 2 Fous Diogene 3"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "204 Excelsior 1", "uit": "233 DZD Halle 1"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "278 Pantin 6", "uit": "228 Dworp 3"},
+      {"tr": "1", "ur": "3", "thuis": "244 Brussels 5", "uit": "401 KGSRL 13"},
+      {"tr": "1", "ur": "3", "thuis": "952 Wavre 5", "uit": "114 Mechelen 7"}
     ]
   },
   {

@@ -27,12 +27,12 @@
     "ronde": "ronde 3",
     "datum": "20-10-2019",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "244 Brussels 6", "uit": "901 Namur 7"},
-      {"tr": "", "ur": "", "thuis": "525 Anderlues 3", "uit": "548 Caissa Europe 4"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "244 Brussels 6", "uit": "901 Namur 7"},
+      {"tr": "2", "ur": "2", "thuis": "525 Anderlues 3", "uit": "548 Caissa Europe 4"},
       {"tr": "", "ur": "", "thuis": "Bye", "uit": "233 DZD Halle 2"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 7", "uit": "228 Dworp 4"},
-      {"tr": "", "ur": "", "thuis": "952 Wavre 6", "uit": "953 Nivelles 1"},
-      {"tr": "", "ur": "", "thuis": "551 Jurbise 2", "uit": "114 Mechelen 9"}
+      {"tr": "1", "ur": "3", "thuis": "278 Pantin 7", "uit": "228 Dworp 4"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "952 Wavre 6", "uit": "953 Nivelles 1"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "551 Jurbise 2", "uit": "114 Mechelen 9"}
     ]
   },
   {
