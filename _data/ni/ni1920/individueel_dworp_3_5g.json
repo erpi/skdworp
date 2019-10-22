@@ -30,5 +30,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Vennekens, Camiel", "uspeler": "Azzoug, Samir", "telo": 1773, "uelo": 1402, "tstam": 37168, "ustam": 77275},
       {"tr": "1", "ur": "0", "tspeler": "Baert, Yves", "uspeler": "Maury, Etienne", "telo": 1490, "uelo": 1271, "tstam": 48721, "ustam": 20535}
     ]
+  },
+  {
+    "ronde": "3",
+    "datum": "20-10-2019",
+    "thuis": "278 PANTIN 6",
+    "uit": "228 DWORP 3",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1718,
+    "ugem": 1716,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Polin, Giulia", "uspeler": "Boutchon, Gaston", "telo": 1826, "uelo": 1868, "tstam": 21127, "ustam": 28606},
+      {"tr": "0", "ur": "1", "tspeler": "Cargnelutti, Valentino", "uspeler": "Bertrand, Stijn", "telo": 1819, "uelo": 1726, "tstam": 10752, "ustam": 21253},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Reghabi Gholami, Jahangir", "uspeler": "Van De Velde, Filip", "telo": 1776, "uelo": 1723, "tstam": 14805, "ustam": 31682},
+      {"tr": "1", "ur": "0", "tspeler": "Sofia, Tommaso", "uspeler": "Degraeve, Ruben", "telo": 1449, "uelo": 1548, "tstam": 13408, "ustam": 13987}
+    ]
   }
 ]

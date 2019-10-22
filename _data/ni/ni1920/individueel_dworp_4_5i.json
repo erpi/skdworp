@@ -14,5 +14,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Saclsmolder, John", "uspeler": "Vennekens, Camiel", "telo": 1150, "uelo": 1773, "tstam": 16127, "ustam": 37168},
       {"tr": "0", "ur": "1", "tspeler": "De Nys, Noa", "uspeler": "Malfliet, Bernard", "telo": 1152, "uelo": 1722, "tstam": 17171, "ustam": 31348}
     ]
+  },
+  {
+    "ronde": "3",
+    "datum": "20-10-2019",
+    "thuis": "278 PANTIN 7",
+    "uit": "228 DWORP 4",
+    "tscore": 1,
+    "uscore": 3,
+    "tgem": 1590,
+    "ugem": 1748,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Noel, Thierry", "uspeler": "De Bosscher, Peter", "telo": 1757, "uelo": 1836, "tstam": 62162, "ustam": 655},
+      {"tr": "0", "ur": "1", "tspeler": "Djerbou, Samy", "uspeler": "Vennekens, Camiel", "telo": 1570, "uelo": 1773, "tstam": 71714, "ustam": 37168},
+      {"tr": "0", "ur": "1", "tspeler": "Santos Martins, Junior", "uspeler": "Malfliet, Bernard", "telo": 1562, "uelo": 1722, "tstam": 16821, "ustam": 31348},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Cirlig, Carmen Cristina", "uspeler": "Cornelis, Eric", "telo": 1470, "uelo": 1660, "tstam": 17011, "ustam": 76317}
+    ]
   }
 ]

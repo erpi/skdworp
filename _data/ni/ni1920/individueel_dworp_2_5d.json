@@ -30,5 +30,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Huyghe, Felix", "uspeler": "Oliphant, Tim", "telo": 0, "uelo": 1555, "tstam": 17486, "ustam": 12390},
       {"tr": "0", "ur": "1", "tspeler": "Beckers, Stijn", "uspeler": "Mc Hale, Andre", "telo": 0, "uelo": 1299, "tstam": 17472, "ustam": 61778}
     ]
+  },
+  {
+    "ronde": "3",
+    "datum": "20-10-2019",
+    "thuis": "278 PANTIN 5",
+    "uit": "228 DWORP 2",
+    "tscore": 4,
+    "uscore": 0,
+    "tgem": 1688,
+    "ugem": 1528,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Marchand, Jean-Louis", "uspeler": "Palmans, Niels", "telo": 1882, "uelo": 1565, "tstam": 62987, "ustam": 17733},
+      {"tr": "1", "ur": "0", "tspeler": "Gessis, Stavros", "uspeler": "Baert, Yves", "telo": 1816, "uelo": 1490, "tstam": 98412, "ustam": 48721},
+      {"tr": "1", "ur": "0", "tspeler": "Saag, Enith Li", "uspeler": "Laureys, Mats", "telo": 1696, "uelo": 0, "tstam": 21246, "ustam": 12750},
+      {"tr": "1", "ur": "0", "tspeler": "Bouzekri, Kevin", "uspeler": "Lerinckx, Sander", "telo": 1357, "uelo": 0, "tstam": 21307, "ustam": 12702}
+    ]
   }
 ]

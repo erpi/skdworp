@@ -34,5 +34,23 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Lot, Diederik", "uspeler": "Verhaegen, Albert", "telo": 2007, "uelo": 2050, "tstam": 9954, "ustam": 1473},
       {"tr": "0", "ur": "1", "tspeler": "De Reymaeker, Walter", "uspeler": "Miulescu, Gabriel", "telo": 1929, "uelo": 2020, "tstam": 34584, "ustam": 19476}
     ]
+  },
+  {
+    "ronde": "3",
+    "datum": "20-10-2019",
+    "thuis": "278 PANTIN 1",
+    "uit": "228 DWORP 1",
+    "tscore": 3.5,
+    "uscore": 2.5,
+    "tgem": 2106,
+    "ugem": 2018,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Mayr, Thomas", "uspeler": "Vanderwaeren, Serge", "telo": 2204, "uelo": 2110, "tstam": 15582, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Janssen, Coen", "uspeler": "Van Hoofstat, Tom", "telo": 2236, "uelo": 2082, "tstam": 21220, "ustam": 42706},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Robert, Pierre", "uspeler": "Spaens, Kjell", "telo": 2079, "uelo": 2019, "tstam": 92479, "ustam": 29343},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Fischer, Julie", "uspeler": "Verrijken, Geert", "telo": 2050, "uelo": 1989, "tstam": 20518, "ustam": 62766},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Solsky, Itzhak", "uspeler": "Lot, Diederik", "telo": 2036, "uelo": 2007, "tstam": 14119, "ustam": 9954},
+      {"tr": "1", "ur": "0", "tspeler": "Lane, Samuel", "uspeler": "Denys, Frank", "telo": 2033, "uelo": 1903, "tstam": 21221, "ustam": 21881}
+    ]
   }
 ]
