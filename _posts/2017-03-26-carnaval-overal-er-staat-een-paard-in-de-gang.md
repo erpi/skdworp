@@ -7,7 +7,7 @@ ni_ronde: '10'
 title: 'Carnaval overal, er staat een paard in de gang'
 auteur: Geert
 fotograaf: Diederik
-description: "Mits winst in deze ronde had de tegenstander van vandaag nog een waterkansje op behoud. Van onze kant konden wij er, bevrijd van alle degradatiedemonen, vrijuit tegenaan gaan. De juiste ingrediënten dus voor een ontspannen pot zondagnamiddagschaak."
+description: "Bevrijd van alle degradatiedemonen konden wij er vrijuit tegenaan gaan. De juiste ingrediënten dus voor een ontspannen pot zondagnamiddagschaak."
 stelling_fen: ''
 stelling_titel: ''
 stelling_wit: ''
@@ -16,7 +16,7 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 date: '2017-03-26T20:54:22.296Z'
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Vooraf
 

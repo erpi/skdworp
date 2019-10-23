@@ -8,7 +8,7 @@ ni_d3_thuisploeg: Dworp 3
 date: 2018-11-19 20:04
 auteur: Diederik,Tom,Eric,Geert
 fotograaf: Diederik
-description: "Alweer de vierde interclub-ronde van het seizoen 2018-2019. Time flies. En stilaan moeten we aan de puntjes beginnen denken om het jaar met een gerust gemoed en ongeschonden door te komen."
+description: "Alweer de vierde interclub-ronde. Time flies. En stilaan moeten we aan de puntjes beginnen denken om het jaar met een gerust gemoed door te komen."
 ni_ronde: 4
 ni_d1_uitploeg: Dworp 1
 ni_d2_uitploeg: Leuze 1
@@ -22,7 +22,7 @@ stelling_oplossing: ''
 image:
   path: 'assets/images/1819/ni/r4_d1_kjell.jpg'
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Vooraf
 

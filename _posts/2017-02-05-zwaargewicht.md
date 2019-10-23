@@ -1,6 +1,6 @@
 ---
 redirect_from: /2017/02/05/kk-r6-verslag-diederik/
-description: 'In ronde 6 van het klubkampioenschap speelde 10 man en ook al sta ik niet gekend om mijn vlotte schrijfstijl, wil ik toch proberen om deze historische avond met een klein verslagje te eren.'
+description: 'In ronde 6 van het clubkampioenschap speelde 10 man. Deze historische avond gaan we met een verslagje eren.'
 tag: kk
 kk_ronde: '6'
 title: 'Zwaargewicht'
@@ -13,7 +13,7 @@ stelling_zwart: ''
 stelling_uitleg: ''
 stelling_oplossing: ''
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 In ronde 6 van het klubkampioenschap speelde vrijdag 10 man. Ook al sta ik niet gekend om mijn vlotte schrijfstijl, ik wil toch proberen om deze historische avond met een klein verslagje te eren.<!--more-->
 

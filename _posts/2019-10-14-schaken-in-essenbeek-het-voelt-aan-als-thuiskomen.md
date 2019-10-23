@@ -7,7 +7,7 @@ ni_d4_thuisploeg: Dworp 4
 title: Schaken in Essenbeek, het voelt aan als thuiskomen
 auteur: Geert,Gaston
 fotograaf: Yves
-description: "Eerste thuisronde in de interclubs 2019-2020 en meteen konden we erin vliegen in een nagelnieuw lokaal in Essenbeek. Qua zaal en locatie gewoon perfect en dat gaan de tegenstanders in de toekomst geweten hebben."
+description: "Eerste thuisronde in de interclubs 2019-2020 en meteen konden we erin vliegen in een nagelnieuw lokaal in Essenbeek. Qua zaal en locatie gewoon perfect."
 date: 2019-10-14 21:00:00 +0200
 ni_ronde: "2"
 ni_d1_uitploeg: Wavre 1
@@ -23,7 +23,7 @@ stelling_oplossing: ''
 image:
   path: 'assets/images/1920/ni/r2_lokaal.jpg'
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Vooraf
 

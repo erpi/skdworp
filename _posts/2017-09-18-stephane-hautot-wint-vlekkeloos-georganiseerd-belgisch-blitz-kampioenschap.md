@@ -1,6 +1,6 @@
 ---
 redirect_from: /2017/09/18/belgisch-kampioenschap-blitz/
-description: "Met een halfje voor op Elo-favoriet GM Alexandre Dgebuadze won Stéphane Hautot afgelopen zaterdag de vierde Memorial Debast, oftewel het Belgisch kampioenschap snelschaken."
+description: "Met een halfje voor op GM Alexandre Dgebuadze won Stéphane Hautot afgelopen zaterdag de vierde Memorial Debast, oftewel het Belgisch kampioenschap snelschaken."
 tag: mm
 title: Stéphane Hautot wint vlekkeloos georganiseerd Belgisch blitz-kampioenschap
 auteur: Geert
@@ -8,7 +8,7 @@ fotograaf: Pieter
 image:
   path: '/assets/images/1718/mm/hautot.jpg'
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 **Met een halfje voor op Elo-favoriet GM Alexandre Dgebuadze won Stéphane Hautot afgelopen zaterdag de vierde Memorial Debast, oftewel het Belgisch kampioenschap snelschaken.  Diederik was de lokale held en mag zich met zijn knappe 13de plaats champ van Vlaams-Brabant noemen. Een dikke pluim ook voor catering, organisatie en toernooileiding. Top Dworp!**<!--more-->
 

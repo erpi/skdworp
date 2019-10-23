@@ -8,7 +8,7 @@ ni_d2_uitploeg: Dworp 2
 ni_ronde: 10
 title: 'Klasse, karakter, kennis, kunde &amp; konijnenpoot: Dworp in actie'
 auteur: Diederik,Eric,Geert
-description: "De zenuwen stonden strak gespannen bij de zes Dworpse gladiatoren van het eerste team. En met reden. Het ging immers tegen Leuze, laatste in de stand. Winst betekende het behoud in derde afdeling, gelijkspel impliceerde suspense en nog meer zenuwen in de laatste ronde."
+description: "De zenuwen stonden strak gespannen bij de zes Dworpse gladiatoren van het eerste team. En met reden. Het ging immers tegen Leuze, laatste in de stand."
 stelling_fen: '8/5p2/3bp1p1/3k2P1/1p1P1P2/p2KP3/8/2N5 b - - 0 1'
 stelling_titel:
 stelling_wit: Verschueren
@@ -17,7 +17,7 @@ stelling_uitleg: 'Zwart staat ogenschijnlijk volledig gewonnen met twee verbonde
 stelling_oplossing: '1... b3! zwart moet zijn pluspion teruggeven om na 2.Pxb3 op te volgen met 2... a2 en 3... La3 waarna wit ofwel zijn paard verliest of moet toestaan dat de zwarte koning infiltreert.'
 date: 2018-04-24 20:00:00 +0100
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Vooraf
 

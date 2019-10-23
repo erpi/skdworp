@@ -1,13 +1,13 @@
 ---
 redirect_from: /2018/05/07/kk-r11-verslag-geert/
-description: 'Met nog twee ronden voor de boeg is het hoog tijd om een stand van zaken op te maken van het clubkampioenschap 2017-2018. Stilaan valt het belangrijkste toernooi van SK Dworp in een beslissende plooi.'
+description: 'Met nog twee ronden voor de boeg is het hoog tijd om een stand van zaken op te maken van het clubkampioenschap 2017-2018.'
 tag: kk
 kk_ronde: '11'
 title: Sterk bezet kampioenschap kan nog alle kanten uit
 auteur: Geert
 date: 2018-05-07 21:00:00 +0100
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## voorspel
 

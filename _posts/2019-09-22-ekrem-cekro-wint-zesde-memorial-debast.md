@@ -1,5 +1,5 @@
 ---
-description: "Niet de gedoodverfde favoriet, de Spaanse grootmeester Miguel Muñoz (blitz-Elo 2611!) maar oude krijger Ekrem Cekro (2371) won afgelopen zaterdag de zesde editie van de Memorial Debast."
+description: "Niet de gedoodverfde favoriet, de Spaanse grootmeester Miguel Muñoz maar oude krijger Ekrem Cekro won afgelopen zaterdag de zesde editie van de Memorial Debast"
 tag: mm
 title: Ekrem Cekro wint verrassend zesde Memorial Debast
 auteur: Geert
@@ -7,7 +7,7 @@ fotograaf: Yves,Eddy,Walter
 image:
   path: 'assets/images/1920/mm/memorial_debast_1.jpg'
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 **Niet de gedoodverfde favoriet, de Peruviaans Spaanse grootmeester Miguel Muñoz Pantoja (blitz-Elo 2611!) maar oude krijger Ekrem Cekro (2371) won afgelopen zaterdag de zesde editie van de Memorial Debast. Hij mag zich een jaar lang Belgisch blitzkampioen noemen. Een schitterende prestatie op een supermooie schaakdag. Astrid Barbier haalde het bij de vrouwen.**<!--more-->
 

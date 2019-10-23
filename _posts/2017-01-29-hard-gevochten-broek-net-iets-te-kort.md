@@ -1,6 +1,6 @@
 ---
 redirect_from: /2017/01/29/ni-r6-verslag-geert/
-description: 'Na een lange winterstop trekt de IC-ploeg zich weer op gang. De vorige twee ronden waren goed voor twee overwinningen. Het behoud in derde afdeling lijkt nu dus al in kannen en kruiken.'
+description: 'Na een lange winterstop trekt de IC-ploeg zich weer op gang. De vorige twee ronden waren goed voor twee overwinningen. Het behoud lijkt al in kannen en kruiken.'
 tag: ni
 ni_d1_thuisploeg: Wavre 1
 ni_d1_uitploeg: Dworp 1
@@ -16,7 +16,7 @@ stelling_oplossing: '1... Pxd4! 2. Pxd4 Dxd4 3. Lg6+ hxg6 4. Dxd4 Lxh2+ 5. Kh1
 Lf4+ en eeuwig schaak (na 5... Le5+ 6. Dh4 Txh4+ 7. Lxh4 staat zwart waarschijnlijk zelfs iets beter)'
 date: '2017-01-29T20:48:06.462Z'
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Voorspel
 

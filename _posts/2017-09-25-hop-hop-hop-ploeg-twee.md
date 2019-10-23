@@ -6,11 +6,11 @@ ni_d2_uitploeg: Dworp 2
 ni_ronde: 1
 title: Hop, hop, hop ploeg twee, spoel ze door ’t wc!
 auteur: Geert
-description: "Voor de vier spelers van het gloednieuwe tweede team is de opdracht simpel: elke ronde winnen en kampioen spelen. Daarvoor werd ondergetekende gedetacheerd naar vijfde afdeling en voor minder gaan we ook niet."
+description: "Voor de vier spelers van het gloednieuwe tweede team is de opdracht simpel: elke ronde winnen en kampioen spelen. Voor minder gaan we ook niet."
 fotograaf:
 date: 2017-09-25 20:00:00 +0100
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Vooraf
 

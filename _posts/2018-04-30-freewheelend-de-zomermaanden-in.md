@@ -8,11 +8,11 @@ ni_d2_uitploeg: Europchess 4
 ni_ronde: 11
 title: Freewheelend de zomermaanden in
 auteur: Geert
-description: "Zeer relax gingen de twee Dworpse teams afgelopen zondag in de Greunenond aan de slag tegen de Europchessenaren. Met heel wat invallers. Voor ons had de uitslag geen belang meer, voor de tegenstander in derde afdeling hing het behoud er nog vanaf."
+description: "Zeer relax gingen de twee Dworpse teams afgelopen zondag in de Greunenond aan de slag tegen de Europchessenaren. Met heel wat invallers."
 fotograaf: Diederik
 date: 2018-04-30 20:00:00 +0000
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Vooraf
 

@@ -3,7 +3,7 @@ title: 'The next generation'
 tag: varia
 date: 2019-03-03 20:00:00 +0100
 auteur: Diederik
-description: "Gisteren traden we aan op het debutantentornooi van Chesspirant te Lokeren met maar liefst 10 spelers: Nathan, Lexie, Charlotte, Helena, Jannes, Matthias, Sander, Niels, Mats en ikzelf."
+description: "Gisteren traden we aan op het debutantentornooi van Chesspirant te Lokeren met maar liefst 10 spelers."
 stelling_fen: ''
 stelling_titel: ''
 stelling_wit: ''
@@ -13,7 +13,7 @@ stelling_oplossing: ''
 image:
   path: 'assets/images/1819/groep_landegem.jpg'
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 Gisteren traden we aan op het debutantentornooi van Chesspirant te Lokeren met maar liefst 10 spelers: Nathan, Lexie, Charlotte, Helena, Jannes, Matthias, Sander, Niels, Mats en ikzelf. Als begeleiders tekenden Christophe, een iets minder bekend lid van onze club, en mijn zus Hedwig present.<!--more-->
 

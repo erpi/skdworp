@@ -8,7 +8,7 @@ ni_d2_uitploeg: Dworp 2
 ni_ronde: 5
 title: Met gemengde gevoelens de winterstop in
 auteur: Diederik,Geert
-description: "De twee Dworpse ploegen stonden in de vijfde ronde van de interclub-competitie voor een moeilijke opdracht. Team 1 had de zware taak om tegen het sterke, voor de titel spelende, Opwijk de schade te beperken en indien mogelijk een graantje mee te pikken."
+description: "De twee Dworpse ploegen stonden voor een moeilijke opdracht. Team 1 had de zware taak om tegen het sterke Opwijk de schade te beperken."
 stelling_fen: 8/p1p2p2/1p1p1P1K/6P1/2PP1pk1/2P4R/P7/4r3 w - - 0 1
 stelling_titel: Combinatie van de dag
 stelling_wit: Eric
@@ -19,7 +19,7 @@ stelling_oplossing: >-
   1. g6! en promotie is niet meer te verhinderen
 date: 2017-12-03 21:30:00 +0100
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Vooraf
 

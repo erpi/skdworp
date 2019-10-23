@@ -3,10 +3,10 @@ redirect_from: /2017/03/13/vsf-rapid-50plus/
 tag: varia
 title: Johan Goormachtigh en Marcel Van Herck winnen krasse knarren tornooi
 auteur: Geert
-description: "Op 4 maart werd in Kapelle-op-den-Bos verzamelen geblazen voor het eerste Rapidkampioenschap 50+ en 65+ van Vlaanderen. In een zaal met de toepasselijke naam 'De Plekpot' zorgde de bekendste facteur uit het Vlaamse schaakwereldje voor een fijn maar enigszins controversieel tornooi."
+description: "Op 4 maart werd in Kapelle-op-den-Bos verzamelen geblazen voor het eerste Rapidkampioenschap 50+ en 65+ van Vlaanderen."
 date: '2017-03-13T20:47:56.971Z'
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 Op 4 maart werd in Kapelle-op-den-Bos verzamelen geblazen voor het eerste Rapidkampioenschap 50+ en 65+ van Vlaanderen. In een zaal met de toepasselijke naam 'De Plekpot' zorgde de bekendste facteur uit het Vlaamse schaakwereldje, **_Hugo Van Steenwinckel_**, voor een fijn maar enigszins controversieel tornooi. Met een dertigtal deelnemers werd immers niet geopteerd voor een Zwitsers systeem. Wel werden de spelers volgens speelsterkte ingedeeld in vier groepen van 7 à 8 spelers. Het tempo bedroeg 15 minuten plus 10 seconden per zet.<!--more-->
 

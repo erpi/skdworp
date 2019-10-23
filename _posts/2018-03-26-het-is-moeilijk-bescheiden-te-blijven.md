@@ -8,7 +8,7 @@ ni_d2_uitploeg: Wavre 3
 ni_ronde: 9
 title: "’t Is moeilijk bescheiden te blijven, wanneer je zo goed bent als wij. Jaja."
 auteur: Eric,Geert
-description: "Nadat we in de vorige ronden tegen Mechelen en Wetteren nipt tekort schoten, wist de eerste ploeg zondag wat hen te doen stond. Enkel een overwinning laat toe het degradatiespook –weg vies beest!- van ons af te schudden en weer vrijer te ademen."
+description: "Nadat we in de vorige ronden tegen Mechelen en Wetteren nipt tekort schoten, wist de eerste ploeg zondag wat hen te doen stond."
 stelling_fen: '2krr3/ppp3pp/2n2b2/3q2N1/4p3/8/PPPBQPPP/3RR1K1 b - - 0 1'
 stelling_titel: Het enigmatisch zetje
 stelling_wit: Zamparo
@@ -17,7 +17,7 @@ stelling_uitleg: 'droogstoppel stockfish gaat hier het liefst voor een pionnetje
 stelling_oplossing: '1... e3! en wit heeft niet beter dan 2.Lxe3 Txe3! 3.Txd5 Txe2 4.Txd8+ Lxd8 5.Txe2 Lxg5 waarna hij enkel een witte toren overhoudt tegenover een zwarte loper en paard'
 date: 2018-03-26 22:00:00 +0100
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Vooraf
 

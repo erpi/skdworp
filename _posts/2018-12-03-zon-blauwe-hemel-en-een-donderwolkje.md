@@ -9,7 +9,7 @@ draft1: true
 date: 2018-12-03 20:00:50 +0100
 auteur: Diederik,Geert
 fotograaf: Diederik,Peter,Geert,Yves
-description: "Alweer de laatste ronde interclub alvorens we een lange winterstop ingaan. Strenge winters in België (haha) want pas op 3 februari 2019 wordt er opnieuw geschaakt."
+description: "Alweer de laatste ronde interclub alvorens we een lange winterstop ingaan. Strenge winters in België want pas op 3 februari 2019 wordt er opnieuw geschaakt."
 ni_ronde: 5
 ni_d1_thuisploeg: Caissa Europe 1
 ni_d2_thuisploeg: Bosvoorde 2
@@ -23,7 +23,7 @@ stelling_oplossing: ''
 image:
   path: 'assets/images/1819/ni/r5_apres_ski.jpg'
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Vooraf
 

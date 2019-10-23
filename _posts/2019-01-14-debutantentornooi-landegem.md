@@ -3,7 +3,7 @@ title: Debutantentornooi Landegem
 tag: varia
 date: 2019-01-14 20:00:00 +0100
 auteur: Diederik
-description: "Het was een tijdje geleden, maar zaterdag lukte het eindelijk om nog eens met een Dworpse delegatie naar een jeugdtornooi te gaan. Niels, Sander, Mathias en Jannes tekenden present in Landegem."
+description: "Het was een tijdje geleden, maar zaterdag lukte het eindelijk om nog eens met een Dworpse delegatie naar een jeugdtornooi te gaan. We tekenden present in Landegem."
 stelling_fen: ''
 stelling_titel: ''
 stelling_wit: ''
@@ -13,7 +13,7 @@ stelling_oplossing: ''
 image:
   path: 'assets/images/1819/jannes_landegem.jpg'
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 Het was een tijdje geleden, maar zaterdag lukte het eindelijk om nog eens met een Dworpse delegatie naar een jeugdtornooi te gaan. Niels, Sander, Mathias en Jannes tekenden present in Landegem.
 

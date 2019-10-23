@@ -7,7 +7,7 @@ ni_d3_uitploeg: Dworp 3
 title: Valse noten om af te sluiten & team 2 terug naar af
 auteur: Eric,Geert
 fotograaf: Tom
-description: "Team 1 kon na een vrij zorgeloos seizoen het orgelpunt plaatsen. Mits winst tegen de rechtstreekse tegenstander van vandaag, Europchess, bemachtigen onze topspelers nog een mooie vierde plek in het klassement."
+description: "Team 1 kon na een vrij zorgeloos seizoen het orgelpunt plaatsen, mits winst tegen de rechtstreekse tegenstander van vandaag, Europchess."
 date: 2019-04-28 21:00:00 +0200
 ni_ronde: 11
 ni_d1_thuisploeg: Europchess 2
@@ -22,7 +22,7 @@ stelling_oplossing: ''
 draft: false
 image:
   path: 'assets/images/1819/ni/r11_d1_diederik_walter_stijn_eric.jpg'
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Vooraf
 

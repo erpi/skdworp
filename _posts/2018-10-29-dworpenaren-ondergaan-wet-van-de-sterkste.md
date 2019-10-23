@@ -8,7 +8,7 @@ ni_d3_uitploeg: Dworp 3
 date: 2018-10-29 21:00:00 +0100
 auteur: Geert,Diederik,Tom,Frank
 fotograaf: Geert,Diederik,Yves
-description: "Tot voor deze ronde hadden de Dworpse teams redelijke prestaties afgeleverd. Niet schitterend maar zeker ook niet slecht. Van ronde 3 hoopten alle spelers –denk ik toch- dat hij snel voorbij zou zijn."
+description: "Tot voor deze ronde hadden de Dworpse teams redelijke prestaties afgeleverd. Van ronde 3 hoopten alle spelers dat hij snel voorbij zou zijn."
 ni_ronde: 3
 ni_d1_thuisploeg: Dworp 1
 ni_d2_thuisploeg: KSK Rochade 3
@@ -22,7 +22,7 @@ stelling_oplossing: ''
 image:
   path: 'assets/images/1819/ni/r3_d3_niels_sander_niels.jpg'
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Vooraf
 

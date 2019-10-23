@@ -6,7 +6,7 @@ ni_d2_thuisploeg: Dworp 2
 ni_d3_thuisploeg: Dworp 3
 title: 'Hoogdagen in Dworp: zeven winstpunten, zes remises en amper één nul'
 auteur: Diederik,Geert
-description: "Na een veel te lange winterstop konden we eindelijk nog eens intercluppen. En wel met z’n allen thuis in ons oude, vertrouwde Start 65 lokaal waar Micheline ons op tijd en stond voorziet van een natje en een droogje."
+description: "Na een veel te lange winterstop konden we eindelijk nog eens intercluppen. En wel met z’n allen thuis in ons oude, vertrouwde Start 65 lokaal."
 date: 2019-02-04 20:00:00 +0100
 ni_ronde: 6
 ni_d1_uitploeg: Tournai 1
@@ -19,7 +19,7 @@ stelling_zwart: ''
 stelling_uitleg: ''
 stelling_oplossing: ''
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Vooraf
 

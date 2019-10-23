@@ -7,7 +7,7 @@ ni_d3_thuisploeg: Dworp 3
 title: 'Geen enkel winstpunt op 14 partijen: balen als een stekker'
 auteur: Diederik,Geert,Camiel, Tom
 fotograaf: Yves
-description: "Een zware karwei deze zondag. Om te beginnen voor het eerste team van Dworp dat met Pantin een tegenstander partij geeft die volop wil winnen wegens nog in the running voor promotie."
+description: "Een zware karwei deze zondag. Om te beginnen voor het eerste team van Dworp dat met Pantin een tegenstander partij geeft die volop wil winnen."
 date: 2019-02-25 00:00:00 +0100
 ni_ronde: 8
 ni_d1_uitploeg: Pantin 1
@@ -22,7 +22,7 @@ stelling_oplossing: ''
 image:
   path: 'assets/images/1819/ni/r8_d2_peter.jpg'
 draft: False
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Vooraf
 

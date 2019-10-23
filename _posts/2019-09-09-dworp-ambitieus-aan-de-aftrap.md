@@ -4,7 +4,7 @@ tag: varia
 date: 2019-09-09 10:00:00 +0100
 auteur: Geert, Eric, Diederik
 fotograaf: Pieter
-description: "Het nieuwe schaakseizoen staat weer voor de deur en SK Dworp zet op alle vlakken zijn beste beentje voor. Er is de organisatie van het Belgisch kampioenschap snelschaak, we hebben jeugdspelers bij de vleet, een clubkampioenschap om duimen en vingers bij af te likken."
+description: "Het nieuwe schaakseizoen: er is de organisatie van het BK snelschaak, jeugdspelers bij de vleet en een clubkampioenschap om duimen en vingers bij af te likken."
 stelling_fen: 'k4r2/pb2q3/1p1QP3/2P5/P2P1p2/R5pp/3N2P1/6K1 b - - 0 1'
 stelling_titel: 'het bos en de bomen'
 stelling_wit: 'Halfaoui'
@@ -14,7 +14,7 @@ stelling_oplossing: '1... Dxd6! 2. cxd6 Lxg2 3. e7 Th8! {dreigt mat in 2} 4. Ta1
 image:
   path: 'assets/images/1819/geert.jpg'
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 **Het nieuwe schaakseizoen staat weer voor de deur en SK Dworp zet op alle vlakken zijn beste beentje voor. Er is de organisatie van het Belgisch kampioenschap snelschaak, we hebben jeugdspelers bij de vleet, een clubkampioenschap om duimen en vingers bij af te likken en, last but not least, vier ambitieuze IC-teams. Die staan klaar om in een nagelnieuw interclub-lokaal de tegenstand in de pan te hakken.**<!--more-->
 

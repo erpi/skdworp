@@ -1,6 +1,6 @@
 ---
 redirect_from: /2017/05/06/kk-r11-verslag-diederik/
-description: De laatste ronde van het KK weeral, maar het blijft spannend daar er nog een hele hoop inhaalpartijen te spelen zijn en de eindstand dus pas over enkele weken gekend zal zijn.'
+description: De laatste ronde van het KK weeral. Het blijft spannend. Er zijn nog een hoop inhaalpartijen te spelen. De eindstand is dus pas over enkele weken gekend.'
 tag: kk
 kk_ronde: '11'
 title: 'Geert neemt de leiding na verrassende laatste ronde'
@@ -13,7 +13,7 @@ stelling_zwart: 'Walter'
 stelling_uitleg: 'de stelling is niet exact juist, maar het matbeeld klopt wel'
 stelling_oplossing: 'Lh6!'
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 De laatste ronde van het KK weeral, maar het blijft spannend daar er nog een hele hoop inhaalpartijen te spelen zijn en de eindstand dus pas over enkele weken gekend zal zijn.<!--more-->
 

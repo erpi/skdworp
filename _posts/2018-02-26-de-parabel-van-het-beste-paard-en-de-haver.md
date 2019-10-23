@@ -6,10 +6,10 @@ ni_d1_uitploeg: Dworp 1
 ni_ronde: 7
 title: De parabel van het beste paard en de haver
 auteur: Diederik,Geert
-description: "Enkel het Dworpse topteam in afdeling 3B hoefde deze zevende ronde in actie te komen. Ploeg 2 was bye. Tegen een gelijkwaardige tegenstander speelden we tegen de Maneblussers met een duidelijke inzet."
+description: "Enkel het Dworpse topteam hoefde deze ronde in actie te komen. We speelden tegen de Maneblussers, een gelijkwaardige tegenstander, met een duidelijke inzet."
 date: 2018-02-26 22:00:00 +0100
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Vooraf
 

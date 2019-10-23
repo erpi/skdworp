@@ -6,7 +6,7 @@ ni_d1_uitploeg: Dworp 1
 ni_ronde: '11'
 title: Onverwacht vlotte overwinning sluit zorgeloos seizoen af
 auteur: Geert
-description: "Alweer de laatste ronde van het IC-seizoen 2016-2017. De tegenstander vandaag, Wetteren 2, is een stevig ploegske. En uitgerekend tegen ons, kwamen ze dan nog wat straffer voor de dag dan gewoonlijk."
+description: "Alweer de laatste ronde van het IC-seizoen 2016-2017. De tegenstander vandaag, Wetteren 2, is een stevig ploegske."
 fotograaf: Diederik
 stelling_fen: ''
 stelling_titel: ''
@@ -16,7 +16,7 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 date: '2017-04-23T20:56:54.178Z'
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Vooraf
 

@@ -6,7 +6,7 @@ ni_ronde: 4
 ni_d1_thuisploeg: soignies 1
 ni_d1_uitploeg: dworp 1
 title: Met de hakken over de sloot
-description: "Soignies, laatste in de stand met nul punten, kreeg in de drie voorgaande ronden telkens een 5-1-pandoering. Zelf moeten we natuurlijk ook niet te hoog van de toren blazen met amper één op zes."
+description: "Soignies, laatste in de stand met nul punten, kreeg in de drie voorgaande ronden telkens een 5-1-pandoering. Zelf moeten we ook niet te hoog van de toren blazen."
 stelling_fen: "7k/1pp1N1bp/3p2p1/p1n5/2B1p3/5R2/PP4K1/R1B1q3 w - -"
 stelling_titel: combinatie van de dag
 stelling_wit: geert v
@@ -14,7 +14,7 @@ stelling_zwart: el kadi
 stelling_uitleg: "de slotstelling van geert drie zetten voor het einde. wit speelt en wint geforceerd groot materiaal en/of zet mat."
 stelling_oplossing: "1. Pxg6+! hxg6 2. Th3+ Lh6 3. Lxh6! met de matdreiging Lf8"
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Voorspel
 

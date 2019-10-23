@@ -1,6 +1,6 @@
 ---
 redirect_from: /2017/02/19/ni-r8-verslag-Geert/
-description: 'Na een mindere prestatie in de vorige ronde gingen we op zoek naar eerherstel. Het zou geen sinecure worden tegen het sterke Pantin dat aantrad met een ploeggemiddelde van 2082 Elo.'
+description: 'Na een mindere prestatie in de vorige ronde gingen we op zoek naar eerherstel. Het zou geen sinecure worden tegen het sterke Pantin.'
 tag: ni
 ni_d1_thuisploeg: Pantin 1
 ni_d1_uitploeg: Dworp 1
@@ -23,7 +23,7 @@ stelling_oplossing: >-
 date: '2017-02-19T21:32:31.992Z'
 timestamp: 1487539951
 draft: false
-last_modified_at: 2019-10-20
+last_modified_at: 2019-10-23
 ---
 ## Vooraf
 
