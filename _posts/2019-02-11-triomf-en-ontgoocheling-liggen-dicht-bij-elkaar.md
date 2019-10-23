@@ -1,5 +1,5 @@
 ---
-redirect_from: /2019/02/10/ni-r7-verslag-diederik/
+redirect_from: /2019/02/09/ni-r7-verslag-diederik/
 tag: ni
 ni_d1_uitploeg: Dworp 1
 ni_d2_uitploeg: Dworp 2

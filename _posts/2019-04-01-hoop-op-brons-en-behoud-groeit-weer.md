@@ -1,5 +1,5 @@
 ---
-redirect_from: /2019/04/01/ni-r10-verslag-geert/
+redirect_from: /2019/03/31/ni-r10-verslag-geert/
 tag: ni
 ni_d1_thuisploeg: Dworp 1
 ni_d2_thuisploeg: Dworp 2

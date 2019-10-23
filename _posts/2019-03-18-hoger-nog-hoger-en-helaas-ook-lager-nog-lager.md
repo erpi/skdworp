@@ -1,5 +1,5 @@
 ---
-redirect_from: /2019/03/17/ni-r9-verslag-geert/
+redirect_from: /2019/03/16/ni-r9-verslag-geert/
 tag: ni
 ni_d1_uitploeg: Dworp 1
 ni_d2_uitploeg: Dworp 2
