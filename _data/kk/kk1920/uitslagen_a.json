@@ -70,8 +70,8 @@
         "zwart": "Bye"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Matthias Vanrossum",
         "zwart": "Kristoff Bultijnck"
       },
@@ -82,8 +82,8 @@
         "zwart": "Felix Huyghe"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Eric Cornelis",
         "zwart": "Walter De Reymaeker"
       }
