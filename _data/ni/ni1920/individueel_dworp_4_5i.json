@@ -20,8 +20,8 @@
     "datum": "20-10-2019",
     "thuis": "278 PANTIN 7",
     "uit": "228 DWORP 4",
-    "tscore": 1,
-    "uscore": 3,
+    "tscore": 1.0,
+    "uscore": 3.0,
     "tgem": 1590,
     "ugem": 1748,
     "borden": [
@@ -29,6 +29,22 @@
       {"tr": "0", "ur": "1", "tspeler": "Djerbou, Samy", "uspeler": "Vennekens, Camiel", "telo": 1570, "uelo": 1773, "tstam": 71714, "ustam": 37168},
       {"tr": "0", "ur": "1", "tspeler": "Santos Martins, Junior", "uspeler": "Malfliet, Bernard", "telo": 1562, "uelo": 1722, "tstam": 16821, "ustam": 31348},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Cirlig, Carmen Cristina", "uspeler": "Cornelis, Eric", "telo": 1470, "uelo": 1660, "tstam": 17011, "ustam": 76317}
+    ]
+  },
+  {
+    "ronde": "4",
+    "datum": "17-11-2019",
+    "thuis": "228 DWORP 4",
+    "uit": "952 WAVRE 6",
+    "tscore": 3.0,
+    "uscore": 1.0,
+    "tgem": 1830,
+    "ugem": 1617,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Dewitte, Didier", "telo": 1989, "uelo": 1668, "tstam": 62766, "ustam": 98748},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher, Peter", "uspeler": "De Wergifosse, Etienne", "telo": 1836, "uelo": 1641, "tstam": 655, "ustam": 82589},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vennekens, Camiel", "uspeler": "Tavernier, Frank", "telo": 1773, "uelo": 1640, "tstam": 37168, "ustam": 85642},
+      {"tr": "1", "ur": "0", "tspeler": "Malfliet, Bernard", "uspeler": "Artisien, Christian", "telo": 1722, "uelo": 1520, "tstam": 31348, "ustam": 73687}
     ]
   }
 ]

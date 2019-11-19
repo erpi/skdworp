@@ -46,5 +46,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Saag, Enith Li", "uspeler": "Laureys, Mats", "telo": 1696, "uelo": 0, "tstam": 21246, "ustam": 12750},
       {"tr": "1", "ur": "0", "tspeler": "Bouzekri, Kevin", "uspeler": "Lerinckx, Sander", "telo": 1357, "uelo": 0, "tstam": 21307, "ustam": 12702}
     ]
+  },
+  {
+    "ronde": "4",
+    "datum": "17-11-2019",
+    "thuis": "228 DWORP 2",
+    "uit": "244 BRUSSELS 4",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1644,
+    "ugem": 1292,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Van De Velde, Filip", "uspeler": "Van De Craen, Piet", "telo": 1723, "uelo": 1507, "tstam": 31682, "ustam": 7013},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Palmans, Niels", "uspeler": "Shrimali, Priyansh", "telo": 1565, "uelo": 1219, "tstam": 17733, "ustam": 21201},
+      {"tr": "0", "ur": "1", "tspeler": "Huyghe, Felix", "uspeler": "Liger, Maxence", "telo": 0, "uelo": 1150, "tstam": 17486, "ustam": 17315},
+      {"tr": "0", "ur": "1", "tspeler": "Beckers, Stijn", "uspeler": "Violini, Enrico Giuseppe", "telo": 0, "uelo": 0, "tstam": 17472, "ustam": 21004}
+    ]
   }
 ]

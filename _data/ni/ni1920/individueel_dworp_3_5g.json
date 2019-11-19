@@ -46,5 +46,21 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Reghabi Gholami, Jahangir", "uspeler": "Van De Velde, Filip", "telo": 1776, "uelo": 1723, "tstam": 14805, "ustam": 31682},
       {"tr": "1", "ur": "0", "tspeler": "Sofia, Tommaso", "uspeler": "Degraeve, Ruben", "telo": 1449, "uelo": 1548, "tstam": 13408, "ustam": 13987}
     ]
+  },
+  {
+    "ronde": "4",
+    "datum": "17-11-2019",
+    "thuis": "228 DWORP 3",
+    "uit": "244 BRUSSELS 5",
+    "tscore": 3.5,
+    "uscore": 0.5,
+    "tgem": 1663,
+    "ugem": 1403,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Boutchon, Gaston", "uspeler": "Lambert, Michel", "telo": 1868, "uelo": 1810, "tstam": 28606, "ustam": 80918},
+      {"tr": "1", "ur": "0", "tspeler": "Van Hoofstat, Sam", "uspeler": "Rotthier, Gery", "telo": 1866, "uelo": 1445, "tstam": 39101, "ustam": 45365},
+      {"tr": "1", "ur": "0", "tspeler": "Taleb, Mohamad", "uspeler": "Gobron, Jean-Pierre", "telo": 1427, "uelo": 1175, "tstam": 64611, "ustam": 84778},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Baert, Yves", "uspeler": "Heyndrickx, Christophe", "telo": 1490, "uelo": 1182, "tstam": 48721, "ustam": 60697}
+    ]
   }
 ]

@@ -52,5 +52,23 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Solsky, Itzhak", "uspeler": "Lot, Diederik", "telo": 2036, "uelo": 2007, "tstam": 14119, "ustam": 9954},
       {"tr": "1", "ur": "0", "tspeler": "Lane, Samuel", "uspeler": "Denys, Frank", "telo": 2033, "uelo": 1903, "tstam": 21221, "ustam": 21881}
     ]
+  },
+  {
+    "ronde": "4",
+    "datum": "17-11-2019",
+    "thuis": "228 DWORP 1",
+    "uit": "244 BRUSSELS 1",
+    "tscore": 1.5,
+    "uscore": 4.5,
+    "tgem": 2008,
+    "ugem": 2032,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Vanderwaeren, Serge", "uspeler": "Iolis, Oleg", "telo": 2110, "uelo": 2189, "tstam": 20621, "ustam": 87921},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Hoofstat, Tom", "uspeler": "Leemans, Roland", "telo": 2082, "uelo": 2138, "tstam": 42706, "ustam": 97730},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Spaens, Kjell", "uspeler": "Tannemaat, Stephane", "telo": 2019, "uelo": 2022, "tstam": 29343, "ustam": 72516},
+      {"tr": "0", "ur": "1", "tspeler": "Lot, Diederik", "uspeler": "Kolp, Theo", "telo": 2007, "uelo": 1954, "tstam": 9954, "ustam": 50003},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Reymaeker, Walter", "uspeler": "D'Haijere, Arnaud", "telo": 1929, "uelo": 1951, "tstam": 34584, "ustam": 75701},
+      {"tr": "0", "ur": "1", "tspeler": "Denys, Frank", "uspeler": "Violini, Paolo", "telo": 1903, "uelo": 1939, "tstam": 21881, "ustam": 17708}
+    ]
   }
 ]

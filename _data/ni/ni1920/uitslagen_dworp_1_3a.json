@@ -39,12 +39,12 @@
     "ronde": "ronde 4",
     "datum": "17-11-2019",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "209 The Belgian 2", "uit": "417 Aalst 1"},
-      {"tr": "", "ur": "", "thuis": "114 Mechelen 1", "uit": "239 Boitsfort 2"},
-      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "244 Brussels 1"},
-      {"tr": "", "ur": "", "thuis": "174 Brasschaat 2", "uit": "278 Pantin 1"},
-      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 1", "uit": "952 Wavre 1"},
-      {"tr": "", "ur": "", "thuis": "462 Zottegem 2", "uit": "226 Europchess 2"}
+      {"tr": "4.5", "ur": "1.5", "thuis": "209 The Belgian 2", "uit": "417 Aalst 1"},
+      {"tr": "3", "ur": "3", "thuis": "114 Mechelen 1", "uit": "239 Boitsfort 2"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "228 Dworp 1", "uit": "244 Brussels 1"},
+      {"tr": "0.5", "ur": "5.5", "thuis": "174 Brasschaat 2", "uit": "278 Pantin 1"},
+      {"tr": "0", "ur": "6", "thuis": "548 Caissa Europe 1", "uit": "952 Wavre 1"},
+      {"tr": "4", "ur": "2", "thuis": "462 Zottegem 2", "uit": "226 Europchess 2"}
     ]
   },
   {
