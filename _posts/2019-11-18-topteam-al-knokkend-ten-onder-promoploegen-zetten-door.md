@@ -6,7 +6,7 @@ ni_d3_thuisploeg: Dworp 3
 ni_d4_thuisploeg: Dworp 4
 title: Topteam al knokkend ten onder, promoploegen zetten door
 auteur: Geert,Diederik,Gaston,Filip
-fotograaf: Yves
+fotograaf: Yves,Geert
 date: 2019-11-18 21:00:00 +0100
 ni_ronde: "4"
 ni_d1_uitploeg: Brussels 1
@@ -19,7 +19,11 @@ stelling_wit: ''
 stelling_zwart: ''
 stelling_uitleg: ''
 stelling_oplossing: ''
-
+description: De weken verstrijken, de IC-rondes volgen elkaar op maar de opdracht 
+  van de Dworpse teams blijft onveranderd.
+image:
+  path: assets/images/1920/ni/r4_d3_sam_fb.jpg
+draft: false
 ---
 ## Vooraf
 
@@ -29,13 +33,17 @@ De weken verstrijken, de IC-rondes volgen elkaar op maar de opdracht van de Dwor
 
 Brussels 1 is geen kattenpis. Dat weten we. Dat ruiken we. Dat voelen we. En ook al hadden we het thuisvoordeel, het heeft er nooit ingezeten.
 
+![foto Dworp 1 en Dworp 4][foto 4]
+
 Het voorlaatste bord had eerst gedaan. Walter offerde met wit een pion voor actief spel. Dat belette zijn tegenstander om stukken te ontwikkelen, met name de loper en de toren. Helaas de speler van Brussels kraakte niet. Beide kemphanen wikkelden af naar een eindspel waarin Walter weliswaar zijn pion terugwon maar waarin ook de zwarte stukken vrij kwamen. Een logische remise was het resultaat. 0,5-0,5 voor de goei.
 
 Daarna was het de beurt aan Frank die op bord 6 de zwarte stukken aanvoerde. Na een wilde opening leek hij optisch bekeken niet zo goed te staan. Wit beschikte immers over een verbonden vrijpion in het centrum. Volgens Frank zelf was dit geen probleem. Alleen verloor hij na het vrijwillig afruilen van de zware stukken een pion. Dat had hij helaas gemist. Meteen was het over en uit, de zwarte stelling was niet langer houdbaar. 0,5-1,5
 
-Op het tweede bord speelde Tom met wit een goede remise. 1-2
+De eeuwige pessimist in Tom zag het al snel somber in. Met zwart aan bord 2 en tegen een stevige tegenstander (Elo 2138) is dat misschien te begrijpen maar blijkbaar was dat dan toch onterecht. Want kijk, zoals wel meer gebeurt, wist Tom uiteindelijk uit het dal te kruipen en een half punt te scoren. 1-2
 
 Kjell toverde op bord 3 met zwart opnieuw een dijk van een partij op het bord. Hij overrompelde zijn tegenstander ei zo na maar kwam op het einde helaas net één (1!) tempo tekort om het af te maken. Dik tegen zijn goesting moest hij dan ook in remise berusten. 1,5-2,5
+
+![foto Serge met zijn talrijke bewonderaars][foto 1]
 
 Serge onze traditionele sterkhouder op bord 1 speelde tegen dezelfde tegenstander van de twee voorgaande jaren (0,5/2). De stelling was kansrijk en Serge ging tot in het diepe eindspel goed mee. Zelfs met een kwaliteit minder –maar met het loperpaar en een opgerukte pion- leek hij het te kunnen houden. Ergens ging het echter toch mis tegen deze sterke tegenstander. Een troosteloze 1,5-3,5 is de tussenstand nu.
 
@@ -55,6 +63,8 @@ Niels op bord 2 met zwart stond de hele partij solide. Lang heeft hij geprobeerd
 
 Aldus sprak de ‘semi-kapitein’ van deze ploeg (Gaston dus) met enige trots. We speelden al verschillende malen met een invallersteam en dat is telkens goed verlopen. “Wat een topclub is Dworp toch, ze leveren steeds waardige invallers die het verschil maken. Nu nog leren dat voor een Antwerpenaar Halle en Essenbeek niet hetzelfde is en het gaat volledig goedkomen dit seizoen,” dixit Gaston.
 
+![foto Dworp 3][foto 5]
+
 Over naar de match nu.
 
 Onze Mo had op bord 3 met wit na twee afwezige rondes wegens verlof er duidelijk zin in. Hij speelde de Italiaanse opening waarin hij ten koste van alles lang en halsstarrig zijn witte loper wist te behouden. Vervolgens bracht hij een offer op de koningsvleugel waarbij zwart mits zeer goed spel remise had kunnen houden. Lees vooral: ‘mits goed spel...’.  Niet dus en de blokjes konden in de doos. 1-0 voor de goei.
@@ -62,6 +72,8 @@ Onze Mo had op bord 3 met wit na twee afwezige rondes wegens verlof er duidelijk
 Gaston op bord 1 met wit was in zijn element want hij kon een gesloten Siciliaanse opening spelen. Daarmee drijf je menig Siciliaan-speler tot wanhoop. Ook hier was dat weer het geval. Rustig, gesloten alles opbouwen en dan toeslaan. 2-0 voor de goei!
 
 Yves, ons 4de bord, speelde met zwart een dijk van een partij -herinner je de tweede ronde nog, damespionspel met c6- en kwam in een eindspel terecht waarin hij met een gezonde pluspion duidelijk beter stond. Op dat moment kreeg hij echter een remise-aanbod. Dat heeft hij in het ploegbelang dan maar aangenomen. 2,5-0,5 en matchpunten in de sjakkos! (als mijn Antwerps nog goed genoeg is, is dit een synoniem voor handtas. ‘Het is in de sjakkos’ wil dus zeggen: de punten zijn binnen. Bron: gratis dialectenwoordenboek van Geert)
+
+![foto Sam met oranje sweater][foto 2]
 
 Blijft enkel onze Sam nog over op 2 met zwart. Die is erin geslaagd om een geweldig saaie partij te spelen, de dames werden reeds geruild binnen de 10 zetten. Als je dan nog zwart hebt, geraak er dan maar door...dus schuif schuif schuif, tiens we winnen een stuk, dat nemen we effe mee, schuif schuif en 3,5-0,5 voor de goei.
 
@@ -77,6 +89,8 @@ En toen begon het drama van de matelozen. De uitslag van bord 2, Peter met zwart
 
 Op dat moment kreeg Peter een remise-aanbod. Na enig beraad en in de overtuiging dat Camiel het, gezien zijn gruwelijk slechte stelling, niet zou redden aanvaardde Peter. Zo stelden we de ploegoverwinning veilig. 2,5-1,5 voor de goei. Het was wel enigszins balen voor Peter want hij stond al bij al florissant. Clubbelang primeert, zullen we maar zeggen.
 
+![foto Camiel met ongelijke lopers][foto 3]
+
 Ondertussen bleef Camiel trekken en sleuren en zijn tegenstander was ook niet bepaald topklasse. Het werden ongelijke lopers, de 3 pionnen voorsprong slonken tot twee, één en vervolgens mocht de speler van Wavre nog blij zijn met remise... Straf, het kan verkeren. Eindstand toch nog een overtuigende 3-1 voor de goei.
 
 ## Achteraf
@@ -86,3 +100,9 @@ Het resultaat van team 1 is harder dan het spelverloop. Elke speler heeft ervoor
 Dworp 2 heeft een beetje onverdiend verloren, gebrek aan ervaring en maturiteit waarschijnlijk. Dat komt wel. En van Dworp 3 kunnen we ongetwijfeld zeggen dat dit team het beste uit de startblokken is gekomen. De gretigheid om te winnen, is hier ook duidelijk aanwezig. Het team staat dan ook aan de leiding met 4 opeenvolgende, overtuigende overwinningen. Dat smaakt naar meer!
 
 Tot slot heeft Dworp 4 niet zijn beste ronde achter de rug maar we blijven wel op promotieschema. En op 1 december zijn we er weer. Dat is wereldaidsdag maar echt ter zake is dat niet haha.
+
+[foto 1]: {{ "/assets/images/1920/ni/r4_d1_serge.jpg" | absolute_url }}
+[foto 2]: {{ "/assets/images/1920/ni/r4_d3_sam.jpg" | absolute_url }}
+[foto 3]: {{ "/assets/images/1920/ni/r4_d4_camiel.jpg" | absolute_url }}
+[foto 4]: {{ "/assets/images/1920/ni/r4_zaal_1.jpg" | absolute_url }}
+[foto 5]: {{ "/assets/images/1920/ni/r4_zaal_2.jpg" | absolute_url }}
