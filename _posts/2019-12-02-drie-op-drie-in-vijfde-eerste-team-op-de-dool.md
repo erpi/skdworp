@@ -26,7 +26,7 @@ draft: false
 ---
 ## Vooraf
 
-Met een Elogemiddelde van 1971 was het tweede team van Boitsfort een haalbare kaart voor het Dworpse topteam (Elo-gemiddelde 2030). Een puntje zou toch moeten kunnen, was de verwachting vooraf. Ondertussen is de opdracht voor de twee promoploegen (Dworp 3 en 4) elke ronde identiek: geen steken laten vallen. En de freewheelende jeugdploeg Dworp 2 deed het wegens examens deze keer... zonder jeugd.
+Met een Elogemiddelde van 1971 was het tweede team van Boitsfort een haalbare kaart voor het Dworpse topteam (Elo-gemiddelde 2030). Een puntje zou toch moeten kunnen, was de verwachting vooraf. Ondertussen is de opdracht voor de twee promoploegen (Dworp 3 en 4) elke ronde identiek: geen steken laten vallen. En de freewheelende jeugdploeg Dworp 2 deed het wegens examens deze keer... zonder jeugd.<!--more-->
 
 ![foto van Gaston, Filip en Mo met rechts op de achtergrond nog Geert M. die voor DZD speelt][foto 1]
 
@@ -62,7 +62,7 @@ Door deze overwinning stijgt Dworp 2 op basis van de bordpunten royaal van plaat
 
 ![foto Mo][foto 2]
 
-Bij wijze van proloog. Mo vertrekt om 12u45 vanuit Brussel naar Waver. Gaston -die zichzelf van Diederik nu officieel ‘Kapitein’ mag noemen (weet niet of dat wel zo goed is, maar allez we nemen het erbij)- vertrekt vanuit het zwoele Antwerpen naar het koude, zuidelijker gelegen Waver om 13 uur. Het is immers belangrijk om op tijd te vertrekken, rustig te rijden en rustig te worden voor een partij. Dat zijn zeer belangrijke factoren als je wilt scoren. 
+Bij wijze van proloog. Mo vertrekt om 12u45 vanuit Brussel naar Waver. Gaston -die zichzelf van Diederik nu officieel ‘Kapitein’ mag noemen (weet niet of dat wel zo goed is, maar allez we nemen het erbij)- vertrekt vanuit het zwoele Antwerpen naar het koude, zuidelijker gelegen Waver om 13 uur. Het is immers belangrijk om op tijd te vertrekken, rustig te rijden en rustig te worden voor een partij. Dat zijn zeer belangrijke factoren als je wilt scoren.
 In dat verband heb ik (Gaston) nog een mooie anekdote, speciaal voor Tom. Als 18-jarige werd ik wedstrijdleider en één van mijn eerste ervaringen was wedstrijdleider op het Steinwegtornooi. Eigenlijk was dat mijn eerste echte tornooi en was ik meer hulpje van wijlen Dirk De Ridder. Op dat tornooi speelde (ook al wijlen) Tony Miles, een topper die er ooit zelfs in slaagde om tegen wereldkampioen Anatoly Karpov te winnen met zwart met 1. e4 a6! Nooit gezien toen tegen de grote Karpov. Wel, die Tony Miles had gevraagd om twee dagen op voorhand gebruik te mogen maken van de zaal. Inderdaad, het tornooi begon op zaterdag maar donderdag en vrijdag was Tony wel in de zaal van 13u45 tot 18uur. Gewoon om te acclimatiseren en vertrouwd te geraken met de zaal. Op en top professionalisme dus. Dit enkel om aan te geven dat op tijd aanwezig zijn, belangrijk is.
 
 Genoeg gezeverd nu, naar de wedstrijd. Op papier leek deze ploeg een hapklaar gerechtje. Echter Gaston sukkelt sterk met zijn rug en neemt al twee weken valium, Sam vond een familiesamenkomst belangrijker -het lijkt zowaar een familieband te worden. Gelukkig hebben we alweer een goede invaller met Filip.
@@ -90,13 +90,12 @@ Minder goed verging het Camiel op bord 3 met zwart. Hij kwam wel prima uit de op
 Peter aan bord 2 met wit speelde een zeer degelijke partij waarbij de winst nooit in gevaar kwam. Na wat over en weer gedrentel, mondde de partij uit in een paardeneindspel. Maar wel eentje zoals ik het ook wel zou willen spelen. Want nadat Peter een eerste pionnetje won, volgde een tweede en aangezien dit mooie vrijpionnen waren konden de blokjes snel weer in de doos. Gelukkig. 1-2 voor de goei.
 
 En dan was het aan mij op bord 1 met zwart om de voorsprong vast te houden en/of uit te bouwen. Niet dat ik enige druk voelde, daarvoor was de tegenstand wat te zwak. Wit mat zichzelf een achtergebleven pion aan waar ik volop druk op kon uitoefenen. Pionwinst was het gevolg al was niet meteen duidelijk hoe het verder moest. Dan maar switchen naar een koningsaanval en dat sneed meteen hout. Klus geklaard, het is 15u30, onze schaakzondag zit er weer op. Troosteloos. 1-3 voor de goei.
-  
+
 ## Achteraf
 
 De twee teams die voor promotie in aanmerking komen, deden wat ze moesten doen. Ploeg 3 met het nodige geluk en door het oog van de naald. En ploeg 4 op routine en eigenlijk zonder veel glans. Het belangrijkste is wel dat beide teams nog steeds op promotiekoers zitten en het klassement min of meer aanvoeren. Ook leuk dat de oude en wat jongere rotten van ploeg 2 erin slaagden om eens fors uit te halen. Een opsteker. Ondertussen is er wel een zekere sense of urgency opgestoken rond team 1. Geen enkel matchpunt uit vijf ontmoetingen, het wordt stilaan precair. Gelukkig is er nu ruim de tijd om de wonden te likken. Come and see next year, en route pour de nouvelles aventures.
-  
+
 
 [foto 1]: {{ "/assets/images/1920/ni/r5_d3_ploeg.jpg" | absolute_url }}
 [foto 2]: {{ "/assets/images/1920/ni/r5_d3_mo.jpg" | absolute_url }}
 [foto 3]: {{ "/assets/images/1920/ni/r5_d3_yves.jpg" | absolute_url }}
-

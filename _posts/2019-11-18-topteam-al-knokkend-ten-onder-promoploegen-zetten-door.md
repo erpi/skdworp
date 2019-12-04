@@ -19,7 +19,7 @@ stelling_wit: ''
 stelling_zwart: ''
 stelling_uitleg: ''
 stelling_oplossing: ''
-description: De weken verstrijken, de IC-rondes volgen elkaar op maar de opdracht 
+description: De weken verstrijken, de IC-rondes volgen elkaar op maar de opdracht
   van de Dworpse teams blijft onveranderd.
 image:
   path: assets/images/1920/ni/r4_d3_sam_fb.jpg
@@ -27,7 +27,7 @@ draft: false
 ---
 ## Vooraf
 
-De weken verstrijken, de IC-rondes volgen elkaar op maar de opdracht van de Dworpse teams blijft onveranderd. Dit was btw ook onze eerste thuismatch in volle ornaat –dat wil zeggen: alle ploegen in het nieuwe lokaal in Essenbeek. ‘t Oud Kasteel kan uitgroeien tot een toplocatie voor het schaken in Halle en wijde omgeving. Dan is wel de eerste en meest dwingende opdracht team 1 in derde houden. En in tweede orde: een zo hoog mogelijke score voor team 3 en 4. In al zijn eenvoud zijn dit moeilijke opdrachten...
+De weken verstrijken, de IC-rondes volgen elkaar op maar de opdracht van de Dworpse teams blijft onveranderd. Dit was btw ook onze eerste thuismatch in volle ornaat –dat wil zeggen: alle ploegen in het nieuwe lokaal in Essenbeek. ‘t Oud Kasteel kan uitgroeien tot een toplocatie voor het schaken in Halle en wijde omgeving. Dan is wel de eerste en meest dwingende opdracht team 1 in derde houden. En in tweede orde: een zo hoog mogelijke score voor team 3 en 4. In al zijn eenvoud zijn dit moeilijke opdrachten...<!--more-->
 
 ## Dworp 1 blijft ervoor gaan maar het zit niet mee
 
@@ -95,7 +95,7 @@ Ondertussen bleef Camiel trekken en sleuren en zijn tegenstander was ook niet be
 
 ## Achteraf
 
-Het resultaat van team 1 is harder dan het spelverloop. Elke speler heeft ervoor gevochten. Op bordpunten zouden we niet laatste staan, maar derde laatste. Het is een bedenking maar daarmee kopen we natuurlijk helemaal niets. 
+Het resultaat van team 1 is harder dan het spelverloop. Elke speler heeft ervoor gevochten. Op bordpunten zouden we niet laatste staan, maar derde laatste. Het is een bedenking maar daarmee kopen we natuurlijk helemaal niets.
 
 Dworp 2 heeft een beetje onverdiend verloren, gebrek aan ervaring en maturiteit waarschijnlijk. Dat komt wel. En van Dworp 3 kunnen we ongetwijfeld zeggen dat dit team het beste uit de startblokken is gekomen. De gretigheid om te winnen, is hier ook duidelijk aanwezig. Het team staat dan ook aan de leiding met 4 opeenvolgende, overtuigende overwinningen. Dat smaakt naar meer!
 
