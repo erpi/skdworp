@@ -130,8 +130,8 @@
         "zwart": "Bye"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Mo Taleb",
         "zwart": "Kjell Spaens"
       },
@@ -142,8 +142,8 @@
         "zwart": "Kristoff Bultijnck"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Walter De Reymaeker",
         "zwart": "Felix Huyghe"
       }
