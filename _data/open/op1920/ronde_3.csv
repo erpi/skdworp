@@ -1,0 +1,31 @@
+wit,zwart,wr,zr
+partij 1,,,
+Peter De Bosscher,Pieter Ertveldt,0.5,0.5
+Jannes Vandevelde,Tom Van Hoofstat,0,1
+Niels Lerinckx,Serge Vanderwaeren,0,1
+Sander Lerinckx,Geert Verrijken,0,1
+Yves Baert,bye,,
+partij 2,,,
+Tom Van Hoofstat,Pieter Ertveldt,0,1
+Eric Cornelis,Peter De Bosscher,0,1
+Serge Vanderwaeren,Jannes Vandevelde,1,0
+Niels Lerinckx,Sander Lerinckx,1,0
+Geert Verrijken,Yves Baert,1,0
+partij 3,,,
+Pieter Ertveldt,Serge Vanderwaeren,0,1
+Tom Van Hoofstat,Peter De Bosscher,1,0
+Eric Cornelis,Jannes Vandevelde,1,0
+Diederik Lot,Sander Lerinckx,1,0
+Geert Verrijken,Niels Lerinckx,1,0
+partij 4,,,
+Diederik Lot,Pieter Ertveldt,1,0
+Peter De Bosscher,Serge Vanderwaeren,0,1
+Niels Lerinckx,Tom Van Hoofstat,0,1
+Sander Lerinckx,Eric Cornelis,0,1
+Jannes Vandevelde,Geert Verrijken,0,1
+partij 5,,,
+Serge Vanderwaeren,Tom Van Hoofstat,1,0
+Pieter Ertveldt,Peter De Bosscher,0,1
+Geert Verrijken,Eric Cornelis,0.5,0.5
+Jannes Vandevelde,Diederik Lot,0,1
+Sander Lerinckx,Niels Lerinckx,1,0
