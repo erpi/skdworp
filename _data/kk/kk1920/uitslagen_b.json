@@ -70,8 +70,8 @@
         "zwart": "Bye"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Sander Lerinckx",
         "zwart": "Bob Huysman"
       },
@@ -160,8 +160,8 @@
         "zwart": "Niels Lerinckx"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Bob Huysman",
         "zwart": "Diederik Lot"
       },
@@ -172,8 +172,8 @@
         "zwart": "Eddy Pletinckx"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Sander Lerinckx",
         "zwart": "Sonja Van Der Voorde"
       }
