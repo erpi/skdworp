@@ -46,5 +46,21 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Vennekens, Camiel", "uspeler": "Tavernier, Frank", "telo": 1773, "uelo": 1640, "tstam": 37168, "ustam": 85642},
       {"tr": "1", "ur": "0", "tspeler": "Malfliet, Bernard", "uspeler": "Artisien, Christian", "telo": 1722, "uelo": 1520, "tstam": 31348, "ustam": 73687}
     ]
+  },
+  {
+    "ronde": "5",
+    "datum": "01-12-2019",
+    "thuis": "551 JURBISE 2",
+    "uit": "228 DWORP 4",
+    "tscore": 1,
+    "uscore": 3,
+    "tgem": 1251,
+    "ugem": 1830,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Delvaux, Guy", "uspeler": "Verrijken, Geert", "telo": 1406, "uelo": 1989, "tstam": 82856, "ustam": 62766},
+      {"tr": "0", "ur": "1", "tspeler": "Leroy, Aurelien", "uspeler": "De Bosscher, Peter", "telo": 1197, "uelo": 1836, "tstam": 19964, "ustam": 655},
+      {"tr": "1", "ur": "0", "tspeler": "Pignatelli, Tom-Emmanuel", "uspeler": "Vennekens, Camiel", "telo": 0, "uelo": 1773, "tstam": 21154, "ustam": 37168},
+      {"tr": "0", "ur": "1", "tspeler": "Thomas, John", "uspeler": "Malfliet, Bernard", "telo": 1150, "uelo": 1722, "tstam": 19971, "ustam": 31348}
+    ]
   }
 ]

@@ -62,5 +62,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Taleb, Mohamad", "uspeler": "Gobron, Jean-Pierre", "telo": 1427, "uelo": 1175, "tstam": 64611, "ustam": 84778},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Baert, Yves", "uspeler": "Heyndrickx, Christophe", "telo": 1490, "uelo": 1182, "tstam": 48721, "ustam": 60697}
     ]
+  },
+  {
+    "ronde": "5",
+    "datum": "01-12-2019",
+    "thuis": "952 WAVRE 5",
+    "uit": "228 DWORP 3",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1557,
+    "ugem": 1627,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Salvaggio, Samuel", "uspeler": "Boutchon, Gaston", "telo": 1704, "uelo": 1868, "tstam": 14519, "ustam": 28606},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Hellebrandt, Albert", "uspeler": "Van De Velde, Filip", "telo": 1584, "uelo": 1723, "tstam": 44296, "ustam": 31682},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Artisien, Christian", "uspeler": "Taleb, Mohamad", "telo": 1520, "uelo": 1427, "tstam": 73687, "ustam": 64611},
+      {"tr": "0", "ur": "1", "tspeler": "Dumortier, Andre", "uspeler": "Baert, Yves", "telo": 1420, "uelo": 1490, "tstam": 50298, "ustam": 48721}
+    ]
   }
 ]

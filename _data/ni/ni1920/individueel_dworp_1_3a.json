@@ -70,5 +70,23 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "De Reymaeker, Walter", "uspeler": "D'Haijere, Arnaud", "telo": 1929, "uelo": 1951, "tstam": 34584, "ustam": 75701},
       {"tr": "0", "ur": "1", "tspeler": "Denys, Frank", "uspeler": "Violini, Paolo", "telo": 1903, "uelo": 1939, "tstam": 21881, "ustam": 17708}
     ]
+  },
+  {
+    "ronde": "5",
+    "datum": "01-12-2019",
+    "thuis": "239 BOITSFORT 2",
+    "uit": "228 DWORP 1",
+    "tscore": 4.0,
+    "uscore": 2.0,
+    "tgem": 1971,
+    "ugem": 2008,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Lacroix, Bruno", "uspeler": "Vanderwaeren, Serge", "telo": 2184, "uelo": 2110, "tstam": 97721, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Uytven, Eric", "uspeler": "Van Hoofstat, Tom", "telo": 2084, "uelo": 2082, "tstam": 60861, "ustam": 42706},
+      {"tr": "0", "ur": "1", "tspeler": "Callier, Christophe", "uspeler": "Spaens, Kjell", "telo": 2005, "uelo": 2019, "tstam": 66681, "ustam": 29343},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Jayes, Thomas William", "uspeler": "Lot, Diederik", "telo": 1960, "uelo": 2007, "tstam": 12767, "ustam": 9954},
+      {"tr": "1", "ur": "0", "tspeler": "Paul, Bernard", "uspeler": "De Reymaeker, Walter", "telo": 1824, "uelo": 1929, "tstam": 97109, "ustam": 34584},
+      {"tr": "1", "ur": "0", "tspeler": "Moreau, Gilles", "uspeler": "Denys, Frank", "telo": 1769, "uelo": 1903, "tstam": 83054, "ustam": 21881}
+    ]
   }
 ]

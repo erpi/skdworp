@@ -62,5 +62,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Huyghe, Felix", "uspeler": "Liger, Maxence", "telo": 0, "uelo": 1150, "tstam": 17486, "ustam": 17315},
       {"tr": "0", "ur": "1", "tspeler": "Beckers, Stijn", "uspeler": "Violini, Enrico Giuseppe", "telo": 0, "uelo": 0, "tstam": 17472, "ustam": 21004}
     ]
+  },
+  {
+    "ronde": "5",
+    "datum": "01-12-2019",
+    "thuis": "239 BOITSFORT 5",
+    "uit": "228 DWORP 2",
+    "tscore": 0,
+    "uscore": 4,
+    "tgem": 1384,
+    "ugem": 1625,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Heynsmans, Michel", "uspeler": "Bertrand, Stijn", "telo": 1424, "uelo": 1726, "tstam": 60620, "ustam": 21253},
+      {"tr": "0", "ur": "1", "tspeler": "Simon, Fernand", "uspeler": "Cornelis, Eric", "telo": 1343, "uelo": 1660, "tstam": 14019, "ustam": 76317},
+      {"tr": "0", "ur": "1", "tspeler": "Allard, Jonathan", "uspeler": "Palmans, Niels", "telo": 0, "uelo": 1565, "tstam": 20775, "ustam": 17733},
+      {"tr": "0", "ur": "1", "tspeler": "Koebele, Max", "uspeler": "Degraeve, Ruben", "telo": 0, "uelo": 1548, "tstam": 17258, "ustam": 13987}
+    ]
   }
 ]
