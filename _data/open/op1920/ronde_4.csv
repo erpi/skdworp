@@ -1,0 +1,34 @@
+wit,zwart,wr,zr
+partij 1,,,
+Tom Van Hoofstat,Jannes Vandevelde,1,0
+Peter De Bosscher,Stijn Beckers,1,0
+Eddy Pletinckx,Serge Vanderwaeren,0,1
+Felix Huyghe,Pieter Ertveldt,0,1
+Filip Van de Velde,Kristoff Bultijnck,1,0
+Yentl Wilmots,bye,,
+partij 2,,,
+Peter De Bosscher,Tom Van Hoofstat,0,1
+Serge Vanderwaeren,Pieter Ertveldt,0,1
+Eddy Pletinckx,Jannes Vandevelde,1,0
+Stijn Beckers,Felix Huyghe,1,0
+Yentl Wilmots,Filip Van de Velde,0,1
+Kristoff Bultijnck,bye,,
+partij 3,,,
+Tom Van Hoofstat,Serge Vanderwaeren,1,0
+Felix Huyghe,Peter De Bosscher,0,1
+Pieter Ertveldt,Yentl Wilmots,1,0
+Kristoff Bultijnck,Eddy Pletinckx,0,1
+Jannes Vandevelde,Stijn Beckers,1,0
+Filip Van de Velde,bye,,
+partij 4,,,
+Pieter Ertveldt,Tom Van Hoofstat,0,1
+Serge Vanderwaeren,Peter De Bosscher,1,0
+Filip Van de Velde,Eddy Pletinckx,0.5,0.5
+Yentl Wilmots,Jannes Vandevelde,1,0
+Dekoster Pascal,Kristoff Bultijnck,0,1
+partij 5,,,
+Eddy Pletinckx,Tom Van Hoofstat,0,1
+Peter De Bosscher,Pieter Ertveldt,1,0
+Jannes Vandevelde,Serge Vanderwaeren,0,1
+Dekoster Pascal,Filip Van de Velde,0,1
+Kristoff Bultijnck,Yentl Wilmots,1,0
