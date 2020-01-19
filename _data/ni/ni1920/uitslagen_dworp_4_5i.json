@@ -66,7 +66,7 @@
       {"tr": "1", "ur": "3", "thuis": "953 Nivelles 1", "uit": "244 Brussels 6"},
       {"tr": "3", "ur": "1", "thuis": "228 Dworp 4", "uit": "114 Mechelen 9"},
       {"tr": "4", "ur": "0", "thuis": "233 DZD Halle 2", "uit": "551 Jurbise 2"},
-      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 4", "uit": "952 Wavre 6"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "548 Caissa Europe 4", "uit": "952 Wavre 6"},
       {"tr": "1", "ur": "3", "thuis": "901 Namur 7", "uit": "278 Pantin 7"},
       {"tr": "", "ur": "", "thuis": "525 Anderlues 3", "uit": "Bye"}
     ]
