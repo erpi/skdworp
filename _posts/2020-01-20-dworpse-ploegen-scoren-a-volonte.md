@@ -26,7 +26,7 @@ draft: false
 ---
 ## Vooraf
 
-Een nieuw jaar –hopelijk ééntje mee suiker- en stilaan nadert het uur van de waarheid. Vooral voor team 1 dat na vijf ronden troost- en punteloos afgescheiden laatste staat. Tijd dus voor een tactische verandering: de veelbesproken switch tussen Walter en Geert. Walter speelde deze ronde op bord 1 in de vierde ploeg om samen met Camiel, Bernard en Peter kampioenenambities te blijven koesteren. Grootste voordeel: IC-topman Diederik zit een bordje lager en schuift door naar bord 5 in team 1. Afwachten of de ‘truc met de duif’ de kansen op behoud doet stijgen. De andere teams speelden min of meer in hun type-opstelling.
+Een nieuw jaar –hopelijk ééntje mee suiker- en stilaan nadert het uur van de waarheid. Vooral voor team 1 dat na vijf ronden troost- en punteloos afgescheiden laatste staat. Tijd dus voor een tactische verandering: de veelbesproken switch tussen Walter en Geert. Walter speelde deze ronde op bord 1 in de vierde ploeg om samen met Camiel, Bernard en Peter kampioenenambities te blijven koesteren. Grootste voordeel: IC-topman Diederik zit een bordje lager en schuift door naar bord 5 in team 1. Afwachten of de ‘truc met de duif’ de kansen op behoud doet stijgen. De andere teams speelden min of meer in hun type-opstelling.<!--more-->
 
 ## ‘Welle’ van team 1 verrijken ons met de eerste puntjes
 
