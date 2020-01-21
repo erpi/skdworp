@@ -22,7 +22,7 @@ stelling_oplossing: ''
 description: "Een nieuw jaar –hopelijk ééntje mee suiker- en stilaan nadert het uur van de waarheid. Vooral voor team 1 dat na vijf ronden troost- en puntenloos afgescheiden laatste staat."
 image:
   path: assets/images/1920/ni/r6_d3_gaston_fb.jpg
-draft: true
+draft: false
 ---
 ## Vooraf
 
