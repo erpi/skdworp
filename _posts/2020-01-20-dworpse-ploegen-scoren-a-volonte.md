@@ -44,7 +44,7 @@ En dan het fameuze ‘Verrijken-effect’ op bord 4 met zwart. Pure psychologie 
 
 ![foto Geert, Diederik en Frank][foto 2]
 
-En natuurlijk is er ook Diederik die nu op bord 5 zit en daar blijkbaar een oude bekende tegen krijgt. “Kan niet schaken,” luidt het harde verdict. Onze IC-organisator staat met wit in een Hollandse opening inderdaad al snel huizenhoog gewonnen, overziet dan een kleinigheidje zodat de stelling uiteindelijk in remise verzandt. Jammer van de gemiste overwinning maar hiermee is het eerste matchpunt een zekerheid. 3-2 voor de goei.
+En natuurlijk is er ook Diederik die nu op bord 5 zit en daar blijkbaar een oude bekende tegen krijgt. “sta altijd beter maar verlies uiteindelijk toch,” luidt het harde verdict. Onze IC-organisator staat met wit in een Hollandse opening inderdaad al snel beter, overziet dan stukverlies maar de stelling kan uiteindelijk met enig geluk nog remise gehouden worden. Jammer van de gemiste overwinning maar hiermee is het eerste matchpunt een zekerheid. 3-2 voor de goei.
 
 En er is meer. Want Kjell met wit op bord 3 speelt een dijk van een partij. Hij overklast zijn tegenstander in alle compartimenten en lijkt met het opstoten van een centrumpion alle weerstand tot schroot te herleiden. Dan loopt het helaas ergens mis. De zwartspeler slaagt erin de schade te beperken tot een pion in een stelling met ongelijke lopers. Kjell dringt nog wel aan maar tevergeefs. Het blijft remise. Toch meteen goed voor een eerste overwinning en twee matchpunten. 3,5-2,5 voor de goei.
 
