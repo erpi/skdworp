@@ -78,5 +78,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Allard, Jonathan", "uspeler": "Palmans, Niels", "telo": 0, "uelo": 1565, "tstam": 20775, "ustam": 17733},
       {"tr": "0", "ur": "1", "tspeler": "Koebele, Max", "uspeler": "Degraeve, Ruben", "telo": 0, "uelo": 1548, "tstam": 17258, "ustam": 13987}
     ]
+  },
+  {
+    "ronde": "6",
+    "datum": "19-01-2020",
+    "thuis": "228 DWORP 2",
+    "uit": "961 BRAINE 2",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1644,
+    "ugem": 1537,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Van De Velde, Filip", "uspeler": "Vausort, Andre", "telo": 1723, "uelo": 1783, "tstam": 31682, "ustam": 9563},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Palmans, Niels", "uspeler": "Wery, Arthur", "telo": 1565, "uelo": 1522, "tstam": 17733, "ustam": 13645},
+      {"tr": "0", "ur": "1", "tspeler": "Huyghe, Felix", "uspeler": "Keller, Louison", "telo": 0, "uelo": 1306, "tstam": 17486, "ustam": 15221},
+      {"tr": "0", "ur": "1", "tspeler": "Beckers, Stijn", "uspeler": "Simeons, Jean", "telo": 0, "uelo": 0, "tstam": 17472, "ustam": 19635}
+    ]
   }
 ]

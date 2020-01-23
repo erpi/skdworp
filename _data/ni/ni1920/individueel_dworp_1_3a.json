@@ -88,5 +88,23 @@
       {"tr": "1", "ur": "0", "tspeler": "Paul, Bernard", "uspeler": "De Reymaeker, Walter", "telo": 1824, "uelo": 1929, "tstam": 97109, "ustam": 34584},
       {"tr": "1", "ur": "0", "tspeler": "Moreau, Gilles", "uspeler": "Denys, Frank", "telo": 1769, "uelo": 1903, "tstam": 83054, "ustam": 21881}
     ]
+  },
+  {
+    "ronde": "6",
+    "datum": "19-01-2020",
+    "thuis": "228 DWORP 1",
+    "uit": "209 THE BELGIAN 2",
+    "tscore": 3.5,
+    "uscore": 2.5,
+    "tgem": 2018,
+    "ugem": 1980,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren, Serge", "uspeler": "Vanobbergh, Gregory", "telo": 2110, "uelo": 2073, "tstam": 20621, "ustam": 76228},
+      {"tr": "1", "ur": "0", "tspeler": "Van Hoofstat, Tom", "uspeler": "Ackaert, Thierry", "telo": 2082, "uelo": 2086, "tstam": 42706, "ustam": 5690},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Spaens, Kjell", "uspeler": "Draidi, Ahmed", "telo": 2019, "uelo": 1999, "tstam": 29343, "ustam": 67032},
+      {"tr": "0", "ur": "1", "tspeler": "Verrijken, Geert", "uspeler": "Samray, Thomas", "telo": 1989, "uelo": 1969, "tstam": 62766, "ustam": 89681},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lot, Diederik", "uspeler": "Brion, Sophie", "telo": 2007, "uelo": 1890, "tstam": 9954, "ustam": 66575},
+      {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Baeten, Olivier", "telo": 1903, "uelo": 1861, "tstam": 21881, "ustam": 67717}
+    ]
   }
 ]

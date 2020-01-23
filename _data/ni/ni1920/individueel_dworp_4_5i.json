@@ -62,5 +62,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Pignatelli, Tom-Emmanuel", "uspeler": "Vennekens, Camiel", "telo": 0, "uelo": 1773, "tstam": 21154, "ustam": 37168},
       {"tr": "0", "ur": "1", "tspeler": "Thomas, John", "uspeler": "Malfliet, Bernard", "telo": 1150, "uelo": 1722, "tstam": 19971, "ustam": 31348}
     ]
+  },
+  {
+    "ronde": "6",
+    "datum": "19-01-2020",
+    "thuis": "228 DWORP 4",
+    "uit": "114 MECHELEN 9",
+    "tscore": 3.0,
+    "uscore": 1.0,
+    "tgem": 1815,
+    "ugem": 1678,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "Dierckens, Sarah", "telo": 1929, "uelo": 1809, "tstam": 34584, "ustam": 42153},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher, Peter", "uspeler": "Boonen, Maarten", "telo": 1836, "uelo": 1689, "tstam": 655, "ustam": 15005},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vennekens, Camiel", "uspeler": "Cuyx, Tomas", "telo": 1773, "uelo": 1536, "tstam": 37168, "ustam": 13921},
+      {"tr": "1", "ur": "0", "tspeler": "Malfliet, Bernard", "uspeler": "Peeters, Jurre", "telo": 1722, "uelo": 0, "tstam": 31348, "ustam": 16199}
+    ]
   }
 ]

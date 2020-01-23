@@ -78,5 +78,21 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Artisien, Christian", "uspeler": "Taleb, Mohamad", "telo": 1520, "uelo": 1427, "tstam": 73687, "ustam": 64611},
       {"tr": "0", "ur": "1", "tspeler": "Dumortier, Andre", "uspeler": "Baert, Yves", "telo": 1420, "uelo": 1490, "tstam": 50298, "ustam": 48721}
     ]
+  },
+  {
+    "ronde": "6",
+    "datum": "19-01-2020",
+    "thuis": "228 DWORP 3",
+    "uit": "114 MECHELEN 7",
+    "tscore": 3,
+    "uscore": 1,
+    "tgem": 1663,
+    "ugem": 1352,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Boutchon, Gaston", "uspeler": "Pouliart, Sander", "telo": 1868, "uelo": 1472, "tstam": 28606, "ustam": 15856},
+      {"tr": "1", "ur": "0", "tspeler": "Van Hoofstat, Sam", "uspeler": "Motmans, Matthias", "telo": 1866, "uelo": 1331, "tstam": 39101, "ustam": 14552},
+      {"tr": "0", "ur": "1", "tspeler": "Taleb, Mohamad", "uspeler": "Van Lommel, Lars", "telo": 1427, "uelo": 1252, "tstam": 64611, "ustam": 14527},
+      {"tr": "1", "ur": "0", "tspeler": "Baert, Yves", "uspeler": "De Smet, Edouard", "telo": 1490, "uelo": 0, "tstam": 48721, "ustam": 15281}
+    ]
   }
 ]
