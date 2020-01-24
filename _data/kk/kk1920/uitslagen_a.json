@@ -112,8 +112,8 @@
         "zwart": "Mo Taleb"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Kjell Spaens",
         "zwart": "Matthias Vanrossum"
       }
@@ -196,14 +196,14 @@
         "zwart": "Matthias Vanrossum"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0F",
         "wit": "Walter De Reymaeker",
         "zwart": "Kjell Spaens"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Felix Huyghe",
         "zwart": "Kristoff Bultijnck"
       }
