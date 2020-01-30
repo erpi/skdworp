@@ -6,20 +6,20 @@ permalink: /kalender/
 jaar1: "2019"
 jaar2: "2020"
 tabs:
-  - 2019
   - 2020
+  - 2019
   - jeugd stap 1
   - externe kalenders
 last_modified_at: 2019-10-21
 ---
 {% assign tab = page.tabs[0] %}
 {% include tab-pane-start.html href=tab aktief=true %}
-{% include table-kalender.html jaar=page.jaar1 %}
+{% include table-kalender.html jaar=page.jaar2 %}
 {% include tab-pane-end.html %}
 
 {% assign tab = page.tabs[1] %}
 {% include tab-pane-start.html href=tab aktief=false %}
-{% include table-kalender.html jaar=page.jaar2 %}
+{% include table-kalender.html jaar=page.jaar1 %}
 {% include tab-pane-end.html %}
 
 {% assign tab = page.tabs[2] %}
