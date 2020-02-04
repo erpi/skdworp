@@ -76,11 +76,11 @@
     "datum": "02-02-2020",
     "uitslagen": [
       {"tr": "", "ur": "", "thuis": "244 Brussels 6", "uit": "Bye"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 7", "uit": "525 Anderlues 3"},
-      {"tr": "", "ur": "", "thuis": "952 Wavre 6", "uit": "901 Namur 7"},
-      {"tr": "", "ur": "", "thuis": "551 Jurbise 2", "uit": "548 Caissa Europe 4"},
-      {"tr": "", "ur": "", "thuis": "114 Mechelen 9", "uit": "233 DZD Halle 2"},
-      {"tr": "", "ur": "", "thuis": "953 Nivelles 1", "uit": "228 Dworp 4"}
+      {"tr": "3", "ur": "1", "thuis": "278 Pantin 7", "uit": "525 Anderlues 3"},
+      {"tr": "3", "ur": "1", "thuis": "952 Wavre 6", "uit": "901 Namur 7"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "551 Jurbise 2", "uit": "548 Caissa Europe 4"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "114 Mechelen 9", "uit": "233 DZD Halle 2"},
+      {"tr": "2", "ur": "2", "thuis": "953 Nivelles 1", "uit": "228 Dworp 4"}
     ]
   },
   {
