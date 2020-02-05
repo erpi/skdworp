@@ -94,5 +94,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Taleb, Mohamad", "uspeler": "Van Lommel, Lars", "telo": 1427, "uelo": 1252, "tstam": 64611, "ustam": 14527},
       {"tr": "1", "ur": "0", "tspeler": "Baert, Yves", "uspeler": "De Smet, Edouard", "telo": 1490, "uelo": 0, "tstam": 48721, "ustam": 15281}
     ]
+  },
+  {
+    "ronde": "7",
+    "datum": "02-02-2020",
+    "thuis": "401 KGSRL 13",
+    "uit": "228 DWORP 3",
+    "tscore": 0.5,
+    "uscore": 3.5,
+    "tgem": 1409,
+    "ugem": 1575,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Baeten, Yves", "uspeler": "Van De Velde, Filip", "telo": 1665, "uelo": 1723, "tstam": 33618, "ustam": 31682},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis, Werner", "uspeler": "Cornelis, Eric", "telo": 1346, "uelo": 1660, "tstam": 8788, "ustam": 76317},
+      {"tr": "0", "ur": "1", "tspeler": "Burgdorffer, Anton", "uspeler": "Taleb, Mohamad", "telo": 1275, "uelo": 1427, "tstam": 28576, "ustam": 64611},
+      {"tr": "0", "ur": "1", "tspeler": "De Visser, Stefaan", "uspeler": "Baert, Yves", "telo": 1351, "uelo": 1490, "tstam": 6891, "ustam": 48721}
+    ]
   }
 ]
