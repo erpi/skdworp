@@ -1,0 +1,212 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "04-10-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Kristoff Bultijnck",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Kjell Spaens",
+        "zwart": "Felix Huyghe"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Matthias Vanrossum",
+        "zwart": "Walter De Reymaeker"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Mo Taleb",
+        "zwart": "Eric Cornelis"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "18-10-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Walter De Reymaeker",
+        "zwart": "Mo Taleb"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Felix Huyghe",
+        "zwart": "Matthias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Kristoff Bultijnck",
+        "zwart": "Kjell Spaens"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "15-11-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Kjell Spaens",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Matthias Vanrossum",
+        "zwart": "Kristoff Bultijnck"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Mo Taleb",
+        "zwart": "Felix Huyghe"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Eric Cornelis",
+        "zwart": "Walter De Reymaeker"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "22-11-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Walter De Reymaeker"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Felix Huyghe",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Kristoff Bultijnck",
+        "zwart": "Mo Taleb"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Kjell Spaens",
+        "zwart": "Matthias Vanrossum"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "06-12-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Matthias Vanrossum",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Mo Taleb",
+        "zwart": "Kjell Spaens"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Eric Cornelis",
+        "zwart": "Kristoff Bultijnck"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Walter De Reymaeker",
+        "zwart": "Felix Huyghe"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "20-12-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Felix Huyghe"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Kristoff Bultijnck",
+        "zwart": "Walter De Reymaeker"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Kjell Spaens",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Matthias Vanrossum",
+        "zwart": "Mo Taleb"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "17-01-2020",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mo Taleb",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Eric Cornelis",
+        "zwart": "Matthias Vanrossum"
+      },
+      {
+        "wr": "1",
+        "zr": "0F",
+        "wit": "Walter De Reymaeker",
+        "zwart": "Kjell Spaens"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Felix Huyghe",
+        "zwart": "Kristoff Bultijnck"
+      }
+    ]
+  }
+]

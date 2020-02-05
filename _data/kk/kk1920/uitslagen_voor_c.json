@@ -1,0 +1,212 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "04-10-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Stijn Beckers",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Mats Laureys",
+        "zwart": "Peter De Bosscher"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "18-10-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Geert Verrijken",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "0.5",
+        "zr": "0.5",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Stijn Beckers"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Niels Palmans",
+        "zwart": "Serge Vanderwaeren"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "15-11-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Stijn Beckers",
+        "zwart": "Niels Palmans"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Mats Laureys",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Peter De Bosscher",
+        "zwart": "Geert Verrijken"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "22-11-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Niels Palmans",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Stijn Beckers"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "06-12-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Stijn Beckers",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "0F",
+        "zr": "1F",
+        "wit": "Mats Laureys",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Peter De Bosscher",
+        "zwart": "Niels Palmans"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Geert Verrijken",
+        "zwart": "Jannes Vandevelde"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "20-12-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Niels Palmans",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Stijn Beckers",
+        "zwart": "Mats Laureys"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "17-01-2020",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Peter De Bosscher",
+        "zwart": "Stijn Beckers"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Geert Verrijken",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Niels Palmans"
+      }
+    ]
+  }
+]

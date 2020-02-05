@@ -1,0 +1,212 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "04-10-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bob Huysman",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Tom Van Hoofstat",
+        "zwart": "Niels Lerinckx"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Sander Lerinckx",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "0",
+        "zr": "1F",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Eddy Pletinckx"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "18-10-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Diederik Lot",
+        "zwart": "Sonja Van Der Voorde"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Niels Lerinckx",
+        "zwart": "Sander Lerinckx"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Bob Huysman",
+        "zwart": "Tom Van Hoofstat"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "15-11-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Tom Van Hoofstat",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Sander Lerinckx",
+        "zwart": "Bob Huysman"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Niels Lerinckx"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Diederik Lot"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "22-11-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Niels Lerinckx",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Bob Huysman",
+        "zwart": "Sonja Van Der Voorde"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Tom Van Hoofstat",
+        "zwart": "Sander Lerinckx"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "06-12-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Tom Van Hoofstat"
+      },
+      {
+        "wr": "0.5",
+        "zr": "0.5",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Bob Huysman"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Diederik Lot",
+        "zwart": "Niels Lerinckx"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "20-12-2019",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Niels Lerinckx"
+      },
+      {
+        "wr": "0.5",
+        "zr": "0.5",
+        "wit": "Bob Huysman",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Tom Van Hoofstat",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Sander Lerinckx",
+        "zwart": "Sonja Van Der Voorde"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "17-01-2020",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "1",
+        "zr": "0",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Sander Lerinckx"
+      },
+      {
+        "wr": "0.5",
+        "zr": "0.5",
+        "wit": "Diederik Lot",
+        "zwart": "Tom Van Hoofstat"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Niels Lerinckx",
+        "zwart": "Bob Huysman"
+      }
+    ]
+  }
+]

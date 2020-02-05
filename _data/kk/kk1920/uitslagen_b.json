@@ -1,37 +1,37 @@
 [
   {
     "ronde": "ronde 1",
-    "datum": "04-10-2019",
+    "datum": "07-02-2020",
     "partijen": [
       {
         "wr": "",
         "zr": "",
-        "wit": "Bob Huysman",
+        "wit": "Niels Palmans",
         "zwart": "Bye"
       },
       {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Tom Van Hoofstat",
-        "zwart": "Niels Lerinckx"
+        "wr": "",
+        "zr": "",
+        "wit": "Kristoff Bultijnck",
+        "zwart": "Eric Cornelis"
       },
       {
-        "wr": "0",
-        "zr": "1",
-        "wit": "Sander Lerinckx",
-        "zwart": "Diederik Lot"
+        "wr": "",
+        "zr": "",
+        "wit": "Stijn Beckers",
+        "zwart": "Mo Taleb"
       },
       {
-        "wr": "0",
-        "zr": "1F",
-        "wit": "Sonja Van Der Voorde",
+        "wr": "",
+        "zr": "",
+        "wit": "Bob Huysman",
         "zwart": "Eddy Pletinckx"
       }
     ]
   },
   {
     "ronde": "ronde 2",
-    "datum": "18-10-2019",
+    "datum": "21-02-2020",
     "partijen": [
       {
         "wr": "",
@@ -40,172 +40,172 @@
         "zwart": "Eddy Pletinckx"
       },
       {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Diederik Lot",
-        "zwart": "Sonja Van Der Voorde"
+        "wr": "",
+        "zr": "",
+        "wit": "Mo Taleb",
+        "zwart": "Bob Huysman"
       },
       {
-        "wr": "0",
-        "zr": "1",
-        "wit": "Niels Lerinckx",
-        "zwart": "Sander Lerinckx"
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Stijn Beckers"
       },
       {
-        "wr": "0",
-        "zr": "1",
-        "wit": "Bob Huysman",
-        "zwart": "Tom Van Hoofstat"
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Kristoff Bultijnck"
       }
     ]
   },
   {
     "ronde": "ronde 3",
-    "datum": "15-11-2019",
+    "datum": "06-03-2020",
     "partijen": [
       {
         "wr": "",
         "zr": "",
-        "wit": "Tom Van Hoofstat",
+        "wit": "Kristoff Bultijnck",
         "zwart": "Bye"
       },
       {
-        "wr": "0",
-        "zr": "1",
-        "wit": "Sander Lerinckx",
-        "zwart": "Bob Huysman"
+        "wr": "",
+        "zr": "",
+        "wit": "Stijn Beckers",
+        "zwart": "Niels Palmans"
       },
       {
-        "wr": "0",
-        "zr": "1",
-        "wit": "Sonja Van Der Voorde",
-        "zwart": "Niels Lerinckx"
+        "wr": "",
+        "zr": "",
+        "wit": "Bob Huysman",
+        "zwart": "Eric Cornelis"
       },
       {
-        "wr": "0",
-        "zr": "1",
+        "wr": "",
+        "zr": "",
         "wit": "Eddy Pletinckx",
-        "zwart": "Diederik Lot"
+        "zwart": "Mo Taleb"
       }
     ]
   },
   {
     "ronde": "ronde 4",
-    "datum": "22-11-2019",
+    "datum": "20-03-2020",
     "partijen": [
       {
         "wr": "",
         "zr": "",
         "wit": "Bye",
-        "zwart": "Diederik Lot"
+        "zwart": "Mo Taleb"
       },
       {
-        "wr": "0",
-        "zr": "1",
-        "wit": "Niels Lerinckx",
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
         "zwart": "Eddy Pletinckx"
       },
       {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Bob Huysman",
-        "zwart": "Sonja Van Der Voorde"
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Bob Huysman"
       },
       {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Tom Van Hoofstat",
-        "zwart": "Sander Lerinckx"
+        "wr": "",
+        "zr": "",
+        "wit": "Kristoff Bultijnck",
+        "zwart": "Stijn Beckers"
       }
     ]
   },
   {
     "ronde": "ronde 5",
-    "datum": "06-12-2019",
+    "datum": "03-04-2020",
     "partijen": [
       {
         "wr": "",
         "zr": "",
-        "wit": "Sander Lerinckx",
+        "wit": "Stijn Beckers",
         "zwart": "Bye"
       },
       {
-        "wr": "0",
-        "zr": "1",
-        "wit": "Sonja Van Der Voorde",
-        "zwart": "Tom Van Hoofstat"
+        "wr": "",
+        "zr": "",
+        "wit": "Bob Huysman",
+        "zwart": "Kristoff Bultijnck"
       },
       {
-        "wr": "0.5",
-        "zr": "0.5",
+        "wr": "",
+        "zr": "",
         "wit": "Eddy Pletinckx",
-        "zwart": "Bob Huysman"
+        "zwart": "Niels Palmans"
       },
       {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Diederik Lot",
-        "zwart": "Niels Lerinckx"
+        "wr": "",
+        "zr": "",
+        "wit": "Mo Taleb",
+        "zwart": "Eric Cornelis"
       }
     ]
   },
   {
     "ronde": "ronde 6",
-    "datum": "20-12-2019",
+    "datum": "01-05-2020",
     "partijen": [
       {
         "wr": "",
         "zr": "",
         "wit": "Bye",
-        "zwart": "Niels Lerinckx"
+        "zwart": "Eric Cornelis"
       },
       {
-        "wr": "0.5",
-        "zr": "0.5",
-        "wit": "Bob Huysman",
-        "zwart": "Diederik Lot"
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Mo Taleb"
       },
       {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Tom Van Hoofstat",
+        "wr": "",
+        "zr": "",
+        "wit": "Kristoff Bultijnck",
         "zwart": "Eddy Pletinckx"
       },
       {
-        "wr": "0",
-        "zr": "1",
-        "wit": "Sander Lerinckx",
-        "zwart": "Sonja Van Der Voorde"
+        "wr": "",
+        "zr": "",
+        "wit": "Stijn Beckers",
+        "zwart": "Bob Huysman"
       }
     ]
   },
   {
     "ronde": "ronde 7",
-    "datum": "17-01-2020",
+    "datum": "22-05-2020",
     "partijen": [
       {
         "wr": "",
         "zr": "",
-        "wit": "Sonja Van Der Voorde",
+        "wit": "Bob Huysman",
         "zwart": "Bye"
       },
       {
-        "wr": "1",
-        "zr": "0",
+        "wr": "",
+        "zr": "",
         "wit": "Eddy Pletinckx",
-        "zwart": "Sander Lerinckx"
+        "zwart": "Stijn Beckers"
       },
       {
-        "wr": "0.5",
-        "zr": "0.5",
-        "wit": "Diederik Lot",
-        "zwart": "Tom Van Hoofstat"
+        "wr": "",
+        "zr": "",
+        "wit": "Mo Taleb",
+        "zwart": "Kristoff Bultijnck"
       },
       {
-        "wr": "0",
-        "zr": "1",
-        "wit": "Niels Lerinckx",
-        "zwart": "Bob Huysman"
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Niels Palmans"
       }
     ]
   }

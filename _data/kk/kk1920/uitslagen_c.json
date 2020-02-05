@@ -1,211 +1,211 @@
 [
   {
     "ronde": "ronde 1",
-    "datum": "04-10-2019",
+    "datum": "07-02-2020",
     "partijen": [
       {
         "wr": "",
         "zr": "",
-        "wit": "Niels Palmans",
-        "zwart": "Bye"
+        "wit": "Bye 1",
+        "zwart": "Bye 2"
       },
       {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Serge Vanderwaeren",
-        "zwart": "Jannes Vandevelde"
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Lerinckx",
+        "zwart": "Sander Lerinckx"
       },
       {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Stijn Beckers",
-        "zwart": "Geert Verrijken"
+        "wr": "",
+        "zr": "",
+        "wit": "Matthias Vanrossum",
+        "zwart": "Felix Huyghe"
       },
       {
-        "wr": "0",
-        "zr": "1",
+        "wr": "",
+        "zr": "",
         "wit": "Mats Laureys",
-        "zwart": "Peter De Bosscher"
+        "zwart": "Jannes Vandevelde"
       }
     ]
   },
   {
     "ronde": "ronde 2",
-    "datum": "18-10-2019",
+    "datum": "21-02-2020",
     "partijen": [
       {
         "wr": "",
         "zr": "",
-        "wit": "Bye",
-        "zwart": "Peter De Bosscher"
+        "wit": "Bye 2",
+        "zwart": "Jannes Vandevelde"
       },
       {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Geert Verrijken",
+        "wr": "",
+        "zr": "",
+        "wit": "Felix Huyghe",
         "zwart": "Mats Laureys"
       },
       {
-        "wr": "0.5",
-        "zr": "0.5",
-        "wit": "Jannes Vandevelde",
-        "zwart": "Stijn Beckers"
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Matthias Vanrossum"
       },
       {
-        "wr": "0",
-        "zr": "1",
-        "wit": "Niels Palmans",
-        "zwart": "Serge Vanderwaeren"
+        "wr": "",
+        "zr": "",
+        "wit": "Bye 1",
+        "zwart": "Niels Lerinckx"
       }
     ]
   },
   {
     "ronde": "ronde 3",
-    "datum": "15-11-2019",
+    "datum": "06-03-2020",
     "partijen": [
       {
         "wr": "",
         "zr": "",
-        "wit": "Serge Vanderwaeren",
-        "zwart": "Bye"
+        "wit": "Niels Lerinckx",
+        "zwart": "Bye 2"
       },
       {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Stijn Beckers",
-        "zwart": "Niels Palmans"
+        "wr": "",
+        "zr": "",
+        "wit": "Matthias Vanrossum",
+        "zwart": "Bye 1"
       },
       {
-        "wr": "1",
-        "zr": "0",
+        "wr": "",
+        "zr": "",
         "wit": "Mats Laureys",
-        "zwart": "Jannes Vandevelde"
+        "zwart": "Sander Lerinckx"
       },
       {
-        "wr": "0",
-        "zr": "1",
-        "wit": "Peter De Bosscher",
-        "zwart": "Geert Verrijken"
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Felix Huyghe"
       }
     ]
   },
   {
     "ronde": "ronde 4",
-    "datum": "22-11-2019",
+    "datum": "20-03-2020",
     "partijen": [
       {
         "wr": "",
         "zr": "",
-        "wit": "Bye",
-        "zwart": "Geert Verrijken"
+        "wit": "Bye 2",
+        "zwart": "Felix Huyghe"
       },
       {
-        "wr": "0",
-        "zr": "1",
-        "wit": "Jannes Vandevelde",
-        "zwart": "Peter De Bosscher"
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Jannes Vandevelde"
       },
       {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Niels Palmans",
+        "wr": "",
+        "zr": "",
+        "wit": "Bye 1",
         "zwart": "Mats Laureys"
       },
       {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Serge Vanderwaeren",
-        "zwart": "Stijn Beckers"
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Lerinckx",
+        "zwart": "Matthias Vanrossum"
       }
     ]
   },
   {
     "ronde": "ronde 5",
-    "datum": "06-12-2019",
+    "datum": "03-04-2020",
     "partijen": [
       {
         "wr": "",
         "zr": "",
-        "wit": "Stijn Beckers",
-        "zwart": "Bye"
+        "wit": "Matthias Vanrossum",
+        "zwart": "Bye 2"
       },
       {
-        "wr": "0F",
-        "zr": "1F",
+        "wr": "",
+        "zr": "",
         "wit": "Mats Laureys",
-        "zwart": "Serge Vanderwaeren"
+        "zwart": "Niels Lerinckx"
       },
       {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Peter De Bosscher",
-        "zwart": "Niels Palmans"
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Bye 1"
       },
       {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Geert Verrijken",
-        "zwart": "Jannes Vandevelde"
+        "wr": "",
+        "zr": "",
+        "wit": "Felix Huyghe",
+        "zwart": "Sander Lerinckx"
       }
     ]
   },
   {
     "ronde": "ronde 6",
-    "datum": "20-12-2019",
+    "datum": "01-05-2020",
     "partijen": [
       {
         "wr": "",
         "zr": "",
-        "wit": "Bye",
+        "wit": "Bye 2",
+        "zwart": "Sander Lerinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye 1",
+        "zwart": "Felix Huyghe"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Lerinckx",
         "zwart": "Jannes Vandevelde"
       },
       {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Niels Palmans",
-        "zwart": "Geert Verrijken"
-      },
-      {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Serge Vanderwaeren",
-        "zwart": "Peter De Bosscher"
-      },
-      {
-        "wr": "0",
-        "zr": "1",
-        "wit": "Stijn Beckers",
+        "wr": "",
+        "zr": "",
+        "wit": "Matthias Vanrossum",
         "zwart": "Mats Laureys"
       }
     ]
   },
   {
     "ronde": "ronde 7",
-    "datum": "17-01-2020",
+    "datum": "22-05-2020",
     "partijen": [
       {
         "wr": "",
         "zr": "",
         "wit": "Mats Laureys",
-        "zwart": "Bye"
+        "zwart": "Bye 2"
       },
       {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Peter De Bosscher",
-        "zwart": "Stijn Beckers"
-      },
-      {
-        "wr": "1",
-        "zr": "0",
-        "wit": "Geert Verrijken",
-        "zwart": "Serge Vanderwaeren"
-      },
-      {
-        "wr": "0",
-        "zr": "1",
+        "wr": "",
+        "zr": "",
         "wit": "Jannes Vandevelde",
-        "zwart": "Niels Palmans"
+        "zwart": "Matthias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Felix Huyghe",
+        "zwart": "Niels Lerinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Bye 1"
       }
     ]
   }
