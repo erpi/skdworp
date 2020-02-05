@@ -78,5 +78,21 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Vennekens, Camiel", "uspeler": "Cuyx, Tomas", "telo": 1773, "uelo": 1536, "tstam": 37168, "ustam": 13921},
       {"tr": "1", "ur": "0", "tspeler": "Malfliet, Bernard", "uspeler": "Peeters, Jurre", "telo": 1722, "uelo": 0, "tstam": 31348, "ustam": 16199}
     ]
+  },
+  {
+    "ronde": "7",
+    "datum": "02-02-2020",
+    "thuis": "953 NIVELLES 1",
+    "uit": "228 DWORP 4",
+    "tscore": 2,
+    "uscore": 2,
+    "tgem": 1815,
+    "ugem": 1803,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Grijp, Peter", "uspeler": "De Reymaeker, Walter", "telo": 1912, "uelo": 1929, "tstam": 93599, "ustam": 34584},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "George, Michael", "uspeler": "De Bosscher, Peter", "telo": 1925, "uelo": 1836, "tstam": 72443, "ustam": 655},
+      {"tr": "0", "ur": "1", "tspeler": "Pauwels, Pascal", "uspeler": "Bertrand, Stijn", "telo": 1760, "uelo": 1726, "tstam": 82899, "ustam": 21253},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Monnier, Samuel", "uspeler": "Malfliet, Bernard", "telo": 1661, "uelo": 1722, "tstam": 97301, "ustam": 31348}
+    ]
   }
 ]
