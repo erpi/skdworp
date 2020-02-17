@@ -84,8 +84,8 @@
     "datum": "02-02-2020",
     "thuis": "953 NIVELLES 1",
     "uit": "228 DWORP 4",
-    "tscore": 2,
-    "uscore": 2,
+    "tscore": 2.0,
+    "uscore": 2.0,
     "tgem": 1815,
     "ugem": 1803,
     "borden": [
