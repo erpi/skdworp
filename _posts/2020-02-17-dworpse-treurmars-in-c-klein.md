@@ -6,7 +6,7 @@ ni_d3_thuisploeg: Dworp 3
 ni_d4_thuisploeg: Dworp 4
 title: Dworpse treurmars in C klein
 auteur: Gaston,Geert
-fotograaf: Yves
+fotograaf: 
 date: 2020-02-16 00:00:00 +0100
 ni_ronde: "8"
 ni_d1_uitploeg: Aalst 1
@@ -21,12 +21,12 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 description: "Het mag dan twee dagen na Valentijn zijn, de spelers van de Dworpse schaakkring -zoals bekend een schaakclub in Halle- roken afgelopen zondag bloed. Iedereen op scherp voor drie topduels."
 image:
-  path: assets/images/1920/ni/r7_d2_someone_fb.jpg
-draft: true
+  path: assets/images/fb/fb_post_11.jpg
+draft: false
 ---
 ## Vooraf
 
-Het mag dan twee dagen na Valentijn zijn, de spelers van de Dworpse schaakkring -zoals bekend een schaakclub in Halle- roken afgelopen zondag bloed. Iedereen op scherp voor drie topduels tegen rechtstreekse concurrenten. Met Aalst had team 1 een haalbare kaart. En winnen is zo goed als een must om van de laatste plaats weg te komen. Voor Dworp 3 en 4 is de inzet de eerste (promotie)plaats. De hamvraag vooraf: hoe komen we op drie fronten zo sterk mogelijk voor de dag? Na veel gekissebis en overleg wordt die vraag met goed gevolg beantwoord: hiermee kan het lukken. Het enige wat nu nog moet gebeuren is de tegenstand van zijn sokken blazen...
+Het mag dan twee dagen na Valentijn zijn, de spelers van de Dworpse schaakkring -zoals bekend een schaakclub in Halle- roken afgelopen zondag bloed. Iedereen op scherp voor drie topduels tegen rechtstreekse concurrenten. Met Aalst had team 1 een haalbare kaart. En winnen is zo goed als een must om van de laatste plaats weg te komen. Voor Dworp 3 en 4 is de inzet de eerste (promotie)plaats. De hamvraag vooraf: hoe komen we op drie fronten zo sterk mogelijk voor de dag? Na veel gekissebis en overleg wordt die vraag met goed gevolg beantwoord: hiermee kan het lukken. Het enige wat nu nog moet gebeuren is de tegenstand van zijn sokken blazen...<!--more-->
 
 ## Roemloos de doos in en het deksel erop
 
@@ -82,4 +82,4 @@ En dus lag de druk bij Diederik die op bord 1 met wit een Wolga-gambiet tegenkre
 
 ## Naspel
 
-Het is wonden likken na deze faliekant afgelopen ronde 9. De cijfers spreken voor zich: amper drie keer gewonnen (plus een forfait-winst) en twee remises op 18 partijen... Een pover bilan! Maar succes vieren we samen, dus sluiten we ook de rangen na een zware nederlaag. En hop, we trekken ons op aan wat goed gaat. Dat is in de eerste plaats ploeg 3 die nagenoeg zeker is van promotie. Congrats Gaston en team! Ploeg 4 heeft het jammer genoeg niet meer in eigen handen maar moet er toch voor blijven gaan. Knokken tot de laatste snik. Dat geldt überhaupt ook voor team 1. Er zijn nog drie rondes, we hebben nog een waterkans op behoud. Zoals de drenkeling: we grijpen elke strohalm & na regen komt zonneschijn. En op de keeper beschouwd: het is maar een spelletje hé.
+Het is wonden likken na deze faliekant afgelopen ronde 8. De cijfers spreken voor zich: amper drie keer gewonnen (plus een forfait-winst) en twee remises op 18 partijen... Een pover bilan! Maar succes vieren we samen, dus sluiten we ook de rangen na een zware nederlaag. En hop, we trekken ons op aan wat goed gaat. Dat is in de eerste plaats ploeg 3 die nagenoeg zeker is van promotie. Congrats Gaston en team! Ploeg 4 heeft het jammer genoeg niet meer in eigen handen maar moet er toch voor blijven gaan. Knokken tot de laatste snik. Dat geldt überhaupt ook voor team 1. Er zijn nog drie rondes, we hebben nog een waterkans op behoud. Zoals de drenkeling: we grijpen elke strohalm & na regen komt zonneschijn. En op de keeper beschouwd: het is maar een spelletje hé.
