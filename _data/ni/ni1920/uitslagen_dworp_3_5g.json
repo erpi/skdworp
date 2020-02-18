@@ -87,12 +87,12 @@
     "ronde": "ronde 8",
     "datum": "16-02-2020",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "166 TSM Mechelen 3"},
-      {"tr": "", "ur": "", "thuis": "233 DZD Halle 1", "uit": "401 KGSRL 13"},
-      {"tr": "", "ur": "", "thuis": "207 2 Fous Diogene 3", "uit": "114 Mechelen 7"},
-      {"tr": "", "ur": "", "thuis": "260 Kapelle o/d Bos 2", "uit": "952 Wavre 5"},
-      {"tr": "", "ur": "", "thuis": "226 Europchess 5", "uit": "244 Brussels 5"},
-      {"tr": "", "ur": "", "thuis": "204 Excelsior 1", "uit": "278 Pantin 6"}
+      {"tr": "2", "ur": "2", "thuis": "228 Dworp 3", "uit": "166 TSM Mechelen 3"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "233 DZD Halle 1", "uit": "401 KGSRL 13"},
+      {"tr": "2", "ur": "2", "thuis": "207 2 Fous Diogene 3", "uit": "114 Mechelen 7"},
+      {"tr": "0", "ur": "4", "thuis": "260 Kapelle o/d Bos 2", "uit": "952 Wavre 5"},
+      {"tr": "4", "ur": "0", "thuis": "226 Europchess 5", "uit": "244 Brussels 5"},
+      {"tr": "0.5", "ur": "3.5", "thuis": "204 Excelsior 1", "uit": "278 Pantin 6"}
     ]
   },
   {

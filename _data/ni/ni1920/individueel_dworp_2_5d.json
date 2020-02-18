@@ -110,5 +110,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Vermaercke, Reinout", "uspeler": "Vandevelde, Jannes", "telo": 1491, "uelo": 0, "tstam": 13839, "ustam": 19931},
       {"tr": "1", "ur": "0", "tspeler": "Leboy, Robbe", "uspeler": "Wilmots, Yentl", "telo": 1403, "uelo": 0, "tstam": 13163, "ustam": 21680}
     ]
+  },
+  {
+    "ronde": "8",
+    "datum": "16-02-2020",
+    "thuis": "228 DWORP 2",
+    "uit": "229 WOLUWE 2",
+    "tscore": 0,
+    "uscore": 4,
+    "tgem": 1565,
+    "ugem": 1591,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Palmans, Niels", "uspeler": "Frederiksen, Jens", "telo": 1565, "uelo": 1686, "tstam": 17733, "ustam": 78697},
+      {"tr": "0", "ur": "1", "tspeler": "Lerinckx, Sander", "uspeler": "Ertas, Mehmet", "telo": 0, "uelo": 1637, "tstam": 12702, "ustam": 19094},
+      {"tr": "0", "ur": "1", "tspeler": "Vanrossum, Matthias", "uspeler": "Mariame, Philippe", "telo": 0, "uelo": 1616, "tstam": 17614, "ustam": 38857},
+      {"tr": "0", "ur": "1", "tspeler": "Wilmots, Yentl", "uspeler": "Lenaertz, David", "telo": 0, "uelo": 1424, "tstam": 21680, "ustam": 17436}
+    ]
   }
 ]

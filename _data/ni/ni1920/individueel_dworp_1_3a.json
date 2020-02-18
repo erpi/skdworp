@@ -124,5 +124,23 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Raats, Joppe", "uspeler": "Lot, Diederik", "telo": 1858, "uelo": 2007, "tstam": 12445, "ustam": 9954},
       {"tr": "1", "ur": "0", "tspeler": "Cliteur, Olaf", "uspeler": "Denys, Frank", "telo": 1875, "uelo": 1903, "tstam": 29912, "ustam": 21881}
     ]
+  },
+  {
+    "ronde": "8",
+    "datum": "16-02-2020",
+    "thuis": "228 DWORP 1",
+    "uit": "417 AALST 1",
+    "tscore": 2.5,
+    "uscore": 3.5,
+    "tgem": 1971,
+    "ugem": 1762,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren, Serge", "uspeler": "Heymans, Berwout", "telo": 2110, "uelo": 1896, "tstam": 20621, "ustam": 17261},
+      {"tr": "0", "ur": "1", "tspeler": "Van Hoofstat, Tom", "uspeler": "Vanhee, Freddy", "telo": 2082, "uelo": 1905, "tstam": 42706, "ustam": 9725},
+      {"tr": "0", "ur": "1", "tspeler": "Spaens, Kjell", "uspeler": "Willockx, Ritsaart", "telo": 2019, "uelo": 1891, "tstam": 29343, "ustam": 32913},
+      {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "De Smet, Frans", "telo": 1989, "uelo": 1787, "tstam": 62766, "ustam": 34011},
+      {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Van Steen, Guido", "telo": 1903, "uelo": 1331, "tstam": 21881, "ustam": 17254},
+      {"tr": "0", "ur": "1", "tspeler": "Van De Velde, Filip", "uspeler": "Cappelle, Gert-Jan", "telo": 1723, "uelo": 0, "tstam": 31682, "ustam": 12453}
+    ]
   }
 ]

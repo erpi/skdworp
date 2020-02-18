@@ -94,5 +94,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Pauwels, Pascal", "uspeler": "Bertrand, Stijn", "telo": 1760, "uelo": 1726, "tstam": 82899, "ustam": 21253},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Monnier, Samuel", "uspeler": "Malfliet, Bernard", "telo": 1661, "uelo": 1722, "tstam": 97301, "ustam": 31348}
     ]
+  },
+  {
+    "ronde": "8",
+    "datum": "16-02-2020",
+    "thuis": "228 DWORP 4",
+    "uit": "244 BRUSSELS 6",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1826,
+    "ugem": 1853,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lot, Diederik", "uspeler": "Sochman, Petr", "telo": 2007, "uelo": 1911, "tstam": 9954, "ustam": 10991},
+      {"tr": "0", "ur": "1", "tspeler": "De Bosscher, Peter", "uspeler": "Lombart, Philippe", "telo": 1836, "uelo": 1847, "tstam": 655, "ustam": 41831},
+      {"tr": "0", "ur": "1", "tspeler": "Bertrand, Stijn", "uspeler": "Herman, Luc", "telo": 1726, "uelo": 1843, "tstam": 21253, "ustam": 8575},
+      {"tr": "1", "ur": "0", "tspeler": "Malfliet, Bernard", "uspeler": "Lambert, Michel", "telo": 1722, "uelo": 1810, "tstam": 31348, "ustam": 80918}
+    ]
   }
 ]

@@ -110,5 +110,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Burgdorffer, Anton", "uspeler": "Taleb, Mohamad", "telo": 1275, "uelo": 1427, "tstam": 28576, "ustam": 64611},
       {"tr": "0", "ur": "1", "tspeler": "De Visser, Stefaan", "uspeler": "Baert, Yves", "telo": 1351, "uelo": 1490, "tstam": 6891, "ustam": 48721}
     ]
+  },
+  {
+    "ronde": "8",
+    "datum": "16-02-2020",
+    "thuis": "228 DWORP 3",
+    "uit": "166 TSM MECHELEN 3",
+    "tscore": 2,
+    "uscore": 2,
+    "tgem": 1749,
+    "ugem": 1723,
+    "borden": [
+      {"tr": "1F", "ur": "0F", "tspeler": "Boutchon, Gaston", "uspeler": "Verhaegen, Wim", "telo": 1868, "uelo": 1999, "tstam": 28606, "ustam": 17779},
+      {"tr": "0", "ur": "1", "tspeler": "Van Hoofstat, Sam", "uspeler": "Duchesne, Marc", "telo": 1866, "uelo": 1761, "tstam": 39101, "ustam": 27278},
+      {"tr": "1", "ur": "0", "tspeler": "Vennekens, Camiel", "uspeler": "Van Hoof, Wilfried", "telo": 1773, "uelo": 1718, "tstam": 37168, "ustam": 27260},
+      {"tr": "0", "ur": "1", "tspeler": "Baert, Yves", "uspeler": "Close, Guido", "telo": 1490, "uelo": 1413, "tstam": 48721, "ustam": 47970}
+    ]
   }
 ]
