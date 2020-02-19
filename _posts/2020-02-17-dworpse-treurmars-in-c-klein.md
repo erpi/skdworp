@@ -6,7 +6,7 @@ ni_d3_thuisploeg: Dworp 3
 ni_d4_thuisploeg: Dworp 4
 title: Dworpse treurmars in C klein
 auteur: Gaston,Geert
-fotograaf: 
+fotograaf: Yves
 date: 2020-02-17 20:00:00 +0100
 ni_ronde: "8"
 ni_d1_uitploeg: Aalst 1
@@ -21,7 +21,7 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 description: "Het mag dan twee dagen na Valentijn zijn, de spelers van de Dworpse schaakkring -zoals bekend een schaakclub in Halle- roken afgelopen zondag bloed. Iedereen op scherp voor drie topduels."
 image:
-  path: assets/images/fb/fb_post_11.jpg
+  path: assets/images/1920/ni/r8_d1_tom_fb.jpg
 draft: false
 ---
 ## Vooraf
@@ -41,6 +41,8 @@ Dan was het eventjes aan Dworpse SK. Op bord 4 had ik (Geert) met zwart na een t
 Kort daarna volgde Frank op bord 5 met wit. Van de opening heb ik niets gezien maar daarna dreigde Frank lange tijd een pion te winnen. De zwartspeler probeerde dat te pareren, slaagde daar tijdelijk in via penningen –of de dreiging daarmee- maar moest finaal toch buigen. Eens de pion binnen was ook de buit snel binnen. De goei op voorsprong: 2,5-1,5.
 
 Het leek gewonnen spel. De stelling van Kjell op bord 3 met wit was ingewikkeld maar zag er wel goed uit voor onze man. Heb er weinig van gezien maar plots was het over en uit. Geblunderd, was de droge commentaar van Kjell achteraf. Alle Elo nog aan toe zeg, de stand is weer gelijk: 2,5-2,5.
+
+![foto nog goed gehumeurde Tom][foto 1]
 
 En dus lag alle hoop in bange dagen in handen van Tom op bord 2 met zwart. Hij had zich op een andere tegenstander voorbereid en kwam dus aan het bord met een hoofd vol foute varianten. Maar Tom zou Tom niet zijn als hij zich niet voor 300% zou inzetten. Toch was zijn stelling niet echt geweldig. Gezien de stand sloeg hij een remisevoorstel van zijn tegenstander af. Het moet gezegd, daarna wikkelde de Ajuin keurig af. In de late uurtjes moest ook Tom zijn koning omleggen. Een drama in zes partijen. Eindstand: 2,5-3,5 voor Aalst.
 
@@ -74,6 +76,8 @@ Dworp 4 nam het op tegen een rechtstreekse concurrent voor de eerste plaats. Bij
 
 Bernard op bord 4 was eerste klaar. Onze man had de zwarte stukken en moest het opnemen tegen een sterke tegenstander. Bernard had het niet onder de markt en stond lange tijd verloren. Hij bleef echter geconcentreerd en gedreven verder spelen. Een ogenblik van onoplettendheid van wit en een konijnenpoot (van zwart) later waren de bordjes verhangen. Top, goed geknokt! 1-0 voor de goei.
 
+![foto Bernard, Stijn en tegenstanders][foto 2]
+
 Ondertussen ging Peter op bord 2 met zwart op het scherpst van de snee in de clinch met een BB (een bekende Brusselaar, toch in schaakmiddens). Al vanuit de opening offerde Peter een pion. Met een gederokeerde koning versus een lange rokade kon het alle kanten op. En het ging ook alle kanten uit wegens zeer gecompliceerd. Uiteindelijk trok de witspeler wel aan het kortste eind. Terug gelijk 1-1.
 
 Ook bij Stijn op bord 3 was het ingewikkeld. Na lang getouwtrek over en weer kreeg Stijn met wit wel enkele pionnen voor. Zwart had daarvoor in ruil een ver opgerukte vrijpion. Dit in een stelling van dame plus paard voor wit versus dame plus loper voor zwart. Stijn bleef zich weren als een duivel in een wijwatervat maar nadat zwart erin slaagde de pion te doen promoveren, was er geen houden meer aan. 1-2 achter.
@@ -83,3 +87,7 @@ En dus lag de druk bij Diederik die op bord 1 met wit een Wolga-gambiet tegenkre
 ## Naspel
 
 Het is wonden likken na deze faliekant afgelopen ronde 8. De cijfers spreken voor zich: amper drie keer gewonnen (plus een forfait-winst) en twee remises op 18 partijen... Een pover bilan! Maar succes vieren we samen, dus sluiten we ook de rangen na een zware nederlaag. En hop, we trekken ons op aan wat goed gaat. Dat is in de eerste plaats ploeg 3 die nagenoeg zeker is van promotie. Congrats Gaston en team! Ploeg 4 heeft het jammer genoeg niet meer in eigen handen maar moet er toch voor blijven gaan. Knokken tot de laatste snik. Dat geldt überhaupt ook voor team 1. Er zijn nog drie rondes, we hebben nog een waterkans op behoud. Zoals de drenkeling: we grijpen elke strohalm & na regen komt zonneschijn. En op de keeper beschouwd: het is maar een spelletje hé.
+
+[foto 1]: {{ "/assets/images/1920/ni/r8_d1_tom.jpg" | absolute_url }}
+[foto 2]: {{ "/assets/images/1920/ni/r8_d4_bernard.jpg" | absolute_url }}
+
