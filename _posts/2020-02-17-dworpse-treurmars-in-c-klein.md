@@ -7,7 +7,7 @@ ni_d4_thuisploeg: Dworp 4
 title: Dworpse treurmars in C klein
 auteur: Gaston,Geert
 fotograaf: 
-date: 2020-02-16 00:00:00 +0100
+date: 2020-02-17 20:00:00 +0100
 ni_ronde: "8"
 ni_d1_uitploeg: Aalst 1
 ni_d2_uitploeg: Woluwe 2
