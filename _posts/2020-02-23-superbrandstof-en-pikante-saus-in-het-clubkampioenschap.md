@@ -7,7 +7,7 @@ auteur: Geert
 date: 2020-02-23 21:00:00 +0100
 image:
   path: 'assets/images/fb/fb_post_3.jpg'
-draft: true
+draft: false
 ---
 De partijen in de voorrondes van het clubkampioenschap zijn ondertussen gespeeld.  Met een interessante nieuwe formule waardoor er vooral in reeks C twee spelers (Peter en Geert) amper door het oog van de naald geraakten. Revelaties zijn zeker Stijn B. -die zijn opwachting maakt in de tweede reeks- en Bob -die ei zo na in reeks 1 speelde.
 
