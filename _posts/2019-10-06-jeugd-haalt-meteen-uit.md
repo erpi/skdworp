@@ -1,7 +1,7 @@
 ---
 description: 'Vrijdag startte het clubkampioenschap: eenentwintig deelnemers die in drie reeksen spelen. Zeven jeugdspelers meten zich met de rest van de club.'
 tag: kk
-kk_ronde: '1'
+kk_ronde: '1.1'
 title: Jeugd haalt meteen uit
 auteur: Diederik
 date: 2019-10-06 21:00:00 +0100
