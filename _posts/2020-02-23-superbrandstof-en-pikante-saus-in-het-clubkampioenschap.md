@@ -1,7 +1,7 @@
 ---
 description: 'De voorrondes van het clubkampioenschap zijn ondertussen gespeeld.  Met een interessante nieuwe formule waardoor er vooral in reeks C twee spelers amper door het oog van de naald geraakten.'
 tag: kk
-kk_ronde: '1.7'
+kk_ronde: '7'
 title: Superbrandstof en pikante saus in het clubkampioenschap
 auteur: Geert
 date: 2020-02-23 21:00:00 +0100
