@@ -76,8 +76,8 @@
         "zwart": "Bye 1"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Mats Laureys",
         "zwart": "Sander Lerinckx"
       },
@@ -112,8 +112,8 @@
         "zwart": "Mats Laureys"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Niels Lerinckx",
         "zwart": "Matthias Vanrossum"
       }
