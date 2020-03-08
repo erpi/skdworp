@@ -99,12 +99,12 @@
     "ronde": "ronde 9",
     "datum": "08-03-2020",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "244 Brussels 6", "uit": "278 Pantin 7"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "244 Brussels 6", "uit": "278 Pantin 7"},
       {"tr": "", "ur": "", "thuis": "952 Wavre 6", "uit": "Bye"},
-      {"tr": "", "ur": "", "thuis": "551 Jurbise 2", "uit": "525 Anderlues 3"},
-      {"tr": "", "ur": "", "thuis": "114 Mechelen 9", "uit": "901 Namur 7"},
-      {"tr": "", "ur": "", "thuis": "953 Nivelles 1", "uit": "548 Caissa Europe 4"},
-      {"tr": "", "ur": "", "thuis": "228 Dworp 4", "uit": "233 DZD Halle 2"}
+      {"tr": "4", "ur": "0", "thuis": "551 Jurbise 2", "uit": "525 Anderlues 3"},
+      {"tr": "3", "ur": "1", "thuis": "114 Mechelen 9", "uit": "901 Namur 7"},
+      {"tr": "4", "ur": "0", "thuis": "953 Nivelles 1", "uit": "548 Caissa Europe 4"},
+      {"tr": "3", "ur": "1", "thuis": "228 Dworp 4", "uit": "233 DZD Halle 2"}
     ]
   },
   {
