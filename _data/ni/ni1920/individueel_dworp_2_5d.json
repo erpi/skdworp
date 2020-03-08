@@ -126,5 +126,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Vanrossum, Matthias", "uspeler": "Mariame, Philippe", "telo": 0, "uelo": 1616, "tstam": 17614, "ustam": 38857},
       {"tr": "0", "ur": "1", "tspeler": "Wilmots, Yentl", "uspeler": "Lenaertz, David", "telo": 0, "uelo": 1424, "tstam": 21680, "ustam": 17436}
     ]
+  },
+  {
+    "ronde": "9",
+    "datum": "08-03-2020",
+    "thuis": "228 DWORP 2",
+    "uit": "207 2 FOUS DIOGENE 2",
+    "tscore": 1,
+    "uscore": 3,
+    "tgem": 1666,
+    "ugem": 1456,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Vennekens, Camiel", "uspeler": "Lacheron, Edouard", "telo": 1773, "uelo": 1588, "tstam": 37168, "ustam": 12099},
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis, Eric", "uspeler": "Bonte, Gregoire", "telo": 1660, "uelo": 1323, "tstam": 76317, "ustam": 13502},
+      {"tr": "0", "ur": "1", "tspeler": "Palmans, Niels", "uspeler": "Perez, Nicolas", "telo": 1565, "uelo": 0, "tstam": 17733, "ustam": 18882},
+      {"tr": "0", "ur": "1", "tspeler": "Wilmots, Yentl", "uspeler": "Mechkor, Mohamed", "telo": 0, "uelo": 0, "tstam": 21680, "ustam": 21218}
+    ]
   }
 ]

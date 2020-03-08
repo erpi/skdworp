@@ -110,5 +110,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Bertrand, Stijn", "uspeler": "Herman, Luc", "telo": 1726, "uelo": 1843, "tstam": 21253, "ustam": 8575},
       {"tr": "1", "ur": "0", "tspeler": "Malfliet, Bernard", "uspeler": "Lambert, Michel", "telo": 1722, "uelo": 1810, "tstam": 31348, "ustam": 80918}
     ]
+  },
+  {
+    "ronde": "9",
+    "datum": "08-03-2020",
+    "thuis": "228 DWORP 4",
+    "uit": "233 DZD HALLE 2",
+    "tscore": 3.0,
+    "uscore": 1.0,
+    "tgem": 1803,
+    "ugem": 1838,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "De Ceukelaire, Gert", "telo": 1929, "uelo": 1951, "tstam": 34584, "ustam": 99152},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher, Peter", "uspeler": "Maeckelbergh, Geert", "telo": 1836, "uelo": 1856, "tstam": 655, "ustam": 43419},
+      {"tr": "1", "ur": "0", "tspeler": "Bertrand, Stijn", "uspeler": "Maeckelbergh, Anne-Marie", "telo": 1726, "uelo": 1813, "tstam": 21253, "ustam": 353},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet, Bernard", "uspeler": "Van Duuren, Louis", "telo": 1722, "uelo": 1730, "tstam": 31348, "ustam": 26816}
+    ]
   }
 ]

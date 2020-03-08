@@ -126,5 +126,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Vennekens, Camiel", "uspeler": "Van Hoof, Wilfried", "telo": 1773, "uelo": 1718, "tstam": 37168, "ustam": 27260},
       {"tr": "0", "ur": "1", "tspeler": "Baert, Yves", "uspeler": "Close, Guido", "telo": 1490, "uelo": 1413, "tstam": 48721, "ustam": 47970}
     ]
+  },
+  {
+    "ronde": "9",
+    "datum": "08-03-2020",
+    "thuis": "228 DWORP 3",
+    "uit": "233 DZD HALLE 1",
+    "tscore": 2,
+    "uscore": 2,
+    "tgem": 1663,
+    "ugem": 1364,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Boutchon, Gaston", "uspeler": "Bultijnck, Kristoff", "telo": 1868, "uelo": 1553, "tstam": 28606, "ustam": 16944},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Hoofstat, Sam", "uspeler": "Van Der Voorde, Sonja", "telo": 1866, "uelo": 1391, "tstam": 39101, "ustam": 43346},
+      {"tr": "1", "ur": "0", "tspeler": "Taleb, Mohamad", "uspeler": "Schepens, Aron", "telo": 1427, "uelo": 1312, "tstam": 64611, "ustam": 19643},
+      {"tr": "0", "ur": "1", "tspeler": "Baert, Yves", "uspeler": "Geerts, Mark-Johan", "telo": 1490, "uelo": 1198, "tstam": 48721, "ustam": 13175}
+    ]
   }
 ]

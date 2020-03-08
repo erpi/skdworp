@@ -142,5 +142,23 @@
       {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Van Steen, Guido", "telo": 1903, "uelo": 1331, "tstam": 21881, "ustam": 17254},
       {"tr": "0", "ur": "1", "tspeler": "Van De Velde, Filip", "uspeler": "Cappelle, Gert-Jan", "telo": 1723, "uelo": 0, "tstam": 31682, "ustam": 12453}
     ]
+  },
+  {
+    "ronde": "9",
+    "datum": "08-03-2020",
+    "thuis": "228 DWORP 1",
+    "uit": "174 BRASSCHAAT 2",
+    "tscore": 3.5,
+    "uscore": 2.5,
+    "tgem": 2018,
+    "ugem": 1888,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren, Serge", "uspeler": "De Smedt, Mark", "telo": 2110, "uelo": 1946, "tstam": 20621, "ustam": 28240},
+      {"tr": "0", "ur": "1", "tspeler": "Van Hoofstat, Tom", "uspeler": "Osinga, Angelique", "telo": 2082, "uelo": 1932, "tstam": 42706, "ustam": 12370},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Spaens, Kjell", "uspeler": "De Hert, Oliver", "telo": 2019, "uelo": 1956, "tstam": 29343, "ustam": 51195},
+      {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Van Der Graaf, Andre", "telo": 1989, "uelo": 1904, "tstam": 62766, "ustam": 14341},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lot, Diederik", "uspeler": "Vande Ginste, Michiel", "telo": 2007, "uelo": 1749, "tstam": 9954, "ustam": 12697},
+      {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Remijsen, Dave", "telo": 1903, "uelo": 1842, "tstam": 21881, "ustam": 48381}
+    ]
   }
 ]
