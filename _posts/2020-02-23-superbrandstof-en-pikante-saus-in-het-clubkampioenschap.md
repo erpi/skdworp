@@ -9,7 +9,7 @@ image:
   path: 'assets/images/fb/fb_post_3.jpg'
 draft: false
 ---
-De partijen in de voorrondes van het clubkampioenschap zijn ondertussen gespeeld.  Met een interessante nieuwe formule waardoor er vooral in reeks C twee spelers (Peter en Geert) amper door het oog van de naald geraakten. Revelaties zijn zeker Stijn B. -die zijn opwachting maakt in de tweede reeks- en Bob -die ei zo na in reeks 1 speelde.
+De partijen in de voorrondes van het clubkampioenschap zijn ondertussen gespeeld.  Met een interessante nieuwe formule waardoor er vooral in reeks C twee spelers (Peter en Geert) amper door het oog van de naald geraakten. Revelaties zijn zeker Stijn B. -die zijn opwachting maakt in de tweede reeks- en Bob -die ei zo na in reeks 1 speelde.<!--more-->
 
 Als we even de voorrondes overlopen dan kunnen we in reeks A niet naast de stevige prestaties van Walter (maximum van de punten) kijken. Ook Eric deed het goed, de anderen speelden ongeveer op hun Elo-sterkte. Eric, Mo en Kristoff mogen het in reeks B gaan uitvechten. Geen grote verrassingen in deze reeks.
 
