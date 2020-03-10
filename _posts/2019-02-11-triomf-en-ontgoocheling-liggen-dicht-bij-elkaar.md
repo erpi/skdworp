@@ -58,9 +58,9 @@ Op bord 4 speelde Filip met wit in zijn oude, vertrouwde stijl. Het scenario van
 
 ## Trop is teveel en te straf is te straf
 
-Pantin 6 staat aan de leiding in de vijfde afdeling L en dat was er duidelijk aan te merken. Een droge 4-0 was de uitslag. Dat was misschien wat overdreven en niet helemaal representatief. Zowel Yves als Mats speelden immers een verdienstelijke partij. Op te merken valt ook dat Matthias vandaag zijn eerste partij in de nationale interclubs speelde.
+Pantin 6 staat aan de leiding in de vijfde afdeling L en dat was er duidelijk aan te merken. Een droge 4-0 was de uitslag. Dat was misschien wat overdreven en niet helemaal representatief. Zowel Yves als Mats speelden immers een verdienstelijke partij. Op te merken valt ook dat Mathias vandaag zijn eerste partij in de nationale interclubs speelde.
 
-![Foto Niels, Matthias en Mats][foto 2]
+![Foto Niels, Mathias en Mats][foto 2]
 
 ## Naspel
 

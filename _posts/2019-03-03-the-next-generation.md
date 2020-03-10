@@ -15,13 +15,13 @@ image:
 draft: false
 last_modified_at: 2019-10-23
 ---
-Gisteren traden we aan op het debutantentornooi van Chesspirant te Lokeren met maar liefst 10 spelers: Nathan, Lexie, Charlotte, Helena, Jannes, Matthias, Sander, Niels, Mats en ikzelf. Als begeleiders tekenden Christophe, een iets minder bekend lid van onze club, en mijn zus Hedwig present.<!--more-->
+Gisteren traden we aan op het debutantentornooi van Chesspirant te Lokeren met maar liefst 10 spelers: Nathan, Lexie, Charlotte, Helena, Jannes, Mathias, Sander, Niels, Mats en ikzelf. Als begeleiders tekenden Christophe, een iets minder bekend lid van onze club, en mijn zus Hedwig present.<!--more-->
 
 Voor Nathan, Lexie, Charlotte en Helena was het hun eerste schaaktornooi na enkele maanden les bij me thuis. Het belangrijkste was dus een eerste positieve ervaring. Vooral dankzij de toporganisatie van Chesspirant lukte dit perfect. Elke deelnemer kreeg een medaille en een zak met lekkers en goodies.
 
 ![Groepsfoto][foto 1]
 
-_Van boven naar onder en links naar rechts: Niels, Matthias, Lexie, Charlotte, Nathan, Helena en Sander (Jannes en Mats waren toen nog aan het spelen)_
+_Van boven naar onder en links naar rechts: Niels, Mathias, Lexie, Charlotte, Nathan, Helena en Sander (Jannes en Mats waren toen nog aan het spelen)_
 
 Net zoals bij [vorige deelname][1] werden alle spelers ingedeeld volgens stap 1, 2 of 3. Na vier ronden Zwitsers werd er dan een finale gespeeld van twee of drie ronden. Er was ook een open reeks waar Mats en ik aan meededen.
 
@@ -39,7 +39,7 @@ Jannes droomde net als vorige keer van een 4 op 4 raketstart. Ditmaal lukte het 
 
 ## Stap 3
 
-In stap 3 speelden Niels, Sander en Matthias zeer aardig. Sander won zijn finalereeks. Voor Niels en Matthias was het iets moeilijker aangezien ze een reeks hoger speelden.
+In stap 3 speelden Niels, Sander en Mathias zeer aardig. Sander won zijn finalereeks. Voor Niels en Mathias was het iets moeilijker aangezien ze een reeks hoger speelden.
 
 ## Open reeks
 

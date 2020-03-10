@@ -3,17 +3,17 @@ partij 1,,,
 Van de Velde Filip,De Bosscher Peter,0.5,0.5
 Bultijnck Kristoff,Huysman Robert,1,0
 Lerinckx Niels,Ertveldt Pieter,0,1
-Lerinckx Sander,Vanrossum Matthias,0,1
+Lerinckx Sander,Vanrossum Mathias,0,1
 Vandevelde Jannes,De Bosscher Jonathan,1,0
 partij 2,,,
 Ertveldt Pieter,Van de Velde Filip,0,1
 De Bosscher Peter,Bultijnck Kristoff,1,0
 Huysman Robert,Lerinckx Sander,1,0
-Vanrossum Matthias,Vandevelde Jannes,1,0
+Vanrossum Mathias,Vandevelde Jannes,1,0
 Lerinckx Niels,De Bosscher Jonathan,0,1
 partij 3,,,
 Bultijnck Kristoff,Vanderwaeren Serge,0,1
-Van de Velde Filip,Vanrossum Matthias,1,0
+Van de Velde Filip,Vanrossum Mathias,1,0
 Ertveldt Pieter,De Bosscher Peter,0.5,0.5
 Lerinckx Sander,Lot Diederik,0,1
 Van Der Voorde Sonja,Huysman Robert,0,1
@@ -22,7 +22,7 @@ De Bosscher Jonathan,bye,,
 partij 4,,,
 Vanderwaeren Serge,Ertveldt Pieter,1,0
 De Bosscher Peter,Van de Velde Filip,0,1
-Vanrossum Matthias,Bultijnck Kristoff,0,1
+Vanrossum Mathias,Bultijnck Kristoff,0,1
 Huysman Robert,Lot Diederik,0,1
 Lerinckx Niels,Lerinckx Sander,1,0
 Van Der Voorde Sonja,Vandevelde Jannes,0,1
@@ -32,4 +32,4 @@ Van de Velde Filip,Ertveldt Pieter,1,0
 Bultijnck Kristoff,Lerinckx Sander,1,0
 Lot Diederik,Vandevelde Jannes,1,0
 Huysman Robert,Lerinckx Niels,1,0
-Vanrossum Matthias,Van Der Voorde Sonja,0.5,0.5
+Vanrossum Mathias,Van Der Voorde Sonja,0.5,0.5
