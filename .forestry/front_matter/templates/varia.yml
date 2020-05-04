@@ -63,3 +63,5 @@ fields:
   name: stelling_oplossing
   label: Stelling oplossing
   description: bv. '1...Te1+ en wit gaat mat achter de piketjes'
+pages:
+- _posts/krankjorum.md
