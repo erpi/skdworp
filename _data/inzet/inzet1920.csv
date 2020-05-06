@@ -1,11 +1,11 @@
 nummer,naam,r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,totaal
 1,Geert Verrijken,3,2,2,3,3,1,3,3,3,,,23
-2,Bernard Malfliet,3,,3,3,3,3,2,3,2,,,22
-,Gaston Boutchon,3,3,3,3,2,3,,3,2,,,22
+,Bernard Malfliet,3,(1),3,3,3,3,2,3,2,,,23
+3,Gaston Boutchon,3,3,3,3,2,3,,3,2,,,22
 4,Yves Baert,2,3,1,2,3,3,3,1,1,,,19
 5,Camiel Vennekens,3,3,3,2,1,2,,3,1,,,18
-6,Peter De Bosscher,3,,2,2,3,2,2,1,2,,,17
-,Kjell Spaens,2,2,2,2,3,2,1,1,2,,,17
+,Peter De Bosscher,3,(1),2,2,3,2,2,1,2,,,18
+7,Kjell Spaens,2,2,2,2,3,2,1,1,2,,,17
 8,Frank Denys,3,,1,1,1,3,1,3,3,,,16
 ,Stijn Bertrand,,3,3,,3,,3,1,3,,,16
 ,Diederik Lot,1,2,2,1,2,2,2,2,2,,,16
