@@ -12,8 +12,8 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 description: "Diederik had er niets beter op gevonden dan gisteren het snelschaakkampioenschap alternatief te betwisten, ieder vanuit zijn eigen kot. Ik dacht, ik wil mee met mijn tijd."
 image:
-  path: 'assets/images/fb/fb_post_4.jpg'
-draft: true
+  path: 'assets/images/1920/lic_maart_fb.jpg'
+draft: false
 ---
 Diederik had er niets beter op gevonden dan gisteren het snelschaakkampioenschap alternatief te betwisten, ieder vanuit zijn eigen kot (1). Ik dacht, ik wil mee met mijn tijd. Allen erheen!
 
@@ -46,3 +46,8 @@ Van mijn moeke mag ik niet spreken tegen onbekenden. Gratis bestaat niet. Blinds
 Reacties via SBB (13)
 
 (1) Wetstraatees (2) Lichess (3) Gilles voor de vrienden (4) op zondagochtend (5) Djuh (6) Muppet (7) Grimm (8) zie verder (9) Henk Elsink (10) alleen de Torenwachters deden ooit beter (11) gg (12) Leo Martin (13) schrijven bureel blad
+
+![eindstand met op 1 Federer777 voor spacefrog2 en zat-o-pek][afb1]
+
+[afb1]: {{ "/assets/images/1920/lic_maart_1.jpg" | absolute_url }}
+
