@@ -324,14 +324,15 @@ class generator:
                         else:
                             # tegenstander nog steeds niet gevonden,
                             # waarschijnlijk een probleem met spelling
-                            self._validatie_string += \
-                                u"Ronde {0}: Dworp {1}: fout: '{2}' niet " \
-                                u"gevonden in kruistabel (spelling?)\n".format(
-                                    r, p + 1, tegenstander)
-                            self._validatie_string += \
-                                u"Ronde {0}: Dworp {1}: waarschuwing: score " \
-                                u"tegen '{2}' is niet gecontroleerd in " \
-                                u"kruistabel\n".format(r, p + 1, tegenstander)
+                            if tegenstander != u'bye':
+                                self._validatie_string += \
+                                    u"Ronde {0}: Dworp {1}: fout: '{2}' niet " \
+                                    u"gevonden in kruistabel (spelling?)\n".format(
+                                        r, p + 1, tegenstander)
+                                self._validatie_string += \
+                                    u"Ronde {0}: Dworp {1}: waarschuwing: score " \
+                                    u"tegen '{2}' is niet gecontroleerd in " \
+                                    u"kruistabel\n".format(r, p + 1, tegenstander)
                 except AttributeError:
                     self._validatie_string += \
                         u"Ronde {0}: Dworp {1}: waarschuwing: geen ploegnaam " \
