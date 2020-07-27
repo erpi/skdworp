@@ -360,13 +360,15 @@ class generator:
                     thuisscore = ws[self._cell_thuisscore[p]].value
                     uitscore = ws[self._cell_uitscore[p]].value
                     if len(thuisscores) == len(uitscores):
-                        if sum(thuisscores) != thuisscore:
+                        if ((sum(thuisscores) != thuisscore) and
+                            (sum([2 * score + 1 for score in thuisscores]) != thuisscore)):
                             self._validatie_string += \
                                 u"Ronde {0}: Dworp {1}: fout: som " \
                                 u"thuisscores '{2}' niet gelijk aan totaal " \
                                 u"'{3}'\n".format(
                                     r, p + 1, sum(thuisscores), thuisscore)
-                        if sum(uitscores) != uitscore:
+                        if ((sum(uitscores) != uitscore) and
+                            (sum([2 * score + 1 for score in uitscores]) != uitscore)):
                             self._validatie_string += \
                                 u"Ronde {0}: Dworp {1}: fout: som uitscores " \
                                 u"'{2}' niet gelijk aan totaal '{3}'\n".format(
