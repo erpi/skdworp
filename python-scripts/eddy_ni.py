@@ -343,13 +343,18 @@ class generator:
             for p in self._ploegen:
                 cell_range = ws[self._cell_thuisscore_begin[p]:
                                 self._cell_thuisscore_einde[p]]
-                thuisscores = [cell.value for row in cell_range
-                               for cell in row
-                               if isinstance(cell.value, (int, long, float))]
+                thuisscores = \
+                    [cell.value for row in cell_range for cell in row
+                     if isinstance(cell.value, (int, long, float))] + \
+                    [int(cell.value[0]) for row in cell_range for cell in row
+                     if cell.value in ('0F', '1F', '0f', '1f')]
                 cell_range = ws[self._cell_uitscore_begin[p]:
                                 self._cell_uitscore_einde[p]]
-                uitscores = [cell.value for row in cell_range for cell in row
-                             if isinstance(cell.value, (int, long, float))]
+                uitscores = \
+                    [cell.value for row in cell_range for cell in row
+                     if isinstance(cell.value, (int, long, float))] + \
+                    [int(cell.value[0]) for row in cell_range for cell in row
+                     if cell.value in ('0F', '1F', '0f', '1f')]
                 if thuisscores or uitscores:
                     thuisscore = ws[self._cell_thuisscore[p]].value
                     uitscore = ws[self._cell_uitscore[p]].value
