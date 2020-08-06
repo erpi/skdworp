@@ -1,0 +1,100 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "09-01-1977",
+    "uitslagen": [
+      {"tr": "9", "ur": "7", "thuis": "506 Mons", "uit": "518 Soignies"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "514 Fontaine"},
+      {"tr": "6", "ur": "10", "thuis": "228 Dworp 2", "uit": "229 Woluwe 2"},
+      {"tr": "7", "ur": "9", "thuis": "517 Flobecq", "uit": "234 Le Mat Bruxelles 2"},
+      {"tr": "", "ur": "", "thuis": "501 CRE Charleroi 3", "uit": "Bye"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "25-01-1977",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "518 Soignies", "uit": "Bye"},
+      {"tr": "10", "ur": "5", "thuis": "234 Le Mat Bruxelles 2", "uit": "501 CRE Charleroi 3"},
+      {"tr": "6", "ur": "10", "thuis": "229 Woluwe 2", "uit": "517 Flobecq"},
+      {"tr": "11", "ur": "5", "thuis": "514 Fontaine", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "506 Mons", "uit": "Bye"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "06-02-1977",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "518 Soignies"},
+      {"tr": "6", "ur": "10", "thuis": "228 Dworp 2", "uit": "506 Mons"},
+      {"tr": "9", "ur": "7", "thuis": "517 Flobecq", "uit": "514 Fontaine"},
+      {"tr": "10", "ur": "6", "thuis": "501 CRE Charleroi 3", "uit": "229 Woluwe 2"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "234 Le Mat Bruxelles 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "20-02-1977",
+    "uitslagen": [
+      {"tr": "7", "ur": "9", "thuis": "518 Soignies", "uit": "234 Le Mat Bruxelles 2"},
+      {"tr": "", "ur": "", "thuis": "229 Woluwe 2", "uit": "Bye"},
+      {"tr": "10", "ur": "6", "thuis": "514 Fontaine", "uit": "501 CRE Charleroi 3"},
+      {"tr": "11", "ur": "5", "thuis": "506 Mons", "uit": "517 Flobecq"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "228 Dworp 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "06-03-1977",
+    "uitslagen": [
+      {"tr": "5", "ur": "11", "thuis": "228 Dworp 2", "uit": "518 Soignies"},
+      {"tr": "", "ur": "", "thuis": "517 Flobecq", "uit": "Bye"},
+      {"tr": "4", "ur": "12", "thuis": "501 CRE Charleroi 3", "uit": "506 Mons"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "514 Fontaine"},
+      {"tr": "8", "ur": "8", "thuis": "234 Le Mat Bruxelles 2", "uit": "229 Woluwe 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "20-03-1977",
+    "uitslagen": [
+      {"tr": "11", "ur": "5", "thuis": "518 Soignies", "uit": "229 Woluwe 2"},
+      {"tr": "6", "ur": "10", "thuis": "514 Fontaine", "uit": "234 Le Mat Bruxelles 2"},
+      {"tr": "", "ur": "", "thuis": "506 Mons", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "501 CRE Charleroi 3"},
+      {"tr": "7", "ur": "9", "thuis": "228 Dworp 2", "uit": "517 Flobecq"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "27-03-1977",
+    "uitslagen": [
+      {"tr": "7", "ur": "9", "thuis": "517 Flobecq", "uit": "518 Soignies"},
+      {"tr": "7", "ur": "9", "thuis": "501 CRE Charleroi 3", "uit": "228 Dworp 2"},
+      {"tr": "10", "ur": "6", "thuis": "234 Le Mat Bruxelles 2", "uit": "506 Mons"},
+      {"tr": "11", "ur": "5", "thuis": "229 Woluwe 2", "uit": "514 Fontaine"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "17-04-1977",
+    "uitslagen": [
+      {"tr": "9", "ur": "7", "thuis": "518 Soignies", "uit": "514 Fontaine"},
+      {"tr": "9", "ur": "7", "thuis": "506 Mons", "uit": "229 Woluwe 2"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "234 Le Mat Bruxelles 2"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "Bye"},
+      {"tr": "9", "ur": "7", "thuis": "517 Flobecq", "uit": "501 CRE Charleroi 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "24-04-1977",
+    "uitslagen": [
+      {"tr": "5", "ur": "11", "thuis": "501 CRE Charleroi 3", "uit": "518 Soignies"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "517 Flobecq"},
+      {"tr": "12", "ur": "4", "thuis": "234 Le Mat Bruxelles 2", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "229 Woluwe 2", "uit": "Bye"},
+      {"tr": "7", "ur": "9", "thuis": "514 Fontaine", "uit": "506 Mons"}
+    ]
+  }
+]

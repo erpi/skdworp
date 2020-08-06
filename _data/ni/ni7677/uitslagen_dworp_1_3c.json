@@ -1,0 +1,101 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "09-01-1977",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "228 Dworp 1"},
+      {"tr": "14", "ur": "10", "thuis": "417 Pion Aalst", "uit": "130 Hoboken"},
+      {"tr": "14", "ur": "10", "thuis": "138 Bornem", "uit": "418 Geraardsbergen"},
+      {"tr": "12", "ur": "12", "thuis": "240 Machelen", "uit": "410 Sint-Niklaas"},
+      {"tr": "13", "ur": "11", "thuis": "245 Ganshoren", "uit": "402 Jean Jaur\u00e8s Gent 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "25-01-1977",
+    "uitslagen": [
+      {"tr": "10", "ur": "14", "thuis": "228 Dworp 1", "uit": "402 Jean Jaur\u00e8s Gent 3"},
+      {"tr": "13", "ur": "11", "thuis": "410 Sint-Niklaas", "uit": "245 Ganshoren"},
+      {"tr": "17", "ur": "7", "thuis": "418 Geraardsbergen", "uit": "240 Machelen"},
+      {"tr": "13", "ur": "11", "thuis": "130 Hoboken", "uit": "138 Bornem"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "417 Pion Aalst"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "06-02-1977",
+    "uitslagen": [
+      {"tr": "16", "ur": "8", "thuis": "417 Pion Aalst", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "138 Bornem", "uit": "Bye"},
+      {"tr": "11", "ur": "13", "thuis": "240 Machelen", "uit": "130 Hoboken"},
+      {"tr": "13", "ur": "11", "thuis": "245 Ganshoren", "uit": "418 Geraardsbergen"},
+      {"tr": "11", "ur": "13", "thuis": "402 Jean Jaur\u00e8s Gent 3", "uit": "410 Sint-Niklaas"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "20-02-1977",
+    "uitslagen": [
+      {"tr": "9", "ur": "15", "thuis": "228 Dworp 1", "uit": "410 Sint-Niklaas"},
+      {"tr": "8", "ur": "16", "thuis": "418 Geraardsbergen", "uit": "402 Jean Jaur\u00e8s Gent 3"},
+      {"tr": "14", "ur": "10", "thuis": "130 Hoboken", "uit": "245 Ganshoren"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "240 Machelen"},
+      {"tr": "12", "ur": "12", "thuis": "417 Pion Aalst", "uit": "138 Bornem"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "06-03-1977",
+    "uitslagen": [
+      {"tr": "15", "ur": "9", "thuis": "138 Bornem", "uit": "228 Dworp 1"},
+      {"tr": "9", "ur": "15", "thuis": "240 Machelen", "uit": "417 Pion Aalst"},
+      {"tr": "", "ur": "", "thuis": "245 Ganshoren", "uit": "Bye"},
+      {"tr": "11", "ur": "13", "thuis": "402 Jean Jaur\u00e8s Gent 3", "uit": "130 Hoboken"},
+      {"tr": "12", "ur": "12", "thuis": "410 Sint-Niklaas", "uit": "418 Geraardsbergen"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "20-03-1977",
+    "uitslagen": [
+      {"tr": "10", "ur": "14", "thuis": "228 Dworp 1", "uit": "418 Geraardsbergen"},
+      {"tr": "9", "ur": "15", "thuis": "130 Hoboken", "uit": "410 Sint-Niklaas"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "402 Jean Jaur\u00e8s Gent 3"},
+      {"tr": "18", "ur": "4", "thuis": "417 Pion Aalst", "uit": "245 Ganshoren"},
+      {"tr": "17", "ur": "7", "thuis": "138 Bornem", "uit": "240 Machelen"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "27-03-1977",
+    "uitslagen": [
+      {"tr": "15", "ur": "9", "thuis": "240 Machelen", "uit": "228 Dworp 1"},
+      {"tr": "12", "ur": "11", "thuis": "245 Ganshoren", "uit": "138 Bornem"},
+      {"tr": "12", "ur": "12", "thuis": "402 Jean Jaur\u00e8s Gent 3", "uit": "417 Pion Aalst"},
+      {"tr": "", "ur": "", "thuis": "410 Sint-Niklaas", "uit": "Bye"},
+      {"tr": "12", "ur": "12", "thuis": "418 Geraardsbergen", "uit": "130 Hoboken"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "17-04-1977",
+    "uitslagen": [
+      {"tr": "11", "ur": "13", "thuis": "228 Dworp 1", "uit": "130 Hoboken"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "418 Geraardsbergen"},
+      {"tr": "12", "ur": "12", "thuis": "417 Pion Aalst", "uit": "410 Sint-Niklaas"},
+      {"tr": "14", "ur": "10", "thuis": "138 Bornem", "uit": "402 Jean Jaur\u00e8s Gent 3"},
+      {"tr": "12", "ur": "12", "thuis": "240 Machelen", "uit": "245 Ganshoren"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "24-04-1977",
+    "uitslagen": [
+      {"tr": "9", "ur": "15", "thuis": "245 Ganshoren", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "402 Jean Jaur\u00e8s Gent 3", "uit": "240 Machelen"},
+      {"tr": "", "ur": "", "thuis": "410 Sint-Niklaas", "uit": "138 Bornem"},
+      {"tr": "", "ur": "", "thuis": "418 Geraardsbergen", "uit": "417 Pion Aalst"},
+      {"tr": "", "ur": "", "thuis": "130 Hoboken", "uit": "Bye"}
+    ]
+  }
+]
