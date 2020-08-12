@@ -3,7 +3,7 @@
     "ronde": "1",
     "datum": "11-10-1992",
     "thuis": "228 Dworp 2",
-    "uit": "Carni\u00e8res",
+    "uit": "505 Carni\u00e8res",
     "tscore": "2",
     "uscore": "2",
     "tgem": "1832",
@@ -18,7 +18,7 @@
   {
     "ronde": "2",
     "datum": "25-10-1992",
-    "thuis": "Boitsfort 3",
+    "thuis": "239 Boitsfort 3",
     "uit": "228 Dworp 2",
     "tscore": "2",
     "uscore": "2",
@@ -35,7 +35,7 @@
     "ronde": "3",
     "datum": "08-11-1992",
     "thuis": "228 Dworp 2",
-    "uit": "CRE Charleroi 2",
+    "uit": "501 CRE Charleroi 2",
     "tscore": "3.5",
     "uscore": "0.5",
     "tgem": "1876",
@@ -50,7 +50,7 @@
   {
     "ronde": "4",
     "datum": "15-11-1992",
-    "thuis": "Wavre 2",
+    "thuis": "952 Wavre 2",
     "uit": "228 Dworp 2",
     "tscore": "2",
     "uscore": "2",
@@ -67,7 +67,7 @@
     "ronde": "5",
     "datum": "06-12-1992",
     "thuis": "228 Dworp 2",
-    "uit": "Dion",
+    "uit": "955 Dion",
     "tscore": "2",
     "uscore": "2",
     "tgem": "1876",
@@ -83,7 +83,7 @@
     "ronde": "6",
     "datum": "24-01-1993",
     "thuis": "228 Dworp 2",
-    "uit": "Soignies 2",
+    "uit": "518 Soignies 2",
     "tscore": "4",
     "uscore": "0",
     "tgem": "1876",
@@ -98,7 +98,7 @@
   {
     "ronde": "7",
     "datum": "07-02-1993",
-    "thuis": "Montignies",
+    "thuis": "528 Montignies",
     "uit": "228 Dworp 2",
     "tscore": "2.5",
     "uscore": "1.5",
@@ -115,7 +115,7 @@
     "ronde": "8",
     "datum": "17-03-1993",
     "thuis": "228 Dworp 2",
-    "uit": "Uccle 2",
+    "uit": "274 Uccle 2",
     "tscore": "1.5",
     "uscore": "2.5",
     "tgem": "1876",
@@ -130,17 +130,12 @@
   {
     "ronde": "9",
     "datum": "21-03-1993",
-    "thuis": "Jumet 2",
+    "thuis": "Bye",
     "uit": "228 Dworp 2",
-    "tscore": "0",
-    "uscore": "4",
+    "tscore": "",
+    "uscore": "",
     "tgem": "",
     "ugem": "",
-    "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "forfait", "uspeler": "bye", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "forfait", "uspeler": "bye", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "forfait", "uspeler": "bye", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "forfait", "uspeler": "bye", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
-    ]
+    "borden": []
   }
 ]
