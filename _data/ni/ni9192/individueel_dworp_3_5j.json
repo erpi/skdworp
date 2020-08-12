@@ -2,7 +2,7 @@
   {
     "ronde": "1",
     "datum": "06-10-1991",
-    "thuis": "El Botroul",
+    "thuis": "956 El Botroul Ottignies",
     "uit": "228 Dworp 3",
     "tscore": "1.5",
     "uscore": "2.5",
@@ -19,7 +19,7 @@
     "ronde": "2",
     "datum": "20-10-1991",
     "thuis": "228 Dworp 3",
-    "uit": "Tib\u00e9checs",
+    "uit": "272 Tib\u00e9checs",
     "tscore": "1",
     "uscore": "3",
     "tgem": "1625",
@@ -34,7 +34,7 @@
   {
     "ronde": "3",
     "datum": "03-11-1991",
-    "thuis": "Ruisbroek 2",
+    "thuis": "249 Ruisbroek 2",
     "uit": "228 Dworp 3",
     "tscore": "2",
     "uscore": "2",
@@ -66,7 +66,7 @@
   {
     "ronde": "5",
     "datum": "01-12-1991",
-    "thuis": "Fous du Roy 3",
+    "thuis": "203 Fous du Roy 3",
     "uit": "228 Dworp 3",
     "tscore": "0",
     "uscore": "4",
@@ -83,7 +83,7 @@
     "ronde": "6",
     "datum": "19-01-1992",
     "thuis": "228 Dworp 3",
-    "uit": "Rixensart 1",
+    "uit": "954 Rixensart",
     "tscore": "0",
     "uscore": "4",
     "tgem": "1649",
@@ -98,7 +98,7 @@
   {
     "ronde": "7",
     "datum": "16-02-1992",
-    "thuis": "Dion 2",
+    "thuis": "955 Dion 2",
     "uit": "228 Dworp 3",
     "tscore": "2",
     "uscore": "2",
@@ -114,7 +114,7 @@
   {
     "ronde": "8",
     "datum": "01-03-1992",
-    "thuis": "Pantin 3",
+    "thuis": "278 Pantin 3",
     "uit": "228 Dworp 3",
     "tscore": "2",
     "uscore": "2",
@@ -130,7 +130,7 @@
   {
     "ronde": "9",
     "datum": "15-03-1992",
-    "thuis": "Desperado Leuven",
+    "thuis": "266 Desperado Leuven",
     "uit": "228 Dworp 3",
     "tscore": "2.5",
     "uscore": "1.5",

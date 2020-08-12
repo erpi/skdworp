@@ -2,7 +2,7 @@
   {
     "ronde": "1",
     "datum": "06-10-1991",
-    "thuis": "SK Anderlecht 5",
+    "thuis": "209 SK Anderlecht 5",
     "uit": "228 Dworp 2",
     "tscore": "0",
     "uscore": "4",
@@ -10,7 +10,7 @@
     "ugem": "2031",
     "borden": [
       {"tr": "0", "ur": "1", "tspeler": "De Waele L", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "2300", "tstam": "", "ustam": "20621"},
-      {"tr": "0", "ur": "1", "tspeler": "Huyghens Dirk", "uspeler": "Debast Patrick", "telo": "", "uelo": "1956", "tstam": "", "ustam": "76333"},
+      {"tr": "0", "ur": "1", "tspeler": "Huyghend Dirk", "uspeler": "Debast Patrick", "telo": "", "uelo": "1956", "tstam": "", "ustam": "76333"},
       {"tr": "0", "ur": "1", "tspeler": "Marcus P", "uspeler": "Maeckelbergh Mieke", "telo": "", "uelo": "1941", "tstam": "", "ustam": "353"},
       {"tr": "0", "ur": "1", "tspeler": "Briers G", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "1925", "tstam": "", "ustam": "31348"}
     ]
@@ -19,7 +19,7 @@
     "ronde": "2",
     "datum": "20-10-1991",
     "thuis": "228 Dworp 2",
-    "uit": "Jumet 1",
+    "uit": "526 Jumet 1",
     "tscore": "0.5",
     "uscore": "3.5",
     "tgem": "2031",
@@ -34,7 +34,7 @@
   {
     "ronde": "3",
     "datum": "03-11-1991",
-    "thuis": "Uccle 2",
+    "thuis": "274 Uccle 2",
     "uit": "228 Dworp 2",
     "tscore": "2.5",
     "uscore": "1.5",
@@ -51,7 +51,7 @@
     "ronde": "4",
     "datum": "17-11-1991",
     "thuis": "228 Dworp 2",
-    "uit": "Soignies 2",
+    "uit": "518 Soignies 2",
     "tscore": "3.5",
     "uscore": "0.5",
     "tgem": "2031",
@@ -66,7 +66,7 @@
   {
     "ronde": "5",
     "datum": "01-12-1991",
-    "thuis": "Fous du Roy 1",
+    "thuis": "203 Fous du Roy 1",
     "uit": "228 Dworp 2",
     "tscore": "0",
     "uscore": "4",
@@ -83,7 +83,7 @@
     "ronde": "6",
     "datum": "19-01-1992",
     "thuis": "228 Dworp 2",
-    "uit": "Montignies 1",
+    "uit": "528 Montignies 1",
     "tscore": "2.5",
     "uscore": "1.5",
     "tgem": "2031",
@@ -98,7 +98,7 @@
   {
     "ronde": "7",
     "datum": "16-02-1992",
-    "thuis": "Roque 3",
+    "thuis": "245 Roque Anderlecht 3",
     "uit": "228 Dworp 2",
     "tscore": "1.5",
     "uscore": "2.5",
@@ -114,7 +114,7 @@
   {
     "ronde": "8",
     "datum": "01-03-1992",
-    "thuis": "Pantin 2",
+    "thuis": "278 Pantin 2",
     "uit": "228 Dworp 2",
     "tscore": "1",
     "uscore": "3",
@@ -130,7 +130,7 @@
   {
     "ronde": "9",
     "datum": "15-03-1992",
-    "thuis": "CRE Charleroi 2",
+    "thuis": "501 CRE Charleroi 2",
     "uit": "228 Dworp 2",
     "tscore": "2.5",
     "uscore": "1.5",
