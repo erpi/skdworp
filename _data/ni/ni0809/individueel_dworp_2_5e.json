@@ -44,7 +44,7 @@
       {"tr": "1", "ur": "0", "tspeler": "Dhuyvetter Frederik", "uspeler": "Mertens Fran\u00e7ois", "telo": "1796", "uelo": "1826", "tstam": "22039", "ustam": "31526"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Verschraegen Thomas", "uspeler": "van Duuren Louis", "telo": "1673", "uelo": "1810", "tstam": "34517", "ustam": "26816"},
       {"tr": "0", "ur": "1", "tspeler": "Dhuyvetter Koen", "uspeler": "Cornelis Eric", "telo": "1672", "uelo": "1783", "tstam": "21857", "ustam": "76317"},
-      {"tr": "ff", "ur": "1", "tspeler": "Langenhuysen Timothy", "uspeler": "Carrette Bernard", "telo": "1170", "uelo": "1619", "tstam": "11402", "ustam": "11226"}
+      {"tr": "0F", "ur": "1F", "tspeler": "Langenhuysen Timothy (forfait)", "uspeler": "Carrette Bernard", "telo": "1170", "uelo": "1619", "tstam": "11402", "ustam": "11226"}
     ]
   },
   {
@@ -91,7 +91,7 @@
     "borden": [
       {"tr": "0", "ur": "1", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Wauters Johan", "telo": "1826", "uelo": "1537", "tstam": "31526", "ustam": "27359"},
       {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Geert", "uspeler": "Serneels Jo", "telo": "1818", "uelo": "1276", "tstam": "43419", "ustam": "31658"},
-      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "Van Nooten Erik", "telo": "1810", "uelo": "1373", "tstam": "26816", "ustam": "54585"},
+      {"tr": "1F", "ur": "0F", "tspeler": "van Duuren Louis", "uspeler": "Van Nooten Erik", "telo": "1810", "uelo": "1373", "tstam": "26816", "ustam": "54585"},
       {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Van Hauwermeiren Kwinten", "telo": "1783", "uelo": "1152", "tstam": "76317", "ustam": "11024"}
     ]
   },

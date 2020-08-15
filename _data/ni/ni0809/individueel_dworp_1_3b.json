@@ -99,7 +99,7 @@
     "tgem": "2048",
     "ugem": "2045",
     "borden": [
-      {"tr": "0", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "Van Den Berkmortel Theo", "telo": "2257", "uelo": "2276", "tstam": "20621", "ustam": "53562"},
+      {"tr": "0", "ur": "1", "tspeler": "Vanderwaeren Serge", "uspeler": "Van Den Berkmortel Theo", "telo": "2257", "uelo": "2276", "tstam": "20621", "ustam": "53562"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Van Mechelen Jan", "uspeler": "Rogiers Jan", "telo": "2253", "uelo": "2133", "tstam": "14354", "ustam": "48569"},
       {"tr": "1", "ur": "0", "tspeler": "Heynen Koen", "uspeler": "Reyniers Pieter", "telo": "2031", "uelo": "2035", "tstam": "27413", "ustam": "50628"},
       {"tr": "0", "ur": "1", "tspeler": "Denys Frank", "uspeler": "Van Cappellen Jonas", "telo": "2021", "uelo": "2026", "tstam": "21881", "ustam": "1988"},
@@ -117,7 +117,7 @@
     "tgem": "1954",
     "ugem": "2041",
     "borden": [
-      {"tr": "1", "ur": "ff", "tspeler": "Vingerhoets Luc", "uspeler": "Vanderwaeren Serge", "telo": "2113", "uelo": "2257", "tstam": "86479", "ustam": "20621"},
+      {"tr": "1F", "ur": "0F", "tspeler": "Vingerhoets Luc", "uspeler": "Vanderwaeren Serge (forfait)", "telo": "2113", "uelo": "2257", "tstam": "86479", "ustam": "20621"},
       {"tr": "0", "ur": "1", "tspeler": "Guebel Yves", "uspeler": "Van Mechelen Jan", "telo": "2036", "uelo": "2253", "tstam": "89591", "ustam": "14354"},
       {"tr": "1", "ur": "0", "tspeler": "Brouri Mohand", "uspeler": "Heynen Koen", "telo": "2017", "uelo": "2031", "tstam": "61875", "ustam": "27413"},
       {"tr": "0", "ur": "1", "tspeler": "Macai Ioan", "uspeler": "Denys Frank", "telo": "1952", "uelo": "2021", "tstam": "92312", "ustam": "21881"},
