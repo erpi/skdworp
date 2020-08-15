@@ -3,12 +3,12 @@
     "ronde": "ronde 1",
     "datum": "29-09-2019",
     "uitslagen": [
-      {"tr": "2.5", "ur": "3.5", "thuis": "417 Aalst 1", "uit": "548 Caissa Europe 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "417 Aalst 1", "uit": "548 Caïssa Europe Mons 1"},
       {"tr": "2.5", "ur": "3.5", "thuis": "462 Zottegem 2", "uit": "174 Brasschaat 2"},
       {"tr": "4", "ur": "2", "thuis": "226 Europchess 2", "uit": "228 Dworp 1"},
-      {"tr": "4.5", "ur": "1.5", "thuis": "952 Wavre 1", "uit": "114 Mechelen 1"},
-      {"tr": "3.5", "ur": "2.5", "thuis": "278 Pantin 1", "uit": "209 The Belgian 2"},
-      {"tr": "3", "ur": "3", "thuis": "244 Brussels 1", "uit": "239 Boitsfort 2"}
+      {"tr": "4.5", "ur": "1.5", "thuis": "952 Wavre 1", "uit": "114 K Mechelse SK 1"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "278 Pantin 1", "uit": "209 The Belgian CC Anderlecht 2"},
+      {"tr": "3", "ur": "3", "thuis": "244 Brussels CC 1", "uit": "239 Boitsfort 2"}
     ]
   },
   {
@@ -16,11 +16,11 @@
     "datum": "13-10-2019",
     "uitslagen": [
       {"tr": "4", "ur": "2", "thuis": "239 Boitsfort 2", "uit": "417 Aalst 1"},
-      {"tr": "4", "ur": "2", "thuis": "209 The Belgian 2", "uit": "244 Brussels 1"},
-      {"tr": "4", "ur": "2", "thuis": "114 Mechelen 1", "uit": "278 Pantin 1"},
+      {"tr": "4", "ur": "2", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "244 Brussels CC 1"},
+      {"tr": "4", "ur": "2", "thuis": "114 K Mechelse SK 1", "uit": "278 Pantin 1"},
       {"tr": "2.5", "ur": "3.5", "thuis": "228 Dworp 1", "uit": "952 Wavre 1"},
       {"tr": "3", "ur": "3", "thuis": "174 Brasschaat 2", "uit": "226 Europchess 2"},
-      {"tr": "3", "ur": "3", "thuis": "548 Caissa Europe 1", "uit": "462 Zottegem 2"}
+      {"tr": "3", "ur": "3", "thuis": "548 Caïssa Europe Mons 1", "uit": "462 Zottegem 2"}
     ]
   },
   {
@@ -28,22 +28,22 @@
     "datum": "20-10-2019",
     "uitslagen": [
       {"tr": "3.5", "ur": "2.5", "thuis": "417 Aalst 1", "uit": "462 Zottegem 2"},
-      {"tr": "5", "ur": "1", "thuis": "226 Europchess 2", "uit": "548 Caissa Europe 1"},
+      {"tr": "5", "ur": "1", "thuis": "226 Europchess 2", "uit": "548 Caïssa Europe Mons 1"},
       {"tr": "5.5", "ur": "0.5", "thuis": "952 Wavre 1", "uit": "174 Brasschaat 2"},
       {"tr": "3.5", "ur": "2.5", "thuis": "278 Pantin 1", "uit": "228 Dworp 1"},
-      {"tr": "4.5", "ur": "1.5", "thuis": "244 Brussels 1", "uit": "114 Mechelen 1"},
-      {"tr": "3", "ur": "3", "thuis": "239 Boitsfort 2", "uit": "209 The Belgian 2"}
+      {"tr": "4.5", "ur": "1.5", "thuis": "244 Brussels CC 1", "uit": "114 K Mechelse SK 1"},
+      {"tr": "3", "ur": "3", "thuis": "239 Boitsfort 2", "uit": "209 The Belgian CC Anderlecht 2"}
     ]
   },
   {
     "ronde": "ronde 4",
     "datum": "17-11-2019",
     "uitslagen": [
-      {"tr": "4.5", "ur": "1.5", "thuis": "209 The Belgian 2", "uit": "417 Aalst 1"},
-      {"tr": "3", "ur": "3", "thuis": "114 Mechelen 1", "uit": "239 Boitsfort 2"},
-      {"tr": "1.5", "ur": "4.5", "thuis": "228 Dworp 1", "uit": "244 Brussels 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "417 Aalst 1"},
+      {"tr": "3", "ur": "3", "thuis": "114 K Mechelse SK 1", "uit": "239 Boitsfort 2"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "228 Dworp 1", "uit": "244 Brussels CC 1"},
       {"tr": "0.5", "ur": "5.5", "thuis": "174 Brasschaat 2", "uit": "278 Pantin 1"},
-      {"tr": "0", "ur": "6", "thuis": "548 Caissa Europe 1", "uit": "952 Wavre 1"},
+      {"tr": "0", "ur": "6", "thuis": "548 Caïssa Europe Mons 1", "uit": "952 Wavre 1"},
       {"tr": "4", "ur": "2", "thuis": "462 Zottegem 2", "uit": "226 Europchess 2"}
     ]
   },
@@ -53,20 +53,20 @@
     "uitslagen": [
       {"tr": "2", "ur": "4", "thuis": "417 Aalst 1", "uit": "226 Europchess 2"},
       {"tr": "4.5", "ur": "1.5", "thuis": "952 Wavre 1", "uit": "462 Zottegem 2"},
-      {"tr": "4", "ur": "2", "thuis": "278 Pantin 1", "uit": "548 Caissa Europe 1"},
-      {"tr": "4.5", "ur": "1.5", "thuis": "244 Brussels 1", "uit": "174 Brasschaat 2"},
+      {"tr": "4", "ur": "2", "thuis": "278 Pantin 1", "uit": "548 Caïssa Europe Mons 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "244 Brussels CC 1", "uit": "174 Brasschaat 2"},
       {"tr": "4", "ur": "2", "thuis": "239 Boitsfort 2", "uit": "228 Dworp 1"},
-      {"tr": "4.5", "ur": "1.5", "thuis": "209 The Belgian 2", "uit": "114 Mechelen 1"}
+      {"tr": "4.5", "ur": "1.5", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "114 K Mechelse SK 1"}
     ]
   },
   {
     "ronde": "ronde 6",
     "datum": "19-01-2020",
     "uitslagen": [
-      {"tr": "3", "ur": "3", "thuis": "114 Mechelen 1", "uit": "417 Aalst 1"},
-      {"tr": "3.5", "ur": "2.5", "thuis": "228 Dworp 1", "uit": "209 The Belgian 2"},
+      {"tr": "3", "ur": "3", "thuis": "114 K Mechelse SK 1", "uit": "417 Aalst 1"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "228 Dworp 1", "uit": "209 The Belgian CC Anderlecht 2"},
       {"tr": "2", "ur": "4", "thuis": "174 Brasschaat 2", "uit": "239 Boitsfort 2"},
-      {"tr": "2.5", "ur": "3.5", "thuis": "548 Caissa Europe 1", "uit": "244 Brussels 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "548 Caïssa Europe Mons 1", "uit": "244 Brussels CC 1"},
       {"tr": "1", "ur": "5", "thuis": "462 Zottegem 2", "uit": "278 Pantin 1"},
       {"tr": "4.5", "ur": "1.5", "thuis": "226 Europchess 2", "uit": "952 Wavre 1"}
     ]
@@ -77,10 +77,10 @@
     "uitslagen": [
       {"tr": "1.5", "ur": "4.5", "thuis": "417 Aalst 1", "uit": "952 Wavre 1"},
       {"tr": "3", "ur": "3", "thuis": "278 Pantin 1", "uit": "226 Europchess 2"},
-      {"tr": "2.5", "ur": "3.5", "thuis": "244 Brussels 1", "uit": "462 Zottegem 2"},
-      {"tr": "2", "ur": "4", "thuis": "239 Boitsfort 2", "uit": "548 Caissa Europe 1"},
-      {"tr": "2.5", "ur": "3.5", "thuis": "209 The Belgian 2", "uit": "174 Brasschaat 2"},
-      {"tr": "4", "ur": "2", "thuis": "114 Mechelen 1", "uit": "228 Dworp 1"}
+      {"tr": "2.5", "ur": "3.5", "thuis": "244 Brussels CC 1", "uit": "462 Zottegem 2"},
+      {"tr": "2", "ur": "4", "thuis": "239 Boitsfort 2", "uit": "548 Caïssa Europe Mons 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "174 Brasschaat 2"},
+      {"tr": "4", "ur": "2", "thuis": "114 K Mechelse SK 1", "uit": "228 Dworp 1"}
     ]
   },
   {
@@ -88,10 +88,10 @@
     "datum": "16-02-2020",
     "uitslagen": [
       {"tr": "2.5", "ur": "3.5", "thuis": "228 Dworp 1", "uit": "417 Aalst 1"},
-      {"tr": "3", "ur": "3", "thuis": "174 Brasschaat 2", "uit": "114 Mechelen 1"},
-      {"tr": "3", "ur": "3", "thuis": "548 Caissa Europe 1", "uit": "209 The Belgian 2"},
+      {"tr": "3", "ur": "3", "thuis": "174 Brasschaat 2", "uit": "114 K Mechelse SK 1"},
+      {"tr": "3", "ur": "3", "thuis": "548 Caïssa Europe Mons 1", "uit": "209 The Belgian CC Anderlecht 2"},
       {"tr": "2.5", "ur": "3.5", "thuis": "462 Zottegem 2", "uit": "239 Boitsfort 2"},
-      {"tr": "4.5", "ur": "1.5", "thuis": "226 Europchess 2", "uit": "244 Brussels 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "226 Europchess 2", "uit": "244 Brussels CC 1"},
       {"tr": "5", "ur": "1", "thuis": "952 Wavre 1", "uit": "278 Pantin 1"}
     ]
   },
@@ -100,10 +100,10 @@
     "datum": "08-03-2020",
     "uitslagen": [
       {"tr": "1", "ur": "5", "thuis": "417 Aalst 1", "uit": "278 Pantin 1"},
-      {"tr": "2.5", "ur": "3.5", "thuis": "244 Brussels 1", "uit": "952 Wavre 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "244 Brussels CC 1", "uit": "952 Wavre 1"},
       {"tr": "4", "ur": "2", "thuis": "239 Boitsfort 2", "uit": "226 Europchess 2"},
-      {"tr": "3", "ur": "3", "thuis": "209 The Belgian 2", "uit": "462 Zottegem 2"},
-      {"tr": "1.5", "ur": "4.5", "thuis": "114 Mechelen 1", "uit": "548 Caissa Europe 1"},
+      {"tr": "3", "ur": "3", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "462 Zottegem 2"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "114 K Mechelse SK 1", "uit": "548 Caïssa Europe Mons 1"},
       {"tr": "3.5", "ur": "2.5", "thuis": "228 Dworp 1", "uit": "174 Brasschaat 2"}
     ]
   },
@@ -112,23 +112,23 @@
     "datum": "15-03-2020",
     "uitslagen": [
       {"tr": "", "ur": "", "thuis": "174 Brasschaat 2", "uit": "417 Aalst 1"},
-      {"tr": "", "ur": "", "thuis": "548 Caissa Europe 1", "uit": "228 Dworp 1"},
-      {"tr": "", "ur": "", "thuis": "462 Zottegem 2", "uit": "114 Mechelen 1"},
-      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "209 The Belgian 2"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 1", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "462 Zottegem 2", "uit": "114 K Mechelse SK 1"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "209 The Belgian CC Anderlecht 2"},
       {"tr": "", "ur": "", "thuis": "952 Wavre 1", "uit": "239 Boitsfort 2"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 1", "uit": "244 Brussels 1"}
+      {"tr": "", "ur": "", "thuis": "278 Pantin 1", "uit": "244 Brussels CC 1"}
     ]
   },
   {
     "ronde": "ronde 11",
     "datum": "29-03-2020",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "244 Brussels 1", "uit": "417 Aalst 1"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 1", "uit": "417 Aalst 1"},
       {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "278 Pantin 1"},
-      {"tr": "", "ur": "", "thuis": "209 The Belgian 2", "uit": "952 Wavre 1"},
-      {"tr": "", "ur": "", "thuis": "114 Mechelen 1", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "952 Wavre 1"},
+      {"tr": "", "ur": "", "thuis": "114 K Mechelse SK 1", "uit": "226 Europchess 2"},
       {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "462 Zottegem 2"},
-      {"tr": "", "ur": "", "thuis": "174 Brasschaat 2", "uit": "548 Caissa Europe 1"}
+      {"tr": "", "ur": "", "thuis": "174 Brasschaat 2", "uit": "548 Caïssa Europe Mons 1"}
     ]
   }
 ]
