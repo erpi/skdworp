@@ -1,3 +1,0 @@
-Ronde 6: Dworp 1: fout: som thuisscores '2.5' niet gelijk aan totaal '3.5'
-Ronde 7: Dworp 1: fout: som uitscores '3.5' niet gelijk aan totaal '4.5'
-Ronde 3: Dworp 2: waarschuwing: score tegen '(bye)' niet ingevuld in kruistabel
