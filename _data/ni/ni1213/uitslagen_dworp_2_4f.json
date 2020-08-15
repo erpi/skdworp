@@ -3,132 +3,132 @@
     "ronde": "ronde 1",
     "datum": "23-09-2012",
     "uitslagen": [
-      {"tr": "8", "ur": "8", "thuis": "239 boitsfort 3", "uit": "229 woluwe 2"},
-      {"tr": "11", "ur": "5", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "501 cre charleroi 5"},
-      {"tr": "6", "ur": "10", "thuis": "533 lessines 1", "uit": "548 caissa europe 2"},
-      {"tr": "7", "ur": "9", "thuis": "521 tournai 1", "uit": "228 dworp 2"},
-      {"tr": "11", "ur": "4", "thuis": "201 cre bruxelles 4", "uit": "209 SK anderlecht 4"},
-      {"tr": "7", "ur": "9", "thuis": "952 wavre 3", "uit": "244 brussels chess club 2"}
+      {"tr": "8", "ur": "8", "thuis": "239 Boitsfort 3", "uit": "229 Woluwe 2"},
+      {"tr": "11", "ur": "5", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "501 CRE Charleroi 5"},
+      {"tr": "6", "ur": "10", "thuis": "533 Lessines 1", "uit": "548 Caïssa Europe Mons 2"},
+      {"tr": "7", "ur": "9", "thuis": "521 Tournai 1", "uit": "228 Dworp 2"},
+      {"tr": "11", "ur": "4", "thuis": "201 CRE Bruxelles 4", "uit": "209 CC Anderlecht 4"},
+      {"tr": "7", "ur": "9", "thuis": "952 Wavre 3", "uit": "244 Brussels CC 2"}
     ]
   },
   {
     "ronde": "ronde 2",
     "datum": "07-10-2012",
     "uitslagen": [
-      {"tr": "8", "ur": "8", "thuis": "244 brussels chess club 2", "uit": "239 boitsfort 3"},
-      {"tr": "8", "ur": "8", "thuis": "209 SK anderlecht 4", "uit": "952 wavre 3"},
-      {"tr": "5", "ur": "11", "thuis": "228 dworp 2", "uit": "201 cre bruxelles 4"},
-      {"tr": "12", "ur": "4", "thuis": "548 caissa europe 2", "uit": "521 tournai 1"},
-      {"tr": "7", "ur": "9", "thuis": "501 cre charleroi 5", "uit": "533 lessines 1"},
-      {"tr": "7", "ur": "9", "thuis": "229 woluwe 2", "uit": "207 Les Deux Fous du Diogène 1"}
+      {"tr": "8", "ur": "8", "thuis": "244 Brussels CC 2", "uit": "239 Boitsfort 3"},
+      {"tr": "8", "ur": "8", "thuis": "209 CC Anderlecht 4", "uit": "952 Wavre 3"},
+      {"tr": "5", "ur": "11", "thuis": "228 Dworp 2", "uit": "201 CRE Bruxelles 4"},
+      {"tr": "12", "ur": "4", "thuis": "548 Caïssa Europe Mons 2", "uit": "521 Tournai 1"},
+      {"tr": "7", "ur": "9", "thuis": "501 CRE Charleroi 5", "uit": "533 Lessines 1"},
+      {"tr": "7", "ur": "9", "thuis": "229 Woluwe 2", "uit": "207 Les Deux Fous du Diogène 1"}
     ]
   },
   {
     "ronde": "ronde 3",
     "datum": "21-10-2012",
     "uitslagen": [
-      {"tr": "6", "ur": "10", "thuis": "239 boitsfort 3", "uit": "207 Les Deux Fous du Diogène 1"},
-      {"tr": "10", "ur": "6", "thuis": "533 lessines 1", "uit": "229 woluwe 2"},
-      {"tr": "8", "ur": "8", "thuis": "521 tournai 1", "uit": "501 cre charleroi 5"},
-      {"tr": "7", "ur": "9", "thuis": "201 cre bruxelles 4", "uit": "548 caissa europe 2"},
-      {"tr": "10", "ur": "6", "thuis": "952 wavre 3", "uit": "228 dworp 2"},
-      {"tr": "9", "ur": "7", "thuis": "244 brussels chess club 2", "uit": "209 SK anderlecht 4"}
+      {"tr": "6", "ur": "10", "thuis": "239 Boitsfort 3", "uit": "207 Les Deux Fous du Diogène 1"},
+      {"tr": "10", "ur": "6", "thuis": "533 Lessines 1", "uit": "229 Woluwe 2"},
+      {"tr": "8", "ur": "8", "thuis": "521 Tournai 1", "uit": "501 CRE Charleroi 5"},
+      {"tr": "7", "ur": "9", "thuis": "201 CRE Bruxelles 4", "uit": "548 Caïssa Europe Mons 2"},
+      {"tr": "10", "ur": "6", "thuis": "952 Wavre 3", "uit": "228 Dworp 2"},
+      {"tr": "9", "ur": "7", "thuis": "244 Brussels CC 2", "uit": "209 CC Anderlecht 4"}
     ]
   },
   {
     "ronde": "ronde 4",
     "datum": "18-11-2012",
     "uitslagen": [
-      {"tr": "7", "ur": "9", "thuis": "209 SK anderlecht 4", "uit": "239 boitsfort 3"},
-      {"tr": "4", "ur": "11", "thuis": "228 dworp 2", "uit": "244 brussels chess club 2"},
-      {"tr": "9", "ur": "7", "thuis": "548 caissa europe 2", "uit": "952 wavre 3"},
-      {"tr": "6", "ur": "10", "thuis": "501 cre charleroi 5", "uit": "201 cre bruxelles 4"},
-      {"tr": "7", "ur": "9", "thuis": "229 woluwe 2", "uit": "521 tournai 1"},
-      {"tr": "5", "ur": "11", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "533 lessines 1"}
+      {"tr": "7", "ur": "9", "thuis": "209 CC Anderlecht 4", "uit": "239 Boitsfort 3"},
+      {"tr": "4", "ur": "11", "thuis": "228 Dworp 2", "uit": "244 Brussels CC 2"},
+      {"tr": "9", "ur": "7", "thuis": "548 Caïssa Europe Mons 2", "uit": "952 Wavre 3"},
+      {"tr": "6", "ur": "10", "thuis": "501 CRE Charleroi 5", "uit": "201 CRE Bruxelles 4"},
+      {"tr": "7", "ur": "9", "thuis": "229 Woluwe 2", "uit": "521 Tournai 1"},
+      {"tr": "5", "ur": "11", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "533 Lessines 1"}
     ]
   },
   {
     "ronde": "ronde 5",
     "datum": "02-12-2012",
     "uitslagen": [
-      {"tr": "6", "ur": "10", "thuis": "239 boitsfort 3", "uit": "533 lessines 1"},
-      {"tr": "6", "ur": "10", "thuis": "521 tournai 1", "uit": "207 Les Deux Fous du Diogène 1"},
-      {"tr": "8", "ur": "8", "thuis": "201 cre bruxelles 4", "uit": "229 woluwe 2"},
-      {"tr": "9", "ur": "7", "thuis": "952 wavre 3", "uit": "501 cre charleroi 5"},
-      {"tr": "9", "ur": "7", "thuis": "244 brussels chess club 2", "uit": "548 caissa europe 2"},
-      {"tr": "10", "ur": "6", "thuis": "209 SK anderlecht 4", "uit": "228 dworp 2"}
+      {"tr": "6", "ur": "10", "thuis": "239 Boitsfort 3", "uit": "533 Lessines 1"},
+      {"tr": "6", "ur": "10", "thuis": "521 Tournai 1", "uit": "207 Les Deux Fous du Diogène 1"},
+      {"tr": "8", "ur": "8", "thuis": "201 CRE Bruxelles 4", "uit": "229 Woluwe 2"},
+      {"tr": "9", "ur": "7", "thuis": "952 Wavre 3", "uit": "501 CRE Charleroi 5"},
+      {"tr": "9", "ur": "7", "thuis": "244 Brussels CC 2", "uit": "548 Caïssa Europe Mons 2"},
+      {"tr": "10", "ur": "6", "thuis": "209 CC Anderlecht 4", "uit": "228 Dworp 2"}
     ]
   },
   {
     "ronde": "ronde 6",
     "datum": "16-12-2012",
     "uitslagen": [
-      {"tr": "10", "ur": "6", "thuis": "228 dworp 2", "uit": "239 boitsfort 3"},
-      {"tr": "11", "ur": "5", "thuis": "548 caissa europe 2", "uit": "209 SK anderlecht 4"},
-      {"tr": "7", "ur": "9", "thuis": "501 cre charleroi 5", "uit": "244 brussels chess club 2"},
-      {"tr": "10", "ur": "6", "thuis": "229 woluwe 2", "uit": "952 wavre 3"},
-      {"tr": "8", "ur": "8", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "201 cre bruxelles 4"},
-      {"tr": "12", "ur": "3", "thuis": "533 lessines 1", "uit": "521 tournai 1"}
+      {"tr": "10", "ur": "6", "thuis": "228 Dworp 2", "uit": "239 Boitsfort 3"},
+      {"tr": "11", "ur": "5", "thuis": "548 Caïssa Europe Mons 2", "uit": "209 CC Anderlecht 4"},
+      {"tr": "7", "ur": "9", "thuis": "501 CRE Charleroi 5", "uit": "244 Brussels CC 2"},
+      {"tr": "10", "ur": "6", "thuis": "229 Woluwe 2", "uit": "952 Wavre 3"},
+      {"tr": "8", "ur": "8", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "201 CRE Bruxelles 4"},
+      {"tr": "12", "ur": "3", "thuis": "533 Lessines 1", "uit": "521 Tournai 1"}
     ]
   },
   {
     "ronde": "ronde 7",
     "datum": "13-01-2013",
     "uitslagen": [
-      {"tr": "7", "ur": "9", "thuis": "239 boitsfort 3", "uit": "521 tournai 1"},
-      {"tr": "8", "ur": "8", "thuis": "201 cre bruxelles 4", "uit": "533 lessines 1"},
-      {"tr": "3", "ur": "9", "thuis": "952 wavre 3", "uit": "207 Les Deux Fous du Diogène 1"},
-      {"tr": "10", "ur": "6", "thuis": "244 brussels cc 2", "uit": "229 woluwe 2"},
-      {"tr": "10", "ur": "6", "thuis": "209 SK anderlecht 4", "uit": "501 cre charleroi 5"},
-      {"tr": "5", "ur": "10", "thuis": "228 dworp 2", "uit": "548 caissa europe 2"}
+      {"tr": "7", "ur": "9", "thuis": "239 Boitsfort 3", "uit": "521 Tournai 1"},
+      {"tr": "8", "ur": "8", "thuis": "201 CRE Bruxelles 4", "uit": "533 Lessines 1"},
+      {"tr": "3", "ur": "9", "thuis": "952 Wavre 3", "uit": "207 Les Deux Fous du Diogène 1"},
+      {"tr": "10", "ur": "6", "thuis": "244 Brussels CC 2", "uit": "229 Woluwe 2"},
+      {"tr": "10", "ur": "6", "thuis": "209 CC Anderlecht 4", "uit": "501 CRE Charleroi 5"},
+      {"tr": "5", "ur": "10", "thuis": "228 Dworp 2", "uit": "548 Caïssa Europe Mons 2"}
     ]
   },
   {
     "ronde": "ronde 8",
     "datum": "03-02-2013",
     "uitslagen": [
-      {"tr": "10", "ur": "6", "thuis": "548 caissa europe 2", "uit": "239 boitsfort 3"},
-      {"tr": "5", "ur": "11", "thuis": "501 cre charleroi 5", "uit": "228 dworp 2"},
-      {"tr": "9", "ur": "7", "thuis": "229 woluwe 2", "uit": "209 SK anderlecht 4"},
-      {"tr": "7", "ur": "9", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "244 brussels chess club 2"},
-      {"tr": "10", "ur": "5", "thuis": "533 lessines 1", "uit": "952 wavre 3"},
-      {"tr": "10", "ur": "6", "thuis": "521 tournai 1", "uit": "201 cre bruxelles 4"}
+      {"tr": "10", "ur": "6", "thuis": "548 Caïssa Europe Mons 2", "uit": "239 Boitsfort 3"},
+      {"tr": "5", "ur": "11", "thuis": "501 CRE Charleroi 5", "uit": "228 Dworp 2"},
+      {"tr": "9", "ur": "7", "thuis": "229 Woluwe 2", "uit": "209 CC Anderlecht 4"},
+      {"tr": "7", "ur": "9", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "244 Brussels CC 2"},
+      {"tr": "10", "ur": "5", "thuis": "533 Lessines 1", "uit": "952 Wavre 3"},
+      {"tr": "10", "ur": "6", "thuis": "521 Tournai 1", "uit": "201 CRE Bruxelles 4"}
     ]
   },
   {
     "ronde": "ronde 9",
     "datum": "17-02-2013",
     "uitslagen": [
-      {"tr": "12", "ur": "4", "thuis": "239 boitsfort 3", "uit": "201 cre bruxelles 4"},
-      {"tr": "8", "ur": "8", "thuis": "952 wavre 3", "uit": "521 tournai 1"},
-      {"tr": "10", "ur": "6", "thuis": "244 brussels chess club 2", "uit": "533 lessines 1"},
-      {"tr": "10", "ur": "6", "thuis": "209 SK anderlecht 4", "uit": "207 Les Deux Fous du Diogène 1"},
-      {"tr": "8", "ur": "8", "thuis": "228 dworp 2", "uit": "229 woluwe 2"},
-      {"tr": "12", "ur": "4", "thuis": "548 caissa europe 2", "uit": "501 cre charleroi 5"}
+      {"tr": "12", "ur": "4", "thuis": "239 Boitsfort 3", "uit": "201 CRE Bruxelles 4"},
+      {"tr": "8", "ur": "8", "thuis": "952 Wavre 3", "uit": "521 Tournai 1"},
+      {"tr": "10", "ur": "6", "thuis": "244 Brussels CC 2", "uit": "533 Lessines 1"},
+      {"tr": "10", "ur": "6", "thuis": "209 CC Anderlecht 4", "uit": "207 Les Deux Fous du Diogène 1"},
+      {"tr": "8", "ur": "8", "thuis": "228 Dworp 2", "uit": "229 Woluwe 2"},
+      {"tr": "12", "ur": "4", "thuis": "548 Caïssa Europe Mons 2", "uit": "501 CRE Charleroi 5"}
     ]
   },
   {
     "ronde": "ronde 10",
     "datum": "03-03-2013",
     "uitslagen": [
-      {"tr": "8", "ur": "8", "thuis": "501 cre charleroi 5", "uit": "239 boitsfort 3"},
-      {"tr": "6", "ur": "10", "thuis": "229 woluwe 2", "uit": "548 caissa europe 2"},
-      {"tr": "4", "ur": "12", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "228 dworp 2"},
-      {"tr": "7", "ur": "9", "thuis": "533 lessines 1", "uit": "209 SK anderlecht 4"},
-      {"tr": "8", "ur": "8", "thuis": "521 tournai 1", "uit": "244 brussels cc 2"},
-      {"tr": "11", "ur": "5", "thuis": "201 cre bruxelles 4", "uit": "952 wavre 3"}
+      {"tr": "8", "ur": "8", "thuis": "501 CRE Charleroi 5", "uit": "239 Boitsfort 3"},
+      {"tr": "6", "ur": "10", "thuis": "229 Woluwe 2", "uit": "548 Caïssa Europe Mons 2"},
+      {"tr": "4", "ur": "12", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "228 Dworp 2"},
+      {"tr": "7", "ur": "9", "thuis": "533 Lessines 1", "uit": "209 CC Anderlecht 4"},
+      {"tr": "8", "ur": "8", "thuis": "521 Tournai 1", "uit": "244 Brussels CC 2"},
+      {"tr": "11", "ur": "5", "thuis": "201 CRE Bruxelles 4", "uit": "952 Wavre 3"}
     ]
   },
   {
     "ronde": "ronde 11",
     "datum": "17-03-2013",
     "uitslagen": [
-      {"tr": "8", "ur": "8", "thuis": "952 wavre 3", "uit": "239 boitsfort 3"},
-      {"tr": "8", "ur": "8", "thuis": "244 brussels chess club 2", "uit": "201 cre bruxelles 4"},
-      {"tr": "12", "ur": "4", "thuis": "209 SK anderlecht 4", "uit": "521 tournai 1"},
-      {"tr": "8", "ur": "8", "thuis": "228 dworp 2", "uit": "533 lessines 1"},
-      {"tr": "11", "ur": "5", "thuis": "548 caissa europe 2", "uit": "207 Les Deux Fous du Diogène 1"},
-      {"tr": "7", "ur": "9", "thuis": "501 cre charleroi 5", "uit": "229 woluwe 2"}
+      {"tr": "8", "ur": "8", "thuis": "952 Wavre 3", "uit": "239 Boitsfort 3"},
+      {"tr": "8", "ur": "8", "thuis": "244 Brussels CC 2", "uit": "201 CRE Bruxelles 4"},
+      {"tr": "12", "ur": "4", "thuis": "209 CC Anderlecht 4", "uit": "521 Tournai 1"},
+      {"tr": "8", "ur": "8", "thuis": "228 Dworp 2", "uit": "533 Lessines 1"},
+      {"tr": "11", "ur": "5", "thuis": "548 Caïssa Europe Mons 2", "uit": "207 Les Deux Fous du Diogène 1"},
+      {"tr": "7", "ur": "9", "thuis": "501 CRE Charleroi 5", "uit": "229 Woluwe 2"}
     ]
   }
 ]
