@@ -12,7 +12,7 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Achtergaele Koen", "uspeler": "Vanderwaeren Serge", "telo": "2123", "uelo": "2198", "tstam": "30732", "ustam": "20621"},
       {"tr": "1", "ur": "0", "tspeler": "Marlier Gaetan", "uspeler": "Denys Frank", "telo": "1993", "uelo": "1985", "tstam": "84841", "ustam": "21881"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "De Moyer Karel", "uspeler": "Maeckelbergh Mieke", "telo": "1988", "uelo": "1867", "tstam": "56782", "ustam": "353"},
-      {"tr": "1", "ur": "0", "tspeler": "Sneppe Herman", "uspeler": "Van Duuren Louis", "telo": "1981", "uelo": "1804", "tstam": "90751", "ustam": "26816"},
+      {"tr": "1", "ur": "0", "tspeler": "Sneppe Herman", "uspeler": "van Duuren Louis", "telo": "1981", "uelo": "1804", "tstam": "90751", "ustam": "26816"},
       {"tr": "1", "ur": "0", "tspeler": "Matthijs Kris", "uspeler": "Debast Patrick", "telo": "1919", "uelo": "1784", "tstam": "46345", "ustam": "76333"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Matthijs Luc", "uspeler": "Cornelis Eric", "telo": "1790", "uelo": "1750", "tstam": "19208", "ustam": "76317"}
     ]
@@ -46,7 +46,7 @@
     "ugem": "1945",
     "borden": [
       {"tr": "0.5", "ur": "0.5", "tspeler": "Vingerhoets Luc", "uspeler": "Vanderwaeren Serge", "telo": "2137", "uelo": "2198", "tstam": "86479", "ustam": "20621"},
-      {"tr": "0", "ur": "1", "tspeler": "Geubel Yves", "uspeler": "Heynen Koen", "telo": "2023", "uelo": "2025", "tstam": "89591", "ustam": "27413"},
+      {"tr": "0", "ur": "1", "tspeler": "Guebel Yves", "uspeler": "Heynen Koen", "telo": "2023", "uelo": "2025", "tstam": "89591", "ustam": "27413"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Brouri Mohand", "uspeler": "Denys Frank", "telo": "2010", "uelo": "1985", "tstam": "61875", "ustam": "21881"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Georges Benoit", "uspeler": "Maeckelbergh Mieke", "telo": "1822", "uelo": "1867", "tstam": "87645", "ustam": "353"},
       {"tr": "1", "ur": "0", "tspeler": "Lenoir Thierry", "uspeler": "De Bosscher Peter", "telo": "1750", "uelo": "1820", "tstam": "60275", "ustam": "655"},
@@ -67,7 +67,7 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Heynen Koen", "uspeler": "Rogiers Jan", "telo": "2025", "uelo": "2115", "tstam": "27413", "ustam": "48569"},
       {"tr": "0", "ur": "1", "tspeler": "Lot Diederik", "uspeler": "Janssens Carlo", "telo": "1939", "uelo": "2069", "tstam": "9954", "ustam": "9059"},
       {"tr": "0", "ur": "1", "tspeler": "Denys Frank", "uspeler": "Van De Perre Tom", "telo": "1985", "uelo": "2011", "tstam": "21881", "ustam": "1929"},
-      {"tr": "0", "ur": "1", "tspeler": "Van Duuren Louis", "uspeler": "Van Der Vurst Arne", "telo": "1804", "uelo": "2010", "tstam": "26816", "ustam": "52736"},
+      {"tr": "0", "ur": "1", "tspeler": "van Duuren Louis", "uspeler": "Van Der Vurst Arne", "telo": "1804", "uelo": "2010", "tstam": "26816", "ustam": "52736"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Petermans Pascal", "telo": "1750", "uelo": "1928", "tstam": "76317", "ustam": "40142"}
     ]
   },
@@ -104,7 +104,7 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Lot Diederik", "uspeler": "Callant Geert", "telo": "1939", "uelo": "1954", "tstam": "9954", "ustam": "38237"},
       {"tr": "0", "ur": "1", "tspeler": "Denys Frank", "uspeler": "Vandelacluze Ian", "telo": "1985", "uelo": "1898", "tstam": "21881", "ustam": "10139"},
       {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Geert", "uspeler": "Dierckens Sarah", "telo": "1859", "uelo": "1897", "tstam": "43419", "ustam": "42153"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Duuren Louis", "uspeler": "Goethals Kristof", "telo": "1804", "uelo": "1797", "tstam": "26816", "ustam": "34835"}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "van Duuren Louis", "uspeler": "Goethals Kristof", "telo": "1804", "uelo": "1797", "tstam": "26816", "ustam": "34835"}
     ]
   },
   {
@@ -154,7 +154,7 @@
     "ugem": "1953",
     "borden": [
       {"tr": "0.5", "ur": "0.5", "tspeler": "Van Den Berkmortel Theo", "uspeler": "Vanderwaeren Serge", "telo": "2201", "uelo": "2198", "tstam": "53562", "ustam": "20621"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Barbé Tom", "uspeler": "Heynen Koen", "telo": "2100", "uelo": "2025", "tstam": "42838", "ustam": "27413"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Barb\u00e9 Tom", "uspeler": "Heynen Koen", "telo": "2100", "uelo": "2025", "tstam": "42838", "ustam": "27413"},
       {"tr": "1", "ur": "0", "tspeler": "Van Cappellen Jonas", "uspeler": "Lot Diederik", "telo": "2099", "uelo": "1939", "tstam": "1988", "ustam": "9954"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Reyniers Pieter", "uspeler": "Denys Frank", "telo": "2098", "uelo": "1985", "tstam": "50628", "ustam": "21881"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "De Ridder Dieter", "uspeler": "De Bosscher Peter", "telo": "1896", "uelo": "1820", "tstam": "50491", "ustam": "655"},
@@ -175,7 +175,7 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Lot Diederik", "uspeler": "Uhoda Philippe", "telo": "1939", "uelo": "2126", "tstam": "9954", "ustam": "63011"},
       {"tr": "1", "ur": "0", "tspeler": "Denys Frank", "uspeler": "Lejeune Vincent", "telo": "1985", "uelo": "2021", "tstam": "21881", "ustam": "62561"},
       {"tr": "0", "ur": "1", "tspeler": "De Bosscher Peter", "uspeler": "Degembre Pierre", "telo": "1820", "uelo": "2017", "tstam": "655", "ustam": "95478"},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Duuren Louis", "uspeler": "Pacolet Fabrice", "telo": "1804", "uelo": "1946", "tstam": "26816", "ustam": "90964"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "van Duuren Louis", "uspeler": "Pacolet Fabrice", "telo": "1804", "uelo": "1946", "tstam": "26816", "ustam": "90964"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Guion Geoffrey", "telo": "1750", "uelo": "1868", "tstam": "76317", "ustam": "81604"}
     ]
   },
@@ -194,7 +194,7 @@
       {"tr": "1", "ur": "0", "tspeler": "De Buck Valere", "uspeler": "Denys Frank", "telo": "2031", "uelo": "1985", "tstam": "35394", "ustam": "21881"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Mauquoy Alain", "uspeler": "Maeckelbergh Geert", "telo": "2030", "uelo": "1859", "tstam": "35491", "ustam": "43419"},
       {"tr": "1", "ur": "0", "tspeler": "Versporten Wim", "uspeler": "De Bosscher Peter", "telo": "2020", "uelo": "1820", "tstam": "80985", "ustam": "655"},
-      {"tr": "1", "ur": "0", "tspeler": "Van Hoecke Luc", "uspeler": "Van Duuren Louis", "telo": "1995", "uelo": "1804", "tstam": "35564", "ustam": "26816"}
+      {"tr": "1", "ur": "0", "tspeler": "Van Hoecke Luc", "uspeler": "van Duuren Louis", "telo": "1995", "uelo": "1804", "tstam": "35564", "ustam": "26816"}
     ]
   }
 ]
