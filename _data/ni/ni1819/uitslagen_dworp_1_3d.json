@@ -3,9 +3,9 @@
     "ronde": "ronde 1",
     "datum": "30-09-2018",
     "uitslagen": [
-      {"tr": "3", "ur": "3", "thuis": "548 Caissa Europe 1", "uit": "514 Fontaine 3"},
-      {"tr": "3", "ur": "3", "thuis": "174 Brasschaat 4", "uit": "114 Mechelen 2"},
-      {"tr": "3", "ur": "3", "thuis": "228 Dworp 1", "uit": "244 Brussels 1"},
+      {"tr": "3", "ur": "3", "thuis": "548 Caïssa Europe Mons 1", "uit": "514 Fontaine 3"},
+      {"tr": "3", "ur": "3", "thuis": "174 Brasschaat 4", "uit": "114 K Mechelse SK 2"},
+      {"tr": "3", "ur": "3", "thuis": "228 Dworp 1", "uit": "244 Brussels CC 1"},
       {"tr": "2", "ur": "4", "thuis": "521 Tournai 1", "uit": "226 Europchess 2"},
       {"tr": "2.5", "ur": "3.5", "thuis": "229 Woluwe 1", "uit": "417 Aalst 1"},
       {"tr": "5.5", "ur": "0.5", "thuis": "278 Pantin 1", "uit": "462 Zottegem 3"}
@@ -15,11 +15,11 @@
     "ronde": "ronde 2",
     "datum": "07-10-2018",
     "uitslagen": [
-      {"tr": "2", "ur": "4", "thuis": "462 Zottegem 3", "uit": "548 Caissa Europe 1"},
+      {"tr": "2", "ur": "4", "thuis": "462 Zottegem 3", "uit": "548 Caïssa Europe Mons 1"},
       {"tr": "1", "ur": "5", "thuis": "417 Aalst 1", "uit": "278 Pantin 1"},
       {"tr": "5", "ur": "1", "thuis": "226 Europchess 2", "uit": "229 Woluwe 1"},
-      {"tr": "4.5", "ur": "1.5", "thuis": "244 Brussels 1", "uit": "521 Tournai 1"},
-      {"tr": "3", "ur": "3", "thuis": "114 Mechelen 2", "uit": "228 Dworp 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "244 Brussels CC 1", "uit": "521 Tournai 1"},
+      {"tr": "3", "ur": "3", "thuis": "114 K Mechelse SK 2", "uit": "228 Dworp 1"},
       {"tr": "4.5", "ur": "1.5", "thuis": "514 Fontaine 3", "uit": "174 Brasschaat 4"}
     ]
   },
@@ -27,10 +27,10 @@
     "ronde": "ronde 3",
     "datum": "28-10-2018",
     "uitslagen": [
-      {"tr": "2", "ur": "4", "thuis": "548 Caissa Europe 1", "uit": "174 Brasschaat 4"},
+      {"tr": "2", "ur": "4", "thuis": "548 Caïssa Europe Mons 1", "uit": "174 Brasschaat 4"},
       {"tr": "1.5", "ur": "4.5", "thuis": "228 Dworp 1", "uit": "514 Fontaine 3"},
-      {"tr": "1.5", "ur": "4.5", "thuis": "521 Tournai 1", "uit": "114 Mechelen 2"},
-      {"tr": "1.5", "ur": "4.5", "thuis": "229 Woluwe 1", "uit": "244 Brussels 1"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "521 Tournai 1", "uit": "114 K Mechelse SK 2"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "229 Woluwe 1", "uit": "244 Brussels CC 1"},
       {"tr": "5.5", "ur": "0.5", "thuis": "278 Pantin 1", "uit": "226 Europchess 2"},
       {"tr": "3", "ur": "3", "thuis": "462 Zottegem 3", "uit": "417 Aalst 1"}
     ]
@@ -39,10 +39,10 @@
     "ronde": "ronde 4",
     "datum": "18-11-2018",
     "uitslagen": [
-      {"tr": "4", "ur": "2", "thuis": "417 Aalst 1", "uit": "548 Caissa Europe 1"},
+      {"tr": "4", "ur": "2", "thuis": "417 Aalst 1", "uit": "548 Caïssa Europe Mons 1"},
       {"tr": "2.5", "ur": "3.5", "thuis": "226 Europchess 2", "uit": "462 Zottegem 3"},
-      {"tr": "2.5", "ur": "3.5", "thuis": "244 Brussels 1", "uit": "278 Pantin 1"},
-      {"tr": "5", "ur": "1", "thuis": "114 Mechelen 2", "uit": "229 Woluwe 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "244 Brussels CC 1", "uit": "278 Pantin 1"},
+      {"tr": "5", "ur": "1", "thuis": "114 K Mechelse SK 2", "uit": "229 Woluwe 1"},
       {"tr": "4.5", "ur": "1.5", "thuis": "514 Fontaine 3", "uit": "521 Tournai 1"},
       {"tr": "3", "ur": "3", "thuis": "174 Brasschaat 4", "uit": "228 Dworp 1"}
     ]
@@ -51,11 +51,11 @@
     "ronde": "ronde 5",
     "datum": "02-12-2018",
     "uitslagen": [
-      {"tr": "1.5", "ur": "4.5", "thuis": "548 Caissa Europe 1", "uit": "228 Dworp 1"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "548 Caïssa Europe Mons 1", "uit": "228 Dworp 1"},
       {"tr": "1", "ur": "5", "thuis": "521 Tournai 1", "uit": "174 Brasschaat 4"},
       {"tr": "2.5", "ur": "3.5", "thuis": "229 Woluwe 1", "uit": "514 Fontaine 3"},
-      {"tr": "4", "ur": "2", "thuis": "278 Pantin 1", "uit": "114 Mechelen 2"},
-      {"tr": "1.5", "ur": "4.5", "thuis": "462 Zottegem 3", "uit": "244 Brussels 1"},
+      {"tr": "4", "ur": "2", "thuis": "278 Pantin 1", "uit": "114 K Mechelse SK 2"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "462 Zottegem 3", "uit": "244 Brussels CC 1"},
       {"tr": "1.5", "ur": "4.5", "thuis": "417 Aalst 1", "uit": "226 Europchess 2"}
     ]
   },
@@ -63,9 +63,9 @@
     "ronde": "ronde 6",
     "datum": "03-02-2019",
     "uitslagen": [
-      {"tr": "5.5", "ur": "0.5", "thuis": "226 Europchess 2", "uit": "548 Caissa Europe 1"},
-      {"tr": "3.5", "ur": "2.5", "thuis": "244 Brussels 1", "uit": "417 Aalst 1"},
-      {"tr": "2.5", "ur": "3.5", "thuis": "114 Mechelen 2", "uit": "462 Zottegem 3"},
+      {"tr": "5.5", "ur": "0.5", "thuis": "226 Europchess 2", "uit": "548 Caïssa Europe Mons 1"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "244 Brussels CC 1", "uit": "417 Aalst 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "114 K Mechelse SK 2", "uit": "462 Zottegem 3"},
       {"tr": "4.5", "ur": "1.5", "thuis": "514 Fontaine 3", "uit": "278 Pantin 1"},
       {"tr": "3", "ur": "3", "thuis": "174 Brasschaat 4", "uit": "229 Woluwe 1"},
       {"tr": "5", "ur": "1", "thuis": "228 Dworp 1", "uit": "521 Tournai 1"}
@@ -75,20 +75,20 @@
     "ronde": "ronde 7",
     "datum": "10-02-2019",
     "uitslagen": [
-      {"tr": "4.5", "ur": "1.5", "thuis": "548 Caissa Europe 1", "uit": "521 Tournai 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "548 Caïssa Europe Mons 1", "uit": "521 Tournai 1"},
       {"tr": "1.5", "ur": "4.5", "thuis": "229 Woluwe 1", "uit": "228 Dworp 1"},
       {"tr": "4.5", "ur": "1.5", "thuis": "278 Pantin 1", "uit": "174 Brasschaat 4"},
       {"tr": "1", "ur": "5", "thuis": "462 Zottegem 3", "uit": "514 Fontaine 3"},
-      {"tr": "4.5", "ur": "1.5", "thuis": "417 Aalst 1", "uit": "114 Mechelen 2"},
-      {"tr": "3.5", "ur": "2.5", "thuis": "226 Europchess 2", "uit": "244 Brussels 1"}
+      {"tr": "4.5", "ur": "1.5", "thuis": "417 Aalst 1", "uit": "114 K Mechelse SK 2"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "226 Europchess 2", "uit": "244 Brussels CC 1"}
     ]
   },
   {
     "ronde": "ronde 8",
     "datum": "24-02-2019",
     "uitslagen": [
-      {"tr": "5", "ur": "1", "thuis": "244 Brussels 1", "uit": "548 Caissa Europe 1"},
-      {"tr": "3", "ur": "3", "thuis": "114 Mechelen 2", "uit": "226 Europchess 2"},
+      {"tr": "5", "ur": "1", "thuis": "244 Brussels CC 1", "uit": "548 Caïssa Europe Mons 1"},
+      {"tr": "3", "ur": "3", "thuis": "114 K Mechelse SK 2", "uit": "226 Europchess 2"},
       {"tr": "3.5", "ur": "2.5", "thuis": "514 Fontaine 3", "uit": "417 Aalst 1"},
       {"tr": "3.5", "ur": "2.5", "thuis": "174 Brasschaat 4", "uit": "462 Zottegem 3"},
       {"tr": "2.5", "ur": "3.5", "thuis": "228 Dworp 1", "uit": "278 Pantin 1"},
@@ -99,20 +99,20 @@
     "ronde": "ronde 9",
     "datum": "17-03-2019",
     "uitslagen": [
-      {"tr": "2.5", "ur": "3.5", "thuis": "548 Caissa Europe 1", "uit": "229 Woluwe 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "548 Caïssa Europe Mons 1", "uit": "229 Woluwe 1"},
       {"tr": "4.5", "ur": "1.5", "thuis": "278 Pantin 1", "uit": "521 Tournai 1"},
       {"tr": "2", "ur": "4", "thuis": "462 Zottegem 3", "uit": "228 Dworp 1"},
       {"tr": "2.5", "ur": "3.5", "thuis": "417 Aalst 1", "uit": "174 Brasschaat 4"},
       {"tr": "1.5", "ur": "4.5", "thuis": "226 Europchess 2", "uit": "514 Fontaine 3"},
-      {"tr": "3.5", "ur": "2.5", "thuis": "244 Brussels 1", "uit": "114 Mechelen 2"}
+      {"tr": "3.5", "ur": "2.5", "thuis": "244 Brussels CC 1", "uit": "114 K Mechelse SK 2"}
     ]
   },
   {
     "ronde": "ronde 10",
     "datum": "31-03-2019",
     "uitslagen": [
-      {"tr": "1.5", "ur": "4.5", "thuis": "114 Mechelen 2", "uit": "548 Caissa Europe 1"},
-      {"tr": "4.5", "ur": "1.5", "thuis": "514 Fontaine 3", "uit": "244 Brussels 1"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "114 K Mechelse SK 2", "uit": "548 Caïssa Europe Mons 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "514 Fontaine 3", "uit": "244 Brussels CC 1"},
       {"tr": "3", "ur": "3", "thuis": "174 Brasschaat 4", "uit": "226 Europchess 2"},
       {"tr": "3.5", "ur": "2.5", "thuis": "228 Dworp 1", "uit": "417 Aalst 1"},
       {"tr": "1", "ur": "5", "thuis": "521 Tournai 1", "uit": "462 Zottegem 3"},
@@ -123,12 +123,12 @@
     "ronde": "ronde 11",
     "datum": "28-04-2019",
     "uitslagen": [
-      {"tr": "3.5", "ur": "2.5", "thuis": "278 Pantin 1", "uit": "548 Caissa Europe 1"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "278 Pantin 1", "uit": "548 Caïssa Europe Mons 1"},
       {"tr": "5", "ur": "1", "thuis": "462 Zottegem 3", "uit": "229 Woluwe 1"},
       {"tr": "2", "ur": "4", "thuis": "417 Aalst 1", "uit": "521 Tournai 1"},
       {"tr": "4", "ur": "2", "thuis": "226 Europchess 2", "uit": "228 Dworp 1"},
-      {"tr": "4.5", "ur": "1.5", "thuis": "244 Brussels 1", "uit": "174 Brasschaat 4"},
-      {"tr": "0.5", "ur": "5.5", "thuis": "114 Mechelen 2", "uit": "514 Fontaine 3"}
+      {"tr": "4.5", "ur": "1.5", "thuis": "244 Brussels CC 1", "uit": "174 Brasschaat 4"},
+      {"tr": "0.5", "ur": "5.5", "thuis": "114 K Mechelse SK 2", "uit": "514 Fontaine 3"}
     ]
   }
 ]

@@ -3,24 +3,24 @@
     "ronde": "ronde 1",
     "datum": "30-09-2018",
     "uitslagen": [
-      {"tr": "2", "ur": "2", "thuis": "961 Braine l'Alleud 3", "uit": "201 CREB 3"},
-      {"tr": "2", "ur": "2", "thuis": "228 Dworp 3", "uit": "114 Mechelen 9"},
-      {"tr": "1", "ur": "3", "thuis": "233 DZD Halle 1", "uit": "244 Brussels 6"},
+      {"tr": "2", "ur": "2", "thuis": "961 Braine l'Alleud 3", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "2", "ur": "2", "thuis": "228 Dworp 3", "uit": "114 K Mechelse SK 9"},
+      {"tr": "1", "ur": "3", "thuis": "233 DZD Halle 1", "uit": "244 Brussels CC 6"},
       {"tr": "0.5", "ur": "3.5", "thuis": "239 Boitsfort 5", "uit": "952 Wavre 4"},
       {"tr": "2", "ur": "2", "thuis": "229 Woluwe 2", "uit": "226 Europchess 4"},
-      {"tr": "3", "ur": "1", "thuis": "278 Pantin 6", "uit": "207 2 Fous Diog\u00e8ne 2"}
+      {"tr": "3", "ur": "1", "thuis": "278 Pantin 6", "uit": "207 Les Deux Fous du Diogène 2"}
     ]
   },
   {
     "ronde": "ronde 2",
     "datum": "07-10-2018",
     "uitslagen": [
-      {"tr": "2.5", "ur": "1.5", "thuis": "207 2 Fous Diog\u00e8ne 2", "uit": "961 Braine l'Alleud 3"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "961 Braine l'Alleud 3"},
       {"tr": "1.5", "ur": "2.5", "thuis": "226 Europchess 4", "uit": "278 Pantin 6"},
       {"tr": "3.5", "ur": "0.5", "thuis": "952 Wavre 4", "uit": "229 Woluwe 2"},
-      {"tr": "3", "ur": "1", "thuis": "244 Brussels 6", "uit": "239 Boitsfort 5"},
-      {"tr": "3", "ur": "1", "thuis": "114 Mechelen 9", "uit": "233 DZD Halle 1"},
-      {"tr": "2", "ur": "2", "thuis": "201 CREB 3", "uit": "228 Dworp 3"}
+      {"tr": "3", "ur": "1", "thuis": "244 Brussels CC 6", "uit": "239 Boitsfort 5"},
+      {"tr": "3", "ur": "1", "thuis": "114 K Mechelse SK 9", "uit": "233 DZD Halle 1"},
+      {"tr": "2", "ur": "2", "thuis": "201 CRE Bruxelles 3", "uit": "228 Dworp 3"}
     ]
   },
   {
@@ -28,11 +28,11 @@
     "datum": "28-10-2018",
     "uitslagen": [
       {"tr": "2.5", "ur": "1.5", "thuis": "961 Braine l'Alleud 3", "uit": "228 Dworp 3"},
-      {"tr": "1.5", "ur": "2.5", "thuis": "233 DZD Halle 1", "uit": "201 CREB 3"},
-      {"tr": "2.5", "ur": "1.5", "thuis": "239 Boitsfort 5", "uit": "114 Mechelen 9"},
-      {"tr": "1.5", "ur": "2.5", "thuis": "229 Woluwe 2", "uit": "244 Brussels 6"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "233 DZD Halle 1", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "239 Boitsfort 5", "uit": "114 K Mechelse SK 9"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "229 Woluwe 2", "uit": "244 Brussels CC 6"},
       {"tr": "2.5", "ur": "1.5", "thuis": "278 Pantin 6", "uit": "952 Wavre 4"},
-      {"tr": "2", "ur": "2", "thuis": "207 2 Fous Diog\u00e8ne 2", "uit": "226 Europchess 4"}
+      {"tr": "2", "ur": "2", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "226 Europchess 4"}
     ]
   },
   {
@@ -40,10 +40,10 @@
     "datum": "18-11-2018",
     "uitslagen": [
       {"tr": "3", "ur": "1", "thuis": "226 Europchess 4", "uit": "961 Braine l'Alleud 3"},
-      {"tr": "2", "ur": "2", "thuis": "952 Wavre 4", "uit": "207 2 Fous Diog\u00e8ne 2"},
-      {"tr": "0", "ur": "4", "thuis": "244 Brussels 6", "uit": "278 Pantin 6"},
-      {"tr": "3", "ur": "1", "thuis": "114 Mechelen 9", "uit": "229 Woluwe 2"},
-      {"tr": "3.5", "ur": "0.5", "thuis": "201 CREB 3", "uit": "239 Boitsfort 5"},
+      {"tr": "2", "ur": "2", "thuis": "952 Wavre 4", "uit": "207 Les Deux Fous du Diogène 2"},
+      {"tr": "0", "ur": "4", "thuis": "244 Brussels CC 6", "uit": "278 Pantin 6"},
+      {"tr": "3", "ur": "1", "thuis": "114 K Mechelse SK 9", "uit": "229 Woluwe 2"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "201 CRE Bruxelles 3", "uit": "239 Boitsfort 5"},
       {"tr": "3", "ur": "1", "thuis": "228 Dworp 3", "uit": "233 DZD Halle 1"}
     ]
   },
@@ -53,9 +53,9 @@
     "uitslagen": [
       {"tr": "3", "ur": "1", "thuis": "961 Braine l'Alleud 3", "uit": "233 DZD Halle 1"},
       {"tr": "2.5", "ur": "1.5", "thuis": "239 Boitsfort 5", "uit": "228 Dworp 3"},
-      {"tr": "0.5", "ur": "3.5", "thuis": "229 Woluwe 2", "uit": "201 CREB 3"},
-      {"tr": "3.5", "ur": "0.5", "thuis": "278 Pantin 6", "uit": "114 Mechelen 9"},
-      {"tr": "3", "ur": "1", "thuis": "207 2 Fous Diog\u00e8ne 2", "uit": "244 Brussels 6"},
+      {"tr": "0.5", "ur": "3.5", "thuis": "229 Woluwe 2", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "278 Pantin 6", "uit": "114 K Mechelse SK 9"},
+      {"tr": "3", "ur": "1", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "244 Brussels CC 6"},
       {"tr": "3.5", "ur": "0.5", "thuis": "226 Europchess 4", "uit": "952 Wavre 4"}
     ]
   },
@@ -64,9 +64,9 @@
     "datum": "03-02-2019",
     "uitslagen": [
       {"tr": "2", "ur": "2", "thuis": "952 Wavre 4", "uit": "961 Braine l'Alleud 3"},
-      {"tr": "1", "ur": "3", "thuis": "244 Brussels 6", "uit": "226 Europchess 4"},
-      {"tr": "2", "ur": "2", "thuis": "114 Mechelen 9", "uit": "207 2 Fous Diog\u00e8ne 2"},
-      {"tr": "3", "ur": "1", "thuis": "201 CREB 3", "uit": "278 Pantin 6"},
+      {"tr": "1", "ur": "3", "thuis": "244 Brussels CC 6", "uit": "226 Europchess 4"},
+      {"tr": "2", "ur": "2", "thuis": "114 K Mechelse SK 9", "uit": "207 Les Deux Fous du Diogène 2"},
+      {"tr": "3", "ur": "1", "thuis": "201 CRE Bruxelles 3", "uit": "278 Pantin 6"},
       {"tr": "3.5", "ur": "0.5", "thuis": "228 Dworp 3", "uit": "229 Woluwe 2"},
       {"tr": "1.5", "ur": "2.5", "thuis": "233 DZD Halle 1", "uit": "239 Boitsfort 5"}
     ]
@@ -78,19 +78,19 @@
       {"tr": "3", "ur": "1", "thuis": "961 Braine l'Alleud 3", "uit": "239 Boitsfort 5"},
       {"tr": "1.5", "ur": "2.5", "thuis": "229 Woluwe 2", "uit": "233 DZD Halle 1"},
       {"tr": "4", "ur": "0", "thuis": "278 Pantin 6", "uit": "228 Dworp 3"},
-      {"tr": "1", "ur": "3", "thuis": "207 2 Fous Diog\u00e8ne 2", "uit": "201 CREB 3"},
-      {"tr": "2.5", "ur": "1.5", "thuis": "226 Europchess 4", "uit": "114 Mechelen 9"},
-      {"tr": "1", "ur": "3", "thuis": "952 Wavre 4", "uit": "244 Brussels 6"}
+      {"tr": "1", "ur": "3", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "226 Europchess 4", "uit": "114 K Mechelse SK 9"},
+      {"tr": "1", "ur": "3", "thuis": "952 Wavre 4", "uit": "244 Brussels CC 6"}
     ]
   },
   {
     "ronde": "ronde 8",
     "datum": "24-02-2019",
     "uitslagen": [
-      {"tr": "4", "ur": "0", "thuis": "244 Brussels 6", "uit": "961 Braine l'Alleud 3"},
-      {"tr": "2", "ur": "2", "thuis": "114 Mechelen 9", "uit": "952 Wavre 4"},
-      {"tr": "2", "ur": "2", "thuis": "201 CREB 3", "uit": "226 Europchess 4"},
-      {"tr": "0.5", "ur": "3.5", "thuis": "228 Dworp 3", "uit": "207 2 Fous Diog\u00e8ne 2"},
+      {"tr": "4", "ur": "0", "thuis": "244 Brussels CC 6", "uit": "961 Braine l'Alleud 3"},
+      {"tr": "2", "ur": "2", "thuis": "114 K Mechelse SK 9", "uit": "952 Wavre 4"},
+      {"tr": "2", "ur": "2", "thuis": "201 CRE Bruxelles 3", "uit": "226 Europchess 4"},
+      {"tr": "0.5", "ur": "3.5", "thuis": "228 Dworp 3", "uit": "207 Les Deux Fous du Diogène 2"},
       {"tr": "0", "ur": "4", "thuis": "233 DZD Halle 1", "uit": "278 Pantin 6"},
       {"tr": "1", "ur": "3", "thuis": "239 Boitsfort 5", "uit": "229 Woluwe 2"}
     ]
@@ -101,21 +101,21 @@
     "uitslagen": [
       {"tr": "0", "ur": "4", "thuis": "961 Braine l'Alleud 3", "uit": "229 Woluwe 2"},
       {"tr": "3", "ur": "1", "thuis": "278 Pantin 6", "uit": "239 Boitsfort 5"},
-      {"tr": "3.5", "ur": "0.5", "thuis": "207 2 Fous Diog\u00e8ne 2", "uit": "233 DZD Halle 1"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "233 DZD Halle 1"},
       {"tr": "3.5", "ur": "0.5", "thuis": "226 Europchess 4", "uit": "228 Dworp 3"},
-      {"tr": "2", "ur": "2", "thuis": "952 Wavre 4", "uit": "201 CREB 3"},
-      {"tr": "2.5", "ur": "1.5", "thuis": "244 Brussels 6", "uit": "114 Mechelen 9"}
+      {"tr": "2", "ur": "2", "thuis": "952 Wavre 4", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "244 Brussels CC 6", "uit": "114 K Mechelse SK 9"}
     ]
   },
   {
     "ronde": "ronde 10",
     "datum": "31-03-2019",
     "uitslagen": [
-      {"tr": "3.5", "ur": "0.5", "thuis": "114 Mechelen 9", "uit": "961 Braine l'Alleud 3"},
-      {"tr": "0", "ur": "4", "thuis": "201 CREB 3", "uit": "244 Brussels 6"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "114 K Mechelse SK 9", "uit": "961 Braine l'Alleud 3"},
+      {"tr": "0", "ur": "4", "thuis": "201 CRE Bruxelles 3", "uit": "244 Brussels CC 6"},
       {"tr": "1", "ur": "3", "thuis": "228 Dworp 3", "uit": "952 Wavre 4"},
       {"tr": "1", "ur": "3", "thuis": "233 DZD Halle 1", "uit": "226 Europchess 4"},
-      {"tr": "1.5", "ur": "2.5", "thuis": "239 Boitsfort 5", "uit": "207 2 Fous Diog\u00e8ne 2"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "239 Boitsfort 5", "uit": "207 Les Deux Fous du Diogène 2"},
       {"tr": "0", "ur": "4", "thuis": "229 Woluwe 2", "uit": "278 Pantin 6"}
     ]
   },
@@ -124,11 +124,11 @@
     "datum": "28-04-2019",
     "uitslagen": [
       {"tr": "3", "ur": "1", "thuis": "278 Pantin 6", "uit": "961 Braine l'Alleud 3"},
-      {"tr": "1.5", "ur": "2.5", "thuis": "207 2 Fous Diog\u00e8ne 2", "uit": "229 Woluwe 2"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "229 Woluwe 2"},
       {"tr": "2", "ur": "2", "thuis": "226 Europchess 4", "uit": "239 Boitsfort 5"},
       {"tr": "2.5", "ur": "1.5", "thuis": "952 Wavre 4", "uit": "233 DZD Halle 1"},
-      {"tr": "3", "ur": "1", "thuis": "244 Brussels 6", "uit": "228 Dworp 3"},
-      {"tr": "4", "ur": "0", "thuis": "114 Mechelen 9", "uit": "201 CREB 3"}
+      {"tr": "3", "ur": "1", "thuis": "244 Brussels CC 6", "uit": "228 Dworp 3"},
+      {"tr": "4", "ur": "0", "thuis": "114 K Mechelse SK 9", "uit": "201 CRE Bruxelles 3"}
     ]
   }
 ]
