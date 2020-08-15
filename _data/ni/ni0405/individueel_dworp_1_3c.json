@@ -139,8 +139,8 @@
       {"tr": "1", "ur": "0", "tspeler": "Van Mechelen Jan", "uspeler": "Thalmann J\u00f6rg", "telo": "2287", "uelo": "1758", "tstam": "14354", "ustam": ""},
       {"tr": "1", "ur": "0", "tspeler": "Casier Wim", "uspeler": "Hardy Jen\u00f6", "telo": "2096", "uelo": "1705", "tstam": "2607", "ustam": ""},
       {"tr": "1", "ur": "0", "tspeler": "Heynen Koen", "uspeler": "Grede Manfred", "telo": "2084", "uelo": "1566", "tstam": "27413", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Debast Patrick", "uspeler": "ff", "telo": "1820", "uelo": "ng", "tstam": "76333", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "Malfliet Bernard", "uspeler": "ff", "telo": "1705", "uelo": "ng", "tstam": "31348", "ustam": ""}
+      {"tr": "1F", "ur": "0F", "tspeler": "Debast Patrick", "uspeler": "(forfait)", "telo": "1820", "uelo": "", "tstam": "76333", "ustam": ""},
+      {"tr": "1F", "ur": "0F", "tspeler": "Malfliet Bernard", "uspeler": "(forfait)", "telo": "1705", "uelo": "", "tstam": "31348", "ustam": ""}
     ]
   },
   {
