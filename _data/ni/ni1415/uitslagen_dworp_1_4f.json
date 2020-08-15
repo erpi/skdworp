@@ -3,132 +3,132 @@
     "ronde": "ronde 1",
     "datum": "28-09-2014",
     "uitslagen": [
-      {"tr": "11", "ur": "5", "thuis": "244 brussels chess club 2", "uit": "240 machelen 1"},
-      {"tr": "6", "ur": "10", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "231 dolle toren leuven 1"},
-      {"tr": "11", "ur": "5", "thuis": "232 dark knights leuven 1", "uit": "226 europchess 3"},
-      {"tr": "10", "ur": "6", "thuis": "230 leuven centraal 3", "uit": "201 cre bruxelles 3"},
-      {"tr": "10", "ur": "6", "thuis": "228 dworp 1", "uit": "229 woluwe 1"},
-      {"tr": "7", "ur": "9", "thuis": "114 mechelen 3", "uit": "261 opwijk 3"}
+      {"tr": "11", "ur": "5", "thuis": "244 Brussels CC 2", "uit": "240 Machelen 1"},
+      {"tr": "6", "ur": "10", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "231 Dolle Toren Leuven 1"},
+      {"tr": "11", "ur": "5", "thuis": "232 Dark Knights Leuven 1", "uit": "226 Europchess 3"},
+      {"tr": "10", "ur": "6", "thuis": "230 Leuven Centraal 3", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "10", "ur": "6", "thuis": "228 Dworp 1", "uit": "229 Woluwe 1"},
+      {"tr": "7", "ur": "9", "thuis": "114 K Mechelse SK 3", "uit": "261 Opwijk 3"}
     ]
   },
   {
     "ronde": "ronde 2",
     "datum": "19-10-2014",
     "uitslagen": [
-      {"tr": "8", "ur": "8", "thuis": "261 opwijk 3", "uit": "244 brussels chess club 2"},
-      {"tr": "8", "ur": "8", "thuis": "229 woluwe 1", "uit": "114 mechelen 3"},
-      {"tr": "7", "ur": "9", "thuis": "201 cre bruxelles 3", "uit": "228 dworp 1"},
-      {"tr": "9", "ur": "7", "thuis": "226 europchess 3", "uit": "230 leuven centraal 3"},
-      {"tr": "6", "ur": "10", "thuis": "231 dolle toren leuven 1", "uit": "232 dark knights leuven 1"},
-      {"tr": "7", "ur": "9", "thuis": "240 machelen 1", "uit": "207 Les Deux Fous du Diogène 1"}
+      {"tr": "8", "ur": "8", "thuis": "261 Opwijk 3", "uit": "244 Brussels CC 2"},
+      {"tr": "8", "ur": "8", "thuis": "229 Woluwe 1", "uit": "114 K Mechelse SK 3"},
+      {"tr": "7", "ur": "9", "thuis": "201 CRE Bruxelles 3", "uit": "228 Dworp 1"},
+      {"tr": "9", "ur": "7", "thuis": "226 Europchess 3", "uit": "230 Leuven Centraal 3"},
+      {"tr": "6", "ur": "10", "thuis": "231 Dolle Toren Leuven 1", "uit": "232 Dark Knights Leuven 1"},
+      {"tr": "7", "ur": "9", "thuis": "240 Machelen 1", "uit": "207 Les Deux Fous du Diogène 1"}
     ]
   },
   {
     "ronde": "ronde 3",
     "datum": "02-11-2014",
     "uitslagen": [
-      {"tr": "9", "ur": "7", "thuis": "244 brussels chess club 2", "uit": "207 Les Deux Fous du Diogène 1"},
-      {"tr": "8", "ur": "8", "thuis": "232 dark knights leuven 1", "uit": "240 machelen 1"},
-      {"tr": "4", "ur": "12", "thuis": "230 leuven centraal 3", "uit": "231 dolle toren leuven 1"},
-      {"tr": "11", "ur": "5", "thuis": "228 dworp 1", "uit": "226 europchess 3"},
-      {"tr": "8", "ur": "8", "thuis": "114 mechelen 3", "uit": "201 cre bruxelles 3"},
-      {"tr": "8", "ur": "8", "thuis": "261 opwijk 3", "uit": "229 woluwe 1"}
+      {"tr": "9", "ur": "7", "thuis": "244 Brussels CC 2", "uit": "207 Les Deux Fous du Diogène 1"},
+      {"tr": "8", "ur": "8", "thuis": "232 Dark Knights Leuven 1", "uit": "240 Machelen 1"},
+      {"tr": "4", "ur": "12", "thuis": "230 Leuven Centraal 3", "uit": "231 Dolle Toren Leuven 1"},
+      {"tr": "11", "ur": "5", "thuis": "228 Dworp 1", "uit": "226 Europchess 3"},
+      {"tr": "8", "ur": "8", "thuis": "114 K Mechelse SK 3", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "8", "ur": "8", "thuis": "261 Opwijk 3", "uit": "229 Woluwe 1"}
     ]
   },
   {
     "ronde": "ronde 4",
     "datum": "16-11-2014",
     "uitslagen": [
-      {"tr": "8", "ur": "8", "thuis": "229 woluwe 1", "uit": "244 brussels chess club 2"},
-      {"tr": "8", "ur": "8", "thuis": "201 cre bruxelles 3", "uit": "261 opwijk 3"},
-      {"tr": "9", "ur": "7", "thuis": "226 europchess 3", "uit": "114 mechelen 3"},
-      {"tr": "5", "ur": "11", "thuis": "231 dolle toren leuven 1", "uit": "228 dworp 1"},
-      {"tr": "6", "ur": "10", "thuis": "240 machelen 1", "uit": "230 leuven centraal 3"},
-      {"tr": "8", "ur": "8", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "232 dark knights leuven 1"}
+      {"tr": "8", "ur": "8", "thuis": "229 Woluwe 1", "uit": "244 Brussels CC 2"},
+      {"tr": "8", "ur": "8", "thuis": "201 CRE Bruxelles 3", "uit": "261 Opwijk 3"},
+      {"tr": "9", "ur": "7", "thuis": "226 Europchess 3", "uit": "114 K Mechelse SK 3"},
+      {"tr": "5", "ur": "11", "thuis": "231 Dolle Toren Leuven 1", "uit": "228 Dworp 1"},
+      {"tr": "6", "ur": "10", "thuis": "240 Machelen 1", "uit": "230 Leuven Centraal 3"},
+      {"tr": "8", "ur": "8", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "232 Dark Knights Leuven 1"}
     ]
   },
   {
     "ronde": "ronde 5",
     "datum": "30-11-2014",
     "uitslagen": [
-      {"tr": "10", "ur": "6", "thuis": "244 brussels chess club 2", "uit": "232 dark knights leuven 1"},
-      {"tr": "9", "ur": "7", "thuis": "230 leuven centraal 3", "uit": "207 Les Deux Fous du Diogène 1"},
-      {"tr": "10", "ur": "6", "thuis": "228 dworp 1", "uit": "240 machelen 1"},
-      {"tr": "6", "ur": "10", "thuis": "114 mechelen 3", "uit": "231 dolle toren leuven 1"},
-      {"tr": "10", "ur": "6", "thuis": "261 opwijk 3", "uit": "226 europchess 3"},
-      {"tr": "10", "ur": "6", "thuis": "229 woluwe 1", "uit": "201 cre bruxelles 3"}
+      {"tr": "10", "ur": "6", "thuis": "244 Brussels CC 2", "uit": "232 Dark Knights Leuven 1"},
+      {"tr": "9", "ur": "7", "thuis": "230 Leuven Centraal 3", "uit": "207 Les Deux Fous du Diogène 1"},
+      {"tr": "10", "ur": "6", "thuis": "228 Dworp 1", "uit": "240 Machelen 1"},
+      {"tr": "6", "ur": "10", "thuis": "114 K Mechelse SK 3", "uit": "231 Dolle Toren Leuven 1"},
+      {"tr": "10", "ur": "6", "thuis": "261 Opwijk 3", "uit": "226 Europchess 3"},
+      {"tr": "10", "ur": "6", "thuis": "229 Woluwe 1", "uit": "201 CRE Bruxelles 3"}
     ]
   },
   {
     "ronde": "ronde 6",
     "datum": "11-01-2015",
     "uitslagen": [
-      {"tr": "4", "ur": "12", "thuis": "201 cre bruxelles 3", "uit": "244 brussels chess club 2"},
-      {"tr": "8", "ur": "8", "thuis": "226 europchess 3", "uit": "229 woluwe 1"},
-      {"tr": "5", "ur": "11", "thuis": "231 dolle toren leuven 1", "uit": "261 opwijk 3"},
-      {"tr": "8", "ur": "8", "thuis": "240 machelen 1", "uit": "114 mechelen 3"},
-      {"tr": "6", "ur": "10", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "228 dworp 1"},
-      {"tr": "9", "ur": "7", "thuis": "232 dark knights leuven 1", "uit": "230 leuven centraal 3"}
+      {"tr": "4", "ur": "12", "thuis": "201 CRE Bruxelles 3", "uit": "244 Brussels CC 2"},
+      {"tr": "8", "ur": "8", "thuis": "226 Europchess 3", "uit": "229 Woluwe 1"},
+      {"tr": "5", "ur": "11", "thuis": "231 Dolle Toren Leuven 1", "uit": "261 Opwijk 3"},
+      {"tr": "8", "ur": "8", "thuis": "240 Machelen 1", "uit": "114 K Mechelse SK 3"},
+      {"tr": "6", "ur": "10", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "228 Dworp 1"},
+      {"tr": "9", "ur": "7", "thuis": "232 Dark Knights Leuven 1", "uit": "230 Leuven Centraal 3"}
     ]
   },
   {
     "ronde": "ronde 7",
     "datum": "25-01-2015",
     "uitslagen": [
-      {"tr": "9", "ur": "7", "thuis": "244 brussels chess club 2", "uit": "230 leuven centraal 3"},
-      {"tr": "8", "ur": "8", "thuis": "228 dworp 1", "uit": "232 dark knights leuven 1"},
-      {"tr": "8", "ur": "8", "thuis": "114 mechelen 3", "uit": "207 Les Deux Fous du Diogène 1"},
-      {"tr": "9", "ur": "7", "thuis": "261 opwijk 3", "uit": "240 machelen 1"},
-      {"tr": "6", "ur": "9", "thuis": "229 woluwe 1", "uit": "231 dolle toren leuven 1"},
-      {"tr": "8", "ur": "8", "thuis": "201 cre bruxelles 3", "uit": "226 europchess 3"}
+      {"tr": "9", "ur": "7", "thuis": "244 Brussels CC 2", "uit": "230 Leuven Centraal 3"},
+      {"tr": "8", "ur": "8", "thuis": "228 Dworp 1", "uit": "232 Dark Knights Leuven 1"},
+      {"tr": "8", "ur": "8", "thuis": "114 K Mechelse SK 3", "uit": "207 Les Deux Fous du Diogène 1"},
+      {"tr": "9", "ur": "7", "thuis": "261 Opwijk 3", "uit": "240 Machelen 1"},
+      {"tr": "6", "ur": "9", "thuis": "229 Woluwe 1", "uit": "231 Dolle Toren Leuven 1"},
+      {"tr": "8", "ur": "8", "thuis": "201 CRE Bruxelles 3", "uit": "226 Europchess 3"}
     ]
   },
   {
     "ronde": "ronde 8",
     "datum": "08-02-2015",
     "uitslagen": [
-      {"tr": "7", "ur": "9", "thuis": "226 europchess 3", "uit": "244 brussels chess club 2"},
-      {"tr": "10", "ur": "6", "thuis": "231 dolle toren leuven 1", "uit": "201 cre bruxelles 3"},
-      {"tr": "9", "ur": "7", "thuis": "240 machelen 1", "uit": "229 woluwe 1"},
-      {"tr": "8", "ur": "8", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "261 opwijk 3"},
-      {"tr": "12", "ur": "4", "thuis": "232 dark knights leuven 1", "uit": "114 mechelen 3"},
-      {"tr": "4", "ur": "12", "thuis": "230 leuven centraal 3", "uit": "228 dworp 1"}
+      {"tr": "7", "ur": "9", "thuis": "226 Europchess 3", "uit": "244 Brussels CC 2"},
+      {"tr": "10", "ur": "6", "thuis": "231 Dolle Toren Leuven 1", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "9", "ur": "7", "thuis": "240 Machelen 1", "uit": "229 Woluwe 1"},
+      {"tr": "8", "ur": "8", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "261 Opwijk 3"},
+      {"tr": "12", "ur": "4", "thuis": "232 Dark Knights Leuven 1", "uit": "114 K Mechelse SK 3"},
+      {"tr": "4", "ur": "12", "thuis": "230 Leuven Centraal 3", "uit": "228 Dworp 1"}
     ]
   },
   {
     "ronde": "ronde 9",
     "datum": "01-03-2015",
     "uitslagen": [
-      {"tr": "7", "ur": "9", "thuis": "244 brussels chess club 2", "uit": "228 dworp 1"},
-      {"tr": "9", "ur": "7", "thuis": "114 mechelen 3", "uit": "230 leuven centraal 3"},
-      {"tr": "9", "ur": "6", "thuis": "261 opwijk 3", "uit": "232 dark knights leuven 1"},
-      {"tr": "10", "ur": "6", "thuis": "229 woluwe 1", "uit": "207 Les Deux Fous du Diogène 1"},
-      {"tr": "7", "ur": "9", "thuis": "201 cre bruxelles 3", "uit": "240 machelen 1"},
-      {"tr": "10", "ur": "6", "thuis": "226 europchess 3", "uit": "231 dolle toren leuven 1"}
+      {"tr": "7", "ur": "9", "thuis": "244 Brussels CC 2", "uit": "228 Dworp 1"},
+      {"tr": "9", "ur": "7", "thuis": "114 K Mechelse SK 3", "uit": "230 Leuven Centraal 3"},
+      {"tr": "9", "ur": "6", "thuis": "261 Opwijk 3", "uit": "232 Dark Knights Leuven 1"},
+      {"tr": "10", "ur": "6", "thuis": "229 Woluwe 1", "uit": "207 Les Deux Fous du Diogène 1"},
+      {"tr": "7", "ur": "9", "thuis": "201 CRE Bruxelles 3", "uit": "240 Machelen 1"},
+      {"tr": "10", "ur": "6", "thuis": "226 Europchess 3", "uit": "231 Dolle Toren Leuven 1"}
     ]
   },
   {
     "ronde": "ronde 10",
     "datum": "15-03-2015",
     "uitslagen": [
-      {"tr": "7", "ur": "9", "thuis": "231 dolle toren leuven 1", "uit": "244 brussels chess club 2"},
-      {"tr": "8", "ur": "8", "thuis": "240 machelen 1", "uit": "226 europchess 3"},
-      {"tr": "12", "ur": "3", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "201 cre bruxelles 3"},
-      {"tr": "7", "ur": "8", "thuis": "232 dark knights leuven 1", "uit": "229 woluwe 1"},
-      {"tr": "5", "ur": "11", "thuis": "230 leuven centraa; 3", "uit": "261 opwijk 3"},
-      {"tr": "9", "ur": "7", "thuis": "228 dworp 1", "uit": "114 mechelen 3"}
+      {"tr": "7", "ur": "9", "thuis": "231 Dolle Toren Leuven 1", "uit": "244 Brussels CC 2"},
+      {"tr": "8", "ur": "8", "thuis": "240 Machelen 1", "uit": "226 Europchess 3"},
+      {"tr": "12", "ur": "3", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "7", "ur": "8", "thuis": "232 Dark Knights Leuven 1", "uit": "229 Woluwe 1"},
+      {"tr": "5", "ur": "11", "thuis": "230 Leuven Centraal 3", "uit": "261 Opwijk 3"},
+      {"tr": "9", "ur": "7", "thuis": "228 Dworp 1", "uit": "114 K Mechelse SK 3"}
     ]
   },
   {
     "ronde": "ronde 11",
     "datum": "22-03-2015",
     "uitslagen": [
-      {"tr": "6", "ur": "10", "thuis": "114 mechelen 3", "uit": "244 brussels chess club 2"},
-      {"tr": "8", "ur": "7", "thuis": "261 opwijk 3", "uit": "228 dworp 1"},
-      {"tr": "8", "ur": "8", "thuis": "229 woluwe 1", "uit": "230 leuven centraal 3"},
-      {"tr": "7", "ur": "9", "thuis": "201 cre bruxelles 3", "uit": "232 dk leuven 1"},
-      {"tr": "10", "ur": "5", "thuis": "226 europchess 3", "uit": "207 Les Deux Fous du Diogène 1"},
-      {"tr": "7", "ur": "9", "thuis": "231 dolle toren leuven 1", "uit": "240 machelen 1"}
+      {"tr": "6", "ur": "10", "thuis": "114 K Mechelse SK 3", "uit": "244 Brussels CC 2"},
+      {"tr": "8", "ur": "7", "thuis": "261 Opwijk 3", "uit": "228 Dworp 1"},
+      {"tr": "8", "ur": "8", "thuis": "229 Woluwe 1", "uit": "230 Leuven Centraal 3"},
+      {"tr": "7", "ur": "9", "thuis": "201 CRE Bruxelles 3", "uit": "232 Dark Knights Leuven 1"},
+      {"tr": "10", "ur": "5", "thuis": "226 Europchess 3", "uit": "207 Les Deux Fous du Diogène 1"},
+      {"tr": "7", "ur": "9", "thuis": "231 Dolle Toren Leuven 1", "uit": "240 Machelen 1"}
     ]
   }
 ]
