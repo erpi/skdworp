@@ -6,7 +6,7 @@
       {"tr": "2", "ur": "2", "thuis": "961 Braine l'Alleud 2", "uit": "951 Lasne-Waterloo 2"},
       {"tr": "2.5", "ur": "1.5", "thuis": "226 Europchess 4", "uit": "952 Wavre 3"},
       {"tr": "1", "ur": "3", "thuis": "278 Pantin 4", "uit": "228 Dworp 2"},
-      {"tr": "", "ur": "", "thuis": "209 The Belgian CC 4", "uit": "bye"},
+      {"tr": "", "ur": "", "thuis": "209 The Belgian CC Anderlecht 4", "uit": "Bye"},
       {"tr": "4", "ur": "0", "thuis": "229 Woluwe 2", "uit": "233 DZD Halle 1"},
       {"tr": "1.5", "ur": "2.5", "thuis": "201 CRE Bruxelles 3", "uit": "953 Nivelles 1"}
     ]
@@ -17,8 +17,8 @@
     "uitslagen": [
       {"tr": "4", "ur": "0", "thuis": "953 Nivelles 1", "uit": "961 Braine l'Alleud 2"},
       {"tr": "0.5", "ur": "3.5", "thuis": "233 DZD Halle 1", "uit": "201 CRE Bruxelles 3"},
-      {"tr": "", "ur": "", "thuis": "bye", "uit": "229 Woluwe 2"},
-      {"tr": "3.5", "ur": "0.5", "thuis": "228 Dworp 2", "uit": "209 The Belgian CC 4"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "229 Woluwe 2"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "228 Dworp 2", "uit": "209 The Belgian CC Anderlecht 4"},
       {"tr": "0", "ur": "4", "thuis": "952 Wavre 3", "uit": "278 Pantin 4"},
       {"tr": "0", "ur": "4", "thuis": "951 Lasne-Waterloo 2", "uit": "226 Europchess 4"}
     ]
@@ -29,9 +29,9 @@
     "uitslagen": [
       {"tr": "3", "ur": "1", "thuis": "961 Braine l'Alleud 2", "uit": "226 Europchess 4"},
       {"tr": "2", "ur": "2", "thuis": "278 Pantin 4", "uit": "951 Lasne-Waterloo 2"},
-      {"tr": "1", "ur": "3", "thuis": "209 The Belgian CC 4", "uit": "952 Wavre 3"},
+      {"tr": "1", "ur": "3", "thuis": "209 The Belgian CC Anderlecht 4", "uit": "952 Wavre 3"},
       {"tr": "1", "ur": "3", "thuis": "229 Woluwe 2", "uit": "228 Dworp 2"},
-      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 3", "uit": "bye"},
+      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 3", "uit": "Bye"},
       {"tr": "3", "ur": "1", "thuis": "953 Nivelles 1", "uit": "233 DZD Halle 1"}
     ]
   },
@@ -40,10 +40,10 @@
     "datum": "19-11-2017",
     "uitslagen": [
       {"tr": "3.5", "ur": "0.5", "thuis": "233 DZD Halle 1", "uit": "961 Braine l'Alleud 2"},
-      {"tr": "", "ur": "", "thuis": "bye", "uit": "953 Nivelles 1"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "953 Nivelles 1"},
       {"tr": "1.5", "ur": "2.5", "thuis": "228 Dworp 2", "uit": "201 CRE Bruxelles 3"},
       {"tr": "1.5", "ur": "2.5", "thuis": "952 Wavre 3", "uit": "229 Woluwe 2"},
-      {"tr": "3", "ur": "1", "thuis": "951 Lasne-Waterloo 2", "uit": "209 The Belgian CC 4"},
+      {"tr": "3", "ur": "1", "thuis": "951 Lasne-Waterloo 2", "uit": "209 The Belgian CC Anderlecht 4"},
       {"tr": "3.5", "ur": "0.5", "thuis": "226 Europchess 4", "uit": "278 Pantin 4"}
     ]
   },
@@ -52,35 +52,35 @@
     "datum": "03-12-2017",
     "uitslagen": [
       {"tr": "0.5", "ur": "3.5", "thuis": "961 Braine l'Alleud 2", "uit": "278 Pantin 4"},
-      {"tr": "1", "ur": "3", "thuis": "209 The Belgian CC 4", "uit": "226 Europchess 4"},
+      {"tr": "1", "ur": "3", "thuis": "209 The Belgian CC Anderlecht 4", "uit": "226 Europchess 4"},
       {"tr": "3.5", "ur": "0.5", "thuis": "229 Woluwe 2", "uit": "951 Lasne-Waterloo 2"},
       {"tr": "1", "ur": "3", "thuis": "201 CRE Bruxelles 3", "uit": "952 Wavre 3"},
       {"tr": "1", "ur": "3", "thuis": "953 Nivelles 1", "uit": "228 Dworp 2"},
-      {"tr": "", "ur": "", "thuis": "233 DZD Halle 1", "uit": "bye"}
+      {"tr": "", "ur": "", "thuis": "233 DZD Halle 1", "uit": "Bye"}
     ]
   },
   {
     "ronde": "ronde 6",
     "datum": "04-02-2018",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "bye", "uit": "961 Braine l'Alleud 2"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "961 Braine l'Alleud 2"},
       {"tr": "4", "ur": "0", "thuis": "228 Dworp 2", "uit": "233 DZD Halle 1"},
       {"tr": "1.5", "ur": "2.5", "thuis": "952 Wavre 3", "uit": "953 Nivelles 1"},
       {"tr": "0.5", "ur": "3.5", "thuis": "951 Lasne-Waterloo 2", "uit": "201 CRE Bruxelles 3"},
       {"tr": "3", "ur": "1", "thuis": "226 Europchess 4", "uit": "229 Woluwe 2"},
-      {"tr": "4", "ur": "0", "thuis": "278 Pantin 4", "uit": "209 The Belgian CC 4"}
+      {"tr": "4", "ur": "0", "thuis": "278 Pantin 4", "uit": "209 The Belgian CC Anderlecht 4"}
     ]
   },
   {
     "ronde": "ronde 7",
     "datum": "25-02-2018",
     "uitslagen": [
-      {"tr": "0", "ur": "4", "thuis": "961 Braine l'Alleud 2", "uit": "209 The Belgian CC 4"},
+      {"tr": "0", "ur": "4", "thuis": "961 Braine l'Alleud 2", "uit": "209 The Belgian CC Anderlecht 4"},
       {"tr": "2", "ur": "2", "thuis": "229 Woluwe 2", "uit": "278 Pantin 4"},
       {"tr": "2.5", "ur": "1.5", "thuis": "201 CRE Bruxelles 3", "uit": "226 Europchess 4"},
       {"tr": "3", "ur": "1", "thuis": "953 Nivelles 1", "uit": "951 Lasne-Waterloo 2"},
       {"tr": "0", "ur": "4", "thuis": "233 DZD Halle 1", "uit": "952 Wavre 3"},
-      {"tr": "", "ur": "", "thuis": "bye", "uit": "228 Dworp 2"}
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "228 Dworp 2"}
     ]
   },
   {
@@ -88,11 +88,11 @@
     "datum": "11-03-2018",
     "uitslagen": [
       {"tr": "4", "ur": "0", "thuis": "228 Dworp 2", "uit": "961 Braine l'Alleud 2"},
-      {"tr": "", "ur": "", "thuis": "952 Wavre 3", "uit": "bye"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 3", "uit": "Bye"},
       {"tr": "2.5", "ur": "1.5", "thuis": "951 Lasne-Waterloo 2", "uit": "233 DZD Halle 1"},
       {"tr": "3", "ur": "1", "thuis": "226 Europchess 4", "uit": "953 Nivelles 1"},
       {"tr": "0", "ur": "4", "thuis": "278 Pantin 4", "uit": "201 CRE Bruxelles 3"},
-      {"tr": "2.5", "ur": "1.5", "thuis": "209 The Belgian CC 4", "uit": "229 Woluwe 2"}
+      {"tr": "2.5", "ur": "1.5", "thuis": "209 The Belgian CC Anderlecht 4", "uit": "229 Woluwe 2"}
     ]
   },
   {
@@ -100,10 +100,10 @@
     "datum": "25-03-2018",
     "uitslagen": [
       {"tr": "0", "ur": "4", "thuis": "961 Braine l'Alleud 2", "uit": "229 Woluwe 2"},
-      {"tr": "2.5", "ur": "1.5", "thuis": "201 CRE Bruxelles 3", "uit": "209 The Belgian CC 4"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "201 CRE Bruxelles 3", "uit": "209 The Belgian CC Anderlecht 4"},
       {"tr": "3", "ur": "1", "thuis": "953 Nivelles 1", "uit": "278 Pantin 4"},
       {"tr": "2", "ur": "2", "thuis": "233 DZD Halle 1", "uit": "226 Europchess 4"},
-      {"tr": "", "ur": "", "thuis": "bye", "uit": "951 Lasne-Waterloo 2"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "951 Lasne-Waterloo 2"},
       {"tr": "2.5", "ur": "1.5", "thuis": "228 Dworp 2", "uit": "952 Wavre 3"}
     ]
   },
@@ -113,9 +113,9 @@
     "uitslagen": [
       {"tr": "2.5", "ur": "1.5", "thuis": "952 Wavre 3", "uit": "961 Braine l'Alleud 2"},
       {"tr": "0", "ur": "4", "thuis": "951 Lasne-Waterloo 2", "uit": "228 Dworp 2"},
-      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "bye"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "Bye"},
       {"tr": "2", "ur": "2", "thuis": "278 Pantin 4", "uit": "233 DZD Halle 1"},
-      {"tr": "3", "ur": "1", "thuis": "209 The Belgian CC 4", "uit": "953 Nivelles 1"},
+      {"tr": "3", "ur": "1", "thuis": "209 The Belgian CC Anderlecht 4", "uit": "953 Nivelles 1"},
       {"tr": "1.5", "ur": "2.5", "thuis": "229 Woluwe 2", "uit": "201 CRE Bruxelles 3"}
     ]
   },
@@ -125,8 +125,8 @@
     "uitslagen": [
       {"tr": "4", "ur": "0", "thuis": "201 CRE Bruxelles 3", "uit": "961 Braine l'Alleud 2"},
       {"tr": "1", "ur": "3", "thuis": "953 Nivelles 1", "uit": "229 Woluwe 2"},
-      {"tr": "2", "ur": "2", "thuis": "233 DZD Halle 1", "uit": "209 The Belgian CC 4"},
-      {"tr": "", "ur": "", "thuis": "bye", "uit": "278 Pantin 4"},
+      {"tr": "2", "ur": "2", "thuis": "233 DZD Halle 1", "uit": "209 The Belgian CC Anderlecht 4"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "278 Pantin 4"},
       {"tr": "1.5", "ur": "2.5", "thuis": "228 Dworp 2", "uit": "226 Europchess 4"},
       {"tr": "1", "ur": "3", "thuis": "952 Wavre 3", "uit": "951 Lasne-Waterloo 2"}
     ]
