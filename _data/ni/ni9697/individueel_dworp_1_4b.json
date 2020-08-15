@@ -19,7 +19,7 @@
     "ronde": "2",
     "datum": "20-10-1996",
     "thuis": "228 Dworp 1",
-    "uit": "153 Rijke Vorst 1",
+    "uit": "153 Rijke Vorst Rijkevorsel 1",
     "tscore": "1.5",
     "uscore": "2.5",
     "tgem": "1866",
@@ -115,16 +115,16 @@
     "ronde": "8",
     "datum": "26-01-1997",
     "thuis": "228 Dworp 1",
-    "uit": "166 TSM Mechelen 2",
-    "tscore": "3",
-    "uscore": "1",
+    "uit": "166 TS Mechelen 2",
+    "tscore": "2.5",
+    "uscore": "1.5",
     "tgem": "1889",
     "ugem": "1827",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "Van Hoof Wilfried", "telo": "1977", "uelo": "1887", "tstam": "2283", "ustam": "27260"},
+      {"tr": "0", "ur": "1", "tspeler": "Taelemans Werner", "uspeler": "Van Hoof Wilfried", "telo": "1977", "uelo": "1887", "tstam": "2283", "ustam": "27260"},
       {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Verlinden Patrick", "telo": "1887", "uelo": "1843", "tstam": "76325", "ustam": "54917"},
       {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "Lesage Christiaan", "telo": "1852", "uelo": "1805", "tstam": "353", "ustam": "2364"},
-      {"tr": "0", "ur": "1", "tspeler": "van Duuren Louis", "uspeler": "Deweerdt Jan", "telo": "1841", "uelo": "1774", "tstam": "26816", "ustam": "13315"}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "van Duuren Louis", "uspeler": "Deweerdt Jan", "telo": "1841", "uelo": "1774", "tstam": "26816", "ustam": "13315"}
     ]
   },
   {

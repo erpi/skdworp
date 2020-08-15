@@ -66,7 +66,7 @@
   {
     "ronde": "5",
     "datum": "01-12-1996",
-    "thuis": "464 Sint-Gillis 2",
+    "thuis": "464 Sint-Gillis-Waas 2",
     "uit": "228 Dworp 3",
     "tscore": "2",
     "uscore": "2",
@@ -98,7 +98,7 @@
   {
     "ronde": "7",
     "datum": "12-01-1998",
-    "thuis": "401 Ruy Lopez Gent 12",
+    "thuis": "401 K Gentse SRL 12",
     "uit": "228 Dworp 3",
     "tscore": "0.5",
     "uscore": "3.5",
@@ -147,7 +147,7 @@
     "ronde": "10",
     "datum": "26-01-1997",
     "thuis": "228 Dworp 3",
-    "uit": "402 Jean Jaures Gent 7",
+    "uit": "402 Jean Jaur\u00e8s Gent 7",
     "tscore": "4",
     "uscore": "0",
     "tgem": "1806",
@@ -162,7 +162,7 @@
   {
     "ronde": "11",
     "datum": "16-03-1997",
-    "thuis": "472 Mercatel Gent 3",
+    "thuis": "472 Mercatel Sint-Amandsberg 3",
     "uit": "228 Dworp 3",
     "tscore": "0",
     "uscore": "4",
