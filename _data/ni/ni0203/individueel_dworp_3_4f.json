@@ -134,10 +134,10 @@
     "uit": "410 Sint-Niklaas 2",
     "tscore": "2.5",
     "uscore": "1.5",
-    "tgem": "1814",
-    "ugem": "1750",
+    "tgem": "1940",
+    "ugem": "1790",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "1F", "ur": "0F", "tspeler": "Vanderwaeren Serge", "uspeler": "Coppens Leon (forfait)", "telo": "2317", "uelo": "1909", "tstam": "20621", "ustam": "13609"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Van Mullem Frans", "telo": "1854", "uelo": "1873", "tstam": "76333", "ustam": "13927"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Weyers Wim", "telo": "1802", "uelo": "1803", "tstam": "76317", "ustam": "55573"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet Bernard", "uspeler": "Tiels Jan", "telo": "1787", "uelo": "1574", "tstam": "31348", "ustam": "30287"}

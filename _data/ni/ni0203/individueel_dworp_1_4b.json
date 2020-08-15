@@ -6,10 +6,10 @@
     "uit": "228 Dworp 1",
     "tscore": "3.5",
     "uscore": "0.5",
-    "tgem": "1855",
-    "ugem": "1556",
+    "tgem": "1890",
+    "ugem": "1642",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "1F", "ur": "0F", "tspeler": "Vande Velde Erik", "uspeler": "Maeckelbergh Geert (forfait)", "telo": "1997", "uelo": "1898", "tstam": "45420", "ustam": "43419"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Lavet Theo", "uspeler": "Lot Diederik", "telo": "1984", "uelo": "1834", "tstam": "11622", "ustam": "9954"},
       {"tr": "1", "ur": "0", "tspeler": "Vennekens Camiel", "uspeler": "Malfliet Koen", "telo": "1910", "uelo": "1475", "tstam": "37168", "ustam": "64327"},
       {"tr": "1", "ur": "0", "tspeler": "Vervoort Marc", "uspeler": "Puttemans Patrick", "telo": "1670", "uelo": "1359", "tstam": "37435", "ustam": "28681"}
@@ -19,13 +19,13 @@
     "ronde": "2",
     "datum": "20-10-2002",
     "thuis": "228 Dworp 1",
-    "uit": "166 TSM Mechelen 3",
+    "uit": "166 TS Mechelen 3",
     "tscore": "1",
     "uscore": "3",
-    "tgem": "1556",
-    "ugem": "1713",
+    "tgem": "1642",
+    "ugem": "1760",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "0F", "ur": "1F", "tspeler": "Maeckelbergh Geert (forfait)", "uspeler": "Lesagne Christiaan", "telo": "1898", "uelo": "1902", "tstam": "43419", "ustam": "2364"},
       {"tr": "1", "ur": "0", "tspeler": "Lot Diederik", "uspeler": "Verlinden Patrick", "telo": "1834", "uelo": "1820", "tstam": "9954", "ustam": "54917"},
       {"tr": "0", "ur": "1", "tspeler": "Malfliet Koen", "uspeler": "Schepers Koen", "telo": "1475", "uelo": "1677", "tstam": "64327", "ustam": "19496"},
       {"tr": "0", "ur": "1", "tspeler": "Puttemans Patrick", "uspeler": "Verbruggen Jos\u00e9", "telo": "1359", "uelo": "1642", "tstam": "28681", "ustam": "23604"}
@@ -82,18 +82,13 @@
   {
     "ronde": "6",
     "datum": "12-01-2003",
-    "thuis": "",
+    "thuis": "Bye",
     "uit": "228 Dworp 1",
     "tscore": "",
     "uscore": "",
     "tgem": "",
     "ugem": "",
-    "borden": [
-      {"tr": "", "ur": "", "tspeler": "", "uspeler": "(bye)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "", "uspeler": "(bye)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "", "uspeler": "(bye)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "", "uspeler": "(bye)", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
-    ]
+    "borden": []
   },
   {
     "ronde": "7",
@@ -102,10 +97,10 @@
     "uit": "260 Humbeek 2",
     "tscore": "1.5",
     "uscore": "2.5",
-    "tgem": "1556",
-    "ugem": "1645",
+    "tgem": "1642",
+    "ugem": "1658",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "0F", "ur": "1F", "tspeler": "Maeckelbergh Geert (forfait)", "uspeler": "Van Nooten Stijn", "telo": "1898", "uelo": "1696", "tstam": "43419", "ustam": "51462"},
       {"tr": "1", "ur": "0", "tspeler": "Lot Diederik", "uspeler": "Van Der Vurst Arne", "telo": "1834", "uelo": "1693", "tstam": "9954", "ustam": "52736"},
       {"tr": "0", "ur": "1", "tspeler": "Malfliet Koen", "uspeler": "Barb\u00e9 Tom", "telo": "1475", "uelo": "1573", "tstam": "64327", "ustam": "42838"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Puttemans Patrick", "uspeler": "Valcke Rudy", "telo": "1359", "uelo": "1670", "tstam": "28681", "ustam": "14419"}
@@ -114,7 +109,7 @@
   {
     "ronde": "8",
     "datum": "09-02-2003",
-    "thuis": "143 Temse 5",
+    "thuis": "143 Boey Temse 5",
     "uit": "228 Dworp 1",
     "tscore": "3",
     "uscore": "1",
@@ -166,13 +161,13 @@
     "uit": "174 Brasschaat 3",
     "tscore": "2",
     "uscore": "2",
-    "tgem": "1688",
-    "ugem": "1836",
+    "tgem": "1609",
+    "ugem": "1807",
     "borden": [
       {"tr": "1", "ur": "0", "tspeler": "Lot Diederik", "uspeler": "Broeckmeyer Walter", "telo": "1865", "uelo": "1866", "tstam": "9954", "ustam": "80616"},
       {"tr": "0", "ur": "1", "tspeler": "van Duuren Louis", "uspeler": "Plompen Wim", "telo": "1767", "uelo": "1867", "tstam": "26816", "ustam": "49778"},
       {"tr": "1", "ur": "0", "tspeler": "Malfliet Koen", "uspeler": "De Weerd Ludo", "telo": "1433", "uelo": "1775", "tstam": "64327", "ustam": "57070"},
-      {"tr": "0", "ur": "1", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
+      {"tr": "0F", "ur": "1F", "tspeler": "Puttemans Patrick (forfait)", "uspeler": "Van Camp Koen", "telo": "1372", "uelo": "1718", "tstam": "28681", "ustam": "57789"}
     ]
   }
 ]

@@ -6,10 +6,10 @@
     "uit": "228 Dworp 2",
     "tscore": "3",
     "uscore": "1",
-    "tgem": "1905",
-    "ugem": "1708",
+    "tgem": "1917",
+    "ugem": "1749",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "1F", "ur": "0F", "tspeler": "Macai Ioan", "uspeler": "Maeckelbergh Anne-Marie (forfait)", "telo": "1953", "uelo": "1872", "tstam": "92312", "ustam": "353"},
       {"tr": "1", "ur": "0", "tspeler": "Bousselmati Youssef", "uspeler": "De Bosscher Peter", "telo": "1942", "uelo": "1828", "tstam": "73423", "ustam": "655"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Brion Sophie", "uspeler": "Ertveldt Pieter", "telo": "1931", "uelo": "1777", "tstam": "66575", "ustam": "48097"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Brion Philippe", "uspeler": "Dekoster Pascal", "telo": "1842", "uelo": "1520", "tstam": "74888", "ustam": "54658"}
@@ -19,14 +19,14 @@
     "ronde": "2",
     "datum": "20-10-2002",
     "thuis": "228 Dworp 2",
-    "uit": "244 Brussels 3",
+    "uit": "244 Brussels CC 3",
     "tscore": "2",
     "uscore": "2",
-    "tgem": "1803",
-    "ugem": "1717",
+    "tgem": "1830",
+    "ugem": "1733",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "0", "ur": "1", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "0F", "ur": "1F", "tspeler": "Maeckelbergh Anne-Marie (forfait)", "uspeler": "Coosemans Alphonse", "telo": "1872", "uelo": "1755", "tstam": "353", "ustam": "70254"},
+      {"tr": "0F", "ur": "1F", "tspeler": "Van Helder Dirk (forfait)", "uspeler": "Lambert Michel", "telo": "1841", "uelo": "1744", "tstam": "77445", "ustam": "80918"},
       {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Boelen Michel", "telo": "1828", "uelo": "1720", "tstam": "655", "ustam": "50016"},
       {"tr": "1", "ur": "0", "tspeler": "Ertveldt Pieter", "uspeler": "Fischer Marc", "telo": "1777", "uelo": "1714", "tstam": "48097", "ustam": "86509"}
     ]
@@ -131,7 +131,7 @@
     "ronde": "9",
     "datum": "23-02-2003",
     "thuis": "228 Dworp 2",
-    "uit": "209 SK Anderlecht 3",
+    "uit": "209 CC Anderlecht 3",
     "tscore": "1.5",
     "uscore": "2.5",
     "tgem": "1778",
@@ -146,7 +146,7 @@
   {
     "ronde": "10",
     "datum": "09-03-2003",
-    "thuis": "951 Lasne 2",
+    "thuis": "951 Lasne-Waterloo 2",
     "uit": "228 Dworp 2",
     "tscore": "1",
     "uscore": "3",
