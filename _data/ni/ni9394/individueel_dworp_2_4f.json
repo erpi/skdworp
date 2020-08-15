@@ -26,7 +26,7 @@
     "ugem": "1693",
     "borden": [
       {"tr": "1", "ur": "0", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Saenen Ren\u00e9", "telo": "2025", "uelo": "1775", "tstam": "31526", "ustam": "17515"},
-      {"tr": "1", "ur": "0f", "tspeler": "Maeckelbergh Mieke", "uspeler": "De Jonckheere Gilbert", "telo": "1946", "uelo": "1744", "tstam": "353", "ustam": "12556"},
+      {"tr": "1F", "ur": "0F", "tspeler": "Maeckelbergh Mieke", "uspeler": "De Jonckheere Gilbert (forfait)", "telo": "1946", "uelo": "1744", "tstam": "353", "ustam": "12556"},
       {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Geert", "uspeler": "Jacobs Alphonse", "telo": "1848", "uelo": "1731", "tstam": "43419", "ustam": "96431"},
       {"tr": "1", "ur": "0", "tspeler": "Lemmens Pierre", "uspeler": "Lamair Dani\u00ebl", "telo": "1838", "uelo": "1521", "tstam": "19313", "ustam": "96440"}
     ]
