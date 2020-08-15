@@ -2,177 +2,177 @@
   {
     "ronde": "1",
     "datum": "22-09-2013",
-    "thuis": "810 marche 1",
-    "uit": "228 dworp 1",
+    "thuis": "810 Marche 1",
+    "uit": "228 Dworp 1",
     "tscore": 2.0,
     "uscore": 2.0,
     "tgem": 1825,
     "ugem": 1909,
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "boclinville patrick", "uspeler": "vanderwaeren serge", "telo": 2015, "uelo": 2200, "tstam": 78514, "ustam": 20621},
-      {"tr": "1", "ur": "0", "tspeler": "geerts wilfried", "uspeler": "van duuren louis", "telo": 1895, "uelo": 1891, "tstam": 574, "ustam": 26816},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "dublet emilien", "uspeler": "maeckelbergh geert", "telo": 1699, "uelo": 1830, "tstam": 85456, "ustam": 43419},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "pirard xavier", "uspeler": "cornelis eric", "telo": 1690, "uelo": 1714, "tstam": 60525, "ustam": 76317}
+      {"tr": "0", "ur": "1", "tspeler": "Boclinville Patrick", "uspeler": "Vanderwaeren Serge", "telo": 2015, "uelo": 2200, "tstam": 78514, "ustam": 20621},
+      {"tr": "1", "ur": "0", "tspeler": "Geerts Wilfried", "uspeler": "van Duuren Louis", "telo": 1895, "uelo": 1891, "tstam": 574, "ustam": 26816},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Dublet Emilien", "uspeler": "Maeckelbergh Geert", "telo": 1699, "uelo": 1830, "tstam": 85456, "ustam": 43419},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Pirard Xavier", "uspeler": "Cornelis Eric", "telo": 1690, "uelo": 1714, "tstam": 60525, "ustam": 76317}
     ]
   },
   {
     "ronde": "2",
     "datum": "29-09-2013",
-    "thuis": "228 dworp 1",
-    "uit": "514 fontaine 4",
+    "thuis": "228 Dworp 1",
+    "uit": "514 Fontaine 4",
     "tscore": 3,
     "uscore": 1,
     "tgem": 1912,
     "ugem": 1607,
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "vanderwaeren serge", "uspeler": "thirion benoit", "telo": 2200, "uelo": 1767, "tstam": 20621, "ustam": 59561},
-      {"tr": "1", "ur": "0", "tspeler": "van duuren louis", "uspeler": "barbarossa frederic", "telo": 1891, "uelo": 1635, "tstam": 26816, "ustam": 57193},
-      {"tr": "0", "ur": "1", "tspeler": "maeckelbergh anne-marie", "uspeler": "dejasse daniel", "telo": 1843, "uelo": 1520, "tstam": 353, "ustam": 63371},
-      {"tr": "1", "ur": "0", "tspeler": "cornelis eric", "uspeler": "montagne jean-claude", "telo": 1714, "uelo": 1507, "tstam": 76317, "ustam": 64548}
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "Thirion Benoit", "telo": 2200, "uelo": 1767, "tstam": 20621, "ustam": 59561},
+      {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "Barbarossa Frederic", "telo": 1891, "uelo": 1635, "tstam": 26816, "ustam": 57193},
+      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Anne-Marie", "uspeler": "Dejasse Daniel", "telo": 1843, "uelo": 1520, "tstam": 353, "ustam": 63371},
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis Eric", "uspeler": "Montagne Jean-Claude", "telo": 1714, "uelo": 1507, "tstam": 76317, "ustam": 64548}
     ]
   },
   {
     "ronde": "3",
     "datum": "13-10-2013",
-    "thuis": "618 amay 3",
-    "uit": "228 dworp 1",
+    "thuis": "618 Amay 3",
+    "uit": "228 Dworp 1",
     "tscore": 0.5,
     "uscore": 3.5,
     "tgem": 1779,
     "ugem": 1912,
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "wolf pierre", "uspeler": "vanderwaeren serge", "telo": 1864, "uelo": 2200, "tstam": 67661, "ustam": 20621},
-      {"tr": "0", "ur": "1", "tspeler": "halleux daniel", "uspeler": "van duuren louis", "telo": 1817, "uelo": 1891, "tstam": 9113, "ustam": 26816},
-      {"tr": "0", "ur": "1", "tspeler": "wirth charles", "uspeler": "maeckelbergh anne-marie", "telo": 1802, "uelo": 1843, "tstam": 92819, "ustam": 353},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "reyskens jules", "uspeler": "cornelis eric", "telo": 1634, "uelo": 1714, "tstam": 97012, "ustam": 76317}
+      {"tr": "0", "ur": "1", "tspeler": "Wolf Pierre", "uspeler": "Vanderwaeren Serge", "telo": 1864, "uelo": 2200, "tstam": 67661, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "Halleux Daniel", "uspeler": "van Duuren Louis", "telo": 1817, "uelo": 1891, "tstam": 9113, "ustam": 26816},
+      {"tr": "0", "ur": "1", "tspeler": "Wirth Charles", "uspeler": "Maeckelbergh Anne-Marie", "telo": 1802, "uelo": 1843, "tstam": 92819, "ustam": 353},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Reyskens Jules", "uspeler": "Cornelis Eric", "telo": 1634, "uelo": 1714, "tstam": 97012, "ustam": 76317}
     ]
   },
   {
     "ronde": "4",
     "datum": "17-11-2013",
-    "thuis": "228 dworp 1",
-    "uit": "953 nivelles 1",
+    "thuis": "228 Dworp 1",
+    "uit": "953 Nivelles 1",
     "tscore": 3.5,
     "uscore": 0.5,
     "tgem": 1901,
     "ugem": 1513,
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "vanderwaeren serge", "uspeler": "marchal patrice", "telo": 2200, "uelo": 1896, "tstam": 20621, "ustam": 76601},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "van duuren louis", "uspeler": "marchal laurent", "telo": 1891, "uelo": 1496, "tstam": 26816, "ustam": 60517},
-      {"tr": "1", "ur": "0", "tspeler": "de bosscher peter", "uspeler": "monnier samuel", "telo": 1799, "uelo": 1486, "tstam": 655, "ustam": 97301},
-      {"tr": "1", "ur": "0", "tspeler": "cornelis eric", "uspeler": "marchal anais", "telo": 1714, "uelo": 1173, "tstam": 76317, "ustam": 12610}
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "Marchal Patrice", "telo": 2200, "uelo": 1896, "tstam": 20621, "ustam": 76601},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "van Duuren Louis", "uspeler": "Marchal Laurent", "telo": 1891, "uelo": 1496, "tstam": 26816, "ustam": 60517},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Monnier Samuel", "telo": 1799, "uelo": 1486, "tstam": 655, "ustam": 97301},
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis Eric", "uspeler": "Marchal Anais", "telo": 1714, "uelo": 1173, "tstam": 76317, "ustam": 12610}
     ]
   },
   {
     "ronde": "5",
     "datum": "01-12-2013",
-    "thuis": "538 fleurus 2",
-    "uit": "228 dworp 1",
+    "thuis": "538 Fleurus 2",
+    "uit": "228 Dworp 1",
     "tscore": 2,
     "uscore": 2,
     "tgem": 1757,
     "ugem": 1897,
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "detraux denis", "uspeler": "vanderwaeren serge", "telo": 1867, "uelo": 2200, "tstam": 83348, "ustam": 20621},
-      {"tr": "1", "ur": "0", "tspeler": "stilmant thierry", "uspeler": "maeckelbergh anne-marie", "telo": 1855, "uelo": 1843, "tstam": 75990, "ustam": 353},
-      {"tr": "0", "ur": "1", "tspeler": "abbeloos philippe", "uspeler": "maeckelbergh geert", "telo": 1730, "uelo": 1830, "tstam": 72567, "ustam": 43419},
-      {"tr": "1", "ur": "0", "tspeler": "pieroni severino", "uspeler": "cornelis eric", "telo": 1574, "uelo": 1714, "tstam": 62901, "ustam": 76317}
+      {"tr": "0", "ur": "1", "tspeler": "Detraux Denis", "uspeler": "Vanderwaeren Serge", "telo": 1867, "uelo": 2200, "tstam": 83348, "ustam": 20621},
+      {"tr": "1", "ur": "0", "tspeler": "Stilmant Thierry", "uspeler": "Maeckelbergh Anne-Marie", "telo": 1855, "uelo": 1843, "tstam": 75990, "ustam": 353},
+      {"tr": "0", "ur": "1", "tspeler": "Abbeloos Philippe", "uspeler": "Maeckelbergh Geert", "telo": 1730, "uelo": 1830, "tstam": 72567, "ustam": 43419},
+      {"tr": "1", "ur": "0", "tspeler": "Pieroni Severino", "uspeler": "Cornelis Eric", "telo": 1574, "uelo": 1714, "tstam": 62901, "ustam": 76317}
     ]
   },
   {
     "ronde": "6",
     "datum": "15-12-2013",
-    "thuis": "228 dworp 1",
-    "uit": "548 caissa europe 2",
+    "thuis": "228 Dworp 1",
+    "uit": "548 Caïssa Europe Mons 2",
     "tscore": 1,
     "uscore": 3,
     "tgem": 1909,
     "ugem": 1879,
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "vanderwaeren serge", "uspeler": "de noose daniel", "telo": 2200, "uelo": 1913, "tstam": 20621, "ustam": 90883},
-      {"tr": "0", "ur": "1", "tspeler": "van duuren louis", "uspeler": "canneel daniel", "telo": 1891, "uelo": 1946, "tstam": 26816, "ustam": 50113},
-      {"tr": "0", "ur": "1", "tspeler": "maeckelbergh geert", "uspeler": "degrave geoffrey", "telo": 1830, "uelo": 1924, "tstam": 43419, "ustam": 81388},
-      {"tr": "0", "ur": "1", "tspeler": "cornelis eric", "uspeler": "noe philippe", "telo": 1714, "uelo": 1733, "tstam": 76317, "ustam": 93122}
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "De Noose Daniel", "telo": 2200, "uelo": 1913, "tstam": 20621, "ustam": 90883},
+      {"tr": "0", "ur": "1", "tspeler": "van Duuren Louis", "uspeler": "Canneel Daniel", "telo": 1891, "uelo": 1946, "tstam": 26816, "ustam": 50113},
+      {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Geert", "uspeler": "Degrave Geoffrey", "telo": 1830, "uelo": 1924, "tstam": 43419, "ustam": 81388},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Noe Philippe", "telo": 1714, "uelo": 1733, "tstam": 76317, "ustam": 93122}
     ]
   },
   {
     "ronde": "7",
     "datum": "12-01-2014",
-    "thuis": "952 wavre 2",
-    "uit": "228 dworp 1",
+    "thuis": "952 Wavre 2",
+    "uit": "228 Dworp 1",
     "tscore": 1,
     "uscore": 3,
     "tgem": 1790,
     "ugem": 1830,
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "bouchat xavier", "uspeler": "vanderwaeren serge", "telo": 1950, "uelo": 2200, "tstam": 70602, "ustam": 20621},
-      {"tr": "0", "ur": "1", "tspeler": "hulet gerard", "uspeler": "van duuren louis", "telo": 1791, "uelo": 1891, "tstam": 81906, "ustam": 26816},
-      {"tr": "1", "ur": "0", "tspeler": "tossens alain", "uspeler": "cornelis eric", "telo": 1759, "uelo": 1714, "tstam": 94561, "ustam": 76317},
-      {"tr": "0", "ur": "1", "tspeler": "meunier willy", "uspeler": "huysman robert", "telo": 1661, "uelo": 1514, "tstam": 1279, "ustam": 15482}
+      {"tr": "0", "ur": "1", "tspeler": "Bouchat Xavier", "uspeler": "Vanderwaeren Serge", "telo": 1950, "uelo": 2200, "tstam": 70602, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "Hulet Gerard", "uspeler": "van Duuren Louis", "telo": 1791, "uelo": 1891, "tstam": 81906, "ustam": 26816},
+      {"tr": "1", "ur": "0", "tspeler": "Tossens Alain", "uspeler": "Cornelis Eric", "telo": 1759, "uelo": 1714, "tstam": 94561, "ustam": 76317},
+      {"tr": "0", "ur": "1", "tspeler": "Meunier Willy", "uspeler": "Huysman Robert", "telo": 1661, "uelo": 1514, "tstam": 1279, "ustam": 15482}
     ]
   },
   {
     "ronde": "8",
     "datum": "26-01-2014",
-    "thuis": "228 dworp 1",
-    "uit": "601 crele liège 4",
+    "thuis": "228 Dworp 1",
+    "uit": "601 CRE Liège EL 4",
     "tscore": 2,
     "uscore": 2,
     "tgem": 1901,
     "ugem": 1845,
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "vanderwaeren serge", "uspeler": "poljakovic sejfudin", "telo": 2200, "uelo": 1951, "tstam": 20621, "ustam": 82988},
-      {"tr": "0", "ur": "1", "tspeler": "van duuren louis", "uspeler": "valentiny benoit", "telo": 1891, "uelo": 1847, "tstam": 26816, "ustam": 70297},
-      {"tr": "1", "ur": "0", "tspeler": "de bosscher peter", "uspeler": "vagner fabian", "telo": 1799, "uelo": 1836, "tstam": 655, "ustam": 84671},
-      {"tr": "0", "ur": "1", "tspeler": "cornelis eric", "uspeler": "delcour errol", "telo": 1714, "uelo": 1745, "tstam": 76317, "ustam": 58092}
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "Poljakovic Sejfudin", "telo": 2200, "uelo": 1951, "tstam": 20621, "ustam": 82988},
+      {"tr": "0", "ur": "1", "tspeler": "van Duuren Louis", "uspeler": "Valentiny Benoit", "telo": 1891, "uelo": 1847, "tstam": 26816, "ustam": 70297},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Vagner Fabian", "telo": 1799, "uelo": 1836, "tstam": 655, "ustam": 84671},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Delcour Errol", "telo": 1714, "uelo": 1745, "tstam": 76317, "ustam": 58092}
     ]
   },
   {
     "ronde": "9",
     "datum": "09-02-2014",
-    "thuis": "518 soignies 1",
-    "uit": "228 dworp 1",
+    "thuis": "518 Soignies 1",
+    "uit": "228 Dworp 1",
     "tscore": 2.5,
     "uscore": 1.5,
     "tgem": 1909,
     "ugem": 1909,
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "dupuis cedric", "uspeler": "vanderwaeren serge", "telo": 1951, "uelo": 2200, "tstam": 96105, "ustam": 20621},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "watelet sylvain", "uspeler": "van duuren louis", "telo": 1910, "uelo": 1891, "tstam": 69892, "ustam": 26816},
-      {"tr": "1", "ur": "0", "tspeler": "ooghe jean-marie", "uspeler": "maeckelbergh geert", "telo": 1891, "uelo": 1830, "tstam": 70742, "ustam": 43419},
-      {"tr": "1", "ur": "0", "tspeler": "meyvisch jean-christophe", "uspeler": "cornelis eric", "telo": 1882, "uelo": 1714, "tstam": 73784, "ustam": 76317}
+      {"tr": "0", "ur": "1", "tspeler": "Dupuis Cedric", "uspeler": "Vanderwaeren Serge", "telo": 1951, "uelo": 2200, "tstam": 96105, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Watelet Sylvain", "uspeler": "van Duuren Louis", "telo": 1910, "uelo": 1891, "tstam": 69892, "ustam": 26816},
+      {"tr": "1", "ur": "0", "tspeler": "Ooghe Jean-Marie", "uspeler": "Maeckelbergh Geert", "telo": 1891, "uelo": 1830, "tstam": 70742, "ustam": 43419},
+      {"tr": "1", "ur": "0", "tspeler": "Meyvisch Jean-Christophe", "uspeler": "Cornelis Eric", "telo": 1882, "uelo": 1714, "tstam": 73784, "ustam": 76317}
     ]
   },
   {
     "ronde": "10",
     "datum": "23-02-2014",
-    "thuis": "228 dworp 1",
-    "uit": "909 philippeville 1",
+    "thuis": "228 Dworp 1",
+    "uit": "909 Philippeville 1",
     "tscore": 2.5,
     "uscore": 1.5,
     "tgem": 1891,
     "ugem": 1780,
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "vanderwaeren serge", "uspeler": "dessomme francois", "telo": 2200, "uelo": 1984, "tstam": 20621, "ustam": 74063},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "van duuren louis", "uspeler": "demeirleir alain", "telo": 1891, "uelo": 1731, "tstam": 26816, "ustam": 92711},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "malfliet bernard", "uspeler": "albert julien", "telo": 1758, "uelo": 1682, "tstam": 31348, "ustam": 77381},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "cornelis eric", "uspeler": "dembour luc", "telo": 1714, "uelo": 1723, "tstam": 76317, "ustam": 96717}
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "Dessomme Francois", "telo": 2200, "uelo": 1984, "tstam": 20621, "ustam": 74063},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "van Duuren Louis", "uspeler": "Demeirleir Alain", "telo": 1891, "uelo": 1731, "tstam": 26816, "ustam": 92711},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet Bernard", "uspeler": "Albert Julien", "telo": 1758, "uelo": 1682, "tstam": 31348, "ustam": 77381},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Dembour Luc", "telo": 1714, "uelo": 1723, "tstam": 76317, "ustam": 96717}
     ]
   },
   {
     "ronde": "11",
     "datum": "16-03-2014",
-    "thuis": "521 tournai 1",
-    "uit": "228 dworp 1",
+    "thuis": "521 Tournai 1",
+    "uit": "228 Dworp 1",
     "tscore": 1,
     "uscore": 3,
     "tgem": 1530,
     "ugem": 1818,
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "gueuning thomas", "uspeler": "vanderwaeren serge", "telo": 1689, "uelo": 2200, "tstam": 82333, "ustam": 20621},
-      {"tr": "0", "ur": "1", "tspeler": "skowron jean-pol", "uspeler": "maeckelbergh anne-marie", "telo": 1649, "uelo": 1843, "tstam": 77348, "ustam": 353},
-      {"tr": "1", "ur": "0", "tspeler": "roccazzella salvatore", "uspeler": "cornelis eric", "telo": 1486, "uelo": 1714, "tstam": 14266, "ustam": 76317},
-      {"tr": "0", "ur": "1", "tspeler": "tytgat thibaut", "uspeler": "huysman robert", "telo": 1296, "uelo": 1514, "tstam": 13807, "ustam": 15482}
+      {"tr": "0", "ur": "1", "tspeler": "Gueuning Thomas", "uspeler": "Vanderwaeren Serge", "telo": 1689, "uelo": 2200, "tstam": 82333, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "Skowron Jean-Pol", "uspeler": "Maeckelbergh Anne-Marie", "telo": 1649, "uelo": 1843, "tstam": 77348, "ustam": 353},
+      {"tr": "1", "ur": "0", "tspeler": "Roccazzella Salvatore", "uspeler": "Cornelis Eric", "telo": 1486, "uelo": 1714, "tstam": 14266, "ustam": 76317},
+      {"tr": "0", "ur": "1", "tspeler": "Tytgat Thibaut", "uspeler": "Huysman Robert", "telo": 1296, "uelo": 1514, "tstam": 13807, "ustam": 15482}
     ]
   }
 ]
