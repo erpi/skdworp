@@ -3,132 +3,132 @@
     "ronde": "ronde 1",
     "datum": "26-09-2010",
     "uitslagen": [
-      {"tr": "9", "ur": "7", "thuis": "514 fontaine 3", "uit": "201 cre bruxelles 3"},
-      {"tr": "7", "ur": "9", "thuis": "953 nivelles 1", "uit": "548 caissa europe 4"},
-      {"tr": "6", "ur": "10", "thuis": "518 soignies 1", "uit": "228 dworp 1"},
-      {"tr": "9", "ur": "7", "thuis": "239 boitsfort 2", "uit": "244 brussels chess club 2"},
-      {"tr": "6", "ur": "10", "thuis": "229 woluwe 1", "uit": "501 cre charleroi 4"},
-      {"tr": "6", "ur": "10", "thuis": "209 SK anderlecht 4", "uit": "290 epicure 2"}
+      {"tr": "9", "ur": "7", "thuis": "514 Fontaine 3", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "7", "ur": "9", "thuis": "953 Nivelles 1", "uit": "548 Caïssa Europe Mons 4"},
+      {"tr": "6", "ur": "10", "thuis": "518 Soignies 1", "uit": "228 Dworp 1"},
+      {"tr": "9", "ur": "7", "thuis": "239 Boitsfort 2", "uit": "244 Brussels CC 2"},
+      {"tr": "6", "ur": "10", "thuis": "229 Woluwe 1", "uit": "501 CRE Charleroi 4"},
+      {"tr": "6", "ur": "10", "thuis": "209 CC Anderlecht 4", "uit": "290 Epicure 2"}
     ]
   },
   {
     "ronde": "ronde 2",
     "datum": "10-10-2010",
     "uitslagen": [
-      {"tr": "10", "ur": "6", "thuis": "290 epicure 2", "uit": "514 fontaine 3"},
-      {"tr": "8", "ur": "8", "thuis": "501 cre charleroi 4", "uit": "209 SK anderlecht 4"},
-      {"tr": "8", "ur": "8", "thuis": "244 brussels chess club 2", "uit": "229 woluwe 1"},
-      {"tr": "11", "ur": "5", "thuis": "228 dworp 1", "uit": "239 boitsfort 2"},
-      {"tr": "8", "ur": "8", "thuis": "548 caissa europe 4", "uit": "518 soignies 1"},
-      {"tr": "5", "ur": "11", "thuis": "201 cre bruxelles 3", "uit": "953 nivelles 1"}
+      {"tr": "10", "ur": "6", "thuis": "290 Epicure 2", "uit": "514 Fontaine 3"},
+      {"tr": "8", "ur": "8", "thuis": "501 CRE Charleroi 4", "uit": "209 CC Anderlecht 4"},
+      {"tr": "8", "ur": "8", "thuis": "244 Brussels CC 2", "uit": "229 Woluwe 1"},
+      {"tr": "11", "ur": "5", "thuis": "228 Dworp 1", "uit": "239 Boitsfort 2"},
+      {"tr": "8", "ur": "8", "thuis": "548 Caïssa Europe Mons 4", "uit": "518 Soignies 1"},
+      {"tr": "5", "ur": "11", "thuis": "201 CRE Bruxelles 3", "uit": "953 Nivelles 1"}
     ]
   },
   {
     "ronde": "ronde 3",
     "datum": "07-11-2010",
     "uitslagen": [
-      {"tr": "8", "ur": "8", "thuis": "514 fontaine 3", "uit": "953 nivelles 1"},
-      {"tr": "7", "ur": "9", "thuis": "518 soignies 1", "uit": "201 cre bruxelles 3"},
-      {"tr": "8", "ur": "8", "thuis": "239 boitsfort 2", "uit": "548 caissa europe 4"},
-      {"tr": "8", "ur": "8", "thuis": "229 woluwe 1", "uit": "228 dworp 1"},
-      {"tr": "9", "ur": "7", "thuis": "209 SK anderlecht 4", "uit": "244 brussels chess club 2"},
-      {"tr": "11", "ur": "5", "thuis": "290 epicure 2", "uit": "501 cre charleroi 4"}
+      {"tr": "8", "ur": "8", "thuis": "514 Fontaine 3", "uit": "953 Nivelles 1"},
+      {"tr": "7", "ur": "9", "thuis": "518 Soignies 1", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "8", "ur": "8", "thuis": "239 Boitsfort 2", "uit": "548 Caïssa Europe Mons 4"},
+      {"tr": "8", "ur": "8", "thuis": "229 Woluwe 1", "uit": "228 Dworp 1"},
+      {"tr": "9", "ur": "7", "thuis": "209 CC Anderlecht 4", "uit": "244 Brussels CC 2"},
+      {"tr": "11", "ur": "5", "thuis": "290 Epicure 2", "uit": "501 CRE Charleroi 4"}
     ]
   },
   {
     "ronde": "ronde 4",
     "datum": "21-11-2010",
     "uitslagen": [
-      {"tr": "9", "ur": "7", "thuis": "501 cre charleroi 4", "uit": "514 fontaine 3"},
-      {"tr": "9", "ur": "7", "thuis": "244 brussels chess club 2", "uit": "290 epicure 2"},
-      {"tr": "9", "ur": "7", "thuis": "228 dworp 1", "uit": "209 SK anderlecht 4"},
-      {"tr": "11", "ur": "5", "thuis": "548 caissa europe 4", "uit": "229 woluwe 1"},
-      {"tr": "8", "ur": "8", "thuis": "201 cre bruxelles 3", "uit": "239 boitsfort 2"},
-      {"tr": "6", "ur": "10", "thuis": "953 nivelles 1", "uit": "518 soignies 1"}
+      {"tr": "9", "ur": "7", "thuis": "501 CRE Charleroi 4", "uit": "514 Fontaine 3"},
+      {"tr": "9", "ur": "7", "thuis": "244 Brussels CC 2", "uit": "290 Epicure 2"},
+      {"tr": "9", "ur": "7", "thuis": "228 Dworp 1", "uit": "209 CC Anderlecht 4"},
+      {"tr": "11", "ur": "5", "thuis": "548 Caïssa Europe Mons 4", "uit": "229 Woluwe 1"},
+      {"tr": "8", "ur": "8", "thuis": "201 CRE Bruxelles 3", "uit": "239 Boitsfort 2"},
+      {"tr": "6", "ur": "10", "thuis": "953 Nivelles 1", "uit": "518 Soignies 1"}
     ]
   },
   {
     "ronde": "ronde 5",
     "datum": "05-12-2010",
     "uitslagen": [
-      {"tr": "5", "ur": "11", "thuis": "514 fontaine 3", "uit": "518 soignies 1"},
-      {"tr": "11", "ur": "5", "thuis": "239 boitsfort 2", "uit": "953 nivelles 1"},
-      {"tr": "10", "ur": "6", "thuis": "229 woluwe 1", "uit": "201 cre bruxelles 3"},
-      {"tr": "10", "ur": "6", "thuis": "209 SK anderlecht 4", "uit": "548 caissa europe 4"},
-      {"tr": "9", "ur": "7", "thuis": "290 epicure 2", "uit": "228 dworp 1"},
-      {"tr": "4", "ur": "12", "thuis": "501 cre charleroi 4", "uit": "244 brussels chess club 2"}
+      {"tr": "5", "ur": "11", "thuis": "514 Fontaine 3", "uit": "518 Soignies 1"},
+      {"tr": "11", "ur": "5", "thuis": "239 Boitsfort 2", "uit": "953 Nivelles 1"},
+      {"tr": "10", "ur": "6", "thuis": "229 Woluwe 1", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "10", "ur": "6", "thuis": "209 CC Anderlecht 4", "uit": "548 Caïssa Europe Mons 4"},
+      {"tr": "9", "ur": "7", "thuis": "290 Epicure 2", "uit": "228 Dworp 1"},
+      {"tr": "4", "ur": "12", "thuis": "501 CRE Charleroi 4", "uit": "244 Brussels CC 2"}
     ]
   },
   {
     "ronde": "ronde 6",
     "datum": "09-01-2011",
     "uitslagen": [
-      {"tr": "11", "ur": "5", "thuis": "244 brussels chess club 2", "uit": "514 fontaine 3"},
-      {"tr": "12", "ur": "4", "thuis": "228 dworp 1", "uit": "501 cre charleroi 4"},
-      {"tr": "5", "ur": "11", "thuis": "548 caissa europe 4", "uit": "290 epicure 2"},
-      {"tr": "6", "ur": "10", "thuis": "201 cre bruxelles 3", "uit": "209 SK anderlecht 4"},
-      {"tr": "10", "ur": "6", "thuis": "953 nivelles 1", "uit": "229 woluwe 1"},
-      {"tr": "6", "ur": "10", "thuis": "518 soignies 1", "uit": "239 boitsfort 2"}
+      {"tr": "11", "ur": "5", "thuis": "244 Brussels CC 2", "uit": "514 Fontaine 3"},
+      {"tr": "12", "ur": "4", "thuis": "228 Dworp 1", "uit": "501 CRE Charleroi 4"},
+      {"tr": "5", "ur": "11", "thuis": "548 Caïssa Europe Mons 4", "uit": "290 Epicure 2"},
+      {"tr": "6", "ur": "10", "thuis": "201 CRE Bruxelles 3", "uit": "209 CC Anderlecht 4"},
+      {"tr": "10", "ur": "6", "thuis": "953 Nivelles 1", "uit": "229 Woluwe 1"},
+      {"tr": "6", "ur": "10", "thuis": "518 Soignies 1", "uit": "239 Boitsfort 2"}
     ]
   },
   {
     "ronde": "ronde 7",
     "datum": "23-01-2011",
     "uitslagen": [
-      {"tr": "7", "ur": "9", "thuis": "514 fontaine 3", "uit": "239 boitsfort 2"},
-      {"tr": "7", "ur": "9", "thuis": "229 woluwe 1", "uit": "518 soignies 1"},
-      {"tr": "8", "ur": "8", "thuis": "209 SK anderlecht 4", "uit": "953 nivelles 1"},
-      {"tr": "11", "ur": "5", "thuis": "290 epicure 2", "uit": "201 cre bruxelles 3"},
-      {"tr": "12", "ur": "4", "thuis": "501 cre charleroi 4", "uit": "548 caissa europe 4"},
-      {"tr": "11", "ur": "5", "thuis": "244 brussels chess club 2", "uit": "228 dworp 1"}
+      {"tr": "7", "ur": "9", "thuis": "514 Fontaine 3", "uit": "239 Boitsfort 2"},
+      {"tr": "7", "ur": "9", "thuis": "229 Woluwe 1", "uit": "518 Soignies 1"},
+      {"tr": "8", "ur": "8", "thuis": "209 CC Anderlecht 4", "uit": "953 Nivelles 1"},
+      {"tr": "11", "ur": "5", "thuis": "290 Epicure 2", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "12", "ur": "4", "thuis": "501 CRE Charleroi 4", "uit": "548 Caïssa Europe Mons 4"},
+      {"tr": "11", "ur": "5", "thuis": "244 Brussels CC 2", "uit": "228 Dworp 1"}
     ]
   },
   {
     "ronde": "ronde 8",
     "datum": "06-02-2011",
     "uitslagen": [
-      {"tr": "12", "ur": "4", "thuis": "228 dworp 1", "uit": "514 fontaine 3"},
-      {"tr": "5", "ur": "11", "thuis": "548 caissa europe 4", "uit": "244 brussels chess club 2"},
-      {"tr": "7", "ur": "9", "thuis": "201 cre bruxelles 3", "uit": "501 cre charleroi 4"},
-      {"tr": "7", "ur": "9", "thuis": "953 nivelles 1", "uit": "290 epicure 2"},
-      {"tr": "9", "ur": "7", "thuis": "518 soignies 1", "uit": "209 SK anderlecht 4"},
-      {"tr": "9", "ur": "7", "thuis": "239 boitsfort 2", "uit": "229 woluwe 1"}
+      {"tr": "12", "ur": "4", "thuis": "228 Dworp 1", "uit": "514 Fontaine 3"},
+      {"tr": "5", "ur": "11", "thuis": "548 Caïssa Europe Mons 4", "uit": "244 Brussels CC 2"},
+      {"tr": "7", "ur": "9", "thuis": "201 CRE Bruxelles 3", "uit": "501 CRE Charleroi 4"},
+      {"tr": "7", "ur": "9", "thuis": "953 Nivelles 1", "uit": "290 Epicure 2"},
+      {"tr": "9", "ur": "7", "thuis": "518 Soignies 1", "uit": "209 CC Anderlecht 4"},
+      {"tr": "9", "ur": "7", "thuis": "239 Boitsfort 2", "uit": "229 Woluwe 1"}
     ]
   },
   {
     "ronde": "ronde 9",
     "datum": "27-02-2011",
     "uitslagen": [
-      {"tr": "5", "ur": "11", "thuis": "514 fontaine 3", "uit": "229 woluwe 1"},
-      {"tr": "5", "ur": "11", "thuis": "209 SK anderlecht 4", "uit": "239 boitsfort 2"},
-      {"tr": "11", "ur": "5", "thuis": "290 epicure 2", "uit": "518 soignies 1"},
-      {"tr": "7", "ur": "9", "thuis": "501 cre charleroi 4", "uit": "953 nivelles 1"},
-      {"tr": "7", "ur": "9", "thuis": "244 brussels chess club 2", "uit": "201 cre bruxelles 3"},
-      {"tr": "11", "ur": "5", "thuis": "228 dworp 1", "uit": "548 caissa europe 4"}
+      {"tr": "5", "ur": "11", "thuis": "514 Fontaine 3", "uit": "229 Woluwe 1"},
+      {"tr": "5", "ur": "11", "thuis": "209 CC Anderlecht 4", "uit": "239 Boitsfort 2"},
+      {"tr": "11", "ur": "5", "thuis": "290 Epicure 2", "uit": "518 Soignies 1"},
+      {"tr": "7", "ur": "9", "thuis": "501 CRE Charleroi 4", "uit": "953 Nivelles 1"},
+      {"tr": "7", "ur": "9", "thuis": "244 Brussels CC 2", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "11", "ur": "5", "thuis": "228 Dworp 1", "uit": "548 Caïssa Europe Mons 4"}
     ]
   },
   {
     "ronde": "ronde 10",
     "datum": "20-03-2011",
     "uitslagen": [
-      {"tr": "9", "ur": "7", "thuis": "548 caissa europe 4", "uit": "514 fontaine 3"},
-      {"tr": "8", "ur": "8", "thuis": "201 cre bruxelles 3", "uit": "228 dworp 1"},
-      {"tr": "8", "ur": "8", "thuis": "953 nivelles 1", "uit": "244 brussels chess club 2"},
-      {"tr": "12", "ur": "4", "thuis": "518 soignies 1", "uit": "501 cre charleroi 4"},
-      {"tr": "10", "ur": "6", "thuis": "239 boitsfort 2", "uit": "290 epicure 2"},
-      {"tr": "8", "ur": "8", "thuis": "229 woluwe 1", "uit": "209 SK anderlecht 4"}
+      {"tr": "9", "ur": "7", "thuis": "548 Caïssa Europe Mons 4", "uit": "514 Fontaine 3"},
+      {"tr": "8", "ur": "8", "thuis": "201 CRE Bruxelles 3", "uit": "228 Dworp 1"},
+      {"tr": "8", "ur": "8", "thuis": "953 Nivelles 1", "uit": "244 Brussels CC 2"},
+      {"tr": "12", "ur": "4", "thuis": "518 Soignies 1", "uit": "501 CRE Charleroi 4"},
+      {"tr": "10", "ur": "6", "thuis": "239 Boitsfort 2", "uit": "290 Epicure 2"},
+      {"tr": "8", "ur": "8", "thuis": "229 Woluwe 1", "uit": "209 CC Anderlecht 4"}
     ]
   },
   {
     "ronde": "ronde 11",
     "datum": "27-03-2011",
     "uitslagen": [
-      {"tr": "12", "ur": "4", "thuis": "209 SK anderlecht 4", "uit": "514 fontaine 3"},
-      {"tr": "9", "ur": "7", "thuis": "290 epicure 2", "uit": "229 woluwe 1"},
-      {"tr": "5", "ur": "11", "thuis": "501 cre charleroi 4", "uit": "239 boitsfort 2"},
-      {"tr": "7", "ur": "9", "thuis": "244 brussels chess club c 2", "uit": "518 soignies 1"},
-      {"tr": "10", "ur": "6", "thuis": "228 dworp 1", "uit": "953 nivelles 1"},
-      {"tr": "11", "ur": "5", "thuis": "548 caissa europe 4", "uit": "201 cre bruxelles 3"}
+      {"tr": "12", "ur": "4", "thuis": "209 CC Anderlecht 4", "uit": "514 Fontaine 3"},
+      {"tr": "9", "ur": "7", "thuis": "290 Epicure 2", "uit": "229 Woluwe 1"},
+      {"tr": "5", "ur": "11", "thuis": "501 CRE Charleroi 4", "uit": "239 Boitsfort 2"},
+      {"tr": "7", "ur": "9", "thuis": "244 Brussels CC 2", "uit": "518 Soignies 1"},
+      {"tr": "10", "ur": "6", "thuis": "228 Dworp 1", "uit": "953 Nivelles 1"},
+      {"tr": "11", "ur": "5", "thuis": "548 Caïssa Europe Mons 4", "uit": "201 CRE Bruxelles 3"}
     ]
   }
 ]
