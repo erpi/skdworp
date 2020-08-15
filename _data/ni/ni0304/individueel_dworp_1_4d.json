@@ -6,12 +6,12 @@
     "uit": "733 Sint-Truiden",
     "tscore": "3",
     "uscore": "1",
-    "tgem": "1992",
-    "ugem": "1784",
+    "tgem": "1959",
+    "ugem": "1751",
     "borden": [
       {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren Serge", "uspeler": "Rakhmetov Ramil", "telo": "2297", "uelo": "1881", "tstam": "20621", "ustam": "12254"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis Eric", "uspeler": "Carlens Bruno", "telo": "1824", "uelo": "1792", "tstam": "76317", "ustam": "55689"},
-      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "1F", "ur": "0F", "tspeler": "Ertveldt Pieter", "uspeler": "Vangeel Didier (forfait)", "telo": "1861", "uelo": "1653", "tstam": "48097", "ustam": "4049"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Lot Diederik", "uspeler": "Duchateau Arnout", "telo": "1855", "uelo": "1679", "tstam": "9954", "ustam": "19143"}
     ]
   },
