@@ -3,17 +3,12 @@
     "ronde": "1",
     "datum": "05-10-1997",
     "thuis": "228 Dworp 3",
-    "uit": "",
+    "uit": "Bye",
     "tscore": "",
     "uscore": "",
     "tgem": "",
     "ugem": "",
-    "borden": [
-      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
-    ]
+    "borden": []
   },
   {
     "ronde": "2",
@@ -130,7 +125,7 @@
   {
     "ronde": "9",
     "datum": "08-02-1998",
-    "thuis": "436 Lokeren ",
+    "thuis": "436 Lokeren",
     "uit": "228 Dworp 3",
     "tscore": "2",
     "uscore": "2",
