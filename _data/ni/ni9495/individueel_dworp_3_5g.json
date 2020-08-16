@@ -98,18 +98,13 @@
   {
     "ronde": "7",
     "datum": "22-01-1995",
-    "thuis": "",
+    "thuis": "Bye",
     "uit": "228 Dworp 3",
     "tscore": "",
     "uscore": "",
     "tgem": "",
     "ugem": "",
-    "borden": [
-      {"tr": "", "ur": "", "tspeler": "", "uspeler": "(bye)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "", "uspeler": "(bye)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "", "uspeler": "(bye)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "", "uspeler": "(bye)", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
-    ]
+    "borden": []
   },
   {
     "ronde": "8",
