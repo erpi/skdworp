@@ -83,17 +83,12 @@
     "ronde": "6",
     "datum": "12-12-1999",
     "thuis": "228 Dworp 3",
-    "uit": "201 CRE Bruxelles 4",
-    "tscore": "4",
-    "uscore": "0",
+    "uit": "Bye",
+    "tscore": "",
+    "uscore": "",
     "tgem": "",
     "ugem": "",
-    "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
-    ]
+    "borden": []
   },
   {
     "ronde": "7",
@@ -130,7 +125,7 @@
   {
     "ronde": "9",
     "datum": "06-02-2000",
-    "thuis": "244 Wol-Thib 5",
+    "thuis": "244 WTCC Uccle 5",
     "uit": "228 Dworp 3",
     "tscore": "0",
     "uscore": "4",
@@ -162,7 +157,7 @@
   {
     "ronde": "11",
     "datum": "19-03-2000",
-    "thuis": "209 SK Anderlecht 5",
+    "thuis": "209 CC Anderlecht 5",
     "uit": "228 Dworp 3",
     "tscore": "0",
     "uscore": "4",
