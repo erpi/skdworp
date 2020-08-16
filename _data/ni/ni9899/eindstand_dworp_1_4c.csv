@@ -1,13 +1,13 @@
-r,team,bp,mp
-1,290 Epicure 1,30,9
-2,229 Woluwe 2,29.5,9.5
-3,204 Excelsior 1,26,8
-4,272 Tibéchecs 1,24.5,6
-5,952 Wavre 2,23,5.5
-6,228 Dworp 1,22.5,7
-7,266 Desperado Leuven 3,22,5
-8,209 Anderlecht 4,21.5,5.5
-9,607 Rochade Eupen 4,20,4.5
-10,203 Fous du Roy 2,18.5,2.5
-11,953 Nivelles 1,14,1.5
-12,240 Machelen 2,12.5,2
+r,team,1,2,3,4,5,6,7,8,9,10,11,12,bp,mp
+1,290 Epicure 1,XX,,,,,,,,,,,,30,9
+2,229 Woluwe 2,,XX,,,,,,,,,,,29.5,9.5
+3,204 Excelsior 1,,,XX,,,,,,,,,,26,8
+4,272 Tibéchecs 1,,,,XX,,,,,,,,,24.5,6
+5,952 Wavre 2,,,,,XX,,,,,,,,23,5.5
+6,228 Dworp 1,,,,,,XX,,,,,,,22.5,7
+7,266 Desperado Leuven 3,,,,,,,XX,,,,,,22,5
+8,209 CC Anderlecht 4,,,,,,,,XX,,,,,21.5,5.5
+9,607 Rochade Eupen 4,,,,,,,,,XX,,,,20,4.5
+10,203 Fous du Roy 2,,,,,,,,,,XX,,,18.5,2.5
+11,953 Nivelles 1,,,,,,,,,,,XX,,14,1.5
+12,240 Machelen 2,,,,,,,,,,,,XX,12.5,2

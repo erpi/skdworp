@@ -1,13 +1,13 @@
-r,team,bp,mp
-1,209 Anderlecht 5,32,9
-2,518 Soignies 3,30.5,9.5
-3,290 Epicure 2,30,8.5
-4,542 Merbes-le-Château 1,29.5,8.5
-5,538 Fleurus 1,25.5,7
-6,201CRE Bruxelles 4,24.5,6
-7,239 Bosvoorde 3,23,4.5
-8,243 LV Leuven 5,18,4.5
-9,228 Dworp 3,16.5,3
-10,203 Fous du Roy 3,12.5,3.5
-11,229 Woluwe 3,12,1
-12,957 Roquefort 1,10,1
+r,team,1,2,3,4,5,6,7,8,9,10,11,12,bp,mp
+1,209 CC Anderlecht 5,XX,,,,,,,,,,,,32,9
+2,518 Soignies 3,,XX,,,,,,,,,,,30.5,9.5
+3,290 Epicure 2,,,XX,,,,,,,,,,30,8.5
+4,542 Merbes-le-Château 1,,,,XX,,,,,,,,,29.5,8.5
+5,538 Fleurus 1,,,,,XX,,,,,,,,25.5,7
+6,201 CRE Bruxelles 4,,,,,,XX,,,,,,,24.5,6
+7,239 Boitsfort 3,,,,,,,XX,,,,,,23,4.5
+8,243 LV Leuven 5,,,,,,,,XX,,,,,18,4.5
+9,228 Dworp 3,,,,,,,,,XX,,,,16.5,3
+10,203 Fous du Roy 3,,,,,,,,,,XX,,,12.5,3.5
+11,229 Woluwe 3,,,,,,,,,,,XX,,12,1
+12,957 Roquefort Louvain-la-Neuve 1,,,,,,,,,,,,XX,10,1

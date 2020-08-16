@@ -1,13 +1,13 @@
-r,team,bp,mp
-1,521 Tournai 1,33.5,10
-2,601 CRE Liège 4,27.5,7.5
-3,505 Carnières,27,7.5
-4,228 Dworp 2,24.5,7
-5,501 CRE Charleroi 3,24.5,6
-6,540 Gazomat Gilly 1,22,6
-7,518 Soignies 2,22,5
-8,244 Thibucle 3,20.5,5
-9,523 Binche,19,4
-10,951 Waterloo 2,18,4
-11,514 Fontaine,17.5,2.5
-12,506 Mons 3,8,1.5
+r,team,1,2,3,4,5,6,7,8,9,10,11,12,bp,mp
+1,521 Tournai 1,XX,,,,,,,,,,,,33.5,10
+2,601 CRE Liège EL 4,,XX,,,,,,,,,,,27.5,7.5
+3,505 Carnières,,,XX,,,,,,,,,,27,7.5
+4,228 Dworp 2,,,,XX,,,,,,,,,24.5,7
+5,501 CRE Charleroi 3,,,,,XX,,,,,,,,24.5,6
+6,540 Gazomat Gilly 1,,,,,,XX,,,,,,,22,6
+7,518 Soignies 2,,,,,,,XX,,,,,,22,5
+8,244 Thibucle 3,,,,,,,,XX,,,,,20.5,5
+9,523 Binche,,,,,,,,,XX,,,,19,4
+10,951 Lasne-Waterloo 2,,,,,,,,,,XX,,,18,4
+11,514 Fontaine,,,,,,,,,,,XX,,17.5,2.5
+12,506 Mons 3,,,,,,,,,,,,XX,8,1.5
