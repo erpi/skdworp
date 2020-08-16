@@ -57,7 +57,7 @@
     "tgem": "1442",
     "ugem": "1343",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "0F", "ur": "1F", "tspeler": "(forfait)", "uspeler": "De Bosscher Peter", "telo": "", "uelo": "1727", "tstam": "", "ustam": "655"},
       {"tr": "0", "ur": "1", "tspeler": "Marechal Michel", "uspeler": "Dekoster Pascal", "telo": "1484", "uelo": "1452", "tstam": "61514", "ustam": "54658"},
       {"tr": "0", "ur": "1", "tspeler": "Van Buggenhaut Eric", "uspeler": "Heremans Gersende", "telo": "1444", "uelo": "1234", "tstam": "54232", "ustam": "2259"},
       {"tr": "0", "ur": "1", "tspeler": "Motte Christian", "uspeler": "Ertveldt Pieter", "telo": "1397", "uelo": "ng", "tstam": "90387", "ustam": "48097"}
@@ -148,7 +148,7 @@
     "tgem": "1772",
     "ugem": "1739",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Maeckelbergh Mieke", "uspeler": "Roels Louis", "telo": "1842", "uelo": "1894", "tstam": "353", "ustam": "21733"},
+      {"tr": "1F", "ur": "0F", "tspeler": "Maeckelbergh Mieke", "uspeler": "Roels Louis", "telo": "1842", "uelo": "1894", "tstam": "353", "ustam": "21733"},
       {"tr": "1", "ur": "0", "tspeler": "De Bosscher Peter", "uspeler": "Van Peer Cedric-Johan", "telo": "1727", "uelo": "1584", "tstam": "655", "ustam": "51578"},
       {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "Van Der Vurst Arne", "telo": "1748", "uelo": "ng", "tstam": "26816", "ustam": "52736"},
       {"tr": "1", "ur": "0", "tspeler": "Ertveldt Pieter", "uspeler": "Laureys Dennis", "telo": "ng", "uelo": "ng", "tstam": "48097", "ustam": "25879"}

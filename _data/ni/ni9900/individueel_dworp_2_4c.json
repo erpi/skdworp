@@ -89,8 +89,8 @@
     "tgem": "1761",
     "ugem": "1869",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "1F", "ur": "0F", "tspeler": "Lot Diederik", "uspeler": "(forfait)", "telo": "1831", "uelo": "", "tstam": "9954", "ustam": ""},
+      {"tr": "1F", "ur": "0F", "tspeler": "Pletinckx Eddy", "uspeler": "(forfait)", "telo": "1845", "uelo": "", "tstam": "76325", "ustam": ""},
       {"tr": "1", "ur": "0", "tspeler": "Lemmens Pierre", "uspeler": "Verbruggen Jean", "telo": "1774", "uelo": "1869", "tstam": "43419", "ustam": "23281"},
       {"tr": "1", "ur": "0", "tspeler": "van Duuren Louis", "uspeler": "n.m.", "telo": "1748", "uelo": "", "tstam": "26816", "ustam": ""}
     ]
@@ -153,8 +153,8 @@
     "tgem": "1532",
     "ugem": "1377",
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
+      {"tr": "1F", "ur": "0F", "tspeler": "Pletinckx Eddy", "uspeler": "(forfait)", "telo": "1845", "uelo": "", "tstam": "76325", "ustam": ""},
+      {"tr": "1F", "ur": "0F", "tspeler": "Lemmens Pierre", "uspeler": "(forfait)", "telo": "1774", "uelo": "", "tstam": "43419", "ustam": ""},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Van der Voorde Sonja", "uspeler": "Matinfar Mohammed", "telo": "1611", "uelo": "1414", "tstam": "43346", "ustam": "74543"},
       {"tr": "0", "ur": "1", "tspeler": "Dekoster Pascal", "uspeler": "Geerinckx Bernard", "telo": "1452", "uelo": "1340", "tstam": "54658", "ustam": "94901"}
     ]
