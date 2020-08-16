@@ -92,7 +92,7 @@
       {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "Dubuisson Raymond", "telo": "1958", "uelo": "1919", "tstam": "2283", "ustam": "78301"},
       {"tr": "0", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Pieropan Louis", "telo": "1891", "uelo": "1890", "tstam": "76317", "ustam": "64629"},
       {"tr": "0", "ur": "1", "tspeler": "Maeckelbergh Mieke", "uspeler": "George Michael", "telo": "1876", "uelo": "1738", "tstam": "353", "ustam": "72443"},
-      {"tr": "1", "ur": "0", "tspeler": "(forfait)", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
+      {"tr": "1F", "ur": "0F", "tspeler": "van Duuren Louis", "uspeler": "(forfait)", "telo": "ng", "uelo": "", "tstam": "26816", "ustam": ""}
     ]
   },
   {
@@ -105,7 +105,7 @@
     "tgem": "1828",
     "ugem": "1779",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "(forfait)", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1958", "tstam": "", "ustam": "2283"},
+      {"tr": "0F", "ur": "1F", "tspeler": "(forfait)", "uspeler": "Taelemans Werner", "telo": "", "uelo": "1958", "tstam": "", "ustam": "2283"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Masure Luc", "uspeler": "Cornelis Eric", "telo": "1888", "uelo": "1891", "tstam": "59811", "ustam": "76317"},
       {"tr": "1", "ur": "0", "tspeler": "Knudde Francis", "uspeler": "Deklerck Willy", "telo": "1812", "uelo": "1667", "tstam": "71081", "ustam": "27715"},
       {"tr": "1", "ur": "0", "tspeler": "Verbeque Roger", "uspeler": "van Duuren Louis", "telo": "1785", "uelo": "ng", "tstam": "89613", "ustam": "26816"}
