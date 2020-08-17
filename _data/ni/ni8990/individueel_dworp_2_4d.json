@@ -2,8 +2,8 @@
   {
     "ronde": "1",
     "datum": "15-10-1989",
-    "thuis": "Waterloo 2",
-    "uit": "Dworp 2",
+    "thuis": "216 Lasne-Waterloo 2",
+    "uit": "228 Dworp 2",
     "tscore": "2",
     "uscore": "2",
     "tgem": "",
@@ -18,8 +18,8 @@
   {
     "ronde": "2",
     "datum": "29-10-1989",
-    "thuis": "Dworp 2",
-    "uit": "Tienen 1",
+    "thuis": "228 Dworp 2",
+    "uit": "712 Tienen 1",
     "tscore": "2.5",
     "uscore": "1.5",
     "tgem": "1781",
@@ -34,8 +34,8 @@
   {
     "ronde": "3",
     "datum": "05-11-1989",
-    "thuis": "Montignies 1",
-    "uit": "Dworp 2",
+    "thuis": "528 Montignies 1",
+    "uit": "228 Dworp 2",
     "tscore": "3",
     "uscore": "1",
     "tgem": "",
@@ -50,8 +50,8 @@
   {
     "ronde": "4",
     "datum": "19-11-1989",
-    "thuis": "Dworp 2",
-    "uit": "Carni\u00e8res 2",
+    "thuis": "228 Dworp 2",
+    "uit": "505 Carni\u00e8res 2",
     "tscore": "2.5",
     "uscore": "1.5",
     "tgem": "1867",
@@ -66,8 +66,8 @@
   {
     "ronde": "5",
     "datum": "03-12-1989",
-    "thuis": "Fontaine",
-    "uit": "Dworp 2",
+    "thuis": "514 Fontaine",
+    "uit": "228 Dworp 2",
     "tscore": "4",
     "uscore": "0",
     "tgem": "",
@@ -82,8 +82,8 @@
   {
     "ronde": "6",
     "datum": "21-01-1990",
-    "thuis": "Dworp 2",
-    "uit": "Wavre 2",
+    "thuis": "228 Dworp 2",
+    "uit": "223 Wavre 2",
     "tscore": "1.5",
     "uscore": "2.5",
     "tgem": "1737",
@@ -98,8 +98,8 @@
   {
     "ronde": "7",
     "datum": "18-02-1990",
-    "thuis": "Nivelles",
-    "uit": "Dworp 2",
+    "thuis": "515 Nivelles",
+    "uit": "228 Dworp 2",
     "tscore": "2.5",
     "uscore": "1.5",
     "tgem": "",
@@ -108,14 +108,14 @@
       {"tr": "1", "ur": "0", "tspeler": "Stilman", "uspeler": "Deklerck Willy", "telo": "", "uelo": "1706", "tstam": "", "ustam": "27715"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Lebedew G", "uspeler": "Desmedt Jean Pierre", "telo": "", "uelo": "1684", "tstam": "", "ustam": "33910"},
       {"tr": "0", "ur": "1", "tspeler": "Roger JM", "uspeler": "Verstreken Erik", "telo": "", "uelo": "1662", "tstam": "", "ustam": "9270"},
-      {"tr": "1", "ur": "0", "tspeler": "Martin M", "uspeler": "ff", "telo": "", "uelo": "ng", "tstam": "", "ustam": ""}
+      {"tr": "1F", "ur": "0F", "tspeler": "Martin M", "uspeler": "(forfait)", "telo": "", "uelo": "ng", "tstam": "", "ustam": ""}
     ]
   },
   {
     "ronde": "8",
     "datum": "04-03-1990",
-    "thuis": "Dworp 2",
-    "uit": "Mons 1",
+    "thuis": "228 Dworp 2",
+    "uit": "506 Mons 1",
     "tscore": "1.5",
     "uscore": "2.5",
     "tgem": "1787",
@@ -130,8 +130,8 @@
   {
     "ronde": "9",
     "datum": "18-03-1990",
-    "thuis": "Westland 2",
-    "uit": "Dworp 2",
+    "thuis": "274 Westland 2",
+    "uit": "228 Dworp 2",
     "tscore": "2",
     "uscore": "2",
     "tgem": "",
