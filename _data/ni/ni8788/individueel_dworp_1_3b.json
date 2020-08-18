@@ -57,7 +57,7 @@
     "ronde": "4",
     "datum": "06-12-1987",
     "thuis": "228 Dworp 1",
-    "uit": "216 Waterloo 1",
+    "uit": "216 Lasne-Waterloo 1",
     "tscore": "1.5",
     "uscore": "4.5",
     "tgem": "2032",
@@ -148,17 +148,17 @@
     "datum": "20-03-1988",
     "thuis": "228 Dworp 1",
     "uit": "209 SK Anderlecht 3",
-    "tscore": "",
-    "uscore": "",
+    "tscore": "3",
+    "uscore": "3",
     "tgem": "1989",
     "ugem": "",
     "borden": [
-      {"tr": "", "ur": "", "tspeler": "Vanderwaeren Serge", "uspeler": "Campeert Julien", "telo": "2121", "uelo": "", "tstam": "20621", "ustam": "8877"},
-      {"tr": "", "ur": "", "tspeler": "Boers Jos", "uspeler": "Furstenberg Tom", "telo": "2101", "uelo": "", "tstam": "68128", "ustam": "28398"},
-      {"tr": "", "ur": "", "tspeler": "Taelemans Werner", "uspeler": "Presti Giuseppe", "telo": "2021", "uelo": "", "tstam": "2283", "ustam": "71005"},
-      {"tr": "", "ur": "", "tspeler": "Debast Patrick", "uspeler": "Van Gompel Hugo", "telo": "2010", "uelo": "", "tstam": "76333", "ustam": "2526"},
-      {"tr": "", "ur": "", "tspeler": "De Ceukelaire Gert", "uspeler": "De Ceuster Jean-Luc", "telo": "1992", "uelo": "", "tstam": "99152", "ustam": "27928"},
-      {"tr": "", "ur": "", "tspeler": "De Smedt Jean Pierre", "uspeler": "Adams Luc", "telo": "1686", "uelo": "", "tstam": "33910", "ustam": "42200"}
+      {"tr": "0", "ur": "1", "tspeler": "Vanderwaeren Serge", "uspeler": "Campeert Julien", "telo": "2121", "uelo": "", "tstam": "20621", "ustam": "8877"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Boers Jos", "uspeler": "Furstenberg Tom", "telo": "2101", "uelo": "", "tstam": "68128", "ustam": "28398"},
+      {"tr": "1", "ur": "0", "tspeler": "Taelemans Werner", "uspeler": "Presti Giuseppe", "telo": "2021", "uelo": "", "tstam": "2283", "ustam": "71005"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Debast Patrick", "uspeler": "Van Gompel Hugo", "telo": "2010", "uelo": "", "tstam": "76333", "ustam": "2526"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Ceukelaire Gert", "uspeler": "De Ceuster Jean-Luc", "telo": "1992", "uelo": "", "tstam": "99152", "ustam": "27928"},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Smedt Jean Pierre", "uspeler": "Adams Luc", "telo": "1686", "uelo": "", "tstam": "33910", "ustam": "42200"}
     ]
   }
 ]

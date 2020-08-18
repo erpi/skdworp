@@ -2,7 +2,7 @@
   {
     "ronde": "1",
     "datum": "18-10-1987",
-    "thuis": "245 Roque 9",
+    "thuis": "245 Roque Anderlecht 9",
     "uit": "228 Dworp 3",
     "tscore": "3.5",
     "uscore": "0.5",
@@ -100,15 +100,15 @@
     "datum": "20-03-1988",
     "thuis": "280 Chess Club 1",
     "uit": "228 Dworp 3",
-    "tscore": "0",
-    "uscore": "4",
+    "tscore": "4",
+    "uscore": "0",
     "tgem": "",
     "ugem": "1694",
     "borden": [
-      {"tr": "0", "ur": "1", "tspeler": "NN", "uspeler": "Verstreken Erik", "telo": "", "uelo": "1772", "tstam": "", "ustam": "9270"},
-      {"tr": "0", "ur": "1", "tspeler": "NN", "uspeler": "Malfliet Koen", "telo": "", "uelo": "1616", "tstam": "", "ustam": "64327"},
-      {"tr": "0", "ur": "1", "tspeler": "NN", "uspeler": "Dewilde Eric", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43401"},
-      {"tr": "0", "ur": "1", "tspeler": "NN", "uspeler": "Neven Pascal", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43427"}
+      {"tr": "1", "ur": "0", "tspeler": "NN", "uspeler": "Verstreken Erik", "telo": "", "uelo": "1772", "tstam": "", "ustam": "9270"},
+      {"tr": "1", "ur": "0", "tspeler": "NN", "uspeler": "Malfliet Koen", "telo": "", "uelo": "1616", "tstam": "", "ustam": "64327"},
+      {"tr": "1", "ur": "0", "tspeler": "NN", "uspeler": "Dewilde Eric", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43401"},
+      {"tr": "1", "ur": "0", "tspeler": "NN", "uspeler": "Neven Pascal", "telo": "", "uelo": "ng", "tstam": "", "ustam": "43427"}
     ]
   }
 ]

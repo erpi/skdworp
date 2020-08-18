@@ -2,7 +2,7 @@
   {
     "ronde": "1",
     "datum": "18-10-1987",
-    "thuis": "245 Roque 5",
+    "thuis": "245 Roque Anderlecht 5",
     "uit": "228 Dworp 2",
     "tscore": "2",
     "uscore": "2",
@@ -83,17 +83,12 @@
     "ronde": "6",
     "datum": "07-02-1988",
     "thuis": "228 Dworp 2",
-    "uit": "274 Westland 3",
-    "tscore": "4",
-    "uscore": "0",
+    "uit": "Bye",
+    "tscore": "",
+    "uscore": "",
     "tgem": "",
     "ugem": "",
-    "borden": [
-      {"tr": "", "ur": "", "tspeler": "", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "", "uspeler": "(forfait)", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
-    ]
+    "borden": []
   },
   {
     "ronde": "7",
@@ -132,15 +127,15 @@
     "datum": "20-03-1988",
     "thuis": "228 Dworp 2",
     "uit": "244 Thibaut 3",
-    "tscore": "",
-    "uscore": "",
+    "tscore": "4",
+    "uscore": "0",
     "tgem": "1877",
     "ugem": "",
     "borden": [
-      {"tr": "", "ur": "", "tspeler": "Lemmens Pierre", "uspeler": "Van Roy Michel", "telo": "1948", "uelo": "", "tstam": "19313", "ustam": "18988"},
-      {"tr": "", "ur": "", "tspeler": "Pletinckx Eddy", "uspeler": "Tajchman Sammy", "telo": "1920", "uelo": "", "tstam": "76325", "ustam": "17523"},
-      {"tr": "", "ur": "", "tspeler": "Van Nerom Luc", "uspeler": "Palazzo Carlos Alberto", "telo": "1892", "uelo": "", "tstam": "96246", "ustam": "83585"},
-      {"tr": "", "ur": "", "tspeler": "Deklerck Willy", "uspeler": "Lucke Andr\u00e9", "telo": "1746", "uelo": "", "tstam": "27715", "ustam": "85201"}
+      {"tr": "1", "ur": "0", "tspeler": "Lemmens Pierre", "uspeler": "Van Roy Michel", "telo": "1948", "uelo": "", "tstam": "19313", "ustam": "18988"},
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx Eddy", "uspeler": "Tajchman Sammy", "telo": "1920", "uelo": "", "tstam": "76325", "ustam": "17523"},
+      {"tr": "1", "ur": "0", "tspeler": "Van Nerom Luc", "uspeler": "Palazzo Carlos Alberto", "telo": "1892", "uelo": "", "tstam": "96246", "ustam": "83585"},
+      {"tr": "1", "ur": "0", "tspeler": "Deklerck Willy", "uspeler": "Lucke Andr\u00e9", "telo": "1746", "uelo": "", "tstam": "27715", "ustam": "85201"}
     ]
   }
 ]
