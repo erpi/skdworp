@@ -3,7 +3,7 @@
     "ronde": "1",
     "datum": "19-10-1986",
     "thuis": "228 Dworp 3",
-    "uit": "132 Oude God 3",
+    "uit": "132 Oude God Mortsel 3",
     "tscore": "1.5",
     "uscore": "2.5",
     "tgem": "1563",
@@ -18,7 +18,7 @@
   {
     "ronde": "2",
     "datum": "16-11-1986",
-    "thuis": "401 Ruy Lopez Gent 9",
+    "thuis": "401 K Gentse SRL 9",
     "uit": "228 Dworp 3",
     "tscore": "3",
     "uscore": "1",
@@ -67,17 +67,12 @@
     "ronde": "5",
     "datum": "21-12-1986",
     "thuis": "228 Dworp 3",
-    "uit": "",
+    "uit": "Bye",
     "tscore": "",
     "uscore": "",
     "tgem": "",
     "ugem": "",
-    "borden": [
-      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
-    ]
+    "borden": []
   },
   {
     "ronde": "6",

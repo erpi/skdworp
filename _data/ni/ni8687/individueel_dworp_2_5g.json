@@ -34,7 +34,7 @@
   {
     "ronde": "3",
     "datum": "30-11-1986",
-    "thuis": "401 Ruy Lopez Gent 8",
+    "thuis": "401 K Gentse SRL 8",
     "uit": "228 Dworp 2",
     "tscore": "0.5",
     "uscore": "3.5",
@@ -51,23 +51,18 @@
     "ronde": "4",
     "datum": "07-12-1986",
     "thuis": "228 Dworp 2",
-    "uit": "",
+    "uit": "Bye",
     "tscore": "",
     "uscore": "",
     "tgem": "",
     "ugem": "",
-    "borden": [
-      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""},
-      {"tr": "", "ur": "", "tspeler": "(bye)", "uspeler": "", "telo": "", "uelo": "", "tstam": "", "ustam": ""}
-    ]
+    "borden": []
   },
   {
     "ronde": "5",
     "datum": "21-12-1986",
     "thuis": "228 Dworp 2",
-    "uit": "272 Tibechecs 2",
+    "uit": "272 Tib\u00e9checs 2",
     "tscore": "3",
     "uscore": "1",
     "tgem": "1847",
@@ -82,7 +77,7 @@
   {
     "ronde": "6",
     "datum": "04-01-1987",
-    "thuis": "209 Anderlecht 4",
+    "thuis": "209 SK Anderlecht 4",
     "uit": "228 Dworp 2",
     "tscore": "1.5",
     "uscore": "2.5",
@@ -99,7 +94,7 @@
     "ronde": "7",
     "datum": "01-02-1987",
     "thuis": "228 Dworp 2",
-    "uit": "245 Roque 7",
+    "uit": "245 Roque Anderlecht 7",
     "tscore": "4",
     "uscore": "0",
     "tgem": "1825",
