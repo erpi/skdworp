@@ -52,5 +52,5 @@ Ronde 9: Dworp 1: Bord 3: fout: som van bordscore niet gelijk aan 1
 Ronde 9: Dworp 1: Bord 4: fout: som van bordscore niet gelijk aan 1
 Ronde 9: Dworp 1: Bord 5: fout: som van bordscore niet gelijk aan 1
 Ronde 9: Dworp 1: Bord 6: fout: som van bordscore niet gelijk aan 1
-Ronde 10: Dworp 1: waarschuwing: geen ploegnaamgevonden
-Ronde 11: Dworp 1: waarschuwing: geen ploegnaamgevonden
+Ronde 10: Dworp 1: waarschuwing: geen ploegnaam gevonden
+Ronde 11: Dworp 1: waarschuwing: geen ploegnaam gevonden
