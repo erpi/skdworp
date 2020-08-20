@@ -1,5 +1,5 @@
 [
-{
+  {
     "ronde": "1",
     "datum": "25-10-1981",
     "thuis": "228 Dworp 2",
@@ -14,8 +14,8 @@
       {"tr": "1", "ur": "3", "tspeler": "De Ceukelaire Gert", "uspeler": "Claus E", "telo": "ng", "uelo": "", "tstam": "99152", "ustam": ""},
       {"tr": "1", "ur": "3", "tspeler": "Malfliet Bernard", "uspeler": "Van de Velde K", "telo": "ng", "uelo": "", "tstam": "31348", "ustam": ""}
     ]
-  }, 
- {
+  },
+  {
     "ronde": "2",
     "datum": "15-11-1981",
     "thuis": "436 Lokeren 2",
@@ -35,7 +35,7 @@
     "ronde": "3",
     "datum": "29-11-1981",
     "thuis": "228 Dworp 2",
-    "uit": "410 Sint-Niklaas 2",
+    "uit": "410 Sint-Niklaas",
     "tscore": "7",
     "uscore": "9",
     "tgem": "1521",
@@ -47,7 +47,7 @@
       {"tr": "1", "ur": "3", "tspeler": "Malfliet Bernard", "uspeler": "Ruymbeek L", "telo": "ng", "uelo": "", "tstam": "31348", "ustam": ""}
     ]
   },
-{
+  {
     "ronde": "4",
     "datum": "17-01-1982",
     "thuis": "417 Aalst 3",
@@ -62,12 +62,12 @@
       {"tr": "1", "ur": "3", "tspeler": "Van Den Steen", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99152"},
       {"tr": "3", "ur": "1", "tspeler": "Desmet T", "uspeler": "Malfliet Bernard", "telo": "", "uelo": "ng", "tstam": "", "ustam": "31348"}
     ]
-  },   
-{
+  },
+  {
     "ronde": "5",
     "datum": "31-01-1982",
     "thuis": "228 Dworp 2",
-    "uit": "143 Temse 1",
+    "uit": "143 Temse",
     "tscore": "5",
     "uscore": "11",
     "tgem": "1521",
@@ -78,12 +78,12 @@
       {"tr": "1", "ur": "3", "tspeler": "Malfliet Bernard", "uspeler": "De Schepper B", "telo": "ng", "uelo": "", "tstam": "31348", "ustam": ""},
       {"tr": "2", "ur": "2", "tspeler": "Deklerck Willy", "uspeler": "Van Geyt R", "telo": "ng", "uelo": "", "tstam": "27715", "ustam": ""}
     ]
-  },  
- {
+  },
+  {
     "ronde": "6",
     "datum": "14-02-1982",
     "thuis": "228 Dworp 2",
-    "uit": "209 Anderlecht 4",
+    "uit": "209 SK Anderlecht 4",
     "tscore": "9",
     "uscore": "7",
     "tgem": "1583",
@@ -95,7 +95,7 @@
       {"tr": "2", "ur": "2", "tspeler": "De Ceukelaire Gert", "uspeler": "Claesen Pieter", "telo": "ng", "uelo": "", "tstam": "99152", "ustam": ""}
     ]
   },
-{
+  {
     "ronde": "7",
     "datum": "28-02-1982",
     "thuis": "425 Dendermonde 2",
@@ -111,7 +111,7 @@
       {"tr": "1", "ur": "3", "tspeler": "Dierickx J", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "ng", "tstam": "", "ustam": "20621"}
     ]
   },
-{
+  {
     "ronde": "8",
     "datum": "14-03-1982",
     "thuis": "228 Dworp 2",
@@ -127,10 +127,10 @@
       {"tr": "3", "ur": "1", "tspeler": "Vanderwaeren Serge", "uspeler": "Van Steen G", "telo": "ng", "uelo": "", "tstam": "20621", "ustam": ""}
     ]
   },
-{
+  {
     "ronde": "9",
     "datum": "21-03-1982",
-    "thuis": "209 Anderlecht 5",
+    "thuis": "209 SK Anderlecht 5",
     "uit": "228 Dworp 2",
     "tscore": "7",
     "uscore": "9",
@@ -138,7 +138,7 @@
     "ugem": "1645",
     "borden": [
       {"tr": "3", "ur": "1", "tspeler": "Presti G", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1645", "tstam": "", "ustam": "19313"},
-      {"tr": "2", "ur": "2", "tspeler": "Steenwerckx Remy", "uspeler": "Mertens François", "telo": "", "uelo": "1645", "tstam": "96506", "ustam": "31526"},
+      {"tr": "2", "ur": "2", "tspeler": "Steenwerckx Remy", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "1645", "tstam": "96506", "ustam": "31526"},
       {"tr": "1", "ur": "3", "tspeler": "Vandermeersch Luk-Antoon", "uspeler": "Vanderwaeren Serge", "telo": "", "uelo": "ng", "tstam": "93073", "ustam": "20621"},
       {"tr": "1", "ur": "3", "tspeler": "Van Bocxlaer", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99152"}
     ]

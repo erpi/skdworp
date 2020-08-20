@@ -1,5 +1,5 @@
 [
-{
+  {
     "ronde": "1",
     "datum": "25-10-1981",
     "thuis": "228 Dworp 1",
@@ -14,8 +14,8 @@
       {"tr": "1", "ur": "3", "tspeler": "Pletinckx Eddy", "uspeler": "Stryckers A", "telo": "1648", "uelo": "", "tstam": "76325", "ustam": ""},
       {"tr": "2", "ur": "2", "tspeler": "Lemmens Pierre", "uspeler": "Bogaerts L", "telo": "1645", "uelo": "", "tstam": "19313", "ustam": ""}
     ]
-  }, 
- {
+  },
+  {
     "ronde": "2",
     "datum": "15-11-1981",
     "thuis": "249 Ruisbroek",
@@ -35,7 +35,7 @@
     "ronde": "3",
     "datum": "29-11-1981",
     "thuis": "228 Dworp 1",
-    "uit": "401 Ruy Lopez Gent 5",
+    "uit": "401 K Gentse SRL 5",
     "tscore": "9",
     "uscore": "7",
     "tgem": "1730",
@@ -47,7 +47,7 @@
       {"tr": "2", "ur": "2", "tspeler": "Lemmens Pierre", "uspeler": "Bezsilko N", "telo": "1645", "uelo": "", "tstam": "19313", "ustam": ""}
     ]
   },
-{
+  {
     "ronde": "4",
     "datum": "17-01-1982",
     "thuis": "228 Dworp 1",
@@ -63,7 +63,7 @@
       {"tr": "3", "ur": "1", "tspeler": "Lemmens Pierre", "uspeler": "Vanbergen J", "telo": "1645", "uelo": "", "tstam": "19313", "ustam": ""}
     ]
   },
-{
+  {
     "ronde": "5",
     "datum": "31-01-1982",
     "thuis": "442 Mariakerke 2",
@@ -78,8 +78,8 @@
       {"tr": "1", "ur": "3", "tspeler": "Grootaert L", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1648", "tstam": "", "ustam": "76325"},
       {"tr": "1", "ur": "3", "tspeler": "De Rijcke J", "uspeler": "De Ceukelaire Gert", "telo": "", "uelo": "ng", "tstam": "", "ustam": "99152"}
     ]
-  },   
-{
+  },
+  {
     "ronde": "6",
     "datum": "14-02-1982",
     "thuis": "228 Dworp 1",
@@ -94,11 +94,11 @@
       {"tr": "1", "ur": "3", "tspeler": "Pletinckx Eddy", "uspeler": "Ghysens D", "telo": "1648", "uelo": "", "tstam": "76325", "ustam": ""},
       {"tr": "1", "ur": "3", "tspeler": "Malfliet Bernard", "uspeler": "Desmet F", "telo": "ng", "uelo": "", "tstam": "31348", "ustam": ""}
     ]
-  },  
-{
+  },
+  {
     "ronde": "7",
     "datum": "28-02-1982",
-    "thuis": "101 KASK 1",
+    "thuis": "101 K Antwerpse SK 1",
     "uit": "228 Dworp 1",
     "tscore": "11",
     "uscore": "5",
@@ -115,7 +115,7 @@
     "ronde": "8",
     "datum": "14-03-1982",
     "thuis": "228 Dworp 1",
-    "uit": "152 Paroza Berchem",
+    "uit": "152 Paroza Berchem 1",
     "tscore": "9",
     "uscore": "7",
     "tgem": "1605",
@@ -127,7 +127,7 @@
       {"tr": "3", "ur": "1", "tspeler": "Trompeter Hubert", "uspeler": "Du Bois L", "telo": "1145", "uelo": "", "tstam": "45454", "ustam": ""}
     ]
   },
-{
+  {
     "ronde": "9",
     "datum": "21-03-1982",
     "thuis": "240 Machelen",
