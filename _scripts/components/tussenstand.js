@@ -4,9 +4,9 @@ $(document).ready(function(){
         var tds, witIndex, zwartIndex, wr, zr;
         function indexNaam(naam) {
             var i, j;
-            naam = naam.toLowerCase();
+            //naam = naam.toLowerCase();
             i = namen.indexOf(naam);
-            if (naam == 'bye') {
+            if (naam.toLowerCase() == 'bye') {
                 return -1
             }
             if (i == -1) {
