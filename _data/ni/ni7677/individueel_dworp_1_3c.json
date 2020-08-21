@@ -129,7 +129,7 @@
     "ronde": "8",
     "datum": "17-04-1977",
     "thuis": "228 Dworp 1",
-    "uit": "130 Hoboken",
+    "uit": "130 Moretus Hoboken",
     "tscore": "11",
     "uscore": "13",
     "tgem": "1481",
@@ -148,17 +148,17 @@
     "datum": "24-04-1977",
     "thuis": "245 Ganshoren",
     "uit": "228 Dworp 1",
-    "tscore": "9",
-    "uscore": "15",
+    "tscore": "15",
+    "uscore": "9",
     "tgem": "1573",
     "ugem": "1448",
     "borden": [
       {"tr": "0.5", "ur": "0.5", "tspeler": "Joseph F", "uspeler": "Rosseel Gilbert", "telo": "1866", "uelo": "1658", "tstam": "", "ustam": "19372"},
-      {"tr": "0", "ur": "1", "tspeler": "Van Cauteren L", "uspeler": "Djuh Wasile", "telo": "1647", "uelo": "1564", "tstam": "", "ustam": "19402"},
+      {"tr": "1", "ur": "0", "tspeler": "Van Cauteren L", "uspeler": "Djuh Wasile", "telo": "1647", "uelo": "1564", "tstam": "", "ustam": "19402"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Wasnair Maurice", "uspeler": "Lemmens Pierre", "telo": "1626", "uelo": "1520", "tstam": "", "ustam": "19313"},
-      {"tr": "0", "ur": "1", "tspeler": "Dewael G", "uspeler": "Janssens Fritz", "telo": "1514", "uelo": "1421", "tstam": "", "ustam": "57282"},
+      {"tr": "1", "ur": "0", "tspeler": "Dewael G", "uspeler": "Janssens Fritz", "telo": "1514", "uelo": "1421", "tstam": "", "ustam": "57282"},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Batteauw R", "uspeler": "Vervaet Roland", "telo": "1422", "uelo": "1075", "tstam": "", "ustam": "nm"},
-      {"tr": "0", "ur": "1", "tspeler": "Van den Plas G", "uspeler": "Debast Patrick", "telo": "1365", "uelo": "ng", "tstam": "", "ustam": "76333"}
+      {"tr": "1", "ur": "0", "tspeler": "Van den Plas G", "uspeler": "Debast Patrick", "telo": "1365", "uelo": "ng", "tstam": "", "ustam": "76333"}
     ]
   }
 ]
