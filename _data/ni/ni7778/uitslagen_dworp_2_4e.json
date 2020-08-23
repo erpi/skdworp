@@ -1,0 +1,101 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "15-01-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "130 Moretus Hoboken 2", "uit": "Bye"},
+      {"tr": "11", "ur": "5", "thuis": "132 Oude God Mortsel 3", "uit": "101 K Antwerpse SK 3"},
+      {"tr": "6", "ur": "10", "thuis": "240 Machelen 2", "uit": "228 Dworp 2"},
+      {"tr": "3", "ur": "12", "thuis": "701 O\u2019Kelly Hasselt 3", "uit": "124 Deurne 3"},
+      {"tr": "4", "ur": "11", "thuis": "244 Thibaut 3", "uit": "243 Kessel-Lo 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "29-01-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "243 Kessel-Lo 1"},
+      {"tr": "8", "ur": "7", "thuis": "124 Deurne 3", "uit": "244 Thibaut 3"},
+      {"tr": "12", "ur": "3", "thuis": "228 Dworp 2", "uit": "701 O\u2019Kelly Hasselt 3"},
+      {"tr": "12", "ur": "4", "thuis": "101 K Antwerpse SK 3", "uit": "240 Machelen 2"},
+      {"tr": "5", "ur": "11", "thuis": "130 Moretus Hoboken 2", "uit": "132 Oude God Mortsel 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "12-02-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "132 Oude God Mortsel 3", "uit": "Bye"},
+      {"tr": "9", "ur": "7", "thuis": "240 Machelen 2", "uit": "130 Moretus Hoboken 2"},
+      {"tr": "6", "ur": "10", "thuis": "701 O\u2019Kelly Hasselt 3", "uit": "101 K Antwerpse SK 3"},
+      {"tr": "7", "ur": "9", "thuis": "244 Thibaut 3", "uit": "228 Dworp 2"},
+      {"tr": "10", "ur": "6", "thuis": "243 Kessel-Lo 1", "uit": "124 Deurne 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "26-02-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "124 Deurne 3"},
+      {"tr": "8", "ur": "8", "thuis": "228 Dworp 2", "uit": "243 Kessel-Lo 1"},
+      {"tr": "4", "ur": "12", "thuis": "101 K Antwerpse SK 3", "uit": "244 Thibaut 3"},
+      {"tr": "7", "ur": "9", "thuis": "130 Moretus Hoboken 2", "uit": "701 O\u2019Kelly Hasselt 3"},
+      {"tr": "10", "ur": "6", "thuis": "132 Oude God Mortsel 3", "uit": "240 Machelen 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "12-03-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "240 Machelen 2", "uit": "Bye"},
+      {"tr": "4", "ur": "12", "thuis": "701 O\u2019Kelly Hasselt 3", "uit": "132 Oude God Mortsel 3"},
+      {"tr": "10", "ur": "6", "thuis": "244 Thibaut 3", "uit": "130 Moretus Hoboken 2"},
+      {"tr": "10", "ur": "6", "thuis": "243 Kessel-Lo 1", "uit": "101 K Antwerpse SK 3"},
+      {"tr": "8", "ur": "8", "thuis": "124 Deurne 3", "uit": "228 Dworp 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "02-04-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "228 Dworp 2"},
+      {"tr": "4", "ur": "12", "thuis": "101 K Antwerpse SK 3", "uit": "124 Deurne 3"},
+      {"tr": "4", "ur": "12", "thuis": "130 Moretus Hoboken 2", "uit": "243 Kessel-Lo 1"},
+      {"tr": "10", "ur": "6", "thuis": "132 Oude God Mortsel 3", "uit": "244 Thibaut 3"},
+      {"tr": "6", "ur": "9", "thuis": "240 Machelen 2", "uit": "701 O\u2019Kelly Hasselt 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "09-04-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "701 O\u2019Kelly Hasselt 3", "uit": "Bye"},
+      {"tr": "12", "ur": "4", "thuis": "244 Thibaut 3", "uit": "240 Machelen 2"},
+      {"tr": "9", "ur": "7", "thuis": "243 Kessel-Lo 1", "uit": "132 Oude God Mortsel 3"},
+      {"tr": "12", "ur": "4", "thuis": "124 Deurne 3", "uit": "130 Moretus Hoboken 2"},
+      {"tr": "8", "ur": "8", "thuis": "228 Dworp 2", "uit": "101 K Antwerpse SK 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "23-04-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "101 K Antwerpse SK 3"},
+      {"tr": "4", "ur": "11", "thuis": "130 Moretus Hoboken 2", "uit": "228 Dworp 2"},
+      {"tr": "6", "ur": "10", "thuis": "132 Oude God Mortsel 3", "uit": "124 Deurne 3"},
+      {"tr": "4", "ur": "12", "thuis": "240 Machelen 2", "uit": "243 Kessel-Lo 1"},
+      {"tr": "5", "ur": "11", "thuis": "701 O\u2019Kelly Hasselt 3", "uit": "244 Thibaut 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "30-04-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "244 Thibaut 3", "uit": "Bye"},
+      {"tr": "10F", "ur": "0F", "thuis": "243 Kessel-Lo 1", "uit": "701 O\u2019Kelly Hasselt 3"},
+      {"tr": "10", "ur": "4", "thuis": "124 Deurne 3", "uit": "240 Machelen 2"},
+      {"tr": "8", "ur": "8", "thuis": "228 Dworp 2", "uit": "132 Oude God Mortsel 3"},
+      {"tr": "8", "ur": "7", "thuis": "101 K Antwerpse SK 3", "uit": "130 Moretus Hoboken 2"}
+    ]
+  }
+]

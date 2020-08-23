@@ -1,0 +1,101 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "15-01-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "517 Flobecq", "uit": "Bye"},
+      {"tr": "7", "ur": "9", "thuis": "506 Mons 1", "uit": "518 Soignies 1"},
+      {"tr": "6", "ur": "10", "thuis": "237 Le 64 Woluwe", "uit": "418 Geraardsbergen 2"},
+      {"tr": "9", "ur": "7", "thuis": "241 Tervuren", "uit": "228 Dworp 1"},
+      {"tr": "10", "ur": "6", "thuis": "501 CRE Charleroi 3", "uit": "435 Torenwachters Geraardsbergen"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "29-01-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "435 Torenwachters Geraardsbergen"},
+      {"tr": "10", "ur": "6", "thuis": "228 Dworp 1", "uit": "501 CRE Charleroi 3"},
+      {"tr": "7", "ur": "9", "thuis": "418 Geraardsbergen 2", "uit": "241 Tervuren"},
+      {"tr": "10", "ur": "6", "thuis": "518 Soignies 1", "uit": "237 Le 64 Woluwe"},
+      {"tr": "7", "ur": "9", "thuis": "517 Flobecq", "uit": "506 Mons 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "12-02-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "506 Mons 1", "uit": "Bye"},
+      {"tr": "8", "ur": "8", "thuis": "237 Le 64 Woluwe", "uit": "517 Flobecq"},
+      {"tr": "5", "ur": "11", "thuis": "241 Tervuren", "uit": "518 Soignies 1"},
+      {"tr": "10", "ur": "6", "thuis": "501 CRE Charleroi 3", "uit": "418 Geraardsbergen 2"},
+      {"tr": "6", "ur": "10", "thuis": "435 Torenwachters Geraardsbergen", "uit": "228 Dworp 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "26-02-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "228 Dworp 1"},
+      {"tr": "10", "ur": "6", "thuis": "418 Geraardsbergen 2", "uit": "435 Torenwachters Geraardsbergen"},
+      {"tr": "7", "ur": "9", "thuis": "518 Soignies 1", "uit": "501 CRE Charleroi 3"},
+      {"tr": "8", "ur": "8", "thuis": "517 Flobecq", "uit": "241 Tervuren"},
+      {"tr": "8", "ur": "8", "thuis": "506 Mons 1", "uit": "237 Le 64 Woluwe"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "12-03-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "237 Le 64 Woluwe", "uit": "Bye"},
+      {"tr": "11", "ur": "5", "thuis": "241 Tervuren", "uit": "506 Mons 1"},
+      {"tr": "11", "ur": "5", "thuis": "501 CRE Charleroi 3", "uit": "517 Flobecq"},
+      {"tr": "6", "ur": "10", "thuis": "435 Torenwachters Geraardsbergen", "uit": "518 Soignies 1"},
+      {"tr": "6", "ur": "10", "thuis": "228 Dworp 1", "uit": "418 Geraardsbergen 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "02-04-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "418 Geraardsbergen 2"},
+      {"tr": "9", "ur": "7", "thuis": "518 Soignies 1", "uit": "228 Dworp 1"},
+      {"tr": "10", "ur": "6", "thuis": "517 Flobecq", "uit": "435 Torenwachters Geraardsbergen"},
+      {"tr": "6", "ur": "10", "thuis": "506 Mons 1", "uit": "501 CRE Charleroi 3"},
+      {"tr": "9", "ur": "7", "thuis": "237 Le 64 Woluwe", "uit": "241 Tervuren"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "09-04-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "241 Tervuren", "uit": "Bye"},
+      {"tr": "9", "ur": "7", "thuis": "501 CRE Charleroi 3", "uit": "237 Le 64 Woluwe"},
+      {"tr": "7", "ur": "8", "thuis": "435 Torenwachters Geraardsbergen", "uit": "506 Mons 1"},
+      {"tr": "7", "ur": "9", "thuis": "228 Dworp 1", "uit": "517 Flobecq"},
+      {"tr": "6", "ur": "10", "thuis": "418 Geraardsbergen 2", "uit": "518 Soignies 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "23-04-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "518 Soignies 1"},
+      {"tr": "8", "ur": "8", "thuis": "517 Flobecq", "uit": "418 Geraardsbergen 2"},
+      {"tr": "8", "ur": "8", "thuis": "506 Mons 1", "uit": "228 Dworp 1"},
+      {"tr": "9", "ur": "7", "thuis": "237 Le 64 Woluwe", "uit": "435 Torenwachters Geraardsbergen"},
+      {"tr": "4", "ur": "12", "thuis": "241 Tervuren", "uit": "501 CRE Charleroi 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "30-04-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "501 CRE Charleroi 3", "uit": "Bye"},
+      {"tr": "5", "ur": "11", "thuis": "435 Torenwachters Geraardsbergen", "uit": "241 Tervuren"},
+      {"tr": "9", "ur": "7", "thuis": "228 Dworp 1", "uit": "237 Le 64 Woluwe"},
+      {"tr": "9", "ur": "6", "thuis": "418 Geraardsbergen 2", "uit": "506 Mons 1"},
+      {"tr": "9", "ur": "7", "thuis": "518 Soignies 1", "uit": "517 Flobecq"}
+    ]
+  }
+]

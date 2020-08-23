@@ -19,7 +19,7 @@
     "ronde": "2",
     "datum": "29-01-1978",
     "thuis": "228 Dworp 2",
-    "uit": "701 Hasselt 3",
+    "uit": "701 O\u2019Kelly Hasselt 3",
     "tscore": "12",
     "uscore": "3",
     "tgem": "1355",
@@ -28,7 +28,7 @@
       {"tr": "3", "ur": "1", "tspeler": "Rosseel Gilbert", "uspeler": "Van Damme F", "telo": "1632", "uelo": "", "tstam": "19372", "ustam": ""},
       {"tr": "3", "ur": "1", "tspeler": "Brancart Marc", "uspeler": "Ramaekers H", "telo": "1244", "uelo": "", "tstam": "nm", "ustam": ""},
       {"tr": "3", "ur": "1", "tspeler": "Pletinckx Eddy", "uspeler": "Zimmerman A", "telo": "1189", "uelo": "", "tstam": "76325", "ustam": ""},
-      {"tr": "3", "ur": "0", "tspeler": "Kunze Martin", "uspeler": "(forfait)", "telo": "ng", "uelo": "", "tstam": "nm", "ustam": ""}
+      {"tr": "3F", "ur": "0F", "tspeler": "Kunze Martin", "uspeler": "(forfait)", "telo": "ng", "uelo": "", "tstam": "nm", "ustam": ""}
     ]
   },
   {
@@ -83,7 +83,7 @@
     "ronde": "6",
     "datum": "02-04-1978",
     "thuis": "228 Dworp 2",
-    "uit": "(bye)",
+    "uit": "Bye",
     "tscore": "",
     "uscore": "",
     "tgem": "",
@@ -94,7 +94,7 @@
     "ronde": "7",
     "datum": "09-04-1978",
     "thuis": "228 Dworp 2",
-    "uit": "101 Kon. Antwerpse SK 3",
+    "uit": "101 K Antwerpse SK 3",
     "tscore": "8",
     "uscore": "8",
     "tgem": "1353",
@@ -116,7 +116,7 @@
     "tgem": "",
     "ugem": "1353",
     "borden": [
-      {"tr": "0", "ur": "3", "tspeler": "Janssens Jean (ff)", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1632", "tstam": "", "ustam": "19372"},
+      {"tr": "0F", "ur": "3F", "tspeler": "Janssens Jean (forfait)", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1632", "tstam": "", "ustam": "19372"},
       {"tr": "2", "ur": "2", "tspeler": "Van Rooy A", "uspeler": "Janssens Fritz", "telo": "", "uelo": "1272", "tstam": "", "ustam": "57282"},
       {"tr": "1", "ur": "3", "tspeler": "Elsermans ", "uspeler": "Maton Gedeon", "telo": "", "uelo": "1262", "tstam": "", "ustam": "nm"},
       {"tr": "1", "ur": "3", "tspeler": "Van Damme G", "uspeler": "Brancart Marc", "telo": "", "uelo": "1244", "tstam": "", "ustam": "nm"}
@@ -126,7 +126,7 @@
     "ronde": "9",
     "datum": "30-04-1978",
     "thuis": "228 Dworp 2",
-    "uit": "132 Oude God 3",
+    "uit": "132 Oude God Mortsel 3",
     "tscore": "8",
     "uscore": "8",
     "tgem": "1334",
