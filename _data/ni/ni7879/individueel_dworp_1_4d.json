@@ -76,6 +76,22 @@
   },
   {
     "ronde": "6",
+    "datum": "04-03-1979",
+    "thuis": "228 Dworp 1",
+    "uit": "108 Merksem 2",
+    "tscore": "10",
+    "uscore": "6",
+    "tgem": "1555",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "Rosseel Gilbert", "uspeler": "Daponte", "telo": "1612", "uelo": "", "tstam": "19372", "ustam": ""},
+      {"tr": "1", "ur": "3", "tspeler": "Lemmens Pierre", "uspeler": "Gelens J", "telo": "1597", "uelo": "", "tstam": "19313", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Djuh Wasile", "uspeler": "De Wachter L", "telo": "1548", "uelo": "", "tstam": "19402", "ustam": ""},
+      {"tr": "3", "ur": "1", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Vanden Berghe E", "telo": "1463", "uelo": "", "tstam": "31526", "ustam": ""}
+    ]
+  },
+  {
+    "ronde": "7",
     "datum": "28-01-1979",
     "thuis": "238 Zaventem 1",
     "uit": "228 Dworp 1",
@@ -91,7 +107,7 @@
     ]
   },
   {
-    "ronde": "7",
+    "ronde": "8",
     "datum": "11-02-1979",
     "thuis": "228 Dworp 1",
     "uit": "144 Wilrijk 1",
@@ -107,7 +123,7 @@
     ]
   },
   {
-    "ronde": "8",
+    "ronde": "9",
     "datum": "25-02-1979",
     "thuis": "240 Machelen 1",
     "uit": "228 Dworp 1",
@@ -120,22 +136,6 @@
       {"tr": "1", "ur": "3", "tspeler": "Verbist Albert", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1597", "tstam": "", "ustam": "19313"},
       {"tr": "1", "ur": "3", "tspeler": "De Geest J", "uspeler": "Djuh Wasile", "telo": "", "uelo": "1548", "tstam": "", "ustam": "19402"},
       {"tr": "1", "ur": "3", "tspeler": "Verstreken Florent", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "1463", "tstam": "", "ustam": "31526"}
-    ]
-  },
-  {
-    "ronde": "9",
-    "datum": "04-03-1979",
-    "thuis": "228 Dworp 1",
-    "uit": "108 Merksem 2",
-    "tscore": "10",
-    "uscore": "6",
-    "tgem": "1555",
-    "ugem": "",
-    "borden": [
-      {"tr": "3", "ur": "1", "tspeler": "Rosseel Gilbert", "uspeler": "Daponte", "telo": "1612", "uelo": "", "tstam": "19372", "ustam": ""},
-      {"tr": "1", "ur": "3", "tspeler": "Lemmens Pierre", "uspeler": "Gelens J", "telo": "1597", "uelo": "", "tstam": "19313", "ustam": ""},
-      {"tr": "3", "ur": "1", "tspeler": "Djuh Wasile", "uspeler": "De Wachter L", "telo": "1548", "uelo": "", "tstam": "19402", "ustam": ""},
-      {"tr": "3", "ur": "1", "tspeler": "Mertens Fran\u00e7ois", "uspeler": "Vanden Berghe E", "telo": "1463", "uelo": "", "tstam": "31526", "ustam": ""}
     ]
   },
   {

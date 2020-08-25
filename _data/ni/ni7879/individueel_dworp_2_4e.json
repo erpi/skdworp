@@ -76,6 +76,22 @@
   },
   {
     "ronde": "6",
+    "datum": "04-03-1979",
+    "thuis": "228 Dworp 2",
+    "uit": "249 Ruisbroek 1",
+    "tscore": "6",
+    "uscore": "10",
+    "tgem": "1240",
+    "ugem": "",
+    "borden": [
+      {"tr": "3", "ur": "1", "tspeler": "Brancart Marc", "uspeler": "Uylenbroeck Roland", "telo": "1328", "uelo": "", "tstam": "nm", "ustam": "65935"},
+      {"tr": "1", "ur": "3", "tspeler": "Pletinckx Eddy", "uspeler": "Baesberg Albert", "telo": "1317", "uelo": "", "tstam": "76325", "ustam": "87882"},
+      {"tr": "1", "ur": "3", "tspeler": "Debast Patrick", "uspeler": "Mattheys Christophe", "telo": "1177", "uelo": "", "tstam": "76333", "ustam": "4464"},
+      {"tr": "1", "ur": "3", "tspeler": "Cornelis Eric", "uspeler": "Stiens Kris", "telo": "1136", "uelo": "", "tstam": "76317", "ustam": "87904"}
+    ]
+  },
+  {
+    "ronde": "7",
     "datum": "28-01-1979",
     "thuis": "425 Dendermonde 3",
     "uit": "228 Dworp 2",
@@ -91,7 +107,7 @@
     ]
   },
   {
-    "ronde": "7",
+    "ronde": "8",
     "datum": "11-02-1979",
     "thuis": "228 Dworp 2",
     "uit": "Post Gent 1",
@@ -107,7 +123,7 @@
     ]
   },
   {
-    "ronde": "8",
+    "ronde": "9",
     "datum": "25-02-1979",
     "thuis": "240 Machelen 2",
     "uit": "228 Dworp 2",
@@ -120,22 +136,6 @@
       {"tr": "1", "ur": "3", "tspeler": "Vandevelde J", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1317", "tstam": "", "ustam": "76325"},
       {"tr": "0", "ur": "3", "tspeler": "ff", "uspeler": "Debast Patrick", "telo": "", "uelo": "1177", "tstam": "", "ustam": "76333"},
       {"tr": "0", "ur": "3", "tspeler": "ff", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1136", "tstam": "", "ustam": "76317"}
-    ]
-  },
-  {
-    "ronde": "9",
-    "datum": "04-03-1979",
-    "thuis": "228 Dworp 2",
-    "uit": "249 Ruisbroek 1",
-    "tscore": "6",
-    "uscore": "10",
-    "tgem": "1240",
-    "ugem": "",
-    "borden": [
-      {"tr": "3", "ur": "1", "tspeler": "Brancart Marc", "uspeler": "Uylenbroeck Roland", "telo": "1328", "uelo": "", "tstam": "nm", "ustam": ""},
-      {"tr": "1", "ur": "3", "tspeler": "Pletinckx Eddy", "uspeler": "Baesberg A", "telo": "1317", "uelo": "", "tstam": "76325", "ustam": ""},
-      {"tr": "1", "ur": "3", "tspeler": "Debast Patrick", "uspeler": "Mattheys", "telo": "1177", "uelo": "", "tstam": "76333", "ustam": ""},
-      {"tr": "1", "ur": "3", "tspeler": "Cornelis Eric", "uspeler": "Stiens Kris", "telo": "1136", "uelo": "", "tstam": "76317", "ustam": ""}
     ]
   },
   {
