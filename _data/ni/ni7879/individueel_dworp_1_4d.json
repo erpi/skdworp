@@ -36,8 +36,8 @@
     "tgem": "",
     "ugem": "1394",
     "borden": [
-      {"tr": "1", "ur": "3", "tspeler": "Geens J", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1612", "tstam": "", "ustam": "19372"},
-      {"tr": "1", "ur": "3", "tspeler": "Van den Bempt Paul", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1597", "tstam": "", "ustam": "19313"},
+      {"tr": "1", "ur": "3", "tspeler": "Geens Joris", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1612", "tstam": "", "ustam": "19372"},
+      {"tr": "1", "ur": "3", "tspeler": "Van den Bempt Paul", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1597", "tstam": "73113", "ustam": "19313"},
       {"tr": "1", "ur": "3", "tspeler": "Vandersmissen L", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "1463", "tstam": "", "ustam": "31526"},
       {"tr": "1", "ur": "3", "tspeler": "Custers", "uspeler": "Baekeland Pieter", "telo": "", "uelo": "904", "tstam": "", "ustam": "99903"}
     ]
@@ -70,7 +70,7 @@
     "borden": [
       {"tr": "1", "ur": "3", "tspeler": "Wilssens F", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1612", "tstam": "", "ustam": "19372"},
       {"tr": "3", "ur": "1", "tspeler": "De Corte Geo", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1597", "tstam": "", "ustam": "19313"},
-      {"tr": "1", "ur": "3", "tspeler": "Gpoeman K", "uspeler": "Djuh Wasile", "telo": "", "uelo": "1548", "tstam": "", "ustam": "19402"},
+      {"tr": "1", "ur": "3", "tspeler": "Goeman K", "uspeler": "Djuh Wasile", "telo": "", "uelo": "1548", "tstam": "", "ustam": "19402"},
       {"tr": "1", "ur": "3", "tspeler": "Vanderkelen R", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "1463", "tstam": "", "ustam": "31526"}
     ]
   },
@@ -84,7 +84,7 @@
     "tgem": "",
     "ugem": "1555",
     "borden": [
-      {"tr": "2", "ur": "2", "tspeler": "Van Damme", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1612", "tstam": "", "ustam": "19372"},
+      {"tr": "2", "ur": "2", "tspeler": "Van Damme F", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1612", "tstam": "", "ustam": "19372"},
       {"tr": "3", "ur": "1", "tspeler": "Groenez Jean", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1597", "tstam": "", "ustam": "19313"},
       {"tr": "1", "ur": "3", "tspeler": "Groenez Pierre", "uspeler": "Djuh Wasile", "telo": "", "uelo": "1548", "tstam": "", "ustam": "19402"},
       {"tr": "3", "ur": "1", "tspeler": "De Hondt Paul", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "1463", "tstam": "", "ustam": "31526"}
@@ -164,10 +164,10 @@
     "tgem": "",
     "ugem": "1555",
     "borden": [
-      {"tr": "2", "ur": "2", "tspeler": "De Wel Herman", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1612", "tstam": "", "ustam": "19372"},
-      {"tr": "1", "ur": "3", "tspeler": "Claes J", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1597", "tstam": "", "ustam": "19313"},
-      {"tr": "3", "ur": "1", "tspeler": "Kiebooms", "uspeler": "Djuh Wasile", "telo": "", "uelo": "1548", "tstam": "", "ustam": "19402"},
-      {"tr": "1", "ur": "3", "tspeler": "Rabijns H", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "1463", "tstam": "", "ustam": "31526"}
+      {"tr": "2", "ur": "2", "tspeler": "De Wel Herman", "uspeler": "Rosseel Gilbert", "telo": "", "uelo": "1612", "tstam": "3336", "ustam": "19372"},
+      {"tr": "1", "ur": "3", "tspeler": "Claes Jozef", "uspeler": "Lemmens Pierre", "telo": "", "uelo": "1597", "tstam": "3344", "ustam": "19313"},
+      {"tr": "3", "ur": "1", "tspeler": "Kiebooms Lucien", "uspeler": "Djuh Wasile", "telo": "", "uelo": "1548", "tstam": "3387", "ustam": "19402"},
+      {"tr": "1", "ur": "3", "tspeler": "Rabijns Henri", "uspeler": "Mertens Fran\u00e7ois", "telo": "", "uelo": "1463", "tstam": "3506", "ustam": "31526"}
     ]
   }
 ]
