@@ -1,0 +1,134 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "22-10-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "Bye"},
+      {"tr": "6", "ur": "10", "thuis": "124 Deurne 3", "uit": "707 Tessenderlo 1"},
+      {"tr": "6", "ur": "10", "thuis": "243 LV Leuven 2", "uit": "132 Oude God Mortsel 3"},
+      {"tr": "6", "ur": "10", "thuis": "244 Thibaut 3", "uit": "240 Machelen 1"},
+      {"tr": "5", "ur": "11", "thuis": "410 Sint-Niklaas 2", "uit": "144 Wilrijk 1"},
+      {"tr": "10", "ur": "6", "thuis": "108 Merksem 2", "uit": "243 Zaventem 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "05-11-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "243 Zaventem 1"},
+      {"tr": "10", "ur": "6", "thuis": "144 Wilrijk 1", "uit": "108 Merksem 2"},
+      {"tr": "10", "ur": "6", "thuis": "240 Machelen 1", "uit": "410 Sint-Niklaas 2"},
+      {"tr": "9", "ur": "7", "thuis": "132 Oude God Mortsel 3", "uit": "244 Thibaut 3"},
+      {"tr": "12", "ur": "4", "thuis": "707 Tessenderlo 1", "uit": "243 LV Leuven 2"},
+      {"tr": "10", "ur": "6", "thuis": "228 Dworp 1", "uit": "124 Deurne 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "19-11-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "124 Deurne 3", "uit": "Bye"},
+      {"tr": "4", "ur": "12", "thuis": "243 LV Leuven 2", "uit": "228 Dworp 1"},
+      {"tr": "5", "ur": "11", "thuis": "244 Thibaut 3", "uit": "707 Tessenderlo 1"},
+      {"tr": "8", "ur": "8", "thuis": "410 Sint-Niklaas 2", "uit": "132 Oude God Mortsel 3"},
+      {"tr": "4", "ur": "12", "thuis": "108 Merksem 2", "uit": "240 Machelen 1"},
+      {"tr": "10", "ur": "6", "thuis": "243 Zaventem 1", "uit": "144 Wilrijk 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "03-12-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "144 Wilrijk 1"},
+      {"tr": "7", "ur": "9", "thuis": "240 Machelen 1", "uit": "243 Zaventem 1"},
+      {"tr": "11", "ur": "5", "thuis": "132 Oude God Mortsel 3", "uit": "108 Merksem 2"},
+      {"tr": "10F", "ur": "0F", "thuis": "707 Tessenderlo 1", "uit": "410 Sint-Niklaas 2"},
+      {"tr": "10", "ur": "6", "thuis": "228 Dworp 1", "uit": "244 Thibaut 3"},
+      {"tr": "9", "ur": "7", "thuis": "124 Deurne 3", "uit": "243 LV Leuven 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "07-01-1979",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "243 LV Leuven 2", "uit": "Bye"},
+      {"tr": "5", "ur": "11", "thuis": "244 Thibaut 3", "uit": "124 Deurne 3"},
+      {"tr": "6", "ur": "10", "thuis": "410 Sint-Niklaas 2", "uit": "228 Dworp 1"},
+      {"tr": "4", "ur": "12", "thuis": "108 Merksem 2", "uit": "707 Tessenderlo 1"},
+      {"tr": "10", "ur": "6", "thuis": "243 Zaventem 1", "uit": "132 Oude God Mortsel 3"},
+      {"tr": "12", "ur": "3", "thuis": "144 Wilrijk 1", "uit": "240 Machelen 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "04-03-1979",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "240 Machelen 1"},
+      {"tr": "4", "ur": "12", "thuis": "132 Oude God Mortsel 3", "uit": "144 Wilrijk 1"},
+      {"tr": "10F", "ur": "0F", "thuis": "707 Tessenderlo 1", "uit": "243 Zaventem 1"},
+      {"tr": "10", "ur": "6", "thuis": "228 Dworp 1", "uit": "108 Merksem 2"},
+      {"tr": "10F", "ur": "0F", "thuis": "124 Deurne 3", "uit": "410 Sint-Niklaas 2"},
+      {"tr": "10F", "ur": "0F", "thuis": "243 LV Leuven 2", "uit": "244 Thibaut 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "28-01-1979",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "244 Thibaut 3", "uit": "Bye"},
+      {"tr": "4", "ur": "12", "thuis": "410 Sint-Niklaas 2", "uit": "243 LV Leuven 2"},
+      {"tr": "10", "ur": "6", "thuis": "108 Merksem 2", "uit": "124 Deurne 3"},
+      {"tr": "9", "ur": "7", "thuis": "243 Zaventem 1", "uit": "228 Dworp 1"},
+      {"tr": "7", "ur": "9", "thuis": "144 Wilrijk 1", "uit": "707 Tessenderlo 1"},
+      {"tr": "10", "ur": "6", "thuis": "240 Machelen 1", "uit": "132 Oude God Mortsel 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "11-02-1979",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "132 Oude God Mortsel 3"},
+      {"tr": "8", "ur": "8", "thuis": "707 Tessenderlo 1", "uit": "240 Machelen 1"},
+      {"tr": "10", "ur": "6", "thuis": "228 Dworp 1", "uit": "144 Wilrijk 1"},
+      {"tr": "4", "ur": "12", "thuis": "124 Deurne 3", "uit": "243 Zaventem 1"},
+      {"tr": "9", "ur": "7", "thuis": "243 LV Leuven 2", "uit": "108 Merksem 2"},
+      {"tr": "10F", "ur": "0F", "thuis": "244 Thibaut 3", "uit": "410 Sint-Niklaas 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "25-02-1979",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "410 Sint-Niklaas 2", "uit": "Bye"},
+      {"tr": "10F", "ur": "0F", "thuis": "108 Merksem 2", "uit": "244 Thibaut 3"},
+      {"tr": "11", "ur": "5", "thuis": "243 Zaventem 1", "uit": "243 LV Leuven 2"},
+      {"tr": "9", "ur": "7", "thuis": "144 Wilrijk 1", "uit": "124 Deurne 3"},
+      {"tr": "6", "ur": "10", "thuis": "240 Machelen 1", "uit": "228 Dworp 1"},
+      {"tr": "10", "ur": "6", "thuis": "132 Oude God Mortsel 3", "uit": "707 Tessenderlo 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "11-03-1979",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "707 Tessenderlo 1"},
+      {"tr": "12", "ur": "4", "thuis": "228 Dworp 1", "uit": "132 Oude God Mortsel 3"},
+      {"tr": "10F", "ur": "0F", "thuis": "124 Deurne 3", "uit": "240 Machelen 1"},
+      {"tr": "9", "ur": "7", "thuis": "243 LV Leuven 2", "uit": "144 Wilrijk 1"},
+      {"tr": "3", "ur": "12", "thuis": "244 Thibaut 3", "uit": "243 Zaventem 1"},
+      {"tr": "0F", "ur": "10F", "thuis": "410 Sint-Niklaas 2", "uit": "108 Merksem 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "18-03-1979",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "108 Merksem 2", "uit": "Bye"},
+      {"tr": "10F", "ur": "0F", "thuis": "243 Zaventem 1", "uit": "410 Sint-Niklaas 2"},
+      {"tr": "10F", "ur": "0F", "thuis": "144 Wilrijk 1", "uit": "244 Thibaut 3"},
+      {"tr": "3", "ur": "9", "thuis": "240 Machelen 1", "uit": "243 LV Leuven 2"},
+      {"tr": "10", "ur": "6", "thuis": "132 Oude God Mortsel 3", "uit": "124 Deurne 3"},
+      {"tr": "7", "ur": "9", "thuis": "707 Tessenderlo 1", "uit": "228 Dworp 1"}
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "22-10-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "Bye"},
+      {"tr": "8", "ur": "8", "thuis": "418 Geraardsbergen 2", "uit": "436 Lokeren 2"},
+      {"tr": "7", "ur": "9", "thuis": "401 K Gentse SRL 5", "uit": "417 Aalst 2"},
+      {"tr": "11", "ur": "5", "thuis": "402 Jean Jaur\u00e8s Gent 5", "uit": "240 Machelen 2"},
+      {"tr": "10", "ur": "6", "thuis": "438 Deinze 1", "uit": "Post Gent 1"},
+      {"tr": "10", "ur": "6", "thuis": "249 Ruisbroek 1", "uit": "425 Dendermonde 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "05-11-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "425 Dendermonde 3"},
+      {"tr": "7", "ur": "9", "thuis": "Post Gent 1", "uit": "249 Ruisbroek 1"},
+      {"tr": "4", "ur": "12", "thuis": "240 Machelen 2", "uit": "438 Deinze 1"},
+      {"tr": "10", "ur": "6", "thuis": "417 Aalst 2", "uit": "402 Jean Jaur\u00e8s Gent 5"},
+      {"tr": "11", "ur": "5", "thuis": "436 Lokeren 2", "uit": "401 K Gentse SRL 5"},
+      {"tr": "10", "ur": "6", "thuis": "228 Dworp 2", "uit": "418 Geraardsbergen 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "19-11-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "418 Geraardsbergen 2", "uit": "Bye"},
+      {"tr": "8", "ur": "8", "thuis": "401 K Gentse SRL 5", "uit": "228 Dworp 2"},
+      {"tr": "4", "ur": "12", "thuis": "402 Jean Jaur\u00e8s Gent 5", "uit": "436 Lokeren 2"},
+      {"tr": "8", "ur": "8", "thuis": "438 Deinze 1", "uit": "417 Aalst 2"},
+      {"tr": "12", "ur": "4", "thuis": "249 Ruisbroek 1", "uit": "240 Machelen 2"},
+      {"tr": "10F", "ur": "0F", "thuis": "425 Dendermonde 3", "uit": "Post Gent 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "03-12-1978",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "Post Gent 1"},
+      {"tr": "10", "ur": "6", "thuis": "240 Machelen 2", "uit": "425 Dendermonde 3"},
+      {"tr": "11", "ur": "5", "thuis": "417 Aalst 2", "uit": "249 Ruisbroek 1"},
+      {"tr": "7", "ur": "9", "thuis": "436 Lokeren 2", "uit": "438 Deinze 1"},
+      {"tr": "7", "ur": "9", "thuis": "228 Dworp 2", "uit": "402 Jean Jaur\u00e8s Gent 5"},
+      {"tr": "6", "ur": "10", "thuis": "418 Geraardsbergen 2", "uit": "401 K Gentse SRL 5"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "07-01-1979",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 5", "uit": "Bye"},
+      {"tr": "5", "ur": "11", "thuis": "402 Jean Jaur\u00e8s Gent 5", "uit": "418 Geraardsbergen 2"},
+      {"tr": "10", "ur": "6", "thuis": "438 Deinze 1", "uit": "228 Dworp 2"},
+      {"tr": "7", "ur": "9", "thuis": "249 Ruisbroek 1", "uit": "436 Lokeren 2"},
+      {"tr": "6", "ur": "10", "thuis": "425 Dendermonde 3", "uit": "417 Aalst 2"},
+      {"tr": "10F", "ur": "0F", "thuis": "Post Gent 1", "uit": "240 Machelen 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "04-03-1979",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "240 Machelen 2"},
+      {"tr": "11", "ur": "5", "thuis": "417 Aalst 2", "uit": "Post Gent 1"},
+      {"tr": "11", "ur": "5", "thuis": "436 Lokeren 2", "uit": "425 Dendermonde 3"},
+      {"tr": "6", "ur": "10", "thuis": "228 Dworp 2", "uit": "249 Ruisbroek 1"},
+      {"tr": "7", "ur": "9", "thuis": "418 Geraardsbergen 2", "uit": "438 Deinze 1"},
+      {"tr": "6", "ur": "10", "thuis": "401 K Gentse SRL 5", "uit": "402 Jean Jaur\u00e8s Gent 5"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "28-01-1979",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "402 Jean Jaur\u00e8s Gent 5", "uit": "Bye"},
+      {"tr": "11", "ur": "5", "thuis": "438 Deinze 1", "uit": "401 K Gentse SRL 5"},
+      {"tr": "8", "ur": "8", "thuis": "249 Ruisbroek 1", "uit": "418 Geraardsbergen 2"},
+      {"tr": "6", "ur": "10", "thuis": "425 Dendermonde 3", "uit": "228 Dworp 2"},
+      {"tr": "6", "ur": "10", "thuis": "Post Gent 1", "uit": "436 Lokeren 2"},
+      {"tr": "6", "ur": "10", "thuis": "240 Machelen 2", "uit": "417 Aalst 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "11-02-1979",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "417 Aalst 2"},
+      {"tr": "12", "ur": "3", "thuis": "436 Lokeren 2", "uit": "240 Machelen 2"},
+      {"tr": "11", "ur": "4", "thuis": "228 Dworp 2", "uit": "Post Gent 1"},
+      {"tr": "6", "ur": "10", "thuis": "418 Geraardsbergen 2", "uit": "425 Dendermonde 3"},
+      {"tr": "7", "ur": "9", "thuis": "401 K Gentse SRL 5", "uit": "249 Ruisbroek 1"},
+      {"tr": "6", "ur": "10", "thuis": "402 Jean Jaur\u00e8s Gent 5", "uit": "438 Deinze 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "25-02-1979",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "438 Deinze 1", "uit": "Bye"},
+      {"tr": "10", "ur": "6", "thuis": "249 Ruisbroek 1", "uit": "402 Jean Jaur\u00e8s Gent 5"},
+      {"tr": "6", "ur": "10", "thuis": "425 Dendermonde 3", "uit": "401 K Gentse SRL 5"},
+      {"tr": "8", "ur": "8", "thuis": "Post Gent 1", "uit": "418 Geraardsbergen 2"},
+      {"tr": "2", "ur": "12", "thuis": "240 Machelen 2", "uit": "228 Dworp 2"},
+      {"tr": "6", "ur": "10", "thuis": "417 Aalst 2", "uit": "436 Lokeren 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "11-03-1979",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "436 Lokeren 2"},
+      {"tr": "10", "ur": "6", "thuis": "228 Dworp 2", "uit": "417 Aalst 2"},
+      {"tr": "9", "ur": "7", "thuis": "418 Geraardsbergen 2", "uit": "240 Machelen 2"},
+      {"tr": "11", "ur": "5", "thuis": "401 K Gentse SRL 5", "uit": "Post Gent 1"},
+      {"tr": "10", "ur": "6", "thuis": "402 Jean Jaur\u00e8s Gent 5", "uit": "425 Dendermonde 3"},
+      {"tr": "10", "ur": "6", "thuis": "438 Deinze 1", "uit": "249 Ruisbroek 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "18-03-1979",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "249 Ruisbroek 1", "uit": "Bye"},
+      {"tr": "8", "ur": "8", "thuis": "425 Dendermonde 3", "uit": "438 Deinze 1"},
+      {"tr": "5", "ur": "10", "thuis": "Post Gent 1", "uit": "402 Jean Jaur\u00e8s Gent 5"},
+      {"tr": "4", "ur": "12", "thuis": "240 Machelen 2", "uit": "401 K Gentse SRL 5"},
+      {"tr": "5", "ur": "11", "thuis": "417 Aalst 2", "uit": "418 Geraardsbergen 2"},
+      {"tr": "11", "ur": "5", "thuis": "436 Lokeren 2", "uit": "228 Dworp 2"}
+    ]
+  }
+]
