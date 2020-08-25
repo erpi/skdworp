@@ -119,7 +119,7 @@
       {"tr": "2", "ur": "2", "tspeler": "Janssens Fritz", "uspeler": "Devos H", "telo": "1245", "uelo": "", "tstam": "57282", "ustam": ""},
       {"tr": "3", "ur": "1", "tspeler": "Debast Patrick", "uspeler": "Van de Leen R", "telo": "1177", "uelo": "", "tstam": "76333", "ustam": ""},
       {"tr": "3", "ur": "1", "tspeler": "Cornelis Eric", "uspeler": "Bavinje", "telo": "1136", "uelo": "", "tstam": "76317", "ustam": ""},
-      {"tr": "3", "ur": "0", "tspeler": "Malfliet Koen", "uspeler": "ff", "telo": "807", "uelo": "", "tstam": "64327", "ustam": ""}
+      {"tr": "3F", "ur": "0F", "tspeler": "Malfliet Koen", "uspeler": "(forfait)", "telo": "807", "uelo": "", "tstam": "64327", "ustam": ""}
     ]
   },
   {
@@ -134,8 +134,8 @@
     "borden": [
       {"tr": "1", "ur": "3", "tspeler": "Van Laere Etienne", "uspeler": "Brancart Marc", "telo": "", "uelo": "1328", "tstam": "", "ustam": "nm"},
       {"tr": "1", "ur": "3", "tspeler": "Vandevelde J", "uspeler": "Pletinckx Eddy", "telo": "", "uelo": "1317", "tstam": "", "ustam": "76325"},
-      {"tr": "0", "ur": "3", "tspeler": "ff", "uspeler": "Debast Patrick", "telo": "", "uelo": "1177", "tstam": "", "ustam": "76333"},
-      {"tr": "0", "ur": "3", "tspeler": "ff", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1136", "tstam": "", "ustam": "76317"}
+      {"tr": "0F", "ur": "3F", "tspeler": "(forfait)", "uspeler": "Debast Patrick", "telo": "", "uelo": "1177", "tstam": "", "ustam": "76333"},
+      {"tr": "0F", "ur": "3F", "tspeler": "(forfait)", "uspeler": "Cornelis Eric", "telo": "", "uelo": "1136", "tstam": "", "ustam": "76317"}
     ]
   },
   {
