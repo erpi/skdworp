@@ -21,7 +21,7 @@ $(document).ready(function(){
             }
             return i;
         }
-        
+
         $(uitslagenId + ' > tbody  > tr').each(function() {
             tds = $(this).children('td');
             if (tds.length == 7) {
@@ -144,7 +144,7 @@ $(document).ready(function(){
         for (i = 1; i < rooster.length; i++) {
             rooster[0].splice(i + 1, 0, i);
             rooster[i].unshift(i);
-            rooster[i][i + 1] = 'x';
+            rooster[i][i + 1] = 'XX';
         }
         // console.log(rooster);
     }
