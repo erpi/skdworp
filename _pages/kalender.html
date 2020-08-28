@@ -3,23 +3,22 @@ layout: pills
 title: Kalender
 description: Dworpse Schaakkring. Agenda 2019-2020.
 permalink: /kalender/
-jaar1: "2019"
-jaar2: "2020"
+jaar1: "2020"
+jaar2: "2021"
 tabs:
   - 2020
-  - 2019
-  - jeugd stap 1
   - externe kalenders
 last_modified_at: 2019-10-21
 ---
 {% assign tab = page.tabs[0] %}
 {% include tab-pane-start.html href=tab aktief=true %}
-{% include table-kalender.html jaar=page.jaar2 %}
+{% include table-kalender.html jaar=page.jaar1 %}
 {% include tab-pane-end.html %}
 
+{% comment %}
 {% assign tab = page.tabs[1] %}
 {% include tab-pane-start.html href=tab aktief=false %}
-{% include table-kalender.html jaar=page.jaar1 %}
+{% include table-kalender.html jaar=page.jaar2 %}
 {% include tab-pane-end.html %}
 
 {% assign tab = page.tabs[2] %}
@@ -27,10 +26,11 @@ last_modified_at: 2019-10-21
 <p>De lessen vinden elke zaterdagmorgen plaats van 11u tot 12u30 in 't oud kasteel - kasteelstraat 96 - 1500 halle</p>
 {% include table-kalender-jeugd.html %}
 {% include tab-pane-end.html %}
+{% endcomment %}
 
-{% assign tab = page.tabs[3] %}
-{% comment %}
 {% assign tab = page.tabs[1] %}
+{% comment %}
+{% assign tab = page.tabs[3] %}
 {% endcomment %}
 {% include tab-pane-start.html href=tab aktief=false %}
 <h3>goede kalenders om het schaakgebeuren in belgië en omstreken te volgen</h3>
