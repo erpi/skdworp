@@ -16,25 +16,25 @@
 # < en/of > teken kan ook probleem zijn in yaml. oplossing ???
 voorzitter:
   functie: voorzitter
-  naam: eric cornelis
+  naam: Eric Cornelis
   telefoon: 02 360 32 87
   gsm: 0470 65 17 54
   email: SebMyn1aTO\\eeZW^]V`a^V`[  # vigenère
 secretaris:
   functie: secretaris &amp; tornooileider
-  naam: bernard malfliet
+  naam: Bernard Malfliet
   telefoon:
   gsm: 0471 98 33 87
   email: .[h^dIZfbQbfL\\Z_[YRRfKcN]cLb # vigenère
 penningmeester:
   functie: penningmeester &amp; jeugdlessen
-  naam: diederik lot
+  naam: Diederik Lot
   telefoon:
   gsm: 0495 31 05 91
   email: R\^N\\ZZebZbmw^URcSiVhW # vigenère
 webmaster:
   functie: webmaster
-  naam: pieter ertveldt
+  naam: Pieter Ertveldt
   telefoon:
   gsm:
   email: P`^Oj\Vlta^]afZauISj^
