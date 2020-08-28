@@ -15,6 +15,7 @@ layout: compress
       {% if page.title %}<h1>{{ page.title | downcase }}</h1>{% endif %}
       {% if page.subtitle %}<h2>{{ page.subtitle | downcase }}</h2>{% endif %}
       {% if page.tempo %}<p class="lead">tempo: {{ page.tempo | downcase }}</p>{% endif %}
+      {% if page.message %}<p>{{ page.message | downcase }}</p>{% endif %}
       {{ content }}
     </div>
       {% include footer.html %}
