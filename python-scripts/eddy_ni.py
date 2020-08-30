@@ -174,7 +174,7 @@ class generator:
                 if isinstance(data[7], float):
                     data[7] = int(round(data[7]))
                 # verwijderen van None waarden uit 'data'
-                data = [unicode(j).encode('utf-8')
+                data = [unicode(j)
                         for j in ["" if i is None else i for i in data]]
                 ronde = OrderedDict(zip(
                     ("ronde", "datum", "thuis", "uit",
@@ -187,7 +187,7 @@ class generator:
                     offset = (3, 5, 1, 7, 2, 8, 0, 6)
                     bord = ["" if j is None else j for j in [
                         row[i].value for i in offset]]
-                    bord = [unicode(i).encode('utf-8') for i in bord]
+                    bord = [unicode(i) for i in bord]
                     # voeg alleen bord toe als er ergens iets is ingevuld in de
                     # rij
                     if any(bord):
@@ -200,7 +200,7 @@ class generator:
                 if borden or any(data[2:]):
                     ronde_lijst.append(ronde)
             json_string = json.dumps(
-                ronde_lijst, indent=2, separators=(',', ': '))
+                ronde_lijst, ensure_ascii=False, indent=2, separators=(',', ': '))
             # verwijder het teveel aan whitspace en newlines met behulp van
             # regular expressions
             r = re.compile(r'''
