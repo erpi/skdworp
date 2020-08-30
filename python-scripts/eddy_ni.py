@@ -145,7 +145,8 @@ class generator:
             self._verbose(rijen)
             if rijen:
                 with open(bestandsnaam, 'wb') as csvfile:
-                    csvwriter = csv.writer(csvfile, quoting=csv.QUOTE_NONE)
+                    csvwriter = csv.writer(csvfile, quoting=csv.QUOTE_NONE,
+                                           lineterminator='\n')
                     csvwriter.writerows(rijen)
 
     def json(self, ploeg=0):
