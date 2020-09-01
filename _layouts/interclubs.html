@@ -2,9 +2,36 @@
 layout: default
 ---
 {% comment %}
-we onderzoeken eerst of er interclubs-verslagen zijn voor het betreffende seizoen.
-indien wel, dan wordt de variabele "posts" op "true" gezet.
-een seizoen start en eindigt op 1 september
+We maken een variabele "submap" voor het selecteren van de juiste submap in de directory _data/ni/
+bv. "2016" als waarde voor beginjaar geeft als waarde voor submap "ni1617".
+{% endcomment %}
+{% capture submap %}ni{{ page.beginjaar | slice: 2, 2 }}{{ page.beginjaar | plus: 1 | slice: 2, 2 }}{% endcapture %}
+
+{% comment %}
+We definiëren een array "volgorde" met de volgorde waarin de uitslagen op de pagina komen.
+De volgorde in deze array bepaalt de volgorde van de tabs op de webpagina.
+{% endcomment %}
+{% assign volgorde = "eindstand,tussenstand,individueel,ploegen" %}
+{% assign volgorde = volgorde | split: "," %}
+
+{% comment %}
+We definiëren een array "bestanden_in_volgorde" met daarin de bestandsnamen van alle uitslagen,
+netjes in volgorde zoals de tabs op de webpagina
+{% endcomment %}
+{% assign bestanden = site.data.ni[submap] | sort %}
+{% assign bestanden_in_volgorde = "" | split: "," %}
+{% for soort in volgorde %}
+  {% for bestand in bestanden %}
+    {% if bestand[0] contains soort %}
+      {% assign bestanden_in_volgorde = bestanden_in_volgorde | push: bestand %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% comment %}
+We onderzoeken eerst of er interclubs-verslagen zijn voor het betreffende seizoen.
+Indien wel, dan wordt de variabele "posts" op "true" gezet.
+Een seizoen start en eindigt op 1 september.
 {% endcomment %}
 {% capture begintijd %}{{ page.beginjaar }}-09-01{% endcapture %}
 {% capture eindtijd %}{{ page.beginjaar | plus: 1 }}-09-01{% endcapture %}
@@ -25,34 +52,40 @@ een seizoen start en eindigt op 1 september
 {% endfor %}
 
 {% comment %}
-maak een variabele "submap" om de juiste interclubs map te zoeken in de directory _data/ni/
-bv. "2016" als waarde voor beginjaar geeft als waarde voor submap "ni1617"
+We maken de namen voor de tabs op basis van de bestandsnamen in de data directory.
+bv. "eindstand_dworp_1_3b.csv" geeft als waarde voor "tab" "eindstand 3b".
+We steken al deze waarden in de array "tabs" om ze later te hergebruiken.
 {% endcomment %}
-{% capture submap %}ni{{ page.beginjaar | slice: 2, 2 }}{{ page.beginjaar | plus: 1 | slice: 2, 2 }}{% endcapture %}
-{% assign gesorteerde_bestanden = site.data.ni[submap] | sort %}
+{% assign tabs = "" | split: "," %}
+
+{% comment %}
+We creëren de navigatie-pills, de eerste moet class="active" krijgen, daarvoor dient
+de variabele "eerste".
+{% endcomment %}
+{% assign eerste = true %}
 <ul class="nav nav-pills">
-  {% if posts %}
-  {% comment %}
-  er zijn verslagen, dus we moeten een extra tabblad "verslagen" maken
-  {% endcomment %}
+{% if posts %}
   <li class="active">
     <a data-toggle="pill" href="#verslagen">verslagen</a>
   </li>
-  {% endif %}
-  {% comment %}
-  we maken de namen voor de overige tabs op basis van de bestandsnamen in de data directory
-  bv. "eindstand_dworp_1_3b.csv" geeft als waarde voor "tab" "eindstand 3b"
-  we steken al deze waarden in de array "tabs" om ze later te hergebruiken
-  {% endcomment %}
-  {% assign tabs = "" | split: "," %}
-  {% for bestand in gesorteerde_bestanden %}
-  {% assign tab = bestand[0] | remove: "_dworp_1" | remove: "_dworp_2" | remove: "_dworp_3" | remove: "_dworp_4" | replace: "_", " " %}
-  {% assign tabs = tabs | push: tab %}
-  <li{% if posts == false and forloop.first %} class="active"{% endif %}>
+  {% assign eerste = false %}
+{% endif %}
+{% for bestand in bestanden_in_volgorde %}
+  {% capture tab %}
+  {{ bestand[0] | replace: "_", " " | truncatewords: 1, " " }}{{ bestand[0] | slice: -2, 2 }}
+  {% endcapture %}
+  <li{% if eerste %} class="active"{% endif %}>
     <a data-toggle="pill" href="#{{ tab | slugify }}">{{ tab }}</a>
   </li>
-  {% endfor %}
+  {% assign tabs = tabs | push: tab %}
+  {% assign eerste = false %}
+{% endfor %}
 </ul>
+
+{% comment %}
+Tenslotte plaatsen we de uitslagen onder de navigatie-pills.
+{% endcomment %}
+
 
 <div class="tab-content">
 {% if posts %}
@@ -61,8 +94,7 @@ bv. "2016" als waarde voor beginjaar geeft als waarde voor submap "ni1617"
   {% include tab-pane-end.html %}
 {% endif %}
 
-{% for bestand in gesorteerde_bestanden %}
-
+{% for bestand in bestanden_in_volgorde %}
   {% assign tab = tabs[forloop.index0] | slugify %}
   {% if posts %}
     {% include tab-pane-start.html href=tab aktief=false %}
@@ -85,7 +117,7 @@ bv. "2016" als waarde voor beginjaar geeft als waarde voor submap "ni1617"
     {% include table-interclubs-eindstand.html datafile=data %}
   {% elsif bestand[0] contains "individueel" %}
     {% include table-interclubs-indiv.html datafile=data jaar='' %}
-  {% elsif bestand[0] contains "uitslagen" %}
+  {% elsif bestand[0] contains "ploegen" %}
     {% include table-interclubs-uitslagen.html datafile=data id=id1 %}
   {% elsif bestand[0] contains "tussenstand" %}
     {% include table-tussenstand.html id=id2 %}

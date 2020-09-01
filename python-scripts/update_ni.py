@@ -157,7 +157,7 @@ def maak_json_ploeg_uitslagen(verbose=False):
         logger.debug(json_string)
         # schrijf json-bestand
         bestandsnaam = os.path.join(
-            ni_dir, 'uitslagen_{0}_{1}_{2}.json'.format(club, ploeg, reeksnamen[i]))
+            ni_dir, 'ploegen_{0}_{1}_{2}.json'.format(club, ploeg, reeksnamen[i]))
         backup_vorig_bestand(bestandsnaam)
         with open(bestandsnaam, 'w') as f:
             f.write(json_string)
