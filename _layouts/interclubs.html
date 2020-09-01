@@ -52,6 +52,17 @@ Een seizoen start en eindigt op 1 september.
 {% endfor %}
 
 {% comment %}
+We onderzoeken of er een bestand met de prijs van de inzet bestaat.
+Indien wel, dan wordt de variabele "inzet" op "true" gezet.
+{% endcomment %}
+{% capture inzet_bestand %}inzet{{ page.beginjaar | slice: 2, 2 }}{{ page.beginjaar | plus: 1 | slice: 2, 2 }}{% endcapture %}
+{% if site.data.inzet[inzet_bestand] %}
+  {% assign inzet = true %}
+{% else %}
+  {% assign inzet = false %}
+{% endif %}
+
+{% comment %}
 We maken de namen voor de tabs op basis van de bestandsnamen in de data directory.
 bv. "eindstand_dworp_1_3b.csv" geeft als waarde voor "tab" "eindstand 3b".
 We steken al deze waarden in de array "tabs" om ze later te hergebruiken.
@@ -80,26 +91,31 @@ de variabele "eerste".
   {% assign tabs = tabs | push: tab %}
   {% assign eerste = false %}
 {% endfor %}
+{% if inzet %}
+  <li{% if eerste %} class="active"{% endif %}>
+    <a data-toggle="pill" href="#inzet">inzet</a>
+  </li>
+{% endif %}
+
 </ul>
 
 {% comment %}
 Tenslotte plaatsen we de uitslagen onder de navigatie-pills.
 {% endcomment %}
-
-
+{% assign eerste = true %}
 <div class="tab-content">
 {% if posts %}
   {% include tab-pane-start.html href='verslagen' aktief=true %}
   {% include verslagen-volgens-tag.html begintijd=begintijd eindtijd=eindtijd tag="ni" %}
   {% include tab-pane-end.html %}
+  {% assign eerste = false %}
 {% endif %}
 
 {% for bestand in bestanden_in_volgorde %}
   {% assign tab = tabs[forloop.index0] | slugify %}
-  {% if posts %}
-    {% include tab-pane-start.html href=tab aktief=false %}
-  {% elsif forloop.first %}
+  {% if eerste %}
     {% include tab-pane-start.html href=tab aktief=true %}
+    {% assign eerste = false %}
   {% else %}
     {% include tab-pane-start.html href=tab aktief=false %}
   {% endif %}
@@ -125,5 +141,16 @@ Tenslotte plaatsen we de uitslagen onder de navigatie-pills.
 
   {% include tab-pane-end.html %}
 {% endfor %}
+{% if inzet %}
+  {% if eerste %}
+    {% include tab-pane-start.html href='inzet' aktief=true %}
+  {% else %}
+    {% include tab-pane-start.html href='inzet' aktief=false %}
+  {% endif %}
+  {% assign data = site.data.inzet[inzet_bestand] %}
+  {% include table-eindstand.html datafile=data %}
+  {% include tab-pane-end.html %}
+{% endif %}
+
 </div>
 {{ content }}
