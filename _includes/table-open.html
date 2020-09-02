@@ -12,10 +12,10 @@
         {% else %}
           {% assign teller = teller | plus: 1 %}
           <td class="aligncenter">{{ teller }}</td>
-          <td>{{ bord.wit | downcase }}</td><td>-</td>
-          <td>{{ bord.zwart | downcase }}</td>
-          <td class="alignright">{{ bord.wr | downcase }}</td>
-          <td class="aligncenter">-</td><td>{{ bord.zr | downcase }}</td>
+          <td>{{ bord.wit }}</td><td>-</td>
+          <td>{{ bord.zwart }}</td>
+          <td class="alignright">{{ bord.wr }}</td>
+          <td class="aligncenter">-</td><td>{{ bord.zr }}</td>
         {% endif %}
       </tr>
       {% endfor %}

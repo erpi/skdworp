@@ -1,6 +1,6 @@
 /*
 grotendeels gebaseerd op snelschaak.js
-opSorteerRooster() en opRoosterVervolledigen() moeten nog verder aangepast worden 
+opSorteerRooster() en opRoosterVervolledigen() moeten nog verder aangepast worden
 */
 
 $(document).ready(function(){
@@ -53,7 +53,7 @@ $(document).ready(function(){
             "ronde_7", "ronde_8", "ronde_9", "ronde_10", "ronde_11"];
         function indexNaam(naam) {
             var i;
-            naam = naam.toLowerCase();
+            //naam = naam.toLowerCase();
             i = namen.indexOf(naam);
             if (i == -1) {
                 // naam zit nog niet in de array 'namen'
