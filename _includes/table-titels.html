@@ -2,7 +2,7 @@
   <table class="table">
     <tbody>
       {% for persoon in include.datafile %}
-      <tr><td>{{ persoon.categorie | downcase}}</td><td>{{ persoon.naam | downcase }}</td></tr>
+      <tr><td>{{ persoon.categorie }}</td><td>{{ persoon.naam  }}</td></tr>
       {% endfor %}
     </tbody>
   </table>

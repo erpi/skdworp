@@ -4,12 +4,12 @@
       {% for partij in include.datafile %}
       <tr>
         <td>{{ partij.bord}}</td>
-        <td class="alignleft">{{ partij.wit | downcase}} ({{ partij.welo}})</td>
+        <td class="alignleft">{{ partij.wit }} ({{ partij.welo}})</td>
         <td>-</td>
-        <td class="alignleft">{{ partij.zwart | downcase}} ({{ partij.zelo}})</td>
-        <td>{{ partij.wres | downcase}}</td>
+        <td class="alignleft">{{ partij.zwart }} ({{ partij.zelo}})</td>
+        <td>{{ partij.wres }}</td>
         <td>-</td>
-        <td>{{ partij.zres | downcase}}</td>
+        <td>{{ partij.zres }}</td>
       </tr>
       {% endfor %}
     </tbody>

@@ -11,7 +11,7 @@
       {% for persoon in include.datafile %}
       <tr>
         {% for kolom in persoon %}
-        <td>{{ kolom[1] | downcase }}</td>
+        <td>{{ kolom[1] }}</td>
         {% endfor %}
       </tr>
       {% endfor %}
