@@ -43,7 +43,7 @@
     "borden": [
       {"tr": "0", "ur": "1", "tspeler": "Polin, Giulia", "uspeler": "Boutchon, Gaston", "telo": 1826, "uelo": 1868, "tstam": 21127, "ustam": 28606},
       {"tr": "0", "ur": "1", "tspeler": "Cargnelutti, Valentino", "uspeler": "Bertrand, Stijn", "telo": 1819, "uelo": 1726, "tstam": 10752, "ustam": 21253},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Reghabi Gholami, Jahangir", "uspeler": "Van De Velde, Filip", "telo": 1776, "uelo": 1723, "tstam": 14805, "ustam": 31682},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Reghabi Gholami, Jahangir", "uspeler": "Van de Velde, Filip", "telo": 1776, "uelo": 1723, "tstam": 14805, "ustam": 31682},
       {"tr": "1", "ur": "0", "tspeler": "Sofia, Tommaso", "uspeler": "Degraeve, Ruben", "telo": 1449, "uelo": 1548, "tstam": 13408, "ustam": 13987}
     ]
   },
@@ -74,7 +74,7 @@
     "ugem": 1627,
     "borden": [
       {"tr": "0.5", "ur": "0.5", "tspeler": "Salvaggio, Samuel", "uspeler": "Boutchon, Gaston", "telo": 1704, "uelo": 1868, "tstam": 14519, "ustam": 28606},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Hellebrandt, Albert", "uspeler": "Van De Velde, Filip", "telo": 1584, "uelo": 1723, "tstam": 44296, "ustam": 31682},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Hellebrandt, Albert", "uspeler": "Van de Velde, Filip", "telo": 1584, "uelo": 1723, "tstam": 44296, "ustam": 31682},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Artisien, Christian", "uspeler": "Taleb, Mohamad", "telo": 1520, "uelo": 1427, "tstam": 73687, "ustam": 64611},
       {"tr": "0", "ur": "1", "tspeler": "Dumortier, Andre", "uspeler": "Baert, Yves", "telo": 1420, "uelo": 1490, "tstam": 50298, "ustam": 48721}
     ]
@@ -105,7 +105,7 @@
     "tgem": 1409,
     "ugem": 1575,
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Baeten, Yves", "uspeler": "Van De Velde, Filip", "telo": 1665, "uelo": 1723, "tstam": 33618, "ustam": 31682},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Baeten, Yves", "uspeler": "Van de Velde, Filip", "telo": 1665, "uelo": 1723, "tstam": 33618, "ustam": 31682},
       {"tr": "0", "ur": "1", "tspeler": "Cornelis, Werner", "uspeler": "Cornelis, Eric", "telo": 1346, "uelo": 1660, "tstam": 8788, "ustam": 76317},
       {"tr": "0", "ur": "1", "tspeler": "Burgdorffer, Anton", "uspeler": "Taleb, Mohamad", "telo": 1275, "uelo": 1427, "tstam": 28576, "ustam": 64611},
       {"tr": "0", "ur": "1", "tspeler": "De Visser, Stefaan", "uspeler": "Baert, Yves", "telo": 1351, "uelo": 1490, "tstam": 6891, "ustam": 48721}

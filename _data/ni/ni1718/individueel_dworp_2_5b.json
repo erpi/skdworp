@@ -59,7 +59,7 @@
     "borden": [
       {"tr": "0.5", "ur": "0.5", "tspeler": "Vennekens, Camiel", "uspeler": "Ooghe, Jean-Marie", "telo": 1828, "uelo": 1818, "tstam": 37168, "ustam": 70742},
       {"tr": "0", "ur": "1", "tspeler": "De Bosscher, Peter", "uspeler": "Raquet, Bernard", "telo": 1789, "uelo": 1721, "tstam": 655, "ustam": 96900},
-      {"tr": "0", "ur": "1", "tspeler": "Van De Velde, Filip", "uspeler": "Micciche, Ruben", "telo": 1727, "uelo": 1478, "tstam": 31682, "ustam": 14274},
+      {"tr": "0", "ur": "1", "tspeler": "Van de Velde, Filip", "uspeler": "Micciche, Ruben", "telo": 1727, "uelo": 1478, "tstam": 31682, "ustam": 14274},
       {"tr": "1", "ur": "0", "tspeler": "Baert, Yves", "uspeler": "Van De Water, Marc", "telo": 1468, "uelo": 1564, "tstam": 48721, "ustam": 78093}
     ]
   },
@@ -91,7 +91,7 @@
     "borden": [
       {"tr": "1", "ur": "0", "tspeler": "Vennekens, Camiel", "uspeler": "Van Der Voorde, Sonja", "telo": 1828, "uelo": 1408, "tstam": 37168, "ustam": 43346},
       {"tr": "1", "ur": "0", "tspeler": "De Bosscher, Peter", "uspeler": "Bultijnck, Kristoff", "telo": 1789, "uelo": "ng", "tstam": 655, "ustam": 16944},
-      {"tr": "1", "ur": "0", "tspeler": "Van De Velde, Filip", "uspeler": "Huysman, Robert", "telo": 1727, "uelo": 1484, "tstam": 31682, "ustam": 15482},
+      {"tr": "1", "ur": "0", "tspeler": "Van de Velde, Filip", "uspeler": "Huysman, Robert", "telo": 1727, "uelo": 1484, "tstam": 31682, "ustam": 15482},
       {"tr": "1", "ur": "0", "tspeler": "Cornelis, Eric", "uspeler": "Geerts, Mark-Johan", "telo": 1675, "uelo": "ng", "tstam": 76317, "ustam": 13175}
     ]
   },
@@ -107,7 +107,7 @@
     "borden": [
       {"tr": "1", "ur": "0", "tspeler": "Vennekens, Camiel", "uspeler": "Solis Calancha, Jordi", "telo": 1828, "uelo": 1548, "tstam": 37168, "ustam": 17688},
       {"tr": "1", "ur": "0", "tspeler": "De Bosscher, Peter", "uspeler": "Foissey, Thibault", "telo": 1789, "uelo": 1390, "tstam": 655, "ustam": 14211},
-      {"tr": "1", "ur": "0", "tspeler": "Van De Velde, Filip", "uspeler": "Foissey, Laurent", "telo": 1727, "uelo": 1196, "tstam": 31682, "ustam": 16138},
+      {"tr": "1", "ur": "0", "tspeler": "Van de Velde, Filip", "uspeler": "Foissey, Laurent", "telo": 1727, "uelo": 1196, "tstam": 31682, "ustam": 16138},
       {"tr": "1", "ur": "0", "tspeler": "Cornelis, Eric", "uspeler": "Furnelle, Julien", "telo": 1675, "uelo": "ng", "tstam": 76317, "ustam": 17673}
     ]
   },
@@ -123,7 +123,7 @@
     "borden": [
       {"tr": "0.5", "ur": "0.5", "tspeler": "Vennekens, Camiel", "uspeler": "De Wergifosse, Etienne", "telo": 1828, "uelo": 1669, "tstam": 37168, "ustam": 82589},
       {"tr": "0", "ur": "1", "tspeler": "De Bosscher, Peter", "uspeler": "Meunier, Willy", "telo": 1789, "uelo": 1668, "tstam": 655, "ustam": 1279},
-      {"tr": "1", "ur": "0", "tspeler": "Van De Velde, Filip", "uspeler": "Godeaux, Olivier", "telo": 1727, "uelo": 1643, "tstam": 31682, "ustam": 93157},
+      {"tr": "1", "ur": "0", "tspeler": "Van de Velde, Filip", "uspeler": "Godeaux, Olivier", "telo": 1727, "uelo": 1643, "tstam": 31682, "ustam": 93157},
       {"tr": "1", "ur": "0", "tspeler": "Bertrand, Stijn", "uspeler": "Anciaux, Adrien", "telo": 1634, "uelo": "ng", "tstam": 21253, "ustam": 17648}
     ]
   },
@@ -140,7 +140,7 @@
       {"tr": "0", "ur": "1", "tspeler": "Poussart, Antoine", "uspeler": "Verrijken, Geert", "telo": "ng", "uelo": 1942, "tstam": 17617, "ustam": 62766},
       {"tr": "0", "ur": "1", "tspeler": "Artisien, Christian", "uspeler": "Vennekens, Camiel", "telo": 1539, "uelo": 1828, "tstam": 73687, "ustam": 37168},
       {"tr": "0", "ur": "1", "tspeler": "Dumortier, Andre", "uspeler": "De Bosscher, Peter", "telo": 1470, "uelo": 1789, "tstam": 50298, "ustam": 655},
-      {"tr": "0", "ur": "1", "tspeler": "Scribe, Jean", "uspeler": "Van De Velde, Filip", "telo": 1214, "uelo": 1727, "tstam": 58173, "ustam": 31682}
+      {"tr": "0", "ur": "1", "tspeler": "Scribe, Jean", "uspeler": "Van de Velde, Filip", "telo": 1214, "uelo": 1727, "tstam": 58173, "ustam": 31682}
     ]
   },
   {

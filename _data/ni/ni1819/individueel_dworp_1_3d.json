@@ -50,7 +50,7 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Spaens, Kjell", "uspeler": "Pierard, Florian", "telo": 1982, "uelo": 2098, "tstam": 29343, "ustam": 89711},
       {"tr": "0", "ur": "1", "tspeler": "Lot, Diederik", "uspeler": "Kieffer, Christian", "telo": 2018, "uelo": 2094, "tstam": 9954, "ustam": 87122},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Denys, Frank", "uspeler": "Di Cosmo, Jonathan", "telo": 1911, "uelo": 2018, "tstam": 21881, "ustam": 90981},
-      {"tr": "0", "ur": "1", "tspeler": "Van De Velde, Filip", "uspeler": "Graeber, Ivo", "telo": 1718, "uelo": 1958, "tstam": 31682, "ustam": 13638}
+      {"tr": "0", "ur": "1", "tspeler": "Van de Velde, Filip", "uspeler": "Graeber, Ivo", "telo": 1718, "uelo": 1958, "tstam": 31682, "ustam": 13638}
     ]
   },
   {
@@ -140,7 +140,7 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Spaens, Kjell", "uspeler": "Demoulin, Joachim", "telo": 1982, "uelo": 2044, "tstam": 29343, "ustam": 72435},
       {"tr": "0", "ur": "1", "tspeler": "Lot, Diederik", "uspeler": "Solsky, Itzhak", "telo": 2018, "uelo": 2020, "tstam": 9954, "ustam": 14119},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Denys, Frank", "uspeler": "Vanmuylder, Dany", "telo": 1911, "uelo": 1926, "tstam": 21881, "ustam": 85375},
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Van De Velde, Filip", "uspeler": "Onrubia-Aviles, Carlos", "telo": 1718, "uelo": 1892, "tstam": 31682, "ustam": 85103}
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van de Velde, Filip", "uspeler": "Onrubia-Aviles, Carlos", "telo": 1718, "uelo": 1892, "tstam": 31682, "ustam": 85103}
     ]
   },
   {

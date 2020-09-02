@@ -9,7 +9,7 @@
     "tgem": 1801,
     "ugem": 1644,
     "borden": [
-      {"tr": "0.5", "ur": "0.5", "tspeler": "Bertram, Johannes", "uspeler": "Van De Velde, Filip", "telo": 1912, "uelo": 1723, "tstam": 60503, "ustam": 31682},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Bertram, Johannes", "uspeler": "Van de Velde, Filip", "telo": 1912, "uelo": 1723, "tstam": 60503, "ustam": 31682},
       {"tr": "1", "ur": "0", "tspeler": "Frederiksen, Kristian Pad", "uspeler": "Palmans, Niels", "telo": 1822, "uelo": 1565, "tstam": 60007, "ustam": 17733},
       {"tr": "1", "ur": "0", "tspeler": "Klymonchuk, Viktor", "uspeler": "Lerinckx, Niels", "telo": 1738, "uelo": 0, "tstam": 21453, "ustam": 12699},
       {"tr": "1", "ur": "0", "tspeler": "Peyrebrune, Julien", "uspeler": "Vandevelde, Jannes", "telo": 1730, "uelo": 0, "tstam": 16660, "ustam": 19931}
@@ -57,7 +57,7 @@
     "tgem": 1644,
     "ugem": 1292,
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Van De Velde, Filip", "uspeler": "Van De Craen, Piet", "telo": 1723, "uelo": 1507, "tstam": 31682, "ustam": 7013},
+      {"tr": "1", "ur": "0", "tspeler": "Van de Velde, Filip", "uspeler": "Van De Craen, Piet", "telo": 1723, "uelo": 1507, "tstam": 31682, "ustam": 7013},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Palmans, Niels", "uspeler": "Shrimali, Priyansh", "telo": 1565, "uelo": 1219, "tstam": 17733, "ustam": 21201},
       {"tr": "0", "ur": "1", "tspeler": "Huyghe, Felix", "uspeler": "Liger, Maxence", "telo": 0, "uelo": 1150, "tstam": 17486, "ustam": 17315},
       {"tr": "0", "ur": "1", "tspeler": "Beckers, Stijn", "uspeler": "Violini, Enrico Giuseppe", "telo": 0, "uelo": 0, "tstam": 17472, "ustam": 21004}
@@ -89,7 +89,7 @@
     "tgem": 1644,
     "ugem": 1537,
     "borden": [
-      {"tr": "1", "ur": "0", "tspeler": "Van De Velde, Filip", "uspeler": "Vausort, Andre", "telo": 1723, "uelo": 1783, "tstam": 31682, "ustam": 9563},
+      {"tr": "1", "ur": "0", "tspeler": "Van de Velde, Filip", "uspeler": "Vausort, Andre", "telo": 1723, "uelo": 1783, "tstam": 31682, "ustam": 9563},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Palmans, Niels", "uspeler": "Wery, Arthur", "telo": 1565, "uelo": 1522, "tstam": 17733, "ustam": 13645},
       {"tr": "0", "ur": "1", "tspeler": "Huyghe, Felix", "uspeler": "Keller, Louison", "telo": 0, "uelo": 1306, "tstam": 17486, "ustam": 15221},
       {"tr": "0", "ur": "1", "tspeler": "Beckers, Stijn", "uspeler": "Simeons, Jean", "telo": 0, "uelo": 0, "tstam": 17472, "ustam": 19635}

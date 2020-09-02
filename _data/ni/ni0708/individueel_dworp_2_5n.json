@@ -117,7 +117,7 @@
     "ugem": "1804",
     "borden": [
       {"tr": "0", "ur": "1", "tspeler": "Desmedt Jean-Pierre", "uspeler": "Mertens Fran\u00e7ois", "telo": "1563", "uelo": "1814", "tstam": "33910", "ustam": "31526"},
-      {"tr": "1", "ur": "0", "tspeler": "Van De Velde Filip", "uspeler": "De Bosscher Peter", "telo": "1379", "uelo": "1808", "tstam": "31682", "ustam": "655"},
+      {"tr": "1", "ur": "0", "tspeler": "Van de Velde Filip", "uspeler": "De Bosscher Peter", "telo": "1379", "uelo": "1808", "tstam": "31682", "ustam": "655"},
       {"tr": "0", "ur": "1", "tspeler": "Van Mol Yves", "uspeler": "Ertveldt Pieter", "telo": "1452", "uelo": "1791", "tstam": "46302", "ustam": "48097"},
       {"tr": "0", "ur": "1", "tspeler": "Walraevens Arlette", "uspeler": "Carrette Bernard", "telo": "ng", "uelo": "ng", "tstam": "11241", "ustam": "11226"}
     ]
