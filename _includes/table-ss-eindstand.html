@@ -11,7 +11,7 @@
       {% for persoon in include.datafile %}
       <tr>
         {% for kolom in persoon %}
-        <td{% if forloop.index == 2 %} class="alignleft"{% endif %}>{{ kolom[1] | downcase }}</td>
+        <td{% if forloop.index == 2 %} class="alignleft"{% endif %}>{{ kolom[1] }}</td>
         {% endfor %}
       </tr>
       {% endfor %}

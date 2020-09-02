@@ -1,7 +1,7 @@
-nr,naam,1,2,3,4,5,6,Totaal,Stand,%
-1,serge vanderwaeren,X,1,2,1,2,2,8,1,80.00%
-2,diederik lot,1,X,1.5,1.5,2,2,8,1,80.00%
+nr,naam,1,2,3,4,5,6,totaal,stand,%
+1,Serge Vanderwaeren,X,1,2,1,2,2,8,1,80.00%
+2,Diederik Lot,1,X,1.5,1.5,2,2,8,1,80.00%
 3,Mo Taleb,0,0.5,X,1,2,1,4.5,3,45.00%
-4,filip van de velde,1,0.5,1,X,1,0,3.5,4,35.00%
-5,niels palmans,0,0,0,1,X,2,3,5,30.00%
-6,peter de bosscher,0,0,1,2,0,X,3,5,30.00%
+4,Filip Van de Velde,1,0.5,1,X,1,0,3.5,4,35.00%
+5,Niels Palmans,0,0,0,1,X,2,3,5,30.00%
+6,Peter De Bosscher,0,0,1,2,0,X,3,5,30.00%

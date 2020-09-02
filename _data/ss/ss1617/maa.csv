@@ -1,11 +1,11 @@
-nummer,naam,1,2,3,4,5,6,7,8,9,10,Totaal,Stand,%
-1,geert verrijken,X,1,1,1,1,1,1,1,1,1,9,1,100.00%
-2,diederik lot,0,X,1,0.5,1,1,1,1,1,1,7.5,2,83.33%
-3,serge vanderwaeren,0,0,X,0.5,1,0.5,1,1,1,1,6,3,66.67%
-4,filip van de velde,0,0.5,0.5,X,0,1,1,1,1,1,6,3,66.67%
-5,peter de bosscher,0,0,0,1,X,1,0,1,1,1,5,5,55.56%
-6,alex debeuckelaere,0,0,0.5,0,0,X,1,1,1,1,4.5,6,50.00%
-7,eric cornelis,0,0,0,0,1,0,X,1,1,1,4,7,44.44%
-8,sander lerinckx,0,0,0,0,0,0,0,X,1,1,2,8,22.22%
-9,stijn beckers,0,0,0,0,0,0,0,0,X,1,1,9,11.11%
-10,felix huyghe,0,0,0,0,0,0,0,0,0,X,0,10,0.00%
+nummer,naam,1,2,3,4,5,6,7,8,9,10,totaal,stand,%
+1,Geert Verrijken,X,1,1,1,1,1,1,1,1,1,9,1,100.00%
+2,Diederik Lot,0,X,1,0.5,1,1,1,1,1,1,7.5,2,83.33%
+3,Serge Vanderwaeren,0,0,X,0.5,1,0.5,1,1,1,1,6,3,66.67%
+4,Filip Van de Velde,0,0.5,0.5,X,0,1,1,1,1,1,6,3,66.67%
+5,Peter De Bosscher,0,0,0,1,X,1,0,1,1,1,5,5,55.56%
+6,Alex Debeuckelaere,0,0,0.5,0,0,X,1,1,1,1,4.5,6,50.00%
+7,Eric Cornelis,0,0,0,0,1,0,X,1,1,1,4,7,44.44%
+8,Sander Lerinckx,0,0,0,0,0,0,0,X,1,1,2,8,22.22%
+9,Stijn Beckers,0,0,0,0,0,0,0,0,X,1,1,9,11.11%
+10,Felix Huyghe,0,0,0,0,0,0,0,0,0,X,0,10,0.00%

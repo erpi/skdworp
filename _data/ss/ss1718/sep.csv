@@ -1,7 +1,7 @@
-nr,naam,1,2,3,4,5,6,Totaal,Stand,%
-1,diederik lot,X,1,1,1,1,1,5,1,100.00%
-2,eric cornelis,0,X,1,0,1,1,3,2,60.00%
-3,geert maeckelbergh,0,0,X,0.5,1,1,2.5,3,50.00%
-4,yves baert,0,1,0.5,X,0,1,2.5,3,50.00%
-5,stijn beckers,0,0,0,1,X,1,2,5,40.00%
+nr,naam,1,2,3,4,5,6,totaal,stand,%
+1,Diederik Lot,X,1,1,1,1,1,5,1,100.00%
+2,Eric Cornelis,0,X,1,0,1,1,3,2,60.00%
+3,Geert Maeckelbergh,0,0,X,0.5,1,1,2.5,3,50.00%
+4,Yves Baert,0,1,0.5,X,0,1,2.5,3,50.00%
+5,Stijn Beckers,0,0,0,1,X,1,2,5,40.00%
 6,Felix Huyghe,0,0,0,0,0,X,0,6,0.00%

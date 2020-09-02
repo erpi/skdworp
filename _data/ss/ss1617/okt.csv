@@ -1,7 +1,7 @@
-nr,naam,1,2,3,4,5,6,Totaal,Stand,%
-1,serge vanderwaeren,X,1,2,0.5,1.5,2,7,1,70.00%
-2,kjell spaens,1,X,1,1,2,1.5,6.5,2,65.00%
-3,walter de reymaeker,0,1,X,2,2,1,6,3,60.00%
-4,diederik lot,1.5,0,0,X,2,1.5,5,4,50.00%
-5,peter de bosscher,0.5,0,1,0,X,1.5,3,5,30.00%
-6,filip van de velde,0,0.5,1,0.5,0.5,X,2.5,6,25.00%
+nr,naam,1,2,3,4,5,6,totaal,stand,%
+1,Serge Vanderwaeren,X,1,2,0.5,1.5,2,7,1,70.00%
+2,Kjell Spaens,1,X,1,1,2,1.5,6.5,2,65.00%
+3,Walter De Reymaeker,0,1,X,2,2,1,6,3,60.00%
+4,Diederik Lot,1.5,0,0,X,2,1.5,5,4,50.00%
+5,Peter De Bosscher,0.5,0,1,0,X,1.5,3,5,30.00%
+6,Filip Van de Velde,0,0.5,1,0.5,0.5,X,2.5,6,25.00%

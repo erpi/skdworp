@@ -67,7 +67,7 @@ $(document).ready(function(){
             "feb", "maa", "apr", "mei", "jun"];
         function indexNaam(naam) {
             var i;
-            naam = naam.toLowerCase();
+            //naam = naam.toLowerCase();
             i = namen.indexOf(naam);
             if (i == -1) {
                 // naam zit nog niet in de array 'namen'
