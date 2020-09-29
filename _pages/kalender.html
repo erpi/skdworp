@@ -7,20 +7,21 @@ jaar1: "2020"
 jaar2: "2021"
 tabs:
   - 2020
+  - 2021
   - externe kalenders
-last_modified_at: 2019-10-21
+last_modified_at: 2020-09-29
 ---
 {% assign tab = page.tabs[0] %}
 {% include tab-pane-start.html href=tab aktief=true %}
 {% include table-kalender.html jaar=page.jaar1 %}
 {% include tab-pane-end.html %}
 
-{% comment %}
 {% assign tab = page.tabs[1] %}
 {% include tab-pane-start.html href=tab aktief=false %}
 {% include table-kalender.html jaar=page.jaar2 %}
 {% include tab-pane-end.html %}
 
+{% comment %}
 {% assign tab = page.tabs[2] %}
 {% include tab-pane-start.html href=tab aktief=false %}
 <p>De lessen vinden elke zaterdagmorgen plaats van 11u tot 12u30 in 't oud kasteel - kasteelstraat 96 - 1500 halle</p>
@@ -28,7 +29,7 @@ last_modified_at: 2019-10-21
 {% include tab-pane-end.html %}
 {% endcomment %}
 
-{% assign tab = page.tabs[1] %}
+{% assign tab = page.tabs[2] %}
 {% comment %}
 {% assign tab = page.tabs[3] %}
 {% endcomment %}
