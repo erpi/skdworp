@@ -12,7 +12,7 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 image:
   path: 'assets/images/2021/medailles_wachtebeke_fb.jpg'
-draft: true 
+draft: false
 ---
 Wat de verplichte corona-introductie betreft kunnen we het kort houden: (1) de organisatie heeft mijn inziens uitstekend werk verricht om alles zo veilig mogelijk te laten verlopen en (2) Jules, Mateo en Aaron keken er enorm naar uit en ik samen met hen.
 
