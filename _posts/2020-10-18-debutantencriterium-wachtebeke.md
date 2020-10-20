@@ -3,7 +3,7 @@ title: Debutantentornooi Wachtebeke
 tag: varia
 date: 2020-10-18 20:00:00 +0100
 auteur: Diederik
-description: ""
+description: "Jules, Mateo en Aaron keken er enorm naar uit en ik samen met hen."
 stelling_fen: ''
 stelling_titel: ''
 stelling_wit: ''
@@ -16,7 +16,7 @@ draft: false
 ---
 Wat de verplichte corona-introductie betreft kunnen we het kort houden: (1) de organisatie heeft mijn inziens uitstekend werk verricht om alles zo veilig mogelijk te laten verlopen en (2) Jules, Mateo en Aaron keken er enorm naar uit en ik samen met hen.
 
-In totaal waren er 37 deelnemers: 15 voor stap 1 en 22 voor stap 2. Onze drie schakers zitten op de grens van hun stap en dat was zichtbaar in de voorronde. Jules en Aaron wonnen hun reeks met het maximum van de punten. Mateo was tweede in zijn reeks met 3 uit 4. Iedereen op schema dus.
+In totaal waren er 37 deelnemers: 15 voor stap 1 en 22 voor stap 2. Onze drie schakers zitten op de grens van hun stap en dat was zichtbaar in de voorronde. Jules en Aaron wonnen hun reeks met het maximum van de punten. Mateo was tweede in zijn reeks met 3 uit 4. Iedereen op schema dus.<!--more-->
 
 In de finale was het super spannend. Mateo speelt heel snel maar maakt hierdoor meer fouten, een fase waar veel jonge spelers door moeten. Enkel tijd en veel spelen zullen hier verandering in brengen. Dat komt dus wel in orde!
 
