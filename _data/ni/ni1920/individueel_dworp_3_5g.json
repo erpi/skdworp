@@ -142,5 +142,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Taleb, Mohamad", "uspeler": "Schepens, Aron", "telo": 1427, "uelo": 1312, "tstam": 64611, "ustam": 19643},
       {"tr": "0", "ur": "1", "tspeler": "Baert, Yves", "uspeler": "Geerts, Mark-Johan", "telo": 1490, "uelo": 1198, "tstam": 48721, "ustam": 13175}
     ]
+  },
+  {
+    "ronde": "10",
+    "datum": "05-09-2021",
+    "thuis": "207 Les Deux Fous du Diogène 3",
+    "uit": "228 Dworp 3",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1432,
+    "ugem": 1721,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Castiau, Julien", "uspeler": "Boutchon, Gaston", "telo": 1477, "uelo": 1868, "tstam": 55549, "ustam": 28606},
+      {"tr": "0", "ur": "1", "tspeler": "Massoulie, Francois", "uspeler": "Van Hoofstat, Sam", "telo": 1387, "uelo": 1866, "tstam": 82457, "ustam": 39101},
+      {"tr": "1", "ur": "0", "tspeler": "Hauchamps, Maxime", "uspeler": "Pletinckx, Eddy", "telo": 0, "uelo": 1721, "tstam": 20540, "ustam": 76325},
+      {"tr": "0", "ur": "1", "tspeler": "Raptis, Filippos", "uspeler": "Taleb, Mohamad", "telo": 0, "uelo": 1427, "tstam": 20846, "ustam": 64611}
+    ]
   }
 ]

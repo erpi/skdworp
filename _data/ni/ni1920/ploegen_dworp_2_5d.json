@@ -111,12 +111,12 @@
     "ronde": "ronde 10",
     "datum": "15-03-2020",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "229 Woluwe 2"},
-      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 5", "uit": "228 Dworp 2"},
-      {"tr": "", "ur": "", "thuis": "952 Wavre 4", "uit": "114 K Mechelse SK 6"},
-      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "961 Braine l'Alleud 2"},
-      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 3", "uit": "239 Boitsfort 5"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 5", "uit": "244 Brussels CC 4"}
+      {"tr": "4F", "ur": "0F", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "229 Woluwe 2"},
+      {"tr": "4F", "ur": "0F", "thuis": "230 Leuven Centraal 5", "uit": "228 Dworp 2"},
+      {"tr": "0F", "ur": "4F", "thuis": "952 Wavre 4", "uit": "114 K Mechelse SK 6"},
+      {"tr": "4F", "ur": "0F", "thuis": "226 Europchess 4", "uit": "961 Braine l'Alleud 2"},
+      {"tr": "4F", "ur": "0F", "thuis": "201 CRE Bruxelles 3", "uit": "239 Boitsfort 5"},
+      {"tr": "4F", "ur": "0F", "thuis": "278 Pantin 5", "uit": "244 Brussels CC 4"}
     ]
   },
   {

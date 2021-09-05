@@ -160,5 +160,23 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Lot, Diederik", "uspeler": "Vande Ginste, Michiel", "telo": 2007, "uelo": 1749, "tstam": 9954, "ustam": 12697},
       {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Remijsen, Dave", "telo": 1903, "uelo": 1842, "tstam": 21881, "ustam": 48381}
     ]
+  },
+  {
+    "ronde": "10",
+    "datum": "05-09-2021",
+    "thuis": "548 Caïssa Europe Mons 1",
+    "uit": "228 Dworp 1",
+    "tscore": 3.0,
+    "uscore": 3.0,
+    "tgem": 1864,
+    "ugem": 2008,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Godry, Clement", "uspeler": "Vanderwaeren, Serge", "telo": 1987, "uelo": 2110, "tstam": 12802, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lhost, Geoffrey", "uspeler": "Van Hoofstat, Tom", "telo": 1933, "uelo": 2082, "tstam": 60747, "ustam": 42706},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Godart, Dorian", "uspeler": "Spaens, Kjell", "telo": 1795, "uelo": 2019, "tstam": 13445, "ustam": 29343},
+      {"tr": "0", "ur": "1", "tspeler": "Canneel, Daniel", "uspeler": "Lot, Diederik", "telo": 1870, "uelo": 2007, "tstam": 50113, "ustam": 9954},
+      {"tr": "1", "ur": "0", "tspeler": "De Le Court, Lucas", "uspeler": "De Reymaeker, Walter", "telo": 1762, "uelo": 1929, "tstam": 60726, "ustam": 34584},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Marchal, Laurent", "uspeler": "Denys, Frank", "telo": 1835, "uelo": 1903, "tstam": 60517, "ustam": 21881}
+    ]
   }
 ]

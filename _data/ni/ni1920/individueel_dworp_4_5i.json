@@ -126,5 +126,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Bertrand, Stijn", "uspeler": "Maeckelbergh, Anne-Marie", "telo": 1726, "uelo": 1813, "tstam": 21253, "ustam": 353},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet, Bernard", "uspeler": "Van Duuren, Louis", "telo": 1722, "uelo": 1730, "tstam": 31348, "ustam": 26816}
     ]
+  },
+  {
+    "ronde": "10",
+    "datum": "05-09-2021",
+    "thuis": "548 Caïssa Europe Mons 4",
+    "uit": "228 Dworp 4",
+    "tscore": 0.5,
+    "uscore": 3.5,
+    "tgem": 1233,
+    "ugem": 1740,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Chabeau, Patrice", "uspeler": "De Bosscher, Peter", "telo": 1398, "uelo": 1836, "tstam": 94935, "ustam": 655},
+      {"tr": "0", "ur": "1", "tspeler": "Ola, Zdzislaw", "uspeler": "Van De Velde, Filip", "telo": 1234, "uelo": 1723, "tstam": 14407, "ustam": 31682},
+      {"tr": "0", "ur": "1", "tspeler": "Bensafi, Mathias", "uspeler": "Cornelis, Eric", "telo": 1150, "uelo": 1660, "tstam": 17730, "ustam": 76317},
+      {"tr": "0", "ur": "1", "tspeler": "Eperjessy, Lou", "uspeler": "Wilmots, Yentl", "telo": 1150, "uelo": 0, "tstam": 17717, "ustam": 21680}
+    ]
   }
 ]
