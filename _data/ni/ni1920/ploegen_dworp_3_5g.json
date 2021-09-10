@@ -123,7 +123,7 @@
     "ronde": "ronde 11",
     "datum": "12-09-2021",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "244 Brussels CC 5", "uit": "166 TS Mechelen 3"},
+      {"tr": "4F", "ur": "0F", "thuis": "244 Brussels CC 5", "uit": "166 TS Mechelen 3"},
       {"tr": "", "ur": "", "thuis": "952 Wavre 5", "uit": "278 Pantin 6"},
       {"tr": "", "ur": "", "thuis": "114 K Mechelse SK 7", "uit": "204 Excelsior 1"},
       {"tr": "0F", "ur": "4F", "thuis": "401 K Gentse SRL 13", "uit": "226 Europchess 5"},
