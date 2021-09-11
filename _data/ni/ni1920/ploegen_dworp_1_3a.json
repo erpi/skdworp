@@ -128,7 +128,7 @@
       {"tr": "0F", "ur": "6F", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "952 Wavre 1"},
       {"tr": "", "ur": "", "thuis": "114 K Mechelse SK 1", "uit": "226 Europchess 2"},
       {"tr": "6F", "ur": "0F", "thuis": "228 Dworp 1", "uit": "462 Zottegem 2"},
-      {"tr": "", "ur": "", "thuis": "174 Brasschaat 2", "uit": "548 Caïssa Europe Mons 1"}
+      {"tr": "6F", "ur": "0F", "thuis": "174 Brasschaat 2", "uit": "548 Caïssa Europe Mons 1"}
     ]
   }
 ]
