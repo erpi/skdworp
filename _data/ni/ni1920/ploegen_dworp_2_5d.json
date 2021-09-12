@@ -125,10 +125,10 @@
     "uitslagen": [
       {"tr": "4F", "ur": "0F", "thuis": "244 Brussels CC 4", "uit": "229 Woluwe 2"},
       {"tr": "0F", "ur": "4F", "thuis": "239 Boitsfort 5", "uit": "278 Pantin 5"},
-      {"tr": "", "ur": "", "thuis": "961 Braine l'Alleud 2", "uit": "201 CRE Bruxelles 3"},
-      {"tr": "", "ur": "", "thuis": "114 K Mechelse SK 6", "uit": "226 Europchess 4"},
+      {"tr": "2", "ur": "2", "thuis": "961 Braine l'Alleud 2", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "0.5", "ur": "3.5", "thuis": "114 K Mechelse SK 6", "uit": "226 Europchess 4"},
       {"tr": "0F", "ur": "4F", "thuis": "228 Dworp 2", "uit": "952 Wavre 4"},
-      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "230 Leuven Centraal 5"}
+      {"tr": "2", "ur": "2", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "230 Leuven Centraal 5"}
     ]
   }
 ]

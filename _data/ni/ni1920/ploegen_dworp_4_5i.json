@@ -124,11 +124,11 @@
     "datum": "12-09-2021",
     "uitslagen": [
       {"tr": "0F", "ur": "4F", "thuis": "952 Wavre 6", "uit": "244 Brussels CC 6"},
-      {"tr": "", "ur": "", "thuis": "551 Jurbise 2", "uit": "278 Pantin 7"},
+      {"tr": "1", "ur": "3", "thuis": "551 Jurbise 2", "uit": "278 Pantin 7"},
       {"tr": "", "ur": "", "thuis": "114 K Mechelse SK 9", "uit": "Bye"},
       {"tr": "4F", "ur": "0F", "thuis": "953 Nivelles 1", "uit": "525 Anderlues 3"},
-      {"tr": "", "ur": "", "thuis": "228 Dworp 4", "uit": "901 Namur 7"},
-      {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "548 Caïssa Europe Mons 4"}
+      {"tr": "4", "ur": "0", "thuis": "228 Dworp 4", "uit": "901 Namur 7"},
+      {"tr": "2", "ur": "2", "thuis": "233 DZD Halle 2", "uit": "548 Caïssa Europe Mons 4"}
     ]
   }
 ]
