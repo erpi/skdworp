@@ -158,5 +158,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Hauchamps, Maxime", "uspeler": "Pletinckx, Eddy", "telo": 0, "uelo": 1721, "tstam": 20540, "ustam": 76325},
       {"tr": "0", "ur": "1", "tspeler": "Raptis, Filippos", "uspeler": "Taleb, Mohamad", "telo": 0, "uelo": 1427, "tstam": 20846, "ustam": 64611}
     ]
+  },
+  {
+    "ronde": "11",
+    "datum": "12-09-2021",
+    "thuis": "228 Dworp 3",
+    "uit": "260 Kapelle o/d Bos 2",
+    "tscore": 2.5,
+    "uscore": 1.5,
+    "tgem": 1704,
+    "ugem": 1401,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Boutchon, Gaston", "uspeler": "Geentjens, Pieter", "telo": 1868, "uelo": 1565, "tstam": 28606, "ustam": 42749},
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx, Eddy", "uspeler": "Van Roy, Arno", "telo": 1721, "uelo": 1414, "tstam": 76325, "ustam": 50152},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis, Eric", "uspeler": "Schepens, Asato", "telo": 1660, "uelo": 1476, "tstam": 76317, "ustam": 16034},
+      {"tr": "0", "ur": "1", "tspeler": "Palmans, Niels", "uspeler": "Ghisa, Alexander", "telo": 1565, "uelo": 1150, "tstam": 17733, "ustam": 19897}
+    ]
   }
 ]

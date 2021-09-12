@@ -142,5 +142,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Bensafi, Mathias", "uspeler": "Cornelis, Eric", "telo": 1150, "uelo": 1660, "tstam": 17730, "ustam": 76317},
       {"tr": "0", "ur": "1", "tspeler": "Eperjessy, Lou", "uspeler": "Wilmots, Yentl", "telo": 1150, "uelo": 0, "tstam": 17717, "ustam": 21680}
     ]
+  },
+  {
+    "ronde": "11",
+    "datum": "12-09-2021",
+    "thuis": "228 Dworp 4",
+    "uit": "901 Namur 7",
+    "tscore": 4.0,
+    "uscore": 0.0,
+    "tgem": 1817,
+    "ugem": 1150,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Lot, Diederik", "uspeler": "Ergo, Martin", "telo": 2007, "uelo": 1150, "tstam": 9954, "ustam": 18303},
+      {"tr": "1", "ur": "0", "tspeler": "Van De Velde, Filip", "uspeler": "Gillet, Geoffrey", "telo": 1723, "uelo": 0, "tstam": 31682, "ustam": 18021},
+      {"tr": "1", "ur": "0", "tspeler": "Malfliet, Bernard", "uspeler": "Gillet, Jesse", "telo": 1722, "uelo": 0, "tstam": 31348, "ustam": 18014},
+      {"tr": "1", "ur": "0", "tspeler": "Wilmots, Yentl", "uspeler": "Ergo, Cyprien", "telo": 0, "uelo": 0, "tstam": 21680, "ustam": 19599}
+    ]
   }
 ]
