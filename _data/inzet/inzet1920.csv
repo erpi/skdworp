@@ -1,31 +1,31 @@
 nummer,naam,r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,totaal
-1,Gaston Boutchon,3,3,3,3,2,3,,3,2,3,,25
-2,Geert Verrijken,3,2,2,3,3,1,3,3,3,,,23
-,Bernard Malfliet,3,(1),3,3,3,3,2,3,2,,,23
-4,Peter De Bosscher,3,(1),2,2,3,2,2,1,2,2,,20
-5,Diederik Lot,1,2,2,1,2,2,2,2,2,3,,19
-,Yves Baert,2,3,1,2,3,3,3,1,1,,,19
-,Kjell Spaens,2,2,2,2,3,2,1,1,2,2,,19
-8,Frank Denys,3,,1,1,1,3,1,3,3,2,,18
-,Sam Van Hoofstat,3,3,,3,,3,,1,2,3,,18
-,Tom Van Hoofstat,2,1,2,2,2,3,2,1,1,2,,18
+1,Gaston Boutchon,3,3,3,3,2,3,,3,2,3,3,28
+2,Bernard Malfliet,3,(1),3,3,3,3,2,3,2,,3,26
+3,Geert Verrijken,3,2,2,3,3,1,3,3,3,,,23
+4,Diederik Lot,1,2,2,1,2,2,2,2,2,3,3,22
+5,Filip Van de Velde,2,,2,3,2,3,2,1,,3,3,21
+6,Peter De Bosscher,3,(1),2,2,3,2,2,1,2,2,,20
+,Kjell Spaens,2,2,2,2,3,2,1,1,2,2,(1),20
+8,Yves Baert,2,3,1,2,3,3,3,1,1,,,19
+,Frank Denys,3,,1,1,1,3,1,3,3,2,(1),19
+,Tom Van Hoofstat,2,1,2,2,2,3,2,1,1,2,(1),19
+11,Sam Van Hoofstat,3,3,,3,,3,,1,2,3,,18
 ,Camiel Vennekens,3,3,3,2,1,2,,3,1,,,18
-,Filip Van de Velde,2,,2,3,2,3,2,1,,3,,18
-13,Serge Vanderwaeren,1,3,2,1,1,2,1,2,2,2,,17
-,Mohamad Taleb,2,,,3,2,1,3,,3,3,,17
+,Serge Vanderwaeren,1,3,2,1,1,2,1,2,2,2,(1),18
+14,Mohamad Taleb,2,,,3,2,1,3,,3,3,,17
 15,Stijn Bertrand,,3,3,,3,,3,1,3,,,16
-16,Eric Cornelis,,,2,,3,,3,,3,3,,14
-17,Walter De Reymaeker,1,1,,2,1,3,1,,3,1,,13
-,Niels Palmans,1,2,1,2,3,2,,1,1,,,13
-19,Yentl Wilmots,,,,,,,1,1,1,3,,6
+,Eric Cornelis,,,2,,3,,3,,3,3,2,16
+17,Niels Palmans,1,2,1,2,3,2,,1,1,,1,14
+,Walter De Reymaeker,1,1,,2,1,3,1,,3,1,(1),14
+19,Yentl Wilmots,,,,,,,1,1,1,3,3,9
 20,Felix Huyghe,,1,,1,,1,1,,,,,4
 ,Ruben Degraeve,,,1,,3,,,,,,,4
-22,Stijn Beckers,,1,,1,,1,,,,,,3
+,Eddy Pletinckx,,,,,,,,,,1,3,4
+23,Stijn Beckers,,1,,1,,1,,,,,,3
 ,Pieter Ertveldt,,,,,,,3,,,,,3
-24,Sander Lerinckx,,,1,,,,,1,,,,2
+25,Sander Lerinckx,,,1,,,,,1,,,,2
 ,Jannes Vandevelde,1,,,,,,1,,,,,2
-26,Mathias Vanrossum,,,,,,,,1,,,,1
+27,Mathias Vanrossum,,,,,,,,1,,,,1
 ,Niels Lerinckx,1,,,,,,,,,,,1
-,Eddy Pletinckx,,,,,,,,,,1,,1
 ,Mats Laureys,,,1,,,,,,,,,1
-,totaal,37,30,34,37,41,40,35,30,37,33,,354
+,totaal,37,30,34,37,41,40,35,30,37,33,21,375
