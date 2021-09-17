@@ -1,7 +1,7 @@
 nummer,naam,r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,totaal
 1,Gaston Boutchon,3,3,3,3,2,3,,3,2,3,3,28
 2,Bernard Malfliet,3,(1),3,3,3,3,2,3,2,,3,26
-3,Geert Verrijken,3,2,2,3,3,1,3,3,3,,,23
+3,Geert Verrijken,3,2,2,3,3,1,3,3,3,,(1),24
 4,Diederik Lot,1,2,2,1,2,2,2,2,2,3,3,22
 5,Filip Van de Velde,2,,2,3,2,3,2,1,,3,3,21
 6,Peter De Bosscher,3,(1),2,2,3,2,2,1,2,2,,20
