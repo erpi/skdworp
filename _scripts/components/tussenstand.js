@@ -6,7 +6,7 @@ $(document).ready(function(){
             var i, j;
             //naam = naam.toLowerCase();
             i = namen.indexOf(naam);
-            if (naam.toLowerCase() == 'bye') {
+            if (naam.toLowerCase().substring(0, 3) == 'bye') {
                 return -1
             }
             if (i == -1) {
