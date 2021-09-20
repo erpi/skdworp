@@ -1,0 +1,212 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "01-10-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye1",
+        "zwart": "Bye2"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Yentl Wilmots"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Gaston Boutchon"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Aaron Dierick",
+        "zwart": "Eddy Pletinckx"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "15-10-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye2",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Gaston Boutchon",
+        "zwart": "Aaron Dierick"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye1",
+        "zwart": "Sonja Van Der Voorde"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "05-11-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Bye2"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Bye1"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Aaron Dierick",
+        "zwart": "Yentl Wilmots"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Gaston Boutchon"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "19-11-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye2",
+        "zwart": "Gaston Boutchon"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye1",
+        "zwart": "Aaron Dierick"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Diederik Lot"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "03-12-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Bye2"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Aaron Dierick",
+        "zwart": "Sonja Van Der Voorde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Bye1"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Gaston Boutchon",
+        "zwart": "Yentl Wilmots"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "17-12-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye2",
+        "zwart": "Yentl Wilmots"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye1",
+        "zwart": "Gaston Boutchon"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Aaron Dierick"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "14-01-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Aaron Dierick",
+        "zwart": "Bye2"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Gaston Boutchon",
+        "zwart": "Sonja Van Der Voorde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Bye1"
+      }
+    ]
+  }
+]

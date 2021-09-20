@@ -1,0 +1,212 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "01-10-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye1",
+        "zwart": "Bye2"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Mathias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Niels Palmans"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "15-10-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye2",
+        "zwart": "Niels Palmans"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Pascal Dekoster"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye1",
+        "zwart": "Peter De Bosscher"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "05-11-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Bye2"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Bye1"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Mathias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Mats Laureys"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "19-11-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye2",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Niels Palmans"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye1",
+        "zwart": "Pascal Dekoster"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Serge Vanderwaeren"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "03-12-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Bye2"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Bye1"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Mathias Vanrossum"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "17-12-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye2",
+        "zwart": "Mathias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye1",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Niels Palmans"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Pascal Dekoster"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "14-01-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Bye2"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Bye1"
+      }
+    ]
+  }
+]

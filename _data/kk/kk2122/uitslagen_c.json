@@ -1,0 +1,212 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "01-10-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Tom Van Hoofstat"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Bob Huysman"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Johan Smeyers"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "15-10-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Johan Smeyers"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bob Huysman",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Tom Van Hoofstat",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Sander Lerinckx"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "05-11-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Tom Van Hoofstat"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Johan Smeyers",
+        "zwart": "Bob Huysman"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "19-11-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Bob Huysman"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Tom Van Hoofstat",
+        "zwart": "Johan Smeyers"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Eric Cornelis"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "03-12-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Sander Lerinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Johan Smeyers",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bob Huysman",
+        "zwart": "Tom Van Hoofstat"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "17-12-2021",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Tom Van Hoofstat"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Bob Huysman"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Johan Smeyers"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Jannes Vandevelde"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "14-01-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Johan Smeyers",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bob Huysman",
+        "zwart": "Sander Lerinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Tom Van Hoofstat",
+        "zwart": "Geert Verrijken"
+      }
+    ]
+  }
+]
