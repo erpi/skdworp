@@ -6,8 +6,8 @@
       {
         "wr": "",
         "zr": "",
-        "wit": "Bye1",
-        "zwart": "Bye2"
+        "wit": "Frank Denys",
+        "zwart": "Bye"
       },
       {
         "wr": "",
@@ -36,7 +36,7 @@
       {
         "wr": "",
         "zr": "",
-        "wit": "Bye2",
+        "wit": "Bye",
         "zwart": "Niels Palmans"
       },
       {
@@ -54,7 +54,7 @@
       {
         "wr": "",
         "zr": "",
-        "wit": "Bye1",
+        "wit": "Frank Denys",
         "zwart": "Peter De Bosscher"
       }
     ]
@@ -67,13 +67,13 @@
         "wr": "",
         "zr": "",
         "wit": "Peter De Bosscher",
-        "zwart": "Bye2"
+        "zwart": "Bye"
       },
       {
         "wr": "",
         "zr": "",
         "wit": "Serge Vanderwaeren",
-        "zwart": "Bye1"
+        "zwart": "Frank Denys"
       },
       {
         "wr": "",
@@ -96,7 +96,7 @@
       {
         "wr": "",
         "zr": "",
-        "wit": "Bye2",
+        "wit": "Bye",
         "zwart": "Mats Laureys"
       },
       {
@@ -108,7 +108,7 @@
       {
         "wr": "",
         "zr": "",
-        "wit": "Bye1",
+        "wit": "Frank Denys",
         "zwart": "Pascal Dekoster"
       },
       {
@@ -127,7 +127,7 @@
         "wr": "",
         "zr": "",
         "wit": "Serge Vanderwaeren",
-        "zwart": "Bye2"
+        "zwart": "Bye"
       },
       {
         "wr": "",
@@ -139,7 +139,7 @@
         "wr": "",
         "zr": "",
         "wit": "Niels Palmans",
-        "zwart": "Bye1"
+        "zwart": "Frank Denys"
       },
       {
         "wr": "",
@@ -156,13 +156,13 @@
       {
         "wr": "",
         "zr": "",
-        "wit": "Bye2",
+        "wit": "Bye",
         "zwart": "Mathias Vanrossum"
       },
       {
         "wr": "",
         "zr": "",
-        "wit": "Bye1",
+        "wit": "Frank Denys",
         "zwart": "Mats Laureys"
       },
       {
@@ -187,7 +187,7 @@
         "wr": "",
         "zr": "",
         "wit": "Pascal Dekoster",
-        "zwart": "Bye2"
+        "zwart": "Bye"
       },
       {
         "wr": "",
@@ -205,7 +205,7 @@
         "wr": "",
         "zr": "",
         "wit": "Mathias Vanrossum",
-        "zwart": "Bye1"
+        "zwart": "Frank Denys"
       }
     ]
   }
