@@ -1,0 +1,134 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "24-10-2021",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "514 Montigny-Fontaine 2", "uit": "902 CE Sambrevillois 1"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 2", "uit": "601 CRE Li\u00e8ge EL 3"},
+      {"tr": "", "ur": "", "thuis": "525 CELB Anderlues 1", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 1", "uit": "548 Ca\u00efssa Europe Mons 2"},
+      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 1", "uit": "511 Echiquier du Centre 1"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "278 Pantin 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "21-11-2021",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "278 Pantin 2", "uit": "514 Montigny-Fontaine 2"},
+      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "901 Namur 3"},
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 2", "uit": "551 HCC Jurbise 1"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "961 Braine Echecs 1"},
+      {"tr": "", "ur": "", "thuis": "601 CRE Li\u00e8ge EL 3", "uit": "525 CELB Anderlues 1"},
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 1", "uit": "952 Wavre 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "05-12-2021",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "514 Montigny-Fontaine 2", "uit": "952 Wavre 2"},
+      {"tr": "", "ur": "", "thuis": "525 CELB Anderlues 1", "uit": "902 CE Sambrevillois 1"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 1", "uit": "601 CRE Li\u00e8ge EL 3"},
+      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 1", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "548 Ca\u00efssa Europe Mons 2"},
+      {"tr": "", "ur": "", "thuis": "278 Pantin 2", "uit": "511 Echiquier du Centre 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "19-12-2021",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "514 Montigny-Fontaine 2"},
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 2", "uit": "278 Pantin 2"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "901 Namur 3"},
+      {"tr": "", "ur": "", "thuis": "601 CRE Li\u00e8ge EL 3", "uit": "551 HCC Jurbise 1"},
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 1", "uit": "961 Braine Echecs 1"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 2", "uit": "525 CELB Anderlues 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "16-01-2022",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "514 Montigny-Fontaine 2", "uit": "525 CELB Anderlues 1"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 1", "uit": "952 Wavre 2"},
+      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 1", "uit": "902 CE Sambrevillois 1"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "601 CRE Li\u00e8ge EL 3"},
+      {"tr": "", "ur": "", "thuis": "278 Pantin 2", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "548 Ca\u00efssa Europe Mons 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "30-01-2022",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 2", "uit": "514 Montigny-Fontaine 2"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "511 Echiquier du Centre 1"},
+      {"tr": "", "ur": "", "thuis": "601 CRE Li\u00e8ge EL 3", "uit": "278 Pantin 2"},
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 1", "uit": "901 Namur 3"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 2", "uit": "551 HCC Jurbise 1"},
+      {"tr": "", "ur": "", "thuis": "525 CELB Anderlues 1", "uit": "961 Braine Echecs 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "13-02-2022",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "514 Montigny-Fontaine 2", "uit": "961 Braine Echecs 1"},
+      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 1", "uit": "525 CELB Anderlues 1"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "952 Wavre 2"},
+      {"tr": "", "ur": "", "thuis": "278 Pantin 2", "uit": "902 CE Sambrevillois 1"},
+      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "601 CRE Li\u00e8ge EL 3"},
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 2", "uit": "228 Dworp 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "20-02-2022",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "514 Montigny-Fontaine 2"},
+      {"tr": "", "ur": "", "thuis": "601 CRE Li\u00e8ge EL 3", "uit": "548 Ca\u00efssa Europe Mons 2"},
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 1", "uit": "511 Echiquier du Centre 1"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 2", "uit": "278 Pantin 2"},
+      {"tr": "", "ur": "", "thuis": "525 CELB Anderlues 1", "uit": "901 Namur 3"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 1", "uit": "551 HCC Jurbise 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "13-03-2022",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "514 Montigny-Fontaine 2", "uit": "551 HCC Jurbise 1"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "961 Braine Echecs 1"},
+      {"tr": "", "ur": "", "thuis": "278 Pantin 2", "uit": "525 CELB Anderlues 1"},
+      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "952 Wavre 2"},
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 2", "uit": "902 CE Sambrevillois 1"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "601 CRE Li\u00e8ge EL 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "27-03-2022",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "601 CRE Li\u00e8ge EL 3", "uit": "514 Montigny-Fontaine 2"},
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 1", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 2", "uit": "548 Ca\u00efssa Europe Mons 2"},
+      {"tr": "", "ur": "", "thuis": "525 CELB Anderlues 1", "uit": "511 Echiquier du Centre 1"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 1", "uit": "278 Pantin 2"},
+      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 1", "uit": "901 Namur 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "24-04-2022",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "514 Montigny-Fontaine 2"},
+      {"tr": "", "ur": "", "thuis": "278 Pantin 2", "uit": "551 HCC Jurbise 1"},
+      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "961 Braine Echecs 1"},
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 2", "uit": "525 CELB Anderlues 1"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "952 Wavre 2"},
+      {"tr": "", "ur": "", "thuis": "601 CRE Li\u00e8ge EL 3", "uit": "902 CE Sambrevillois 1"}
+    ]
+  }
+]
