@@ -7,7 +7,7 @@
       {"tr": "", "ur": "", "thuis": "952 Wavre 6", "uit": "902 CE Sambrevillois 3"},
       {"tr": "", "ur": "", "thuis": "525 CELB Anderlues 3", "uit": "228 Dworp 4"},
       {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "207 Les Deux Fous du Diog\u00e8ne 3"},
-      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "551 HCC Jurbise 3"},
       {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "549 Saint-Ghislain 2"}
     ]
   },
@@ -16,8 +16,8 @@
     "datum": "21-11-2021",
     "uitslagen": [
       {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "514 Montigny-Fontaine 4"},
-      {"tr": "", "ur": "", "thuis": "Bye", "uit": "233 DZD Halle 2"},
-      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diog\u00e8ne 3", "uit": "551 HCC Jurbise 3"},
+      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "233 DZD Halle 2"},
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diog\u00e8ne 3", "uit": "Bye"},
       {"tr": "", "ur": "", "thuis": "228 Dworp 4", "uit": "961 Braine Echecs 3"},
       {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 3", "uit": "525 CELB Anderlues 3"},
       {"tr": "", "ur": "", "thuis": "501 CRE Charlerloi 4", "uit": "952 Wavre 6"}
@@ -30,19 +30,19 @@
       {"tr": "", "ur": "", "thuis": "514 Montigny-Fontaine 4", "uit": "952 Wavre 6"},
       {"tr": "", "ur": "", "thuis": "525 CELB Anderlues 3", "uit": "501 CRE Charlerloi 4"},
       {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "902 CE Sambrevillois 3"},
-      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "228 Dworp 4"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "228 Dworp 4"},
       {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "207 Les Deux Fous du Diog\u00e8ne 3"},
-      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "Bye"}
+      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "551 HCC Jurbise 3"}
     ]
   },
   {
     "ronde": "ronde 4",
     "datum": "19-12-2021",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "Bye", "uit": "514 Montigny-Fontaine 4"},
+      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "514 Montigny-Fontaine 4"},
       {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diog\u00e8ne 3", "uit": "549 Saint-Ghislain 2"},
       {"tr": "", "ur": "", "thuis": "228 Dworp 4", "uit": "233 DZD Halle 2"},
-      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 3", "uit": "551 HCC Jurbise 3"},
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 3", "uit": "Bye"},
       {"tr": "", "ur": "", "thuis": "501 CRE Charlerloi 4", "uit": "961 Braine Echecs 3"},
       {"tr": "", "ur": "", "thuis": "952 Wavre 6", "uit": "525 CELB Anderlues 3"}
     ]
@@ -53,10 +53,10 @@
     "uitslagen": [
       {"tr": "", "ur": "", "thuis": "514 Montigny-Fontaine 4", "uit": "525 CELB Anderlues 3"},
       {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "952 Wavre 6"},
-      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "501 CRE Charlerloi 4"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "501 CRE Charlerloi 4"},
       {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "902 CE Sambrevillois 3"},
       {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "228 Dworp 4"},
-      {"tr": "", "ur": "", "thuis": "Bye", "uit": "207 Les Deux Fous du Diog\u00e8ne 3"}
+      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "207 Les Deux Fous du Diog\u00e8ne 3"}
     ]
   },
   {
@@ -64,10 +64,10 @@
     "datum": "30-01-2022",
     "uitslagen": [
       {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diog\u00e8ne 3", "uit": "514 Montigny-Fontaine 4"},
-      {"tr": "", "ur": "", "thuis": "228 Dworp 4", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 4", "uit": "551 HCC Jurbise 3"},
       {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 3", "uit": "549 Saint-Ghislain 2"},
       {"tr": "", "ur": "", "thuis": "501 CRE Charlerloi 4", "uit": "233 DZD Halle 2"},
-      {"tr": "", "ur": "", "thuis": "952 Wavre 6", "uit": "551 HCC Jurbise 3"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 6", "uit": "Bye"},
       {"tr": "", "ur": "", "thuis": "525 CELB Anderlues 3", "uit": "961 Braine Echecs 3"}
     ]
   },
@@ -76,10 +76,10 @@
     "datum": "13-02-2022",
     "uitslagen": [
       {"tr": "", "ur": "", "thuis": "514 Montigny-Fontaine 4", "uit": "961 Braine Echecs 3"},
-      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "525 CELB Anderlues 3"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "525 CELB Anderlues 3"},
       {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "952 Wavre 6"},
       {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "501 CRE Charlerloi 4"},
-      {"tr": "", "ur": "", "thuis": "Bye", "uit": "902 CE Sambrevillois 3"},
+      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "902 CE Sambrevillois 3"},
       {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diog\u00e8ne 3", "uit": "228 Dworp 4"}
     ]
   },
@@ -89,20 +89,20 @@
     "uitslagen": [
       {"tr": "", "ur": "", "thuis": "228 Dworp 4", "uit": "514 Montigny-Fontaine 4"},
       {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 3", "uit": "207 Les Deux Fous du Diog\u00e8ne 3"},
-      {"tr": "", "ur": "", "thuis": "501 CRE Charlerloi 4", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "501 CRE Charlerloi 4", "uit": "551 HCC Jurbise 3"},
       {"tr": "", "ur": "", "thuis": "952 Wavre 6", "uit": "549 Saint-Ghislain 2"},
       {"tr": "", "ur": "", "thuis": "525 CELB Anderlues 3", "uit": "233 DZD Halle 2"},
-      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "551 HCC Jurbise 3"}
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "Bye"}
     ]
   },
   {
     "ronde": "ronde 9",
     "datum": "13-03-2022",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "514 Montigny-Fontaine 4", "uit": "551 HCC Jurbise 3"},
+      {"tr": "", "ur": "", "thuis": "514 Montigny-Fontaine 4", "uit": "Bye"},
       {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "961 Braine Echecs 3"},
       {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "525 CELB Anderlues 3"},
-      {"tr": "", "ur": "", "thuis": "Bye", "uit": "952 Wavre 6"},
+      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "952 Wavre 6"},
       {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diog\u00e8ne 3", "uit": "501 CRE Charlerloi 4"},
       {"tr": "", "ur": "", "thuis": "228 Dworp 4", "uit": "902 CE Sambrevillois 3"}
     ]
@@ -114,9 +114,9 @@
       {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 3", "uit": "514 Montigny-Fontaine 4"},
       {"tr": "", "ur": "", "thuis": "501 CRE Charlerloi 4", "uit": "228 Dworp 4"},
       {"tr": "", "ur": "", "thuis": "952 Wavre 6", "uit": "207 Les Deux Fous du Diog\u00e8ne 3"},
-      {"tr": "", "ur": "", "thuis": "525 CELB Anderlues 3", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "525 CELB Anderlues 3", "uit": "551 HCC Jurbise 3"},
       {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "549 Saint-Ghislain 2"},
-      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "233 DZD Halle 2"}
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "233 DZD Halle 2"}
     ]
   },
   {
@@ -124,8 +124,8 @@
     "datum": "24-04-2022",
     "uitslagen": [
       {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "514 Montigny-Fontaine 4"},
-      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "551 HCC Jurbise 3"},
-      {"tr": "", "ur": "", "thuis": "Bye", "uit": "961 Braine Echecs 3"},
+      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "961 Braine Echecs 3"},
       {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diog\u00e8ne 3", "uit": "525 CELB Anderlues 3"},
       {"tr": "", "ur": "", "thuis": "228 Dworp 4", "uit": "952 Wavre 6"},
       {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 3", "uit": "501 CRE Charlerloi 4"}
