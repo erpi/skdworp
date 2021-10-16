@@ -16,8 +16,8 @@
         "zwart": "Mathias Vanrossum"
       },
       {
-        "wr": "1F",
-        "zr": "0F",
+        "wr": "1"
+        "zr": "0"
         "wit": "Serge Vanderwaeren",
         "zwart": "Mats Laureys"
       },
@@ -52,8 +52,8 @@
         "zwart": "Serge Vanderwaeren"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Frank Denys",
         "zwart": "Peter De Bosscher"
       }
