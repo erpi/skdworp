@@ -3,12 +3,12 @@
     "ronde": "ronde 1",
     "datum": "24-10-2021",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "514 Montigny-Fontaine 4", "uit": "501 CRE Charlerloi 4"},
-      {"tr": "", "ur": "", "thuis": "952 Wavre 6", "uit": "902 CE Sambrevillois 3"},
-      {"tr": "", "ur": "", "thuis": "525 CELB Anderlues 3", "uit": "228 Dworp 4"},
-      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "207 Les Deux Fous du Diog\u00e8ne 3"},
+      {"tr": "2", "ur": "2", "thuis": "514 Montigny-Fontaine 4", "uit": "501 CRE Charlerloi 4"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "952 Wavre 6", "uit": "902 CE Sambrevillois 3"},
+      {"tr": "3", "ur": "1", "thuis": "525 CELB Anderlues 3", "uit": "228 Dworp 4"},
+      {"tr": "0.5", "ur": "3.5", "thuis": "961 Braine Echecs 3", "uit": "207 Les Deux Fous du Diog\u00e8ne 3"},
       {"tr": "", "ur": "", "thuis": "Bye", "uit": "551 HCC Jurbise 3"},
-      {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "549 Saint-Ghislain 2"}
+      {"tr": "3", "ur": "1", "thuis": "233 DZD Halle 2", "uit": "549 Saint-Ghislain 2"}
     ]
   },
   {
