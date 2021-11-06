@@ -64,8 +64,8 @@
     "datum": "05-11-2021",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Walter De Reymaeker",
         "zwart":  "Sonja Van Der Voorde"
       },
@@ -82,8 +82,8 @@
         "zwart": "Yentl Wilmots"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Eddy Pletinckx",
         "zwart": "Gaston Boutchon"
       }
