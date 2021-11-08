@@ -1,0 +1,20 @@
+[
+  {
+    "ronde": "1",
+    "datum": "24-10-2021",
+    "thuis": "239 Boitsfort 2",
+    "uit": "228 Dworp 1",
+    "tscore": 1.0,
+    "uscore": 5.0,
+    "tgem": 1901,
+    "ugem": 1979,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Hody, Pierre", "uspeler": "Vanderwaeren, Serge", "telo": 2020, "uelo": 2091, "tstam": 91847, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "Jourdain, Jean-Francois", "uspeler": "Van Hoofstat, Tom", "telo": 1978, "uelo": 2050, "tstam": 43036, "ustam": 42706},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Paul, Bernard", "uspeler": "Verrijken, Geert", "telo": 1878, "uelo": 1978, "tstam": 97109, "ustam": 62766},
+      {"tr": "0", "ur": "1", "tspeler": "Canneel, Daniel", "uspeler": "Lot, Diederik", "telo": 1871, "uelo": 1977, "tstam": 50113, "ustam": 9954},
+      {"tr": "0F", "ur": "1F", "tspeler": "Hanzl, Tadeas", "uspeler": "Denys, Frank", "telo": 1839, "uelo": 1897, "tstam": 14565, "ustam": 21881},
+      {"tr": "0", "ur": "1", "tspeler": "Macai, Ioan", "uspeler": "Boutchon, Gaston", "telo": 1821, "uelo": 1878, "tstam": 92312, "ustam": 28606}
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "ronde": "1",
+    "datum": "24-10-2021",
+    "thuis": "525 CELB Anderlues 3",
+    "uit": "228 Dworp 4",
+    "tscore": 3.0,
+    "uscore": 1.0,
+    "tgem": 1528,
+    "ugem": 1512,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Meulenyzer, Alan", "uspeler": "Palmans, Niels", "telo": 1594, "uelo": 1512, "tstam": 12730, "ustam": 17733},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Henrotte, Christian", "uspeler": "Laureys, Mats", "telo": 1596, "uelo": 0, "tstam": 98146, "ustam": 12750},
+      {"tr": "1", "ur": "0", "tspeler": "Wuillaume, Nathan", "uspeler": "Lerinckx, Sander", "telo": 1508, "uelo": 0, "tstam": 18828, "ustam": 12702},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Navez, Alice", "uspeler": "Vanrossum, Matthias", "telo": 1414, "uelo": 0, "tstam": 16002, "ustam": 17614}
+    ]
+  }
+]

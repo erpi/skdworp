@@ -1,0 +1,18 @@
+[
+  {
+    "ronde": "1",
+    "datum": "24-10-2021",
+    "thuis": "525 CELB Anderlues 1",
+    "uit": "228 Dworp 2",
+    "tscore": 2,
+    "uscore": 2,
+    "tgem": 1921,
+    "ugem": 1795,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Jadoul, Michel", "uspeler": "Pletinckx, Eddy", "telo": 2348, "uelo": 1749, "tstam": 55115, "ustam": 76325},
+      {"tr": "1", "ur": "0", "tspeler": "Henrotte, Corentin", "uspeler": "De Bosscher, Peter", "telo": 1831, "uelo": 1816, "tstam": 10295, "ustam": 655},
+      {"tr": "0", "ur": "1", "tspeler": "Marchiano, Marco", "uspeler": "De Reymaeker, Walter", "telo": 1820, "uelo": 1874, "tstam": 73695, "ustam": 34584},
+      {"tr": "0", "ur": "1", "tspeler": "Castellana, Michael", "uspeler": "Malfliet, Bernard", "telo": 1685, "uelo": 1740, "tstam": 56871, "ustam": 31348}
+    ]
+  }
+]

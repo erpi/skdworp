@@ -1,0 +1,18 @@
+[
+  {
+    "ronde": "1",
+    "datum": "24-10-2021",
+    "thuis": "261 Opwijk 2",
+    "uit": "228 Dworp 3",
+    "tscore": 3.0,
+    "uscore": 1.0,
+    "tgem": 1863,
+    "ugem": 1688,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Peer, Cedric", "uspeler": "Van Hoofstat, Sam", "telo": 1983, "uelo": 1832, "tstam": 51578, "ustam": 39101},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Meskens, Stephan", "uspeler": "Van De Velde, Filip", "telo": 1882, "uelo": 1747, "tstam": 33481, "ustam": 31682},
+      {"tr": "1", "ur": "0", "tspeler": "Koornstra, Robbert-Jan", "uspeler": "Baert, Yves", "telo": 1778, "uelo": 1484, "tstam": 14835, "ustam": 48721},
+      {"tr": "1", "ur": "0", "tspeler": "Van Zeebroeck, Sam", "uspeler": "Wilmots, Yentl", "telo": 1807, "uelo": 0, "tstam": 10344, "ustam": 21680}
+    ]
+  }
+]
