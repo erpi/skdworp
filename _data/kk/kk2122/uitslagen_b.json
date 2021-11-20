@@ -94,14 +94,14 @@
     "datum": "19-11-2021",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Sonja Van Der Voorde",
         "zwart": "Gaston Boutchon"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Yentl Wilmots",
         "zwart": "Eddy Pletinckx"
       },
@@ -112,8 +112,8 @@
         "zwart": "Aaron Dierick"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Walter De Reymaeker",
         "zwart": "Diederik Lot"
       }
