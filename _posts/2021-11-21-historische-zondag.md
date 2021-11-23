@@ -26,7 +26,7 @@ draft: false
 ---
 ## 6-0, 6-0, 6-0, 6-0... 
 
-Tegen de jongelui uit Mons hadden we in september in de uitgestelde tiende IC-ronde van voor covid nog 3-3 gelijkgespeeld. Nu was het echter voor echt en bovendien speelden we met onze typeploeg. Welnu, voor Mons was de berg veel te hoog. Met een flinke 6-0-pandoering trokken ze weer huiswaarts.<!-- more -->
+Tegen de jongelui uit Mons hadden we in september in de uitgestelde tiende IC-ronde van voor covid nog 3-3 gelijkgespeeld. Nu was het echter voor echt en bovendien speelden we met onze typeploeg. Welnu, voor Mons was de berg veel te hoog. Met een flinke 6-0-pandoering trokken ze weer huiswaarts.<!--more-->
 
 1-5 in de eerste ronde, 6-0 in de tweede. In de archieven moeten we al tot het IC-seizoen 2003-2004 teruggaan om in de buurt te komen. Toen werd CC Anderlecht 2 met 5,5-0,5 afgepoeierd (weliswaar met twee forfaits) en kreeg ook Boitsfort 2 een forfaitscore  aangesmeerd. Twee oud-strijders van toen, Diederik en Serge, doorstonden de tand des tijds en waren er ook nu nog bij.
 
