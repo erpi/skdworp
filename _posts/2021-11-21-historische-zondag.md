@@ -22,7 +22,7 @@ stelling_oplossing: ''
 description: "Tegen de jongelui uit Mons hadden we in september in de uitgestelde tiende IC-ronde van voor covid nog 3-3 gelijkgespeeld. Nu was het echter voor echt en bovendien speelden we met onze typeploeg. Welnu, voor Mons was de berg veel te hoog."
 image:
   path: assets/images/2122/ni/r2_d1_geert_kjell_fb.jpg
-draft: true
+draft: false
 ---
 ## 6-0, 6-0, 6-0, 6-0... 
 
@@ -32,17 +32,17 @@ Tegen de jongelui uit Mons hadden we in september in de uitgestelde tiende IC-ro
 
 ## Het wedstrijdverslag
 
-Kjell met wit op bord 3 was eerste klaar. Hij speelde een goede partij, drukte de tegenstander langzaamaan in de verdrukking en maakte het mooi af met een combinatie. Zwart had de keuze tussen mat of dameverlies en gaf het dus maar wijselijk op.
+Kjell met wit op bord 3 was eerste klaar. Hij speelde een goede partij, drukte de tegenstander langzaamaan in de verdrukking en maakte het mooi af met een combinatie. Zwart had de keuze tussen mat of dameverlies en gaf dus maar wijselijk op.
 
 ![Geert est très "gentil"][foto 1]
 
-Daarna volgde Frank op bord 6 met zwart. Misschien was hij na afloop uitgeput maar dat zal dan wel meer van het rondwandelen dan van het schaken zijn. Zijn tegenstander dacht zelfs over de meest voor de hand liggende zetten onwijs lang na –of deed toch alsof… Frank liet het niet aan zijn hart komen en zette de partij probleemloos naar zijn hand. 2-0
+Daarna volgde Frank op bord 6 met zwart. Misschien was hij na afloop uitgeput maar dat zal dan wel meer van het rondwandelen dan van het schaken zijn. Zijn tegenstander dacht zelfs over de meest voor de hand liggende zetten onwijs lang na –of deed toch alsof... Frank liet het niet aan zijn hart komen en zette de partij probleemloos naar zijn hand. 2-0
 
 Serge op 1 met wit kreeg een goed eindspel, met een sterk paard tegenover een matige tot slechte loper voor zijn tegenstander. Toch was niet goed te zien hoe onze man het volle punt zou kunnen binnenhalen. Tot de Mons-mens zijn loper wegblunderde. 3-0.
 
-Tom zette op 2 met zwart de ‘grote lafaarden-variant’ van het Siciliaans op het bord. De witspeler had licht voordeel, al is er niet veel aan de hand. Vrij snel was het spel gelijk hoewel wit wel dreiging behield op de zwarte koningsstelling. Vervolgens stond onze man ‘ietske’ beter. Op zet 22 volgde nog een fout van de tegenstander en hoewel Tom naar eigen zeggen nog enkele keren de snelste weg naar de winst liet liggen, rijfde hij uiteindelijk toch het volle ei binnen. 4-0
+Tom kreeg op 2 met zwart de 'grote lafaarden-variant' van het Siciliaans tegen (1. e4 c5 2. c3). De witspeler had licht voordeel, al was er niet veel aan de hand. Vrij snel was het spel gelijk hoewel wit wel dreiging behield op de zwarte koningsstelling. Vervolgens stond onze man ‘ietske’ beter. Op zet 22 volgde nog een fout van de tegenstander en hoewel Tom naar eigen zeggen nog enkele keren de snelste weg naar de winst liet liggen, rijfde hij uiteindelijk toch het volle ei binnen. 4-0
 
-Ook Diederik op 5 met wit liet zijn tegenstander alle hoeken van het bord zijn. Met tegengestelde rokades is snelheid van handelen cruciaal. De stukken van onze man stonden veel beter opgesteld en de verdedigingsmuren rond de witte koning werden snel gesloopt. En ja, de rest is geschiedenis. 5-0, jawel!
+Ook Diederik op 5 met wit liet zijn tegenstander alle hoeken van het bord zien. Met tegengestelde rokades is snelheid van handelen cruciaal. De stukken van onze man stonden veel beter opgesteld en de verdedigingsmuren rond de witte koning werden snel gesloopt. En ja, de rest is geschiedenis. 5-0, jawel!
 
 Zelf was ik (Geert) op 4 met zwart het zorgenkindje. Een onorthodoxe opening, pionverlies en slecht samenwerkende stukken. Objectief gesproken stond ik de hele partij verloren. Het kampfschwein in mezelf loerde wel op elk half kansje. Met succes. In zijn haast om snel te winnen overzag de witspeler een matcombinatie. Vergeet deze wanprestatie, onthoud de laatste vier zetten. Zes bros!
 
@@ -52,7 +52,7 @@ Twee uit vier heeft Dworp 2 na twee matchen. Twee keer gelijkgespeeld. Aan dat t
 
 Ondanks een Elo-verschil van meer dan 100 punten had ook Bernard met wit op 3 geen problemen met zijn tegenstander. Bij Eric op 4 met zwart ging het minder voorspoedig. Hij moest helaas het onderspit delven. En na een zware strijd moest ook onze andere zwartspeler Peter op bord 2 er helaas aan geloven. Maar een 2-2 gelijkspel tegen een tegenstander met gemiddeld 150 Elo meer is hoe dan ook een prestatie om u tegen te zeggen. Mooi.
 
-![Eric overschouwt zijn troepen][foto 2]
+![Eric naast zijn troepen][foto 2]
 
 ## Ook team 3 op de helft van de punten
 
@@ -64,7 +64,7 @@ Op 4 speelde Yentl met zwart tegen een andere jeugdspeler. De partij ging wat ge
 
 Op bord 3 met wit speelde Yves op een aanval van links via de damevleugel. De partij bleef evenwichtig tot de tegenstander een pion teveel opschoof op de d-lijn. Het werd in dank aangenomen. Al gauw leidde dit pionverlies tot een afwikkeling naar een pionneneindspel. De pluspion gaf uiteindelijk de doorslag. Ook hier werd net als bij Yentl een promotiepion geforceerd. 3-0
 
-Op bord 4 werd het een echte doodstrijd tussen een jeugdige speler en de ervaren zwartspeler Walter. Het draaide uiteindelijk uit op een eindspel waarbij Walter letterlijk al zijn resterende stukken in de strijd gooide (tot en met de koning). Zo forceerde hij een succesvol stikmat in de achterste regionen van het veld. Vier bros!
+Op bord 2 werd het een echte doodstrijd tussen een jeugdige speler en de ervaren zwartspeler Walter. Het draaide uiteindelijk uit op een eindspel waarbij Walter letterlijk al zijn resterende stukken in de strijd gooide (tot en met de koning). Zo forceerde hij een succesvol stikmat in de achterste regionen van het veld. Vier bros!
 
 Een forfaitscore om mee uit te pakken tegen een op papier zwakkere ploeg. Het doet deugd en we hebben opnieuw de helft van de punten. Het behoud in vierde, wat toch de minimale ambitie is van deze ploeg, komt hiermee een stapje dichterbij. Met de sterkere tegenstanders voor de boeg zijn de twee matchpunten misschien wel van goudwaarde. 
 
