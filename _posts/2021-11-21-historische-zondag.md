@@ -21,18 +21,20 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 description: "Tegen de jongelui uit Mons hadden we in september in de uitgestelde tiende IC-ronde van voor covid nog 3-3 gelijkgespeeld. Nu was het echter voor echt en bovendien speelden we met onze typeploeg. Welnu, voor Mons was de berg veel te hoog."
 image:
-  path: assets/images/2122/ni/r2_d2_eddy_fb.jpg
+  path: assets/images/2122/ni/r2_d1_geert_kjell_fb.jpg
 draft: true
 ---
-## 6-0, 6-0, 6-0, 6-0...
+## 6-0, 6-0, 6-0, 6-0... 
 
-Tegen de jongelui uit Mons hadden we in september in de uitgestelde tiende IC-ronde van voor covid nog 3-3 gelijkgespeeld. Nu was het echter voor echt en bovendien speelden we met onze typeploeg. Welnu, voor Mons was de berg veel te hoog. Met een flinke 6-0-pandoering trokken ze weer huiswaarts.
+Tegen de jongelui uit Mons hadden we in september in de uitgestelde tiende IC-ronde van voor covid nog 3-3 gelijkgespeeld. Nu was het echter voor echt en bovendien speelden we met onze typeploeg. Welnu, voor Mons was de berg veel te hoog. Met een flinke 6-0-pandoering trokken ze weer huiswaarts.<!-- more -->
 
 1-5 in de eerste ronde, 6-0 in de tweede. In de archieven moeten we al tot het IC-seizoen 2003-2004 teruggaan om in de buurt te komen. Toen werd CC Anderlecht 2 met 5,5-0,5 afgepoeierd (weliswaar met twee forfaits) en kreeg ook Boitsfort 2 een forfaitscore  aangesmeerd. Twee oud-strijders van toen, Diederik en Serge, doorstonden de tand des tijds en waren er ook nu nog bij.
 
 ## Het wedstrijdverslag
 
 Kjell met wit op bord 3 was eerste klaar. Hij speelde een goede partij, drukte de tegenstander langzaamaan in de verdrukking en maakte het mooi af met een combinatie. Zwart had de keuze tussen mat of dameverlies en gaf het dus maar wijselijk op.
+
+![Geert est très "gentil"][foto 1]
 
 Daarna volgde Frank op bord 6 met zwart. Misschien was hij na afloop uitgeput maar dat zal dan wel meer van het rondwandelen dan van het schaken zijn. Zijn tegenstander dacht zelfs over de meest voor de hand liggende zetten onwijs lang na –of deed toch alsof… Frank liet het niet aan zijn hart komen en zette de partij probleemloos naar zijn hand. 2-0
 
@@ -50,6 +52,8 @@ Twee uit vier heeft Dworp 2 na twee matchen. Twee keer gelijkgespeeld. Aan dat t
 
 Ondanks een Elo-verschil van meer dan 100 punten had ook Bernard met wit op 3 geen problemen met zijn tegenstander. Bij Eric op 4 met zwart ging het minder voorspoedig. Hij moest helaas het onderspit delven. En na een zware strijd moest ook onze andere zwartspeler Peter op bord 2 er helaas aan geloven. Maar een 2-2 gelijkspel tegen een tegenstander met gemiddeld 150 Elo meer is hoe dan ook een prestatie om u tegen te zeggen. Mooi.
 
+![Eric overschouwt zijn troepen][foto 2]
+
 ## Ook team 3 op de helft van de punten
 
 Met een licht gewijzigde ploeg aan de aftrap -Filip (in)geruild voor Walter- verscheen Dworp 3 vol aan de bak tegen het op papier zwakkere Wachtebeke.
@@ -66,23 +70,21 @@ Een forfaitscore om mee uit te pakken tegen een op papier zwakkere ploeg. Het do
 
 ## Dworp 4 zet goede prestatie neer
 
+![Thinking Niels][foto 3]
+
 Jammer genoeg moest Dworp 4 op bord 2 een forfait geven. Dat wisten we op voorhand. En desondanks sleepte onze ploeg nog een gelijkspel uit de brand, een mooie prestatie. Niels op het eerste bord met wit speelde sterk, zijn tegenstander had geen schijn van kans. En ook Mats op drie met wit deed waarvoor hij is ingehuurd namelijk winnen. Aaron op vier met zwart betaalde allicht nog wat leergeld. De aanhouder wint en de punten komen ook hier wel.
 
 ## Naspel
 
 Historisch is een woord dat we niet te vaak moeten gebruiken want dan verliest het zijn betekenis. Maar in de annalen van de Dworpse schaakkring, een schaakclub in Halle (eigenlijk Essenbeek haha), wordt zondag 21 november allicht in gouden letters geschreven. Twaalf keer gewonnen, geen enkele remise en slechts drie keer de koning moeten omleggen... Wie doet beter?
 
-![Yves, Tom, Diederik, Eddy, Peter, Walter, Serge, Eric op restaurant][foto 0]
-
 En de eerste ploeg zeg. Twee IC-rondes en dus twaalf partijen gespeeld. Tien keer gewonnen, amper twee gelijke spelen, nul nederlagen. De nummer twee in het klassement, KGSRL 4, staat al op 3,5 punten achterstand. Niet normaal, niet normaal... Het behoud en een probleemloos seizoen lijken al zo goed als zeker. Kunnen/mogen we ambitieuzer zijn? We zullen het snel weten, de volgende ronde nemen we het in Gent op tegen de nummer twee. Tot dan –en wie weet ook nog daarna- geldt: zolang de hoogconjunctuur duurt, genieten we ervan. À la prochaine.
 
+![Yves, Tom, Diederik, Eddy, Peter, Walter, Serge, Eric op restaurant][foto 0]
 
 [foto 0]: {{ "/assets/images/2122/ni/r2_after_party.jpg" | absolute_url }}
-[foto 1]: {{ "/assets/images/2122/ni/r1_d1_diederik.jpg" | absolute_url }}
-[foto 2]: {{ "/assets/images/2122/ni/r1_d2_eddy_2.jpg" | absolute_url }}
-[foto 3]: {{ "/assets/images/2122/ni/r1_d2_bernard_walter.jpg" | absolute_url }}
-[foto 4]: {{ "/assets/images/2122/ni/r1_d2_peter.jpg" | absolute_url }}
-[foto 5]: {{ "/assets/images/2122/ni/r1_d4_niels_p.jpg" | absolute_url }}
-[foto 6]: {{ "/assets/images/2122/ni/r1_d4_mats.jpg" | absolute_url }}
+[foto 1]: {{ "/assets/images/2122/ni/r2_d1_geert_kjell.jpg" | absolute_url }}
+[foto 2]: {{ "/assets/images/2122/ni/r2_d2_alle_vier.jpg" | absolute_url }}
+[foto 3]: {{ "/assets/images/2122/ni/r2_d4_niels_p.jpg" | absolute_url }}
 
 
