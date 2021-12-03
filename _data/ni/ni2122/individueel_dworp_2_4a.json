@@ -14,5 +14,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Marchiano, Marco", "uspeler": "De Reymaeker, Walter", "telo": 1820, "uelo": 1874, "tstam": 73695, "ustam": 34584},
       {"tr": "0", "ur": "1", "tspeler": "Castellana, Michael", "uspeler": "Malfliet, Bernard", "telo": 1685, "uelo": 1740, "tstam": 56871, "ustam": 31348}
     ]
+  },
+  {
+    "ronde": "2",
+    "datum": "21-11-2021",
+    "thuis": "228 Dworp 2",
+    "uit": "961 Braine Echecs 1",
+    "tscore": 2,
+    "uscore": 2,
+    "tgem": 1740,
+    "ugem": 1901,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx, Eddy", "uspeler": "Micic, Snezana", "telo": 1749, "uelo": 2078, "tstam": 76325, "ustam": 58548},
+      {"tr": "0", "ur": "1", "tspeler": "De Bosscher, Peter", "uspeler": "Dethy, David", "telo": 1816, "uelo": 1989, "tstam": 655, "ustam": 86282},
+      {"tr": "1", "ur": "0", "tspeler": "Malfliet, Bernard", "uspeler": "Putnik, Slobodan", "telo": 1740, "uelo": 1847, "tstam": 31348, "ustam": 39225},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis, Eric", "uspeler": "Assaf, Georges", "telo": 1656, "uelo": 1691, "tstam": 76317, "ustam": 16658}
+    ]
   }
 ]

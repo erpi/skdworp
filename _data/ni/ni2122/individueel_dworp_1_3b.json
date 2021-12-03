@@ -16,5 +16,23 @@
       {"tr": "0F", "ur": "1F", "tspeler": "Hanzl, Tadeas", "uspeler": "Denys, Frank", "telo": 1839, "uelo": 1897, "tstam": 14565, "ustam": 21881},
       {"tr": "0", "ur": "1", "tspeler": "Macai, Ioan", "uspeler": "Boutchon, Gaston", "telo": 1821, "uelo": 1878, "tstam": 92312, "ustam": 28606}
     ]
+  },
+  {
+    "ronde": "2",
+    "datum": "21-11-2021",
+    "thuis": "228 Dworp 1",
+    "uit": "548 Caissa Europe 1",
+    "tscore": 6,
+    "uscore": 0,
+    "tgem": 2000,
+    "ugem": 1793,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren, Serge", "uspeler": "De Le Court, Lucas", "telo": 2091, "uelo": 1909, "tstam": 20621, "ustam": 60726},
+      {"tr": "1", "ur": "0", "tspeler": "Van Hoofstat, Tom", "uspeler": "Godart, Dorian", "telo": 2050, "uelo": 1871, "tstam": 42706, "ustam": 13445},
+      {"tr": "1", "ur": "0", "tspeler": "Spaens, Kjell", "uspeler": "Guerit, Justin", "telo": 2004, "uelo": 1903, "tstam": 29343, "ustam": 14365},
+      {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Marchal, Laurent", "telo": 1978, "uelo": 1816, "tstam": 62766, "ustam": 60517},
+      {"tr": "1", "ur": "0", "tspeler": "Lot, Diederik", "uspeler": "Vrancianu, Vladimir-Gabri", "telo": 1977, "uelo": 1762, "tstam": 9954, "ustam": 21465},
+      {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Kopijka, Olivier", "telo": 1897, "uelo": 1495, "tstam": 21881, "ustam": 70157}
+    ]
   }
 ]

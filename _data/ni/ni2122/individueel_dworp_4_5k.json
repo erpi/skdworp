@@ -14,5 +14,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Wuillaume, Nathan", "uspeler": "Lerinckx, Sander", "telo": 1508, "uelo": 0, "tstam": 18828, "ustam": 12702},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Navez, Alice", "uspeler": "Vanrossum, Matthias", "telo": 1414, "uelo": 0, "tstam": 16002, "ustam": 17614}
     ]
+  },
+  {
+    "ronde": "2",
+    "datum": "21-11-2021",
+    "thuis": "228 Dworp 4",
+    "uit": "961 Braine Echecs 3",
+    "tscore": 2,
+    "uscore": 2,
+    "tgem": 1484,
+    "ugem": 1191,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Palmans, Niels", "uspeler": "Simeons, Jean", "telo": 1512, "uelo": 0, "tstam": 17733, "ustam": 19635},
+      {"tr": "0F", "ur": "1F", "tspeler": "Taleb, Mohamad", "uspeler": "Lepoutre, Florian", "telo": 1455, "uelo": 1201, "tstam": 64611, "ustam": 16316},
+      {"tr": "1", "ur": "0", "tspeler": "Laureys, Mats", "uspeler": "Dymkin, Lev", "telo": 0, "uelo": 1181, "tstam": 12750, "ustam": 17266},
+      {"tr": "0", "ur": "1", "tspeler": "Dierick, Aaron", "uspeler": "Noel, Julien", "telo": 0, "uelo": 0, "tstam": 22735, "ustam": 21550}
+    ]
   }
 ]
