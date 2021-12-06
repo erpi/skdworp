@@ -27,12 +27,12 @@
     "ronde": "ronde 3",
     "datum": "05-12-2021",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 7", "uit": "460 Oudenaarde 1"},
-      {"tr": "", "ur": "", "thuis": "261 Opwijk 2", "uit": "418 Geraardsbergen 1"},
-      {"tr": "", "ur": "", "thuis": "471 Wachtebeke 3", "uit": "417 Aalst 1"},
-      {"tr": "", "ur": "", "thuis": "462 Zottegem 2", "uit": "228 Dworp 3"},
-      {"tr": "", "ur": "", "thuis": "244 Brussels CC 3", "uit": "432 Wetteren 3"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 4", "uit": "436 LSV-Chesspirant 2"}
+      {"tr": "1", "ur": "3", "thuis": "401 K Gentse SRL 7", "uit": "460 Oudenaarde 1"},
+      {"tr": "1", "ur": "3", "thuis": "261 Opwijk 2", "uit": "418 Geraardsbergen 1"},
+      {"tr": "2", "ur": "2", "thuis": "471 Wachtebeke 3", "uit": "417 Aalst 1"},
+      {"tr": "3", "ur": "1", "thuis": "462 Zottegem 2", "uit": "228 Dworp 3"},
+      {"tr": "2", "ur": "2", "thuis": "244 Brussels CC 3", "uit": "432 Wetteren 3"},
+      {"tr": "1", "ur": "3", "thuis": "278 Pantin 4", "uit": "436 LSV-Chesspirant 2"}
     ]
   },
   {

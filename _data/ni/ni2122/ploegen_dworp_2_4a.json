@@ -27,12 +27,12 @@
     "ronde": "ronde 3",
     "datum": "05-12-2021",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "514 Montigny-Fontaine 2", "uit": "952 Wavre 2"},
-      {"tr": "", "ur": "", "thuis": "525 CELB Anderlues 1", "uit": "902 CE Sambrevillois 1"},
-      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 1", "uit": "601 CRE Li\u00e8ge EL 3"},
-      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 1", "uit": "228 Dworp 2"},
-      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "548 Ca\u00efssa Europe Mons 2"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 2", "uit": "511 Echiquier du Centre 1"}
+      {"tr": "2", "ur": "2", "thuis": "514 Montigny-Fontaine 2", "uit": "952 Wavre 2"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "525 CELB Anderlues 1", "uit": "902 CE Sambrevillois 1"},
+      {"tr": "3", "ur": "1", "thuis": "961 Braine Echecs 1", "uit": "601 CRE Li\u00e8ge EL 3"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "551 HCC Jurbise 1", "uit": "228 Dworp 2"},
+      {"tr": "2", "ur": "2", "thuis": "901 Namur 3", "uit": "548 Ca\u00efssa Europe Mons 2"},
+      {"tr": "1", "ur": "3", "thuis": "278 Pantin 2", "uit": "511 Echiquier du Centre 1"}
     ]
   },
   {
