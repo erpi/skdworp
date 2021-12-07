@@ -5,7 +5,7 @@ ni_d2_uitploeg: Dworp 2
 ni_d3_uitploeg: Dworp 3
 title: Gemengde gevoelens in ronde 3
 auteur: Yves,Eric,Geert
-fotograaf: Yves
+fotograaf: 
 date: 2021-12-06 20:00:00 +0100
 ni_ronde: "3"
 ni_d1_thuisploeg: KGSRL 4
@@ -19,10 +19,12 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 description: "Na de mooie uitslagen uit de vorige ronde was het zaak de lijn door te trekken. Alle teams op verplaatsing en de vierde ploeg bye. Team 1 zakte af naar het mekka van het Belgische schaken in Gent: KGSRL, de enige club met een eigen huis."
 image:
-  path: assets/images/2122/ni/r3_d2_eddy_fb.jpg
-draft: true
+  path: assets/images/2122/ni/r3_d3_yves_fb.jpg
+draft: false
 ---
-Na de mooie uitslagen uit de vorige ronde was het zaak de lijn door te trekken. Alle teams op verplaatsing en de vierde ploeg bye. Team 1 zakte af naar het mekka van het Belgische schaken in Gent: KGSRL, de enige club met een eigen huis. De twee ploegen in vierde afdeling maakten relatief verre verplaatsingen, naar Jurbise en Zottegem. En voor alle ploegen gold: dit werd een stevige test.<!--more-->
+**Na de mooie uitslagen uit de vorige ronde was het zaak de lijn door te trekken. Alle teams op verplaatsing en de vierde ploeg bye. Team 1 zakte af naar het mekka van het Belgische schaken in Gent: KGSRL, de enige club met een eigen huis. De twee ploegen in vierde afdeling maakten relatief verre verplaatsingen, naar Jurbise en Zottegem. En voor alle ploegen gold: dit werd een stevige test.**<!--more-->
+
+![foto van Yves][foto 1]
 
 ## Hoogconjunctuur blijft aanhouden
 
@@ -78,5 +80,5 @@ Maar toch. Zweefvliegtuigen gelieve aan de grond te blijven want het kan elke ro
 
 En dan merkt Erik nog terecht op dat in eerste afdeling slechts 20 van de 48 partijen gespeeld werden. De rest werd forfait gegeven. Er is iets mis met de eerste klasse! (Of zit covid er voor iets tussen?)
 
-[foto 1]: {{ "/assets/images/2122/ni/r1_d1_diederik.jpg" | absolute_url }}
+[foto 1]: {{ "/assets/images/2122/ni/r3_d3_yves.jpg" | absolute_url }}
 
