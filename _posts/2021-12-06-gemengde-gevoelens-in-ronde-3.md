@@ -32,7 +32,7 @@ Door de superuitslagen in de eerste twee ronden speelden we in Gent tegen de num
 
 De eerste die naar de bar kon trekken was Serge op bord 1. Met zwart moest hij een sterke Nederlander partij geven. Serge deed het goed, de partij vlakte snel af en al vlug konden de stukken terug in de doos. Remise.
 
-Dat we het niet cadeau gingen krijgen, bleek al vlug. Voor het eerst dit seizoen kwamen we op achterstand. En wel door een dubieus verlies van Frank met zwart. Een geval van piece touché. Frank, in de overtuiging dat zijn tegenstander op zetherhaling speelde, raakte zijn dame lichtjes aan en werd vervolgens verplicht ermee te spelen. Dat koste een stuk en de partij. Jawel, Dworp 1 op achterstand en in de problemen.
+Dat we het niet cadeau gingen krijgen, bleek al vlug. Voor het eerst dit seizoen kwamen we op achterstand. En wel door een dubieus verlies van Frank met zwart. Een geval van piece touché. Frank, in de overtuiging dat zijn tegenstander op zetherhaling speelde, raakte zijn dame lichtjes aan en werd vervolgens verplicht ermee te spelen. Dat kostte een stuk en de partij. Jawel, Dworp 1 op achterstand en in de problemen.
 
 Dat trok Kjell op bord 2 met wit al heel snel effe recht. Weinig van de partij gezien maar het lijkt erop dat onze man kwam, zag en overwon. 2 op 2 voor Kjell en de stand was opnieuw gelijk. En van dan af liepen we erop en er over. Het bleef nog even evenwichtig nadat Diederik op 4 met zwart een duidelijk betere stelling met een pion meer remise gaf (“ik zag werkelijk niets”). Daarna was er geen houden meer aan.
 
@@ -74,7 +74,7 @@ Helaas verloren we zo met 3-1. Al bij al en gezien het aanzienlijke Elo-verschil
 
 We wisten op voorhand dat het voor de wat onverhoopt gepromoveerde teams 3 en 4 een zware karwei zou zijn om zich in vierde afdeling te handhaven. Deze ronde was daar een bevestiging van. Maar blijven knokken hé mannen. Knokken, concentratie en vechtlust... Daar komen we al een heel eind mee. Volgende ronde gaan we vol voor de winst.
 
-Voor team 1 blijft het sprookje duren. We lopen nog een half bordpuntje uit. Ter vergelijking: we hebben nu al even veel matchpunten (6) als op het einde van het vorige seizoen!  Toen sprokkelden we in totaal 31 bordpunten op elf ronden bij elkaar. Dit jaar hebben we er al 15 na drie rondes. Nog cijfertjes: op 18 partijen wonnen we er 13, speelden vier maal remises en verloren slechts éénmaal... Het kan tellen. 
+Voor team 1 blijft het sprookje duren. We lopen nog een half bordpuntje uit. Ter vergelijking: we hebben nu al even veel matchpunten (6) als op het einde van het vorige seizoen!  Toen sprokkelden we in totaal 31 bordpunten op elf rondes bij elkaar. Dit jaar hebben we er al 15 na drie rondes. Nog cijfertjes: op 18 partijen wonnen we er 13, speelden vier maal remises en verloren slechts éénmaal... Het kan tellen. 
 
 Maar toch. Zweefvliegtuigen gelieve aan de grond te blijven want het kan elke ronde gedaan zijn. En laten we het van dag tot dag bekijken. Te beginnen met ronde 4 tegen het nummer 11 in de rangschikking (The Belgian CC). Een haalbare kaart.
 
