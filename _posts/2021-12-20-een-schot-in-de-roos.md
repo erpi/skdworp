@@ -10,7 +10,7 @@ stelling_wit: ''
 stelling_zwart: ''
 stelling_uitleg: ''
 stelling_oplossing: ''
-description: "Zo had de Dworpse schaakkring het echter niet begrepen. Het clubbestuur besliste een alternatief uit te werken: de organisatie van een rapid-tornooitje, 15 minuten zonder increment"
+description: "Afgelopen zondag zou de vierde ronde van de Belgische interclubcompetitie doorgaan. Zou, want de covid-pandemie of eerder de vroede vaderen van ons aller schaakbond staken ter elfder ure stokken in de wielen."
 image:
   path: 'assets/images/fb/fb_post_10.jpg'
 noindex: true
