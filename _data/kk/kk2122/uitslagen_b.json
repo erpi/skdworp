@@ -82,8 +82,8 @@
         "zwart": "Yentl Wilmots"
       },
       {
-        "wr": "0",
-        "zr": "1",
+        "wr": "1",
+        "zr": "0F",
         "wit": "Eddy Pletinckx",
         "zwart": "Gaston Boutchon"
       }
@@ -94,8 +94,8 @@
     "datum": "19-11-2021",
     "partijen": [
       {
-        "wr": "0",
-        "zr": "1",
+        "wr": "1",
+        "zr": "0F",
         "wit": "Sonja Van Der Voorde",
         "zwart": "Gaston Boutchon"
       },
