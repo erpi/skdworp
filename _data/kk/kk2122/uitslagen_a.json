@@ -190,8 +190,8 @@
         "zwart": "Bye"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Niels Palmans",
         "zwart": "Serge Vanderwaeren"
       },
@@ -202,8 +202,8 @@
         "zwart": "Peter De Bosscher"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Mathias Vanrossum",
         "zwart": "Frank Denys"
       }
