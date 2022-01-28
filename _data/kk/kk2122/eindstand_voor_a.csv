@@ -1,0 +1,8 @@
+nr,naam,1,2,3,4,5,6,7,#,totaal
+1,Frank Denys,XX,0,1,1,1,1,1,6,5
+,Serge Vanderwaeren,1,XX,0.5,1,0.5,1,1,6,5
+3,Peter De Bosscher,0,0.5,XX,0,1,1,1,6,3.5
+4,Pascal Dekoster,0,0,1,XX,1,0,1,6,3
+5,Niels Palmans,0,0.5,0,0,XX,1,1,6,2.5
+6,Mats Laureys,0,0,0,1,0,XX,1,6,2
+7,Mathias Vanrossum,0,0,0,0,0,0,XX,6,0

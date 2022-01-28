@@ -1,0 +1,8 @@
+nr,naam,1,2,3,4,5,6,7,#,totaal
+1,Geert Verrijken,XX,,1,1,1,1,1,5,5
+2,Tom Van Hoofstat,,XX,1,1,,1,1,4,4
+3,Eric Cornelis,0,0,XX,0.5,1,1,0.5,6,3
+4,Johan Smeyers,0,0,0.5,XX,0.5,0.5,1,6,2.5
+5,Bob Huysman,0,,0,0.5,XX,,1,4,1.5
+6,Sander Lerinckx,0,0,0,0.5,,XX,1,5,1.5
+7,Jannes Vandevelde,0,0,0.5,0,0,0,XX,6,0.5
