@@ -1,0 +1,212 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "04-02-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Tom Van Hoofstat",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Frank Denys",
+        "zwart": "Walter De Reymaeker"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "18-02-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Walter De Reymaeker"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Frank Denys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Tom Van Hoofstat",
+        "zwart": "Serge Vanderwaeren"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "04-03-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Tom Van Hoofstat"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Frank Denys",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Walter De Reymaeker",
+        "zwart": "Peter De Bosscher"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "18-03-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Walter De Reymaeker"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Tom Van Hoofstat",
+        "zwart": "Frank Denys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Diederik Lot"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "08-04-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Frank Denys",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Walter De Reymaeker",
+        "zwart": "Tom Van Hoofstat"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Geert Verrijken"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "22-04-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Tom Van Hoofstat",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Walter De Reymaeker"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Frank Denys"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "13-05-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Frank Denys",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Walter De Reymaeker",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Tom Van Hoofstat"
+      }
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "04-02-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Sander Lerinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Aaron Dierick"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "18-02-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Aaron Dierick"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Mathias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Mats Laureys"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "04-03-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Aaron Dierick",
+        "zwart": "Sander Lerinckx"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "18-03-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bye",
+        "zwart": "Sander Lerinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Aaron Dierick"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Mathias Vanrossum"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "08-04-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Bye"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Aaron Dierick",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Jannes Vandevelde"
+      }
+    ]
+  }
+]

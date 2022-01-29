@@ -1,0 +1,212 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "04-02-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Johan Smeyers",
+        "zwart": "Niels Palmans"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Bob Huysman"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Eric Cornelis"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "18-02-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bob Huysman",
+        "zwart": "Sonja Van Der Voorde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Yentl Wilmots"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Johan Smeyers"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "04-03-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Johan Smeyers",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Pascal Dekoster"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Niels Palmans"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Bob Huysman"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "18-03-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Bob Huysman"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Sonja Van Der Voorde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Johan Smeyers",
+        "zwart": "Yentl Wilmots"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "08-04-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Johan Smeyers"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Pascal Dekoster"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bob Huysman",
+        "zwart": "Niels Palmans"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "22-04-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Niels Palmans"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Bob Huysman"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Johan Smeyers",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Sonja Van Der Voorde"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "13-05-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Yentl Wilmots"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Bob Huysman",
+        "zwart": "Johan Smeyers"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Niels Palmans",
+        "zwart": "Pascal Dekoster"
+      }
+    ]
+  }
+]
