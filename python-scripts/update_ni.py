@@ -33,7 +33,7 @@ reeksnamen = ('3b', '4a', '4c', '5k')
 url_locatie = 'https://www.frbe-kbsb.be/sites/manager/ICN/21-22/'
 # dbase-bestand van kbsb (zit in zip-file)
 zip_input = 'Datas.zip'
-dbf_input = 'Datas/Part24L.DBF'
+dbf_input = 'Part24L.DBF'
 # dictionary om scores uit dbase-bestand om te zetten in getallen
 score = {'0': 0, '0F': 0, '1': 1, '1F': 1, '0.5': 0.5}
 # excel-bestand van kbsb
