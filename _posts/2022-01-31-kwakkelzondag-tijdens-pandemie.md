@@ -36,9 +36,9 @@ Tom met zwart op bord 2 blunderde naar eigen zeggen al op zet 3. In een ingedruk
 
 Hetzelfde scenario op bord 1, Serge met wit. Lange tijd bleef het evenwicht bewaard. Tot de witspeler blunderde. Dat kostte een pion maar ook hier nam de Waalse eerste bordspeler na wat nadenken het aanbod aan. Tussenstand 1-1 en de eerlijkheid gebiedt te zeggen dat we daarmee goed wegkwamen.
 
-De opening die supersub Sam op bord 6 met zwart speelde was me niet helemaal bekend. Of beter: ze was me helemaal niet bekend. Hij won twee pionnen maar zijn stelling rammelde redelijk. Waarop hij een pionnetje teruggaf maar dat leek de witte agressie nauwelijks af te remmen. Gelukkig aanvaardde de man uit Philippeville dit want hier gaf de software liefst +4 voor wit. Oeftie, dit gaat niet goed!
+De opening die supersub Sam op bord 6 met zwart speelde was me niet helemaal bekend. Of beter: ze was me helemaal niet bekend. Hij won twee pionnen maar zijn stelling rammelde redelijk. Waarop hij een pionnetje teruggaf maar dat leek de witte agressie nauwelijks af te remmen. Toch stelde de man uit Philippeville remise voor. Heel raar want hier gaf de software liefst +4 voor wit. Oeftie, dit gaat niet goed!
 
-Maar de grote kanonnen moeten nog komen haha. Te beginnen met Frank met wit op 5. Hij kwam uit de opening met een pion meer. Zijn tegenstander had wel compensatie, onder meer in de vorm van het loperpaar in een open stelling. Mij leek Frank toch wel beter te staan maar ook hier werd de vredespijp gerookt. Nog steeds gelijk dus. Nagelbijten…
+Maar de grote kanonnen moeten nog komen haha. Te beginnen met Frank met wit op 5. Hij kwam uit de opening met een pion meer. Zijn tegenstander had wel compensatie, onder meer in de vorm van het loperpaar in een open stelling. Mij leek Frank toch wel beter te staan maar ook hier werd de vredespijp gerookt. Nog steeds gelijk dus. Nagelbijten...
 
 Vervolgens was het de beurt aan Diederik op bord 4 met zwart. Hij kwam goed uit de opening maar de afwikkeling naar een eindspel zorgde voor heel wat hoofdbrekens. De witspeler had op de damevleugel immers twee tegen één pion. Hoe hard de zwarte koning ook rende het lukte niet om wit tot de orde te roepen. Diederik moest een paard geven voor een pion. En dat viel uiteraard niet te houden.  Voor het eerst dit seizoen staat Dworp op achterstand.
 
