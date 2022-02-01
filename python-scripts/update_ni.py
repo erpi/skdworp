@@ -44,10 +44,10 @@ ws_ronden = ('R1', 'R2', 'R3', 'R4', 'R5', 'R6',
 # cellen in excel-bestand, wijzigt elk seizoen indien reeks waarin
 # ploegen spelen, wijzigt. Eerste veld is steeds voor Dworp 1, tweede
 # voor Dworp 2, lege string indien geen Dworp 2
-cell_ranking_begin = ('A47', 'A272', 'A317', 'A347')
-cell_ranking_eind = ('Q59', 'Q284', 'Q329', 'Q359')
-cell_uitslag_begin = ('A16', 'A56', 'A64', 'M64')
-cell_uitslag_eind = ('E21', 'E61', 'E69', 'Q69')
+cell_ranking_begin = ('A62', 'A107', 'A137', 'A377')
+cell_ranking_eind = ('Q74', 'Q119', 'Q149', 'Q389')
+cell_uitslag_begin = ('G16', 'G24', 'A32', 'G72')
+cell_uitslag_eind = ('K21', 'K29', 'E37', 'K77')
 cell_datum = 'H5'
 # ni_dir is de directory voor alle data van seizoen
 cur_dir = os.path.abspath(os.curdir)
@@ -80,6 +80,22 @@ verbeter_team_namen = [
     ('Tsm', 'TSM'),
     ('O/D', 'o/d'),
     ('000 Bye 5I', 'Bye'),
+    ('Brussels', 'Brussels CC'),
+    ('Crec Charlerloi', 'CRE Charlerloi'),
+    ('Belgian Cc', 'Belgian CC Anderlecht'),
+    ('Leuze-En-Hainaut', 'Leuze-en-Hainaut'),
+    (u'Caissa Europe', u'Caïssa Europe Mons'),
+    ('KGSRL', 'K Gentse SRL'),
+    ('Ce Sambre', 'CE Sambre'),
+    (u'Crelel Liège', u'CRE Liège EL'),
+    ('Celb', 'CELB'),
+    ('Hcc', 'HCC'),
+    ('Centre', 'du Centre'),
+    ('Namur Echecs', 'Namur'),
+    ('Lsv', 'LSV'),
+    ('Pion-Aalst', 'Aalst'),
+    ('000 Bye 5K', 'Bye'),
+    (u'2 Fous Diogène', u'Les Deux Fous du Diogène')
     ]
 
 
