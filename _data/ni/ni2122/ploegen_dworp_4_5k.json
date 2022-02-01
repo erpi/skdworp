@@ -63,12 +63,12 @@
     "ronde": "ronde 6",
     "datum": "30-01-2022",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diog\u00e8ne 3", "uit": "514 Montigny-Fontaine 4"},
-      {"tr": "", "ur": "", "thuis": "228 Dworp 4", "uit": "551 HCC Jurbise 3"},
-      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 3", "uit": "549 Saint-Ghislain 2"},
-      {"tr": "", "ur": "", "thuis": "501 CRE Charlerloi 4", "uit": "233 DZD Halle 2"},
+      {"tr": "3", "ur": "1", "thuis": "207 Les Deux Fous du Diog\u00e8ne 3", "uit": "514 Montigny-Fontaine 4"},
+      {"tr": "4", "ur": "0", "thuis": "228 Dworp 4", "uit": "551 HCC Jurbise 3"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "902 CE Sambrevillois 3", "uit": "549 Saint-Ghislain 2"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "501 CRE Charlerloi 4", "uit": "233 DZD Halle 2"},
       {"tr": "", "ur": "", "thuis": "952 Wavre 6", "uit": "Bye"},
-      {"tr": "", "ur": "", "thuis": "525 CELB Anderlues 3", "uit": "961 Braine Echecs 3"}
+      {"tr": "3.5", "ur": "0.5", "thuis": "525 CELB Anderlues 3", "uit": "961 Braine Echecs 3"}
     ]
   },
   {
