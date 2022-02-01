@@ -34,5 +34,41 @@
       {"tr": "1", "ur": "0", "tspeler": "Lot, Diederik", "uspeler": "Vrancianu, Vladimir-Gabri", "telo": 1977, "uelo": 1762, "tstam": 9954, "ustam": 21465},
       {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Kopijka, Olivier", "telo": 1897, "uelo": 1495, "tstam": 21881, "ustam": 70157}
     ]
+  },
+  {
+    "ronde": "3",
+    "datum": "05-12-2021",
+    "thuis": "401 KGSRL 4",
+    "uit": "228 Dworp 1",
+    "tscore": 2.0,
+    "uscore": 4.0,
+    "tgem": 2004,
+    "ugem": 1970,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Boog, Ben", "uspeler": "Vanderwaeren, Serge", "telo": 2143, "uelo": 2091, "tstam": 53830, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "Langlois-Remillard, Alexi", "uspeler": "Spaens, Kjell", "telo": 2040, "uelo": 2004, "tstam": 21138, "ustam": 29343},
+      {"tr": "0", "ur": "1", "tspeler": "Vreugdenhil, Frans", "uspeler": "Verrijken, Geert", "telo": 1962, "uelo": 1978, "tstam": 23366, "ustam": 62766},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van De Wynkele, Rudy", "uspeler": "Lot, Diederik", "telo": 1957, "uelo": 1977, "tstam": 9679, "ustam": 9954},
+      {"tr": "1", "ur": "0", "tspeler": "Debuck, Valere", "uspeler": "Denys, Frank", "telo": 1916, "uelo": 1897, "tstam": 35394, "ustam": 21881},
+      {"tr": "0", "ur": "1", "tspeler": "Everaert, Frederic", "uspeler": "De Reymaeker, Walter", "telo": 0, "uelo": 1874, "tstam": 23613, "ustam": 34584}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "30-01-2022",
+    "thuis": "228 Dworp 1",
+    "uit": "909 Philippeville 1",
+    "tscore": 2.5,
+    "uscore": 3.5,
+    "tgem": 1971,
+    "ugem": 1894,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren, Serge", "uspeler": "Vukojevic, Philippe", "telo": 2091, "uelo": 1990, "tstam": 20621, "ustam": 20249},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Hoofstat, Tom", "uspeler": "Counet, Jean-Michel", "telo": 2050, "uelo": 2025, "tstam": 42706, "ustam": 48011},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verrijken, Geert", "uspeler": "Dessomme, Francois", "telo": 1978, "uelo": 2002, "tstam": 62766, "ustam": 74063},
+      {"tr": "0", "ur": "1", "tspeler": "Lot, Diederik", "uspeler": "Wautelet, Patrick", "telo": 1977, "uelo": 1836, "tstam": 9954, "ustam": 71978},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Denys, Frank", "uspeler": "Albert, Julien", "telo": 1897, "uelo": 1714, "tstam": 21881, "ustam": 77381},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Hoofstat, Sam", "uspeler": "Brunet, David", "telo": 1832, "uelo": 1798, "tstam": 39101, "ustam": 75566}
+    ]
   }
 ]

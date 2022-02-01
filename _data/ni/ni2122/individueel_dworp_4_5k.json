@@ -30,5 +30,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Laureys, Mats", "uspeler": "Dymkin, Lev", "telo": 0, "uelo": 1181, "tstam": 12750, "ustam": 17266},
       {"tr": "0", "ur": "1", "tspeler": "Dierick, Aaron", "uspeler": "Noel, Julien", "telo": 0, "uelo": 0, "tstam": 22735, "ustam": 21550}
     ]
+  },
+  {
+    "ronde": "6",
+    "datum": "30-01-2022",
+    "thuis": "228 Dworp 4",
+    "uit": "551 HCC Jurbise 3",
+    "tscore": 4,
+    "uscore": 0,
+    "tgem": 1512,
+    "ugem": 1429,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Palmans, Niels", "uspeler": "Chantry, Vincent", "telo": 1512, "uelo": 1522, "tstam": 17733, "ustam": 68292},
+      {"tr": "1", "ur": "0", "tspeler": "Laureys, Mats", "uspeler": "Delvaux, Guy", "telo": 0, "uelo": 1398, "tstam": 12750, "ustam": 82856},
+      {"tr": "1F", "ur": "0F", "tspeler": "Vanrossum, Matthias", "uspeler": "Berteau, Philippe", "telo": 0, "uelo": 1368, "tstam": 17614, "ustam": 71633},
+      {"tr": "1", "ur": "0", "tspeler": "Smeyers, Johan", "uspeler": "Chantry, Simon", "telo": 0, "uelo": 0, "tstam": 17422, "ustam": 23119}
+    ]
   }
 ]

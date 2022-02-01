@@ -30,5 +30,37 @@
       {"tr": "1", "ur": "0", "tspeler": "Baert, Yves", "uspeler": "Ooms, Kylion", "telo": 1484, "uelo": 1410, "tstam": 48721, "ustam": 15665},
       {"tr": "1", "ur": "0", "tspeler": "Wilmots, Yentl", "uspeler": "Depickere, Yari", "telo": 0, "uelo": 1230, "tstam": 21680, "ustam": 19066}
     ]
+  },
+  {
+    "ronde": "3",
+    "datum": "05-12-2021",
+    "thuis": "462 Zottegem 2",
+    "uit": "228 Dworp 3",
+    "tscore": 3.0,
+    "uscore": 1.0,
+    "tgem": 1818,
+    "ugem": 1562,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verstraeten, Jan", "uspeler": "Van De Velde, Filip", "telo": 1916, "uelo": 1747, "tstam": 33316, "ustam": 31682},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Parys, Nikita", "uspeler": "Baert, Yves", "telo": 1836, "uelo": 1484, "tstam": 10045, "ustam": 48721},
+      {"tr": "1", "ur": "0", "tspeler": "Van Poucke, Simon", "uspeler": "Taleb, Mohamad", "telo": 1885, "uelo": 1455, "tstam": 6467, "ustam": 64611},
+      {"tr": "1", "ur": "0", "tspeler": "Van Driessche, Filiep", "uspeler": "Lerinckx, Sander", "telo": 1633, "uelo": 0, "tstam": 4707, "ustam": 12702}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "30-01-2022",
+    "thuis": "228 Dworp 3",
+    "uit": "436 LSV-Chesspirant 2",
+    "tscore": 0,
+    "uscore": 4,
+    "tgem": 1562,
+    "ugem": 1817,
+    "borden": [
+      {"tr": "0F", "ur": "1F", "tspeler": "Van De Velde, Filip", "uspeler": "Decruyenaere, Robbert", "telo": 1747, "uelo": 1923, "tstam": 31682, "ustam": 10967},
+      {"tr": "0", "ur": "1", "tspeler": "Baert, Yves", "uspeler": "Cuvelier, Annelies", "telo": 1484, "uelo": 1920, "tstam": 48721, "ustam": 18465},
+      {"tr": "0", "ur": "1", "tspeler": "Taleb, Mohamad", "uspeler": "Cappan, Pjotr", "telo": 1455, "uelo": 1738, "tstam": 64611, "ustam": 14898},
+      {"tr": "0", "ur": "1", "tspeler": "Wilmots, Yentl", "uspeler": "Naessens, Wolf", "telo": 0, "uelo": 1685, "tstam": 21680, "ustam": 14293}
+    ]
   }
 ]

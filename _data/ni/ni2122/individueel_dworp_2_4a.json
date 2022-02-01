@@ -30,5 +30,37 @@
       {"tr": "1", "ur": "0", "tspeler": "Malfliet, Bernard", "uspeler": "Putnik, Slobodan", "telo": 1740, "uelo": 1847, "tstam": 31348, "ustam": 39225},
       {"tr": "0", "ur": "1", "tspeler": "Cornelis, Eric", "uspeler": "Assaf, Georges", "telo": 1656, "uelo": 1691, "tstam": 76317, "ustam": 16658}
     ]
+  },
+  {
+    "ronde": "3",
+    "datum": "05-12-2021",
+    "thuis": "551 HCC Jurbise 1",
+    "uit": "228 Dworp 2",
+    "tscore": 3.5,
+    "uscore": 0.5,
+    "tgem": 1816,
+    "ugem": 1740,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Blagojevic, Ljubo", "uspeler": "Pletinckx, Eddy", "telo": 2027, "uelo": 1749, "tstam": 83909, "ustam": 76325},
+      {"tr": "1", "ur": "0", "tspeler": "Godry, Adelin", "uspeler": "De Bosscher, Peter", "telo": 1927, "uelo": 1816, "tstam": 12806, "ustam": 655},
+      {"tr": "1", "ur": "0", "tspeler": "Dupuis, Cedric", "uspeler": "Malfliet, Bernard", "telo": 1890, "uelo": 1740, "tstam": 96105, "ustam": 31348},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Beghin, Philippe", "uspeler": "Cornelis, Eric", "telo": 1419, "uelo": 1656, "tstam": 20519, "ustam": 76317}
+    ]
+  },
+  {
+    "ronde": "6",
+    "datum": "30-01-2022",
+    "thuis": "228 Dworp 2",
+    "uit": "511 Echiquier Centre 1",
+    "tscore": 0.5,
+    "uscore": 3.5,
+    "tgem": 1763,
+    "ugem": 1880,
+    "borden": [
+      {"tr": "0F", "ur": "1F", "tspeler": "Van Helder, Dirk", "uspeler": "Maltier, Benjamin", "telo": 1841, "uelo": 1917, "tstam": 77445, "ustam": 17296},
+      {"tr": "0F", "ur": "1F", "tspeler": "De Bosscher, Peter", "uspeler": "De Pauw, Damien", "telo": 1816, "uelo": 1879, "tstam": 655, "ustam": 69311},
+      {"tr": "0", "ur": "1", "tspeler": "Malfliet, Bernard", "uspeler": "Denivet, Axel", "telo": 1740, "uelo": 1867, "tstam": 31348, "ustam": 82376},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis, Eric", "uspeler": "Pegoretti, Franco", "telo": 1656, "uelo": 1855, "tstam": 76317, "ustam": 57959}
+    ]
   }
 ]
