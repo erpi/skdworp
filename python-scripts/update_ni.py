@@ -81,7 +81,7 @@ verbeter_team_namen = [
     ('O/D', 'o/d'),
     ('000 Bye 5I', 'Bye'),
     ('Brussels', 'Brussels CC'),
-    ('Crec Charlerloi', 'CRE Charlerloi'),
+    ('Crec Charlerloi', 'CRE Charleroi'),
     ('Belgian Cc', 'Belgian CC Anderlecht'),
     ('Leuze-En-Hainaut', 'Leuze-en-Hainaut'),
     (u'Caissa Europe', u'Caïssa Europe Mons'),

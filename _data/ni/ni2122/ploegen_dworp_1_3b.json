@@ -3,7 +3,7 @@
     "ronde": "ronde 1",
     "datum": "24-10-2021",
     "uitslagen": [
-      {"tr": "3.5", "ur": "2.5", "thuis": "244 Brussels CC 2", "uit": "501 CRE Charlerloi 2"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "244 Brussels CC 2", "uit": "501 CRE Charleroi 2"},
       {"tr": "2.5", "ur": "3.5", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "541 Leuze-en-Hainaut 1"},
       {"tr": "1", "ur": "5", "thuis": "239 Boitsfort 2", "uit": "228 Dworp 1"},
       {"tr": "3", "ur": "3", "thuis": "548 Ca\u00efssa Europe Mons 1", "uit": "230 Leuven Centraal 2"},
@@ -20,7 +20,7 @@
       {"tr": "2.5", "ur": "3.5", "thuis": "230 Leuven Centraal 2", "uit": "401 K Gentse SRL 4"},
       {"tr": "6", "ur": "0", "thuis": "228 Dworp 1", "uit": "548 Ca\u00efssa Europe Mons 1"},
       {"tr": "2.5", "ur": "3.5", "thuis": "541 Leuze-en-Hainaut 1", "uit": "239 Boitsfort 2"},
-      {"tr": "3.5", "ur": "2.5", "thuis": "501 CRE Charlerloi 2", "uit": "209 The Belgian CC Anderlecht 2"}
+      {"tr": "3.5", "ur": "2.5", "thuis": "501 CRE Charleroi 2", "uit": "209 The Belgian CC Anderlecht 2"}
     ]
   },
   {
@@ -28,7 +28,7 @@
     "datum": "05-12-2021",
     "uitslagen": [
       {"tr": "4", "ur": "2", "thuis": "244 Brussels CC 2", "uit": "209 The Belgian CC Anderlecht 2"},
-      {"tr": "5.5", "ur": "0.5", "thuis": "239 Boitsfort 2", "uit": "501 CRE Charlerloi 2"},
+      {"tr": "5.5", "ur": "0.5", "thuis": "239 Boitsfort 2", "uit": "501 CRE Charleroi 2"},
       {"tr": "2.5", "ur": "3.5", "thuis": "548 Ca\u00efssa Europe Mons 1", "uit": "541 Leuze-en-Hainaut 1"},
       {"tr": "2", "ur": "4", "thuis": "401 K Gentse SRL 4", "uit": "228 Dworp 1"},
       {"tr": "3.5", "ur": "2.5", "thuis": "244 Brussels CC 1", "uit": "230 Leuven Centraal 2"},
@@ -43,7 +43,7 @@
       {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 2", "uit": "278 Pantin 1"},
       {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "244 Brussels CC 1"},
       {"tr": "", "ur": "", "thuis": "541 Leuze-en-Hainaut 1", "uit": "401 K Gentse SRL 4"},
-      {"tr": "", "ur": "", "thuis": "501 CRE Charlerloi 2", "uit": "548 Ca\u00efssa Europe Mons 1"},
+      {"tr": "", "ur": "", "thuis": "501 CRE Charleroi 2", "uit": "548 Ca\u00efssa Europe Mons 1"},
       {"tr": "", "ur": "", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "239 Boitsfort 2"}
     ]
   },
@@ -53,7 +53,7 @@
     "uitslagen": [
       {"tr": "", "ur": "", "thuis": "244 Brussels CC 2", "uit": "239 Boitsfort 2"},
       {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 1", "uit": "209 The Belgian CC Anderlecht 2"},
-      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 4", "uit": "501 CRE Charlerloi 2"},
+      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 4", "uit": "501 CRE Charleroi 2"},
       {"tr": "", "ur": "", "thuis": "244 Brussels CC 1", "uit": "541 Leuze-en-Hainaut 1"},
       {"tr": "", "ur": "", "thuis": "278 Pantin 1", "uit": "228 Dworp 1"},
       {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "230 Leuven Centraal 2"}
@@ -66,7 +66,7 @@
       {"tr": "3", "ur": "3", "thuis": "230 Leuven Centraal 2", "uit": "244 Brussels CC 2"},
       {"tr": "2.5", "ur": "3.5", "thuis": "228 Dworp 1", "uit": "909 Philippeville 1"},
       {"tr": "3", "ur": "3", "thuis": "541 Leuze-en-Hainaut 1", "uit": "278 Pantin 1"},
-      {"tr": "1", "ur": "5", "thuis": "501 CRE Charlerloi 2", "uit": "244 Brussels CC 1"},
+      {"tr": "1", "ur": "5", "thuis": "501 CRE Charleroi 2", "uit": "244 Brussels CC 1"},
       {"tr": "0.5", "ur": "5.5", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "401 K Gentse SRL 4"},
       {"tr": "3.5", "ur": "2.5", "thuis": "239 Boitsfort 2", "uit": "548 Ca\u00efssa Europe Mons 1"}
     ]
@@ -78,7 +78,7 @@
       {"tr": "", "ur": "", "thuis": "244 Brussels CC 2", "uit": "548 Ca\u00efssa Europe Mons 1"},
       {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 4", "uit": "239 Boitsfort 2"},
       {"tr": "", "ur": "", "thuis": "244 Brussels CC 1", "uit": "209 The Belgian CC Anderlecht 2"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 1", "uit": "501 CRE Charlerloi 2"},
+      {"tr": "", "ur": "", "thuis": "278 Pantin 1", "uit": "501 CRE Charleroi 2"},
       {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "541 Leuze-en-Hainaut 1"},
       {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 2", "uit": "228 Dworp 1"}
     ]
@@ -89,7 +89,7 @@
     "uitslagen": [
       {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "244 Brussels CC 2"},
       {"tr": "", "ur": "", "thuis": "541 Leuze-en-Hainaut 1", "uit": "230 Leuven Centraal 2"},
-      {"tr": "", "ur": "", "thuis": "501 CRE Charlerloi 2", "uit": "909 Philippeville 1"},
+      {"tr": "", "ur": "", "thuis": "501 CRE Charleroi 2", "uit": "909 Philippeville 1"},
       {"tr": "", "ur": "", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "278 Pantin 1"},
       {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "244 Brussels CC 1"},
       {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 1", "uit": "401 K Gentse SRL 4"}
@@ -103,7 +103,7 @@
       {"tr": "", "ur": "", "thuis": "244 Brussels CC 1", "uit": "548 Ca\u00efssa Europe Mons 1"},
       {"tr": "", "ur": "", "thuis": "278 Pantin 1", "uit": "239 Boitsfort 2"},
       {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "209 The Belgian CC Anderlecht 2"},
-      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 2", "uit": "501 CRE Charlerloi 2"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 2", "uit": "501 CRE Charleroi 2"},
       {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "541 Leuze-en-Hainaut 1"}
     ]
   },
@@ -112,7 +112,7 @@
     "datum": "27-03-2022",
     "uitslagen": [
       {"tr": "", "ur": "", "thuis": "541 Leuze-en-Hainaut 1", "uit": "244 Brussels CC 2"},
-      {"tr": "", "ur": "", "thuis": "501 CRE Charlerloi 2", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "501 CRE Charleroi 2", "uit": "228 Dworp 1"},
       {"tr": "", "ur": "", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "230 Leuven Centraal 2"},
       {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "909 Philippeville 1"},
       {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 1", "uit": "278 Pantin 1"},
@@ -128,7 +128,7 @@
       {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "548 Ca\u00efssa Europe Mons 1"},
       {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 2", "uit": "239 Boitsfort 2"},
       {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "209 The Belgian CC Anderlecht 2"},
-      {"tr": "", "ur": "", "thuis": "541 Leuze-en-Hainaut 1", "uit": "501 CRE Charlerloi 2"}
+      {"tr": "", "ur": "", "thuis": "541 Leuze-en-Hainaut 1", "uit": "501 CRE Charleroi 2"}
     ]
   }
 ]
