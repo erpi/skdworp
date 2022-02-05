@@ -4,14 +4,14 @@
     "datum": "04-02-2022",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Pascal Dekoster",
         "zwart": "Eddy Pletinckx"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Johan Smeyers",
         "zwart": "Niels Palmans"
       },
@@ -22,8 +22,8 @@
         "zwart": "Bob Huysman"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Sonja Van Der Voorde",
         "zwart": "Eric Cornelis"
       }
