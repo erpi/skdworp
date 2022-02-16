@@ -62,5 +62,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Malfliet, Bernard", "uspeler": "Denivet, Axel", "telo": 1740, "uelo": 1867, "tstam": 31348, "ustam": 82376},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis, Eric", "uspeler": "Pegoretti, Franco", "telo": 1656, "uelo": 1855, "tstam": 76317, "ustam": 57959}
     ]
+  },
+  {
+    "ronde": "7",
+    "datum": "13-02-2022",
+    "thuis": "548 Caissa Europe 2",
+    "uit": "228 Dworp 2",
+    "tscore": 2.5,
+    "uscore": 1.5,
+    "tgem": 1800,
+    "ugem": 1740,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Bouzidi, Mohamed", "uspeler": "Pletinckx, Eddy", "telo": 1898, "uelo": 1749, "tstam": 12794, "ustam": 76325},
+      {"tr": "1", "ur": "0", "tspeler": "Akuatse, Angel Kaleb", "uspeler": "De Bosscher, Peter", "telo": 1843, "uelo": 1816, "tstam": 13468, "ustam": 655},
+      {"tr": "0", "ur": "1", "tspeler": "Charlier, Laurent", "uspeler": "Malfliet, Bernard", "telo": 1822, "uelo": 1740, "tstam": 82571, "ustam": 31348},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vicainne, Jerome", "uspeler": "Cornelis, Eric", "telo": 1637, "uelo": 1656, "tstam": 91472, "ustam": 76317}
+    ]
   }
 ]

@@ -62,5 +62,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Taleb, Mohamad", "uspeler": "Cappan, Pjotr", "telo": 1455, "uelo": 1738, "tstam": 64611, "ustam": 14898},
       {"tr": "0", "ur": "1", "tspeler": "Wilmots, Yentl", "uspeler": "Naessens, Wolf", "telo": 0, "uelo": 1685, "tstam": 21680, "ustam": 14293}
     ]
+  },
+  {
+    "ronde": "7",
+    "datum": "13-02-2022",
+    "thuis": "432 Wetteren 3",
+    "uit": "228 Dworp 3",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1708,
+    "ugem": 1688,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Defre, Walter", "uspeler": "Van Hoofstat, Sam", "telo": 1858, "uelo": 1832, "tstam": 41955, "ustam": 39101},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Ramacker, Nico", "uspeler": "Van De Velde, Filip", "telo": 1818, "uelo": 1747, "tstam": 10280, "ustam": 31682},
+      {"tr": "1", "ur": "0", "tspeler": "Frouws, Willem", "uspeler": "Baert, Yves", "telo": 1644, "uelo": 1484, "tstam": 23381, "ustam": 48721},
+      {"tr": "0", "ur": "1", "tspeler": "Hulpiau, Joshua", "uspeler": "Wilmots, Yentl", "telo": 1513, "uelo": 0, "tstam": 14755, "ustam": 21680}
+    ]
   }
 ]

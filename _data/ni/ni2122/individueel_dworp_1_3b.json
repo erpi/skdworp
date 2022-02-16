@@ -70,5 +70,23 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Denys, Frank", "uspeler": "Albert, Julien", "telo": 1897, "uelo": 1714, "tstam": 21881, "ustam": 77381},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Van Hoofstat, Sam", "uspeler": "Brunet, David", "telo": 1832, "uelo": 1798, "tstam": 39101, "ustam": 75566}
     ]
+  },
+  {
+    "ronde": "7",
+    "datum": "13-02-2022",
+    "thuis": "230 Leuven Centraal 2",
+    "uit": "228 Dworp 1",
+    "tscore": 2.0,
+    "uscore": 4.0,
+    "tgem": 1860,
+    "ugem": 2000,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Hoogstijns, Raf", "uspeler": "Vanderwaeren, Serge", "telo": 2002, "uelo": 2091, "tstam": 55875, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "Leonel, Davi", "uspeler": "Van Hoofstat, Tom", "telo": 1924, "uelo": 2050, "tstam": 21771, "ustam": 42706},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Voet, Dirk", "uspeler": "Spaens, Kjell", "telo": 1826, "uelo": 2004, "tstam": 59749, "ustam": 29343},
+      {"tr": "0", "ur": "1", "tspeler": "Van Noten, Stijn", "uspeler": "Verrijken, Geert", "telo": 1809, "uelo": 1978, "tstam": 24422, "ustam": 62766},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Praag, Bart", "uspeler": "Lot, Diederik", "telo": 1801, "uelo": 1977, "tstam": 17256, "ustam": 9954},
+      {"tr": "0", "ur": "1", "tspeler": "Kutlu, Hasan", "uspeler": "Denys, Frank", "telo": 1798, "uelo": 1897, "tstam": 49506, "ustam": 21881}
+    ]
   }
 ]

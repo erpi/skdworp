@@ -75,12 +75,12 @@
     "ronde": "ronde 7",
     "datum": "13-02-2022",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "244 Brussels CC 2", "uit": "548 Ca\u00efssa Europe Mons 1"},
-      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 4", "uit": "239 Boitsfort 2"},
-      {"tr": "", "ur": "", "thuis": "244 Brussels CC 1", "uit": "209 The Belgian CC Anderlecht 2"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 1", "uit": "501 CRE Charleroi 2"},
-      {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "541 Leuze-en-Hainaut 1"},
-      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 2", "uit": "228 Dworp 1"}
+      {"tr": "5.5", "ur": "0.5", "thuis": "244 Brussels CC 2", "uit": "548 Ca\u00efssa Europe Mons 1"},
+      {"tr": "4", "ur": "2", "thuis": "401 K Gentse SRL 4", "uit": "239 Boitsfort 2"},
+      {"tr": "4", "ur": "2", "thuis": "244 Brussels CC 1", "uit": "209 The Belgian CC Anderlecht 2"},
+      {"tr": "6", "ur": "0", "thuis": "278 Pantin 1", "uit": "501 CRE Charleroi 2"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "909 Philippeville 1", "uit": "541 Leuze-en-Hainaut 1"},
+      {"tr": "2", "ur": "4", "thuis": "230 Leuven Centraal 2", "uit": "228 Dworp 1"}
     ]
   },
   {

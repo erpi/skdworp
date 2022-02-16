@@ -46,5 +46,21 @@
       {"tr": "1F", "ur": "0F", "tspeler": "Vanrossum, Matthias", "uspeler": "Berteau, Philippe", "telo": 0, "uelo": 1368, "tstam": 17614, "ustam": 71633},
       {"tr": "1", "ur": "0", "tspeler": "Smeyers, Johan", "uspeler": "Chantry, Simon", "telo": 0, "uelo": 0, "tstam": 17422, "ustam": 23119}
     ]
+  },
+  {
+    "ronde": "7",
+    "datum": "13-02-2022",
+    "thuis": "207 2 Fous Diog\u00e8ne 3",
+    "uit": "228 Dworp 4",
+    "tscore": 2,
+    "uscore": 2,
+    "tgem": 1552,
+    "ugem": 1512,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Lacheron, Edouard", "uspeler": "Palmans, Niels", "telo": 1637, "uelo": 1512, "tstam": 12099, "ustam": 17733},
+      {"tr": "1", "ur": "0", "tspeler": "Kuy, Yannick", "uspeler": "Lerinckx, Sander", "telo": 1593, "uelo": 0, "tstam": 16387, "ustam": 12702},
+      {"tr": "0", "ur": "1", "tspeler": "Castiau, Julien", "uspeler": "Vanrossum, Matthias", "telo": 1426, "uelo": 0, "tstam": 55549, "ustam": 17614},
+      {"tr": "0", "ur": "1", "tspeler": "Declerck, Olivier", "uspeler": "Smeyers, Johan", "telo": 0, "uelo": 0, "tstam": 23064, "ustam": 17422}
+    ]
   }
 ]

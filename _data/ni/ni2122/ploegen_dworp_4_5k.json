@@ -75,12 +75,12 @@
     "ronde": "ronde 7",
     "datum": "13-02-2022",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "514 Montigny-Fontaine 4", "uit": "961 Braine Echecs 3"},
+      {"tr": "2", "ur": "2", "thuis": "514 Montigny-Fontaine 4", "uit": "961 Braine Echecs 3"},
       {"tr": "", "ur": "", "thuis": "Bye", "uit": "525 CELB Anderlues 3"},
-      {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "952 Wavre 6"},
-      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "501 CRE Charleroi 4"},
-      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "902 CE Sambrevillois 3"},
-      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diog\u00e8ne 3", "uit": "228 Dworp 4"}
+      {"tr": "2.5", "ur": "1.5", "thuis": "233 DZD Halle 2", "uit": "952 Wavre 6"},
+      {"tr": "0", "ur": "4", "thuis": "549 Saint-Ghislain 2", "uit": "501 CRE Charleroi 4"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "551 HCC Jurbise 3", "uit": "902 CE Sambrevillois 3"},
+      {"tr": "2", "ur": "2", "thuis": "207 Les Deux Fous du Diog\u00e8ne 3", "uit": "228 Dworp 4"}
     ]
   },
   {
