@@ -28,7 +28,7 @@ draft: false
 
 **Ook het vlaggenschip in derde afdeling won. En zoals bekend is de belangrijkste partij, de match na de nederlaag. Ook hier blijft de optie promotie open. Enkel Dworp 2 haalde geen punten binnen. Tegen een tegenstander met gemiddeld een pak Elo meer is dat geen schande. En er komen nog kansen, zoveel is zeker.** 
 
-![esthetische foto  schaakbord][foto 1]
+![foto station Halle][foto 1]
 
 ## Team 1 wint en lost verwachtingen in
 
@@ -56,6 +56,8 @@ Maar Peter, die volgens de meeste aanwezigen op dat moment een behoorlijke stell
 
 ## Dworp 3 speelt uitstekend en doet goede zaak
 
+![foto smiling Filip][foto 2]
+
 De Oscar van ronde 7 gaat zonder twijfel naar Dworp 3 dat wint tegen een tegenstander met gemiddeld 100 Elo meer. 
 
 Yves op 3 met zwart verliest weliswaar als eerste maar wel tegen een speler met pakweg 150 Elo meer. Snel daarna laat Sam ‘onze smalle’ Van Hoofstat flitsen van zijn grote klasse zien op bord 1 met zwart. Ten huize Van Hoofstat stond er zondagavond gehakt op het menu. Althans, Sam hakte zijn tegenstander in de pan. De bordjes hangen weer gelijk. 
@@ -72,6 +74,8 @@ Maar ondertussen trok Matthias op bord 3 met zwart wel aan het langste eind. Dat
 
 ## Naspel
 
+![Eddy, Kjell, Eric, Yves, Diederik en Peter in after party modus][foto 3]
+
 Dworp 1 handhaaft zich ook na deze ronde op een onverwacht fraaie tweede plaats in het klassement.  Die hoogconjunctuur gaan we zo lang mogelijk doortrekken en wie weet... De klasse en de goede luim is er alvast in het team. Ik blijf het herhalen: concentratie, knokken en geloof in eigen kunnen. Dan kan er veel. De volgende ronde tegen het stevige Brussels CC 2 is alvast een goede test.
 
 Voor Dworp 2, met twee punten afgezakt naar de tiende plaats in de ranking begint het te dringen. Knoop het in jullie oren jongelui: eerst punten pakken en daarna pas pinten! Er is geen weg naast. Ook hier: concentratie en knokken. 
@@ -82,5 +86,7 @@ Uitstekend presteert Dworp 4 (4 punten, zesde plaats). De broeders en zusters va
 
 Afspraak over een week. Dan onthult deze IC-competitie nog meer geheimen.
 
-[foto 1]: {{ "/assets/images/fb/fb_post_7.jpg" | absolute_url }}
+[foto 1]: {{ "/assets/images/2122/ni/r7_before_party.jpg" | absolute_url }}
+[foto 2]: {{ "/assets/images/2122/ni/r7_d3_filip.jpg" | absolute_url }}
+[foto 3]: {{ "/assets/images/2122/ni/r7_after_party.jpg" | absolute_url }}
 
