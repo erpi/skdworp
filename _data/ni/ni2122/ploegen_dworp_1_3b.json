@@ -87,12 +87,12 @@
     "ronde": "ronde 8",
     "datum": "20-02-2022",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "244 Brussels CC 2"},
-      {"tr": "", "ur": "", "thuis": "541 Leuze-en-Hainaut 1", "uit": "230 Leuven Centraal 2"},
-      {"tr": "", "ur": "", "thuis": "501 CRE Charleroi 2", "uit": "909 Philippeville 1"},
-      {"tr": "", "ur": "", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "278 Pantin 1"},
-      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "244 Brussels CC 1"},
-      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 1", "uit": "401 K Gentse SRL 4"}
+      {"tr": "5", "ur": "1", "thuis": "228 Dworp 1", "uit": "244 Brussels CC 2"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "541 Leuze-en-Hainaut 1", "uit": "230 Leuven Centraal 2"},
+      {"tr": "4", "ur": "2", "thuis": "501 CRE Charleroi 2", "uit": "909 Philippeville 1"},
+      {"tr": "0.5", "ur": "5.5", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "278 Pantin 1"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "239 Boitsfort 2", "uit": "244 Brussels CC 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "548 Ca\u00efssa Europe Mons 1", "uit": "401 K Gentse SRL 4"}
     ]
   },
   {

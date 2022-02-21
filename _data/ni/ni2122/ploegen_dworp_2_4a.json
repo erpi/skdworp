@@ -87,12 +87,12 @@
     "ronde": "ronde 8",
     "datum": "20-02-2022",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "514 Montigny-Fontaine 2"},
-      {"tr": "", "ur": "", "thuis": "601 CRE Li\u00e8ge EL 3", "uit": "548 Ca\u00efssa Europe Mons 2"},
-      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 1", "uit": "511 Echiquier du Centre 1"},
-      {"tr": "", "ur": "", "thuis": "952 Wavre 2", "uit": "278 Pantin 2"},
-      {"tr": "", "ur": "", "thuis": "525 CELB Anderlues 1", "uit": "901 Namur 3"},
-      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 1", "uit": "551 HCC Jurbise 1"}
+      {"tr": "2", "ur": "2", "thuis": "228 Dworp 2", "uit": "514 Montigny-Fontaine 2"},
+      {"tr": "4", "ur": "0", "thuis": "601 CRE Li\u00e8ge EL 3", "uit": "548 Ca\u00efssa Europe Mons 2"},
+      {"tr": "1", "ur": "3", "thuis": "902 CE Sambrevillois 1", "uit": "511 Echiquier du Centre 1"},
+      {"tr": "0.5", "ur": "3.5", "thuis": "952 Wavre 2", "uit": "278 Pantin 2"},
+      {"tr": "4", "ur": "0", "thuis": "525 CELB Anderlues 1", "uit": "901 Namur 3"},
+      {"tr": "3", "ur": "1", "thuis": "961 Braine Echecs 1", "uit": "551 HCC Jurbise 1"}
     ]
   },
   {
