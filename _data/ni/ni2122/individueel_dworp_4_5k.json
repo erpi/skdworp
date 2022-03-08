@@ -62,5 +62,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Castiau, Julien", "uspeler": "Vanrossum, Matthias", "telo": 1426, "uelo": 0, "tstam": 55549, "ustam": 17614},
       {"tr": "0", "ur": "1", "tspeler": "Declerck, Olivier", "uspeler": "Smeyers, Johan", "telo": 0, "uelo": 0, "tstam": 23064, "ustam": 17422}
     ]
+  },
+  {
+    "ronde": "8",
+    "datum": "20-02-2022",
+    "thuis": "228 Dworp 4",
+    "uit": "514 Montigny-Fontaine 4",
+    "tscore": 2.5,
+    "uscore": 1.5,
+    "tgem": 1498,
+    "ugem": 1323,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Palmans, Niels", "uspeler": "D'Amico, Luciano", "telo": 1512, "uelo": 1338, "tstam": 17733, "ustam": 93149},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Baert, Yves", "uspeler": "De Beir, Christian", "telo": 1484, "uelo": 1307, "tstam": 48721, "ustam": 80284},
+      {"tr": "0", "ur": "1", "tspeler": "Vanrossum, Matthias", "uspeler": "Toti, Guido", "telo": 0, "uelo": 0, "tstam": 17614, "ustam": 22035},
+      {"tr": "1", "ur": "0", "tspeler": "Smeyers, Johan", "uspeler": "Letoret, Tim", "telo": 0, "uelo": 0, "tstam": 17422, "ustam": 22957}
+    ]
   }
 ]

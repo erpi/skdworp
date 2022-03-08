@@ -78,5 +78,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Charlier, Laurent", "uspeler": "Malfliet, Bernard", "telo": 1822, "uelo": 1740, "tstam": 82571, "ustam": 31348},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Vicainne, Jerome", "uspeler": "Cornelis, Eric", "telo": 1637, "uelo": 1656, "tstam": 91472, "ustam": 76317}
     ]
+  },
+  {
+    "ronde": "8",
+    "datum": "20-02-2022",
+    "thuis": "228 Dworp 2",
+    "uit": "514 Montigny-Fontaine 2",
+    "tscore": 2.0,
+    "uscore": 2.0,
+    "tgem": 1740,
+    "ugem": 1645,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Pletinckx, Eddy", "uspeler": "Lui, Eric", "telo": 1749, "uelo": 1905, "tstam": 76325, "ustam": 81981},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher, Peter", "uspeler": "Iboud, Samir", "telo": 1816, "uelo": 1810, "tstam": 655, "ustam": 23289},
+      {"tr": "0", "ur": "1", "tspeler": "Malfliet, Bernard", "uspeler": "Romboni, Charles", "telo": 1740, "uelo": 1525, "tstam": 31348, "ustam": 13053},
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis, Eric", "uspeler": "Russo, Italo", "telo": 1656, "uelo": 1341, "tstam": 76317, "ustam": 71684}
+    ]
   }
 ]
