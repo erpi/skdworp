@@ -99,12 +99,12 @@
     "ronde": "ronde 9",
     "datum": "13-03-2022",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "514 Montigny-Fontaine 2", "uit": "551 HCC Jurbise 1"},
-      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "961 Braine Echecs 1"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 2", "uit": "525 CELB Anderlues 1"},
-      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "952 Wavre 2"},
-      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 2", "uit": "902 CE Sambrevillois 1"},
-      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "601 CRE Li\u00e8ge EL 3"}
+      {"tr": "0", "ur": "4", "thuis": "514 Montigny-Fontaine 2", "uit": "551 HCC Jurbise 1"},
+      {"tr": "1", "ur": "3", "thuis": "901 Namur 3", "uit": "961 Braine Echecs 1"},
+      {"tr": "2", "ur": "2", "thuis": "278 Pantin 2", "uit": "525 CELB Anderlues 1"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "511 Echiquier du Centre 1", "uit": "952 Wavre 2"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "548 Ca\u00efssa Europe Mons 2", "uit": "902 CE Sambrevillois 1"},
+      {"tr": "1", "ur": "3", "thuis": "228 Dworp 2", "uit": "601 CRE Li\u00e8ge EL 3"}
     ]
   },
   {
