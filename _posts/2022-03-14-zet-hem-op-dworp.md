@@ -21,7 +21,7 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 description: De cruciale maand maart met liefst drie IC-rondes is begonnen. Als we met team 1 echt willen promoveren, moeten we natuurlijk blijven winnen."
 image:
-  path: assets/images/fb_post_9.jpg
+  path: assets/images/fb/fb_post_9.jpg
 draft: false
 ---
 **De cruciale maand maart met liefst drie IC-rondes is begonnen. Als we met team 1 echt willen promoveren, moeten we natuurlijk blijven winnen. Ronde na ronde. En zondag stond er een zware boterham op het menu. Moeilijk maar niet onmogelijk voor een ploeg in de ‘winning mood’.** <!--more-->
