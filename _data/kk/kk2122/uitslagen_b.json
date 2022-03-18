@@ -94,8 +94,8 @@
     "datum": "18-03-2022",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Eddy Pletinckx",
         "zwart": "Bob Huysman"
       },
@@ -106,14 +106,14 @@
         "zwart": "Eric Cornelis"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Pascal Dekoster",
         "zwart": "Sonja Van Der Voorde"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Johan Smeyers",
         "zwart": "Yentl Wilmots"
       }
