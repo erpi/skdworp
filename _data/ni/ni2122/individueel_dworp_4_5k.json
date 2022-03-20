@@ -78,5 +78,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Vanrossum, Matthias", "uspeler": "Toti, Guido", "telo": 0, "uelo": 0, "tstam": 17614, "ustam": 22035},
       {"tr": "1", "ur": "0", "tspeler": "Smeyers, Johan", "uspeler": "Letoret, Tim", "telo": 0, "uelo": 0, "tstam": 17422, "ustam": 22957}
     ]
+  },
+  {
+    "ronde": "9",
+    "datum": "13-03-2022",
+    "thuis": "228 Dworp 4",
+    "uit": "902 CE Sambrevillois 3",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1512,
+    "ugem": 1299,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Palmans, Niels", "uspeler": "Bussola, Eric", "telo": 1512, "uelo": 1532, "tstam": 17733, "ustam": 77828},
+      {"tr": "0F", "ur": "1F", "tspeler": "Laureys, Mats", "uspeler": "Helas, Arthur", "telo": 0, "uelo": 1197, "tstam": 12750, "ustam": 16356},
+      {"tr": "1", "ur": "0", "tspeler": "Vandevelde, Jannes", "uspeler": "Marchal, Michel", "telo": 0, "uelo": 1169, "tstam": 19931, "ustam": 64106},
+      {"tr": "0", "ur": "1", "tspeler": "Dierick, Aaron", "uspeler": "Herbay, Giacomo", "telo": 0, "uelo": 0, "tstam": 22735, "ustam": 16647}
+    ]
   }
 ]

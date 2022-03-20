@@ -106,5 +106,23 @@
       {"tr": "1", "ur": "0", "tspeler": "Lot, Diederik", "uspeler": "Grobli-Casimir, Davy", "telo": 1977, "uelo": 1707, "tstam": 9954, "ustam": 14712},
       {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Yoro, Samuel", "telo": 1897, "uelo": 1765, "tstam": 21881, "ustam": 13368}
     ]
+  },
+  {
+    "ronde": "9",
+    "datum": "13-03-2022",
+    "thuis": "228 Dworp 1",
+    "uit": "541 Leuze-en-Hainaut 1",
+    "tscore": 3.5,
+    "uscore": 2.5,
+    "tgem": 2000,
+    "ugem": 1929,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Vanderwaeren, Serge", "uspeler": "Chauvon, Guillaume", "telo": 2091, "uelo": 2046, "tstam": 20621, "ustam": 82783},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Hoofstat, Tom", "uspeler": "Deblock, Kien", "telo": 2050, "uelo": 1962, "tstam": 42706, "ustam": 23380},
+      {"tr": "0", "ur": "1", "tspeler": "Spaens, Kjell", "uspeler": "Hias, Ludovic", "telo": 2004, "uelo": 2056, "tstam": 29343, "ustam": 79316},
+      {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Poivre, Eric", "telo": 1978, "uelo": 1977, "tstam": 62766, "ustam": 67113},
+      {"tr": "1", "ur": "0", "tspeler": "Lot, Diederik", "uspeler": "Degrave, Jonathan", "telo": 1977, "uelo": 1604, "tstam": 9954, "ustam": 16959},
+      {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Malaise, Florian", "telo": 1897, "uelo": 0, "tstam": 21881, "ustam": 12303}
+    ]
   }
 ]

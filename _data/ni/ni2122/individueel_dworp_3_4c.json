@@ -94,5 +94,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Dekoster, Pascal", "uspeler": "Wagner, Hans", "telo": 1650, "uelo": 1714, "tstam": 54658, "ustam": 23876},
       {"tr": "0", "ur": "1", "tspeler": "Wilmots, Yentl", "uspeler": "Ruzhansky, Elias", "telo": 0, "uelo": 1624, "tstam": 21680, "ustam": 21132}
     ]
+  },
+  {
+    "ronde": "9",
+    "datum": "13-03-2022",
+    "thuis": "228 Dworp 3",
+    "uit": "417 Pion-Aalst 1",
+    "tscore": 1,
+    "uscore": 3,
+    "tgem": 1720,
+    "ugem": 1848,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Van Hoofstat, Sam", "uspeler": "Heymans, Berwout", "telo": 1832, "uelo": 1959, "tstam": 39101, "ustam": 17261},
+      {"tr": "0", "ur": "1", "tspeler": "De Reymaeker, Walter", "uspeler": "Willockx, Ritsaart", "telo": 1874, "uelo": 1914, "tstam": 34584, "ustam": 32913},
+      {"tr": "0", "ur": "1", "tspeler": "Taleb, Mohamad", "uspeler": "Roelandt, Andreas", "telo": 1455, "uelo": 1799, "tstam": 64611, "ustam": 11023},
+      {"tr": "0", "ur": "1", "tspeler": "Smeyers, Johan", "uspeler": "Dobbelaere, Dieter", "telo": 0, "uelo": 1718, "tstam": 17422, "ustam": 14213}
+    ]
   }
 ]

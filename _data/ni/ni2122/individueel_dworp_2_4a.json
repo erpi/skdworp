@@ -94,5 +94,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Malfliet, Bernard", "uspeler": "Romboni, Charles", "telo": 1740, "uelo": 1525, "tstam": 31348, "ustam": 13053},
       {"tr": "1", "ur": "0", "tspeler": "Cornelis, Eric", "uspeler": "Russo, Italo", "telo": 1656, "uelo": 1341, "tstam": 76317, "ustam": 71684}
     ]
+  },
+  {
+    "ronde": "9",
+    "datum": "13-03-2022",
+    "thuis": "228 Dworp 2",
+    "uit": "601 CRELEL Li\u00e8ge 3",
+    "tscore": 1.0,
+    "uscore": 3.0,
+    "tgem": 1740,
+    "ugem": 1669,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Pletinckx, Eddy", "uspeler": "Gonzalez Garcia, Pierre-E", "telo": 1749, "uelo": 1765, "tstam": 76325, "ustam": 85138},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher, Peter", "uspeler": "Remont, Leopold", "telo": 1816, "uelo": 1763, "tstam": 655, "ustam": 2411},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet, Bernard", "uspeler": "De Vettor, Marc", "telo": 1740, "uelo": 1703, "tstam": 31348, "ustam": 95966},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis, Eric", "uspeler": "De Winter, Roman", "telo": 1656, "uelo": 1444, "tstam": 76317, "ustam": 22673}
+    ]
   }
 ]
