@@ -39,12 +39,12 @@
     "ronde": "ronde 4",
     "datum": "20-03-2022",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "436 LSV-Chesspirant 2", "uit": "401 K Gentse SRL 7"},
-      {"tr": "", "ur": "", "thuis": "432 Wetteren 3", "uit": "278 Pantin 4"},
-      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "244 Brussels CC 3"},
-      {"tr": "", "ur": "", "thuis": "417 Aalst 1", "uit": "462 Zottegem 2"},
-      {"tr": "", "ur": "", "thuis": "418 Geraardsbergen 1", "uit": "471 Wachtebeke 3"},
-      {"tr": "", "ur": "", "thuis": "460 Oudenaarde 1", "uit": "261 Opwijk 2"}
+      {"tr": "3.5", "ur": "0.5", "thuis": "436 LSV-Chesspirant 2", "uit": "401 K Gentse SRL 7"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "432 Wetteren 3", "uit": "278 Pantin 4"},
+      {"tr": "4", "ur": "0", "thuis": "228 Dworp 3", "uit": "244 Brussels CC 3"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "417 Aalst 1", "uit": "462 Zottegem 2"},
+      {"tr": "4", "ur": "0", "thuis": "418 Geraardsbergen 1", "uit": "471 Wachtebeke 3"},
+      {"tr": "4", "ur": "0", "thuis": "460 Oudenaarde 1", "uit": "261 Opwijk 2"}
     ]
   },
   {
