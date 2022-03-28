@@ -48,6 +48,22 @@
     ]
   },
   {
+    "ronde": "4",
+    "datum": "20-03-2022",
+    "thuis": "228 Dworp 3",
+    "uit": "244 Brussels 3",
+    "tscore": 4,
+    "uscore": 0,
+    "tgem": 1861,
+    "ugem": 1714,
+    "borden": [
+      {"tr": "1F", "ur": "0F", "tspeler": "Boutchon, Gaston", "uspeler": "Vah, Denis", "telo": 1878, "uelo": 1722, "tstam": 28606, "ustam": 19834},
+      {"tr": "1", "ur": "0", "tspeler": "Van Hoofstat, Sam", "uspeler": "Dumoulin, Michel", "telo": 1832, "uelo": 1757, "tstam": 39101, "ustam": 16456},
+      {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "Jassem, Philippe", "telo": 1874, "uelo": 1664, "tstam": 34584, "ustam": 91073},
+      {"tr": "1", "ur": "0", "tspeler": "Wilmots, Yentl", "uspeler": "Lhoest, Lancelot", "telo": 0, "uelo": 0, "tstam": 21680, "ustam": 22984}
+    ]
+  },
+  {
     "ronde": "6",
     "datum": "30-01-2022",
     "thuis": "228 Dworp 3",

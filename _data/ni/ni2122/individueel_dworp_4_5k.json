@@ -32,6 +32,22 @@
     ]
   },
   {
+    "ronde": "4",
+    "datum": "20-03-2022",
+    "thuis": "228 Dworp 4",
+    "uit": "233 DZD Halle 2",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1470,
+    "ugem": 1818,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Baert, Yves", "uspeler": "De Ceukelaire, Gert", "telo": 1484, "uelo": 1918, "tstam": 48721, "ustam": 99152},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Taleb, Mohamad", "uspeler": "Maeckelbergh, Geert", "telo": 1455, "uelo": 1855, "tstam": 64611, "ustam": 43419},
+      {"tr": "0", "ur": "1", "tspeler": "Lerinckx, Sander", "uspeler": "Maeckelbergh, Anne-Marie", "telo": 0, "uelo": 1797, "tstam": 12702, "ustam": 353},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Smeyers, Johan", "uspeler": "Van Duuren, Louis", "telo": 0, "uelo": 1703, "tstam": 17422, "ustam": 26816}
+    ]
+  },
+  {
     "ronde": "6",
     "datum": "30-01-2022",
     "thuis": "228 Dworp 4",

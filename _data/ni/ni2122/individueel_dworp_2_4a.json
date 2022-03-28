@@ -48,6 +48,22 @@
     ]
   },
   {
+    "ronde": "4",
+    "datum": "20-03-2022",
+    "thuis": "228 Dworp 2",
+    "uit": "901 Namur Echecs 3",
+    "tscore": 2.0,
+    "uscore": 2.0,
+    "tgem": 1740,
+    "ugem": 1706,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Pletinckx, Eddy", "uspeler": "Uhoda, Philippe", "telo": 1749, "uelo": 2074, "tstam": 76325, "ustam": 63011},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher, Peter", "uspeler": "Engelen, Vincent", "telo": 1816, "uelo": 1756, "tstam": 655, "ustam": 73971},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet, Bernard", "uspeler": "Mathieu, Alfred", "telo": 1740, "uelo": 1662, "tstam": 31348, "ustam": 45641},
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis, Eric", "uspeler": "Lejeune, Samuel", "telo": 1656, "uelo": 1333, "tstam": 76317, "ustam": 69990}
+    ]
+  },
+  {
     "ronde": "6",
     "datum": "30-01-2022",
     "thuis": "228 Dworp 2",

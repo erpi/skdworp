@@ -54,6 +54,24 @@
     ]
   },
   {
+    "ronde": "4",
+    "datum": "20-03-2022",
+    "thuis": "228 Dworp 1",
+    "uit": "244 Brussels 1",
+    "tscore": 4.0,
+    "uscore": 2.0,
+    "tgem": 2000,
+    "ugem": 1971,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren, Serge", "uspeler": "Leemans, Roland", "telo": 2091, "uelo": 2038, "tstam": 20621, "ustam": 97730},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Hoofstat, Tom", "uspeler": "Tannemaat, Stephane", "telo": 2050, "uelo": 2031, "tstam": 42706, "ustam": 72516},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Spaens, Kjell", "uspeler": "Zamparo, Sergio", "telo": 2004, "uelo": 2005, "tstam": 29343, "ustam": 95052},
+      {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Grodent, Gerald", "telo": 1978, "uelo": 1965, "tstam": 62766, "ustam": 40924},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lot, Diederik", "uspeler": "Violini, Paolo", "telo": 1977, "uelo": 1950, "tstam": 9954, "ustam": 17708},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Denys, Frank", "uspeler": "Thierens, Christian", "telo": 1897, "uelo": 1835, "tstam": 21881, "ustam": 49425}
+    ]
+  },
+  {
     "ronde": "6",
     "datum": "30-01-2022",
     "thuis": "228 Dworp 1",
