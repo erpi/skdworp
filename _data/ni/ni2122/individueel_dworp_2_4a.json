@@ -126,5 +126,21 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet, Bernard", "uspeler": "De Vettor, Marc", "telo": 1740, "uelo": 1703, "tstam": 31348, "ustam": 95966},
       {"tr": "0", "ur": "1", "tspeler": "Cornelis, Eric", "uspeler": "De Winter, Roman", "telo": 1656, "uelo": 1444, "tstam": 76317, "ustam": 22673}
     ]
+  },
+  {
+    "ronde": "10",
+    "datum": "27-03-2022",
+    "thuis": "902 CE Sambrevillois 1",
+    "uit": "228 Dworp 2",
+    "tscore": 2.0,
+    "uscore": 2.0,
+    "tgem": 1823,
+    "ugem": 1740,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "George, Michael", "uspeler": "Pletinckx, Eddy", "telo": 1938, "uelo": 1749, "tstam": 72443, "ustam": 76325},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Collart, Loris", "uspeler": "De Bosscher, Peter", "telo": 1906, "uelo": 1816, "tstam": 83283, "ustam": 655},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Grobelny, Fabrice", "uspeler": "Malfliet, Bernard", "telo": 1799, "uelo": 1740, "tstam": 89516, "ustam": 31348},
+      {"tr": "0", "ur": "1", "tspeler": "Van Bael, Pascal", "uspeler": "Cornelis, Eric", "telo": 1650, "uelo": 1656, "tstam": 85472, "ustam": 76317}
+    ]
   }
 ]

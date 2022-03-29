@@ -142,5 +142,23 @@
       {"tr": "1", "ur": "0", "tspeler": "Lot, Diederik", "uspeler": "Degrave, Jonathan", "telo": 1977, "uelo": 1604, "tstam": 9954, "ustam": 16959},
       {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Malaise, Florian", "telo": 1897, "uelo": 0, "tstam": 21881, "ustam": 12303}
     ]
+  },
+  {
+    "ronde": "10",
+    "datum": "27-03-2022",
+    "thuis": "501 CREC Charlerloi 2",
+    "uit": "228 Dworp 1",
+    "tscore": 1.0,
+    "uscore": 5.0,
+    "tgem": 1713,
+    "ugem": 2000,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Iacona, Antonio", "uspeler": "Vanderwaeren, Serge", "telo": 1794, "uelo": 2091, "tstam": 70734, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Romanelli, Robert", "uspeler": "Van Hoofstat, Tom", "telo": 1776, "uelo": 2050, "tstam": 5720, "ustam": 42706},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Desinte, David", "uspeler": "Spaens, Kjell", "telo": 1754, "uelo": 2004, "tstam": 66800, "ustam": 29343},
+      {"tr": "0", "ur": "1", "tspeler": "Werner, Guy", "uspeler": "Verrijken, Geert", "telo": 1674, "uelo": 1978, "tstam": 81728, "ustam": 62766},
+      {"tr": "0", "ur": "1", "tspeler": "De Heug, Andrea", "uspeler": "Lot, Diederik", "telo": 0, "uelo": 1977, "tstam": 22966, "ustam": 9954},
+      {"tr": "0", "ur": "1", "tspeler": "Auquier, Yvan", "uspeler": "Denys, Frank", "telo": 1567, "uelo": 1897, "tstam": 80195, "ustam": 21881}
+    ]
   }
 ]

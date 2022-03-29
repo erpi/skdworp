@@ -126,5 +126,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Taleb, Mohamad", "uspeler": "Roelandt, Andreas", "telo": 1455, "uelo": 1799, "tstam": 64611, "ustam": 11023},
       {"tr": "0", "ur": "1", "tspeler": "Smeyers, Johan", "uspeler": "Dobbelaere, Dieter", "telo": 0, "uelo": 1718, "tstam": 17422, "ustam": 14213}
     ]
+  },
+  {
+    "ronde": "10",
+    "datum": "27-03-2022",
+    "thuis": "418 Geraardsbergen 1",
+    "uit": "228 Dworp 3",
+    "tscore": 4,
+    "uscore": 0,
+    "tgem": 1982,
+    "ugem": 1688,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Dreelinck, Jacob", "uspeler": "Van Hoofstat, Sam", "telo": 2004, "uelo": 1832, "tstam": 14086, "ustam": 39101},
+      {"tr": "1", "ur": "0", "tspeler": "Dreelinck, Adriaan", "uspeler": "Van De Velde, Filip", "telo": 1980, "uelo": 1747, "tstam": 14078, "ustam": 31682},
+      {"tr": "1", "ur": "0", "tspeler": "Saligo, Luc", "uspeler": "Baert, Yves", "telo": 1981, "uelo": 1484, "tstam": 19267, "ustam": 48721},
+      {"tr": "1", "ur": "0", "tspeler": "Sneppe, Herman", "uspeler": "Wilmots, Yentl", "telo": 1962, "uelo": 0, "tstam": 90751, "ustam": 21680}
+    ]
   }
 ]

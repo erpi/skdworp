@@ -110,5 +110,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Vandevelde, Jannes", "uspeler": "Marchal, Michel", "telo": 0, "uelo": 1169, "tstam": 19931, "ustam": 64106},
       {"tr": "0", "ur": "1", "tspeler": "Dierick, Aaron", "uspeler": "Herbay, Giacomo", "telo": 0, "uelo": 0, "tstam": 22735, "ustam": 16647}
     ]
+  },
+  {
+    "ronde": "10",
+    "datum": "27-03-2022",
+    "thuis": "501 CREC Charlerloi 4",
+    "uit": "228 Dworp 4",
+    "tscore": 3.5,
+    "uscore": 0.5,
+    "tgem": 1421,
+    "ugem": 1512,
+    "borden": [
+      {"tr": "1F", "ur": "0F", "tspeler": "Dejasse, Daniel", "uspeler": "Palmans, Niels", "telo": 1495, "uelo": 1512, "tstam": 63371, "ustam": 17733},
+      {"tr": "1", "ur": "0", "tspeler": "Piette, Pol-Henri", "uspeler": "Laureys, Mats", "telo": 1346, "uelo": 0, "tstam": 73229, "ustam": 12750},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Callewaert, Damien", "uspeler": "Lerinckx, Sander", "telo": 0, "uelo": 0, "tstam": 17756, "ustam": 12702},
+      {"tr": "1", "ur": "0", "tspeler": "Laermans, Alexandre", "uspeler": "Vanrossum, Matthias", "telo": 0, "uelo": 0, "tstam": 23952, "ustam": 17614}
+    ]
   }
 ]
