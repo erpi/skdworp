@@ -52,8 +52,8 @@
         "zwart": "Diederik Lot"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Tom Van Hoofstat",
         "zwart": "Serge Vanderwaeren"
       }
@@ -142,8 +142,8 @@
         "zwart": "Tom Van Hoofstat"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Peter De Bosscher",
         "zwart": "Geert Verrijken"
       }
