@@ -124,26 +124,26 @@
     "datum": "08-04-2022",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Yentl Wilmots",
         "zwart": "Eddy Pletinckx"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0F",
         "wit": "Sonja Van Der Voorde",
         "zwart": "Johan Smeyers"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Eric Cornelis",
         "zwart": "Pascal Dekoster"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Bob Huysman",
         "zwart": "Niels Palmans"
       }
