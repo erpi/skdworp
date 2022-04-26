@@ -142,5 +142,21 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Grobelny, Fabrice", "uspeler": "Malfliet, Bernard", "telo": 1799, "uelo": 1740, "tstam": 89516, "ustam": 31348},
       {"tr": "0", "ur": "1", "tspeler": "Van Bael, Pascal", "uspeler": "Cornelis, Eric", "telo": 1650, "uelo": 1656, "tstam": 85472, "ustam": 76317}
     ]
+  },
+  {
+    "ronde": "11",
+    "datum": "24-04-2022",
+    "thuis": "228 Dworp 2",
+    "uit": "952 Wavre 2",
+    "tscore": 1,
+    "uscore": 3,
+    "tgem": 1740,
+    "ugem": 1835,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Pletinckx, Eddy", "uspeler": "Anciaux, Marc", "telo": 1749, "uelo": 2127, "tstam": 76325, "ustam": 92894},
+      {"tr": "0", "ur": "1", "tspeler": "De Bosscher, Peter", "uspeler": "Anciaux, Adrien", "telo": 1816, "uelo": 1892, "tstam": 655, "ustam": 17648},
+      {"tr": "1", "ur": "0", "tspeler": "Malfliet, Bernard", "uspeler": "Bouchat, Xavier", "telo": 1740, "uelo": 1921, "tstam": 31348, "ustam": 70602},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis, Eric", "uspeler": "Andri, Amaury", "telo": 1656, "uelo": 1398, "tstam": 76317, "ustam": 18802}
+    ]
   }
 ]

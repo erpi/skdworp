@@ -126,5 +126,21 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Callewaert, Damien", "uspeler": "Lerinckx, Sander", "telo": 0, "uelo": 0, "tstam": 17756, "ustam": 12702},
       {"tr": "1", "ur": "0", "tspeler": "Laermans, Alexandre", "uspeler": "Vanrossum, Matthias", "telo": 0, "uelo": 0, "tstam": 23952, "ustam": 17614}
     ]
+  },
+  {
+    "ronde": "11",
+    "datum": "24-04-2022",
+    "thuis": "228 Dworp 4",
+    "uit": "952 Wavre 6",
+    "tscore": 4,
+    "uscore": 0,
+    "tgem": 1512,
+    "ugem": 0,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Palmans, Niels", "uspeler": "Fiorini, Lucien", "telo": 1512, "uelo": 0, "tstam": 17733, "ustam": 23339},
+      {"tr": "1", "ur": "0", "tspeler": "Vanrossum, Matthias", "uspeler": "Letourneur, Alexander", "telo": 0, "uelo": 0, "tstam": 17614, "ustam": 23348},
+      {"tr": "1F", "ur": "0F", "tspeler": "Vandevelde, Jannes", "uspeler": "Nijssen, Marco", "telo": 0, "uelo": 0, "tstam": 19931, "ustam": 23955},
+      {"tr": "1F", "ur": "0F", "tspeler": "Smeyers, Johan", "uspeler": "Lhaut, Stephane", "telo": 0, "uelo": 0, "tstam": 17422, "ustam": 23999}
+    ]
   }
 ]

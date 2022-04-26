@@ -142,5 +142,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Saligo, Luc", "uspeler": "Baert, Yves", "telo": 1981, "uelo": 1484, "tstam": 19267, "ustam": 48721},
       {"tr": "1", "ur": "0", "tspeler": "Sneppe, Herman", "uspeler": "Wilmots, Yentl", "telo": 1962, "uelo": 0, "tstam": 90751, "ustam": 21680}
     ]
+  },
+  {
+    "ronde": "11",
+    "datum": "24-04-2022",
+    "thuis": "228 Dworp 3",
+    "uit": "460 Oudenaarde 1",
+    "tscore": 4,
+    "uscore": 0,
+    "tgem": 1818,
+    "ugem": 1589,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Van Hoofstat, Sam", "uspeler": "De Vrieze, Sander", "telo": 1832, "uelo": 1708, "tstam": 39101, "ustam": 43044},
+      {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "Bruynooghe, Tom", "telo": 1874, "uelo": 1567, "tstam": 34584, "ustam": 42994},
+      {"tr": "1", "ur": "0", "tspeler": "Van De Velde, Filip", "uspeler": "Van Den Berghe, Bart", "telo": 1747, "uelo": 1568, "tstam": 31682, "ustam": 18048},
+      {"tr": "1", "ur": "0", "tspeler": "Wilmots, Yentl", "uspeler": "Van Hamme, Remco", "telo": 0, "uelo": 1512, "tstam": 21680, "ustam": 5789}
+    ]
   }
 ]

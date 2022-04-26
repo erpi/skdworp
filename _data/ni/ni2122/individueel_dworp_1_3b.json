@@ -160,5 +160,23 @@
       {"tr": "0", "ur": "1", "tspeler": "De Heug, Andrea", "uspeler": "Lot, Diederik", "telo": 0, "uelo": 1977, "tstam": 22966, "ustam": 9954},
       {"tr": "0", "ur": "1", "tspeler": "Auquier, Yvan", "uspeler": "Denys, Frank", "telo": 1567, "uelo": 1897, "tstam": 80195, "ustam": 21881}
     ]
+  },
+  {
+    "ronde": "11",
+    "datum": "24-04-2022",
+    "thuis": "228 Dworp 1",
+    "uit": "209 The Belgian CC 2",
+    "tscore": 3,
+    "uscore": 3,
+    "tgem": 1979,
+    "ugem": 2006,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren, Serge", "uspeler": "Ackaert, Thierry", "telo": 2091, "uelo": 2084, "tstam": 20621, "ustam": 5690},
+      {"tr": "0", "ur": "1", "tspeler": "Van Hoofstat, Tom", "uspeler": "Samray, Thomas", "telo": 2050, "uelo": 1995, "tstam": 42706, "ustam": 89681},
+      {"tr": "0", "ur": "1", "tspeler": "Verrijken, Geert", "uspeler": "Draidi, Ahmed", "telo": 1978, "uelo": 2004, "tstam": 62766, "ustam": 67032},
+      {"tr": "0", "ur": "1", "tspeler": "Lot, Diederik", "uspeler": "Lanoye, Regis", "telo": 1977, "uelo": 2004, "tstam": 9954, "ustam": 57312},
+      {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Soubrier, Aude", "telo": 1897, "uelo": 1944, "tstam": 21881, "ustam": 60336},
+      {"tr": "1", "ur": "0", "tspeler": "Boutchon, Gaston", "uspeler": "Cisterna, Horacio", "telo": 1878, "uelo": 0, "tstam": 28606, "ustam": 23497}
+    ]
   }
 ]
