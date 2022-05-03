@@ -64,6 +64,22 @@
     ]
   },
   {
+    "ronde": "5",
+    "datum": "01-05-2022",
+    "thuis": "278 Pantin 4",
+    "uit": "228 Dworp 2",
+    "tscore": 1.0,
+    "uscore": 3.0,
+    "tgem": 1575,
+    "ugem": 1861,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Nicolas, Pierre", "uspeler": "Boutchon, Gaston", "telo": 1816, "uelo": 1878, "tstam": 19670, "ustam": 28606},
+      {"tr": "0", "ur": "1", "tspeler": "De Saedeleer, Sam", "uspeler": "Van Hoofstat, Sam", "telo": 0, "uelo": 1832, "tstam": 23011, "ustam": 39101},
+      {"tr": "0", "ur": "1", "tspeler": "Douarinou, Erwan", "uspeler": "De Reymaeker, Walter", "telo": 0, "uelo": 1874, "tstam": 22938, "ustam": 34584},
+      {"tr": "0", "ur": "1", "tspeler": "Boshra, Sosanna", "uspeler": "Wilmots, Yentl", "telo": 1333, "uelo": 0, "tstam": 16981, "ustam": 21680}
+    ]
+  },
+  {
     "ronde": "6",
     "datum": "30-01-2022",
     "thuis": "228 Dworp 3",

@@ -72,6 +72,24 @@
     ]
   },
   {
+    "ronde": "5",
+    "datum": "01-05-2022",
+    "thuis": "278 Pantin 1",
+    "uit": "228 Dworp 1",
+    "tscore": 4.5,
+    "uscore": 1.5,
+    "tgem": 2081,
+    "ugem": 1971,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Janssen, Coen", "uspeler": "Vanderwaeren, Serge", "telo": 2237, "uelo": 2091, "tstam": 21220, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Thiteca, Thierry", "uspeler": "Van Hoofstat, Tom", "telo": 2107, "uelo": 2050, "tstam": 25186, "ustam": 42706},
+      {"tr": "1", "ur": "0", "tspeler": "Robert, Pierre", "uspeler": "Spaens, Kjell", "telo": 2046, "uelo": 2004, "tstam": 92479, "ustam": 29343},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Demoulin, Joachim", "uspeler": "Verrijken, Geert", "telo": 2043, "uelo": 1978, "tstam": 72435, "ustam": 62766},
+      {"tr": "1", "ur": "0", "tspeler": "Haak, Tillmann", "uspeler": "Lot, Diederik", "telo": 2038, "uelo": 1977, "tstam": 50117, "ustam": 9954},
+      {"tr": "1", "ur": "0", "tspeler": "Vos, Rik", "uspeler": "Denys, Frank", "telo": 2012, "uelo": 1897, "tstam": 17420, "ustam": 21881}
+    ]
+  },
+  {
     "ronde": "6",
     "datum": "30-01-2022",
     "thuis": "228 Dworp 1",

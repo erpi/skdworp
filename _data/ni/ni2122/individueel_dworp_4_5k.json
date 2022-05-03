@@ -48,6 +48,22 @@
     ]
   },
   {
+    "ronde": "5",
+    "datum": "01-05-2022",
+    "thuis": "549 Saint-Ghislain 2",
+    "uit": "228 Dworp 4",
+    "tscore": 2,
+    "uscore": 2,
+    "tgem": 1208,
+    "ugem": 1512,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Jacob, Raphael", "uspeler": "Palmans, Niels", "telo": 0, "uelo": 1512, "tstam": 23270, "ustam": 17733},
+      {"tr": "0", "ur": "1", "tspeler": "Bury, Damien", "uspeler": "Laureys, Mats", "telo": 0, "uelo": 0, "tstam": 23298, "ustam": 12750},
+      {"tr": "1", "ur": "0", "tspeler": "Leroy, Sylvain", "uspeler": "Lerinckx, Sander", "telo": 1208, "uelo": 0, "tstam": 79065, "ustam": 12702},
+      {"tr": "1", "ur": "0", "tspeler": "Amoroso, Thomas", "uspeler": "Smeyers, Johan", "telo": 0, "uelo": 0, "tstam": 23960, "ustam": 17422}
+    ]
+  },
+  {
     "ronde": "6",
     "datum": "30-01-2022",
     "thuis": "228 Dworp 4",

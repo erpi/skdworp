@@ -64,6 +64,22 @@
     ]
   },
   {
+    "ronde": "5",
+    "datum": "01-05-2022",
+    "thuis": "278 Pantin 2",
+    "uit": "228 Dworp 2",
+    "tscore": 2.5,
+    "uscore": 1.5,
+    "tgem": 1823,
+    "ugem": 1740,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vanmuylder, Dany", "uspeler": "Pletinckx, Eddy", "telo": 1927, "uelo": 1749, "tstam": 85375, "ustam": 76325},
+      {"tr": "1", "ur": "0", "tspeler": "Dohogne, Yves", "uspeler": "De Bosscher, Peter", "telo": 1925, "uelo": 1816, "tstam": 66184, "ustam": 655},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Santos Martins, Junior", "uspeler": "Malfliet, Bernard", "telo": 1617, "uelo": 1740, "tstam": 16821, "ustam": 31348},
+      {"tr": "0", "ur": "1", "tspeler": "Bouquiaux, Julien", "uspeler": "Cornelis, Eric", "telo": 0, "uelo": 1656, "tstam": 23041, "ustam": 76317}
+    ]
+  },
+  {
     "ronde": "6",
     "datum": "30-01-2022",
     "thuis": "228 Dworp 2",
