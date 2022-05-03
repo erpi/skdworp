@@ -51,12 +51,12 @@
     "ronde": "ronde 5",
     "datum": "01-05-2022",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "514 Montigny-Fontaine 4", "uit": "525 CELB Anderlues 3"},
-      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "952 Wavre 6"},
+      {"tr": "0.5", "ur": "3.5", "thuis": "514 Montigny-Fontaine 4", "uit": "525 CELB Anderlues 3"},
+      {"tr": "2", "ur": "2", "thuis": "961 Braine Echecs 3", "uit": "952 Wavre 6"},
       {"tr": "", "ur": "", "thuis": "Bye", "uit": "501 CRE Charleroi 4"},
-      {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "902 CE Sambrevillois 3"},
-      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "228 Dworp 4"},
-      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "207 Les Deux Fous du Diog\u00e8ne 3"}
+      {"tr": "3", "ur": "1", "thuis": "233 DZD Halle 2", "uit": "902 CE Sambrevillois 3"},
+      {"tr": "2", "ur": "2", "thuis": "549 Saint-Ghislain 2", "uit": "228 Dworp 4"},
+      {"tr": "1", "ur": "3", "thuis": "551 HCC Jurbise 3", "uit": "207 Les Deux Fous du Diog\u00e8ne 3"}
     ]
   },
   {

@@ -51,12 +51,12 @@
     "ronde": "ronde 5",
     "datum": "01-05-2022",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "514 Montigny-Fontaine 2", "uit": "525 CELB Anderlues 1"},
-      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 1", "uit": "952 Wavre 2"},
-      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 1", "uit": "902 CE Sambrevillois 1"},
-      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "601 CRE Li\u00e8ge EL 3"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 2", "uit": "228 Dworp 2"},
-      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "548 Ca\u00efssa Europe Mons 2"}
+      {"tr": "2", "ur": "2", "thuis": "514 Montigny-Fontaine 2", "uit": "525 CELB Anderlues 1"},
+      {"tr": "4", "ur": "0", "thuis": "961 Braine Echecs 1", "uit": "952 Wavre 2"},
+      {"tr": "2", "ur": "2", "thuis": "551 HCC Jurbise 1", "uit": "902 CE Sambrevillois 1"},
+      {"tr": "3", "ur": "1", "thuis": "901 Namur 3", "uit": "601 CRE Li\u00e8ge EL 3"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "278 Pantin 2", "uit": "228 Dworp 2"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "511 Echiquier du Centre 1", "uit": "548 Ca\u00efssa Europe Mons 2"}
     ]
   },
   {
