@@ -4,8 +4,8 @@
     "datum": "04-02-2022",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0F",
         "wit": "Jannes Vandevelde",
         "zwart": "Brent Blijkers"
       },
@@ -16,8 +16,8 @@
         "zwart": "Sander Lerinckx"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0F",
         "wit": "Mathias Vanrossum",
         "zwart": "Aaron Dierick"
       }
@@ -64,8 +64,8 @@
         "zwart": "Jannes Vandevelde"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0F",
+        "zr": "1",
         "wit": "Aaron Dierick",
         "zwart": "Sander Lerinckx"
       }
@@ -82,8 +82,8 @@
         "zwart": "Sander Lerinckx"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0F",
         "wit": "Jannes Vandevelde",
         "zwart": "Aaron Dierick"
       },
@@ -100,14 +100,14 @@
     "datum": "08-04-2022",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0F",
         "wit": "Mathias Vanrossum",
         "zwart": "Brent Blijkers"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0F",
+        "zr": "1",
         "wit": "Aaron Dierick",
         "zwart": "Mats Laureys"
       },
