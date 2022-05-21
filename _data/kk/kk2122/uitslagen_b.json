@@ -16,8 +16,8 @@
         "zwart": "Niels Palmans"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0F",
         "wit": "Yentl Wilmots",
         "zwart": "Bob Huysman"
       },
@@ -160,8 +160,8 @@
         "zwart": "Niels Palmans"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0F",
         "wit": "Pascal Dekoster",
         "zwart": "Bob Huysman"
       },
@@ -190,14 +190,14 @@
         "zwart": "Eddy Pletinckx"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Eric Cornelis",
         "zwart": "Yentl Wilmots"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0F"
+        "zr": "1",
         "wit": "Bob Huysman",
         "zwart": "Johan Smeyers"
       },
