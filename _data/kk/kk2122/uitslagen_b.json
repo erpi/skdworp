@@ -76,8 +76,8 @@
         "zwart": "Pascal Dekoster"
       },
       {
-        "wr": "0",
-        "zr": "1F",
+        "wr": "1",
+        "zr": "0F",
         "wit": "Sonja Van Der Voorde",
         "zwart": "Niels Palmans"
       },
@@ -166,8 +166,8 @@
         "zwart": "Bob Huysman"
       },
       {
-        "wr": "0",
-        "zr": "1F",
+        "wr": "0F",
+        "zr": "1",
         "wit": "Johan Smeyers",
         "zwart": "Eric Cornelis"
       },
@@ -202,8 +202,8 @@
         "zwart": "Johan Smeyers"
       },
       {
-        "wr": "0",
-        "zr": "1F",
+        "wr": "0F",
+        "zr": "1",
         "wit": "Niels Palmans",
         "zwart": "Pascal Dekoster"
       }
