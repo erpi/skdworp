@@ -56,7 +56,7 @@ bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
       {% assign tab = "titels" %}
     {% elsif tab contains "inschrijvingen" %}
       {% assign tab = "inschrijvingen" %}
-    {% elsif tab contains "memorial-2022" %}
+    {% elsif tab contains "flyer" %}
       {% assign tab = "flyer" %}
     {% endif %}
     {% assign tabs = tabs | push: tab %}
@@ -98,7 +98,7 @@ bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
     {% include table-svb.html datafile=data %}
   {% elsif bestand[0] contains "inschrijvingen" %}
     {% include table-memorial.html datafile=data %}
-  {% elsif bestand[0] contains "memorial-2022" %}
+  {% elsif bestand[0] contains "flyer" %}
     {% include fotos-memorial.html datafile=data %}
   {% elsif bestand[0] contains "r" %}
     {% include table-memorial2.html datafile=data %}
