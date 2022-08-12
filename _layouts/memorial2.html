@@ -50,7 +50,7 @@ bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
   {% endcomment %}
   {% assign tabs = tabs | push: "flyer" %}
     <li class="active">
-    <a data-toggle="pill" href="#verslag">flyer</a>
+    <a data-toggle="pill" href="{{"assets/pdf/memorial-2022.pdf" | relative_url }}">flyer</a>
   </li>
   {% for bestand in bestanden %}
   {% assign tab = bestand[0] %}
