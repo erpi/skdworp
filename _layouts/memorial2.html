@@ -50,7 +50,7 @@ bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
   {% endcomment %}
   {% assign tabs = tabs | push: "flyer" %}
     <li class="active">
-    <a data-toggle="pill" href="#verslag">verslag</a>
+    <a data-toggle="pill" href="#verslag">flyer</a>
   </li>
   {% for bestand in bestanden %}
   {% assign tab = bestand[0] %}
@@ -60,8 +60,6 @@ bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
       {% assign tab = "titels" %}
     {% elsif tab contains "inschrijvingen" %}
       {% assign tab = "inschrijvingen" %}
-    {% elsif tab contains "flyer" %}
-      {% assign tab = "flyer" %}
     {% endif %}
     {% assign tabs = tabs | push: tab %}
   <li{% if posts == false and forloop.first %} class="active"{% endif %}>
