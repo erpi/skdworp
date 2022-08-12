@@ -66,12 +66,12 @@ bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
   {% endfor %}
 </ul>
 <div class="tab-content">
-{% if posts %}
+
   {% include tab-pane-start.html href='verslag' aktief=true %}
   {% include verslag-memorial.html begintijd=begintijd eindtijd=eindtijd tag="mm" %}
   {% include tab-pane-end.html %}
   {% assign tabs = tabs | shift %}
-{% endif %}
+
 
 {% for bestand in bestanden %}
 
@@ -98,11 +98,6 @@ bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
     {% include table-svb.html datafile=data %}
   {% elsif bestand[0] contains "inschrijvingen" %}
     {% include table-memorial.html datafile=data %}
-  {% elsif bestand[0] contains "flyer" %}
-     {% include tab-pane-start.html href='verslag' aktief=true %}
-     {% include verslag-memorial.html begintijd=begintijd eindtijd=eindtijd tag="mm" %}
-     {% include tab-pane-end.html %}
-     {% assign tabs = tabs | shift %}
   {% elsif bestand[0] contains "r" %}
     {% include table-memorial2.html datafile=data %}
   {% endif %}
