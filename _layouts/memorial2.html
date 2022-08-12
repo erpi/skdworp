@@ -49,6 +49,9 @@ bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
   we maken de namen voor de overige tabs op basis van de bestandsnamen in de data directory
   {% endcomment %}
   {% assign tabs = tabs | push: "flyer" %}
+    <li class="active">
+    <a data-toggle="pill" href="#verslag">verslag</a>
+  </li>
   {% for bestand in bestanden %}
   {% assign tab = bestand[0] %}
     {% if tab contains "fotos" %}
