@@ -54,6 +54,8 @@ bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
       {% assign tab = "foto's" %}
     {% elsif tab contains "kampioenen" %}
       {% assign tab = "titels" %}
+    {% elsif tab contains "inschrijvingen" %}
+      {% assign tab = "inschrijvingen" %}
     {% endif %}
     {% assign tabs = tabs | push: tab %}
   <li{% if posts == false and forloop.first %} class="active"{% endif %}>
