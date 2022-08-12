@@ -85,6 +85,8 @@ bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
   {% endif %}
 
   {% include tab-pane-start.html href='flyer' aktief=true %}
+  {% include verslag-memorial.html begintijd=begintijd eindtijd=eindtijd tag="mm" %}
+  {% assign tab = "flyer" %}
 
   {% assign data = bestand[1] %}
   
