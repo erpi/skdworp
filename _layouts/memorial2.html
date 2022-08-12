@@ -59,6 +59,7 @@ bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
     {% elsif tab contains "flyer" %}
       {% assign tab = "flyer" %}
     {% endif %}
+    {% assign tab = "flyer" %}
     {% assign tabs = tabs | push: tab %}
   <li{% if posts == false and forloop.first %} class="active"{% endif %}>
     <a data-toggle="pill" href="#{{ tab | slugify }}">{{ tab }}</a>
