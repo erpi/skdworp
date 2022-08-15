@@ -1,0 +1,23 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="nl-BE">
+  <head>
+    {% include head.html %}
+    <link href="{{"/assets/css/site.min.css" | relative_url }}" rel="stylesheet">
+  </head>
+  <body>
+    <a href="#content" class="sr-only sr-only-focusable">￼doorgaan naar hoofdinhoud</a>
+    {% include navbar.html %}
+    <div class="container main-container" id="content" tabindex="-1">
+      {% if page.collection %}{% include collectie-vorige-volgende.html %}{% endif %}
+      {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+      {% if page.subtitle %}<h2>{{ page.subtitle }}</h2>{% endif %}
+      {% if page.tempo %}<p class="lead">tempo: {{ page.tempo }}</p>{% endif %}
+      {% if page.message %}<p>{{ page.message }}</p>{% endif %}
+      {{ content }}
+    </div>
+      {% include footer.html %}
+  </body>
+</html>
