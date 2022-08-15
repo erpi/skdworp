@@ -36,12 +36,12 @@ club: false
       {% for deelnemer in deelnemers %}
       <tr>
         <td>{{ forloop.index }}</td>
-        <td>{{ deelnemer.achternaam | downcase}}</td>
-        <td>{{ deelnemer.voornaam | downcase}}</td>
-        <td>{{ deelnemer.titel | downcase }}</td>
+        <td>{{ deelnemer.achternaam }}</td>
+        <td>{{ deelnemer.voornaam }}</td>
+        <td>{{ deelnemer.titel }}</td>
         <td>{{ deelnemer.elo }}</td>
         {% if page.club %}
-        <td>{{ deelnemer.club | downcase }}</td>
+        <td>{{ deelnemer.club }}</td>
         {% endif %}
       </tr>
       {% endfor %}
