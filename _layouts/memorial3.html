@@ -48,12 +48,18 @@ bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
   {% comment %}
   we maken de namen voor de overige tabs op basis van de bestandsnamen in de data directory
   {% endcomment %}
+  {% assign tabs = tabs | push: "flyer" %}
+    <li class="active">
+    <a data-toggle="pill" href="{{"assets/pdf/memorial-2022.pdf" | relative_url}}">flyer</a>
+  </li>
   {% for bestand in bestanden %}
   {% assign tab = bestand[0] %}
     {% if tab contains "fotos" %}
       {% assign tab = "foto's" %}
     {% elsif tab contains "kampioenen" %}
       {% assign tab = "titels" %}
+    {% elsif tab contains "inschrijvingen" %}
+      {% assign tab = "inschrijvingen" %}
     {% endif %}
     {% assign tabs = tabs | push: tab %}
   <li{% if posts == false and forloop.first %} class="active"{% endif %}>
@@ -68,7 +74,7 @@ bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
   {% include tab-pane-end.html %}
   {% assign tabs = tabs | shift %}
 {% endif %}
-
+  
 {% for bestand in bestanden %}
 
   {% assign tab = tabs[forloop.index0] | slugify %}
@@ -80,8 +86,12 @@ bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
     {% include tab-pane-start.html href=tab aktief=false %}
   {% endif %}
 
-  {% assign data = bestand[1] %}
+  {% include tab-pane-start.html href='flyer' aktief=true %}
+  {% include verslag-memorial.html begintijd=begintijd eindtijd=eindtijd tag="mm" %}
+  {% assign tab = "flyer" %}
 
+  {% assign data = bestand[1] %}
+  
   {% if bestand[0] contains "klassement" %}
     {% include table-memorial.html datafile=data %}
   {% elsif bestand[0] contains "rooster" %}
@@ -92,6 +102,8 @@ bv. "2016" als waarde voor jaar geeft als waarde voor submap "mm2016"
     {% include fotos-memorial.html datafile=data %}
   {% elsif bestand[0] contains "svb" %}
     {% include table-svb.html datafile=data %}
+  {% elsif bestand[0] contains "deelnemers" %}
+    {% include table-memorial.html datafile=data %}
   {% elsif bestand[0] contains "r" %}
     {% include table-memorial2.html datafile=data %}
   {% endif %}
