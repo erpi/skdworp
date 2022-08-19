@@ -30,6 +30,7 @@ logo: "/assets/images/logo-dworp.png"
 # volgende lijn voor het instellen van og:locale meta data in de header
 # <meta property="og:locale" content="nl_BE">
 lang: nl_BE
+timezone: Europe/Brussels
 baseurl: ""
 url: "https://www.skdworp.be"
 repository: "erpi/skdworp"
