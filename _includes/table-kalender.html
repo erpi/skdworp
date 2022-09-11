@@ -11,7 +11,7 @@
       {% if item.dag contains include.jaar %}
       <tr>
         <td>{{ item.dag | downcase }}</td>
-        {% if item.tornooi contains 'memorial' %}
+        {% if item.tornooi contains 'ebast' %}
         <td><a href={{ mm_link }}>{{ item.tornooi }}</a></td>
         {% elsif item.tornooi contains 'interclubs' %}
         <td><a href={{ ni_link }}>{{ item.tornooi }}</a></td>
