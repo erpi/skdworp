@@ -1,0 +1,8 @@
+nr,naam,1,2,3,4,5,6,7,#,totaal
+1,Serge Vanderwaeren,XX,1,0.5,0,1,1,1,6,4.5
+,Geert Verrijken,0,XX,1,0.5,1,1,1,6,4.5
+3,Tom Van Hoofstat,0.5,0,XX,0.5,1,1,1,6,4
+4,Diederik Lot,1,0.5,0.5,XX,0,0.5,0.5,6,3
+5,Frank Denys,0,0,0,1,XX,1,0.5,6,2.5
+6,Walter De Reymaeker,0,0,0,0.5,0,XX,1,6,1.5
+7,Peter De Bosscher,0,0,0,0.5,0.5,0,XX,6,1

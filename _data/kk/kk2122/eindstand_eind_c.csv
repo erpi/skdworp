@@ -1,0 +1,7 @@
+nr,naam,1,2,3,4,5,6,#,totaal
+1,Mats Laureys,XX,1,0,1,1,1,5,4
+,Sander Lerinckx,0,XX,1,1,1,1,5,4
+3,Jannes Vandevelde,1,0,XX,0,1,1,5,3
+,Mathias Vanrossum,0,0,1,XX,1,1,5,3
+5,Aaron Dierick,0,0,0,0,XX,1,5,1
+6,Brent Blijkers,0,0,0,0,0,XX,5,0

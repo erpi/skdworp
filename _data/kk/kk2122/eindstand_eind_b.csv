@@ -1,0 +1,9 @@
+nr,naam,1,2,3,4,5,6,7,8,#,totaal
+1,Yentl Wilmots,XX,1,1,1,1,0,1,1,7,6
+2,Sonja Van Der Voorde,0,XX,0,0.5,1,1,1,1,7,4.5
+,Eric Cornelis,0,1,XX,0.5,0.5,0.5,1,1,7,4.5
+4,Pascal Dekoster,0,0.5,0.5,XX,1,1,0,1,7,4
+5,Niels Palmans,0,0,0.5,0,XX,0.5,1,1,7,3
+,Eddy Pletinckx,1,0,0.5,0,0.5,XX,0,1,7,3
+,Johan Smeyers,0,0,0,1,0,1,XX,1,7,3
+8,Bob Huysman,0,0,0,0,0,0,0,XX,7,0
