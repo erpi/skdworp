@@ -1,27 +1,27 @@
-nummer,naam,r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,Totaal
+nummer,naam,r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,totaal
 1,Geert Verrijken,2,3,3,3,2,2,3,3,3,3,1,28
 2,Frank Denys,3,3,1,2,1,2,3,3,3,3,3,27
 3,Sam Van Hoofstat,2,3,,3,3,2,3,2,3,1,3,25
 4,Serge Vanderwaeren,2,3,2,3,2,2,1,2,1,3,3,24
 ,Diederik Lot,3,3,2,2,1,1,2,3,3,3,1,24
-,Bernard Malfliet,3,3,1,2,2,1,4,1,2,2,3,24
+6,Bernard Malfliet,3,3,1,2,2,1,3,1,2,2,3,23
 7,Tom Van Hoofstat,3,3,,2,2,2,3,2,2,2,1,22
 8,Eric Cornelis,,1,2,3,3,2,2,3,1,3,1,21
-,Walter Dereymaecker,3,3,3,3,3,,,2,1,,3,21
-10,Yentl Wilmots,1,3,2,3,3,1,3,,,1,3,20
-11,Niels Palmans,1,3,,,3,3,1,3,2,,3,19
+,Walter De Reymaeker,3,3,3,3,3,,,2,1,,3,21
+10,Yentl Wilmots,1,3,,3,3,1,3,1,,1,3,19
+,Niels Palmans,1,3,,,3,3,1,3,2,,3,19
 12,Kjell Spaens,,3,3,2,1,,2,3,1,2,,17
 13,Johan Smeyers,,,,2,1,3,3,3,1,,3,16
-14,Peter De Bosscher,1,1,1,2,2,,1,2,2,2,1,15
-15,Eddy Pletinckx,1,3,1,1,1,,1,2,1,1,1,13
-,Mathias Van Rossum,2,,,,,3,3,1,,1,3,13
-17,Mats Laureys,2,3,,,3,3,,,,1,,12
-18,Yves Baert,1,3,,2,,1,1,2,,1,,11
+14,Peter De Bosscher,1,1,1,2,1,,1,2,2,2,1,14
+15,Mathias Vanrossum,2,,,,,3,3,1,,1,3,13
+,Yves Baert,1,3,2,2,,1,1,2,,1,,13
+,Eddy Pletinckx,1,3,1,1,1,,1,2,1,1,1,13
+18,Mats Laureys,2,3,,,3,3,,,,1,,12
 19,Gaston Boutchon,3,,,3,1,,,,,,3,10
-,Filip Vandevelde,2,,2,,,,2,,,1,3,10
+,Filip Van de Velde,2,,2,,,,2,,,1,3,10
 21,Sander Lerinckx,1,,1,1,1,,1,,,2,,7
 22,Jannes Vandevelde,,,,,,,,,3,,3,6
 23,Mo Taleb,,,1,2,,1,,,1,,,5
 24,Aaron Dierick,,1,,,,,,,1,,,2
 25,Pascal Dekoster,,,,,,,,1,,,,1
-,Totaal,36,45,25,41,35,29,39,38,31,32,42,393
+,totaal,36,45,25,41,34,29,38,39,31,32,42,392
