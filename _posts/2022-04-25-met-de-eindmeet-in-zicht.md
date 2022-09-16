@@ -88,7 +88,7 @@ Even later won ook Niels met wit op bord 1. Hij was niet tevreden over zijn part
 
 ## Naspel
 
-Tot voor deze tiende ronde liet Dworp 1 amper vijf verliespartijen optekenen. Daar doen we er nu in één keer drie verliespartijen bij. Tot zover het slechte nieuws. De euforie is er niet minder op. Want het fantastisch goede nieuws is dat we, door het verlies van Patin in Gent, nu eerste staan in het algemene klassement! En een historische tweede stek in derde afdeling kan niemand ons nog afpakken. Top! Bovendien hebben we op 1 mei aan 3-3 genoeg om de titel te pakken.
+Tot voor deze tiende ronde liet Dworp 1 amper vijf verliespartijen optekenen. Daar doen we er nu in één keer drie verliespartijen bij. Tot zover het slechte nieuws. De euforie is er niet minder op. Want het fantastisch goede nieuws is dat we, door het verlies van Pantin in Gent, nu eerste staan in het algemene klassement! En een historische tweede stek in derde afdeling kan niemand ons nog afpakken. Top! Bovendien hebben we op 1 mei aan 3-3 genoeg om de titel te pakken.
 
 Volgende week in Elsene spelen Dworp 1, 2 en 3 tegen Pantin. Een mini-volksverhuizing met inzet. Al wordt het voor Dworp 2 een aartsmoeilijke karwei. Winnen is alleszins een must. Dan heeft Dworp 3 betere papieren, eigenlijk kan er voor hen niets meer misgaan.
 
