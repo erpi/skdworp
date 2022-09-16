@@ -50,7 +50,7 @@ Frank is in grootse doen de laatste tijd. Met zwart speelde hij een mooie, posi
 
 Tegen de laatste in de stand, Montigny-Fontaine 2, moesten we winnen, hoewel ze duidelijk in hun sterkste opstelling tot nu toe aantraden. Vorige week hadden ze overigens nipt verloren van een ploeg met tweemaal 2000 en tweemaal 1700-spelers (Braine)...
 
-Eric met wit op bord 4 kreeg een 1335 Elo tegen. Een beetje een rare kwast die op de derde zet Lb2 speelde en op de achtste zet opnieuw deze zet na een uitstapje op zet 6 met La3. Zwart nam een fors voordeel in het centrum, ontwikkelde alle stukken en lanceerde een maataanval. Mat op de 27ste zet. De computer offerde met wit nog een bak materiaal en gaf eigenlijk op dat moment een mat in 17 aan.
+Eric met wit op bord 4 kreeg een 1335 Elo tegen. Een beetje een rare kwast die op de derde zet Lb2 speelde en op de achtste zet opnieuw deze zet na een uitstapje op zet 6 met La3. Zwart nam een fors voordeel in het centrum, ontwikkelde alle stukken en lanceerde een mataanval. Mat op de 27ste zet. De computer offerde met wit nog een bak materiaal en gaf eigenlijk op dat moment een mat in 17 aan.
 
 Bernard met wit op 3 kreeg een aanvalsstelling (+2 volgens de computer), deed het nadien onnauwkeurig, belandde in een verliesstelling en spande nog allerlei valstrikken in de stelling, maar het mocht niet meer baten. Geen echte 1500 was zijn conclusie. Dat was hij overigens wel, maar wel eentje die zich in deze partij uitzonderlijk goed had verdedigd. Stand weer gelijk: 1-1.
 
@@ -76,7 +76,7 @@ Ook Yves speelde tegen een lager gequoteerde tegenstander maar geraakte niet ver
 
 ## Naspel
 
-Dworp 1 heeft afgelopen zondag een stevige prestatie neergezet. Om trots op te zijn. Ik (Geert) denk niet dat er één bord was waar we er verliesgevaar dreigde. De 5-1 overwinning had dus zelfs een 6-0 kunnen zijn. Daarmee nestelen we ons stevig op de tweede plaats in de rangschikking.
+Dworp 1 heeft afgelopen zondag een stevige prestatie neergezet. Om trots op te zijn. Ik (Geert) denk niet dat er één bord was waar er verliesgevaar dreigde. De 5-1 overwinning had dus zelfs een 6-0 kunnen zijn. Daarmee nestelen we ons stevig op de tweede plaats in de rangschikking.
 
 Hebben we uitzicht op meer? Wellicht wel volgens de analyses van Tom. Lees even mee: "De gemiddelde Elo per ploeg in de reeks klimt stilaan weer naar het niveau van de eerste twee ronden. Vooral door Mons dat wakker is geschoten en 200 à 300 Elo meer opstelt dan de twee vorige matchen. Pantin, Leuze en wij zijn op papier de sterksten en ook de top drie van het klassement.  Pantin en Leuze hebben al tegen elkaar gespeeld (3-3), toen met een verzwakt Pantin. Wij zijn over bananenschil Philippeville uitgegleden. Toch blijft de prognose optimistisch met 25% kans op de titel. Bij verlies tegen Leuze (noot van Geert: uiteraard uitgesloten!) zakt die kans naar 5%. Tenzij Boitsfort een sterke opstelling bijeen zoekt en stunt tegen Pantin zoals ze ook Leuze nipt geklopt hebben.'
 
