@@ -80,7 +80,7 @@ Eric met wit op 4 probeerde ook eens het Londen-systeem met wit na nare ervaring
 
 ## Met de vingers in de neus een verlengd verblijf in vierde
 
-In deze laatste ronde moest Dworp 3 in het slechts mogelijke scenario een gelijkspel halen om degradatie te ontlopen. 
+In deze laatste ronde moest Dworp 3 in het slechtst mogelijke scenario een gelijkspel halen om degradatie te ontlopen. 
 
 Walter op 3 met zwart, kreeg een niet geklasseerde speler tegen. Deze bood wel nog behoorlijk tegenstand, maar toen een zwarte toren de witte stelling binnendrong, was het rap gedaan. Goed gespeeld!
 
