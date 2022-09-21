@@ -1,7 +1,7 @@
 _site
-.sass-cache
 .jekyll-metadata
 negeren/
 node_modules/
 build-grunt/
 python-scripts/env
+python-scripts/env_update_ni
