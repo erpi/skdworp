@@ -1,0 +1,626 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "07-10-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Johan Smeyers",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Geert Verrijken"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "21-10-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Sander Lerinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Pascal Dekoster"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Johan Smeyers"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Mathias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Yentl Wilmots"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "04-11-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Sonja Van Der Voorde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Johan Smeyers",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Eric Cornelis"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "18-11-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Sander Lerinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Pascal Dekoster"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Johan Smeyers"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Mathias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Eddy Pletinckx"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "16-12-2022",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Yentl Wilmots"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Johan Smeyers",
+        "zwart": "Sonja Van Der Voorde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Mats Laureys"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "20-01-2023",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Sander Lerinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Pascal Dekoster"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Johan Smeyers"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Mathias Vanrossum"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "03-02-2023",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Johan Smeyers",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Yentl Wilmots"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Sonja Van Der Voorde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Serge Vanderwaeren"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "17-02-2023",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Sander Lerinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Pascal Dekoster"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Johan Smeyers"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "03-03-2023",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Johan Smeyers",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Mathias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Yentl Wilmots"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Sonja Van Der Voorde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Peter De Bosscher"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "07-04-2023",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Sander Lerinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Johan Smeyers",
+        "zwart": "Pascal Dekoster"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "21-04-2023",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Johan Smeyers"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Mathias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Yentl Wilmots"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Sonja Van Der Voorde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Jannes Vandevelde"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 12",
+    "datum": "19-05-2023",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sonja Van Der Voorde",
+        "zwart": "Peter De Bosscher"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eddy Pletinckx",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Johan Smeyers",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Sander Lerinckx"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 13",
+    "datum": "02-06-2023",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Diederik Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Pascal Dekoster"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Johan Smeyers"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Mathias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Eddy Pletinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Peter De Bosscher",
+        "zwart": "Yentl Wilmots"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Sonja Van Der Voorde"
+      }
+    ]
+  }
+]
