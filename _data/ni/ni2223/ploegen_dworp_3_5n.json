@@ -1,0 +1,134 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "25-09-2022",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 10", "uit": "549 Saint-Ghislain 2"},
+      {"tr": "", "ur": "", "thuis": "514 Monti' CC 4", "uit": "518 Soignies 1"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "952 Wavre 5"},
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 3", "uit": "901 Namur 7"},
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 4", "uit": "501 CRE Charleroi 5"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "16-10-2022",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "501 CRE Charleroi 5"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 7", "uit": "548 Ca\u00efssa Europe Mons 4"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 5", "uit": "902 CE Sambrevillois 3"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "551 HCC Jurbise 3"},
+      {"tr": "", "ur": "", "thuis": "518 Soignies 1", "uit": "228 Dworp 3"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 10", "uit": "514 Monti' CC 4"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "06-11-2022",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "514 Monti' CC 4", "uit": "549 Saint-Ghislain 2"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "230 Leuven Centraal 10"},
+      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "518 Soignies 1"},
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 3", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 4", "uit": "952 Wavre 5"},
+      {"tr": "", "ur": "", "thuis": "501 CRE Charleroi 5", "uit": "901 Namur 7"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "20-11-2022",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "901 Namur 7"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 5", "uit": "501 CRE Charleroi 5"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "548 Ca\u00efssa Europe Mons 4"},
+      {"tr": "", "ur": "", "thuis": "518 Soignies 1", "uit": "902 CE Sambrevillois 3"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 10", "uit": "551 HCC Jurbise 3"},
+      {"tr": "", "ur": "", "thuis": "514 Monti' CC 4", "uit": "228 Dworp 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "04-12-2022",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "549 Saint-Ghislain 2"},
+      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "514 Monti' CC 4"},
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 3", "uit": "230 Leuven Centraal 10"},
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 4", "uit": "518 Soignies 1"},
+      {"tr": "", "ur": "", "thuis": "501 CRE Charleroi 5", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 7", "uit": "952 Wavre 5"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "29-01-2023",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "952 Wavre 5"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "901 Namur 7"},
+      {"tr": "", "ur": "", "thuis": "518 Soignies 1", "uit": "501 CRE Charleroi 5"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 10", "uit": "548 Ca\u00efssa Europe Mons 4"},
+      {"tr": "", "ur": "", "thuis": "514 Monti' CC 4", "uit": "902 CE Sambrevillois 3"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "551 HCC Jurbise 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "12-02-2023",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "549 Saint-Ghislain 2"},
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 3", "uit": "228 Dworp 3"},
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 4", "uit": "514 Monti' CC 4"},
+      {"tr": "", "ur": "", "thuis": "501 CRE Charleroi 5", "uit": "230 Leuven Centraal 10"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 7", "uit": "518 Soignies 1"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 5", "uit": "Bye"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "05-03-2023",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "518 Soignies 1", "uit": "952 Wavre 5"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 10", "uit": "901 Namur 7"},
+      {"tr": "", "ur": "", "thuis": "514 Monti' CC 4", "uit": "501 CRE Charleroi 5"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "548 Ca\u00efssa Europe Mons 4"},
+      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "902 CE Sambrevillois 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "19-03-2023",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 3", "uit": "549 Saint-Ghislain 2"},
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 4", "uit": "551 HCC Jurbise 3"},
+      {"tr": "", "ur": "", "thuis": "501 CRE Charleroi 5", "uit": "228 Dworp 3"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 7", "uit": "514 Monti' CC 4"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 5", "uit": "230 Leuven Centraal 10"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "518 Soignies 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "16-04-2023",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "518 Soignies 1"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 10", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "514 Monti' CC 4", "uit": "952 Wavre 5"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "901 Namur 7"},
+      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "501 CRE Charleroi 5"},
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 3", "uit": "548 Ca\u00efssa Europe Mons 4"}
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "30-04-2023",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 4", "uit": "549 Saint-Ghislain 2"},
+      {"tr": "", "ur": "", "thuis": "501 CRE Charleroi 5", "uit": "902 CE Sambrevillois 3"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 7", "uit": "551 HCC Jurbise 3"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 5", "uit": "228 Dworp 3"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "514 Monti' CC 4"},
+      {"tr": "", "ur": "", "thuis": "518 Soignies 1", "uit": "230 Leuven Centraal 10"}
+    ]
+  }
+]

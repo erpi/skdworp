@@ -1,0 +1,134 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "25-09-2022",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 1", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "541 Leuze-en-Hainaut 1", "uit": "244 Brussels CC 1"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "511 Echiquier du Centre 1"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "174 Brasschaat 2"},
+      {"tr": "", "ur": "", "thuis": "417 Aalst 1", "uit": "909 Philippeville 1"},
+      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 2", "uit": "401 K Gentse SRL 4"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "16-10-2022",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "401 K Gentse SRL 4"},
+      {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "201 CRE Bruxelles 2"},
+      {"tr": "", "ur": "", "thuis": "174 Brasschaat 2", "uit": "417 Aalst 1"},
+      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 1", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 1", "uit": "541 Leuze-en-Hainaut 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "06-11-2022",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "541 Leuze-en-Hainaut 1", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "548 Ca\u00efssa Europe Mons 1"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "244 Brussels CC 1"},
+      {"tr": "", "ur": "", "thuis": "417 Aalst 1", "uit": "511 Echiquier du Centre 1"},
+      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 2", "uit": "174 Brasschaat 2"},
+      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 4", "uit": "909 Philippeville 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "20-11-2022",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "909 Philippeville 1"},
+      {"tr": "", "ur": "", "thuis": "174 Brasschaat 2", "uit": "401 K Gentse SRL 4"},
+      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "201 CRE Bruxelles 2"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 1", "uit": "417 Aalst 1"},
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 1", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "541 Leuze-en-Hainaut 1", "uit": "228 Dworp 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "04-12-2022",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "541 Leuze-en-Hainaut 1"},
+      {"tr": "", "ur": "", "thuis": "417 Aalst 1", "uit": "548 Ca\u00efssa Europe Mons 1"},
+      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 2", "uit": "244 Brussels CC 1"},
+      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 4", "uit": "511 Echiquier du Centre 1"},
+      {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "174 Brasschaat 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "29-01-2023",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "174 Brasschaat 2"},
+      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "909 Philippeville 1"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 1", "uit": "401 K Gentse SRL 4"},
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 1", "uit": "201 CRE Bruxelles 2"},
+      {"tr": "", "ur": "", "thuis": "541 Leuze-en-Hainaut 1", "uit": "417 Aalst 1"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "226 Europchess 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "12-02-2023",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "417 Aalst 1", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 2", "uit": "541 Leuze-en-Hainaut 1"},
+      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 4", "uit": "548 Ca\u00efssa Europe Mons 1"},
+      {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "244 Brussels CC 1"},
+      {"tr": "", "ur": "", "thuis": "174 Brasschaat 2", "uit": "511 Echiquier du Centre 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "05-03-2023",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "511 Echiquier du Centre 1"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 1", "uit": "174 Brasschaat 2"},
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 1", "uit": "909 Philippeville 1"},
+      {"tr": "", "ur": "", "thuis": "541 Leuze-en-Hainaut 1", "uit": "401 K Gentse SRL 4"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "201 CRE Bruxelles 2"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "417 Aalst 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "19-03-2023",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "417 Aalst 1", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 2", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 4", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "541 Leuze-en-Hainaut 1"},
+      {"tr": "", "ur": "", "thuis": "174 Brasschaat 2", "uit": "548 Ca\u00efssa Europe Mons 1"},
+      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "244 Brussels CC 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "16-04-2023",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "244 Brussels CC 1"},
+      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 1", "uit": "511 Echiquier du Centre 1"},
+      {"tr": "", "ur": "", "thuis": "541 Leuze-en-Hainaut 1", "uit": "174 Brasschaat 2"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "909 Philippeville 1"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "401 K Gentse SRL 4"},
+      {"tr": "", "ur": "", "thuis": "417 Aalst 1", "uit": "201 CRE Bruxelles 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "30-04-2023",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 2", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 4", "uit": "417 Aalst 1"},
+      {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "174 Brasschaat 2", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "541 Leuze-en-Hainaut 1"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 1", "uit": "548 Ca\u00efssa Europe Mons 1"}
+    ]
+  }
+]
