@@ -3,12 +3,12 @@
     "ronde": "ronde 1",
     "datum": "25-09-2022",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 10", "uit": "549 Saint-Ghislain 2"},
-      {"tr": "", "ur": "", "thuis": "514 Monti' CC 4", "uit": "518 Soignies 1"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "230 Leuven Centraal 10", "uit": "549 Saint-Ghislain 2"},
+      {"tr": "3", "ur": "1", "thuis": "514 Monti' CC 4", "uit": "518 Soignies 1"},
       {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "Bye"},
-      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 3", "uit": "952 Wavre 5"},
-      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 3", "uit": "901 Namur 7"},
-      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 4", "uit": "501 CRE Charleroi 5"}
+      {"tr": "1.5", "ur": "2.5", "thuis": "551 HCC Jurbise 3", "uit": "952 Wavre 5"},
+      {"tr": "1", "ur": "3", "thuis": "902 CE Sambrevillois 3", "uit": "901 Namur 7"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "548 Ca\u00efssa Europe Mons 4", "uit": "501 CRE Charleroi 5"}
     ]
   },
   {
