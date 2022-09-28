@@ -1,0 +1,18 @@
+[
+  {
+    "ronde": "1",
+    "datum": "25-09-2022",
+    "thuis": "228 Dworp 2",
+    "uit": "233 DZD Halle 1",
+    "tscore": 2.0,
+    "uscore": 2.0,
+    "tgem": 1715,
+    "ugem": 1792,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet, Bernard", "uspeler": "De Ceukelaire, Gert", "telo": 1752, "uelo": 1890, "tstam": 31348, "ustam": 99152},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher, Peter", "uspeler": "Maeckelbergh, Geert", "telo": 1763, "uelo": 1818, "tstam": 655, "ustam": 43419},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Pletinckx, Eddy", "uspeler": "Maeckelbergh, Anne-Marie", "telo": 1708, "uelo": 1779, "tstam": 76325, "ustam": 353},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis, Eric", "uspeler": "Van Duuren, Louis", "telo": 1636, "uelo": 1682, "tstam": 76317, "ustam": 26816}
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ronde": "1",
+    "datum": "25-09-2022",
+    "thuis": "228 Dworp 1",
+    "uit": "511 EDC 1",
+    "tscore": 2.5,
+    "uscore": 3.5,
+    "tgem": 1939,
+    "ugem": 1885,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Vanderwaeren, Serge", "uspeler": "Maltier, Benjamin", "telo": 2090, "uelo": 1967, "tstam": 20621, "ustam": 17296},
+      {"tr": "0", "ur": "1", "tspeler": "Van Hoofstat, Tom", "uspeler": "Godry, Adelin", "telo": 2047, "uelo": 1982, "tstam": 42706, "ustam": 12806},
+      {"tr": "1", "ur": "0", "tspeler": "Verrijken, Geert", "uspeler": "Denivet, Axel", "telo": 2020, "uelo": 1908, "tstam": 62766, "ustam": 82376},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lot, Diederik", "uspeler": "Pegoretti, Franco", "telo": 1938, "uelo": 1843, "tstam": 9954, "ustam": 57959},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Denys, Frank", "uspeler": "Vertenoeil, Tom", "telo": 1910, "uelo": 1775, "tstam": 21881, "ustam": 16714},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Wilmots, Yentl", "uspeler": "De Pauw, Damien", "telo": 1630, "uelo": 1832, "tstam": 21680, "ustam": 69311}
+    ]
+  }
+]
