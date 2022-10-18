@@ -19,8 +19,8 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 description: "Twee weken geleden was de eerste ronde geen onverdeeld succes. De Dworpse teams -vooral dan het eerste- zijn het hun achterban en naam en faam verplicht beter te presteren."
 image:
-  path: 
-draft: true
+  path: assets/images/fb/fb_post_4.jpg
+draft: false
 ---
 **Twee weken geleden was de eerste ronde geen onverdeeld succes. De Dworpse teams -vooral dan het eerste- zijn het hun achterban en naam en faam verplicht beter te presteren. Met een verplaatsing naar Ukkel voor de boeg is het voor ploeg 1 een soort van derby –hoewel niemand dat zo ervaren heeft. De Brusselaars zijn te pakken en we hadden dan ook het vaste voornemen om dat te doen.**<!--more-->
 
