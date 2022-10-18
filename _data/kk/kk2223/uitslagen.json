@@ -4,26 +4,26 @@
     "datum": "07-10-2022",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Sonja Van Der Voorde",
         "zwart": "Diederik Lot"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Yentl Wilmots",
         "zwart": "Jannes Vandevelde"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Eddy Pletinckx",
         "zwart": "Peter De Bosscher"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Mathias Vanrossum",
         "zwart": "Serge Vanderwaeren"
       },
@@ -34,14 +34,14 @@
         "zwart": "Mats Laureys"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Pascal Dekoster",
         "zwart": "Eric Cornelis"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Sander Lerinckx",
         "zwart": "Geert Verrijken"
       }
