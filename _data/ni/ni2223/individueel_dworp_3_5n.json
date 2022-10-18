@@ -1,0 +1,18 @@
+[
+  {
+    "ronde": "2",
+    "datum": "16-10-2022",
+    "thuis": "518 Soignies 1",
+    "uit": "228 Dworp 3",
+    "tscore": 4,
+    "uscore": 0,
+    "tgem": 1620,
+    "ugem": 1445,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Briffoz, Eric", "uspeler": "Palmans, Niels", "telo": 1871, "uelo": 1532, "tstam": 75779, "ustam": 17733},
+      {"tr": "1", "ur": "0", "tspeler": "Dupont, Claude", "uspeler": "Smeyers, Johan", "telo": 1665, "uelo": 1594, "tstam": 78166, "ustam": 17422},
+      {"tr": "1", "ur": "0", "tspeler": "Drossart, Julien", "uspeler": "Vanrossum, Matthias", "telo": 1557, "uelo": 1414, "tstam": 63771, "ustam": 17614},
+      {"tr": "1", "ur": "0", "tspeler": "Lepape, Philippe", "uspeler": "Lerinckx, Sander", "telo": 1388, "uelo": 1239, "tstam": 67971, "ustam": 12702}
+    ]
+  }
+]

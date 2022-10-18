@@ -16,5 +16,23 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Denys, Frank", "uspeler": "Vertenoeil, Tom", "telo": 1910, "uelo": 1775, "tstam": 21881, "ustam": 16714},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Wilmots, Yentl", "uspeler": "De Pauw, Damien", "telo": 1630, "uelo": 1832, "tstam": 21680, "ustam": 69311}
     ]
+  },
+  {
+    "ronde": "2",
+    "datum": "16-10-2022",
+    "thuis": "244 Brussels 1",
+    "uit": "228 Dworp 1",
+    "tscore": 2.0,
+    "uscore": 4.0,
+    "tgem": 1865,
+    "ugem": 2000,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Faybish, Benjamin", "uspeler": "Vanderwaeren, Serge", "telo": 2017, "uelo": 2090, "tstam": 12007, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "D'Haijere, Arnaud", "uspeler": "Van Hoofstat, Tom", "telo": 1924, "uelo": 2047, "tstam": 75701, "ustam": 42706},
+      {"tr": "0", "ur": "1", "tspeler": "Sochman, Petr", "uspeler": "Spaens, Kjell", "telo": 1923, "uelo": 1994, "tstam": 10991, "ustam": 29343},
+      {"tr": "1", "ur": "0", "tspeler": "Grobli-Casimir, Davy", "uspeler": "Verrijken, Geert", "telo": 1739, "uelo": 2020, "tstam": 14712, "ustam": 62766},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Rittelmeyer, Yann-Sven", "uspeler": "Lot, Diederik", "telo": 1758, "uelo": 1938, "tstam": 60676, "ustam": 9954},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Herman, Luc", "uspeler": "Denys, Frank", "telo": 1831, "uelo": 1910, "tstam": 8575, "ustam": 21881}
+    ]
   }
 ]

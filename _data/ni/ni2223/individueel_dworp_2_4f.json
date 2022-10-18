@@ -14,5 +14,21 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Pletinckx, Eddy", "uspeler": "Maeckelbergh, Anne-Marie", "telo": 1708, "uelo": 1779, "tstam": 76325, "ustam": 353},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Cornelis, Eric", "uspeler": "Van Duuren, Louis", "telo": 1636, "uelo": 1682, "tstam": 76317, "ustam": 26816}
     ]
+  },
+  {
+    "ronde": "2",
+    "datum": "16-10-2022",
+    "thuis": "547 Ren. Binchois 1",
+    "uit": "228 Dworp 2",
+    "tscore": 2.0,
+    "uscore": 2.0,
+    "tgem": 1738,
+    "ugem": 1715,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Muratet, Lucas", "uspeler": "Malfliet, Bernard", "telo": 2119, "uelo": 1752, "tstam": 23129, "ustam": 31348},
+      {"tr": "0", "ur": "1", "tspeler": "Carion, Sebastien", "uspeler": "De Bosscher, Peter", "telo": 1641, "uelo": 1763, "tstam": 19700, "ustam": 655},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Marlier, Maxime", "uspeler": "Pletinckx, Eddy", "telo": 0, "uelo": 1708, "tstam": 24051, "ustam": 76325},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Flabat, Renaud", "uspeler": "Cornelis, Eric", "telo": 1455, "uelo": 1636, "tstam": 85987, "ustam": 76317}
+    ]
   }
 ]
