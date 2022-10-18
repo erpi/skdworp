@@ -15,12 +15,12 @@
     "ronde": "ronde 2",
     "datum": "16-10-2022",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 2", "uit": "501 CRE Charleroi 2"},
-      {"tr": "", "ur": "", "thuis": "909 Philippeville 2", "uit": "902 CE Sambrevillois 1"},
-      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diog\u00e8ne 3", "uit": "278 Pantin 4"},
-      {"tr": "", "ur": "", "thuis": "233 DZD Halle 1", "uit": "551 HCC Jurbise 1"},
-      {"tr": "", "ur": "", "thuis": "547 Binche 1", "uit": "228 Dworp 2"},
-      {"tr": "", "ur": "", "thuis": "525 Anderlues 2", "uit": "541 Leuze-en-Hainaut 3"}
+      {"tr": "2.5", "ur": "1.5", "thuis": "548 Ca\u00efssa Europe Mons 2", "uit": "501 CRE Charleroi 2"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "909 Philippeville 2", "uit": "902 CE Sambrevillois 1"},
+      {"tr": "2", "ur": "2", "thuis": "207 Les Deux Fous du Diog\u00e8ne 3", "uit": "278 Pantin 4"},
+      {"tr": "3", "ur": "1", "thuis": "233 DZD Halle 1", "uit": "551 HCC Jurbise 1"},
+      {"tr": "2", "ur": "2", "thuis": "547 Binche 1", "uit": "228 Dworp 2"},
+      {"tr": "3", "ur": "1", "thuis": "525 Anderlues 2", "uit": "541 Leuze-en-Hainaut 3"}
     ]
   },
   {
