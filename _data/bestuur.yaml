@@ -27,11 +27,9 @@ secretaris:
   gsm: 0471 98 33 87
   email: .[h^dIZfbQbfL\\Z_[YRRfKcN]cLb # vigenère
 penningmeester:
-  functie: penningmeester &amp; jeugdlessen
+  functie: penningmeester
   naam: Diederik Lot
   telefoon:
-  gsm: 0495 31 05 91
-  email: R\^N\\ZZebZbmw^URcSiVhW # vigenère
 webmaster:
   functie: webmaster
   naam: Pieter Ertveldt
