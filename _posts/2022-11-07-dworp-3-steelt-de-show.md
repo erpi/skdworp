@@ -19,7 +19,7 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 description: ""
 image:
-  path: assets/images/fb/fb_post_4.jpg
+  path: assets/images/fb/fb_post_6.jpg
 draft: false
 ---
 
@@ -37,7 +37,7 @@ Gelukkig was Frank op 5 met wit in een begenadigde dag. Met een miniatuurtje zor
 
 “Mijn jonge opponent probeerde mijn Siciliaanse c3-opening te counteren met een dubbele fianchetto op dame- en koningsvleugel. Daarbij voelde hij zich duidelijk niet in zijn sas, gelet op de zeeën van bedenktijd die hij consumeerde (bijna anderhalf uur voor 17 zetten). Misschien heb ik weinig verdienste aan zo’n blitzoverwinning, maar het is altijd meegenomen. Het moet niet altijd zwoegen en zweten zijn en het geeft mijn tanende schaakmotivatie een kleine boost.
 
-**Frank (1907) - Godart (1889)**
+**Frank D. (1907) - Dorian G. (1889)**
 
 **1.e4 c5 2.c3 b6 3.d4 Lb7 4.Ld3 g6 5.Pf3 d6 6.0-0 Lg7 7.De2 Pbd7 8.Tfe1 e6 9.Pbd2 Pgf6?!** (na 9... Pe7 10.Pc4 Dc7 11.d5 e5 12.a4 staat wit slechts minimaal beter) **10. Pc4!** (een ijzersterke zet, wit staat al duidelijk beter) **Lf8** (geen pretje, maar ook na 10... Dc7 11.e5! trekt wit aan het langste eind; misschien het beste voor zwart is nog de pion offeren met 10... 0-0 11.Pxd6 Lc6 maar na 12.Lc4 zit wit op rozen) **11.e5! d5** (ook na 11... dxe5 12.Pcxe5 Pxe5 13.Pxe5 a6 14.Lg5 Le7 15.Pxf7 staat wit zo goed als gewonnen) **12.exf6 dxc4 13.Lxc4 Pxf6 14.Pe5** (met de dubbele dreiging van 15.Lb5+ en 15.Pxf7 - overigens won 14.Lxe6 hier ook) **Dc7 15.Lb5+ Kd8 16.Lg5 Lg7 17.Pg4** en hier gaf mijn tegenstrever na lang nadenken op; op zowel 17... De7 of 17... Ke7 win ik met De5 een vol stuk.
 
