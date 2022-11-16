@@ -34,5 +34,23 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Rittelmeyer, Yann-Sven", "uspeler": "Lot, Diederik", "telo": 1758, "uelo": 1938, "tstam": 60676, "ustam": 9954},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Herman, Luc", "uspeler": "Denys, Frank", "telo": 1831, "uelo": 1910, "tstam": 8575, "ustam": 21881}
     ]
+  },
+  {
+    "ronde": "3",
+    "datum": "06-11-2022",
+    "thuis": "228 Dworp 1",
+    "uit": "548 Caissa Europe 1",
+    "tscore": 2.0,
+    "uscore": 4.0,
+    "tgem": 1949,
+    "ugem": 1984,
+    "borden": [
+      {"tr": "0F", "ur": "1F", "tspeler": "Vanderwaeren, Serge", "uspeler": "Godry, Clement", "telo": 2090, "uelo": 2075, "tstam": 20621, "ustam": 12802},
+      {"tr": "0", "ur": "1", "tspeler": "Van Hoofstat, Tom", "uspeler": "Houdart, David", "telo": 2047, "uelo": 2195, "tstam": 42706, "ustam": 66770},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Spaens, Kjell", "uspeler": "Franc, Emmanuel", "telo": 1994, "uelo": 2111, "tstam": 29343, "ustam": 93084},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verrijken, Geert", "uspeler": "Marchal, Laurent", "telo": 2020, "uelo": 1815, "tstam": 62766, "ustam": 60517},
+      {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Godart, Dorian", "telo": 1910, "uelo": 1878, "tstam": 21881, "ustam": 13445},
+      {"tr": "0", "ur": "1", "tspeler": "Wilmots, Yentl", "uspeler": "De Noose, Daniel", "telo": 1630, "uelo": 1827, "tstam": 21680, "ustam": 90883}
+    ]
   }
 ]

@@ -14,5 +14,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Drossart, Julien", "uspeler": "Vanrossum, Matthias", "telo": 1557, "uelo": 1414, "tstam": 63771, "ustam": 17614},
       {"tr": "1", "ur": "0", "tspeler": "Lepape, Philippe", "uspeler": "Lerinckx, Sander", "telo": 1388, "uelo": 1239, "tstam": 67971, "ustam": 12702}
     ]
+  },
+  {
+    "ronde": "3",
+    "datum": "06-11-2022",
+    "thuis": "228 Dworp 3",
+    "uit": "230 Leuven Centraal 10",
+    "tscore": 4,
+    "uscore": 0,
+    "tgem": 1479,
+    "ugem": 1262,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Palmans, Niels", "uspeler": "Pitts, Reuben", "telo": 1532, "uelo": 0, "tstam": 17733, "ustam": 24507},
+      {"tr": "1", "ur": "0", "tspeler": "Smeyers, Johan", "uspeler": "Ertugrul, Yigit", "telo": 1594, "uelo": 0, "tstam": 17422, "ustam": 24713},
+      {"tr": "1", "ur": "0", "tspeler": "Vanrossum, Matthias", "uspeler": "Van Campenhout, Michael", "telo": 1414, "uelo": 1262, "tstam": 17614, "ustam": 23599},
+      {"tr": "1", "ur": "0", "tspeler": "Laureys, Mats", "uspeler": "Molenaar, Bram", "telo": 1374, "uelo": 0, "tstam": 12750, "ustam": 24835}
+    ]
   }
 ]
