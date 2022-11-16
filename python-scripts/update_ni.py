@@ -22,22 +22,22 @@ import urllib2
 club = 'dworp'
 clubnummer = 228
 # huidig seizoen
-seizoen = "ni2122"
+seizoen = "ni2223"
 # ploegen = (1,) indien 1 ploeg in de interclubs
 # ploegen = (1, 2) indien 2 ploegen in de interclubs
 # ploegen = (1, 2, 3) indien 3 ploegen in de interclubs
-ploegen = (1, 2, 3, 4)
+ploegen = (1, 2, 3)
 # reeksnamen
-reeksnamen = ('3b', '4a', '4c', '5k')
+reeksnamen = ('3a', '4f', '5n')
 # url voor locatie bestanden kbsb
-url_locatie = 'https://www.frbe-kbsb.be/sites/manager/ICN/21-22/'
+url_locatie = 'https://www.frbe-kbsb.be/sites/manager/ICN/22-23/'
 # dbase-bestand van kbsb (zit in zip-file)
 zip_input = 'Datas.zip'
 dbf_input = 'Part24L.DBF'
 # dictionary om scores uit dbase-bestand om te zetten in getallen
 score = {'0': 0, '0F': 0, '1': 1, '1F': 1, '0.5': 0.5}
 # excel-bestand van kbsb
-xls_input = 'NationaalInterclub2021-2022_Uitslagen.xlsm'
+xls_input = 'NationaalInterclub2022-2023_Uitslagen.xlsm'
 # worksheets in excel-bestand
 ws_ronden = ('R1', 'R2', 'R3', 'R4', 'R5', 'R6',
              'R7', 'R8', 'R9', 'R10', 'R11')
