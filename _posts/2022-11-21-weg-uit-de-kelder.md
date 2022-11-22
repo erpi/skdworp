@@ -17,7 +17,7 @@ stelling_wit: ''
 stelling_zwart: ''
 stelling_uitleg: ''
 stelling_oplossing: ''
-description: ""
+description: "We zijn al aanbeland aan ronde 4 in de vaderlandse schaaktrots, de nationale interclubs. De drie teams moesten voor de gelegenheid hun geluk, maar vooral punten, ‘in den vreemde’ in het zuiden van het land gaan zoeken."
 image:
   path: assets/images/2223/ni/r4_d2_knudde_fb.jpg
 draft: false
