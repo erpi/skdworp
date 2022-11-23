@@ -22,6 +22,8 @@ image:
   path: assets/images/2223/ni/r4_d2_knudde_fb.jpg
 draft: false
 ---
+![afbeelding 'sportvereniging Knudde'][foto 1]
+
 **We zijn al aanbeland aan ronde 4 in de vaderlandse schaaktrots, de nationale interclubs. De drie teams moesten voor de gelegenheid hun geluk, maar vooral punten, ‘in den vreemde’ in het zuiden van het land gaan zoeken. Wallonië, hier komen we. Al was het zaterdagavond toch even krabben. Door het onverwachte wegvallen van Kjell was er enig geschuif met pionnen nodig om de drie ploegen operationeel te krijgen. Maar al bij al lukte dat nog vlotjes.**<!--more-->
 
 **Enfin, ploeg 1 moet dringend punten gaan sprokkelen maar dat gold ook voor de Waaltjes uit Leuze. Ze brachten bovendien een stevig team op de been. Beentjes insmeren was de boodschap. Vooral voor het tweede team, voor de gelegenheid versterkt met Niels, was het een vierpuntenmatch tegen collega keldergenoten. De verwachtingen voor team 3 waren opgekrikt na hun mooie 4-0-overwinning in de vorige ronde. Maar de mannen van Montignies kunnen wel een stevig potje schaken.**
@@ -55,8 +57,6 @@ Peter, door onder meer de onbeschikbaarheid van Bernard kwam op bord 1 met zwart
 Daarna volgde Niels met wit op 4. Hij maakte zijn debuut in de tweede ploeg. Zijn tegenstander verorberde een pionnetje op de damevleugel en dirigeerde ook nog een paard naar de rand en naar de verkeerde kant van het bord. In ruil kreeg hij een massale aanval op de koningsvleugel op zijn dak. Mooi gespeeld van Niels en 0,5- 1,5 voor Dworp.
 
 Eric met zwart op 3 speelde het beruchte olifantengambiet. Een pion in ruil voor ontwikkelingsvoorsprong. De pion werd al snel heroverd en toen er ook nog een witte centrumpion op d5 afging stond zwart in hogere zin gewonnen. Uiteindelijk ontstond een eindspel met elk een dame maar met 3 zwarte pluspionnen. 0,5-2,5 en de overwinning was binnen!
-
-![afbeelding 'sportvereniging Knudde'][foto 1]
 
 Voor Eddy op bord twee met wit begon de namiddag met een geschiedenisles. Hij mocht het opnemen tegen een nazaat van de alhier gestrande Deense Vikingkoning Knud (de tegenstander heette Francis Knudde, nvgv). Het klinkt als een waarschuwing... Nadat zwart gerokeerd had, wist Eddy waarheen zijn pionnen te sturen. Zwart liet zich niet onbetuigd; hoewel Lg7 onmisbaar was bij de verdediging, sloeg hij c3 ondanks de dekking door pion b2. Het leek een radeloze ingeving maar de hoofdvariant besloot met een familieschaak tegen Kg1. Dus kwamen andere verwikkelingen op het bord; ruwe offers en penningen om koning Knud te belagen, respectievelijk te beschermen. Maar met de winst in zicht was de bedenktijd om. Eddy verkoos de combinaties in plaats van nog een toren te offeren en mat in enkele zetten te geven. Het brak hem zuur op. De Viking sloeg en zalfde perfect, tot hij met toren en dame een matnet tekende. (ja, mannen, het was geen mat in drie, er viel nog één en ander te berekenen, Stockfish ziet mat in zes).
 
