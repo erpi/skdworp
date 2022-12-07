@@ -52,5 +52,23 @@
       {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Godart, Dorian", "telo": 1910, "uelo": 1878, "tstam": 21881, "ustam": 13445},
       {"tr": "0", "ur": "1", "tspeler": "Wilmots, Yentl", "uspeler": "De Noose, Daniel", "telo": 1630, "uelo": 1827, "tstam": 21680, "ustam": 90883}
     ]
+  },
+  {
+    "ronde": "4",
+    "datum": "20-11-2022",
+    "thuis": "541 Leuze-En-Hainaut 1",
+    "uit": "228 Dworp 1",
+    "tscore": 3.5,
+    "uscore": 2.5,
+    "tgem": 2029,
+    "ugem": 1939,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Houhou, Alexandre", "uspeler": "Vanderwaeren, Serge", "telo": 2097, "uelo": 2090, "tstam": 25091, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "Marlier, Gaetan", "uspeler": "Van Hoofstat, Tom", "telo": 2086, "uelo": 2047, "tstam": 84841, "ustam": 42706},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Gozzoli, Cyrille", "uspeler": "Verrijken, Geert", "telo": 2133, "uelo": 2020, "tstam": 17786, "ustam": 62766},
+      {"tr": "0", "ur": "1", "tspeler": "Chauvon, Guillaume", "uspeler": "Lot, Diederik", "telo": 2036, "uelo": 1938, "tstam": 82783, "ustam": 9954},
+      {"tr": "1", "ur": "0", "tspeler": "Audin, Thierry", "uspeler": "Denys, Frank", "telo": 1978, "uelo": 1910, "tstam": 81949, "ustam": 21881},
+      {"tr": "1", "ur": "0", "tspeler": "Nguyen, Noam", "uspeler": "Wilmots, Yentl", "telo": 1846, "uelo": 1630, "tstam": 25009, "ustam": 21680}
+    ]
   }
 ]

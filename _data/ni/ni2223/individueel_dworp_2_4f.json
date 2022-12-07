@@ -46,5 +46,21 @@
       {"tr": "0", "ur": "1", "tspeler": "De Bosscher, Peter", "uspeler": "Gregorio, Santiago", "telo": 1763, "uelo": 1756, "tstam": 655, "ustam": 68721},
       {"tr": "1", "ur": "0", "tspeler": "Pletinckx, Eddy", "uspeler": "Castellana, Michael", "telo": 1708, "uelo": 1606, "tstam": 76325, "ustam": 56871}
     ]
+  },
+  {
+    "ronde": "4",
+    "datum": "20-11-2022",
+    "thuis": "541 Leuze-En-Hainaut 3",
+    "uit": "228 Dworp 2",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1674,
+    "ugem": 1660,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Decellier, Patrick", "uspeler": "De Bosscher, Peter", "telo": 1784, "uelo": 1763, "tstam": 84735, "ustam": 655},
+      {"tr": "1", "ur": "0", "tspeler": "Knudde, Francis", "uspeler": "Pletinckx, Eddy", "telo": 1743, "uelo": 1708, "tstam": 71081, "ustam": 76325},
+      {"tr": "0", "ur": "1", "tspeler": "Delfosse, Jean-Michel", "uspeler": "Cornelis, Eric", "telo": 1659, "uelo": 1636, "tstam": 71188, "ustam": 76317},
+      {"tr": "0", "ur": "1", "tspeler": "Belin, David", "uspeler": "Palmans, Niels", "telo": 1509, "uelo": 1532, "tstam": 16858, "ustam": 17733}
+    ]
   }
 ]

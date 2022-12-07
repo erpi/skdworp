@@ -30,5 +30,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Vanrossum, Matthias", "uspeler": "Van Campenhout, Michael", "telo": 1414, "uelo": 1262, "tstam": 17614, "ustam": 23599},
       {"tr": "1", "ur": "0", "tspeler": "Laureys, Mats", "uspeler": "Molenaar, Bram", "telo": 1374, "uelo": 0, "tstam": 12750, "ustam": 24835}
     ]
+  },
+  {
+    "ronde": "4",
+    "datum": "20-11-2022",
+    "thuis": "514 MCC 4",
+    "uit": "228 Dworp 3",
+    "tscore": 3,
+    "uscore": 1,
+    "tgem": 1648,
+    "ugem": 1405,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Costa, Serge", "uspeler": "Smeyers, Johan", "telo": 1964, "uelo": 1594, "tstam": 60098, "ustam": 17422},
+      {"tr": "1", "ur": "0", "tspeler": "Iboud, Samir", "uspeler": "Vanrossum, Matthias", "telo": 1821, "uelo": 1414, "tstam": 23289, "ustam": 17614},
+      {"tr": "0", "ur": "1", "tspeler": "Romboni, Charles", "uspeler": "Laureys, Mats", "telo": 1493, "uelo": 1374, "tstam": 13053, "ustam": 12750},
+      {"tr": "1", "ur": "0", "tspeler": "Letoret, Tim", "uspeler": "Lerinckx, Sander", "telo": 1315, "uelo": 1239, "tstam": 22957, "ustam": 12702}
+    ]
   }
 ]
