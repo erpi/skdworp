@@ -62,5 +62,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Delfosse, Jean-Michel", "uspeler": "Cornelis, Eric", "telo": 1659, "uelo": 1636, "tstam": 71188, "ustam": 76317},
       {"tr": "0", "ur": "1", "tspeler": "Belin, David", "uspeler": "Palmans, Niels", "telo": 1509, "uelo": 1532, "tstam": 16858, "ustam": 17733}
     ]
+  },
+  {
+    "ronde": "5",
+    "datum": "04-12-2022",
+    "thuis": "228 Dworp 2",
+    "uit": "548 Caissa Europe 2",
+    "tscore": 2.0,
+    "uscore": 2.0,
+    "tgem": 1715,
+    "ugem": 1552,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet, Bernard", "uspeler": "Avilov, Igor", "telo": 1752, "uelo": 1861, "tstam": 31348, "ustam": 60408},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Bosscher, Peter", "uspeler": "Cloes, Johan", "telo": 1763, "uelo": 1616, "tstam": 655, "ustam": 85901},
+      {"tr": "0", "ur": "1", "tspeler": "Pletinckx, Eddy", "uspeler": "Delbergue, Mossab", "telo": 1708, "uelo": 1548, "tstam": 76325, "ustam": 20700},
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis, Eric", "uspeler": "Bensafi, Mathias", "telo": 1636, "uelo": 1182, "tstam": 76317, "ustam": 17730}
+    ]
   }
 ]

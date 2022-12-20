@@ -70,5 +70,23 @@
       {"tr": "1", "ur": "0", "tspeler": "Audin, Thierry", "uspeler": "Denys, Frank", "telo": 1978, "uelo": 1910, "tstam": 81949, "ustam": 21881},
       {"tr": "1", "ur": "0", "tspeler": "Nguyen, Noam", "uspeler": "Wilmots, Yentl", "telo": 1846, "uelo": 1630, "tstam": 25009, "ustam": 21680}
     ]
+  },
+  {
+    "ronde": "5",
+    "datum": "04-12-2022",
+    "thuis": "228 Dworp 1",
+    "uit": "239 Boitsfort 2",
+    "tscore": 2.5,
+    "uscore": 3.5,
+    "tgem": 1962,
+    "ugem": 2010,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren, Serge", "uspeler": "Lacroix, Bruno", "telo": 2090, "uelo": 2172, "tstam": 20621, "ustam": 97721},
+      {"tr": "1", "ur": "0", "tspeler": "Spaens, Kjell", "uspeler": "Hoffmann, Max", "telo": 1994, "uelo": 2098, "tstam": 29343, "ustam": 12277},
+      {"tr": "0", "ur": "1", "tspeler": "Verrijken, Geert", "uspeler": "Hody, Pierre", "telo": 2020, "uelo": 2029, "tstam": 62766, "ustam": 91847},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Lot, Diederik", "uspeler": "Jayes, Thomas William", "telo": 1938, "uelo": 1979, "tstam": 9954, "ustam": 12767},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Denys, Frank", "uspeler": "Mabille, Natacha", "telo": 1910, "uelo": 1939, "tstam": 21881, "ustam": 90611},
+      {"tr": "0", "ur": "1", "tspeler": "De Reymaeker, Walter", "uspeler": "Canneel, Daniel", "telo": 1821, "uelo": 1843, "tstam": 34584, "ustam": 50113}
+    ]
   }
 ]

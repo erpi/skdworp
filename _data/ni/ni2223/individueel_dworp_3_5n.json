@@ -46,5 +46,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Romboni, Charles", "uspeler": "Laureys, Mats", "telo": 1493, "uelo": 1374, "tstam": 13053, "ustam": 12750},
       {"tr": "1", "ur": "0", "tspeler": "Letoret, Tim", "uspeler": "Lerinckx, Sander", "telo": 1315, "uelo": 1239, "tstam": 22957, "ustam": 12702}
     ]
+  },
+  {
+    "ronde": "5",
+    "datum": "04-12-2022",
+    "thuis": "228 Dworp 3",
+    "uit": "549 Saint-Ghislain 2",
+    "tscore": 1.5,
+    "uscore": 2.5,
+    "tgem": 1390,
+    "ugem": 1239,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Palmans, Niels", "uspeler": "Amoroso, Thomas", "telo": 1532, "uelo": 0, "tstam": 17733, "ustam": 23960},
+      {"tr": "0", "ur": "1", "tspeler": "Vanrossum, Matthias", "uspeler": "Giuliani, Oswald", "telo": 1414, "uelo": 1318, "tstam": 17614, "ustam": 74756},
+      {"tr": "1", "ur": "0", "tspeler": "Laureys, Mats", "uspeler": "Druart, Christophe", "telo": 1374, "uelo": 1160, "tstam": 12750, "ustam": 98654},
+      {"tr": "0", "ur": "1", "tspeler": "Lerinckx, Sander", "uspeler": "Remience, Frederic", "telo": 1239, "uelo": 0, "tstam": 12702, "ustam": 24828}
+    ]
   }
 ]
