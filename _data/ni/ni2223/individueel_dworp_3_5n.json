@@ -62,5 +62,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Laureys, Mats", "uspeler": "Druart, Christophe", "telo": 1374, "uelo": 1160, "tstam": 12750, "ustam": 98654},
       {"tr": "0", "ur": "1", "tspeler": "Lerinckx, Sander", "uspeler": "Remience, Frederic", "telo": 1239, "uelo": 0, "tstam": 12702, "ustam": 24828}
     ]
+  },
+  {
+    "ronde": "6",
+    "datum": "29-01-2023",
+    "thuis": "228 Dworp 3",
+    "uit": "551 HCC Jurbise 3",
+    "tscore": 2.0,
+    "uscore": 2.0,
+    "tgem": 1592,
+    "ugem": 1418,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Dekoster, Pascal", "uspeler": "Chantry, Vincent", "telo": 1650, "uelo": 1448, "tstam": 54658, "ustam": 68292},
+      {"tr": "0F", "ur": "1F", "tspeler": "Ertveldt, Pieter", "uspeler": "Wiot, Philippe", "telo": 1772, "uelo": 1399, "tstam": 48097, "ustam": 83127},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Palmans, Niels", "uspeler": "Fabri D'Enneilles, Gaetan", "telo": 1532, "uelo": 0, "tstam": 17733, "ustam": 23023},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vandevelde, Jannes", "uspeler": "Delvaux, Guy", "telo": 1415, "uelo": 1407, "tstam": 19931, "ustam": 82856}
+    ]
   }
 ]

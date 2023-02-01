@@ -78,5 +78,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Pletinckx, Eddy", "uspeler": "Delbergue, Mossab", "telo": 1708, "uelo": 1548, "tstam": 76325, "ustam": 20700},
       {"tr": "1", "ur": "0", "tspeler": "Cornelis, Eric", "uspeler": "Bensafi, Mathias", "telo": 1636, "uelo": 1182, "tstam": 76317, "ustam": 17730}
     ]
+  },
+  {
+    "ronde": "6",
+    "datum": "29-01-2023",
+    "thuis": "228 Dworp 2",
+    "uit": "551 HCC Jurbise 1",
+    "tscore": 2,
+    "uscore": 2,
+    "tgem": 1743,
+    "ugem": 1726,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "Blagojevic, Ljubo", "telo": 1821, "uelo": 2023, "tstam": 34584, "ustam": 83909},
+      {"tr": "0", "ur": "1", "tspeler": "Malfliet, Bernard", "uspeler": "Dupuis, Cedric", "telo": 1752, "uelo": 1874, "tstam": 31348, "ustam": 96105},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher, Peter", "uspeler": "Luque Joris, Sebastien", "telo": 1763, "uelo": 1542, "tstam": 655, "ustam": 10859},
+      {"tr": "0", "ur": "1", "tspeler": "Cornelis, Eric", "uspeler": "Beghin, Philippe", "telo": 1636, "uelo": 1466, "tstam": 76317, "ustam": 20519}
+    ]
   }
 ]
