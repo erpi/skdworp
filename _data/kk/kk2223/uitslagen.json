@@ -292,8 +292,8 @@
     "datum": "03-02-2023",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Mathias Vanrossum",
         "zwart": "Diederik Lot"
       },
@@ -310,26 +310,26 @@
         "zwart": "Yentl Wilmots"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Sander Lerinckx",
         "zwart": "Sonja Van Der Voorde"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Geert Verrijken",
         "zwart": "Jannes Vandevelde"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Eric Cornelis",
         "zwart": "Peter De Bosscher"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Mats Laureys",
         "zwart": "Serge Vanderwaeren"
       }
