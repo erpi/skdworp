@@ -75,12 +75,12 @@
     "ronde": "ronde 7",
     "datum": "12-02-2023",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 1", "uit": "548 Ca\u00efssa Europe Mons 2"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 4", "uit": "228 Dworp 2"},
-      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 1", "uit": "541 Leuze-en-Hainaut 3"},
-      {"tr": "", "ur": "", "thuis": "501 CRE Charleroi 2", "uit": "525 Anderlues 2"},
-      {"tr": "", "ur": "", "thuis": "909 Philippeville 2", "uit": "547 Binche 1"},
-      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diog\u00e8ne 3", "uit": "233 DZD Halle 1"}
+      {"tr": "2.5", "ur": "1.5", "thuis": "551 HCC Jurbise 1", "uit": "548 Ca\u00efssa Europe Mons 2"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "278 Pantin 4", "uit": "228 Dworp 2"},
+      {"tr": "4", "ur": "0", "thuis": "902 CE Sambrevillois 1", "uit": "541 Leuze-en-Hainaut 3"},
+      {"tr": "3", "ur": "1", "thuis": "501 CRE Charleroi 2", "uit": "525 Anderlues 2"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "909 Philippeville 2", "uit": "547 Binche 1"},
+      {"tr": "2", "ur": "2", "thuis": "207 Les Deux Fous du Diog\u00e8ne 3", "uit": "233 DZD Halle 1"}
     ]
   },
   {
