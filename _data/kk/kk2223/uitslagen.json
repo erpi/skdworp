@@ -106,8 +106,8 @@
         "zwart": "Diederik Lot"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Eddy Pletinckx",
         "zwart": "Sonja Van Der Voorde"
       },
@@ -280,8 +280,8 @@
         "zwart": "Johan Smeyers"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Eddy Pletinckx",
         "zwart": "Mathias Vanrossum"
       }
@@ -346,26 +346,26 @@
         "zwart": "Serge Vanderwaeren"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Peter De Bosscher",
         "zwart": "Mats Laureys"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Jannes Vandevelde",
         "zwart": "Eric Cornelis"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Sonja Van Der Voorde",
         "zwart": "Geert Verrijken"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Yentl Wilmots",
         "zwart": "Sander Lerinckx"
       },
