@@ -106,5 +106,41 @@
       {"tr": "1", "ur": "0", "tspeler": "Lot, Diederik", "uspeler": "Petrik, Matus", "telo": 1938, "uelo": 1663, "tstam": 9954, "ustam": 21298},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Denys, Frank", "uspeler": "Figa, Gabriele", "telo": 1910, "uelo": 0, "tstam": 21881, "ustam": 22604}
     ]
+  },
+  {
+    "ronde": "7",
+    "datum": "12-02-2023",
+    "thuis": "417 Pion-Aalst 1",
+    "uit": "228 Dworp 1",
+    "tscore": 0.5,
+    "uscore": 5.5,
+    "tgem": 1814,
+    "ugem": 2000,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Heymans, Berwout", "uspeler": "Vanderwaeren, Serge", "telo": 1967, "uelo": 2090, "tstam": 17261, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "Willockx, Ritsaart", "uspeler": "Van Hoofstat, Tom", "telo": 1936, "uelo": 2047, "tstam": 32913, "ustam": 42706},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Roelandt, Andreas", "uspeler": "Spaens, Kjell", "telo": 1898, "uelo": 1994, "tstam": 11023, "ustam": 29343},
+      {"tr": "0", "ur": "1", "tspeler": "Vandenhole, Kobe", "uspeler": "Verrijken, Geert", "telo": 1619, "uelo": 2020, "tstam": 20531, "ustam": 62766},
+      {"tr": "0", "ur": "1", "tspeler": "Carrijn, Bart", "uspeler": "Lot, Diederik", "telo": 1767, "uelo": 1938, "tstam": 11017, "ustam": 9954},
+      {"tr": "0", "ur": "1", "tspeler": "De Smet, Frans", "uspeler": "Denys, Frank", "telo": 1699, "uelo": 1910, "tstam": 34011, "ustam": 21881}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "05-03-2023",
+    "thuis": "228 Dworp 1",
+    "uit": "201 CREB Bruxelles 2",
+    "tscore": 4.5,
+    "uscore": 1.5,
+    "tgem": 2000,
+    "ugem": 1808,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vanderwaeren, Serge", "uspeler": "Kerkhof, Philippe", "telo": 2090, "uelo": 2193, "tstam": 20621, "ustam": 35271},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Van Hoofstat, Tom", "uspeler": "Czuczai, Jeno", "telo": 2047, "uelo": 2001, "tstam": 42706, "ustam": 60319},
+      {"tr": "1", "ur": "0", "tspeler": "Spaens, Kjell", "uspeler": "Gravidez, Tagumpay", "telo": 1994, "uelo": 1798, "tstam": 29343, "ustam": 59382},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verrijken, Geert", "uspeler": "Chokouhian, Ahmad", "telo": 2020, "uelo": 1788, "tstam": 62766, "ustam": 25844},
+      {"tr": "1", "ur": "0", "tspeler": "Lot, Diederik", "uspeler": "Micciche, Ruben", "telo": 1938, "uelo": 1781, "tstam": 9954, "ustam": 14274},
+      {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Mc Hale, Andre", "telo": 1910, "uelo": 1288, "tstam": 21881, "ustam": 61778}
+    ]
   }
 ]

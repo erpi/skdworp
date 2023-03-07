@@ -78,5 +78,37 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Palmans, Niels", "uspeler": "Fabri D'Enneilles, Gaetan", "telo": 1532, "uelo": 0, "tstam": 17733, "ustam": 23023},
       {"tr": "0.5", "ur": "0.5", "tspeler": "Vandevelde, Jannes", "uspeler": "Delvaux, Guy", "telo": 1415, "uelo": 1407, "tstam": 19931, "ustam": 82856}
     ]
+  },
+  {
+    "ronde": "7",
+    "datum": "12-02-2023",
+    "thuis": "902 CES 3",
+    "uit": "228 Dworp 3",
+    "tscore": 2.5,
+    "uscore": 1.5,
+    "tgem": 1390,
+    "ugem": 1445,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Kellner, Yohan", "uspeler": "Palmans, Niels", "telo": 1468, "uelo": 1532, "tstam": 60673, "ustam": 17733},
+      {"tr": "1", "ur": "0", "tspeler": "Jamar, Marc", "uspeler": "Smeyers, Johan", "telo": 1402, "uelo": 1594, "tstam": 60174, "ustam": 17422},
+      {"tr": "1", "ur": "0", "tspeler": "Descamps, Thomas", "uspeler": "Vanrossum, Matthias", "telo": 1364, "uelo": 1414, "tstam": 23292, "ustam": 17614},
+      {"tr": "0", "ur": "1", "tspeler": "Legros, Frederic", "uspeler": "Lerinckx, Sander", "telo": 1325, "uelo": 1239, "tstam": 84301, "ustam": 12702}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "05-03-2023",
+    "thuis": "228 Dworp 3",
+    "uit": "548 Caissa Europe 4",
+    "tscore": 2.5,
+    "uscore": 1.5,
+    "tgem": 1455,
+    "ugem": 1540,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis, Eric", "uspeler": "De Le Court, Lucas", "telo": 1636, "uelo": 1911, "tstam": 76317, "ustam": 60726},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Palmans, Niels", "uspeler": "Ho, Sy Le", "telo": 1532, "uelo": 1489, "tstam": 17733, "ustam": 23402},
+      {"tr": "1", "ur": "0", "tspeler": "Vanrossum, Matthias", "uspeler": "Marchal, Anais", "telo": 1414, "uelo": 1442, "tstam": 17614, "ustam": 12610},
+      {"tr": "0", "ur": "1", "tspeler": "Lerinckx, Sander", "uspeler": "Vinet, Lilou", "telo": 1239, "uelo": 1318, "tstam": 12702, "ustam": 22707}
+    ]
   }
 ]

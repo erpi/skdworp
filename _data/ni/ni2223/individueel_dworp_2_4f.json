@@ -94,5 +94,37 @@
       {"tr": "1", "ur": "0", "tspeler": "De Bosscher, Peter", "uspeler": "Luque Joris, Sebastien", "telo": 1763, "uelo": 1542, "tstam": 655, "ustam": 10859},
       {"tr": "0", "ur": "1", "tspeler": "Cornelis, Eric", "uspeler": "Beghin, Philippe", "telo": 1636, "uelo": 1466, "tstam": 76317, "ustam": 20519}
     ]
+  },
+  {
+    "ronde": "7",
+    "datum": "12-02-2023",
+    "thuis": "278 Pantin 4",
+    "uit": "228 Dworp 2",
+    "tscore": 3.5,
+    "uscore": 0.5,
+    "tgem": 1714,
+    "ugem": 1715,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Jacobs, Antoine", "uspeler": "Malfliet, Bernard", "telo": 1908, "uelo": 1752, "tstam": 50571, "ustam": 31348},
+      {"tr": "1", "ur": "0", "tspeler": "Reghabi Gholami, Jahangir", "uspeler": "De Bosscher, Peter", "telo": 1751, "uelo": 1763, "tstam": 14805, "ustam": 655},
+      {"tr": "1", "ur": "0", "tspeler": "Al Sakka, Mustapha", "uspeler": "Pletinckx, Eddy", "telo": 1617, "uelo": 1708, "tstam": 21990, "ustam": 76325},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "De Harlez, Guillaume", "uspeler": "Cornelis, Eric", "telo": 1581, "uelo": 1636, "tstam": 60110, "ustam": 76317}
+    ]
+  },
+  {
+    "ronde": "8",
+    "datum": "05-03-2023",
+    "thuis": "228 Dworp 2",
+    "uit": "902 CES 1",
+    "tscore": 0.5,
+    "uscore": 3.5,
+    "tgem": 1713,
+    "ugem": 1874,
+    "borden": [
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Malfliet, Bernard", "uspeler": "Gillot, Florent", "telo": 1752, "uelo": 1988, "tstam": 31348, "ustam": 60646},
+      {"tr": "0", "ur": "1", "tspeler": "Wilmots, Yentl", "uspeler": "Collart, Loris", "telo": 1630, "uelo": 1895, "tstam": 21680, "ustam": 83283},
+      {"tr": "0", "ur": "1", "tspeler": "De Bosscher, Peter", "uspeler": "Stilmant, Thierry", "telo": 1763, "uelo": 1810, "tstam": 655, "ustam": 75990},
+      {"tr": "0", "ur": "1", "tspeler": "Pletinckx, Eddy", "uspeler": "Grobelny, Fabrice", "telo": 1708, "uelo": 1803, "tstam": 76325, "ustam": 89516}
+    ]
   }
 ]
