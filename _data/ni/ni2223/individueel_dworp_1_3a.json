@@ -142,5 +142,23 @@
       {"tr": "1", "ur": "0", "tspeler": "Lot, Diederik", "uspeler": "Micciche, Ruben", "telo": 1938, "uelo": 1781, "tstam": 9954, "ustam": 14274},
       {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Mc Hale, Andre", "telo": 1910, "uelo": 1288, "tstam": 21881, "ustam": 61778}
     ]
+  },
+  {
+    "ronde": "9",
+    "datum": "19-03-2023",
+    "thuis": "401 KGSRL 4",
+    "uit": "228 Dworp 1",
+    "tscore": 2.5,
+    "uscore": 3.5,
+    "tgem": 1912,
+    "ugem": 2000,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Verhaeren, Gertjan", "uspeler": "Vanderwaeren, Serge", "telo": 2111, "uelo": 2090, "tstam": 6815, "ustam": 20621},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Tarassiouk, Andrei", "uspeler": "Van Hoofstat, Tom", "telo": 2003, "uelo": 2047, "tstam": 29190, "ustam": 42706},
+      {"tr": "0", "ur": "1", "tspeler": "Liessens, Tom", "uspeler": "Spaens, Kjell", "telo": 1903, "uelo": 1994, "tstam": 19720, "ustam": 29343},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Bajraktari, Sadik", "uspeler": "Verrijken, Geert", "telo": 1842, "uelo": 2020, "tstam": 50131, "ustam": 62766},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Vincent, Gwijde", "uspeler": "Lot, Diederik", "telo": 1826, "uelo": 1938, "tstam": 5827, "ustam": 9954},
+      {"tr": "0", "ur": "1", "tspeler": "Van Hoecke, Elena", "uspeler": "Denys, Frank", "telo": 1789, "uelo": 1910, "tstam": 24988, "ustam": 21881}
+    ]
   }
 ]

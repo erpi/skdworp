@@ -110,5 +110,21 @@
       {"tr": "1", "ur": "0", "tspeler": "Vanrossum, Matthias", "uspeler": "Marchal, Anais", "telo": 1414, "uelo": 1442, "tstam": 17614, "ustam": 12610},
       {"tr": "0", "ur": "1", "tspeler": "Lerinckx, Sander", "uspeler": "Vinet, Lilou", "telo": 1239, "uelo": 1318, "tstam": 12702, "ustam": 22707}
     ]
+  },
+  {
+    "ronde": "9",
+    "datum": "19-03-2023",
+    "thuis": "501 CREC Charleroi 5",
+    "uit": "228 Dworp 3",
+    "tscore": 3,
+    "uscore": 1,
+    "tgem": 1513,
+    "ugem": 1629,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Werner, Guy", "uspeler": "Malfliet, Bernard", "telo": 1679, "uelo": 1752, "tstam": 81728, "ustam": 31348},
+      {"tr": "1", "ur": "0", "tspeler": "Keiser, Marc", "uspeler": "Cornelis, Eric", "telo": 1588, "uelo": 1636, "tstam": 88951, "ustam": 76317},
+      {"tr": "1F", "ur": "0F", "tspeler": "Dejasse, Daniel", "uspeler": "Palmans, Niels", "telo": 1466, "uelo": 1532, "tstam": 63371, "ustam": 17733},
+      {"tr": "1", "ur": "0", "tspeler": "Piette, Pol-Henri", "uspeler": "Smeyers, Johan", "telo": 1319, "uelo": 1594, "tstam": 73229, "ustam": 17422}
+    ]
   }
 ]

@@ -126,5 +126,21 @@
       {"tr": "0", "ur": "1", "tspeler": "De Bosscher, Peter", "uspeler": "Stilmant, Thierry", "telo": 1763, "uelo": 1810, "tstam": 655, "ustam": 75990},
       {"tr": "0", "ur": "1", "tspeler": "Pletinckx, Eddy", "uspeler": "Grobelny, Fabrice", "telo": 1708, "uelo": 1803, "tstam": 76325, "ustam": 89516}
     ]
+  },
+  {
+    "ronde": "9",
+    "datum": "19-03-2023",
+    "thuis": "501 CREC Charleroi 2",
+    "uit": "228 Dworp 2",
+    "tscore": 2.5,
+    "uscore": 1.5,
+    "tgem": 1895,
+    "ugem": 1731,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Piacentini, Claudio", "uspeler": "De Reymaeker, Walter", "telo": 2085, "uelo": 1821, "tstam": 54810, "ustam": 34584},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Bruno, Ricardo", "uspeler": "Wilmots, Yentl", "telo": 2002, "uelo": 1630, "tstam": 82635, "ustam": 21680},
+      {"tr": "0", "ur": "1", "tspeler": "Romanelli, Robert", "uspeler": "De Bosscher, Peter", "telo": 1771, "uelo": 1763, "tstam": 5720, "ustam": 655},
+      {"tr": "1", "ur": "0", "tspeler": "Goblet, Gilles", "uspeler": "Pletinckx, Eddy", "telo": 1720, "uelo": 1708, "tstam": 19665, "ustam": 76325}
+    ]
   }
 ]
