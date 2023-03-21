@@ -99,12 +99,12 @@
     "ronde": "ronde 9",
     "datum": "19-03-2023",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "417 Aalst 1", "uit": "239 Boitsfort 2"},
-      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 2", "uit": "226 Europchess 2"},
-      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 4", "uit": "228 Dworp 1"},
-      {"tr": "", "ur": "", "thuis": "909 Philippeville 1", "uit": "541 Leuze-en-Hainaut 1"},
-      {"tr": "", "ur": "", "thuis": "174 Brasschaat 2", "uit": "548 Ca\u00efssa Europe Mons 1"},
-      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "244 Brussels CC 1"}
+      {"tr": "4", "ur": "2", "thuis": "417 Aalst 1", "uit": "239 Boitsfort 2"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "201 CRE Bruxelles 2", "uit": "226 Europchess 2"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "401 K Gentse SRL 4", "uit": "228 Dworp 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "909 Philippeville 1", "uit": "541 Leuze-en-Hainaut 1"},
+      {"tr": "0", "ur": "6", "thuis": "174 Brasschaat 2", "uit": "548 Ca\u00efssa Europe Mons 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "511 Echiquier du Centre 1", "uit": "244 Brussels CC 1"}
     ]
   },
   {
