@@ -5,7 +5,7 @@ ni_d2_uitploeg: Dworp 2
 ni_d3_uitploeg: Dworp 3
 title: "Duels op het scherp van de snee in Gent en Charleroi"
 auteur: Eric,Tom,Eddy,Geert 
-fotograaf: 
+fotograaf: Kjell
 date: 2023-03-20 20:00:00 +0100
 ni_ronde: 9
 ni_d1_thuisploeg: KGSRL 4
