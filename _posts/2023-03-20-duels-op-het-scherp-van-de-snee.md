@@ -5,7 +5,7 @@ ni_d2_uitploeg: Dworp 2
 ni_d3_uitploeg: Dworp 3
 title: "Duels op het scherp van de snee in Gent en Charleroi"
 auteur: Eric,Tom,Eddy,Geert 
-fotograaf: Kjell
+fotograaf: Johan,Bernard,Kjell
 date: 2023-03-20 20:00:00 +0100
 ni_ronde: 9
 ni_d1_thuisploeg: KGSRL 4
@@ -19,7 +19,7 @@ stelling_uitleg: ''
 stelling_oplossing: ''
 description: "Een fijn lenteweertje en drie ploegen die het carnaval links laten liggen om op verplaatsing de Dworpse kleuren te verdedigen."
 image:
-  path: assets/images/fb/fb_post_2.jpg
+  path: assets/images/2223/ni/r9_d2_eddy_peter_fb.jpg
 draft: false
 ---
 **Een fijn lenteweertje en drie ploegen die het carnaval links laten liggen om op verplaatsing de Dworpse kleuren te verdedigen. Team 1 is te gast in het mekka van het Belgische schaakleven, de Koninklijke Gentse. Voor de chauffeurs ‘gene cadeau’. Parkeren in centrum Gent is erger dan een café zonder bier. Maar soit, verder is het wel aangenaam spelen in dit grote schaakhuis. En wij zijn wegens degradatiegevaar noodgedwongen in ‘the winning mood’ geraakt. Daar staat tegenover dat de KGSRL aan de leiding staat. Het belooft dus een interessante ontmoeting met inzet te worden. Mits een overwinning zijn we zo goed als zeker van het behoud. Even bibberen vooraf, een grieperige Tom –bord 2- raakte pas ter elfder ure speelklaar. Oef!**<!--more-->
@@ -50,9 +50,13 @@ In de partij van Walter met zwart op één stonden na 16 zetten nog 30 stukken o
 
 Yentl met wit op het tweede bord kreeg Siciliaans tegen en had lange tijd een voordeeltje. Hij kwam wel lichtjes in tijdnood en zwart nam het initiatief over. Uiteindelijk werd het een pionneneindspel met eentje meer voor zwart. Die wist het echter niet te winnen. Heel mooi resultaat en beslist een goede partij van Yentl. 0,5-1,5.
 
+![][foto 2]
+
 Peter met zwart op drie werd bestookt met vier (!) remisevoorstellen -allen te rechtvaardigen volgens onze man. Peter won in de opening een pion maar wit had  toch ontwikkelingsvoorsprong. Tegen het einde van de partij bleken de zwarte pionnen te sterk. Mooie, moedige partij van Peter. Overigens complimenteerde zijn sympathieke tegenstander hem met de geleverde prestatie. Het staat 1,5-1,5.
 
 Op bord vier kreeg Eddy met wit na een goede opening de overhand in het positiespel. Zwart bedacht krampachtige plannen om e7 op te spelen; het is er nooit van gekomen. Toen wit met combinatiespel de winst opzocht, werd het wat te ingewikkeld voor beide spelers die de beste voortzettingen aan zich lieten voorbijgaan. De witte torens op e1 en e6 bleken toch niet zo krachtig als de theorieboekjes beweren. Ondertussen infiltreerde zwart zienderogen op de damevleugel; Tb2 en Pc3 maakten een omsingelende beweging om de witte koning op te jagen en aan de andere kant van het bord mat te zetten. Spektakel genoeg maar geen punten. Eindstand 2,5-1,5.
+
+![][foto 4]
 
 ## Kwaad kersen eten met de oudjes uit Charleroi
 
@@ -62,18 +66,23 @@ Johan met wit op bord 4 won een pion. Toen de tegenstander een onreglementaire p
 
 Bernard met zwart op 1 kon onmiddellijk in de aanval tegen een wel zeer passief spelende witspeler. Na een zevental zetten gaf de computer reeds -3 aan. Zeker een onaantastbaar paard op e3 baarde wit zorgen. Later in de partij leverde een penning nog een loper op en toen was het direct gedaan. 2-1.
 
+![][foto 3]
+
 Eric met wit op 3 diende dus te winnen. In een gelijke stelling nam hij onverantwoorde risico's die geen echte aanval opleverden en de stelling slechts verzwakten. De computer bewees dat zwart zich goed verdedigde, efficiënt counterde en gewoon dik verdiend won. Mooie partij van een 71-jarige, zeven jaar geleden nog 1850 Elo. 3-1 verloren derhalve en Charleroi springt over ons. Wij blijven steken op 5 matchpunten uit 8 ontmoetingen.
 
 ## Naspel
 
-![][foto 1]
-
 Dworp 1 klimt van 9 naar plek 6 en zou zo goed als gered zijn ware het niet dat er in de buik van de rangschikking rare dingen gebeuren. Aalst wint tegen Bosvoorde, gemiddeld 200 Elo sterker dan de Ajuinen, de laatste in de stand CREB wint tegen een zwak opgekomen Europchess, Philippeville doet hetzelfde tegen een eveneens zeer zwak Leuze en Brasschaat gaat thuis met een uiterst zwakke ploeg met 0-6 de boot in. Zo schuift het deelnemersveld in elkaar en staan maar liefst 9 ploegen op amper 4 matchpunten van elkaar.  Het gevolg is dat we mathematisch toch nog één matchpuntje (volgende ronde tegen Philippeville) nodig hebben om helemaal zeker te zijn van het behoud.
 
 Dat is lastig want zo moeten we toch nog enigszins met de handrem op het tweede team gaan versterken. Om de degradatie te ontlopen, hebben zij toch ook nog wel een puntje (of twee) vandoen. Zoals Tom zegt hebben we, met een glas water erbij, inderdaad enkele weken de tijd om de stand in alle reeksen door te lichten en dan te beslissen of en hoe we team 2 versterken. Vierde afdeling is een must voor deze ploeg. En de derde ploeg kan nog twee ronden freewheelen.
+
+![][foto 1]
 
 Tot slot nog dit. In de eerste ploeg behoudt Kjell na een nieuwe winst uiteraard de hoogste TPR (2119) en wordt het voor de eer van topscorer spannend tussen Diederik (6/8 in team 1) en Frank (6/9).
 
 Wat extra statistiekjes geven ons moed. We hebben de tweede beste team-TPR van de reeks (1957, net achter Mons met 1976), nog steeds de hoogste Elo-tegenstand (1921) met 5 van de 9 ploegen die hun sterkste opstelling tegen ons inzetten en we staan vierde op bordpunten.  Ook tof, samen met EDC hebben wij het meest stabiele team met 8 ingezette spelers, terwijl Brasschaat er 25 nodig had en Europchess en CREB 22.
 
 [foto 1]: {{ "/assets/images/2223/ni/r9_apres_schaak.jpg" | absolute_url }}
+[foto 2]: {{ "/assets/images/2223/ni/r9_d2_eddy_peter.jpg" | absolute_url }}
+[foto 3]: {{ "/assets/images/2223/ni/r9_d3_eric.jpg" | absolute_url }}
+[foto 4]: {{ "/assets/images/2223/ni/r9_d2_eddy.jpg" | absolute_url }}
