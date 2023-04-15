@@ -244,8 +244,8 @@
     "datum": "20-01-2023",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Diederik Lot",
         "zwart": "Mats Laureys"
       },
@@ -274,8 +274,8 @@
         "zwart": "Pascal Dekoster"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Yentl Wilmots",
         "zwart": "Johan Smeyers"
       },
