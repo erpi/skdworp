@@ -126,5 +126,21 @@
       {"tr": "1F", "ur": "0F", "tspeler": "Dejasse, Daniel", "uspeler": "Palmans, Niels", "telo": 1466, "uelo": 1532, "tstam": 63371, "ustam": 17733},
       {"tr": "1", "ur": "0", "tspeler": "Piette, Pol-Henri", "uspeler": "Smeyers, Johan", "telo": 1319, "uelo": 1594, "tstam": 73229, "ustam": 17422}
     ]
+  },
+  {
+    "ronde": "10",
+    "datum": "16-04-2023",
+    "thuis": "228 Dworp 3",
+    "uit": "901 Namur Echecs 7",
+    "tscore": 3.5,
+    "uscore": 0.5,
+    "tgem": 1558,
+    "ugem": 1480,
+    "borden": [
+      {"tr": "1F", "ur": "0F", "tspeler": "Dekoster, Pascal", "uspeler": "Ooms, David", "telo": 1650, "uelo": 1480, "tstam": 54658, "ustam": 60394},
+      {"tr": "1", "ur": "0", "tspeler": "Cornelis, Eric", "uspeler": "Grassi, Gilberto", "telo": 1636, "uelo": 0, "tstam": 76317, "ustam": 23820},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Palmans, Niels", "uspeler": "Demeyere, Thomas", "telo": 1532, "uelo": 0, "tstam": 17733, "ustam": 24319},
+      {"tr": "1", "ur": "0", "tspeler": "Vanrossum, Matthias", "uspeler": "Squelart, Francois", "telo": 1414, "uelo": 0, "tstam": 17614, "ustam": 69183}
+    ]
   }
 ]

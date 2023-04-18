@@ -160,5 +160,23 @@
       {"tr": "0.5", "ur": "0.5", "tspeler": "Vincent, Gwijde", "uspeler": "Lot, Diederik", "telo": 1826, "uelo": 1938, "tstam": 5827, "ustam": 9954},
       {"tr": "0", "ur": "1", "tspeler": "Van Hoecke, Elena", "uspeler": "Denys, Frank", "telo": 1789, "uelo": 1910, "tstam": 24988, "ustam": 21881}
     ]
+  },
+  {
+    "ronde": "10",
+    "datum": "16-04-2023",
+    "thuis": "228 Dworp 1",
+    "uit": "909 Philippeville 1",
+    "tscore": 5.5,
+    "uscore": 0.5,
+    "tgem": 2000,
+    "ugem": 1801,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "Vanderwaeren, Serge", "uspeler": "Vukojevic, Philippe", "telo": 2090, "uelo": 2020, "tstam": 20621, "ustam": 20249},
+      {"tr": "1", "ur": "0", "tspeler": "Van Hoofstat, Tom", "uspeler": "Dessomme, Francois", "telo": 2047, "uelo": 1972, "tstam": 42706, "ustam": 74063},
+      {"tr": "1", "ur": "0", "tspeler": "Spaens, Kjell", "uspeler": "Wautelet, Patrick", "telo": 1994, "uelo": 1834, "tstam": 29343, "ustam": 71978},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Verrijken, Geert", "uspeler": "Albert, Julien", "telo": 2020, "uelo": 1717, "tstam": 62766, "ustam": 77381},
+      {"tr": "1", "ur": "0", "tspeler": "Lot, Diederik", "uspeler": "Brunet, David", "telo": 1938, "uelo": 1768, "tstam": 9954, "ustam": 75566},
+      {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Brunet Vrijens, Leo", "telo": 1910, "uelo": 1493, "tstam": 21881, "ustam": 23372}
+    ]
   }
 ]

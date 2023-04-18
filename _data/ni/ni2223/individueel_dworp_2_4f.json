@@ -142,5 +142,21 @@
       {"tr": "0", "ur": "1", "tspeler": "Romanelli, Robert", "uspeler": "De Bosscher, Peter", "telo": 1771, "uelo": 1763, "tstam": 5720, "ustam": 655},
       {"tr": "1", "ur": "0", "tspeler": "Goblet, Gilles", "uspeler": "Pletinckx, Eddy", "telo": 1720, "uelo": 1708, "tstam": 19665, "ustam": 76325}
     ]
+  },
+  {
+    "ronde": "10",
+    "datum": "16-04-2023",
+    "thuis": "228 Dworp 2",
+    "uit": "909 Philippeville 2",
+    "tscore": 3.5,
+    "uscore": 0.5,
+    "tgem": 1731,
+    "ugem": 1507,
+    "borden": [
+      {"tr": "1", "ur": "0", "tspeler": "De Reymaeker, Walter", "uspeler": "Couniot, Jacques", "telo": 1821, "uelo": 1657, "tstam": 34584, "ustam": 22688},
+      {"tr": "0.5", "ur": "0.5", "tspeler": "Wilmots, Yentl", "uspeler": "Alary, Philippe", "telo": 1630, "uelo": 1356, "tstam": 21680, "ustam": 99966},
+      {"tr": "1", "ur": "0", "tspeler": "De Bosscher, Peter", "uspeler": "Albert, Johann", "telo": 1763, "uelo": 0, "tstam": 655, "ustam": 23278},
+      {"tr": "1", "ur": "0", "tspeler": "Pletinckx, Eddy", "uspeler": "Gravini, Edwin", "telo": 1708, "uelo": 0, "tstam": 76325, "ustam": 50133}
+    ]
   }
 ]
