@@ -178,8 +178,8 @@
         "zwart": "Johan Smeyers"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Sonja Van Der Voorde",
         "zwart": "Mathias Vanrossum"
       },
@@ -484,14 +484,14 @@
     "datum": "21-04-2023",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Pascal Dekoster",
         "zwart": "Diederik Lot"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Sander Lerinckx",
         "zwart": "Johan Smeyers"
       },
@@ -508,8 +508,8 @@
         "zwart": "Eddy Pletinckx"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Mats Laureys",
         "zwart": "Yentl Wilmots"
       },
@@ -520,8 +520,8 @@
         "zwart": "Sonja Van Der Voorde"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Peter De Bosscher",
         "zwart": "Jannes Vandevelde"
       }
