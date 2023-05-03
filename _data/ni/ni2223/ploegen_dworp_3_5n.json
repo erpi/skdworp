@@ -123,12 +123,12 @@
     "ronde": "ronde 11",
     "datum": "30-04-2023",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 4", "uit": "549 Saint-Ghislain 2"},
-      {"tr": "", "ur": "", "thuis": "501 CRE Charleroi 5", "uit": "902 CE Sambrevillois 3"},
-      {"tr": "", "ur": "", "thuis": "901 Namur 7", "uit": "551 HCC Jurbise 3"},
-      {"tr": "", "ur": "", "thuis": "952 Wavre 5", "uit": "228 Dworp 3"},
+      {"tr": "4", "ur": "0", "thuis": "548 Ca\u00efssa Europe Mons 4", "uit": "549 Saint-Ghislain 2"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "501 CRE Charleroi 5", "uit": "902 CE Sambrevillois 3"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "901 Namur 7", "uit": "551 HCC Jurbise 3"},
+      {"tr": "3", "ur": "1", "thuis": "952 Wavre 5", "uit": "228 Dworp 3"},
       {"tr": "", "ur": "", "thuis": "Bye", "uit": "514 Monti' CC 4"},
-      {"tr": "", "ur": "", "thuis": "518 Soignies 1", "uit": "230 Leuven Centraal 10"}
+      {"tr": "2", "ur": "2", "thuis": "518 Soignies 1", "uit": "230 Leuven Centraal 10"}
     ]
   }
 ]
