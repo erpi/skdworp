@@ -262,8 +262,8 @@
         "zwart": "Geert Verrijken"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Jannes Vandevelde",
         "zwart": "Sander Lerinckx"
       },
@@ -340,8 +340,8 @@
     "datum": "17-02-2023",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Diederik Lot",
         "zwart": "Serge Vanderwaeren"
       },
@@ -448,8 +448,8 @@
         "zwart": "Serge Vanderwaeren"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Sonja Van Der Voorde",
         "zwart": "Mats Laureys"
       },
@@ -472,8 +472,8 @@
         "zwart": "Sander Lerinckx"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Johan Smeyers",
         "zwart": "Pascal Dekoster"
       }
@@ -496,14 +496,14 @@
         "zwart": "Johan Smeyers"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Geert Verrijken",
         "zwart": "Mathias Vanrossum"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Eric Cornelis",
         "zwart": "Eddy Pletinckx"
       },
