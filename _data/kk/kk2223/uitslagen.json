@@ -580,8 +580,8 @@
     "datum": "02-06-2023",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1F",
         "wit": "Sander Lerinckx",
         "zwart": "Diederik Lot"
       },
@@ -598,8 +598,8 @@
         "zwart": "Johan Smeyers"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Mats Laureys",
         "zwart": "Mathias Vanrossum"
       },
