@@ -3,19 +3,19 @@ nummer,naam,r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,totaal
 2,Frank Denys,2,2,3,1,2,2,3,3,3,3,3,27
 3,Geert Verrijken,3,1,2,2,1,3,3,2,2,2,3,24
 4,Peter De Bosscher,2,3,1,2,2,3,1,1,3,3,2,23
-5,Tom Van Hoofstat,1,3,1,2,,1,3,2,2,3,3,21
-,Eric Cornelis,2,2,,3,3,1,2,3,1,3,1,21
+5,Tom Van Hoofstat,1,3,1,3,,1,3,2,2,3,3,22
+6,Eric Cornelis,2,2,,3,3,1,2,3,1,3,1,21
 7,Serge Vanderwaeren,1,3,,1,2,1,3,2,1,3,3,20
 ,Kjell Spaens,,3,2,,3,1,2,3,3,3,,20
-9,Niels Palmans,,1,3,3,2,2,2,2,2,,1,18
+9,Niels Palmans,,1,3,3,2,2,2,2,,2,1,18
 ,Eddy Pletinckx,2,2,3,1,1,,1,1,1,3,3,18
 11,Bernard Malfliet,2,1,1,,2,1,1,2,3,,3,16
 12,Mathias Vanrossum,,1,3,1,1,,1,3,,3,2,15
-13,Walter De Reymaeker,,,,,1,3,,1,,3,3,11
+13,Walter De Reymaeker,,,,,1,3,,,1,3,3,11
 14,Yentl Wilmots,2,,1,1,,,,1,2,2,,9
 ,Mats Laureys,,,3,3,3,,,,,,,9
 16,Johan Smeyers,,1,3,1,,,1,,1,,,7
 ,Sander Lerinckx,,1,,1,1,,3,1,,,,7
 18,Pascal Dekoster,,,,,,3,,,,3,,6
 19,Jannes Vandevelde,,,,,,2,,,,,,2
-,totaal,19,26,28,25,26,26,29,30,26,37,30,302
+,totaal,19,26,28,26,26,26,29,29,25,39,30,303
