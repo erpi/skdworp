@@ -178,5 +178,23 @@
       {"tr": "1", "ur": "0", "tspeler": "Lot, Diederik", "uspeler": "Brunet, David", "telo": 1938, "uelo": 1768, "tstam": 9954, "ustam": 75566},
       {"tr": "1", "ur": "0", "tspeler": "Denys, Frank", "uspeler": "Brunet Vrijens, Leo", "telo": 1910, "uelo": 1493, "tstam": 21881, "ustam": 23372}
     ]
+  },
+  {
+    "ronde": "11",
+    "datum": "30-04-2023",
+    "thuis": "174 Brasschaat 2",
+    "uit": "228 Dworp 1",
+    "tscore": 0,
+    "uscore": 6,
+    "tgem": 1631,
+    "ugem": 1971,
+    "borden": [
+      {"tr": "0", "ur": "1", "tspeler": "Adams, Gert", "uspeler": "Vanderwaeren, Serge", "telo": 1782, "uelo": 2090, "tstam": 56294, "ustam": 20621},
+      {"tr": "0", "ur": "1", "tspeler": "Demarre, Jan", "uspeler": "Van Hoofstat, Tom", "telo": 1787, "uelo": 2047, "tstam": 11510, "ustam": 42706},
+      {"tr": "0", "ur": "1", "tspeler": "De Muer, Erwin", "uspeler": "Verrijken, Geert", "telo": 1530, "uelo": 2020, "tstam": 25411, "ustam": 62766},
+      {"tr": "0", "ur": "1", "tspeler": "Veelenturf, Wim", "uspeler": "Lot, Diederik", "telo": 1531, "uelo": 1938, "tstam": 23026, "ustam": 9954},
+      {"tr": "0", "ur": "1", "tspeler": "Oxener, Aldo", "uspeler": "Denys, Frank", "telo": 1525, "uelo": 1910, "tstam": 15063, "ustam": 21881},
+      {"tr": "0", "ur": "1", "tspeler": "Van Daele, Dave", "uspeler": "De Reymaeker, Walter", "telo": 0, "uelo": 1821, "tstam": 12602, "ustam": 34584}
+    ]
   }
 ]

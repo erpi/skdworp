@@ -158,5 +158,21 @@
       {"tr": "1", "ur": "0", "tspeler": "De Bosscher, Peter", "uspeler": "Albert, Johann", "telo": 1763, "uelo": 0, "tstam": 655, "ustam": 23278},
       {"tr": "1", "ur": "0", "tspeler": "Pletinckx, Eddy", "uspeler": "Gravini, Edwin", "telo": 1708, "uelo": 0, "tstam": 76325, "ustam": 50133}
     ]
+  },
+  {
+    "ronde": "11",
+    "datum": "30-04-2023",
+    "thuis": "207 2 Fous Diogene 3",
+    "uit": "228 Dworp 2",
+    "tscore": 2,
+    "uscore": 2,
+    "tgem": 1577,
+    "ugem": 1773,
+    "borden": [
+      {"tr": "1F", "ur": "0F", "tspeler": "Brouwers, Mikael", "uspeler": "Spaens, Kjell", "telo": 1635, "uelo": 1994, "tstam": 10736, "ustam": 29343},
+      {"tr": "0", "ur": "1", "tspeler": "Bachir, John", "uspeler": "Malfliet, Bernard", "telo": 1622, "uelo": 1752, "tstam": 50277, "ustam": 31348},
+      {"tr": "0F", "ur": "1F", "tspeler": "Bouzekri, Kevin", "uspeler": "Pletinckx, Eddy", "telo": 1474, "uelo": 1708, "tstam": 21307, "ustam": 76325},
+      {"tr": "1", "ur": "0", "tspeler": "Sanchez Pes, Pablo", "uspeler": "Cornelis, Eric", "telo": 0, "uelo": 1636, "tstam": 24289, "ustam": 76317}
+    ]
   }
 ]
