@@ -132,7 +132,7 @@ defaults:
       path: ""
       type: memorial
     values:
-      layout: memorial
+      layout: memorial-uitslag-tabel
       noindex: true
       sitemap: false
       no_prev_next: true
