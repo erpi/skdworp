@@ -114,7 +114,7 @@ module.exports = function(grunt) {
       buildpost: {
         options: {
           ignore: '<%= navchessimg %>',
-          stylesheets: ['../../../../<%= builddir %>post.css', '../../../../<%= builddir %>chessboard.css'],
+          stylesheets: ['../../../../../<%= builddir %>post.css', '../../../../../<%= builddir %>chessboard.css'],
         },
         files: {
           '<%= builddir %>post.un.css': ['<%= postpages %>'],
