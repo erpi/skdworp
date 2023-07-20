@@ -1,7 +1,7 @@
 {
   "name": "skdworp",
   "version": "1.0.0",
-  "description": "website Dworpse Schaakkring",
+  "description": "website Dworpse Schaakkring vzw",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/erpi/skdworp.git"
   },
-  "author": "Dworpse Schaakkring",
+  "author": "Dworpse Schaakkring vzw",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/erpi/skdworp/issues"

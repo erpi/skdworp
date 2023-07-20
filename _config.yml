@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Dworpse Schaakkring
-author: Dworpse Schaakkring
+title: Dworpse Schaakkring vzw
+author: Dworpse Schaakkring vzw
 email: info@skdworp.be
 twitter:
   username: skdworp
@@ -22,7 +22,7 @@ twitter:
 facebook:
   admins: 730802366
 social:
-  name: Dworpse Schaakkring
+  name: Dworpse Schaakkring vzw
   links:
     - https://twitter.com/skdworp
     - https://www.facebook.com/skdworp
