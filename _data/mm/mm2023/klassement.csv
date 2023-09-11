@@ -1,95 +1,95 @@
 nummer,titel,naam,rating,v/m,club,jaar,ptn,par,perf,schd1,schd2,schd3,schd4
-1,FM,Dauw Sterre,2281,M,Leuven Centraal,2002,10.0,13,2398.8,95.5,112.5,83.0,75.0
-2,GM,Hovhannisyan Mher,2422,M,CRELEL Liège,1978,10.0,13,2405.5,93.5,109.5,82.75,76.0
-3,FM,Defromont Benjamin,2271,M,KOSK Oostende,2003,10.0,13,2375.5,91.0,105.5,77.75,71.0
-4,FM,Lenaerts Lennert,2334,M,Genk,1998,10.0,13,2328.9,89.0,105.0,80.0,69.5
-5,,Van Volsem Merlijn,2179,M,KGSRL Gent,2004,9.5,13,2267.2,87.5,103.0,69.75,69.5
-6,,Tuerlinckx Ben,2071,M,Geel,1998,9.5,13,2169.3,84.0,100.0,68.75,65.5
-7,,Arcelin Gaël,2120,M,Caissa Europe,2004,9.0,13,2163.8,87.5,102.5,66.75,66.5
-8,IM,Docx Stefan,2345,M,KASK,1974,9.0,13,2195.2,80.0,93.5,62.25,56.0
-9,IM,Alienkin Aleksander,2325,M,Ans-Loncin,1963,8.5,13,2256.4,92.5,107.5,66.75,66.5
-10,,Dreelinck Adriaan,2083,M,Geraardsbergen,2005,8.5,13,2226.7,88.5,103.5,64.5,62.5
-11,WIM,Goossens Hanne,2153,V,Geel,1992,8.5,13,2140.9,86.0,102.0,63.75,64.0
-12,,Ismail Tamer,2108,M,Borgerhout,2000,8.5,13,2137.8,85.0,101.0,62.5,64.0
-13,FM,Cools Gorik,2159,M,Boitsfort,1964,8.5,13,2108.4,82.5,98.5,62.25,60.5
-14,,Rivet Cyrille,2045,M,,1992,8.5,13,1977.2,71.5,84.5,53.75,56.0
-15,,Lesueur Gabriel,2195,M,,2007,8.0,13,2216.1,96.0,112.5,64.0,69.5
-16,FM,Maerevoet Sim,2317,M,KASK,2001,8.0,13,2234.7,93.5,110.5,64.5,65.5
-17,,Victor Julian,2056,M,KGSRL Gent,2006,8.0,13,2051.1,87.0,104.0,59.5,59.0
-18,,De Baets Keano,1799,M,Artevelde,1999,8.0,13,2066.5,81.0,96.0,55.5,55.0
-19,,Van Hoofstat Tom,1988,M,Dworp,1968,8.0,13,2074.1,81.0,95.0,51.0,56.0
-20,,Barbier Wiebke,2004,V,Mechelen,1992,8.0,13,1965.0,79.5,94.5,53.5,58.0
-21,,Versyck Dominique,1980,M,Opwijk,1982,8.0,13,2016.4,77.0,90.5,51.75,51.0
-22,,Stinis Steven,2074,M,Opwijk,1978,8.0,13,2017.1,75.5,91.0,51.0,59.0
-23,,Dreelinck Jacob,1935,M,Geraardsbergen,2007,7.5,13,2162.3,92.5,106.0,58.0,61.0
-24,IM,Sochacki Wojtek,2280,M,Namur-Echecs,1992,7.5,13,2138.5,90.0,105.5,57.25,62.0
-25,,Boodts Jeroen,1757,M,Dendermonde,1994,7.5,13,1979.6,80.5,94.5,50.0,55.0
-26,,Van Coppenolle Kurt,2067,M,Oostkamp,1978,7.5,13,1998.8,80.0,95.0,49.75,59.0
-27,,Lot Diederik,2042,M,Dworp,1978,7.5,13,1994.3,79.5,94.5,50.0,55.5
-28,,Roels Frederik,1940,M,KGSRL Gent,1968,7.5,13,1911.2,78.0,92.0,50.75,53.0
-29,,Kersemans Aeneas,1557,M,Turnhout,2011,7.5,13,1916.0,77.5,91.5,48.25,53.0
-30,WFM,Soubirou Oriane,1959,V,Boitsfort,1993,7.5,13,1915.8,75.5,90.5,46.0,49.5
-31,,Chaillou Thibault,1815,M,,1989,7.5,13,1859.3,73.0,87.5,45.75,48.5
-32,,De Blende Nando,1780,M,Dendermonde,1996,7.5,13,1839.1,72.0,84.0,40.75,49.5
-33,,Sazonov Fedor,1685,M,Turnhout,2009,7.0,13,1991.6,81.5,95.0,46.5,53.0
-34,,De Baets Branko,1706,M,Artevelde,2002,7.0,13,1918.4,77.5,89.0,42.0,50.0
-35,FM,Roofthoofd Marcel,2149,M,Mechelen,1952,7.0,13,1974.9,77.0,92.0,45.25,57.0
-36,,De Vogelaere Robin,1944,M,KBSK Brugge,1992,7.0,13,1872.4,76.5,90.5,43.0,52.0
-37,,Van Bunderen Gert,1728,M,Hoboken,1967,7.0,13,1748.0,73.0,87.5,41.5,43.0
-38,,Kegels Kristof,1932,M,KGSRL Gent,1977,7.0,13,1767.5,71.5,85.0,39.0,50.0
-39,,Maerevoet Tim,1878,M,Kapelle-op-den-Bos,1982,7.0,13,1785.3,71.5,84.5,41.5,49.0
-40,FM,Vanderwaeren Serge,1987,M,Dworp,1964,7.0,13,1841.2,71.0,86.0,40.5,48.0
-41,,Musabayev Maxim,1528,M,LSV-Chesspirant,2009,7.0,13,1820.0,69.5,80.0,39.75,41.5
-42,,Veldeman Sieben,1677,M,Dendermonde,2000,7.0,13,1792.9,68.0,80.0,35.5,45.0
-43,,Verrijken Geert,1906,M,Dworp,1960,7.0,13,1710.7,66.5,79.0,38.0,46.0
-44,,Schepens Aron,1493,M,DZD Halle,1994,7.0,13,1641.2,61.5,73.5,35.0,37.0
-45,,Musabayeva Diana,1931,V,LSV-Chesspirant,2007,6.5,13,1968.2,83.5,98.5,42.25,54.5
-46,,Beukenhorst Edo,1973,M,Geraardsbergen,1976,6.5,13,1926.9,79.5,94.0,43.5,51.0
-47,,Van Coppenolle Lander,1872,M,Oostkamp,2009,6.5,13,1784.7,74.0,87.5,40.25,46.0
-48,,Roelandt Andreas,1870,M,Aalst,1998,6.5,13,1768.0,71.0,80.5,31.25,50.0
-49,,De Witte Stein,1758,M,Dolle Toren Leuven,1991,6.5,13,1718.3,69.0,83.5,34.25,42.0
-50,,De Bosscher Peter,1650,M,Dworp,1971,6.5,13,1660.8,66.0,78.5,31.5,40.0
-51,,Pepermans Jelle,1762,M,SCRR (Brussel),1989,6.5,13,1643.3,64.5,77.5,33.25,40.5
-52,,Verbeke Basiel,1413,M,KGSRL Gent,2015,6.5,13,1522.2,60.5,73.0,33.0,33.5
-53,,Moreels Yves,1940,M,Lasne-Waterloo,1966,6.0,13,1836.3,80.5,96.0,40.5,49.0
-54,,Harutyunyan Axel,1911,M,SCRR (Brussel),1995,6.0,13,1728.4,72.5,86.0,35.0,48.0
-55,,Denys Frank,1856,M,Dworp,1955,6.0,13,1746.2,71.5,82.5,30.0,46.0
-56,,Van Wijnendaele Jovanni,1688,M,Aalst,1987,6.0,13,1696.0,69.0,81.5,35.5,41.0
-57,,Vandenhole Kobe,1924,M,Aalst,2009,6.0,13,1703.6,68.0,81.5,32.75,42.5
-58,,Cappelle Gert-Jan,1644,M,Aalst,1998,6.0,13,1782.5,67.5,80.0,30.0,44.0
-59,,Bruggeman Jordi,1595,M,KGSRL Gent,2000,6.0,13,1650.7,64.5,74.5,26.5,41.0
-60,,Van De Putte Ben,1777,M,Deinze,1974,6.0,13,1576.8,63.5,77.0,32.0,35.0
-61,,Gilson Pacôme,1303,M,SCRR (Brussel),2012,6.0,12,1543.5,59.5,69.5,27.5,30.0
-62,,Sohet Cédric,1597,M,Anderlecht,1974,6.0,13,1560.1,58.5,72.0,28.0,35.0
-63,,Cornelis Eric,1608,M,Dworp,1959,6.0,13,1487.4,57.0,69.5,27.5,34.0
-64,,Burssens Maya,1319,V,Mercatel,2008,5.5,13,1613.8,76.0,89.0,33.75,45.0
-65,,Wouters Maarten,1719,M,Leuven Centraal,1982,5.5,13,1672.1,72.0,84.5,31.5,39.5
-66,,Bultijnck Kristoff,1485,M,KBSK Brugge,1977,5.5,13,1648.3,70.0,81.0,29.75,36.0
-67,,Ghisa Alexander,1548,M,Kapelle-op-den-Bos,2009,5.5,13,1665.4,69.0,81.5,27.75,39.0
-68,,Vereeken Franky,1938,M,Dendermonde,1973,5.5,13,1696.0,66.5,80.5,24.5,43.0
-69,,Pauwels Fons,1690,M,Dendermonde,2006,5.5,13,1623.6,65.5,79.0,28.75,39.0
-70,,Vanrossum Mathias,1129,M,Dworp,2004,5.5,13,1363.4,60.5,70.0,25.5,34.0
-71,,De Meyer Nicolas,1435,M,Aalst,1998,5.0,13,1648.3,73.0,86.5,32.0,42.0
-72,,Taleb Mohamad,1799,M,Dworp,1975,5.0,13,1664.8,71.0,84.5,30.5,43.0
-73,,Moser Rafael,1464,M,Anderlecht,1989,5.0,13,1678.5,66.5,78.5,27.5,33.0
-74,,De Ceukelaire Gert,1757,M,DZD Halle,1965,5.0,13,1579.5,65.5,78.5,25.0,37.0
-75,,Ooms Lennert,1215,M,,2015,5.0,13,1434.2,61.0,72.0,24.5,30.0
-76,,Vander Voort Patrick,1467,M,KASK,1973,5.0,13,1411.2,60.0,68.5,20.5,30.0
-77,,Laureys Mats,1222,M,Dworp,1999,5.0,13,1416.5,59.5,68.5,21.5,32.0
+1,FM,Dauw Sterre,2281,M,Leuven Centraal,2002,10.0,13,2399,95.5,112.5,83.0,75.0
+2,GM,Hovhannisyan Mher,2422,M,CRELEL Liège,1978,10.0,13,2406,93.5,109.5,82.75,76.0
+3,FM,Defromont Benjamin,2271,M,KOSK Oostende,2003,10.0,13,2376,91.0,105.5,77.75,71.0
+4,FM,Lenaerts Lennert,2334,M,Genk,1998,10.0,13,2329,89.0,105.0,80.0,69.5
+5,,Van Volsem Merlijn,2179,M,KGSRL Gent,2004,9.5,13,2267,87.5,103.0,69.75,69.5
+6,,Tuerlinckx Ben,2071,M,Geel,1998,9.5,13,2169,84.0,100.0,68.75,65.5
+7,,Arcelin Gaël,2120,M,Caissa Europe,2004,9.0,13,2163,87.5,102.5,66.75,66.5
+8,IM,Docx Stefan,2345,M,KASK,1974,9.0,13,2195,80.0,93.5,62.25,56.0
+9,IM,Alienkin Aleksander,2325,M,Ans-Loncin,1963,8.5,13,2256,92.5,107.5,66.75,66.5
+10,,Dreelinck Adriaan,2083,M,Geraardsbergen,2005,8.5,13,2227,88.5,103.5,64.5,62.5
+11,WIM,Goossens Hanne,2153,V,Geel,1992,8.5,13,2141,86.0,102.0,63.75,64.0
+12,,Ismail Tamer,2108,M,Borgerhout,2000,8.5,13,2138,85.0,101.0,62.5,64.0
+13,FM,Cools Gorik,2159,M,Boitsfort,1964,8.5,13,2108,82.5,98.5,62.25,60.5
+14,,Rivet Cyrille,2045,M,,1992,8.5,13,1977,71.5,84.5,53.75,56.0
+15,,Lesueur Gabriel,2195,M,,2007,8.0,13,2216,96.0,112.5,64.0,69.5
+16,FM,Maerevoet Sim,2317,M,KASK,2001,8.0,13,2235,93.5,110.5,64.5,65.5
+17,,Victor Julian,2056,M,KGSRL Gent,2006,8.0,13,2051,87.0,104.0,59.5,59.0
+18,,De Baets Keano,1799,M,Artevelde,1999,8.0,13,2067,81.0,96.0,55.5,55.0
+19,,Van Hoofstat Tom,1988,M,Dworp,1968,8.0,13,2074,81.0,95.0,51.0,56.0
+20,,Barbier Wiebke,2004,V,Mechelen,1992,8.0,13,1965,79.5,94.5,53.5,58.0
+21,,Versyck Dominique,1980,M,Opwijk,1982,8.0,13,2016,77.0,90.5,51.75,51.0
+22,,Stinis Steven,2074,M,Opwijk,1978,8.0,13,2017,75.5,91.0,51.0,59.0
+23,,Dreelinck Jacob,1935,M,Geraardsbergen,2007,7.5,13,2162,92.5,106.0,58.0,61.0
+24,IM,Sochacki Wojtek,2280,M,Namur-Echecs,1992,7.5,13,2139,90.0,105.5,57.25,62.0
+25,,Boodts Jeroen,1757,M,Dendermonde,1994,7.5,13,1980,80.5,94.5,50.0,55.0
+26,,Van Coppenolle Kurt,2067,M,Oostkamp,1978,7.5,13,1999,80.0,95.0,49.75,59.0
+27,,Lot Diederik,2042,M,Dworp,1978,7.5,13,1994,79.5,94.5,50.0,55.5
+28,,Roels Frederik,1940,M,KGSRL Gent,1968,7.5,13,1911,78.0,92.0,50.75,53.0
+29,,Kersemans Aeneas,1557,M,Turnhout,2011,7.5,13,1916,77.5,91.5,48.25,53.0
+30,WFM,Soubirou Oriane,1959,V,Boitsfort,1993,7.5,13,1916,75.5,90.5,46.0,49.5
+31,,Chaillou Thibault,1815,M,,1989,7.5,13,1859,73.0,87.5,45.75,48.5
+32,,De Blende Nando,1780,M,Dendermonde,1996,7.5,13,1839,72.0,84.0,40.75,49.5
+33,,Sazonov Fedor,1685,M,Turnhout,2009,7.0,13,1992,81.5,95.0,46.5,53.0
+34,,De Baets Branko,1706,M,Artevelde,2002,7.0,13,1918,77.5,89.0,42.0,50.0
+35,FM,Roofthoofd Marcel,2149,M,Mechelen,1952,7.0,13,1975,77.0,92.0,45.25,57.0
+36,,De Vogelaere Robin,1944,M,KBSK Brugge,1992,7.0,13,1872,76.5,90.5,43.0,52.0
+37,,Van Bunderen Gert,1728,M,Hoboken,1967,7.0,13,1748,73.0,87.5,41.5,43.0
+38,,Kegels Kristof,1932,M,KGSRL Gent,1977,7.0,13,1768,71.5,85.0,39.0,50.0
+39,,Maerevoet Tim,1878,M,Kapelle-op-den-Bos,1982,7.0,13,1785,71.5,84.5,41.5,49.0
+40,FM,Vanderwaeren Serge,1987,M,Dworp,1964,7.0,13,1841,71.0,86.0,40.5,48.0
+41,,Musabayev Maxim,1528,M,LSV-Chesspirant,2009,7.0,13,1820,69.5,80.0,39.75,41.5
+42,,Veldeman Sieben,1677,M,Dendermonde,2000,7.0,13,1793,68.0,80.0,35.5,45.0
+43,,Verrijken Geert,1906,M,Dworp,1960,7.0,13,1711,66.5,79.0,38.0,46.0
+44,,Schepens Aron,1493,M,DZD Halle,1994,7.0,13,1641,61.5,73.5,35.0,37.0
+45,,Musabayeva Diana,1931,V,LSV-Chesspirant,2007,6.5,13,1968,83.5,98.5,42.25,54.5
+46,,Beukenhorst Edo,1973,M,Geraardsbergen,1976,6.5,13,1927,79.5,94.0,43.5,51.0
+47,,Van Coppenolle Lander,1872,M,Oostkamp,2009,6.5,13,1785,74.0,87.5,40.25,46.0
+48,,Roelandt Andreas,1870,M,Aalst,1998,6.5,13,1768,71.0,80.5,31.25,50.0
+49,,De Witte Stein,1758,M,Dolle Toren Leuven,1991,6.5,13,1718,69.0,83.5,34.25,42.0
+50,,De Bosscher Peter,1650,M,Dworp,1971,6.5,13,1661,66.0,78.5,31.5,40.0
+51,,Pepermans Jelle,1762,M,SCRR (Brussel),1989,6.5,13,1643,64.5,77.5,33.25,40.5
+52,,Verbeke Basiel,1413,M,KGSRL Gent,2015,6.5,13,1522,60.5,73.0,33.0,33.5
+53,,Moreels Yves,1940,M,Lasne-Waterloo,1966,6.0,13,1836,80.5,96.0,40.5,49.0
+54,,Harutyunyan Axel,1911,M,SCRR (Brussel),1995,6.0,13,1728,72.5,86.0,35.0,48.0
+55,,Denys Frank,1856,M,Dworp,1955,6.0,13,1746,71.5,82.5,30.0,46.0
+56,,Van Wijnendaele Jovanni,1688,M,Aalst,1987,6.0,13,1696,69.0,81.5,35.5,41.0
+57,,Vandenhole Kobe,1924,M,Aalst,2009,6.0,13,1704,68.0,81.5,32.75,42.5
+58,,Cappelle Gert-Jan,1644,M,Aalst,1998,6.0,13,1783,67.5,80.0,30.0,44.0
+59,,Bruggeman Jordi,1595,M,KGSRL Gent,2000,6.0,13,1651,64.5,74.5,26.5,41.0
+60,,Van De Putte Ben,1777,M,Deinze,1974,6.0,13,1577,63.5,77.0,32.0,35.0
+61,,Gilson Pacôme,1303,M,SCRR (Brussel),2012,6.0,12,1544,59.5,69.5,27.5,30.0
+62,,Sohet Cédric,1597,M,Anderlecht,1974,6.0,13,1560,58.5,72.0,28.0,35.0
+63,,Cornelis Eric,1608,M,Dworp,1959,6.0,13,1487,57.0,69.5,27.5,34.0
+64,,Burssens Maya,1319,V,Mercatel,2008,5.5,13,1614,76.0,89.0,33.75,45.0
+65,,Wouters Maarten,1719,M,Leuven Centraal,1982,5.5,13,1672,72.0,84.5,31.5,39.5
+66,,Bultijnck Kristoff,1485,M,KBSK Brugge,1977,5.5,13,1648,70.0,81.0,29.75,36.0
+67,,Ghisa Alexander,1548,M,Kapelle-op-den-Bos,2009,5.5,13,1665,69.0,81.5,27.75,39.0
+68,,Vereeken Franky,1938,M,Dendermonde,1973,5.5,13,1696,66.5,80.5,24.5,43.0
+69,,Pauwels Fons,1690,M,Dendermonde,2006,5.5,13,1627,65.5,79.0,28.75,39.0
+70,,Vanrossum Mathias,1129,M,Dworp,2004,5.5,13,1363,60.5,70.0,25.5,34.0
+71,,De Meyer Nicolas,1435,M,Aalst,1998,5.0,13,1648,73.0,86.5,32.0,42.0
+72,,Taleb Mohamad,1799,M,Dworp,1975,5.0,13,1665,71.0,84.5,30.5,43.0
+73,,Moser Rafael,1464,M,Anderlecht,1989,5.0,13,1679,66.5,78.5,27.5,33.0
+74,,De Ceukelaire Gert,1757,M,DZD Halle,1965,5.0,13,1580,65.5,78.5,25.0,37.0
+75,,Ooms Lennert,1215,M,,2015,5.0,13,1434,61.0,72.0,24.5,30.0
+76,,Vander Voort Patrick,1467,M,KASK,1973,5.0,13,1411,60.0,68.5,20.5,30.0
+77,,Laureys Mats,1222,M,Dworp,1999,5.0,13,1417,59.5,68.5,21.5,32.0
 78,,Van Impe Tristan,0,M,Aalst,2008,5.0,13,,51.0,59.5,15.5,25.0
-79,,Sissau Arno,1475,M,DZD Halle,1997,5.0,13,1313.7,49.5,58.5,14.0,26.0
-80,,De Clerck Lucas,1606,M,,2003,4.5,13,1578.7,64.5,74.0,20.25,35.0
-81,,De Meyere Dirk,1457,M,KBSK Brugge,1964,4.5,13,1414.3,62.5,71.5,20.0,31.5
+79,,Sissau Arno,1475,M,DZD Halle,1997,5.0,13,1318,49.5,58.5,14.0,26.0
+80,,De Clerck Lucas,1606,M,,2003,4.5,13,1579,64.5,74.0,20.25,35.0
+81,,De Meyere Dirk,1457,M,KBSK Brugge,1964,4.5,13,1414,62.5,71.5,20.0,31.5
 82,,Toelen Daan,0,M,Leuven Centraal,2010,4.5,12,,62.5,71.5,18.75,29.5
-83,,Dekoster Pascal,1711,M,Dworp,1980,4.5,13,1430.8,62.0,73.0,16.75,30.5
-84,,Van Der Voorde Sonja,1346,V,DZD Halle,1964,4.5,13,1385.2,54.0,62.0,14.75,27.5
+83,,Dekoster Pascal,1711,M,Dworp,1980,4.5,13,1431,62.0,73.0,16.75,30.5
+84,,Van Der Voorde Sonja,1346,V,DZD Halle,1964,4.5,13,1385,54.0,62.0,14.75,27.5
 85,,Lot Nathan,0,M,Dworp,2013,4.5,12,,52.5,61.5,17.25,25.5
-86,,Ghisa Robert,1265,M,Kapelle-op-den-Bos,1976,4.0,13,1383.9,61.5,71.5,19.5,28.0
-87,,Van Roy Arno,1491,M,Kapelle-op-den-Bos,1998,4.0,13,1424.1,59.5,69.5,17.5,29.0
-88,,Blykers Jan,1210,M,Aalst,1990,4.0,13,1298.8,54.5,62.5,13.0,22.0
-89,,Huysman Robert,1345,M,DZD Halle,1946,3.5,13,1371.9,61.5,70.0,14.0,25.0
+86,,Ghisa Robert,1265,M,Kapelle-op-den-Bos,1976,4.0,13,1384,61.5,71.5,19.5,28.0
+87,,Van Roy Arno,1491,M,Kapelle-op-den-Bos,1998,4.0,13,1424,59.5,69.5,17.5,29.0
+88,,Blykers Jan,1210,M,Aalst,1990,4.0,13,1299,54.5,62.5,13.0,22.0
+89,,Huysman Robert,1345,M,DZD Halle,1946,3.5,13,1372,61.5,70.0,14.0,25.0
 90,,Geraerts Jules,0,M,Dworp,2012,3.0,12,,55.0,63.5,9.0,21.0
-91,,Al-Kili Adil Sofia,1012,V,Anderlecht,2011,2.0,13,987.5,51.0,58.0,5.0,11.0
-92,,Degraeve Ruben,1597,M,Dworp,1988,2.0,6,1588.1,25.0,37.5,10.0,21.0
-93,,Al-Kili Adil Ines,1096,V,Anderlecht,2009,1.0,12,1008.9,49.0,57.5,4.5,9.0
-94,FM,Deleyn Gunter,2162,M,KGSRL Gent,1955,1.0,1,2162.0,6.0,6.0,6.0,13.0
+91,,Al-Kili Adil Sofia,1012,V,Anderlecht,2011,2.0,13,988,51.0,58.0,5.0,11.0
+92,,Degraeve Ruben,1597,M,Dworp,1988,2.0,6,1588,25.0,37.5,10.0,21.0
+93,,Al-Kili Adil Ines,1096,V,Anderlecht,2009,1.0,12,1009,49.0,57.5,4.5,9.0
+94,FM,Deleyn Gunter,2162,M,KGSRL Gent,1955,1.0,1,2162,6.0,6.0,6.0,13.0
