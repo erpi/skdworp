@@ -37,7 +37,7 @@ Die uitslagen zorgden voor één grote hergroepering. Het hoger genoemde viertal
 
 ## Triomf
 
-De grote triomfator, VSF-kampioen en kampioen van Vlaams-Brabant op scheidingspunten werd dus Sterre Dauw. De nieuwe blizkoning schoot als een raket uit de startblokken met 5,5 uit 6 - in ronde vijf remiseerde hij tegen de enige GM in het gezelschap Mher. In de rondes zeven en acht kende Sterre een licht dipje met remise tegen Benjamin Defromont en verlies tegen Lennert Lenaerts. Dat was snel voorbij met winst in ronde 9, 10 en 11.
+De grote triomfator, VSF-kampioen en kampioen van Vlaams-Brabant op scheidingspunten werd dus Sterre Dauw. De nieuwe blitzkoning schoot als een raket uit de startblokken met 5,5 uit 6 - in ronde vijf remiseerde hij tegen de enige GM in het gezelschap Mher. In de rondes zeven en acht kende Sterre een licht dipje met remise tegen Benjamin Defromont en verlies tegen Lennert Lenaerts. Dat was snel voorbij met winst in ronde 9, 10 en 11.
 
 Vervolgens beet hij een tweede maal in het zand in ronde 12 tegen Merlijn Van Volsem. Met winst in de laatste ronde stelde Sterre zijn gedeelde eerste plaats dus veilig. Zijn tpr is bijna 2400 Elo en daarmee moet de nieuwe kampioen enkel Mher (2405) laten voorgaan.
 
