@@ -1,0 +1,212 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "06-10-2023",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Nathan Lot",
+        "zwart": "Yentl Wilmots"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Mathias Vanrossum"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "20-10-2023",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Mathias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Pascal Dekoster"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Nathan Lot",
+        "zwart": "Eric Cornelis"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "10-11-2023",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Yentl Wilmots"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Nathan Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Jannes Vandevelde"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "17-11-2023",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Mathias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Nathan Lot",
+        "zwart": "Serge Vanderwaeren"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Pascal Dekoster"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "01-12-2023",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Yentl Wilmots"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Nathan Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Geert Verrijken"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "15-12-2023",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Geert Verrijken"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Nathan Lot",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Mathias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Serge Vanderwaeren"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "05-01-2024",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Yentl Wilmots"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Pascal Dekoster"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Nathan Lot"
+      }
+    ]
+  }
+]
