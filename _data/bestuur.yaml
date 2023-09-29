@@ -20,8 +20,14 @@ voorzitter:
   telefoon: 02 360 32 87
   gsm: 0470 65 17 54
   email: SebMyn1aTO\\eeZW^]V`a^V`[  # vigenère
+ondervoorzitter:
+  functie: ondervoorzitter
+  naam: Eddy Pletinckx
+  telefoon:
+  gsm:
+  email:
 secretaris:
-  functie: secretaris &amp; tornooileider
+  functie: secretaris
   naam: Bernard Malfliet
   telefoon:
   gsm: 0471 98 33 87
@@ -30,9 +36,5 @@ penningmeester:
   functie: penningmeester
   naam: Diederik Lot
   telefoon:
-webmaster:
-  functie: webmaster
-  naam: Pieter Ertveldt
-  telefoon:
   gsm:
-  email: P`^Oj\Vlta^]afZauISj^
+  email:
