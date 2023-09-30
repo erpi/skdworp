@@ -1,7 +1,7 @@
 ---
 layout: compress
 description: "Welkom op de website van onze schaakclub. De roots van de club liggen in Dworp, schaken doen we tegenwoordig in Halle."
-last_modified_at: 2023-09-29
+last_modified_at: 2023-09-30
 hoofdpagina: true
 ---
 {% capture kk_link %}{{ "/klubkampioenschap/" | relative_url }}{% endcapture %}
@@ -13,6 +13,7 @@ hoofdpagina: true
 {% capture ct_link %}{{ "/contact/" | relative_url }}{% endcapture %}
 {% capture best_link %}{{ "#bestuur" | relative_url }}{% endcapture %}
 {% capture lok_link %}{{ "#lokatie" | relative_url }}{% endcapture %}
+{% capture vzw_link %}{{ "#vzw" | relative_url }}{% endcapture %}
 
 <!DOCTYPE html>
 <html lang="nl-BE">
@@ -113,6 +114,21 @@ hoofdpagina: true
             {% include bestuurslid.html functie="penningmeester" %}
           </div>
        </div>
+      </div>
+    </section>
+
+    <section id="vzw"></section>
+      <div class="container text-center">
+        <h2>over de vzw</h2>
+        <hr class="section-hr">
+        <p class="lead">Dworpse Schaakkring vzw<br>
+          ondernemingsnummer : 0790.920.182<br>
+          RPR Brussel, Nederlandstalige<br>
+          maatschappelijke zetel: Heidebroek 8, 1652 Beersel<br>
+          iban: BE06&nbsp;1431&nbsp;2170&nbsp;7722<br>
+          <a href="https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=790920182" target="_blank">onze gegevens</a> in de KBO<br>
+          <a href="http://www.ejustice.just.fgov.be/cgi_tsv/tsv_rech.pl?language=nl&btw=0790920182&liste=Liste" target="_blank">publicaties</a> in het Belgisch Staatsblad
+          </p>
       </div>
     </section>
 

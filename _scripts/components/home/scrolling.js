@@ -1,6 +1,6 @@
 function smoothScrolling() {
   // Add smooth scrolling to all links in navbar
-  $(".navbar a[href*='#over-ons'], #btn-over, #lok1, #best1").on('click', function(event) {
+  $(".navbar a[href*='#over-ons'], #btn-over, #lok1, #best1, #vzw1").on('click', function(event) {
     // Prevent default anchor click behavior
     event.preventDefault();
     // Store hash
