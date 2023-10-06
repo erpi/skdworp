@@ -4,14 +4,14 @@
     "datum": "06-10-2023",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Diederik Lot",
         "zwart": "Kjell Spaens"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Johan Smeyers",
         "zwart": "Jules Geraerts"
       },
@@ -22,8 +22,8 @@
         "zwart": "Peter De Bosscher"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Sander Lerinckx",
         "zwart": "Eddy Pletinckx"
       }
