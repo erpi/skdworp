@@ -4,8 +4,8 @@
     "datum": "06-10-2023",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Nathan Lot",
         "zwart": "Yentl Wilmots"
       },
@@ -22,8 +22,8 @@
         "zwart": "Jannes Vandevelde"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Serge Vanderwaeren",
         "zwart": "Mathias Vanrossum"
       }
