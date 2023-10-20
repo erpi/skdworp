@@ -15,12 +15,12 @@
     "ronde": "ronde 2",
     "datum": "15-10-2023",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "525 Anderlues 1", "uit": "501 CRE Charleroi 2"},
-      {"tr": "", "ur": "", "thuis": "952 Wavre 2", "uit": "601 CRE Li\u00e8ge EL 6"},
-      {"tr": "", "ur": "", "thuis": "607 Rochade Eupen 6", "uit": "551 HCC Jurbise 1"},
-      {"tr": "", "ur": "", "thuis": "547 Binche 1", "uit": "909 Philippeville 1"},
-      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 1", "uit": "228 Dworp 2"},
-      {"tr": "", "ur": "", "thuis": "901 Namur 3", "uit": "230 Leuven Centraal 3"}
+      {"tr": "2", "ur": "2", "thuis": "525 Anderlues 1", "uit": "501 CRE Charleroi 2"},
+      {"tr": "0.5", "ur": "3.5", "thuis": "952 Wavre 2", "uit": "601 CRE Li\u00e8ge EL 6"},
+      {"tr": "0", "ur": "0", "thuis": "607 Rochade Eupen 6", "uit": "551 HCC Jurbise 1"},
+      {"tr": "4", "ur": "0", "thuis": "547 Binche 1", "uit": "909 Philippeville 1"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "902 CE Sambrevillois 1", "uit": "228 Dworp 2"},
+      {"tr": "2", "ur": "2", "thuis": "901 Namur 3", "uit": "230 Leuven Centraal 3"}
     ]
   },
   {

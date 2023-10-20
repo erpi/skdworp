@@ -15,12 +15,12 @@
     "ronde": "ronde 2",
     "datum": "15-10-2023",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "418 Geraardsbergen 1", "uit": "548 Ca\u00efssa Europe Mons 2"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 2", "uit": "226 Europchess 2"},
-      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 1", "uit": "417 Aalst 1"},
-      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 5", "uit": "239 Boitsfort 2"},
-      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "228 Dworp 1"},
-      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diog\u00e8ne 1", "uit": "244 Brussels CC 1"}
+      {"tr": "4.5", "ur": "1.5", "thuis": "418 Geraardsbergen 1", "uit": "548 Ca\u00efssa Europe Mons 2"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "278 Pantin 2", "uit": "226 Europchess 2"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "201 CRE Bruxelles 1", "uit": "417 Aalst 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "401 K Gentse SRL 5", "uit": "239 Boitsfort 2"},
+      {"tr": "3", "ur": "3", "thuis": "511 Echiquier du Centre 1", "uit": "228 Dworp 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "207 Les Deux Fous du Diog\u00e8ne 1", "uit": "244 Brussels CC 1"}
     ]
   },
   {
