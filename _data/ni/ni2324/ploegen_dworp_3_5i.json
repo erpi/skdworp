@@ -28,11 +28,11 @@
     "datum": "22-10-2023",
     "uitslagen": [
       {"tr": "", "ur": "", "thuis": "244 Brussels CC 5", "uit": "Bye"},
-      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "207 Les Deux Fous du Diog\u00e8ne 5"},
-      {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "961 Braine Echecs 3"},
-      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 14", "uit": "514 Monti' CC 3"},
-      {"tr": "", "ur": "", "thuis": "541 Leuze 2", "uit": "201 CRE Bruxelles 4"},
-      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 4", "uit": "278 Pantin 7"}
+      {"tr": "3.5", "ur": "0.5", "thuis": "228 Dworp 3", "uit": "207 Les Deux Fous du Diog\u00e8ne 5"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "233 DZD Halle 2", "uit": "961 Braine Echecs 3"},
+      {"tr": "2", "ur": "2", "thuis": "401 K Gentse SRL 14", "uit": "514 Monti' CC 3"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "541 Leuze 2", "uit": "201 CRE Bruxelles 4"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "548 Ca\u00efssa Europe Mons 4", "uit": "278 Pantin 7"}
     ]
   },
   {
