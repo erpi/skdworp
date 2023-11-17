@@ -94,26 +94,26 @@
     "datum": "17-11-2023",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Yentl Wilmots",
         "zwart": "Jannes Vandevelde"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Geert Verrijken",
         "zwart": "Mathias Vanrossum"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Nathan Lot",
         "zwart": "Serge Vanderwaeren"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Eric Cornelis",
         "zwart": "Pascal Dekoster"
       }
