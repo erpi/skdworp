@@ -94,14 +94,14 @@
     "datum": "17-11-2023",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Kjell Spaens",
         "zwart": "Peter De Bosscher"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Jules Geraerts",
         "zwart": "Eddy Pletinckx"
       },
@@ -112,8 +112,8 @@
         "zwart": "Sander Lerinckx"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Johan Smeyers",
         "zwart": "Mats Laureys"
       }
