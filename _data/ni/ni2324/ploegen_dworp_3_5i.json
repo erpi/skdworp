@@ -40,11 +40,11 @@
     "datum": "19-11-2023",
     "uitslagen": [
       {"tr": "", "ur": "", "thuis": "Bye", "uit": "278 Pantin 7"},
-      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 4", "uit": "548 Ca\u00efssa Europe Mons 4"},
-      {"tr": "", "ur": "", "thuis": "514 Monti' CC 3", "uit": "541 Leuze 2"},
-      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "401 K Gentse SRL 14"},
-      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diog\u00e8ne 5", "uit": "233 DZD Halle 2"},
-      {"tr": "", "ur": "", "thuis": "244 Brussels CC 5", "uit": "228 Dworp 3"}
+      {"tr": "0.5", "ur": "3.5", "thuis": "201 CRE Bruxelles 4", "uit": "548 Ca\u00efssa Europe Mons 4"},
+      {"tr": "2", "ur": "2", "thuis": "514 Monti' CC 3", "uit": "541 Leuze 2"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "961 Braine Echecs 3", "uit": "401 K Gentse SRL 14"},
+      {"tr": "0", "ur": "4", "thuis": "207 Les Deux Fous du Diog\u00e8ne 5", "uit": "233 DZD Halle 2"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "244 Brussels CC 5", "uit": "228 Dworp 3"}
     ]
   },
   {
@@ -52,11 +52,11 @@
     "datum": "03-12-2023",
     "uitslagen": [
       {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "Bye"},
-      {"tr": "", "ur": "", "thuis": "233 DZD Halle 2", "uit": "244 Brussels CC 5"},
-      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 14", "uit": "207 Les Deux Fous du Diog\u00e8ne 5"},
-      {"tr": "", "ur": "", "thuis": "541 Leuze 2", "uit": "961 Braine Echecs 3"},
-      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 4", "uit": "514 Monti' CC 3"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 7", "uit": "201 CRE Bruxelles 4"}
+      {"tr": "2", "ur": "2", "thuis": "233 DZD Halle 2", "uit": "244 Brussels CC 5"},
+      {"tr": "3", "ur": "1", "thuis": "401 K Gentse SRL 14", "uit": "207 Les Deux Fous du Diog\u00e8ne 5"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "541 Leuze 2", "uit": "961 Braine Echecs 3"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "548 Ca\u00efssa Europe Mons 4", "uit": "514 Monti' CC 3"},
+      {"tr": "2", "ur": "2", "thuis": "278 Pantin 7", "uit": "201 CRE Bruxelles 4"}
     ]
   },
   {
