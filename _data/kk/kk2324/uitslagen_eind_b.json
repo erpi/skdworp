@@ -1,0 +1,212 @@
+[
+  {
+    "ronde": "ronde ",
+    "datum": "19-01-2024",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Sander Lerinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Nathan Lot"
+      },
+      {
+        "wr": "0",
+        "zr": "1",
+        "wit": "Jules Geraerts",
+        "zwart": "Johan Smeyers"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "09-02-2024",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Johan Smeyers"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Nathan Lot",
+        "zwart": "Jules Geraerts"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Mathias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Eric Cornelis"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "22-03-2024",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jules Geraerts",
+        "zwart": "Sander Lerinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Johan Smeyers",
+        "zwart": "Nathan Lot"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "05-04-2024",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Nathan Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Johan Smeyers"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Jules Geraerts"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Mathias Vanrossum"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "19-04-2024",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jules Geraerts",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Johan Smeyers",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Nathan Lot",
+        "zwart": "Sander Lerinckx"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "03-05-2024",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Sander Lerinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mats Laureys",
+        "zwart": "Nathan Lot"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Eric Cornelis",
+        "zwart": "Johan Smeyers"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Mathias Vanrossum",
+        "zwart": "Jules Geraerts"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "10-05-2024",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jules Geraerts",
+        "zwart": "Jannes Vandevelde"
+      },
+      {
+        "wr": ".5",
+        "zr": ".5",
+        "wit": "Johan Smeyers",
+        "zwart": "Mathias Vanrossum"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Nathan Lot",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Sander Lerinckx",
+        "zwart": "Mats Laureys"
+      }
+    ]
+  }
+]
