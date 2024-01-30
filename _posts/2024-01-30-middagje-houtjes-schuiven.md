@@ -6,7 +6,7 @@ ni_d3_uitploeg: DZD 2
 title: "Middagje houtjes schuiven tussen blunders en briljant"
 auteur: Eric,Eddy,Geert
 fotograaf: 
-date: 2024-01-30 20:00:00 +0100
+date: 2024-01-29 20:00:00 +0100
 ni_ronde: 6
 ni_d1_thuisploeg: Dworp 1
 ni_d2_thuisploeg: Dworp 2
