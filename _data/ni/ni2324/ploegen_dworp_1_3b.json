@@ -63,24 +63,24 @@
     "ronde": "ronde 6",
     "datum": "28-01-2024",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "418 Geraardsbergen 1", "uit": "201 CRE Bruxelles 1"},
-      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 5", "uit": "278 Pantin 2"},
-      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "548 Ca\u00efssa Europe Mons 2"},
-      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diog\u00e8ne 1", "uit": "226 Europchess 2"},
-      {"tr": "", "ur": "", "thuis": "244 Brussels CC 1", "uit": "417 Aalst 1"},
-      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "239 Boitsfort 2"}
+      {"tr": "1", "ur": "5", "thuis": "418 Geraardsbergen 1", "uit": "201 CRE Bruxelles 1"},
+      {"tr": "5.5", "ur": "0.5", "thuis": "401 K Gentse SRL 5", "uit": "278 Pantin 2"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "511 Echiquier du Centre 1", "uit": "548 Ca\u00efssa Europe Mons 2"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "207 Les Deux Fous du Diog\u00e8ne 1", "uit": "226 Europchess 2"},
+      {"tr": "2", "ur": "4", "thuis": "244 Brussels CC 1", "uit": "417 Aalst 1"},
+      {"tr": "3", "ur": "3", "thuis": "228 Dworp 1", "uit": "239 Boitsfort 2"}
     ]
   },
   {
     "ronde": "ronde 7",
     "datum": "04-02-2024",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "418 Geraardsbergen 1"},
-      {"tr": "", "ur": "", "thuis": "417 Aalst 1", "uit": "228 Dworp 1"},
-      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "244 Brussels CC 1"},
-      {"tr": "", "ur": "", "thuis": "548 Ca\u00efssa Europe Mons 2", "uit": "207 Les Deux Fous du Diog\u00e8ne 1"},
-      {"tr": "", "ur": "", "thuis": "278 Pantin 2", "uit": "511 Echiquier du Centre 1"},
-      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 1", "uit": "401 K Gentse SRL 5"}
+      {"tr": "3.5", "ur": "2.5", "thuis": "239 Boitsfort 2", "uit": "418 Geraardsbergen 1"},
+      {"tr": "5.5", "ur": "0.5", "thuis": "417 Aalst 1", "uit": "228 Dworp 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "226 Europchess 2", "uit": "244 Brussels CC 1"},
+      {"tr": "2", "ur": "4", "thuis": "548 Ca\u00efssa Europe Mons 2", "uit": "207 Les Deux Fous du Diog\u00e8ne 1"},
+      {"tr": "2", "ur": "4", "thuis": "278 Pantin 2", "uit": "511 Echiquier du Centre 1"},
+      {"tr": "3", "ur": "3", "thuis": "201 CRE Bruxelles 1", "uit": "401 K Gentse SRL 5"}
     ]
   },
   {
