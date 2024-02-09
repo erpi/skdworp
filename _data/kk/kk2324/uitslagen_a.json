@@ -34,8 +34,8 @@
     "datum": "09-02-2024",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Diederik Lot",
         "zwart": "Kjell Spaens"
       },
@@ -46,14 +46,14 @@
         "zwart": "Geert Verrijken"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Pascal Dekoster",
         "zwart": "Serge Vanderwaeren"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Eddy Pletinckx",
         "zwart": "Peter De Bosscher"
       }
