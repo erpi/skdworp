@@ -1,6 +1,6 @@
 ---
 tag: ni
-ni_d1_uitploeg: Europechess 2
+ni_d1_uitploeg: Europchess 2
 ni_d2_uitploeg: CRELEL 6
 ni_d3_uitploeg: Leuze 2
 title: "Dworp 1 en 3 halen flink uit, team 2 in de touwen"
