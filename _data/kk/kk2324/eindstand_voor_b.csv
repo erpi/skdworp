@@ -1,2 +1,9 @@
-Kruistabel van tussenstand wordt automatisch gebouwd met behulp van javascript.
-Dit bestand niet verwijderen, is nodig om tabblad te maken.
+nummer,naam,1,2,3,4,5,6,7,8,#,totaal
+1,Serge Vanderwaeren,XX,1,1,1,0,1,1,1,7,6
+2,Geert Verrijken,0,XX,1,0,1,1,1,1,7,5
+3,Yentl Wilmots,0,0,XX,0,1,1,1,1,7,4
+4,Pascal Dekoster,0,0,1,XX,1,0,1,1,7,4
+5,Mathias Vanrossum,1,0,0,0,XX,1,1,1,7,4
+6,Eric Cornelis,0,0,0,1,0,XX,0.5,1,7,2.5
+7,Jannes Vandevelde,0,0,0,0,0,0.5,XX,1,7,1.5
+8,Nathan Lot,0,0,0,0,0,0,0,XX,7,0
