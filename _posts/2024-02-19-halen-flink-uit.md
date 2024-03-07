@@ -78,6 +78,6 @@ Mats met zwart op bord 2 veroverde enkele pionnen. Zijn tegenstander speelde (te
 
 Team 1 heeft de schande van Aalst weggeveegd. Dat is één. Bovendien, twee en belangrijker, doen we in de rangschikking een goede zaak. We staan nu achtste met twee punten voor op vier ploegen. Volgende ronde moeten we naar Mons. Zij staan laatste. Daarna bekampen we Pantin 2, nu op de tiende plek. In die twee ontmoetingen zullen we het moeten doen want de laatste ronde is tegen leider CREB 1. Met andere woorden, we hebben alles nog in eigen handen. Hopelijk winnen we volgende ronde zodat we ploeg 2 kunnen versterken.
 
-Als dat niet te laat is toch. Want team 2 staat nu (voor)laatste met slechts drie punten.  Er zakt hier wel maar een ploeg gelukkig. Over drie weken MOETEN we winnen van Charleroi, rechtstreekse concurrent, om kans op behoud te vrijwaren. Vervolgens geven we Wavre partij, en in de laatste ronde zijn we bye, daar Roque algemeen forfait gaf.
+Als dat niet te laat is toch. Want team 2 staat nu (voor)laatste met slechts drie punten.  Er zakt hier wel maar een ploeg gelukkig. Over drie weken MOETEN we winnen van Charleroi, rechtstreekse concurrent, om kans op behoud te vrijwaren. Vervolgens geven we Wavre partij, en in de laatste ronde zijn we bye, daar Rochade algemeen forfait gaf.
 
 Dworp 3 is nu zesde met 7 punten uit evenveel ontmoetingen. We haalden aan het bord wel 9,5 uit 11 (1 forfait) in de laatste drie matches. Matthias, Mats en Sander –en Johan ook natuurlijk- doen het goed. Top!
