@@ -5,3 +5,5 @@ gem "github-pages", group: :jekyll_plugins
 # Run Jekyll with `bundle exec jekyll serve --livereload`
 
 
+
+gem "webrick", "~> 1.8"
