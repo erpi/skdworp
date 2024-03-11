@@ -99,12 +99,12 @@
     "ronde": "ronde 9",
     "datum": "10-03-2024",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "551 HCC Jurbise 1", "uit": "525 Anderlues 1"},
-      {"tr": "", "ur": "", "thuis": "601 CRE Li\u00e8ge EL 6", "uit": "909 Philippeville 1"},
-      {"tr": "", "ur": "", "thuis": "501 CRE Charleroi 2", "uit": "228 Dworp 2"},
-      {"tr": "", "ur": "", "thuis": "952 Wavre 2", "uit": "230 Leuven Centraal 3"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "551 HCC Jurbise 1", "uit": "525 Anderlues 1"},
+      {"tr": "2", "ur": "2", "thuis": "601 CRE Li\u00e8ge EL 6", "uit": "909 Philippeville 1"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "501 CRE Charleroi 2", "uit": "228 Dworp 2"},
+      {"tr": "3", "ur": "1", "thuis": "952 Wavre 2", "uit": "230 Leuven Centraal 3"},
       {"tr": "", "ur": "", "thuis": "607 Rochade Eupen 6", "uit": "901 Namur 3"},
-      {"tr": "", "ur": "", "thuis": "547 Binche 1", "uit": "902 CE Sambrevillois 1"}
+      {"tr": "1", "ur": "3", "thuis": "547 Binche 1", "uit": "902 CE Sambrevillois 1"}
     ]
   },
   {
