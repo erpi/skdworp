@@ -1,6 +1,6 @@
 [
   {
-    "ronde": "ronde ",
+    "ronde": "ronde 1",
     "datum": "19-01-2024",
     "partijen": [
       {
@@ -64,26 +64,26 @@
     "datum": "22-03-2024",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Peter De Bosscher",
         "zwart": "Diederik Lot"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Serge Vanderwaeren",
         "zwart": "Eddy Pletinckx"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Geert Verrijken",
         "zwart": "Pascal Dekoster"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Kjell Spaens",
         "zwart": "Yentl Wilmots"
       }
