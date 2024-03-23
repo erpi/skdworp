@@ -1,6 +1,6 @@
 [
   {
-    "ronde": "ronde ",
+    "ronde": "ronde 1 ",
     "datum": "19-01-2024",
     "partijen": [
       {
@@ -64,20 +64,20 @@
     "datum": "22-03-2024",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Eric Cornelis",
         "zwart": "Jannes Vandevelde"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Mathias Vanrossum",
         "zwart": "Mats Laureys"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Jules Geraerts",
         "zwart": "Sander Lerinckx"
       },
