@@ -111,12 +111,12 @@
     "ronde": "ronde 10",
     "datum": "24-03-2024",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "418 Geraardsbergen 1", "uit": "511 Echiquier du Centre 1"},
-      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diog\u00e8ne 1", "uit": "401 K Gentse SRL 5"},
-      {"tr": "", "ur": "", "thuis": "244 Brussels CC 1", "uit": "201 CRE Bruxelles 1"},
-      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "278 Pantin 2"},
-      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "548 Ca\u00efssa Europe Mons 2"},
-      {"tr": "", "ur": "", "thuis": "417 Aalst 1", "uit": "226 Europchess 2"}
+      {"tr": "1.5", "ur": "4.5", "thuis": "418 Geraardsbergen 1", "uit": "511 Echiquier du Centre 1"},
+      {"tr": "5", "ur": "1", "thuis": "207 Les Deux Fous du Diog\u00e8ne 1", "uit": "401 K Gentse SRL 5"},
+      {"tr": "1.5", "ur": "4.5", "thuis": "244 Brussels CC 1", "uit": "201 CRE Bruxelles 1"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "228 Dworp 1", "uit": "278 Pantin 2"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "239 Boitsfort 2", "uit": "548 Ca\u00efssa Europe Mons 2"},
+      {"tr": "6", "ur": "0", "thuis": "417 Aalst 1", "uit": "226 Europchess 2"}
     ]
   },
   {
