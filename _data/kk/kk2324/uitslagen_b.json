@@ -4,8 +4,8 @@
     "datum": "19-01-2024",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Mats Laureys",
         "zwart": "Jannes Vandevelde"
       },
@@ -112,8 +112,8 @@
         "zwart": "Jules Geraerts"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Eric Cornelis",
         "zwart": "Mathias Vanrossum"
       }
