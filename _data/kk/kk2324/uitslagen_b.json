@@ -124,14 +124,14 @@
     "datum": "19-04-2024",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Mathias Vanrossum",
         "zwart": "Jannes Vandevelde"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Jules Geraerts",
         "zwart": "Eric Cornelis"
       },
@@ -142,8 +142,8 @@
         "zwart": "Mats Laureys"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Nathan Lot",
         "zwart": "Sander Lerinckx"
       }
