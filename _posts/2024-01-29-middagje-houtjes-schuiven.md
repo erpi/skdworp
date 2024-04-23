@@ -64,6 +64,8 @@ Pascal met wit op het eerste bord had wel héél wat meer tegenstand.  Hij bego
 
 Eric met zwart op 2 beleeft een vormcrisis sinds de partij in Leuven waar hij een volle toren liet instaan in een totaal gewonnen stelling. In de partij van vandaag meende hij een stuk te kunnen veroveren tegen 2 pionnen. Het klopte echter wéér niet. Integendeel: er ging een pion verloren, bij een passieve stelling en rokadeverlies er bovenop. Toch kon hij op zet 25 en 27 opnieuw een nog maar iets slechtere stelling bereiken -na aarzelend spel van wit. Helaas profiteerde hij daar niet van en daarna was het onherroepelijk verloren. DZD mildert tot 3-1.
 
+(NVDR: door een fout in de opstelling, Pascal is vaste speler van Dworp 2, werd de winst op het eerste bord gewijzigd in een verlies met forfait. De officiële einduitslag van de derby werd aldus 2-2)
+
 ## Naspel
 
 Dworp 1 staat nu met vier matchpunten op een gedeelde achtste tot elfde plaats. Dat is niet goed hé mannen! In deze reeks staan de nummers vijf tot en met elf wel op een zakdoek. Nummer vijf (Europchess 2) heeft zes matchpunten, nummer elf Caïssa Europe heeft er vier. Twee keer achter elkaar een match winnen volstaat dus om een reuzensprong in het klassement te maken en de degradatiezorgen achter ons te laten. Met dat winnen moeten we dan volgende zondag wel beginnen. Het is in Aalst tegen de verrassend goed presterende Ajuinen. Halen we het dan springen we haasje over, Aalst heeft nu vijf matchpunten.
