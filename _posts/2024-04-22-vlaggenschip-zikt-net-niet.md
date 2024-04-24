@@ -17,7 +17,7 @@ stelling_uitleg:
 stelling_oplossing:
 description:
 image:
-  path: assets/images/2324/ni/performance.png
+  path: assets/images/2324/ni/performance_fb.png
 draft: false
 ---
 **De kans dat Dworp 1 alsnog kopje onder zou gaan, was voor het ingaan van de laatste ronde relatief klein. Degraderen kon theoretisch nog maar het moest dan wel maximaal tegenzitten. We hadden het ook zelf in de hand. 1,5 à 2 punten halen tegen CREB volstond. De Brusselaars waren trouwens al zeker van de eerste plaats. Maar een wandelingetje in het park was het niet. Want in weerwil van hun clubnaam, stelde CREB geen pannenkoeken op. En dus zakten we met gemengde gevoelens en met Bernard op bord 6 af naar de hoofdstad.**<!--more-->
