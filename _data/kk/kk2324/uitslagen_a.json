@@ -112,8 +112,8 @@
         "zwart": "Geert Verrijken"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Peter De Bosscher",
         "zwart": "Serge Vanderwaeren"
       }
@@ -154,8 +154,8 @@
     "datum": "03-05-2024",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Diederik Lot",
         "zwart": "Pascal Dekoster"
       },
