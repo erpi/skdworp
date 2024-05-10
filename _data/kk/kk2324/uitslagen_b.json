@@ -190,8 +190,8 @@
         "zwart": "Jannes Vandevelde"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Johan Smeyers",
         "zwart": "Mathias Vanrossum"
       },
@@ -202,8 +202,8 @@
         "zwart": "Eric Cornelis"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Sander Lerinckx",
         "zwart": "Mats Laureys"
       }
