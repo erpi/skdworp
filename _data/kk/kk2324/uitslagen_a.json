@@ -94,8 +94,8 @@
     "datum": "05-04-2024",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Diederik Lot",
         "zwart": "Yentl Wilmots"
       },
@@ -130,8 +130,8 @@
         "zwart": "Diederik Lot"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Geert Verrijken",
         "zwart": "Peter De Bosscher"
       },
@@ -202,8 +202,8 @@
         "zwart": "Peter De Bosscher"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Pascal Dekoster",
         "zwart": "Eddy Pletinckx"
       }
