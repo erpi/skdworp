@@ -56,5 +56,9 @@ In de categorie minder dan 2200 Elo won Victor Julian (KGSRL) met 10/13, bij de 
 
 Hoop en wanhoop liggen vaak dicht bij elkaar.
 
+_[de [volledige eindstand][1] van het tornooi kan je [hier][1] downloaden]_
+
 [foto 1]: {{ "/assets/images/2425/mm/uitreiking.jpg" | absolute_url }}
 [foto 2]: {{ "/assets/images/2425/mm/eric.jpg" | absolute_url }}
+
+[1]: {{ "/assets/pdf/Belgian%20Blitz%202024%20-%20Memorial%20Debast_report.pdf" | absolute_url }}
