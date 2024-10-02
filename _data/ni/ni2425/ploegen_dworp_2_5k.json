@@ -3,12 +3,12 @@
     "ronde": "ronde 1",
     "datum": "29-09-2024",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 6", "uit": "228 Dworp 2"},
-      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 2", "uit": "514 Monti' CC 3"},
-      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 5", "uit": "901 Namur 5"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "548 Caïssa Europe Mons 6", "uit": "228 Dworp 2"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "902 CE Sambrevillois 2", "uit": "514 Monti' CC 3"},
+      {"tr": "4", "ur": "0", "thuis": "548 Caïssa Europe Mons 5", "uit": "901 Namur 5"},
       {"tr": "", "ur": "", "thuis": "261 Opwijk 5", "uit": "Bye"},
-      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 2", "uit": "521 Tournai 3"},
-      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "953 Nivelles 1"}
+      {"tr": "3", "ur": "1", "thuis": "961 Braine Echecs 2", "uit": "521 Tournai 3"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "549 Saint-Ghislain 2", "uit": "953 Nivelles 1"}
     ]
   },
   {
