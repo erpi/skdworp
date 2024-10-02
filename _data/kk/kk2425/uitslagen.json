@@ -65,56 +65,56 @@
       {
         "wr": "",
         "zr": "",
-        "wit": "Peter De Bosscher",
+        "wit": "Jules Geraerts",
         "zwart": "Bye"
       },
       {
         "wr": "",
         "zr": "",
-        "wit": "Eddy Pletinckx",
-        "zwart": "Alex Vonck"
+        "wit": "Nathan Lot",
+        "zwart": "Jannes Vandevelde"
       },
       {
         "wr": "",
         "zr": "",
-        "wit": "Johan Smeyers",
-        "zwart": "Pascal Dekoster"
+        "wit": "Jelle Geraerts",
+        "zwart": "Sander Lerinckx"
       },
       {
         "wr": "",
         "zr": "",
-        "wit": "Eric Cornelis",
-        "zwart": "Yentl Wilmots"
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Vanrossum Mathias"
       },
       {
         "wr": "",
         "zr": "",
-        "wit": "Mats Laureys",
-        "zwart": "Geert Verrijken"
+        "wit": "Diederik Lot",
+        "zwart": "Mats Laureys"
       },
       {
         "wr": "",
         "zr": "",
-        "wit": "Vanrossum Mathias",
-        "zwart": "Diederik Lot"
+        "wit": "Geert Verrijken",
+        "zwart": "Eric Cornelis"
       },
       {
         "wr": "",
         "zr": "",
-        "wit": "Sander Lerinckx",
-        "zwart": "Serge Vanderwaeren"
+        "wit": "Yentl Wilmots",
+        "zwart": "Johan Smeyers"
       }
       {
         "wr": "",
         "zr": "",
-        "wit": "Jannes Vandevelde",
-        "zwart": "Jelle Geraerts"
+        "wit": "Pascal Dekoster",
+        "zwart": "Eddy Pletinckx"
       }
       {
         "wr": "",
         "zr": "",
-        "wit": "Jules Geraerts",
-        "zwart": "Nathan Lot"
+        "wit": "Alex Vonck",
+        "zwart": "Peter De Bosscher"
       }
     ]
   },
@@ -124,115 +124,115 @@
       {
         "wr": "",
         "zr": "",
-        "wit": "Peter De Bosscher",
+        "wit": "Alex Vonck",
         "zwart": "Bye"
       },
       {
         "wr": "",
         "zr": "",
-        "wit": "Eddy Pletinckx",
-        "zwart": "Alex Vonck"
-      },
-      {
-        "wr": "",
-        "zr": "",
-        "wit": "Johan Smeyers",
+        "wit": "Peter De Bosscher",
         "zwart": "Pascal Dekoster"
       },
       {
         "wr": "",
         "zr": "",
-        "wit": "Eric Cornelis",
+        "wit": "Eddy Pletinckx",
         "zwart": "Yentl Wilmots"
       },
       {
         "wr": "",
         "zr": "",
-        "wit": "Mats Laureys",
+        "wit": "Johan Smeyers",
         "zwart": "Geert Verrijken"
       },
       {
         "wr": "",
         "zr": "",
-        "wit": "Vanrossum Mathias",
+        "wit": "Eric Cornelis",
         "zwart": "Diederik Lot"
       },
       {
         "wr": "",
         "zr": "",
-        "wit": "Sander Lerinckx",
+        "wit": "Mats Laureys",
         "zwart": "Serge Vanderwaeren"
-      }
+      },
       {
         "wr": "",
         "zr": "",
-        "wit": "Jannes Vandevelde",
+        "wit": "Vanrossum Mathias",
         "zwart": "Jelle Geraerts"
       }
       {
         "wr": "",
         "zr": "",
-        "wit": "Jules Geraerts",
+        "wit": "Sander Lerinckx",
         "zwart": "Nathan Lot"
+      }
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jannes Vandevelde",
+        "zwart": "Jules Geraerts"
       }
     ]
   },
 {"ronde": "ronde 4",
-    "datum": "11-10-2024",
+    "datum": "06-12-2024",
     "partijen": [
       {
         "wr": "",
         "zr": "",
-        "wit": "Peter De Bosscher",
+        "wit": "Jannes Vandevelde",
         "zwart": "Bye"
       },
       {
         "wr": "",
         "zr": "",
-        "wit": "Eddy Pletinckx",
-        "zwart": "Alex Vonck"
-      },
-      {
-        "wr": "",
-        "zr": "",
-        "wit": "Johan Smeyers",
-        "zwart": "Pascal Dekoster"
-      },
-      {
-        "wr": "",
-        "zr": "",
-        "wit": "Eric Cornelis",
-        "zwart": "Yentl Wilmots"
-      },
-      {
-        "wr": "",
-        "zr": "",
-        "wit": "Mats Laureys",
-        "zwart": "Geert Verrijken"
-      },
-      {
-        "wr": "",
-        "zr": "",
-        "wit": "Vanrossum Mathias",
-        "zwart": "Diederik Lot"
-      },
-      {
-        "wr": "",
-        "zr": "",
-        "wit": "Sander Lerinckx",
-        "zwart": "Serge Vanderwaeren"
-      }
-      {
-        "wr": "",
-        "zr": "",
-        "wit": "Jannes Vandevelde",
-        "zwart": "Jelle Geraerts"
-      }
-      {
-        "wr": "",
-        "zr": "",
         "wit": "Jules Geraerts",
-        "zwart": "Nathan Lot"
+        "zwart": "Sander Lerinckx"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Nathan Lot",
+        "zwart": "Vanrossum Mathias"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Jelle Geraerts",
+        "zwart": "Mats Laureys"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Serge Vanderwaeren",
+        "zwart": "Eric Cornelis"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Diederik Lot",
+        "zwart": "Johan Smeyers"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geert Verrijken",
+        "zwart": "Eddy Pletinckx"
+      }
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Yentl Wilmots",
+        "zwart": "Peter De Bosscher"
+      }
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pascal Dekoster",
+        "zwart": "Alex Vonck"
       }
     ]
   },
