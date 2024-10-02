@@ -1,0 +1,134 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "29-09-2024",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "621 TAL 2", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "278 Ixelles CC 2"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 6", "uit": "209 The Belgian CC Anderlecht 2"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 2", "uit": "135 Geel 2"},
+      {"tr": "", "ur": "", "thuis": "601 CRE Liège EL 2", "uit": "114 K Mechelse SK 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "06-10-2024",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "114 K Mechelse SK 2"},
+      {"tr": "", "ur": "", "thuis": "135 Geel 2", "uit": "601 CRE Liège EL 2"},
+      {"tr": "", "ur": "", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "244 Brussels CC 2"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "401 K Gentse SRL 6"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 2", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "621 TAL 2", "uit": "207 Les Deux Fous du Diogène 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "03-11-2024",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "621 TAL 2"},
+      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 6", "uit": "278 Ixelles CC 2"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 2", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "601 CRE Liège EL 2", "uit": "209 The Belgian CC Anderlecht 2"},
+      {"tr": "", "ur": "", "thuis": "114 K Mechelse SK 2", "uit": "135 Geel 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "17-11-2024",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "135 Geel 2"},
+      {"tr": "", "ur": "", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "114 K Mechelse SK 2"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "601 CRE Liège EL 2"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 2", "uit": "244 Brussels CC 2"},
+      {"tr": "", "ur": "", "thuis": "621 TAL 2", "uit": "401 K Gentse SRL 6"},
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "226 Europchess 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "01-12-2024",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 6", "uit": "207 Les Deux Fous du Diogène 1"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 2", "uit": "621 TAL 2"},
+      {"tr": "", "ur": "", "thuis": "601 CRE Liège EL 2", "uit": "278 Ixelles CC 2"},
+      {"tr": "", "ur": "", "thuis": "114 K Mechelse SK 2", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "135 Geel 2", "uit": "209 The Belgian CC Anderlecht 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "26-01-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "209 The Belgian CC Anderlecht 2"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "135 Geel 2"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 2", "uit": "114 K Mechelse SK 2"},
+      {"tr": "", "ur": "", "thuis": "621 TAL 2", "uit": "601 CRE Liège EL 2"},
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "244 Brussels CC 2"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "401 K Gentse SRL 6"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "02-02-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 6", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 2", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "601 CRE Liège EL 2", "uit": "207 Les Deux Fous du Diogène 1"},
+      {"tr": "", "ur": "", "thuis": "114 K Mechelse SK 2", "uit": "621 TAL 2"},
+      {"tr": "", "ur": "", "thuis": "135 Geel 2", "uit": "278 Ixelles CC 2"},
+      {"tr": "", "ur": "", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "239 Boitsfort 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "16-02-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 2", "uit": "209 The Belgian CC Anderlecht 2"},
+      {"tr": "", "ur": "", "thuis": "621 TAL 2", "uit": "135 Geel 2"},
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "114 K Mechelse SK 2"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "601 CRE Liège EL 2"},
+      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 6", "uit": "244 Brussels CC 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "16-03-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 2", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "601 CRE Liège EL 2", "uit": "401 K Gentse SRL 6"},
+      {"tr": "", "ur": "", "thuis": "114 K Mechelse SK 2", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "135 Geel 2", "uit": "207 Les Deux Fous du Diogène 1"},
+      {"tr": "", "ur": "", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "621 TAL 2"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "278 Ixelles CC 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "30-03-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "278 Ixelles CC 2"},
+      {"tr": "", "ur": "", "thuis": "621 TAL 2", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 1", "uit": "209 The Belgian CC Anderlecht 2"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "135 Geel 2"},
+      {"tr": "", "ur": "", "thuis": "401 K Gentse SRL 6", "uit": "114 K Mechelse SK 2"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 2", "uit": "601 CRE Liège EL 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "27-04-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "601 CRE Liège EL 2", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "114 K Mechelse SK 2", "uit": "244 Brussels CC 2"},
+      {"tr": "", "ur": "", "thuis": "135 Geel 2", "uit": "401 K Gentse SRL 6"},
+      {"tr": "", "ur": "", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "207 Les Deux Fous du Diogène 1"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 2", "uit": "621 TAL 2"}
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "29-09-2024",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 6", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 2", "uit": "514 Monti' CC 3"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 5", "uit": "901 Namur 5"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 5", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 2", "uit": "521 Tournai 3"},
+      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "953 Nivelles 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "06-10-2024",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "953 Nivelles 1"},
+      {"tr": "", "ur": "", "thuis": "521 Tournai 3", "uit": "549 Saint-Ghislain 2"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "961 Braine Echecs 2"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 5", "uit": "261 Opwijk 5"},
+      {"tr": "", "ur": "", "thuis": "514 Monti' CC 3", "uit": "548 Caïssa Europe Mons 5"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 6", "uit": "902 CE Sambrevillois 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "03-11-2024",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 2", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 5", "uit": "548 Caïssa Europe Mons 6"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 5", "uit": "514 Monti' CC 3"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 2", "uit": "901 Namur 5"},
+      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "953 Nivelles 1", "uit": "521 Tournai 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "17-11-2024",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "521 Tournai 3"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "953 Nivelles 1"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 5", "uit": "549 Saint-Ghislain 2"},
+      {"tr": "", "ur": "", "thuis": "514 Monti' CC 3", "uit": "961 Braine Echecs 2"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 6", "uit": "261 Opwijk 5"},
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 2", "uit": "548 Caïssa Europe Mons 5"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "01-12-2024",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 5", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 5", "uit": "902 CE Sambrevillois 2"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 2", "uit": "548 Caïssa Europe Mons 6"},
+      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "514 Monti' CC 3"},
+      {"tr": "", "ur": "", "thuis": "953 Nivelles 1", "uit": "901 Namur 5"},
+      {"tr": "", "ur": "", "thuis": "521 Tournai 3", "uit": "Bye"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "26-01-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 5", "uit": "521 Tournai 3"},
+      {"tr": "", "ur": "", "thuis": "514 Monti' CC 3", "uit": "953 Nivelles 1"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 6", "uit": "549 Saint-Ghislain 2"},
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 2", "uit": "961 Braine Echecs 2"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 5", "uit": "261 Opwijk 5"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "02-02-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 5", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 2", "uit": "548 Caïssa Europe Mons 5"},
+      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "902 CE Sambrevillois 2"},
+      {"tr": "", "ur": "", "thuis": "953 Nivelles 1", "uit": "548 Caïssa Europe Mons 6"},
+      {"tr": "", "ur": "", "thuis": "521 Tournai 3", "uit": "514 Monti' CC 3"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "901 Namur 5"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "16-02-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "901 Namur 5"},
+      {"tr": "", "ur": "", "thuis": "514 Monti' CC 3", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 6", "uit": "521 Tournai 3"},
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 2", "uit": "953 Nivelles 1"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 5", "uit": "549 Saint-Ghislain 2"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 5", "uit": "961 Braine Echecs 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "16-03-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 2", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "261 Opwijk 5"},
+      {"tr": "", "ur": "", "thuis": "953 Nivelles 1", "uit": "548 Caïssa Europe Mons 5"},
+      {"tr": "", "ur": "", "thuis": "521 Tournai 3", "uit": "902 CE Sambrevillois 2"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "548 Caïssa Europe Mons 6"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 5", "uit": "514 Monti' CC 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "30-03-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "514 Monti' CC 3"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 6", "uit": "901 Namur 5"},
+      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 2", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 5", "uit": "521 Tournai 3"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 5", "uit": "953 Nivelles 1"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 2", "uit": "549 Saint-Ghislain 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "27-04-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "953 Nivelles 1", "uit": "961 Braine Echecs 2"},
+      {"tr": "", "ur": "", "thuis": "521 Tournai 3", "uit": "261 Opwijk 5"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "548 Caïssa Europe Mons 5"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 5", "uit": "902 CE Sambrevillois 2"},
+      {"tr": "", "ur": "", "thuis": "514 Monti' CC 3", "uit": "548 Caïssa Europe Mons 6"}
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "29-09-2024",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "417 Aalst 3", "uit": "228 Dworp 3"},
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 5", "uit": "278 Ixelles CC 8"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "239 Boitsfort 4"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 6", "uit": "209 The Belgian CC Anderlecht 3"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "231 Dolle Toren Leuven 5"},
+      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 3", "uit": "230 Leuven Centraal 13"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "06-10-2024",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "230 Leuven Centraal 13"},
+      {"tr": "", "ur": "", "thuis": "231 Dolle Toren Leuven 5", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "", "ur": "", "thuis": "209 The Belgian CC Anderlecht 3", "uit": "961 Braine Echecs 3"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 4", "uit": "261 Opwijk 6"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 8", "uit": "226 Europchess 4"},
+      {"tr": "", "ur": "", "thuis": "417 Aalst 3", "uit": "207 Les Deux Fous du Diogène 5"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "03-11-2024",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 5", "uit": "228 Dworp 3"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "417 Aalst 3"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 6", "uit": "278 Ixelles CC 8"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "239 Boitsfort 4"},
+      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 3", "uit": "209 The Belgian CC Anderlecht 3"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 13", "uit": "231 Dolle Toren Leuven 5"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "17-11-2024",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "231 Dolle Toren Leuven 5"},
+      {"tr": "", "ur": "", "thuis": "209 The Belgian CC Anderlecht 3", "uit": "230 Leuven Centraal 13"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 4", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 8", "uit": "961 Braine Echecs 3"},
+      {"tr": "", "ur": "", "thuis": "417 Aalst 3", "uit": "261 Opwijk 6"},
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 5", "uit": "226 Europchess 4"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "01-12-2024",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "228 Dworp 3"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 6", "uit": "207 Les Deux Fous du Diogène 5"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "417 Aalst 3"},
+      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 3", "uit": "278 Ixelles CC 8"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 13", "uit": "239 Boitsfort 4"},
+      {"tr": "", "ur": "", "thuis": "231 Dolle Toren Leuven 5", "uit": "209 The Belgian CC Anderlecht 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "26-01-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "209 The Belgian CC Anderlecht 3"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 4", "uit": "231 Dolle Toren Leuven 5"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 8", "uit": "230 Leuven Centraal 13"},
+      {"tr": "", "ur": "", "thuis": "417 Aalst 3", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 5", "uit": "961 Braine Echecs 3"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "261 Opwijk 6"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "02-02-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 6", "uit": "228 Dworp 3"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "226 Europchess 4"},
+      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 3", "uit": "207 Les Deux Fous du Diogène 5"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 13", "uit": "417 Aalst 3"},
+      {"tr": "", "ur": "", "thuis": "231 Dolle Toren Leuven 5", "uit": "278 Ixelles CC 8"},
+      {"tr": "", "ur": "", "thuis": "209 The Belgian CC Anderlecht 3", "uit": "239 Boitsfort 4"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "16-02-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "239 Boitsfort 4"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 8", "uit": "209 The Belgian CC Anderlecht 3"},
+      {"tr": "", "ur": "", "thuis": "417 Aalst 3", "uit": "231 Dolle Toren Leuven 5"},
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 5", "uit": "230 Leuven Centraal 13"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "201 CRE Bruxelles 3"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 6", "uit": "961 Braine Echecs 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "16-03-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "228 Dworp 3"},
+      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 3", "uit": "261 Opwijk 6"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 13", "uit": "226 Europchess 4"},
+      {"tr": "", "ur": "", "thuis": "231 Dolle Toren Leuven 5", "uit": "207 Les Deux Fous du Diogène 5"},
+      {"tr": "", "ur": "", "thuis": "209 The Belgian CC Anderlecht 3", "uit": "417 Aalst 3"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 4", "uit": "278 Ixelles CC 8"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "30-03-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "278 Ixelles CC 8"},
+      {"tr": "", "ur": "", "thuis": "417 Aalst 3", "uit": "239 Boitsfort 4"},
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 5", "uit": "209 The Belgian CC Anderlecht 3"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "231 Dolle Toren Leuven 5"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 6", "uit": "230 Leuven Centraal 13"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "201 CRE Bruxelles 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "27-04-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "201 CRE Bruxelles 3", "uit": "228 Dworp 3"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 13", "uit": "961 Braine Echecs 3"},
+      {"tr": "", "ur": "", "thuis": "231 Dolle Toren Leuven 5", "uit": "261 Opwijk 6"},
+      {"tr": "", "ur": "", "thuis": "209 The Belgian CC Anderlecht 3", "uit": "226 Europchess 4"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 4", "uit": "207 Les Deux Fous du Diogène 5"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 8", "uit": "417 Aalst 3"}
+    ]
+  }
+]
