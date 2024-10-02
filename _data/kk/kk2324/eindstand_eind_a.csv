@@ -1,0 +1,9 @@
+nummer,naam,1,2,3,4,5,6,7,8,#,totaal
+1,Serge Vanderwaeren,XX,1,0.5,1,0.5,0.5,1,1,7,5.5
+2,Diederik Lot,0,XX,0,1,1,1,1,1,7,5
+,Geert Verrijken,0.5,1,XX,0.5,0,1,1,1,7,5
+4,Yentl Wilmots,0,0,0.5,XX,0.5,1,1,1,7,4
+5,Pascal Dekoster,0.5,0,1,0.5,XX,0,0.5,1,7,3.5
+6,Eddy Pletinckx,0.5,0,0,0,1,XX,0,1,7,2.5
+,Peter De Bosscher,0,0,0,0,0.5,1,XX,1,7,2.5
+8,Kjell Spaens,0,0,0,0,0,0,0,XX,7,0
