@@ -4,6 +4,7 @@ module.exports = function(grunt) {
   var navchessimg = navchess.concat(['.img-responsive', '.center-block'])
   var navblitz = navbar.concat([".doorstreept", ".grijs"])
 
+  const sass = require('sass');
   require('load-grunt-tasks')(grunt);
   // Project configuration.
   grunt.initConfig({
@@ -76,6 +77,8 @@ module.exports = function(grunt) {
     // bouw css-bestanden met behulp van libsass
     sass: {
       options: {
+        implementation: sass,
+        quiet: true,
         includePaths: ['<%= sassdir %>'],
       },
       build: {
@@ -97,7 +100,7 @@ module.exports = function(grunt) {
       },
       buildsite: {
         options: {
-          stylesheets: ['../<%= builddir %>site.css'],
+          stylesheets: ['<%= builddir %>site.css'],
         },
         files: {
           '<%= builddir %>site.un.css': ['<%= allpages %>', '!<%= homepage %>', '!<%= postpages %>'],
@@ -133,7 +136,7 @@ module.exports = function(grunt) {
           nonull: true,
           expand: true,
           cwd: '<%= builddir %>',
-          src: ['*.un.css'],
+          src: ['*.css'],
           dest: '<%= builddir %>',
           ext: '.min.css',
         }]
@@ -157,7 +160,8 @@ module.exports = function(grunt) {
 
   // Task(s).
   grunt.registerTask('build-uncss', ['uncss:buildsite', 'uncss:buildhomepage', 'uncss:buildpost']);
-  grunt.registerTask('build-css', ['clean:build', 'copy:build1', 'sass:build', 'build-uncss', 'cssmin:build', 'copy:build2']);
+  grunt.registerTask('build-css', ['clean:build', 'copy:build1', 'sass:build', 'cssmin:build', 'copy:build2']);
+//  grunt.registerTask('build-css', ['clean:build', 'copy:build1', 'sass:build', 'build-uncss', 'cssmin:build', 'copy:build2']);
   grunt.registerTask('lint', ['htmllint:lint', 'bootlint:lint', 'jshint:lint']);
   grunt.registerTask('build', ['uglify:build', 'build-css']);
   grunt.registerTask('default', ['uglify', 'htmllint', 'bootlint', 'jshint']);
