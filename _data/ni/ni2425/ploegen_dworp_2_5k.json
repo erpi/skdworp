@@ -15,12 +15,12 @@
     "ronde": "ronde 2",
     "datum": "06-10-2024",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "953 Nivelles 1"},
-      {"tr": "", "ur": "", "thuis": "521 Tournai 3", "uit": "549 Saint-Ghislain 2"},
+      {"tr": "4", "ur": "0", "thuis": "228 Dworp 2", "uit": "953 Nivelles 1"},
+      {"tr": "2", "ur": "2", "thuis": "521 Tournai 3", "uit": "549 Saint-Ghislain 2"},
       {"tr": "", "ur": "", "thuis": "Bye", "uit": "961 Braine Echecs 2"},
-      {"tr": "", "ur": "", "thuis": "901 Namur 5", "uit": "261 Opwijk 5"},
-      {"tr": "", "ur": "", "thuis": "514 Monti' CC 3", "uit": "548 Caïssa Europe Mons 5"},
-      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 6", "uit": "902 CE Sambrevillois 2"}
+      {"tr": "1", "ur": "3", "thuis": "901 Namur 5", "uit": "261 Opwijk 5"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "514 Monti' CC 3", "uit": "548 Caïssa Europe Mons 5"},
+      {"tr": "1", "ur": "3", "thuis": "548 Caïssa Europe Mons 6", "uit": "902 CE Sambrevillois 2"}
     ]
   },
   {
