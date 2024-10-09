@@ -37,9 +37,9 @@ feed: true
     <p class="lead"><a href="{{ post.url | relative_url }}">lees meer &raquo;</a></p>
     <footer>
       <p class="lead">
-        <span class="fa fa-user" aria-hidden="true"></span>
-	{{ medewerkers }}&nbsp; <span class="fa fa-tag" aria-hidden="true"></span>
-        {{ tag }}&nbsp; <span class="fa fa-clock-o" aria-hidden="true"></span>
+        <span class="foaw foaw-user" aria-hidden="true"></span>
+	{{ medewerkers }}&nbsp; <span class="foaw foaw-tag" aria-hidden="true"></span>
+        {{ tag }}&nbsp; <span class="foaw foaw-clock-o" aria-hidden="true"></span>
         <time datetime="{{ post.date | date_to_xmlschema }}">{% include datum.html date=post.date %}</time></p>
     </footer>
     </div>
