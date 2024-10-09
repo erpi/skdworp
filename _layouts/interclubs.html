@@ -123,7 +123,7 @@ Tenslotte plaatsen we de uitslagen onder de navigatie-pills.
   {% capture nu %}{{ 'now' | date: '%s' }}{% endcapture %}
   {% assign nu = nu | to_integer %}
   {% if nu < eindtijd %}
-  <p><a href="https://interclub.web.app" target="_blank">uitslagen nic op de site van Martijn Maddens</a></p>
+  <p><a href="https://blog.frbe-kbsb-ksb.be/interclub-public/" target="_blank">uitslagen nic op de site van de KBSB</a></p>
   {% endif %}
   {% assign data = bestand[1] %}
   {% assign reeks = bestand[0] | slice: -2,2 %}
