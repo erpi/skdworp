@@ -6,6 +6,9 @@ layout: compress
   <head>
     {% include head.html %}
     <link href="{{"/assets/css/post.min.css" | relative_url }}" rel="stylesheet">
+    {% if page.pgn_viewer %}
+      <script src="{{"/assets/js/pgn-viewer/dist.js" | relative_url }}" type="text/javascript"></script>
+    {% endif %}
   </head>
   <body>
     <a href="#content" class="sr-only sr-only-focusable">￼doorgaan naar hoofdinhoud</a>
