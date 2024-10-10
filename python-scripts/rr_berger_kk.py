@@ -1,51 +1,48 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
+
+# Script creates a nice json-file with round robin pairings (using Berger tables)
+
 
 import json
 import re
 from collections import OrderedDict
 
+filename = "uitslagen.json"
+
+# an even number of players is required
+# add "Bye" player in last place when uneven
 playernames = [
-    "Stijn Bertrand",
-    "Yves Baert",
-    "Diederik Lot",
-    "Geert Verrijken",
-    "Serge Vanderwaeren",
-    "Geert Maeckelbergh",
-    "Niels Palmans",
-    "Eddy Pletinckx",
-    "Bernard Malfliet",
-    "Filip Van de Velde",
-    "Peter De Bosscher",
-    "Eric Cornelis",
-    "Walter De Reymaeker",
+    "Eddy",
+    "Serge",
+    "Eric",
+    "Bernard",
+    "Peter",
+    "Jules",
+    "Kjell",
     "Bye"
     ]
 
+# a date for every round
+# when x players, we need x minus one dates
 dates = [
-    "06-10-2017",
-    "20-10-2017",
-    "17-11-2017",
-    "01-12-2017",
-    "15-12-2017",
-    "19-01-2018",
-    "02-02-2018",
-    "02-03-2018",
-    "16-03-2018",
-    "20-04-2018",
-    "04-05-2018",
-    "01-06-2018",
-    "15-06-2018"
+    "06-10-2023",
+    "20-10-2023",
+    "10-11-2023",
+    "17-11-2023",
+    "01-12-2023",
+    "15-12-2023",
+    "05-01-2024"
     ]
 
 nr_players = len(playernames)
-half = nr_players / 2
-players = range(1, nr_players + 1)
+half = nr_players // 2
+players = list(range(1, nr_players + 1))
 nr_rounds = nr_players - 1
 table = []
 
 #make Berger round robin table
 #first round
-round = zip(players[:half], players[half:][::-1])
+round = list(zip(players[:half], players[half:][::-1]))
 table.append(round)
 #next rounds
 for r in range(nr_rounds - 1):
@@ -91,5 +88,5 @@ p = re.compile(r'''
 json_string = p.sub(r'\1\2 \3 \4 \5\6', json_string)
 
 # write json string to file
-with open('kk1718.json', 'w') as f:
+with open(filename, 'w') as f:
     f.write(json_string)
