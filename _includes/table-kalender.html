@@ -3,6 +3,7 @@
 {% capture op_link %}{{ "/open/" | relative_url }}{% endcapture %}
 {% capture ni_link %}{{ "/interclubs/" | relative_url }}{% endcapture %}
 {% capture mm_link %}{{ "/memorial/" | relative_url }}{% endcapture %}
+{% capture bk_link %}{{ "/beker/" | relative_url }}{% endcapture %}
 
 <div class="table-responsive">
   <table class="table">
@@ -21,6 +22,8 @@
         <td><a href={{ ss_link }}>{{ item.tornooi }}</a></td>
         {% elsif item.tornooi contains 'open' %}
         <td><a href={{ op_link }}>{{ item.tornooi }}</a></td>
+        {% elsif item.tornooi contains 'beker' %}
+        <td><a href={{ bk_link }}>{{ item.tornooi }}</a></td>
         {% else %}
         <td>{{ item.tornooi }}</td>
         {% endif %}
