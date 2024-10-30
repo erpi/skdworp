@@ -90,6 +90,9 @@ collections:
   snelschaak:
     output: true
     permalink: /archief/:path/
+  beker:
+    output: true
+    permalink: /archief/:path/
 defaults:
   - scope:
       path: ""
@@ -148,6 +151,13 @@ defaults:
       type: snelschaak
     values:
       layout: snelschaak
+      noindex: true
+      sitemap: false
+  - scope:
+      path: ""
+      type: beker
+    values:
+      layout: beker
       noindex: true
       sitemap: false
   - scope:

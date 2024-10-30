@@ -1,0 +1,50 @@
+---
+layout: default
+---
+{% assign alletabs = "ronde_12,ronde_11,ronde_10,ronde_9,ronde_8,ronde_7,ronde_6,ronde_5,ronde_4,ronde_3,ronde_2,ronde_1" %}
+{% assign alletabs = alletabs | split: "," %}
+
+{% capture submap %}bk{{ page.beginjaar | slice: 2, 2 }}{{ page.beginjaar | plus: 1 | slice: 2, 2 }}{% endcapture %}
+{% assign bestanden = site.data.beker[submap] %}
+
+<ul class="nav nav-pills">
+{% assign tabs = "" | split: "," %}
+{% assign eerste = true %}
+{% for tab in alletabs %}
+  {% if bestanden[tab] %}
+    {% assign tabs = tabs | push: tab %}
+    <li{% if eerste %} class="active"{% endif %}>
+      <a data-toggle="pill" href="#{{ tab }}">{{ tab | replace: "_"," " }}</a>
+    </li>
+    {% assign eerste = false %}
+  {% endif %}
+{% endfor %}
+
+{% if content.size > 0 %}
+  {% comment %}
+  een extra tabblad "reglement" op het einde toevoegen
+  {% endcomment %}
+  {% assign tabs = tabs | push: "reglement" %}
+  <li{% if eerste %} class="active"{% endif %}>
+    <a data-toggle="pill" href="#reglement">reglement</a>
+  </li>
+  {% assign eerste = false %}
+{% endif %}
+</ul>
+
+<div class="tab-content">
+{% for tab in tabs %}
+  {% if forloop.first %}
+    {% include tab-pane-start.html href=tab aktief=true %}
+  {% else %}
+    {% include tab-pane-start.html href=tab aktief=false %}
+  {% endif %}
+  {% assign data = bestanden[tab] %}
+  {% if tab contains "ronde" %}
+    {% include table-beker.html datafile=data %}
+  {% elsif tab contains "reglement" %}
+    {{ content }}
+  {% endif %}
+  {% include tab-pane-end.html %}
+{% endfor %}
+</div>
