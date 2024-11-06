@@ -27,12 +27,12 @@
     "ronde": "ronde 3",
     "datum": "03-11-2024",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "902 CE Sambrevillois 2", "uit": "228 Dworp 2"},
-      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 5", "uit": "548 Caïssa Europe Mons 6"},
-      {"tr": "", "ur": "", "thuis": "261 Opwijk 5", "uit": "514 Monti' CC 3"},
-      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 2", "uit": "901 Namur 5"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "902 CE Sambrevillois 2", "uit": "228 Dworp 2"},
+      {"tr": "2", "ur": "2", "thuis": "548 Caïssa Europe Mons 5", "uit": "548 Caïssa Europe Mons 6"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "261 Opwijk 5", "uit": "514 Monti' CC 3"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "961 Braine Echecs 2", "uit": "901 Namur 5"},
       {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "Bye"},
-      {"tr": "", "ur": "", "thuis": "953 Nivelles 1", "uit": "521 Tournai 3"}
+      {"tr": "2", "ur": "2", "thuis": "953 Nivelles 1", "uit": "521 Tournai 3"}
     ]
   },
   {
