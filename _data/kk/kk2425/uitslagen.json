@@ -75,14 +75,14 @@
         "zwart": "Jannes Vandevelde"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Jelle Geraerts",
         "zwart": "Sander Lerinckx"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Serge Vanderwaeren",
         "zwart": "Mathias Vanrossum"
       },
@@ -93,26 +93,26 @@
         "zwart": "Mats Laureys"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Geert Verrijken",
         "zwart": "Eric Cornelis"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Yentl Wilmots",
         "zwart": "Johan Smeyers"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Pascal Dekoster",
         "zwart": "Eddy Pletinckx"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Alex Vonck",
         "zwart": "Peter De Bosscher"
       }
@@ -311,8 +311,8 @@
         "zwart": "Mathias Vanrossum"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Jules Geraerts",
         "zwart": "Mats Laureys"
       },
