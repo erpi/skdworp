@@ -19,7 +19,7 @@ stelling_uitleg:
 stelling_oplossing: 
 description: "De vijfde ronde is meteen ook de laatste voor het winterreces. Pas eind januari wordt er in het kader van de interclubs opnieuw geschaakt."
 image:
-  path: assets/images/2425/ni/r4_d1_tom_fb.jpg
+  path: assets/images/2425/ni/r5_d1_serge_fb.jpg
 draft: false
 ---
 ![foto Serge en Kjell][foto 1]
