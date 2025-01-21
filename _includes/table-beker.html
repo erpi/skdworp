@@ -12,7 +12,7 @@
         {% elsif witspeler == "rapid" or witspeler == "blitz" or witspeler == "troosting" %}
           {% assign teller = 0 %}
           <th colspan="2">{{ bord.wit | downcase }}</th>
-          <th colspan="5" class="alignright"></th>
+          <th colspan="5" class="alignright">{{ bord.zr | downcase }}</th>
         {% else %}
           {% assign teller = teller | plus: 1 %}
           <td class="aligncenter">{{ teller }}</td>
