@@ -19,7 +19,7 @@ stelling_uitleg:
 stelling_oplossing: 
 description: "Het enige dat Dworp dit jaar te vrezen heeft, is… Dworp zelf. Dat was deze ronde overduidelijk."
 image:
-  path: assets/images/fb/fb_post_15.jpg
+  path: assets/images/fb/fb_post_14.jpg
 draft: false
 pgn_viewer: true
 ---
