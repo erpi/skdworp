@@ -75,11 +75,11 @@
     "ronde": "ronde 7",
     "datum": "02-02-2025",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "261 Opwijk 5", "uit": "228 Dworp 2"},
-      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 2", "uit": "548 Caïssa Europe Mons 5"},
-      {"tr": "", "ur": "", "thuis": "549 Saint-Ghislain 2", "uit": "902 CE Sambrevillois 2"},
-      {"tr": "", "ur": "", "thuis": "953 Nivelles 1", "uit": "548 Caïssa Europe Mons 6"},
-      {"tr": "", "ur": "", "thuis": "521 Tournai 3", "uit": "514 Monti' CC 3"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "261 Opwijk 5", "uit": "228 Dworp 2"},
+      {"tr": "1", "ur": "3", "thuis": "961 Braine Echecs 2", "uit": "548 Caïssa Europe Mons 5"},
+      {"tr": "1", "ur": "3", "thuis": "549 Saint-Ghislain 2", "uit": "902 CE Sambrevillois 2"},
+      {"tr": "0.5", "ur": "3.5", "thuis": "953 Nivelles 1", "uit": "548 Caïssa Europe Mons 6"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "521 Tournai 3", "uit": "514 Monti' CC 3"},
       {"tr": "", "ur": "", "thuis": "Bye", "uit": "901 Namur 5"}
     ]
   },
