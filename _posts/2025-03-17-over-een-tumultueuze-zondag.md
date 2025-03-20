@@ -21,6 +21,7 @@ description: "Team 1, op een mooie tweede plaats in het klassement maakte een ko
 image:
   path: assets/images/fb/fb_post_3.jpg
 draft: false
+noindex: true
 ---
 ![foto schaakstukken][foto 1]
 
