@@ -19,11 +19,11 @@ stelling_uitleg:
 stelling_oplossing: 
 description: "Team 1, op een mooie tweede plaats in het klassement maakte een korte verplaatsing naar Ukkel."
 image:
-  path: assets/images/fb/fb_post_3.jpg
+  path: assets/images/2425/ni/r9_d3_jules.jpg
 draft: false
 noindex: true
 ---
-![foto schaakstukken][foto 1]
+
 
 **Team 1, op een mooie tweede plaats in het klassement maakte een korte verplaatsing naar Ukkel. Inzet: de tweede plaats want het lokale Brussels CC2 staat eveneens tweede, zij het met meer bordpunten. De ontmoeting kan alle kanten uit, qua Elo zijn wij lichtjes favoriet maar de thuisploeg zet daar vooral jeugdige frisheid tegenover.**<!--more-->
 
@@ -61,6 +61,8 @@ Eric met zwart op 3 kende eveneens een rustige namiddag. Ook hier verrekende de 
 
 Bernard met zwart op 1 speelde de opening erg slecht. De computer gaf +8 aan voor wit. De tegenstander profiteerde echter niet en Bernard kwam zelfs iets beter te staan. Uiteindelijk bleef een erg moeilijk paardeneindspel over met elk drie pionnen. Wit moest zijn paard offeren tegen de vrije a-pion die op promoveren stond terwijl het zwarte paard de g- en h-pionnen diende tegen te houden. Zonder het eindspel helemaal uit te spelen werd remise overeengekomen. De computer gaf de hele tijd ook 0,00 aan. De winst is binnen 1,5-2,5.
 
+![foto Jules en Kjell][foto 1]
+
 Op bord twee speelde Eddy met wit een partijtje voor de fijnproevers. De witte koningsaanval werd gestuit door een tegenaanval in het centrum. Op de damevleugel geraakte een wit paard ingesloten ten koste van een zwart paard dat in een stevige penning belandde. Ondertussen was de partij van Bernard afgelopen. De stadionomroeper van dienst was plots nergens meer te bespeuren en Eddy moest op zoek gaan naar de tussenstand; had de ploeg al gewonnen of niet? Jawel. Remise hoefde dus niet echt. Eddy kon verder strijden voor de volle buit. Het witte paard eindigde als een desperado en verdween in het houten kistje. Het zwarte paard volgde prompt dezelfde weg. Toen de hemel opklaarde, had wit een gezonde pluspion in een gezonde stelling. In de aanloop naar het eindspel leverde dat zelfs een tweede pluspion op. Hoewel zwart nog twintig zetten creativiteit toonde, was er geen redden meer aan. Hij gaf zich gewonnen toen de eerste pionnenpromotie duidelijk in zicht kwam. Top! 0,5-3,5.
 
 ## Dworp 3 verliest fors (want winnen hoefde niet)
@@ -71,7 +73,9 @@ Mathias met zwart op bord 3 leek aanvankelijk wel goed te staan. Ineens drong de
 
 Peter, wit op bord 2, verslikte zich in de opening en kwam al snel slechter te staan tegen zijn jonge tegenstander. Die doet het overigens heel goed in de interclubs. In een slechte stelling voor Peter sloeg de tegenstander een stuk dat niet kon worden teruggenomen wegens een familieschaakje aan dame en koning. Toch een forse blunder. 2-0 achter.
 
-Kjell met wit op 1 won in de opening een pion maar daarna begon de tegenstander echt sterk te spelen. In het gecompliceerde middenspel verloor Kjell een stuk, bepaald niet alledaags voor hem. De tegenstander wikkelde feilloos af.  Uitstekende partij van de zwartspeler, aldus Kjell. We staan 3-0 achter.
+Kjell met wit op 1 won in de opening een pion maar daarna begon de tegenstander echt sterk te spelen. In het gecompliceerde middenspel verloor Kjell een stuk, bepaald niet alledaags voor hem. De tegenstander wikkelde feilloos af. Uitstekende partij van de zwartspeler, aldus Kjell. We staan 3-0 achter.
+
+![foto Jules en Kjell][foto 2]
 
 Jules met wit op bord 4 stond lange tijd gelijk tot iets beter in een ongelijk lopereindspel met elk nog een toren. Die van Jules was wel actiever. Finaal verloor hij toch nog een pion en even later ook de partij. Jammer. Een zware 4-0 nederlaag dus.
 
@@ -87,4 +91,5 @@ Individueel is Yentl aan een zeer knappe IC-campagne bezig met 7/8 (tpr 2134). O
 
 Onze gedachten gaan deze keer vooral richting Antwerpen. Het belangrijkste is dat het goed komt met Carlo Doossche . Dworp duimt alvast voor een spoedig herstel.
 
-[foto 1]: {{ "/assets/images/fb/fb_post_3.jpg" | absolute_url }}
+[foto 1]: {{ "/assets/images/2425/ni/r9_d2_eddy.jpg" | absolute_url }}
+[foto 2]: {{ "/assets/images/2425/ni/r9_d3_jules.jpg" | absolute_url }}
