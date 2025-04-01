@@ -19,7 +19,7 @@ stelling_uitleg:
 stelling_oplossing: 
 description: "Totentrekkers en carnaval in Halle deden ons voor de voorlaatste IC-ronde verhuizen van ’t Oud Kasteel in Essenbeek naar een echt kasteel in Dworp."
 image:
-  path: assets/images/2425/ni/r10_zaal.jpg
+  path: assets/images/2425/ni/r10_zithoek.jpg
 draft: false
 ---
 **Totentrekkers en carnaval in Halle deden ons voor de voorlaatste IC-ronde verhuizen van ’t Oud Kasteel in Essenbeek naar een echt kasteel in Dworp. Onlangs heropende ’t Gravenhof zijn deuren met ietwat bijzondere nieuwe uitbaters: Roemenen ‘dans le coeur du Brabant’. Hoe dan ook een prachtig decor voor een schaakclub om zijn vijftigste verjaardag te vieren –dank aan iedereen die dit mogelijk maakte. Voeg daarbij dat de flink versterkte ploegen 2 en 3 nog steeds volop uitzicht hebben op de eerste plek en daarbij horende promotie en deze zondag kon bijna niet meer stuk.**<!--more-->
@@ -94,7 +94,7 @@ Dworp 3 deed in ronde 10 met een nipte overwinning een gouden zaak. Concurrent B
 
 Op het individuele vlak valt de geweldige performance van Yentl op: 8/9 bij een tpr van 2121. Het is zijn seizoen van de grote doorbraak en hij is zonder twijfel Dworps belangrijkste wissel op de toekomst. Bravo! Ook Eric doet het goed (7,5/9, tpr 1813) en ondanks twee opeenvolgende nullen had ik op voorhand direct voor mijn huidige score getekend (7,5/10, tpr 2153).
 
-Er zijn nog **meer foto's**: te bekijken op [Facebook][2] of via [Google Foto's][1].
+Er zijn nog **meer foto's**! Te bekijken op [Facebook][2] of via [Google Foto's][1].
 
 [1]: https://photos.app.goo.gl/tudNvcXzoNuSwHgf7
 [2]: https://www.facebook.com/share/1JXSEerxUd/
