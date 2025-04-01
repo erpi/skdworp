@@ -111,12 +111,12 @@
     "ronde": "ronde 10",
     "datum": "30-03-2025",
     "uitslagen": [
-      {"tr": "3", "ur": "1", "thuis": "228 Dworp 3", "uit": "278 Ixelles CC 8"},
-      {"tr": "1", "ur": "3", "thuis": "417 Aalst 3", "uit": "239 Boitsfort 4"},
-      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 5", "uit": "209 The Belgian CC Anderlecht 3"},
-      {"tr": "4", "ur": "0", "thuis": "226 Europchess 4", "uit": "231 Dolle Toren Leuven 5"},
-      {"tr": "3.5", "ur": "0.5", "thuis": "261 Opwijk 6", "uit": "230 Leuven Centraal 13"},
-      {"tr": "3", "ur": "1", "thuis": "961 Braine Echecs 3", "uit": "201 CRE Bruxelles 3"}
+      {"tr": "2.5", "ur": "1.5", "thuis": "228 Dworp 3", "uit": "278 Ixelles CC 8"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "417 Aalst 3", "uit": "239 Boitsfort 4"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "207 Les Deux Fous du Diogène 5", "uit": "209 The Belgian CC Anderlecht 3"},
+      {"tr": "3.5", "ur": "0.5", "thuis": "226 Europchess 4", "uit": "231 Dolle Toren Leuven 5"},
+      {"tr": "4", "ur": "0", "thuis": "261 Opwijk 6", "uit": "230 Leuven Centraal 13"},
+      {"tr": "2", "ur": "2", "thuis": "961 Braine Echecs 3", "uit": "201 CRE Bruxelles 3"}
     ]
   },
   {
