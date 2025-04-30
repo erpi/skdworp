@@ -19,7 +19,7 @@ stelling_uitleg:
 stelling_oplossing: 
 description: "Alweer de laatste ronde van het interclubseizoen 2024-2025. De tijd vliegt."
 image:
-  path: assets/images/2425/ni/r11_d1_tom.jpg
+  path: assets/images/2425/ni/r11_d1_eric_fb.jpg
 draft: false
 ---
 
@@ -83,7 +83,7 @@ Rest nog iedereen –en de rits namen is lang- te bedanken die zijn steentje hee
 
 ![tabel met individuele resultaten][foto 5]
 
-<a href="{{ "/assets/xlsx/ic_2425_performance.xlsx" | absolute_url }}" type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">Excel bestand van de tabel</a>
+<a href="{{ "/assets/xlsx/ic_2425_performance.xlsx" | absolute_url }}" type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">excel bestand van de tabel</a>
 
 
 [foto 1]: {{ "/assets/images/2425/ni/r11_d1_tom.jpg" | absolute_url }}
