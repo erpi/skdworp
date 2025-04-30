@@ -123,12 +123,12 @@
     "ronde": "ronde 11",
     "datum": "27-04-2025",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "601 CRE Liège EL 2", "uit": "228 Dworp 1"},
-      {"tr": "", "ur": "", "thuis": "114 K Mechelse SK 2", "uit": "244 Brussels CC 2"},
-      {"tr": "", "ur": "", "thuis": "135 Geel 2", "uit": "401 K Gentse SRL 6"},
-      {"tr": "", "ur": "", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "226 Europchess 2"},
-      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "207 Les Deux Fous du Diogène 1"},
-      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 2", "uit": "621 TAL 2"}
+      {"tr": "6", "ur": "0", "thuis": "601 CRE Liège EL 2", "uit": "228 Dworp 1"},
+      {"tr": "5", "ur": "1", "thuis": "114 K Mechelse SK 2", "uit": "244 Brussels CC 2"},
+      {"tr": "6", "ur": "0F", "thuis": "135 Geel 2", "uit": "401 K Gentse SRL 6"},
+      {"tr": "2", "ur": "4", "thuis": "209 The Belgian CC Anderlecht 2", "uit": "226 Europchess 2"},
+      {"tr": "3", "ur": "3", "thuis": "239 Boitsfort 2", "uit": "207 Les Deux Fous du Diogène 1"},
+      {"tr": "5.5", "ur": "0.5", "thuis": "278 Ixelles CC 2", "uit": "621 TAL 2"}
     ]
   }
 ]
