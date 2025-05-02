@@ -541,8 +541,8 @@
         "zwart": "Bye"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Mathias Vanrossum",
         "zwart": "Eric Cornelis"
       },
@@ -553,8 +553,8 @@
         "zwart": "Johan Smeyers"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Jannes Vandevelde",
         "zwart": "Eddy Pletinckx"
       },
@@ -583,8 +583,8 @@
         "zwart": "Yentl Wilmots"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Diederik Lot",
         "zwart": "Geert Verrijken"
       }
