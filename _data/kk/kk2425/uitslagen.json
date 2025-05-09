@@ -252,8 +252,8 @@
         "zwart": "Yentl Wilmots"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Peter De Bosscher",
         "zwart": "Geert Verrijken"
       },
@@ -677,8 +677,8 @@
         "zwart": "Peter De Bosscher"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Jannes Vandevelde",
         "zwart": "Alex Vonck"
       },
@@ -701,8 +701,8 @@
         "zwart": "Geert Verrijken"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Serge Vanderwaeren",
         "zwart": "Diederik Lot"
       }
