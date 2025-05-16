@@ -52,8 +52,8 @@
         "zwart": "Jelle Geraerts"
       },
       {
-        "wr": "1F",
-        "zr": "0F",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Jules Geraerts",
         "zwart": "Nathan Lot"
       }
@@ -571,8 +571,8 @@
         "zwart": "Alex Vonck"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "Jelle Geraerts",
         "zwart": "Pascal Dekoster"
       },
