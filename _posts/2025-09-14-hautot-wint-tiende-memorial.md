@@ -11,7 +11,7 @@ last_modified_at: 2025-09-16
 ---
 **Met 11 punten uit 13 partijen en een halfje voorsprong op FM Adrien Anciaux won IM Stéphane Hautot afgelopen zaterdag in Huizingen de tiende Memorial Debast, het ‘officieuze’ Belgische kampioenschap blitz. Een knappe prestatie gezien het sterke deelnemersveld. Stéphane schreef het tornooi ook al op zijn naam in 2017 en 2018.**<!--more-->
 
-Als vanouds organiseerde sk Dworp in het Provinciaal Domein van Huizingen ook dit jaar weer zijn snelschaaktornooi ‘Memorial Debast’ -genoemd naar een legendarische penningmeester. 
+Als vanouds organiseerde sk Dworp in het Provinciaal Domein van Huizingen ook dit jaar weer zijn snelschaaktornooi ‘Memorial Debast’ -genoemd naar een legendarisch bestuurslid. 
 
 Net zoals de vorige jaren ging deze tiende (jubileum)editie door in een reuzentent met op de achtergrond een mooie groene omgeving. Traditioneel laat het weer zich van zijn beste kant zien maar dat was deze keer enigszins anders. Gelukkig priemde er speciaal voor de Memorial en ondanks de gure voorspellingen de hele namiddag toch een fijn herfstzonnetje door de wolken. Enkel rond 17 uur werd het Beerselse microklimaat verstoord door een flinke plensbui. Dat deerde niet, uit voorzorg stond de bar dit jaar niet voor maar in de tent.
 
