@@ -3,12 +3,12 @@
     "ronde": "ronde 1",
     "datum": "28-09-2025",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "109 Borgerhout 2"},
-      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "228 Dworp 1"},
-      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 2", "uit": "432 Wetteren 3"},
-      {"tr": "", "ur": "", "thuis": "952 Wavre 1", "uit": "278 Ixelles CC 2"},
-      {"tr": "", "ur": "", "thuis": "261 Opwijk 2", "uit": "244 Brussels CC 1"},
-      {"tr": "", "ur": "", "thuis": "541 Leuze 1", "uit": "226 Europchess 2"}
+      {"tr": "5", "ur": "1", "thuis": "239 Boitsfort 2", "uit": "109 Borgerhout 2"},
+      {"tr": "1", "ur": "5", "thuis": "511 Echiquier du Centre 1", "uit": "228 Dworp 1"},
+      {"tr": "3.5", "ur": "2.5", "thuis": "548 Caïssa Europe Mons 2", "uit": "432 Wetteren 3"},
+      {"tr": "5", "ur": "1", "thuis": "952 Wavre 1", "uit": "278 Ixelles CC 2"},
+      {"tr": "2.5", "ur": "3.5", "thuis": "261 Opwijk 2", "uit": "244 Brussels CC 1"},
+      {"tr": "4.5", "ur": "1.5", "thuis": "541 Leuze 1", "uit": "226 Europchess 2"}
     ]
   },
   {
