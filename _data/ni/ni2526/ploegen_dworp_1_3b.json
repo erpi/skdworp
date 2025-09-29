@@ -1,0 +1,134 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "28-09-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "109 Borgerhout 2"},
+      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 2", "uit": "432 Wetteren 3"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 1", "uit": "278 Ixelles CC 2"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 2", "uit": "244 Brussels CC 1"},
+      {"tr": "", "ur": "", "thuis": "541 Leuze 1", "uit": "226 Europchess 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "12-10-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "109 Borgerhout 2", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 1", "uit": "541 Leuze 1"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 2", "uit": "261 Opwijk 2"},
+      {"tr": "", "ur": "", "thuis": "432 Wetteren 3", "uit": "952 Wavre 1"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "548 Caïssa Europe Mons 2"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "511 Echiquier du Centre 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "16-11-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "109 Borgerhout 2"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 2", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 1", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 2", "uit": "432 Wetteren 3"},
+      {"tr": "", "ur": "", "thuis": "541 Leuze 1", "uit": "278 Ixelles CC 2"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "244 Brussels CC 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "23-11-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "109 Borgerhout 2", "uit": "244 Brussels CC 1"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 2", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "432 Wetteren 3", "uit": "541 Leuze 1"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "261 Opwijk 2"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "952 Wavre 1"},
+      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "548 Caïssa Europe Mons 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "07-12-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 2", "uit": "109 Borgerhout 2"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 1", "uit": "511 Echiquier du Centre 1"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 2", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "541 Leuze 1", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "432 Wetteren 3"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 1", "uit": "278 Ixelles CC 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "25-01-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "109 Borgerhout 2", "uit": "278 Ixelles CC 2"},
+      {"tr": "", "ur": "", "thuis": "432 Wetteren 3", "uit": "244 Brussels CC 1"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "541 Leuze 1"},
+      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "261 Opwijk 2"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 2", "uit": "952 Wavre 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "08-02-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "952 Wavre 1", "uit": "109 Borgerhout 2"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 2", "uit": "548 Caïssa Europe Mons 2"},
+      {"tr": "", "ur": "", "thuis": "541 Leuze 1", "uit": "511 Echiquier du Centre 1"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 1", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 2", "uit": "432 Wetteren 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "01-03-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "109 Borgerhout 2", "uit": "432 Wetteren 3"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "278 Ixelles CC 2"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "244 Brussels CC 1"},
+      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 2", "uit": "541 Leuze 1"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 1", "uit": "261 Opwijk 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "15-03-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 2", "uit": "109 Borgerhout 2"},
+      {"tr": "", "ur": "", "thuis": "541 Leuze 1", "uit": "952 Wavre 1"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "548 Caïssa Europe Mons 2"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 1", "uit": "511 Echiquier du Centre 1"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 2", "uit": "239 Boitsfort 2"},
+      {"tr": "", "ur": "", "thuis": "432 Wetteren 3", "uit": "228 Dworp 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "29-03-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "109 Borgerhout 2", "uit": "228 Dworp 1"},
+      {"tr": "", "ur": "", "thuis": "239 Boitsfort 2", "uit": "432 Wetteren 3"},
+      {"tr": "", "ur": "", "thuis": "511 Echiquier du Centre 1", "uit": "278 Ixelles CC 2"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 2", "uit": "244 Brussels CC 1"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 1", "uit": "226 Europchess 2"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 2", "uit": "541 Leuze 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "19-04-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "541 Leuze 1", "uit": "109 Borgerhout 2"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 2", "uit": "261 Opwijk 2"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 1", "uit": "952 Wavre 1"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 2", "uit": "548 Caïssa Europe Mons 2"},
+      {"tr": "", "ur": "", "thuis": "432 Wetteren 3", "uit": "511 Echiquier du Centre 1"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 1", "uit": "239 Boitsfort 2"}
+    ]
+  }
+]

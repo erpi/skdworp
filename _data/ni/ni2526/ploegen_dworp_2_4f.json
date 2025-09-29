@@ -1,0 +1,134 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "28-09-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 4", "uit": "207 Les Deux Fous du Diogène 2"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 1", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "233 DZD Halle 1", "uit": "230 Leuven Centraal 6"},
+      {"tr": "", "ur": "", "thuis": "525 Anderlues 1", "uit": "278 Ixelles CC 6"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 3", "uit": "244 Brussels CC 3"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 3", "uit": "229 Woluwe 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "12-10-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "229 Woluwe 1"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 3", "uit": "226 Europchess 3"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 6", "uit": "261 Opwijk 3"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 6", "uit": "525 Anderlues 1"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "233 DZD Halle 1"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 4", "uit": "961 Braine Echecs 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "16-11-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 1", "uit": "207 Les Deux Fous du Diogène 2"},
+      {"tr": "", "ur": "", "thuis": "233 DZD Halle 1", "uit": "548 Caïssa Europe Mons 4"},
+      {"tr": "", "ur": "", "thuis": "525 Anderlues 1", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 3", "uit": "230 Leuven Centraal 6"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 3", "uit": "278 Ixelles CC 6"},
+      {"tr": "", "ur": "", "thuis": "229 Woluwe 1", "uit": "244 Brussels CC 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "23-11-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "244 Brussels CC 3"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 6", "uit": "229 Woluwe 1"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 6", "uit": "226 Europchess 3"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "261 Opwijk 3"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 4", "uit": "525 Anderlues 1"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 1", "uit": "233 DZD Halle 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "07-12-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "233 DZD Halle 1", "uit": "207 Les Deux Fous du Diogène 2"},
+      {"tr": "", "ur": "", "thuis": "525 Anderlues 1", "uit": "961 Braine Echecs 1"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 3", "uit": "548 Caïssa Europe Mons 4"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 3", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "229 Woluwe 1", "uit": "230 Leuven Centraal 6"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 3", "uit": "278 Ixelles CC 6"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "25-01-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "278 Ixelles CC 6"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 6", "uit": "244 Brussels CC 3"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "229 Woluwe 1"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 4", "uit": "226 Europchess 3"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 1", "uit": "261 Opwijk 3"},
+      {"tr": "", "ur": "", "thuis": "233 DZD Halle 1", "uit": "525 Anderlues 1"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "08-02-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "525 Anderlues 1", "uit": "207 Les Deux Fous du Diogène 2"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 3", "uit": "233 DZD Halle 1"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 3", "uit": "961 Braine Echecs 1"},
+      {"tr": "", "ur": "", "thuis": "229 Woluwe 1", "uit": "548 Caïssa Europe Mons 4"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 3", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 6", "uit": "230 Leuven Centraal 6"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "01-03-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "230 Leuven Centraal 6"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "278 Ixelles CC 6"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 4", "uit": "244 Brussels CC 3"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 1", "uit": "229 Woluwe 1"},
+      {"tr": "", "ur": "", "thuis": "233 DZD Halle 1", "uit": "226 Europchess 3"},
+      {"tr": "", "ur": "", "thuis": "525 Anderlues 1", "uit": "261 Opwijk 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "15-03-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 3", "uit": "207 Les Deux Fous du Diogène 2"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 3", "uit": "525 Anderlues 1"},
+      {"tr": "", "ur": "", "thuis": "229 Woluwe 1", "uit": "233 DZD Halle 1"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 3", "uit": "961 Braine Echecs 1"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 6", "uit": "548 Caïssa Europe Mons 4"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 6", "uit": "228 Dworp 2"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "29-03-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "228 Dworp 2"},
+      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 4", "uit": "230 Leuven Centraal 6"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 1", "uit": "278 Ixelles CC 6"},
+      {"tr": "", "ur": "", "thuis": "233 DZD Halle 1", "uit": "244 Brussels CC 3"},
+      {"tr": "", "ur": "", "thuis": "525 Anderlues 1", "uit": "229 Woluwe 1"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 3", "uit": "226 Europchess 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "19-04-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "226 Europchess 3", "uit": "207 Les Deux Fous du Diogène 2"},
+      {"tr": "", "ur": "", "thuis": "229 Woluwe 1", "uit": "261 Opwijk 3"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 3", "uit": "525 Anderlues 1"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 6", "uit": "233 DZD Halle 1"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 6", "uit": "961 Braine Echecs 1"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "548 Caïssa Europe Mons 4"}
+    ]
+  }
+]

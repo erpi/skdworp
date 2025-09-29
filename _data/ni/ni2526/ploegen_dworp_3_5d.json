@@ -1,0 +1,134 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "28-09-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 9", "uit": "207 Les Deux Fous du Diogène 4"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "228 Dworp 3"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 4", "uit": "952 Wavre 4"},
+      {"tr": "", "ur": "", "thuis": "231 Dolle Toren Leuven 5", "uit": "278 Ixelles CC 8"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 5", "uit": "244 Brussels CC 4"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "226 Europchess 4"}
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "12-10-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 4", "uit": "226 Europchess 4"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 4", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 8", "uit": "261 Opwijk 5"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 4", "uit": "231 Dolle Toren Leuven 5"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "901 Namur 4"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 9", "uit": "961 Braine Echecs 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "16-11-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "207 Les Deux Fous du Diogène 4"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 4", "uit": "230 Leuven Centraal 9"},
+      {"tr": "", "ur": "", "thuis": "231 Dolle Toren Leuven 5", "uit": "228 Dworp 3"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 5", "uit": "952 Wavre 4"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "278 Ixelles CC 8"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "244 Brussels CC 4"}
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "23-11-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 4", "uit": "244 Brussels CC 4"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 8", "uit": "226 Europchess 4"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 4", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "261 Opwijk 5"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 9", "uit": "231 Dolle Toren Leuven 5"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "901 Namur 4"}
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "07-12-2025",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "901 Namur 4", "uit": "207 Les Deux Fous du Diogène 4"},
+      {"tr": "", "ur": "", "thuis": "231 Dolle Toren Leuven 5", "uit": "961 Braine Echecs 3"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 5", "uit": "230 Leuven Centraal 9"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "228 Dworp 3"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "952 Wavre 4"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 4", "uit": "278 Ixelles CC 8"}
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "25-01-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 4", "uit": "278 Ixelles CC 8"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 4", "uit": "244 Brussels CC 4"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "226 Europchess 4"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 9", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "261 Opwijk 5"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 4", "uit": "231 Dolle Toren Leuven 5"}
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "08-02-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "231 Dolle Toren Leuven 5", "uit": "207 Les Deux Fous du Diogène 4"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 5", "uit": "901 Namur 4"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "961 Braine Echecs 3"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "230 Leuven Centraal 9"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 4", "uit": "228 Dworp 3"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 8", "uit": "952 Wavre 4"}
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "01-03-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 4", "uit": "952 Wavre 4"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "278 Ixelles CC 8"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 9", "uit": "244 Brussels CC 4"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "226 Europchess 4"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 4", "uit": "Bye"},
+      {"tr": "", "ur": "", "thuis": "231 Dolle Toren Leuven 5", "uit": "261 Opwijk 5"}
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "15-03-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 5", "uit": "207 Les Deux Fous du Diogène 4"},
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "231 Dolle Toren Leuven 5"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "901 Namur 4"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 4", "uit": "961 Braine Echecs 3"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 8", "uit": "230 Leuven Centraal 9"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 4", "uit": "228 Dworp 3"}
+    ]
+  },
+  {
+    "ronde": "ronde 10",
+    "datum": "29-03-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 4", "uit": "228 Dworp 3"},
+      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 9", "uit": "952 Wavre 4"},
+      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "278 Ixelles CC 8"},
+      {"tr": "", "ur": "", "thuis": "901 Namur 4", "uit": "244 Brussels CC 4"},
+      {"tr": "", "ur": "", "thuis": "231 Dolle Toren Leuven 5", "uit": "226 Europchess 4"},
+      {"tr": "", "ur": "", "thuis": "261 Opwijk 5", "uit": "Bye"}
+    ]
+  },
+  {
+    "ronde": "ronde 11",
+    "datum": "19-04-2026",
+    "uitslagen": [
+      {"tr": "", "ur": "", "thuis": "Bye", "uit": "207 Les Deux Fous du Diogène 4"},
+      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "261 Opwijk 5"},
+      {"tr": "", "ur": "", "thuis": "244 Brussels CC 4", "uit": "231 Dolle Toren Leuven 5"},
+      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 8", "uit": "901 Namur 4"},
+      {"tr": "", "ur": "", "thuis": "952 Wavre 4", "uit": "961 Braine Echecs 3"},
+      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "230 Leuven Centraal 9"}
+    ]
+  }
+]
