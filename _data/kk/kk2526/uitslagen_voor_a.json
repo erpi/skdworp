@@ -1,1 +1,329 @@
+[
+    {
+      "ronde": "ronde 1",
+      "datum": "10.10.2025",
+      "partijen": [
+        {
+          "wr": "",
+          "zr": "",
+          "wit": "Cardella, Nathan",
+          "zwart": "Lerinckx, Sander",
+        },
+        {
+          "wr": "",
+          "zr": "",
+          "wit": "Cornelis, Eric",
+          "zwart": "Wilmots, Yentl",
+        },
+        {
+          "wr": "",
+          "zr": "",
+          "wit": "Spaens, Kjell",
+          "zwart": "Vanderwaeren, Serge",
+        
+        },
+        {
+          "wr": "",
+          "zr": "",
+         	  "wit": "De Bosscher, Peter",
+          "zwart": "Van Lerberghe, Torr",
+        
+        },
+        {
+          "wr": "",
+          "zr": "",
+        	  "wit": "Geraerts, Jules",
+          "zwart": "Vanrossum, Mathias",
+        }
+      ]
+    },
+    {
+      "ronde": "ronde 2",
+      "datum": "14.11.2025",
+      "partijen": [
+        {
+	  "wr": "",
+          "zr": "",
+	  "wit": "Lerinckx, Sander",
+          "zwart": "Vanrossum, Mathias",
+        },
+        {
+	  "wr": "",
+          "zr": "",     
+	  "wit": "Van Lerberghe, Torr",
+          "zwart": "Geraerts, Jules",
+        },
+        {
+  "wr": "",
+          "zr": "",          
+"wit": "Vanderwaeren, Serge",
+          "zwart": "De Bosscher, Peter",
+        },
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "Wilmots, Yentl",
+          "zwart": "Spaens, Kjell",
+        },
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "Cardella, Nathan",
+          "zwart": "Cornelis, Eric",
+        }
+      ]
+    },
+    {
+      "ronde": "ronde 3",
+      "datum": "12.12.2025",
+      "partijen": [
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "Cornelis, Eric",
+          "zwart": "Lerinckx, Sander",
+        },
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "Spaens, Kjell",
+          "zwart": "Cardella, Nathan",
+        },
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "De Bosscher, Peter",
+          "zwart": "Wilmots, Yentl",
+        },
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "Geraerts, Jules",
+          "zwart": "Vanderwaeren, Serge",
+        },
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "Vanrossum, Mathias",
+          "zwart": "Van Lerberghe, Torr",
+        }
+      ]
+    },
+    {
+      "ronde": "ronde 4",
+      "datum": "09.01.2026",
+      "partijen": [
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "Lerinckx, Sander",
+          "zwart": "Van Lerberghe, Torr",
+        },
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "Vanderwaeren, Serge",
+          "zwart": "Vanrossum, Mathias",
+        },
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "Wilmots, Yentl",
+          "zwart": "Geraerts, Jules",
+        },
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "Cardella, Nathan",
+          "zwart": "De Bosscher, Peter",
+        },
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "Cornelis, Eric",
+          "zwart": "Spaens, Kjell",
+        }
+      ]
+    },
+    {
+      "ronde": "ronde 5",
+      "datum": "23.01.2026",
+      "partijen": [
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "Spaens, Kjell",
+          "zwart": "Lerinckx, Sander",
+        },
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "De Bosscher, Peter",
+          "zwart": "Cornelis, Eric",
+        },
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "Geraerts, Jules",
+          "zwart": "Cardella, Nathan",
+        },
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "Vanrossum, Mathias",
+          "zwart": "Wilmots, Yentl",
+        },
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "Van Lerberghe, Torr",
+          "zwart": "Vanderwaeren, Serge",
+        }
+      ]
+    },
+    {
+      "ronde": "ronde 6",
+      "datum": "13.02.2026",
+      "partijen": [
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "Lerinckx, Sander",
+          "zwart": "Vanderwaeren, Serge",
+        },
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "Wilmots, Yentl",
+          "zwart": "Van Lerberghe, Torr",
+        },
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "Cardella, Nathan",
+          "zwart": "Vanrossum, Mathias",
+        },
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "Cornelis, Eric",
+          "zwart": "Geraerts, Jules",
+        },
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "Spaens, Kjell",
+          "zwart": "De Bosscher, Peter",
+        }
+      ]
+    },
+    {
+      "ronde": "ronde 7",
+      "datum": "13.03.2026",
+      "partijen": [
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "De Bosscher, Peter",
+          "zwart": "Lerinckx, Sander",
+        },
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "Geraerts, Jules",
+          "zwart": "Spaens, Kjell",
+        },
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "Vanrossum, Mathias",
+          "zwart": "Cornelis, Eric",
+        },
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "Van Lerberghe, Torr",
+          "zwart": "Cardella, Nathan",
+        },
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "Vanderwaeren, Serge",
+          "zwart": "Wilmots, Yentl",
+        }
+      ]
+    },
+    {
+      "ronde": "ronde 8",
+      "datum": "03.04.2026",
+      "partijen": [
+        {
+   "wr": "",
+          "zr": "",
+          "wit": "Lerinckx, Sander",
+          "zwart": "Wilmots, Yentl",
+        },
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "Cardella, Nathan",
+          "zwart": "Vanderwaeren, Serge",
+        },
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "Cornelis, Eric",
+          "zwart": "Van Lerberghe, Torr",
+        },
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "Spaens, Kjell",
+          "zwart": "Vanrossum, Mathias",
+        },
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "De Bosscher, Peter",
+          "zwart": "Geraerts, Jules",
+        }
+      ]
+    },
+    {
+      "ronde": "ronde 9",
+      "datum": "17.04.2026",
+      "partijen": [
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "Geraerts, Jules",
+          "zwart": "Lerinckx, Sander",
+        },
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "Vanrossum, Mathias",
+          "zwart": "De Bosscher, Peter",
+        },
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "Van Lerberghe, Torr",
+          "zwart": "Spaens, Kjell",
+        },
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "Vanderwaeren, Serge",
+          "zwart": "Cornelis, Eric",
+        },
+        {
+  "wr": "",
+          "zr": "",
+          "wit": "Wilmots, Yentl",
+          "zwart": "Cardella, Nathan",
+        }
+      ]
+    }
+  ]
 
