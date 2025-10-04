@@ -1,0 +1,328 @@
+[
+    {
+      "ronde": "1",
+      "datum": "10.10.2025",
+      "partijen": [
+        {
+      "wr": "",
+          "zr": "",
+          "wit": "Verrijken, Geert",
+          "zwart": "Vonck, Alexandre",
+        },
+        {
+      "wr": "",
+          "zr": "",
+          "wit": "Morre, Matias",
+          "zwart": "Dekoster, Pascal",
+        },
+        {
+      "wr": "",
+          "zr": "",
+          "wit": "Lot, Diederik",
+          "zwart": "Geraerts, Jelle",
+        },
+        {
+      "wr": "",
+          "zr": "",
+          "wit": "Smeyers, Johan",
+          "zwart": "Pletinckx, Eddy",
+        },
+        {
+      "wr": "",
+          "zr": "",
+          "wit": "Laureys, Mats",
+          "zwart": "Vandevelde, Jannes",
+        }
+      ]
+    },
+    {
+      "ronde": "2",
+      "datum": "14.11.2025",
+      "partijen": [
+        {
+       "wr": "",
+          "zr": "",
+          "wit": "Vonck, Alexandre",
+          "zwart": "Vandevelde, Jannes",
+        },
+        {
+       "wr": "",
+          "zr": "",
+          "wit": "Pletinckx, Eddy",
+          "zwart": "Laureys, Mats",
+        },
+        {
+       "wr": "",
+          "zr": "",
+          "wit": "Geraerts, Jelle",
+          "zwart": "Smeyers, Johan",
+        },
+        {
+       "wr": "",
+          "zr": "",
+          "wit": "Dekoster, Pascal",
+          "zwart": "Lot, Diederik",
+        },
+        {
+       "wr": "",
+          "zr": "",
+          "wit": "Verrijken, Geert",
+          "zwart": "Morre, Matias",
+        }
+      ]
+    },
+    {
+      "ronde": "3",
+      "datum": "12.12.2025",
+      "partijen": [
+        {
+         "wr": "",
+          "zr": "",
+          "wit": "Morre, Matias",
+          "zwart": "Vonck, Alexandre",
+        },
+        {
+         "wr": "",
+          "zr": "",
+          "wit": "Lot, Diederik",
+          "zwart": "Verrijken, Geert",
+        },
+        {
+         "wr": "",
+          "zr": "",
+          "wit": "Smeyers, Johan",
+          "zwart": "Dekoster, Pascal",
+        },
+        {
+         "wr": "",
+          "zr": "",
+          "wit": "Laureys, Mats",
+          "zwart": "Geraerts, Jelle",
+        },
+        {
+         "wr": "",
+          "zr": "",
+          "wit": "Vandevelde, Jannes",
+          "zwart": "Pletinckx, Eddy",
+        }
+      ]
+    },
+    {
+      "ronde": "4",
+      "datum": "09.01.2026",
+      "time": "20:00",
+      "partijen": [
+        {
+         "wr": "",
+          "zr": "",
+          "wit": "Vonck, Alexandre",
+          "zwart": "Pletinckx, Eddy",
+        },
+        {
+         "wr": "",
+          "zr": "",
+          "wit": "Geraerts, Jelle",
+          "zwart": "Vandevelde, Jannes",
+        },
+        {
+         "wr": "",
+          "zr": "",
+          "wit": "Dekoster, Pascal",
+          "zwart": "Laureys, Mats",
+        },
+        {
+         "wr": "",
+          "zr": "",
+          "wit": "Verrijken, Geert",
+          "zwart": "Smeyers, Johan",
+        },
+        {
+         "wr": "",
+          "zr": "",
+          "wit": "Morre, Matias",
+          "zwart": "Lot, Diederik",
+        }
+      ]
+    },
+    {
+      "ronde": "5",
+      "datum": "23.01.2026",
+      "time": "20:00",
+      "partijen": [
+        {
+         "wr": "",
+          "zr": "",
+          "wit": "Lot, Diederik",
+          "zwart": "Vonck, Alexandre",
+        },
+        {
+         "wr": "",
+          "zr": "",
+          "wit": "Smeyers, Johan",
+          "zwart": "Morre, Matias",
+        },
+        {
+         "wr": "",
+          "zr": "",
+          "wit": "Laureys, Mats",
+          "zwart": "Verrijken, Geert",
+        },
+        {
+         "wr": "",
+          "zr": "",
+          "wit": "Vandevelde, Jannes",
+          "zwart": "Dekoster, Pascal",
+        },
+        {
+         "wr": "",
+          "zr": "",
+          "wit": "Pletinckx, Eddy",
+          "zwart": "Geraerts, Jelle",
+        }
+      ]
+    },
+    {
+      "ronde": "6",
+      "datum": "13.02.2026",
+      "partijen": [
+        {
+          "wr": "",
+          "zr": "",
+          "wit": "Vonck, Alexandre",
+          "zwart": "Geraerts, Jelle",
+        },
+        {
+          "wr": "",
+          "zr": "",
+          "wit": "Dekoster, Pascal",
+          "zwart": "Pletinckx, Eddy",
+        },
+        {
+          "wr": "",
+          "zr": "",
+          "wit": "Verrijken, Geert",
+          "zwart": "Vandevelde, Jannes",
+        },
+        {
+          "wr": "",
+          "zr": "",
+          "wit": "Morre, Matias",
+          "zwart": "Laureys, Mats",
+        },
+        {
+          "wr": "",
+          "zr": "",
+          "wit": "Lot, Diederik",
+          "zwart": "Smeyers, Johan",
+        }
+      ]
+    },
+    {
+      "ronde": "7",
+      "datum": "13.03.2026",
+      "partijen": [
+        {
+     "wr": "",
+          "zr": "",
+          "wit": "Smeyers, Johan",
+          "zwart": "Vonck, Alexandre",
+        },
+        {
+     "wr": "",
+          "zr": "",
+          "wit": "Laureys, Mats",
+          "zwart": "Lot, Diederik",
+        },
+        {
+     "wr": "",
+          "zr": "",
+          "wit": "Vandevelde, Jannes",
+          "zwart": "Morre, Matias",
+        },
+        {
+     "wr": "",
+          "zr": "",
+          "wit": "Pletinckx, Eddy",
+          "zwart": "Verrijken, Geert",
+        },
+        {
+     "wr": "",
+          "zr": "",
+          "wit": "Geraerts, Jelle",
+          "zwart": "Dekoster, Pascal",
+        }
+      ]
+    },
+    {
+      "ronde": "8",
+      "datum": "03.04.2026",
+      "partijen": [
+        {
+          "wr": "",
+          "zr": "",
+          "wit": "Vonck, Alexandre",
+          "zwart": "Dekoster, Pascal",
+        },
+        {
+          "wr": "",
+          "zr": "",
+          "wit": "Verrijken, Geert",
+          "zwart": "Geraerts, Jelle",
+        },
+        {
+          "wr": "",
+          "zr": "",
+          "wit": "Morre, Matias",
+          "zwart": "Pletinckx, Eddy",
+        },
+        {
+      "wr": "",
+          "zr": "",
+          "wit": "Lot, Diederik",
+          "zwart": "Vandevelde, Jannes",
+        },
+        {
+      "wr": "",
+          "zr": "",
+          "wit": "Smeyers, Johan",
+          "zwart": "Laureys, Mats",
+        }
+      ]
+    },
+    {
+      "ronde": "9",
+      "datum": "17.04.2026",
+      "partijen": [
+        {
+      "wr": "",
+          "zr": "",
+          "wit": "Laureys, Mats",
+          "zwart": "Vonck, Alexandre",
+        },
+        {
+      "wr": "",
+          "zr": "",
+          "wit": "Vandevelde, Jannes",
+          "zwart": "Smeyers, Johan",
+        },
+        {
+      "wr": "",
+          "zr": "",
+          "wit": "Pletinckx, Eddy",
+          "zwart": "Lot, Diederik",
+        },
+        {
+      "wr": "",
+          "zr": "",
+          "wit": "Geraerts, Jelle",
+          "zwart": "Morre, Matias",
+        },
+        {
+      "wr": "",
+          "zr": "",
+          "wit": "Dekoster, Pascal",
+          "zwart": "Verrijken, Geert",
+        }
+      ]
+    }
+  ]
