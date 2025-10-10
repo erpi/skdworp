@@ -4,8 +4,8 @@
       "datum": "10.10.2025",
       "partijen": [
         {
-          "wr": "",
-          "zr": "",
+          "wr": "0",
+          "zr": "1F",
           "wit": "Cardella, Nathan",
           "zwart": "Lerinckx, Sander",
         },
@@ -16,22 +16,22 @@
           "zwart": "Wilmots, Yentl",
         },
         {
-          "wr": "",
-          "zr": "",
+          "wr": "0",
+          "zr": "1",
           "wit": "Spaens, Kjell",
           "zwart": "Vanderwaeren, Serge",
         
         },
         {
-          "wr": "",
-          "zr": "",
+          "wr": "1",
+          "zr": "0",
          	  "wit": "De Bosscher, Peter",
           "zwart": "Van Lerberghe, Torr",
         
         },
         {
-          "wr": "",
-          "zr": "",
+          "wr": "0",
+          "zr": "1",
         	  "wit": "Geraerts, Jules",
           "zwart": "Vanrossum, Mathias",
         }
