@@ -10,14 +10,14 @@
           "zwart": "Vonck, Alexandre",
         },
         {
-      "wr": "",
-          "zr": "",
+      "wr": "0",
+          "zr": "1",
           "wit": "Morre, Matias",
           "zwart": "Dekoster, Pascal",
         },
         {
-      "wr": "",
-          "zr": "",
+      "wr": "1",
+          "zr": "0",
           "wit": "Lot, Diederik",
           "zwart": "Geraerts, Jelle",
         },
@@ -28,8 +28,8 @@
           "zwart": "Pletinckx, Eddy",
         },
         {
-      "wr": "",
-          "zr": "",
+      "wr": "1",
+          "zr": "0",
           "wit": "Laureys, Mats",
           "zwart": "Vandevelde, Jannes",
         }
