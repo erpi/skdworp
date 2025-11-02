@@ -4,31 +4,31 @@
       "datum": "10.10.2025",
       "partijen": [
         {
-      "wr": "",
-          "zr": "",
+          "wr": "1",
+          "zr": "0",
           "wit": "Verrijken, Geert",
           "zwart": "Vonck, Alexandre",
         },
         {
-      "wr": "0",
+          "wr": "0",
           "zr": "1",
           "wit": "Morre, Matias",
           "zwart": "Dekoster, Pascal",
         },
         {
-      "wr": "1",
+          "wr": "1",
           "zr": "0",
           "wit": "Lot, Diederik",
           "zwart": "Geraerts, Jelle",
         },
         {
-      "wr": "",
-          "zr": "",
+          "wr": "0",
+          "zr": "1",
           "wit": "Smeyers, Johan",
           "zwart": "Pletinckx, Eddy",
         },
         {
-      "wr": "1",
+          "wr": "1",
           "zr": "0",
           "wit": "Laureys, Mats",
           "zwart": "Vandevelde, Jannes",
