@@ -27,12 +27,12 @@
     "ronde": "ronde 3",
     "datum": "16-11-2025",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "207 Les Deux Fous du Diogène 4"},
-      {"tr": "", "ur": "", "thuis": "901 Namur 4", "uit": "230 Leuven Centraal 9"},
-      {"tr": "", "ur": "", "thuis": "231 Dolle Toren Leuven 5", "uit": "228 Dworp 3"},
-      {"tr": "", "ur": "", "thuis": "261 Opwijk 5", "uit": "952 Wavre 4"},
+      {"tr": "3", "ur": "1", "thuis": "961 Braine Echecs 3", "uit": "207 Les Deux Fous du Diogène 4"},
+      {"tr": "4", "ur": "0", "thuis": "901 Namur 4", "uit": "230 Leuven Centraal 9"},
+      {"tr": "1", "ur": "3", "thuis": "231 Dolle Toren Leuven 5", "uit": "228 Dworp 3"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "261 Opwijk 5", "uit": "952 Wavre 4"},
       {"tr": "", "ur": "", "thuis": "Bye", "uit": "278 Ixelles CC 8"},
-      {"tr": "", "ur": "", "thuis": "226 Europchess 4", "uit": "244 Brussels CC 4"}
+      {"tr": "3", "ur": "1", "thuis": "226 Europchess 4", "uit": "244 Brussels CC 4"}
     ]
   },
   {
