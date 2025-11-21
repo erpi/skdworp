@@ -42,20 +42,20 @@
       "datum": "14.11.2025",
       "partijen": [
         {
-	  "wr": "",
-          "zr": "",
+	  "wr": "0",
+          "zr": "1",
 	  "wit": "Lerinckx, Sander",
           "zwart": "Vanrossum, Mathias",
         },
         {
-	  "wr": "",
-          "zr": "",     
+	  "wr": "0.5",
+          "zr": "0.5",     
 	  "wit": "Van Lerberghe, Torr",
           "zwart": "Geraerts, Jules",
         },
         {
-  "wr": "",
-          "zr": "",          
+  "wr": "0.5",
+          "zr": "0.5",          
 "wit": "Vanderwaeren, Serge",
           "zwart": "De Bosscher, Peter",
         },
@@ -66,8 +66,8 @@
           "zwart": "Spaens, Kjell",
         },
         {
-  "wr": "",
-          "zr": "",
+  "wr": "0",
+          "zr": "1",
           "wit": "Cardella, Nathan",
           "zwart": "Cornelis, Eric",
         }
