@@ -39,12 +39,12 @@
     "ronde": "ronde 4",
     "datum": "23-11-2025",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "244 Brussels CC 3"},
-      {"tr": "", "ur": "", "thuis": "278 Ixelles CC 6", "uit": "229 Woluwe 1"},
-      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 6", "uit": "226 Europchess 3"},
-      {"tr": "", "ur": "", "thuis": "228 Dworp 2", "uit": "261 Opwijk 3"},
-      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 4", "uit": "525 Anderlues 1"},
-      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 1", "uit": "233 DZD Halle 1"}
+      {"tr": "3", "ur": "1", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "244 Brussels CC 3"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "278 Ixelles CC 6", "uit": "229 Woluwe 1"},
+      {"tr": "2", "ur": "2", "thuis": "230 Leuven Centraal 6", "uit": "226 Europchess 3"},
+      {"tr": "1", "ur": "3", "thuis": "228 Dworp 2", "uit": "261 Opwijk 3"},
+      {"tr": "0.5", "ur": "3.5", "thuis": "548 Caïssa Europe Mons 4", "uit": "525 Anderlues 1"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "961 Braine Echecs 1", "uit": "233 DZD Halle 1"}
     ]
   },
   {
