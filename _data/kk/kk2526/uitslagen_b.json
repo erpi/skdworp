@@ -76,8 +76,8 @@
       "datum": "12.12.2025",
       "partijen": [
         {
-         "wr": "",
-          "zr": "",
+         "wr": "0",
+          "zr": "1",
           "wit": "Morre, Matias",
           "zwart": "Vonck, Alexandre",
         },
@@ -100,8 +100,8 @@
           "zwart": "Geraerts, Jelle",
         },
         {
-         "wr": "",
-          "zr": "",
+         "wr": "0",
+          "zr": "1",
           "wit": "Vandevelde, Jannes",
           "zwart": "Pletinckx, Eddy",
         }
