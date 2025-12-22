@@ -1,5 +1,5 @@
 ---
-description: 
+description: "De afgelopen weken was basisschool De Bijenkorf in Sint-Gillis-bij-Dendermonde het theater van een bijlessenreeks ‘schaken’. De Dendermondse school biedt een extra leerprikkel."
 tag: varia
 title: Schaken op school scherpt heel wat vaardigheden aan
 auteur: Ruben
