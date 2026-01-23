@@ -156,14 +156,14 @@
           "zwart": "Lerinckx, Sander",
         },
         {
-   "wr": "",
-          "zr": "",
+   "wr": "0.5",
+          "zr": "0.5",
           "wit": "De Bosscher, Peter",
           "zwart": "Cornelis, Eric",
         },
         {
-   "wr": "",
-          "zr": "",
+   "wr": "1F",
+          "zr": "0F",
           "wit": "Geraerts, Jules",
           "zwart": "Cardella, Nathan",
         },
@@ -174,8 +174,8 @@
           "zwart": "Wilmots, Yentl",
         },
         {
-   "wr": "",
-          "zr": "",
+   "wr": "0",
+          "zr": "1",
           "wit": "Van Lerberghe, Torr",
           "zwart": "Vanderwaeren, Serge",
         }
