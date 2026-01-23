@@ -150,14 +150,14 @@
       "time": "20:00",
       "partijen": [
         {
-         "wr": "",
-          "zr": "",
+         "wr": "1",
+          "zr": "0",
           "wit": "Lot, Diederik",
           "zwart": "Vonck, Alexandre",
         },
         {
-         "wr": "",
-          "zr": "",
+         "wr": "0.5",
+          "zr": "0.5",
           "wit": "Smeyers, Johan",
           "zwart": "Morre, Matias",
         },
@@ -168,14 +168,14 @@
           "zwart": "Verrijken, Geert",
         },
         {
-         "wr": "",
-          "zr": "",
+         "wr": "0",
+          "zr": "1",
           "wit": "Vandevelde, Jannes",
           "zwart": "Dekoster, Pascal",
         },
         {
-         "wr": "",
-          "zr": "",
+         "wr": "1",
+          "zr": "0",
           "wit": "Pletinckx, Eddy",
           "zwart": "Geraerts, Jelle",
         }
