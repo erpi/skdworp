@@ -63,12 +63,12 @@
     "ronde": "ronde 6",
     "datum": "25-01-2026",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 4", "uit": "278 Ixelles CC 8"},
-      {"tr": "", "ur": "", "thuis": "952 Wavre 4", "uit": "244 Brussels CC 4"},
-      {"tr": "", "ur": "", "thuis": "228 Dworp 3", "uit": "226 Europchess 4"},
+      {"tr": "0", "ur": "4", "thuis": "207 Les Deux Fous du Diogène 4", "uit": "278 Ixelles CC 8"},
+      {"tr": "2", "ur": "2", "thuis": "952 Wavre 4", "uit": "244 Brussels CC 4"},
+      {"tr": "1.5", "ur": "2.5", "thuis": "228 Dworp 3", "uit": "226 Europchess 4"},
       {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 9", "uit": "Bye"},
-      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "261 Opwijk 5"},
-      {"tr": "", "ur": "", "thuis": "901 Namur 4", "uit": "231 Dolle Toren Leuven 5"}
+      {"tr": "1.5", "ur": "2.5", "thuis": "961 Braine Echecs 3", "uit": "261 Opwijk 5"},
+      {"tr": "2", "ur": "2", "thuis": "901 Namur 4", "uit": "231 Dolle Toren Leuven 5"}
     ]
   },
   {
