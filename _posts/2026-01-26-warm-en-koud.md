@@ -57,7 +57,7 @@ Het begon alleszins goed want co-clubkampioen Pascal -invaller voor de nog met
 examens worstelende Yentl- had ogenschijnlijk weinig problemen met zijn
 tegenstander. Met zwart maakte hij er relatief snel gehakt van.
 
-Ook Frank op 4 met wit maakte het vlot af. Zijn tegenstander behandelde de opening
+Ook Frank op 4 met zwart maakte het vlot af. Zijn tegenstander behandelde de opening
 zwak en daarvan maakte onze man optimaal gebruik. De witte stelling was van
 meet af aan superieur en Frank won snel een pion. Die was niet meer tegen te
 houden en dus 2-0 voor Dworp.
@@ -73,7 +73,7 @@ Hij hield de zaakjes gesloten en netjes onder controle. Tom stond nooit slechter
 liet in opkomende tijdnood zelfs een kans op beperkt voordeel liggen. De eindstelling
 was helemaal gelijk en dus 3,5-0,5. De matchpunten zijn binnen.
 
-Kjell gaf de overwinning meer glans op bord 5 met zwart. Zonder problemen nam hij
+Kjell gaf de overwinning meer glans op bord 5 met wit. Zonder problemen nam hij
 de maat van zijn tegenstander. Met 5/6 is Kjell prima bezig. Houden zo. 4,5-0,5.
 
 Ik zeg het niet graag maar dit seizoen ben ik (Geert) het kneusje. Nochtans kwam ik
