@@ -58,7 +58,7 @@ examens worstelende Yentl- had ogenschijnlijk weinig problemen met zijn
 tegenstander. Met zwart maakte hij er relatief snel gehakt van.
 
 Ook Frank op 4 met zwart maakte het vlot af. Zijn tegenstander behandelde de opening
-zwak en daarvan maakte onze man optimaal gebruik. De witte stelling was van
+zwak en daarvan maakte onze man optimaal gebruik. De zwarte stelling was van
 meet af aan superieur en Frank won snel een pion. Die was niet meer tegen te
 houden en dus 2-0 voor Dworp.
 
