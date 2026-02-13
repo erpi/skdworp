@@ -186,8 +186,8 @@
       "datum": "13.02.2026",
       "partijen": [
         {
-          "wr": "",
-          "zr": "",
+          "wr": "1",
+          "zr": "0",
           "wit": "Vonck, Alexandre",
           "zwart": "Geraerts, Jelle",
         },
@@ -204,8 +204,8 @@
           "zwart": "Vandevelde, Jannes",
         },
         {
-          "wr": "",
-          "zr": "",
+          "wr": "0",
+          "zr": "1",
           "wit": "Morre, Matias",
           "zwart": "Laureys, Mats",
         },
