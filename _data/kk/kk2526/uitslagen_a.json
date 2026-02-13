@@ -186,14 +186,14 @@
       "datum": "13.02.2026",
       "partijen": [
         {
-   "wr": "",
-          "zr": "",
+   "wr": "0",
+          "zr": "1",
           "wit": "Lerinckx, Sander",
           "zwart": "Vanderwaeren, Serge",
         },
         {
-   "wr": "",
-          "zr": "",
+   "wr": "1",
+          "zr": "0",
           "wit": "Wilmots, Yentl",
           "zwart": "Van Lerberghe, Torr",
         },
@@ -204,8 +204,8 @@
           "zwart": "Vanrossum, Mathias",
         },
         {
-   "wr": "",
-          "zr": "",
+   "wr": "1",
+          "zr": "0",
           "wit": "Cornelis, Eric",
           "zwart": "Geraerts, Jules",
         },
