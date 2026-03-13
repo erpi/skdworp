@@ -222,8 +222,8 @@
       "datum": "13.03.2026",
       "partijen": [
         {
-     "wr": "",
-          "zr": "",
+     "wr": "0.5",
+          "zr": "0.5",
           "wit": "Smeyers, Johan",
           "zwart": "Vonck, Alexandre",
         },
@@ -234,20 +234,20 @@
           "zwart": "Lot, Diederik",
         },
         {
-     "wr": "",
-          "zr": "",
+     "wr": "1",
+          "zr": "0",
           "wit": "Vandevelde, Jannes",
           "zwart": "Morre, Matias",
         },
         {
-     "wr": "",
-          "zr": "",
+     "wr": "0",
+          "zr": "1",
           "wit": "Pletinckx, Eddy",
           "zwart": "Verrijken, Geert",
         },
         {
-     "wr": "",
-          "zr": "",
+     "wr": "0",
+          "zr": "1",
           "wit": "Geraerts, Jelle",
           "zwart": "Dekoster, Pascal",
         }
