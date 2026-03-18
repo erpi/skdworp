@@ -7,7 +7,7 @@ title: "Dworp legt concurrentie over de knie"
 auteur: Eric, Tom, Geert
 fotograaf: 
 date: 2026-03-16 20:00:00 +0100
-ni_ronde: 7
+ni_ronde: 9
 ni_d1_thuisploeg: Wetteren 3
 ni_d2_thuisploeg: Leuven Centraal 6
 ni_d3_thuisploeg: Waver 4
