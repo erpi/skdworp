@@ -114,14 +114,14 @@
       "datum": "09.01.2026",
       "partijen": [
         {
-   "wr": "",
-          "zr": "",
+   "wr": "0.5",
+          "zr": "0.5",
           "wit": "Lerinckx, Sander",
           "zwart": "Van Lerberghe, Torr",
         },
         {
-   "wr": "",
-          "zr": "",
+   "wr": "1",
+          "zr": "0",
           "wit": "Vanderwaeren, Serge",
           "zwart": "Vanrossum, Mathias",
         },
@@ -210,8 +210,8 @@
           "zwart": "Geraerts, Jules",
         },
         {
-   "wr": "",
-          "zr": "",
+   "wr": "1",
+          "zr": "0",
           "wit": "Spaens, Kjell",
           "zwart": "De Bosscher, Peter",
         }
