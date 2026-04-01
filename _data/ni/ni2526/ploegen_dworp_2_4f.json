@@ -111,12 +111,12 @@
     "ronde": "ronde 10",
     "datum": "29-03-2026",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "228 Dworp 2"},
-      {"tr": "", "ur": "", "thuis": "548 Caïssa Europe Mons 4", "uit": "230 Leuven Centraal 6"},
-      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 1", "uit": "278 Ixelles CC 6"},
-      {"tr": "", "ur": "", "thuis": "233 DZD Halle 1", "uit": "244 Brussels CC 3"},
-      {"tr": "", "ur": "", "thuis": "525 Anderlues 1", "uit": "229 Woluwe 1"},
-      {"tr": "", "ur": "", "thuis": "261 Opwijk 3", "uit": "226 Europchess 3"}
+      {"tr": "2.5", "ur": "1.5", "thuis": "207 Les Deux Fous du Diogène 2", "uit": "228 Dworp 2"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "548 Caïssa Europe Mons 4", "uit": "230 Leuven Centraal 6"},
+      {"tr": "4", "ur": "0", "thuis": "961 Braine Echecs 1", "uit": "278 Ixelles CC 6"},
+      {"tr": "0", "ur": "4", "thuis": "233 DZD Halle 1", "uit": "244 Brussels CC 3"},
+      {"tr": "2", "ur": "2", "thuis": "525 Anderlues 1", "uit": "229 Woluwe 1"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "261 Opwijk 3", "uit": "226 Europchess 3"}
     ]
   },
   {

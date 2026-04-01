@@ -111,11 +111,11 @@
     "ronde": "ronde 10",
     "datum": "29-03-2026",
     "uitslagen": [
-      {"tr": "", "ur": "", "thuis": "207 Les Deux Fous du Diogène 4", "uit": "228 Dworp 3"},
-      {"tr": "", "ur": "", "thuis": "230 Leuven Centraal 9", "uit": "952 Wavre 4"},
-      {"tr": "", "ur": "", "thuis": "961 Braine Echecs 3", "uit": "278 Ixelles CC 8"},
-      {"tr": "", "ur": "", "thuis": "901 Namur 4", "uit": "244 Brussels CC 4"},
-      {"tr": "", "ur": "", "thuis": "231 Dolle Toren Leuven 5", "uit": "226 Europchess 4"},
+      {"tr": "0.5", "ur": "3.5", "thuis": "207 Les Deux Fous du Diogène 4", "uit": "228 Dworp 3"},
+      {"tr": "2", "ur": "2", "thuis": "230 Leuven Centraal 9", "uit": "952 Wavre 4"},
+      {"tr": "2", "ur": "2", "thuis": "961 Braine Echecs 3", "uit": "278 Ixelles CC 8"},
+      {"tr": "2.5", "ur": "1.5", "thuis": "901 Namur 4", "uit": "244 Brussels CC 4"},
+      {"tr": "2", "ur": "2", "thuis": "231 Dolle Toren Leuven 5", "uit": "226 Europchess 4"},
       {"tr": "", "ur": "", "thuis": "261 Opwijk 5", "uit": "Bye"}
     ]
   },
