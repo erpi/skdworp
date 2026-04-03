@@ -258,14 +258,14 @@
       "datum": "03.04.2026",
       "partijen": [
         {
-   "wr": "",
-          "zr": "",
+   "wr": "0",
+          "zr": "1",
           "wit": "Lerinckx, Sander",
           "zwart": "Wilmots, Yentl",
         },
         {
-  "wr": "",
-          "zr": "",
+  "wr": "0F",
+          "zr": "1F",
           "wit": "Cardella, Nathan",
           "zwart": "Vanderwaeren, Serge",
         },
@@ -276,14 +276,14 @@
           "zwart": "Van Lerberghe, Torr",
         },
         {
-  "wr": "",
-          "zr": "",
+  "wr": "1",
+          "zr": "0",
           "wit": "Spaens, Kjell",
           "zwart": "Vanrossum, Mathias",
         },
         {
-  "wr": "",
-          "zr": "",
+  "wr": "1",
+          "zr": "0",
           "wit": "De Bosscher, Peter",
           "zwart": "Geraerts, Jules",
         }
