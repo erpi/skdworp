@@ -294,8 +294,8 @@
       "datum": "17.04.2026",
       "partijen": [
         {
-      "wr": "",
-          "zr": "",
+      "wr": "0",
+          "zr": "1",
           "wit": "Laureys, Mats",
           "zwart": "Vonck, Alexandre",
         },
@@ -306,20 +306,20 @@
           "zwart": "Smeyers, Johan",
         },
         {
-      "wr": "",
-          "zr": "",
+      "wr": "0",
+          "zr": "1",
           "wit": "Pletinckx, Eddy",
           "zwart": "Lot, Diederik",
         },
         {
-      "wr": "",
-          "zr": "",
+      "wr": "0",
+          "zr": "1",
           "wit": "Geraerts, Jelle",
           "zwart": "Morre, Matias",
         },
         {
-      "wr": "",
-          "zr": "",
+      "wr": "0",
+          "zr": "1",
           "wit": "Dekoster, Pascal",
           "zwart": "Verrijken, Geert",
         }
