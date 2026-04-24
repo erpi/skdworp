@@ -19,7 +19,7 @@ stelling_uitleg:
 stelling_oplossing: 
 description: "Het seizoen in schoonheid afsluiten deden we uiteraard in ons eigen vertrouwde ‘t Oud Kasteel in Essenbeek."
 image:
-  path: assets/images/1819/geert.jpg
+  path: assets/images/2526/ni/r11_performance_fb.jpg
 draft: false
 noindex: false
 pgn_viewer: false
@@ -84,11 +84,9 @@ Rest me nog iedereen te danken die aan het welslagen van dit interclubseizoen he
 
 Dit is meteen ook mijn (Geert) laatste verslag. ‘Partir, c’est mourir un peu’ maar evengoed: bomen ontmoeten elkaar niet, mensen wel. Echt dood ben ik niet, alleen niet zo honkvast en weg naar Gent. Dat ligt vanuit Dworp bekeken ergens in de melkweg. ‘Nie neute, nie pleuje’ hé mannen. Ciao.
 
+<br />
+[Geert, vooral jij, bedankt voor alles wat je de afgelopen 10 jaar bij elkaar hebt geschreven! Dworp gaat je ongetwijfeld heel hard missen!]
 
-![foto Geert tijdens de Memorial van 2019][foto 2]
-
-[**Geert, vooral jij bedankt! 't Is ongelooflijk wat je de afgelopen 10 jaar bij elkaar hebt geschreven. Dworp gaat je heel hard missen!**]
-
+<br />
 
 [foto 1]: {{ "/assets/images/2526/ni/r11_performance.jpg" | absolute_url }}
-[foto 2]: {{ "/assets/images/1819/geert.jpg" | absolute_url }}
