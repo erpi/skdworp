@@ -19,7 +19,7 @@ stelling_uitleg:
 stelling_oplossing: 
 description: "Het seizoen in schoonheid afsluiten deden we uiteraard in ons eigen vertrouwde ‘t Oud Kasteel in Essenbeek."
 image:
-  path: assets/images/2526/ni/r11_performance_fb.jpg
+  path: assets/images/2526/ni/r11_dworp_3_fb.jpg
 draft: false
 noindex: false
 pgn_viewer: false
@@ -36,6 +36,8 @@ pgn_viewer: false
 
 Het bezoekende tweede team van Bosvoorde kwam niet helemaal op zijn sterkst ons lokaal binnengewandeld maar het bleef wel een te duchten tegenstander. Het begon ook niet al te goed. Diederik trok de lijn van de vorige rondes door en verloor/offerde met wit ergens een stuk. Hoewel hij tegenspel kreeg, overzag onze man ergens een venijnig tussenschaakje. Jammer maar helaas, het staat 0-1.
 
+![foto eerste ploeg][foto 1]
+
 Daarna volgde een remise op bord 4. Frank met zwart stond een hele partij lang erg prettig. Hij profiteerde van een foutje en won een pion. Die had hij mits lang secuur spelen, kunnen omzetten in winst. Helaas mispakte Frank zich onderweg aan een venijnige penning en dus 0,5-1,5.
 
 Ook topbord Tom deed het goed met wit. We laten het hem zelf expliceren: “Mijn partij illustreert zowat alles van de laatste seizoenen. Om te beginnen de bevestiging van mijn slecht geheugen. Ten eerste omdat ik straal vergeten was dat ik vorig jaar in februari tegen dezelfde tegenstander speelde -en verloor.  Als je er het verslag op naleest door ietwat gebrek aan concentratie en inzet toen. Dat komt misschien omdat ik wat losser speel tegen sympathieke tegenstanders, zoals vandaag. Al was de concentratie wel goed. En ook slecht geheugen omdat ik na zet 5 van zwart weer moest gaan denken. Gelukkig deed hij dat ook. Het enige waar ik zeker van was ‘dit is een zeer bekende theoretische opening met heel ingewikkeld spel en kansen voor beiden’.  Achteraf vind je in de databases partijen van topgrootmeesters met nieuwtjes of omwisseling van zetten op zet 20. Zo ver zijn wij niet geraakt. Ik had op zet 7 een zijweg gekozen, blijkbaar goed gekend in de theorie en dat houdt een pionoffer in. Tijdelijk, zo hoopte ik. Op zet 12 had ik nog 40 minuten over en hij nog dik 20. Amai. En toen stelde hij remise voor. Ik zag niet meteen een goed plan en nam het voorstel aan. Content, want het seizoen zonder accident afgesloten en niet verloren van een 2157. Achteraf zegt de computer +1.1 voor mij, in de eindstelling. Huh?  Dus toch een mini-kater. Blijkbaar zou ik de pion terugwinnen, vele zetten later en ondertussen een dynamisch voordeel houden, met wat dreigingen. Tot hier had ik 96% nauwkeurigheid. Niets zegt dat ik het lang had volgehouden, zo'n niveau. Dus toch maar content zijn...” 1-2.
@@ -50,6 +52,8 @@ Ook Yentl op het zesde bord met wit had het moeilijk. Zijn stelling stond al sne
 
 De eerste ploeg van Caissa Europe gaf in tweede afdeling algemeen forfait na de zesde ronde. Allicht verklaart dit waarom ze in Essenbeek opdaagden met een sterke vierde ploeg. Hun speler op de borden 2 en 3 waren duidelijk beter, op bord 4 waren ze iets zwakker.
 
+![foto tweede ploeg][foto 2]
+
 Serge met wit op 1 was als eerste klaar. In de eindstelling stond eerder zwart beter maar hij had wel een uur bedenktijd meer verbruikt. De ploegverantwoordelijke ging snel akkoord met remise.
 
 Eddy met zwart op 4 belandde naar eigen zeggen door zetverwisseling in een speltype dat hij niet goed kende. Zeker, wit had ontwikkelingsvoorsprong maar zo erg was het allemaal niet. Uiteindelijk werd het evenwicht hersteld en op de 21ste zet sloeg Eddy een stuk en stelde remise voor. Wit nam het snel aan. 1-1.
@@ -61,6 +65,8 @@ Invaller Alex met wit op 3 tegen de sterke Patrice Marchal kwam goed uit openin
 ## Fraai tweede, congrats jeugdploeg!
 
 Dworp 3 ontving het in de rangschikking laag gequoteerde Leuven. Op basis van hun sterke eerste bord waren zij Elogewijs wel favoriet. Torr met zwart op bord 4 vloog er evenals zijn tegenstander goed in. Toch werd redelijk snel remise overeengekomen.
+
+![foto derde ploeg][foto 3]
 
 Nathan met wit op 3 won eerst een pion en na een tactische schermutseling bleek er bij de tegenstander ook nog een stuk af te gaan. Goed gedaan, we staan 1,5-0,5 voor.
 
@@ -78,7 +84,7 @@ De Oscar voor de beste ploeg gaat dit interclubseizoen wel naar onze jeugdploeg,
 
 En dan zijn er nog de individuele scores. De prijs voor de inzet gaat dit jaar naar Eddy die 7,5/11 haalde bij een tpr van 1897. Proficiat! Kjell moet daar in het eerste team met 7/11 en een tpr van 1974 nauwelijks voor onderdoen. Fraai is ook de prestatie van topbord Tom, 6,5/11 (2059 tpr) en Serge deed het op bord 1 van team 2 eveneens niet onaardig met 6,5/11 en een tpr van 1997. Uitblinker bij de jeugd is Nathan. Hij haalde 4 uit 5 en vooral een mooie tpr van 1818. Torr speelde eveneens goed: 3,5/5 en 1684 tpr. Alle individuele uitslagen zijn terug te vinden in onderstaande tabel.
 
-![tabel met prestaties][foto 1]
+![tabel met prestaties][foto 4]
 
 Rest me nog iedereen te danken die aan het welslagen van dit interclubseizoen heeft bijgedragen. Dat zijn er nogal wat: de werkers achter de schermen, vooral Peter en Eddy die elke thuismatch trouw tafels, stoelen en stukken opstelden. Peter leidde ook de administratie in goede banen en ‘speelde’ chauffeur. Verder natuurlijk ook Pieter die deze onvolprezen verslagen telkens weer vanuit het verre Herentals online zet. Dank! En excuus aan wie ik vergeet te vermelden, het is niet met opzet.
 
@@ -89,4 +95,8 @@ Dit is meteen ook mijn (Geert) laatste verslag. ‘Partir, c’est mourir un peu
 
 <br />
 
-[foto 1]: {{ "/assets/images/2526/ni/r11_performance.jpg" | absolute_url }}
+[foto 1]: {{ "/assets/images/2526/ni/r11_dworp_1.jpg" | absolute_url }}
+[foto 2]: {{ "/assets/images/2526/ni/r11_dworp_2.jpg" | absolute_url }}
+[foto 3]: {{ "/assets/images/2526/ni/r11_dworp_3.jpg" | absolute_url }}
+[foto 4]: {{ "/assets/images/2526/ni/r11_performance.jpg" | absolute_url }}
+
