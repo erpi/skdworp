@@ -10,8 +10,8 @@
           "zwart": "Lerinckx, Sander",
         },
         {
-          "wr": "",
-          "zr": "",
+          "wr": "0",
+          "zr": "1",
           "wit": "Cornelis, Eric",
           "zwart": "Wilmots, Yentl",
         },
@@ -150,8 +150,8 @@
       "datum": "23.01.2026",
       "partijen": [
         {
-   "wr": "",
-          "zr": "",
+   "wr": "0F",
+          "zr": "0F",
           "wit": "Spaens, Kjell",
           "zwart": "Lerinckx, Sander",
         },
@@ -168,8 +168,8 @@
           "zwart": "Cardella, Nathan",
         },
         {
-   "wr": "",
-          "zr": "",
+   "wr": "0F",
+          "zr": "0F",
           "wit": "Vanrossum, Mathias",
           "zwart": "Wilmots, Yentl",
         },
@@ -198,8 +198,8 @@
           "zwart": "Van Lerberghe, Torr",
         },
         {
-   "wr": "",
-          "zr": "",
+   "wr": "0F",
+          "zr": "1F",
           "wit": "Cardella, Nathan",
           "zwart": "Vanrossum, Mathias",
         },
@@ -294,8 +294,8 @@
       "datum": "17.04.2026",
       "partijen": [
         {
-  "wr": "",
-          "zr": "",
+  "wr": "0F",
+          "zr": "0F",
           "wit": "Geraerts, Jules",
           "zwart": "Lerinckx, Sander",
         },
