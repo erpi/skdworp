@@ -13,7 +13,7 @@ ni_d1_uitploeg: Dworp 1
 ni_d2_uitploeg: Dworp 2
 ni_d3_uitploeg: Dworp 3
 ni_d4_uitploeg: Dworp 4
-stelling_fen: 2k4r/ppp2p2/2np2b1/2b1p3/2B1P2q/2PP1R1P/PP1Q1p2/2K4R b - - 0 1
+stelling_fen: '2k4r/ppp2p2/2np2b1/2b1p3/2B1P2q/2PP1R1P/PP1Q1p2/2K4R b - - 0 1'
 stelling_titel: Een crazy dame offer
 stelling_wit: Padovano
 stelling_zwart: Nathan
