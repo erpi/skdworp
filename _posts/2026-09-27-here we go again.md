@@ -17,7 +17,7 @@ stelling_fen: 2k4r/ppp2p2/2np2b1/2b1p3/2B1P2q/2PP1R1P/PP1Q1p2/2K4R b - - 0 1
 stelling_titel: Een crazy dame offer
 stelling_wit: Padovano
 stelling_zwart: Nathan
-stelling_uitleg: Lh5 lijkt sterk voordel en zouden waarschijnlijk de meeste spelen maar Nathan schuwde de risco's niet
+stelling_uitleg: Lh5 geeft sterk voordeel en zou waarschijnlijk bijna iedereen spelen maar Nathan schuwde de risico's niet
 stelling_oplossing: Dxh3 ?! En wit vond de eeuwig schaak niet, moest promotie toestaan en ging nadien snel mat.
 description: "Het nieuwe interclubseizoen is begonnen, en dit jaar treden we met maar liefst vier ploegen aan. "
 image:
@@ -25,11 +25,11 @@ draft: false
 noindex: false
 pgn_viewer: false
 ---
-**Het nieuwe interclubseizoen is begonnen, en dit jaar treden we met maar liefst vier ploegen aan. **<!--more-->
+Het nieuwe interclubseizoen is begonnen, en dit jaar treden we met maar liefst vier ploegen aan. <!--more-->
 
-**Voor onze jeugd betekent dat zelfs een eerste avontuur in de pas opgerichte zesde klasse. **
+Voor onze jeugd betekent dat zelfs een eerste avontuur in de pas opgerichte zesde klasse.
 
-**De openingsronde leverde meteen stevige tegenstand en enkele mooie partijen op. **
+De openingsronde leverde meteen stevige tegenstand en enkele mooie partijen op.
 
 ## Eerste ploeg: kansloos tegen Bosvoorde
 
