@@ -18,7 +18,7 @@ stelling_titel: Een crazy dame offer
 stelling_wit: Padovano
 stelling_zwart: Nathan
 stelling_uitleg: Lh5 lijkt sterk voordel en zouden waarschijnlijk de meeste spelen maar Nathan schuwde de risco's niet
-stelling_oplossing: Dxh3 ?! En wit vond de eeuwig schaak niet en ging uiteindelijk mat
+stelling_oplossing: Dxh3 ?! En wit vond de eeuwig schaak niet, moest promotie toestaan en ging nadien snel mat.
 description: "Het nieuwe interclubseizoen is begonnen, en dit jaar treden we met maar liefst vier ploegen aan. "
 image:
 draft: false
