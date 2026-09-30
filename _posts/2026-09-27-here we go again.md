@@ -15,8 +15,8 @@ ni_d3_uitploeg: Dworp 3
 ni_d4_uitploeg: Dworp 4
 stelling_fen: 2k4r/ppp2p2/2np2b1/2b1p3/2B1P2q/2PP1R1P/PP1Q1p2/2K4R b - - 2 22
 stelling_titel: Een crazy dame offer
-stelling_wit: 
-stelling_zwart: 
+stelling_wit: Padovano
+stelling_zwart: Nathan
 stelling_uitleg: Lh5 lijkt sterk voordel en zouden waarschijnlijk de meeste spelen maar Nathan schuwde de risco's niet
 stelling_oplossing: Dxh3 ?! En wit vond de eeuwig schaak niet en ging uiteindelijk mat
 description: "Het nieuwe interclubseizoen is begonnen, en dit jaar treden we met maar liefst vier ploegen aan. "
