@@ -1,1 +1,326 @@
-
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "16-10-2026",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pletinckx Eddy",
+        "zwart": "Smeyers Johan"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Lot Nathan",
+        "zwart": "Vanrossum Mathias"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geraerts Jelle",
+        "zwart": "Vonck Alexandre"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vanderwaeren Serge",
+        "zwart": "Malfliet Bernard"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Dekoster Pascal",
+        "zwart": "Lerinckx Sander"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "23-10-2026",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Smeyers Johan",
+        "zwart": "Lerinckx Sander"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Malfliet Bernard",
+        "zwart": "Dekoster Pascal"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vonck Alexandre",
+        "zwart": "Vanderwaeren Serge"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vanrossum Mathias",
+        "zwart": "Geraerts Jelle"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pletinckx Eddy",
+        "zwart": "Lot Nathan"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "13-11-2026",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Lot Nathan",
+        "zwart": "Smeyers Johan"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geraerts Jelle",
+        "zwart": "Pletinckx Eddy"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vanderwaeren Serge",
+        "zwart": "Vanrossum Mathias"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Dekoster Pascal",
+        "zwart": "Vonck Alexandre"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Lerinckx Sander",
+        "zwart": "Malfliet Bernard"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "04-12-2026",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Smeyers Johan",
+        "zwart": "Malfliet Bernard"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vonck Alexandre",
+        "zwart": "Lerinckx Sander"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vanrossum Mathias",
+        "zwart": "Dekoster Pascal"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pletinckx Eddy",
+        "zwart": "Vanderwaeren Serge"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Lot Nathan",
+        "zwart": "Geraerts Jelle"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "08-01-2027",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geraerts Jelle",
+        "zwart": "Smeyers Johan"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vanderwaeren Serge",
+        "zwart": "Lot Nathan"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Dekoster Pascal",
+        "zwart": "Pletinckx Eddy"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Lerinckx Sander",
+        "zwart": "Vanrossum Mathias"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Malfliet Bernard",
+        "zwart": "Vonck Alexandre"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "05-02-2027",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Smeyers Johan",
+        "zwart": "Vonck Alexandre"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vanrossum Mathias",
+        "zwart": "Malfliet Bernard"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pletinckx Eddy",
+        "zwart": "Lerinckx Sander"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Lot Nathan",
+        "zwart": "Dekoster Pascal"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geraerts Jelle",
+        "zwart": "Vanderwaeren Serge"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "19-02-2027",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vanderwaeren Serge",
+        "zwart": "Smeyers Johan"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Dekoster Pascal",
+        "zwart": "Geraerts Jelle"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Lerinckx Sander",
+        "zwart": "Lot Nathan"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Malfliet Bernard",
+        "zwart": "Pletinckx Eddy"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vonck Alexandre",
+        "zwart": "Vanrossum Mathias"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "19-03-2027",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Smeyers Johan",
+        "zwart": "Vanrossum Mathias"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Pletinckx Eddy",
+        "zwart": "Vonck Alexandre"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Lot Nathan",
+        "zwart": "Malfliet Bernard"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geraerts Jelle",
+        "zwart": "Lerinckx Sander"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vanderwaeren Serge",
+        "zwart": "Dekoster Pascal"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "16-04-2027",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Dekoster Pascal",
+        "zwart": "Smeyers Johan"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Lerinckx Sander",
+        "zwart": "Vanderwaeren Serge"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Malfliet Bernard",
+        "zwart": "Geraerts Jelle"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vonck Alexandre",
+        "zwart": "Lot Nathan"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vanrossum Mathias",
+        "zwart": "Pletinckx Eddy"
+      }
+    ]
+  }
+]
