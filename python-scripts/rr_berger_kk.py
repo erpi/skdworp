@@ -12,26 +12,30 @@ filename = "uitslagen.json"
 # an even number of players is required
 # add "Bye" player in last place when uneven
 playernames = [
-    "Eddy",
-    "Serge",
-    "Eric",
-    "Bernard",
-    "Peter",
-    "Jules",
-    "Kjell",
-    "Bye"
+    "Vanderwaeren Serge",
+    "Dekoster Pascal",
+    "Malfliet Bernard",
+    "Pletinckx Eddy",
+    "Vonck Alexandre",
+    "Vanrossum Mathias",
+    "Smeyers Johan",
+    "Lot Nathan",
+    "Lerinckx Sander",
+    "Geraerts Jelle"
     ]
 
 # a date for every round
 # when x players, we need x minus one dates
 dates = [
-    "06-10-2023",
-    "20-10-2023",
-    "10-11-2023",
-    "17-11-2023",
-    "01-12-2023",
-    "15-12-2023",
-    "05-01-2024"
+    "16-10-2026",
+    "23-10-2026",
+    "13-11-2026",
+    "04-12-2026",
+    "08-01-2027",
+    "05-02-2027",
+    "19-02-2027",
+    "19-03-2027",
+    "16-04-2027"
     ]
 
 nr_players = len(playernames)
