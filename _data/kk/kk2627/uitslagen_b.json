@@ -1,0 +1,326 @@
+[
+  {
+    "ronde": "ronde 1",
+    "datum": "16-10-2026",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Wilmots Yentl",
+        "zwart": "Van Lerberghe Torr"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Lot Diederik",
+        "zwart": "Cornelis Eric"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "De Bosscher Peter",
+        "zwart": "Vreven Dries"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vandevelde Jannes",
+        "zwart": "Laureys Mats"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geraerts Jules",
+        "zwart": "Morre Matias"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 2",
+    "datum": "23-10-2026",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Van Lerberghe Torr",
+        "zwart": "Morre Matias"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Laureys Mats",
+        "zwart": "Geraerts Jules"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vreven Dries",
+        "zwart": "Vandevelde Jannes"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Cornelis Eric",
+        "zwart": "De Bosscher Peter"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Wilmots Yentl",
+        "zwart": "Lot Diederik"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 3",
+    "datum": "13-11-2026",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Lot Diederik",
+        "zwart": "Van Lerberghe Torr"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "De Bosscher Peter",
+        "zwart": "Wilmots Yentl"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vandevelde Jannes",
+        "zwart": "Cornelis Eric"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geraerts Jules",
+        "zwart": "Vreven Dries"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Morre Matias",
+        "zwart": "Laureys Mats"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 4",
+    "datum": "04-12-2026",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Van Lerberghe Torr",
+        "zwart": "Laureys Mats"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vreven Dries",
+        "zwart": "Morre Matias"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Cornelis Eric",
+        "zwart": "Geraerts Jules"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Wilmots Yentl",
+        "zwart": "Vandevelde Jannes"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Lot Diederik",
+        "zwart": "De Bosscher Peter"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 5",
+    "datum": "08-01-2027",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "De Bosscher Peter",
+        "zwart": "Van Lerberghe Torr"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vandevelde Jannes",
+        "zwart": "Lot Diederik"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geraerts Jules",
+        "zwart": "Wilmots Yentl"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Morre Matias",
+        "zwart": "Cornelis Eric"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Laureys Mats",
+        "zwart": "Vreven Dries"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 6",
+    "datum": "05-02-2027",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Van Lerberghe Torr",
+        "zwart": "Vreven Dries"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Cornelis Eric",
+        "zwart": "Laureys Mats"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Wilmots Yentl",
+        "zwart": "Morre Matias"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Lot Diederik",
+        "zwart": "Geraerts Jules"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "De Bosscher Peter",
+        "zwart": "Vandevelde Jannes"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 7",
+    "datum": "19-02-2027",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vandevelde Jannes",
+        "zwart": "Van Lerberghe Torr"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geraerts Jules",
+        "zwart": "De Bosscher Peter"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Morre Matias",
+        "zwart": "Lot Diederik"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Laureys Mats",
+        "zwart": "Wilmots Yentl"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vreven Dries",
+        "zwart": "Cornelis Eric"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 8",
+    "datum": "19-03-2027",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Van Lerberghe Torr",
+        "zwart": "Cornelis Eric"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Wilmots Yentl",
+        "zwart": "Vreven Dries"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Lot Diederik",
+        "zwart": "Laureys Mats"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "De Bosscher Peter",
+        "zwart": "Morre Matias"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vandevelde Jannes",
+        "zwart": "Geraerts Jules"
+      }
+    ]
+  },
+  {
+    "ronde": "ronde 9",
+    "datum": "16-04-2027",
+    "partijen": [
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Geraerts Jules",
+        "zwart": "Van Lerberghe Torr"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Morre Matias",
+        "zwart": "Vandevelde Jannes"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Laureys Mats",
+        "zwart": "De Bosscher Peter"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Vreven Dries",
+        "zwart": "Lot Diederik"
+      },
+      {
+        "wr": "",
+        "zr": "",
+        "wit": "Cornelis Eric",
+        "zwart": "Wilmots Yentl"
+      }
+    ]
+  }
+]
