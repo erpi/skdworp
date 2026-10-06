@@ -5,7 +5,7 @@ ni_d2_thuisploeg: Bosvoorde 4
 ni_d3_thuisploeg: Philippeville
 ni_d4_thuisploeg: Bosvoorde 5
 title: "Een nieuwe start"
-auteur: Pascal, Diederik, AI
+auteur: Pascal, Dries, Eric, Diederik
 fotograaf: 
 date: 2026-09-27 20:00:00 +0100
 ni_ronde: 1
