@@ -41,7 +41,7 @@ Ook Jeno speelde een complexe partij. Na een discussie over de klok kwam de weds
 
 ## Tweede ploeg: winst tegen Bosvoorde 4
 
-Boitsfort 4 was verwaarloosbaar elo favoriet dus op papier was alles mogelijk, Alex begon op bord drie origineel door zijn eerste zet in het vakje van zet twee te noteren. Gelukkig kwam hij niet in tijdnood. In zijn typische steel ontstond een wilde complexe stelling waar alles mogelijk was maar na bijna drie uur spel ging Alex finaal in de fout en aan de nederlaag viel niet meer te ontsnappen.
+Boitsfort 4 was verwaarloosbaar elo favoriet dus op papier was alles mogelijk, Alex begon op bord drie origineel door zijn eerste zet in het vakje van zet twee te noteren. Gelukkig kwam hij niet in tijdnood. In zijn typische stijl ontstond een wilde complexe stelling waar alles mogelijk was maar na bijna drie uur spel ging Alex finaal in de fout en aan de nederlaag viel niet meer te ontsnappen.
 
 Bernard kreeg op bord één eveneens een boeiende partij. Zijn tegenstander offerde een stuk voor een gevaarlijke aanval, maar Bernard verdedigde nauwkeurig. Toen de aanval niet doorsloeg, gaf zijn materiële voorsprong de doorslag. Van Eddy's partij op bord vier kregen de omstaanders weinig mee en de indruk was zelfs dat hij wat minder stond. Even later kwam echter het goede nieuws: gewonnen.
 
@@ -61,11 +61,11 @@ Onze vierde ploeg bestaat volledig uit onze beste jeugd en kreeg bij haar debuut
 
 Dat geldt alvast voor Torr. Met zwart op bord één hield hij een tegenstander van 1784 Elo op remise en zette hij zijn sterke vorm van de Memorial Debast gewoon verder. Voor de partij vroeg Eric hem nog of hij in vorm was. Het antwoord was simpelweg: “Ja.” Verfrissend.
 
-Nathan kreeg met zwart een mooi openingsvoordeel maar ging onnodig over tot een spectaculair dame offer (zie diagram). Het was allemaal niet zo zuiver en zijn tegenstander mistte eeuwig schaak en ging vervolgens mat. Koelbloedig gespeeld en een mooi resultaat. 
+Nathan kreeg met zwart een mooi openingsvoordeel maar ging onnodig over tot een spectaculair dame offer (zie diagram). Het was allemaal niet zo zuiver en zijn tegenstander miste eeuwig schaak en ging vervolgens mat. Koelbloedig gespeeld en een mooi resultaat. 
 
 Matias kreeg op bord twee zijn vuurdoop bij onze club. Hij kwam snel onder druk te staan, bleef lang vechten, maar moest zich toch gewonnen geven. Ook Jules kon het op bord vier niet bolwerken door een onnauwkeurige dameruil (een beetje zoals bij Eric maar dan aan de verkeerde zijde).
 
-Zo werd het uiteindelijk een nipte 2,5–1,5 nederlaag. Gezien de forse Elo-verschillen zeker geen slechte start voor onze jonge ploeg en vooral veel potentieel naar de toekomst. Ook de promotie is zeker nog niet verloren, dit blijft nog steeds de ambitie al zal er volgende ronde in de derby  tegen de zwarte dame serieus geknokt moeten worden.
+Zo werd het uiteindelijk een nipte 2,5–1,5 nederlaag. Gezien de forse Elo-verschillen zeker geen slechte start voor onze jonge ploeg en vooral veel potentieel naar de toekomst. Ook de promotie is zeker nog niet verloren, dit blijft nog steeds de ambitie al zal er volgende ronde in de derby tegen de zwarte dame serieus geknokt moeten worden.
 
 ## Naspel
 
