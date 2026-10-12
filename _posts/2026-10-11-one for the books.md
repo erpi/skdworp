@@ -21,7 +21,7 @@ stelling_uitleg:
 stelling_oplossing: 
 description: "We beginnen met het goede nieuws: tijdens onze eerste thuismatch van het seizoen werd er nadien een stevig feestje gebouwd door onze sympathieke tegenstanders van CES."
 image: 
-  path: 'assets/images/2627/IMG_7341.jpg'
+  path: 'assets/images/2627/IMG_7341.jpeg'
 draft: false
 noindex: false
 pgn_viewer: false
@@ -68,3 +68,5 @@ Terug naar Dworp 1, waar het ondertussen wat minder rooskleurig was geworden. Ze
 Frank na een spectaculair ogende combinatie die jammer genoeg niet klopte en resulteerde in stukverlies, en Pascal na plots stukverlies (weliswaar al in een slechter eindspel). Ook Yentl kon zijn goede stelling niet converteren en moest berusten in remise (wel sterk gespeeld van zijn tegenstander). 
 
 Vreemd genoeg was de partij van Serge nog als laatste bezig, met misschien zelfs nog remisekansen op het einde, maar ook daar moest de kelk tot de bodem geledigd worden. Maar toch nog een lichtpuntje: er zijn in totaal nog vier ploegen met 0 punten in onze reeks waarvan wij de meeste bordpunten hebben. Dus alles kan nog, maar dan moeten we de volgende keer geschenken met een grote strik eromheen wel gaan uitpakken!
+
+[foto 1]: {{ "/assets/images/2627/IMG_7341.jpeg" | absolute_url }}
