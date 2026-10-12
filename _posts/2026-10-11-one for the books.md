@@ -20,7 +20,8 @@ stelling_zwart:
 stelling_uitleg: 
 stelling_oplossing: 
 description: "We beginnen met het goede nieuws: tijdens onze eerste thuismatch van het seizoen werd er nadien een stevig feestje gebouwd door onze sympathieke tegenstanders van CES."
-image: 'assets/images/2627/IMG_7341.jpg'
+image: 
+  path: 'assets/images/2627/IMG_7341.jpg'
 draft: false
 noindex: false
 pgn_viewer: false
