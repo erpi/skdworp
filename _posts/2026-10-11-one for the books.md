@@ -29,6 +29,8 @@ We beginnen met het goede nieuws: tijdens onze eerste thuismatch van het seizoen
 
 Hun overwinning van de 1ste ploeg zal hier misschien wel mee te maken gehad hebben (dat is het slechte nieuws, daarover later meer), maar misschien ook niet. Die mannen nemen namelijk elke ronde op verplaatsing een bak bier mee in hun koffer, voor het geval dat de thuisploeg geen of nauwelijks drank voorziet. Legendary! Tussen de zware bieren door werd er ook nog een begroting opgesteld met steun van beide kanten van de taalgrens; BDW en GLB mogen me altijd bellen.
 
+![][foto 1]
+
 Nadien werd er nog eens gezellig gepizzad bij Da Pippo. Serge wilde achteraf enkel met me meerijden als ik niet te veel gedronken had. Gelukkig heb ik een tester in de auto die slechts 3 promille aangaf op basis van de luchtcirculatie, waarna Serge gerustgesteld was.
 
 ## Eerst nog meer goed nieuws
