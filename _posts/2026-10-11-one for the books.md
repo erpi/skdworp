@@ -1,9 +1,9 @@
 ---
 tag: ni
 ni_d1_thuisploeg: Dworp 1
-ni_d2_thuisploeg: Dworp 1
-ni_d3_thuisploeg: Dworp 1
-ni_d4_thuisploeg: Dworp 1
+ni_d2_thuisploeg: Dworp 2
+ni_d3_thuisploeg: Dworp 3
+ni_d4_thuisploeg: Dworp 4
 title: "One for the books"
 auteur: Eric, Diederik
 fotograaf: Diederik
@@ -48,7 +48,7 @@ Peter verving Torr op bord 1, maar dat was enkel een versterking op papier. De Z
 
 In Dworp 3 liep het minder goed. Dries (die trouwens de pannen van het dak speelt in Ukkel op maandag) en Johan konden alle twee nog een remise uit de brand slepen in een slechtere stelling. Sander sloeg in de opening echter al snel een duister wandelpad in. Wat nadien op het bord kwam was absolute chaos die bovendien nog uren aansleepte, maar uiteindelijk was de aanval van wit toch te sterk. Ook Alex verloor op zijn 'Alexs' na een overweldigende stelling met mooie aanvalskansen maar uiteindelijk ook met stukverlies.
 
-## Voor Dworp 4 gaan we over naar het verslag van Eric
+## Voor Dworp 2 gaan we over naar het verslag van Eric
 
 Tegen de tweede ploeg van Sambreville gold: de zwartspelers hadden op alle borden een (iets) hogere Elorating.
 Bernard met wit op bord 1 dirigeerde nagenoeg al zijn stukken tegen de zwarte koning. Aanvallen is vaak gemakkelijker dan verdedigen. Op een bepaald moment kon hij een paard offeren met een doorslaande aanval, maar hij trok het stuk echter terug. Hoewel hij voordeel bleef houden, werd de stelling voor zwart toch een stuk lichter om te verdedigen. De spelers kwamen remise overeen.
