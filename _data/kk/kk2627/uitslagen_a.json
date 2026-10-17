@@ -4,20 +4,20 @@
     "datum": "16-10-2026",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Pletinckx Eddy",
         "zwart": "Smeyers Johan"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Lot Nathan",
         "zwart": "Vanrossum Mathias"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Geraerts Jelle",
         "zwart": "Vonck Alexandre"
       },
@@ -28,8 +28,8 @@
         "zwart": "Malfliet Bernard"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Dekoster Pascal",
         "zwart": "Lerinckx Sander"
       }
