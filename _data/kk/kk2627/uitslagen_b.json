@@ -40,26 +40,26 @@
     "datum": "23-10-2026",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Van Lerberghe Torr",
         "zwart": "Morre Matias"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0.5",
+        "zr": "0.5",
         "wit": "Laureys Mats",
         "zwart": "Geraerts Jules"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Vreven Dries",
         "zwart": "Vandevelde Jannes"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Cornelis Eric",
         "zwart": "De Bosscher Peter"
       },
