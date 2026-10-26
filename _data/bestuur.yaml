@@ -16,10 +16,10 @@
 # < en/of > teken kan ook probleem zijn in yaml. oplossing ???
 voorzitter:
   functie: voorzitter
-  naam: Eric Cornelis
-  telefoon: 02 360 32 87
-  gsm: 0470 65 17 54
-  email: SebMyn1aTO\\eeZW^]V`a^V`[  # vigenère
+  naam: Pascal Dekoster
+  telefoon:
+  gsm:
+  email:
 ondervoorzitter:
   functie: ondervoorzitter
   naam: Eddy Pletinckx
