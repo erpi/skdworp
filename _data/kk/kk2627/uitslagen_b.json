@@ -76,14 +76,14 @@
     "datum": "13-11-2026",
     "partijen": [
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Lot Diederik",
         "zwart": "Van Lerberghe Torr"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "0",
+        "zr": "1",
         "wit": "De Bosscher Peter",
         "zwart": "Wilmots Yentl"
       },
@@ -94,14 +94,14 @@
         "zwart": "Cornelis Eric"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Geraerts Jules",
         "zwart": "Vreven Dries"
       },
       {
-        "wr": "",
-        "zr": "",
+        "wr": "1",
+        "zr": "0",
         "wit": "Morre Matias",
         "zwart": "Laureys Mats"
       }
