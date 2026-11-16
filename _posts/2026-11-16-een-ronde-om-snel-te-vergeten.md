@@ -7,7 +7,7 @@ ni_d4_uitploeg: Dworp 4
 title: "Een ronde om snel te vergeten"
 auteur: Eric,Diederik
 fotograaf: 
-date: 2026-11-16 20:00:00 +0100
+date: 2026-11-16
 ni_ronde: 3
 ni_d1_thuisploeg: Caïssa Europe 2
 ni_d2_thuisploeg: Caïssa Europe 4
